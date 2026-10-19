@@ -16,7 +16,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-10-18T15:50:04.315696+00:00",
+  "generated_at_utc": "2026-10-19T00:16:58.996712+00:00",
   "in_season_transition": {
     "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     "completed_through_week": 5,
@@ -26,7 +26,7 @@
     ],
     "current_week_schedule_complete": false,
     "fantasypros_max_observed_week": 6,
-    "mapped_player_point_records": 403,
+    "mapped_player_point_records": 406,
     "nfl_season": "2026",
     "nfl_season_type": "regular",
     "nfl_week": 6,
@@ -39,7 +39,7 @@
   "injury_availability_adjustments": {
     "championship_horizon_end_week": 17,
     "current_week": 6,
-    "players_capped": 1,
+    "players_capped": 0,
     "players_evaluated": 479,
     "policy": "Projection-aware C-AVI ceiling. Updated projections/rankings get first chance to price the injury; the availability layer only caps residual overstatement and therefore does not multiply an already reduced projection.",
     "source_priority": [

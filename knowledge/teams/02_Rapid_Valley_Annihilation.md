@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1178861684281753600
 - Division: 2
 - Waiver position: 15
-- Last updated from Sleeper exports: 2026-10-18
+- Last updated from Sleeper exports: 2026-10-19
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 401.5
-- championship_lineup_c_avi_avg: 50.19
-- offensive_roster_c_avi_sum: 797.2
-- offensive_roster_c_avi_avg: 44.29
-- offensive_roster_d_avi_sum: 1152.1
-- offensive_roster_d_avi_avg: 64.01
+- championship_lineup_c_avi_sum: 401.0
+- championship_lineup_c_avi_avg: 50.12
+- offensive_roster_c_avi_sum: 796.2
+- offensive_roster_c_avi_avg: 44.23
+- offensive_roster_d_avi_sum: 1141.0
+- offensive_roster_d_avi_avg: 63.39
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Caleb Williams | C-AVI: 74.9 | D-AVI: 84.6
-- RB: Ollie Gordon | C-AVI: 42.2 | D-AVI: 54.4
-- RB: Justice Hill | C-AVI: 33.9 | D-AVI: 41.7
+- RB: Ollie Gordon | C-AVI: 42.0 | D-AVI: 51.1
+- RB: Justice Hill | C-AVI: 33.7 | D-AVI: 40.8
 - WR: Denzel Boston | C-AVI: 63.9 | D-AVI: 81.1
 - WR: Quentin Johnston | C-AVI: 44.1 | D-AVI: 68.5
 - TE: Colston Loveland | C-AVI: 60.8 | D-AVI: 85.9
-- FLEX: AJ Barner | C-AVI: 41.9 | D-AVI: 69.2
+- FLEX: AJ Barner | C-AVI: 41.8 | D-AVI: 68.5
 - FLEX: Omar Cooper | C-AVI: 39.8 | D-AVI: 70.9
 
 ## Current Roster — All Player Cards
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 71.6
-- Dynasty AVI (D-AVI, 0-100): 86.0
+- Championship AVI (C-AVI, 0-100): 71.5
+- Dynasty AVI (D-AVI, 0-100): 85.1
 - Projected PPR points: 196.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 42.2
-- Dynasty AVI (D-AVI, 0-100): 54.4
+- Championship AVI (C-AVI, 0-100): 42.0
+- Dynasty AVI (D-AVI, 0-100): 51.1
 - Projected PPR points: 23.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 33.9
-- Dynasty AVI (D-AVI, 0-100): 41.7
+- Championship AVI (C-AVI, 0-100): 33.7
+- Dynasty AVI (D-AVI, 0-100): 40.8
 - Projected PPR points: 67.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 31.0
-- Dynasty AVI (D-AVI, 0-100): 50.7
+- Championship AVI (C-AVI, 0-100): 30.7
+- Dynasty AVI (D-AVI, 0-100): 46.0
 - Projected PPR points: 44.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -325,8 +325,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 41.9
-- Dynasty AVI (D-AVI, 0-100): 69.2
+- Championship AVI (C-AVI, 0-100): 41.8
+- Dynasty AVI (D-AVI, 0-100): 68.5
 - Projected PPR points: 142.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -342,8 +342,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 41.1
-- Dynasty AVI (D-AVI, 0-100): 73.7
+- Championship AVI (C-AVI, 0-100): 41.0
+- Dynasty AVI (D-AVI, 0-100): 73.1
 - Projected PPR points: 81.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

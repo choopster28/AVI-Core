@@ -1,438 +1,456 @@
 {
-  "count": 24,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Jesse Garcia",
+      "author": "Jordan Epp",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-10-18 15:45:03",
-      "created_formated": "Sun, Oct 18th 3:45pm UTC",
-      "desc": "Saints WR Chris Olave (illness) is officially active for a Week 6 matchup with the Giants.",
-      "id": 614493,
-      "impact": "Olave was able to practice Friday but was listed as questionable to play as a precaution. The Saints will have their top pass catcher active against the Giants. ",
-      "link": "https://www.fantasypros.com/nfl/news/614493/chris-olave-illness-officially-active-week-6.php",
-      "player_id": 20111,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Chris Olave (illness) officially active for Week 6 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 15:44:04",
-      "created_formated": "Sun, Oct 18th 3:44pm UTC",
-      "desc": "Saints RB Alvin Kamara (back) is officially active for a Week 6 matchup with the Giants.",
-      "id": 614492,
-      "impact": "Kamara was considered questionable to play after being limited in practice throughout the week. Kamara is likely a flex play at best in deeper leagues right now. ",
-      "link": "https://www.fantasypros.com/nfl/news/614492/alvin-kamara-back-officially-active-week-6.php",
-      "player_id": 16421,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Alvin Kamara (back) officially active for Week 6"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 15:42:01",
-      "created_formated": "Sun, Oct 18th 3:42pm UTC",
-      "desc": "Bears DB Tyrique Stevenson Sr. (hip) is officially inactive for a Week 6 matchup with the Falcons.",
-      "id": 614491,
-      "impact": "Stevenson was limited in practice all week and will not be available against Drake London and the Falcons. Kyler Gordon (calf) was questionable to play, but is active and will suit up for the Bears. ",
-      "link": "https://www.fantasypros.com/nfl/news/614491/tyrique-stevenson-sr-hip-officially-inactive-week-6.php",
-      "player_id": 25263,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Tyrique Stevenson Sr. (hip) officially inactive for Week 6"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 15:40:13",
-      "created_formated": "Sun, Oct 18th 3:40pm UTC",
-      "desc": "Jets TE Kenyon Sadiq (concussion) is officially active for a Week 6 matchup with the Patriots.",
-      "id": 614490,
-      "impact": "Sadiq has cleared concussion protocol and will play against the Patriots after being listed questionable heading into Sunday. Sadiq and Mason Taylor will likely split time at tight end against New England. ",
-      "link": "https://www.fantasypros.com/nfl/news/614490/kenyon-sadiq-concussion-officially-active-week-6.php",
-      "player_id": 26055,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Kenyon Sadiq (concussion) officially active for Week 6"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 15:37:33",
-      "created_formated": "Sun, Oct 18th 3:37pm UTC",
-      "desc": "Colts TE Tyler Warren (groin) is officially inactive for Week 6.",
-      "id": 614489,
-      "impact": "Warren was a late addition to the injury report this week and was only able to practice in a limited capacity Friday. Mo Alie-Cox will see the bulk of the playing time at tight end against the Titans. ",
-      "link": "https://www.fantasypros.com/nfl/news/614489/tyler-warren-groin-officially-inactive-week-6.php",
-      "player_id": 26434,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Tyler Warren (groin) officially inactive for Week 6"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 15:33:13",
-      "created_formated": "Sun, Oct 18th 3:33pm UTC",
-      "desc": "Titans RB Tyjae Spears (knee) is officially active for a Week 6 matchup with the Colts. ",
-      "id": 614488,
-      "impact": "Spears was considered questionable to play as he continues to deal with a minor knee injury. Fantasy managers should expect both Spears and Tony Pollard to be involved in the Titans' backfield. ",
-      "link": "https://www.fantasypros.com/nfl/news/614488/tyjae-spears-knee-officially-active-week-6.php",
-      "player_id": 25323,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Tyjae Spears (knee) officially active for Week 6"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury",
-        "Breaking"
-      ],
-      "created": "2026-10-18 15:30:11",
-      "created_formated": "Sun, Oct 18th 3:30pm UTC",
-      "desc": "Browns RB Quinshon Judkins (ankle) will not play against the Ravens Sunday.",
-      "id": 614487,
-      "impact": "Judkins was listed as questionable to play this week and only practiced Friday for the Browns. With Judkins sidelined, \tJaleel McLaughlin and Audric Estime will see the bulk of the playing time at running back for the Browns. ",
-      "link": "https://www.fantasypros.com/nfl/news/614487/quinshon-judkins-ankle-will-not-play-sunday.php",
-      "player_id": 25391,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Quinshon Judkins (ankle) will not play Sunday "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-18 13:23:21",
-      "created_formated": "Sun, Oct 18th 1:23pm UTC",
-      "desc": "Devin Singletary is expected to be active for the New York Giants Sunday according to Jordan Raanan.",
-      "id": 614486,
-      "impact": "Singletary is part of a backfield shakeup for head coach John Harbaugh after Cam Skattebo's ball security issues, with the veteran to be part of a four-headed backfield attack along with Najee Harris, Tyrone Tracy Jr, and Skattebo Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/614486/devin-singletary-expected-to-be-active-sunday.php",
-      "player_id": 18280,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Devin Singletary expected to be active Sunday"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-18 13:19:52",
-      "created_formated": "Sun, Oct 18th 1:19pm UTC",
-      "desc": "Najee Harris will receive an increased workload for the New York Giants Sunday according to Jordan Raanan.",
-      "id": 614485,
-      "impact": "Harris will look to take advantage of increased opportunities for head coach John Harbaugh after Cam Skattebo struggled with ball security, with Devin Singletary and Tyrone Tracy Jr. also expected to be active Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/614485/najee-harris-to-see-increased-workload-week-6.php",
-      "player_id": 19302,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Najee Harris to see increased workload in Week 6"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 13:12:28",
-      "created_formated": "Sun, Oct 18th 1:12pm UTC",
-      "desc": "Mason Graham (knee/ankle) is not expected to play for the Cleveland Browns Sunday according to Adam Schefter.",
-      "id": 614484,
-      "impact": "Graham struggled to reach the practice field throughout the week for head coach Todd Monken and barring anything unforeseen will leave the Cleveland defensive front shorthanded against the Ravens Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/614484/mason-graham-kneeankle-not-expected-to-play-sunday.php",
-      "player_id": 27010,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Mason Graham (knee/ankle) not expected to play Sunday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 07:10:22",
-      "created_formated": "Sun, Oct 18th 7:10am UTC",
-      "desc": "There's reportedly \"optimism\" Baker Mayfield will return in Week 7 against the Panthers.",
-      "id": 614446,
-      "impact": "Mayfield didn't practice this week, but he resumed throwing on Monday. His status will need to be monitored in practice next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/614446/baker-mayfield-thumb-could-return-week-7.php",
-      "player_id": 17237,
-      "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Baker Mayfield (thumb) could return in Week 7"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 07:09:10",
-      "created_formated": "Sun, Oct 18th 7:09am UTC",
-      "desc": "Colts WR Alec Pierce is still a few weeks away from a return to game action.",
-      "id": 614445,
-      "impact": "Pierce was able to get out of his cast earlier this week. He remains week-to-week. ",
-      "link": "https://www.fantasypros.com/nfl/news/614445/alec-pierce-heel-weeks-away-from-returning.php",
-      "player_id": 23791,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Alec Pierce (heel) weeks away from returning"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 07:08:09",
-      "created_formated": "Sun, Oct 18th 7:08am UTC",
-      "desc": "Packers EDGE Micah Parsons still isn't practicing yet. ",
-      "id": 614444,
-      "impact": "The earliest Parsons may return is Week 9 according to Tom Pelissero. The Packers will play at least a few games without him. ",
-      "link": "https://www.fantasypros.com/nfl/news/614444/micah-parsons-knee-not-practicing-yet.php",
-      "player_id": 19784,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Micah Parsons (knee) not practicing yet"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 07:06:38",
-      "created_formated": "Sun, Oct 18th 7:06am UTC",
-      "desc": "Jacory Croskey-Merritt has been ruled out for Monday's game against the 49ers. ",
-      "id": 614443,
-      "impact": "Croskey-Merritt was unable to practice this week. Rachaad White and Austin Ekeler will lead the Commanders backfield. ",
-      "link": "https://www.fantasypros.com/nfl/news/614443/jacory-croskey-merritt-groin-ruled-out-monday.php",
-      "player_id": 27316,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Jacory Croskey-Merritt (groin) ruled out Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 07:05:40",
-      "created_formated": "Sun, Oct 18th 7:05am UTC",
-      "desc": "Stefon Diggs is listed as questionable for Monday's game against the 49ers. ",
-      "id": 614442,
-      "impact": "Diggs returned to practice on Friday. He'll be a game-time decision on Monday, but he seems to be trending in the right direction. ",
-      "link": "https://www.fantasypros.com/nfl/news/614442/stefon-diggs-hamstring-listed-questionable-monday.php",
-      "player_id": 13981,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Stefon Diggs (hamstring) listed questionable Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 07:04:33",
-      "created_formated": "Sun, Oct 18th 7:04am UTC",
-      "desc": "The Steelers placed Roman Wilson on injured reserve.",
-      "id": 614441,
-      "impact": "Wilson injured his finger last week. He will miss at least the next four games. ",
-      "link": "https://www.fantasypros.com/nfl/news/614441/roman-wilson-finger-placed-on-ir.php",
-      "player_id": 28896,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Roman Wilson (finger) placed on IR"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 07:03:41",
-      "created_formated": "Sun, Oct 18th 7:03am UTC",
-      "desc": "Marcus Mariota has been ruled out for Monday's game against the 49ers. ",
-      "id": 614440,
-      "impact": "Mariota will miss his second straight game. Athan Kaliakmanis will continue to serve as the primary backup to Jayden Daniels. ",
-      "link": "https://www.fantasypros.com/nfl/news/614440/marcus-mariota-knee-ruled-out-monday.php",
-      "player_id": 13890,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Marcus Mariota (knee) ruled out Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 07:02:38",
-      "created_formated": "Sun, Oct 18th 7:02am UTC",
-      "desc": "The Patriots activated A.J. Brown from injured reserve.",
-      "id": 614439,
-      "impact": "Brown will make his return for the first time since Week 1. He'll be a WR2 with some risk in his first game back for fantasy managers. ",
-      "link": "https://www.fantasypros.com/nfl/news/614439/aj-brown-ankle-activated-from-ir.php",
-      "player_id": 18218,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "A.J. Brown (ankle) activated from IR"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 07:01:25",
-      "created_formated": "Sun, Oct 18th 7:01am UTC",
-      "desc": "Deebo Samuel Sr. has been ruled out for Monday's game against the Commanders. ",
-      "id": 614438,
-      "impact": "Samuel will miss at least one game as expected. He remains week-to-week. ",
-      "link": "https://www.fantasypros.com/nfl/news/614438/deebo-samuel-sr-hamstring-ruled-out-monday.php",
-      "player_id": 18244,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Deebo Samuel Sr. (hamstring) ruled out Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 07:00:31",
-      "created_formated": "Sun, Oct 18th 7:00am UTC",
-      "desc": "Mike Evans has been listed as questionable for Monday's game against the Commanders. ",
-      "id": 614437,
-      "impact": "Evans was unable to practice through Friday. He will be a game-time decision on Monday. ",
-      "link": "https://www.fantasypros.com/nfl/news/614437/mike-evans-ribsachilles-listed-questionable-monday.php",
-      "player_id": 12119,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Mike Evans (ribs/Achilles) listed questionable Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-18 06:59:21",
-      "created_formated": "Sun, Oct 18th 6:59am UTC",
-      "desc": "Christian Kirk has been listed as questionable for Monday's game against the Commanders. ",
-      "id": 614436,
-      "impact": "Kirk could make his return from injured reserve. We likely won't know his status till Monday. ",
-      "link": "https://www.fantasypros.com/nfl/news/614436/christian-kirk-calf-listed-questionable-monday.php",
-      "player_id": 17268,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Christian Kirk (calf) listed questionable Monday "
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-17 20:45:47",
-      "created_formated": "Sat, Oct 17th 8:45pm UTC",
-      "desc": "Ja'Kobi Lane (wrist) has been activated from IR, clearing the way for him to return against Cleveland.",
-      "id": 614435,
-      "impact": "Lane has been out since fracturing his wrist in Week 1, so it will be interesting to see what his snap counts and route shares look like after the IR stint. The team praised him all offseason and focused on him during his brief playing time in Week 1, so hopefully he will be able to find himself a decent role as the WR2 of the offense.",
-      "link": "https://www.fantasypros.com/nfl/news/614435/jakobi-lane.php",
-      "player_id": 27337,
+      "created": "2026-10-19 00:09:05",
+      "created_formated": "Mon, Oct 19th 12:09am UTC",
+      "desc": "Baltimore Ravens running back Derrick Henry ran for 58 yards on 17 carries and caught one pass for two yards in the team's 13-10 loss in Cleveland.",
+      "id": 614567,
+      "impact": "Henry was held scoreless for the first time this season, ending a five-game streak of rushing/receiving touchdowns that had opened the year. He also lost a fumble in the tight contest. Henry's long-term outlook remains strong, but with Lamar Jackson sidelined, there is a lower floor for his output.",
+      "link": "https://www.fantasypros.com/nfl/news/614567/derrick-henry-gains-60-scoreless-yards-week-6-loss.php",
+      "player_id": 15514,
       "sport_id": "NFL",
       "team_id": "BAL",
-      "title": "Ja'Kobi Lane (wrist) activated off of IR, will play against Cleveland"
+      "title": "Derrick Henry gains 60 scoreless yards in Week 6 loss"
     },
     {
-      "author": "Garrett Ball",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Breaking"
+        "Results"
       ],
-      "created": "2026-10-17 20:37:57",
-      "created_formated": "Sat, Oct 17th 8:37pm UTC",
-      "desc": "Caleb Williams (hamstring) is the starter for the Bears on Sunday against the Falcons. After a few weeks' absence, the franchise QB is back.",
-      "id": 614434,
-      "impact": "Williams was initially questionable to play, but the Bears are now planning on getting him back in the lineup after a week of practice where he took starter reps. It will be interesting to see Caleb in a more \"regular\" game and how it affects the pass catchers, who have only played with Caleb in one normal game, and even that \"normal\" game saw copious amounts of production from the running backs. ",
-      "link": "https://www.fantasypros.com/nfl/news/614434/caleb-williams-hamstring-starting-bears-sunday.php",
+      "created": "2026-10-18 23:40:21",
+      "created_formated": "Sun, Oct 18th 11:40pm UTC",
+      "desc": "Caleb Williams completed 30-of-36 pass attempts for 305 yards and one touchdown while also rushing four times for three yards in the Bears' 31-23 Week 6 win over the Atlanta Falcons.",
+      "id": 614566,
+      "impact": "Williams was impactful in his return to the lineup for head coach Ben Johnson, surpassing 300 passing yards for the first time in his three contests while battling a hamstring injury. The dual-threat signal-caller remains a dynamic lineup option in all formats ahead of a Week 7 matchup against the New England Patriots.",
+      "link": "https://www.fantasypros.com/nfl/news/614566/caleb-williams-efficient-week-6-win-over-falcons.php",
       "player_id": 23084,
       "sport_id": "NFL",
       "team_id": "CHI",
-      "title": "Caleb Williams (hamstring) starting for the Bears Sunday"
+      "title": "Caleb Williams efficient in Week 6 win over Falcons"
     },
     {
-      "author": "Garrett Ball",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury",
-        "Breaking"
+        "Results"
       ],
-      "created": "2026-10-17 20:31:15",
-      "created_formated": "Sat, Oct 17th 8:31pm UTC",
-      "desc": "Jalen Hurts (blood clot) has been placed on IR due to a blood clot.",
-      "id": 614433,
-      "impact": "At first the Eagles were not going to place him on IR, but after further consultations, they have decided to make that move. Tanner McKee will start in his place for at least the next four games, with Carolina on tap tomorrow. All the pass catchers will likely see a downtick in production, but should still be usable if McKee is halfway decent.",
-      "link": "https://www.fantasypros.com/nfl/news/614433/jalen-hurts-blood-clot-placed-on-ir.php",
-      "player_id": 19275,
+      "created": "2026-10-18 23:37:03",
+      "created_formated": "Sun, Oct 18th 11:37pm UTC",
+      "desc": "D'Andre Swift rushed 16 times for 44 yards and two touchdowns while also hauling in four of his five targets for 26 yards in the Bears' 31-23 Week 6 win over the Atlanta Falcons.",
+      "id": 614565,
+      "impact": "Swift continues an impactful stretch out of the Chicago backfield, finishing with over 70 offensive yards in each of his six contests. The running back will look for another impactful performance against the New England Patriots in Week 7.",
+      "link": "https://www.fantasypros.com/nfl/news/614565/dandre-swift-reaches-end-zone-twice-week-6-win-over-falcons.php",
+      "player_id": 19210,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jalen Hurts (blood clot) placed on IR"
+      "team_id": "CHI",
+      "title": "D'Andre Swift reaches end zone twice in Week 6 win over Falcons"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:30:52",
+      "created_formated": "Sun, Oct 18th 11:30pm UTC",
+      "desc": "Luther Burden III hauled in all eight of his targets for 95 yards in the Bears' 31-23 Week 6 win over the Atlanta Falcons.",
+      "id": 614564,
+      "impact": "Burden III has made the most of increased involvement in the passing attack of late, finishing with four or more receptions in each of his last four contests. The wideout remains one of many pass-catching options that have flashed impactful ability for head coach Ben Johnson, with a Week 7 matchup against the New England Patriots up next.",
+      "link": "https://www.fantasypros.com/nfl/news/614564/luther-burden-iii-leads-pass-catchers-week-6-win-over-falcons.php",
+      "player_id": 27016,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Luther Burden III leads pass-catchers in Week 6 win over Falcons"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:27:27",
+      "created_formated": "Sun, Oct 18th 11:27pm UTC",
+      "desc": "Rome Odunze caught three of his four targets for 39 yards in the Bears' 31-23 Week 6 win over the Atlanta Falcons.",
+      "id": 614563,
+      "impact": "Odunze has struggled to make a sizeable impact in the Chicago offense of late, recording less than 50 receiving yards in four of the last five contests. The wideout remains difficult to trust for fantasy managers in all formats ahead of a Week 7 matchup against the New England Patriots.",
+      "link": "https://www.fantasypros.com/nfl/news/614563/rome-odunze-quiet-week-6-win-over-falcons.php",
+      "player_id": 25411,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Rome Odunze quiet in Week 6 win over Falcons"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:24:10",
+      "created_formated": "Sun, Oct 18th 11:24pm UTC",
+      "desc": "Colston Loveland hauled in six of his seven targets for 65 yards and one touchdown in the Bears' 31-23 Week 6 win over the Atlanta Falcons.",
+      "id": 614562,
+      "impact": "Loveland has made the most of increased opportunities in the Chicago passing attack of late, recording four or more receptions in three of the last four contests. The tight end will look for another impactful performance against the New England Patriots in Week 7.",
+      "link": "https://www.fantasypros.com/nfl/news/614562/colston-loveland-finds-end-zone-week-6-win.php",
+      "player_id": 26006,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Colston Loveland finds end zone in Week 6 win"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:20:44",
+      "created_formated": "Sun, Oct 18th 11:20pm UTC",
+      "desc": "Roschon Johnson carried the ball 13 times for a team-high 51 yards and one touchdown while also catching both of his targets for 34 yards in the Bears' 31-23 Week 6 win over the Atlanta Falcons.",
+      "id": 614561,
+      "impact": "Johnson made the most of increased touches in the Chicago offense, finishing with over 40 offensive yards for the first time this season. The running back remains more of a handcuff option as part of a Chicago backfield led by D'Andre Swift and missing Kyle Monangai, with a Week 7 matchup against the New England Patriots up next.",
+      "link": "https://www.fantasypros.com/nfl/news/614561/roschon-johnson-leads-backfield-week-6-win.php",
+      "player_id": 25322,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Roschon Johnson leads backfield in Week 6 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:19:29",
+      "created_formated": "Sun, Oct 18th 11:19pm UTC",
+      "desc": "The Patriots D/ST allowed 252 passing yards, 97 rushing yards, and 19 points in a win over the Jets.",
+      "id": 614560,
+      "impact": "The Patriots' defense tallied three sacks and forced the first interception of the season for Geno Smith. The Patriots' defense will take on a high-powered Bears' offense in Week 7. ",
+      "link": "https://www.fantasypros.com/nfl/news/614560/patriots-dst-solid-week-6.php",
+      "player_id": 8180,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Patriots D/ST solid in Week 6 "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:18:16",
+      "created_formated": "Sun, Oct 18th 11:18pm UTC",
+      "desc": "Andy Borregales connected on 2-of-2 field goal attempts and 2-of-3 extra point attempts in a 26-19 win over the Jets. ",
+      "id": 614559,
+      "impact": "Borregales missed his first extra point of the season, but connected on field goals from 27 and 32 yards out to help pace the Patriots to their fourth win of the year. Borregales and the Patriots will take on the Bears in Week 7. ",
+      "link": "https://www.fantasypros.com/nfl/news/614559/andy-borregales-makes-two-field-goals-week-6.php",
+      "player_id": 27291,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Andy Borregales makes two field goals in Week 6 "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:16:26",
+      "created_formated": "Sun, Oct 18th 11:16pm UTC",
+      "desc": "Hunter Henry caught 4-of-5 targets for 48 yards and a touchdown in a 26-19 win over the Jets.",
+      "id": 614558,
+      "impact": "Henry has found the endzone in two consecutive games and logged at least four targets or more in four of his last five games. Henry remains a trustworthy option heading into a Week 7 matchup with the Bears. ",
+      "link": "https://www.fantasypros.com/nfl/news/614558/hunter-henry-hits-pay-dirt-week-6-win.php",
+      "player_id": 15561,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Hunter Henry hits pay dirt in Week 6 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:14:59",
+      "created_formated": "Sun, Oct 18th 11:14pm UTC",
+      "desc": "DeMario Douglas caught 7-of-8 targets for 86 yards and a touchdown in a 26-19 win over the Jets.",
+      "id": 614557,
+      "impact": "Douglas led the team in receptions and receiving yards and found the end zone for the second straight game. If Rome Doubs (shoulder) is forced to miss any time, Douglas will likely see an increase in playing time. The Patriots take on the Bears Thursday.",
+      "link": "https://www.fantasypros.com/nfl/news/614557/demario-douglas-finds-end-zone-week-6-win.php",
+      "player_id": 25304,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "DeMario Douglas finds the end zone in Week 6 win "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:13:22",
+      "created_formated": "Sun, Oct 18th 11:13pm UTC",
+      "desc": "Romeo Doubs caught his lone target for a 42-yard touchdown in the Patriots' 26-19 win over the Jets. ",
+      "id": 614556,
+      "impact": "Doubs suffered the injury on the touchdown catch in which he landed hard diving for the ball. His status will be worth monitoring ahead of a Thursday night matchup with the Bears.  ",
+      "link": "https://www.fantasypros.com/nfl/news/614556/romeo-doubs-shoulder-finds-end-zone-week-6.php",
+      "player_id": 23794,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Romeo Doubs (shoulder) finds the end zone in Week 6"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:11:46",
+      "created_formated": "Sun, Oct 18th 11:11pm UTC",
+      "desc": "Kalif Raymond caught both of his targets for 18 yards in the Bears' 31-23 Week 6 win over the Atlanta Falcons.",
+      "id": 614555,
+      "impact": "Raymond has fallen back to earth after a scorching start to the season, finishing with under 20 receiving yards in each of the last three contests. The wideout remains one of the more streaky pass-catching options in all formats ahead of a Week 7 matchup against the New England Patriots.",
+      "link": "https://www.fantasypros.com/nfl/news/614555/kalif-raymond-quiet-week-6-win.php",
+      "player_id": 16081,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Kalif Raymond quiet in Week 6 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:11:31",
+      "created_formated": "Sun, Oct 18th 11:11pm UTC",
+      "desc": "A.J. Brown caught 3-of-10 targets for 27 yards in the Patriots' 26-19 win over the Jets. ",
+      "id": 614554,
+      "impact": "Brown struggled with drops Sunday, logging three drops in his return to action after a Week 1 ankle injury. Brown and the Patriots play on Thursday, so it is a quick turnaround for the veteran to knock off any additional rust heading into Week 7. ",
+      "link": "https://www.fantasypros.com/nfl/news/614554/aj-brown-hauls-three-passes-week-6-win.php",
+      "player_id": 18218,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "A.J. Brown hauls in three passes in Week 6 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:09:47",
+      "created_formated": "Sun, Oct 18th 11:09pm UTC",
+      "desc": "TreVeyon Henderson rushed for 31 yards on seven carries in the 26-19 win over the Jets. He caught his lone target for nine yards. ",
+      "id": 614553,
+      "impact": "Henderson returned from a high-ankle sprain that he suffered last week, but saw Corey Kiner run the ball more Sunday. Henderson did fumble the ball to the Jets, which likely impacted his playing time late in the game. Henderson and the Patriots will take on the Bears in Week 7. ",
+      "link": "https://www.fantasypros.com/nfl/news/614553/treveyon-henderson-logs-eight-touches-week-6-win.php",
+      "player_id": 23065,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "TreVeyon Henderson logs eight touches in Week 6 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:08:06",
+      "created_formated": "Sun, Oct 18th 11:08pm UTC",
+      "desc": "Rhamondre Stevenson rushed for 36 yards on 14 carries in the Patriots' 26-19 win over the Jets.",
+      "id": 614552,
+      "impact": "Stevenson was not involved in the passing game and logged just 2.6 yards per carry on the day. The Patriots gave a total of 18 carries to Corey Kiner and TreVeyon Henderson, limiting Stevenson's chances against the Jets. Stevenson and the Patriots will take on the Bears next week. ",
+      "link": "https://www.fantasypros.com/nfl/news/614552/rhamondre-stevenson-quiet-week-6-win.php",
+      "player_id": 22726,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Rhamondre Stevenson quiet in Week 6 win "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:06:12",
+      "created_formated": "Sun, Oct 18th 11:06pm UTC",
+      "desc": "Drake Maye completed 18-of-32 passes for 235 yards and three touchdowns in a 26-19 win over the Jets. Maye added 24 rushing yards on four carries.",
+      "id": 614551,
+      "impact": "Maye found DeMario Douglas, Hunter Henry, and Romeo Doubs for his three touchdown passes. Maye turned another spotless performance, logging two straight games without a turnover after throwing seven seven interceptions in the first four games. Maye and the Patriots will take on the Bears in Week 7. ",
+      "link": "https://www.fantasypros.com/nfl/news/614551/drake-maye-tosses-three-touchdowns-week-6-win.php",
+      "player_id": 23046,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Drake Maye tosses three touchdowns in Week 6 win"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:04:01",
+      "created_formated": "Sun, Oct 18th 11:04pm UTC",
+      "desc": "The Jets D/ST allowed 235 passing yards, 148 rushing yards, and 26 points in a loss to the Patriots. ",
+      "id": 614550,
+      "impact": "The Jets' defense failed to record a sack or interception in the game, but did recover two fumbles in the loss. The Jets' defense are a solid streaming option in Week 7 against Miami. ",
+      "link": "https://www.fantasypros.com/nfl/news/614550/jets-dst-allows-26-points-week-6-loss.php",
+      "player_id": 8210,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Jets D/ST allows 26 points in Week 6 loss"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:02:14",
+      "created_formated": "Sun, Oct 18th 11:02pm UTC",
+      "desc": "Jason Sanders made 4-of-4 field goals and 1-of-1 extra points in a 26-19 loss to the Patriots. ",
+      "id": 614549,
+      "impact": "Sanders connected on field goals from 36, 36, 40, and 42 yards out to help pace the Jets in Sunday's loss. Sanders has missed just one kick this season so far. Sanders and the Jets will take on the Dolphins in Week 7.",
+      "link": "https://www.fantasypros.com/nfl/news/614549/jason-sanders-perfect-week-6-loss.php",
+      "player_id": 17533,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Jason Sanders perfect in Week 6 loss"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 23:01:25",
+      "created_formated": "Sun, Oct 18th 11:01pm UTC",
+      "desc": "Zavion Thomas caught all three of his targets for 25 yards in the Bears' 31-23 win over the Atlanta Falcons in Week 6.",
+      "id": 614548,
+      "impact": "Thomas has been a non-factor in the Chicago offense to this point, finishing with less than 30 receiving yards in each of the first six contests. The pass-catcher remains best left out of lineups in all formats ahead of a Week 7 contest against the New England Patriots.",
+      "link": "https://www.fantasypros.com/nfl/news/614548/zavion-thomas-sees-three-targets-week-6.php",
+      "player_id": 28132,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Zavion Thomas sees three targets in Week 6"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 22:59:08",
+      "created_formated": "Sun, Oct 18th 10:59pm UTC",
+      "desc": "Mason Taylor caught 4-of-6 targets for 33 yards in a 26-19 loss to the Patriots. ",
+      "id": 614547,
+      "impact": "Taylor led the tight end group in receptions, yards, and targets. Taylor and Kenyon Sadiq should be expected to continue to split time heading into Week 7. ",
+      "link": "https://www.fantasypros.com/nfl/news/614547/mason-taylor-hauls-four-passes-week-6-loss.php",
+      "player_id": 26005,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Mason Taylor hauls in four passes in Week 6 loss"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 22:53:54",
+      "created_formated": "Sun, Oct 18th 10:53pm UTC",
+      "desc": "Omar Cooper Jr. caught 6-of-7 targets for 103 yards and a touchdown in the 26-19 loss to the Patriots. ",
+      "id": 614544,
+      "impact": "Cooper led the team in all receiving categories in the loss Sunday. Cooper had been out of action for the last four games with a high-ankle sprain. Cooper will look to continue to build rapport with QB Geno Smith in Week 7 against Miami. ",
+      "link": "https://www.fantasypros.com/nfl/news/614544/omar-cooper-jr-finds-end-zone-week-6-loss.php",
+      "player_id": 28127,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Omar Cooper Jr. finds the end zone in Week 6 loss"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 22:56:41",
+      "created_formated": "Sun, Oct 18th 10:56pm UTC",
+      "desc": "Kenyon Sadiq caught 1-of-3 targets for 12 yards in a 26-19 loss to the Patriots. ",
+      "id": 614546,
+      "impact": "Sadiq returned from a concussion that he suffered in Week 5, but was not a featured part of the offense. Mason Taylor saw six targets to Sadiq's three, so both appear to be involved in the offense heading into Week 7. ",
+      "link": "https://www.fantasypros.com/nfl/news/614546/kenyon-sadiq-records-one-reception-week-6.php",
+      "player_id": 26055,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Kenyon Sadiq records one reception in Week 6 "
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 22:55:37",
+      "created_formated": "Sun, Oct 18th 10:55pm UTC",
+      "desc": "Cole Kmet caught both of his targets for three yards in the Bears' 31-23 win over the Atlanta Falcons in Week 6.",
+      "id": 614545,
+      "impact": "Kmet has been an afterthought in the offense of late, recording less than 15 receiving yards in each of the last five contests. The tight end can remain off rosters in all formats until further notice, with a Week 7 contest against the New England Patriots up next.",
+      "link": "https://www.fantasypros.com/nfl/news/614545/cole-kmet-catches-two-passes-week-6.php",
+      "player_id": 19229,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Cole Kmet catches two passes in Week 6"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-18 22:50:03",
+      "created_formated": "Sun, Oct 18th 10:50pm UTC",
+      "desc": "The Bears D/ST recorded five sacks while also forcing three turnovers (three fumble recoveries) in a 31-23 win over the Atlanta Falcons in Week 6.",
+      "id": 614543,
+      "impact": "The defense was able to keep the Atlanta offense mostly in check, allowing 257 offensive yards in the win. The unit will look for another impactful performance against the New England Patriots in Week 7.",
+      "link": "https://www.fantasypros.com/nfl/news/614543/bears-dst-records-five-sacks-week-6.php",
+      "player_id": 8050,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Bears D/ST records five sacks in Week 6"
     }
   ],
   "public_api": true,

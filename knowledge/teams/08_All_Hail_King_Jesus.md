@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 10
-- Last updated from Sleeper exports: 2026-10-18
+- Last updated from Sleeper exports: 2026-10-19
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 591.4
-- championship_lineup_c_avi_avg: 73.92
-- offensive_roster_c_avi_sum: 942.2
-- offensive_roster_c_avi_avg: 58.89
-- offensive_roster_d_avi_sum: 1098.3
-- offensive_roster_d_avi_avg: 68.64
+- championship_lineup_c_avi_sum: 590.9
+- championship_lineup_c_avi_avg: 73.86
+- offensive_roster_c_avi_sum: 941.5
+- offensive_roster_c_avi_avg: 58.84
+- offensive_roster_d_avi_sum: 1087.9
+- offensive_roster_d_avi_avg: 67.99
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 83.9 | D-AVI: 81.8
-- RB: D'Andre Swift | C-AVI: 81.3 | D-AVI: 85.3
-- RB: Kimani Vidal | C-AVI: 35.3 | D-AVI: 53.2
+- RB: D'Andre Swift | C-AVI: 81.2 | D-AVI: 83.9
+- RB: Kimani Vidal | C-AVI: 34.9 | D-AVI: 48.6
 - WR: Amon-Ra St. Brown | C-AVI: 96.8 | D-AVI: 98.3
 - WR: Justin Jefferson | C-AVI: 88.5 | D-AVI: 96.2
 - TE: Tucker Kraft | C-AVI: 62.2 | D-AVI: 84.9
 - FLEX: Tee Higgins | C-AVI: 83.9 | D-AVI: 89.2
-- FLEX: Dallas Goedert | C-AVI: 59.5 | D-AVI: 73.3
+- FLEX: Dallas Goedert | C-AVI: 59.5 | D-AVI: 73.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 81.3
-- Dynasty AVI (D-AVI, 0-100): 85.3
+- Championship AVI (C-AVI, 0-100): 81.2
+- Dynasty AVI (D-AVI, 0-100): 83.9
 - Projected PPR points: 208.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 37.5
-- Dynasty AVI (D-AVI, 0-100): 68.3
+- Championship AVI (C-AVI, 0-100): 37.3
+- Dynasty AVI (D-AVI, 0-100): 65.2
 - Projected PPR points: 67.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 35.3
-- Dynasty AVI (D-AVI, 0-100): 53.2
+- Championship AVI (C-AVI, 0-100): 34.9
+- Dynasty AVI (D-AVI, 0-100): 48.6
 - Projected PPR points: 60.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 28.0
-- Dynasty AVI (D-AVI, 0-100): 36.5
+- Championship AVI (C-AVI, 0-100): 27.9
+- Dynasty AVI (D-AVI, 0-100): 34.6
 - Projected PPR points: 25.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 41.4
+- Championship AVI (C-AVI, 0-100): 41.5
 - Dynasty AVI (D-AVI, 0-100): 36.6
 - Projected PPR points: 27.7
 - Category: offense
@@ -292,7 +292,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 59.5
-- Dynasty AVI (D-AVI, 0-100): 73.3
+- Dynasty AVI (D-AVI, 0-100): 73.9
 - Projected PPR points: 136.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
