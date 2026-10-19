@@ -1,5 +1,22 @@
 [
   {
+    "id": "mvfraqli-edd8f2ac",
+    "phase": "initial",
+    "mode": "improve_team",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Mile High Royal Lions",
+      "goal": "Increase Championship Odds",
+      "targetPosition": "RB, TE",
+      "maxResults": 3
+    },
+    "createdAt": 1792444705830,
+    "updatedAt": 1792444705830,
+    "expiresAt": 1792876705830,
+    "status": "queued"
+  },
+  {
     "id": "mvfr6dwq-43972e47",
     "phase": "initial",
     "mode": "propose_trade",
