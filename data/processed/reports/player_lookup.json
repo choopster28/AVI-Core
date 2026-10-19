@@ -39,6 +39,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00008172",
+      "c_avi": 38.4,
+      "d_avi": 59.6,
+      "nfl_team": "MIA",
+      "player_name": "Greg Dulcich",
+      "position": "TE",
+      "sleeper_id": "8172",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00012498",
       "c_avi": 37.3,
       "d_avi": 61.8,
@@ -2055,18 +2067,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00004663",
-      "c_avi": 0.0,
-      "d_avi": 0.0,
-      "nfl_team": "WAS",
-      "player_name": "Austin Ekeler",
-      "position": "RB",
-      "sleeper_id": "4663",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00013270",
       "c_avi": 0.0,
       "d_avi": 19.2,
@@ -2881,6 +2881,22 @@
       "status": "Active",
       "team_file": "14_Phalhala_or_Bust.md",
       "team_name": "Phalhala or Bust"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00004663",
+      "c_avi": 0.0,
+      "d_avi": 0.0,
+      "nfl_team": "WAS",
+      "owner_id": "863881053000011776",
+      "player_name": "Austin Ekeler",
+      "position": "RB",
+      "roster_id": 9,
+      "sleeper_id": "4663",
+      "status": "Active",
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
@@ -4193,22 +4209,6 @@
       "status": "Active",
       "team_file": "16_Crimson_Tide_Pods.md",
       "team_name": "Crimson Tide Pods"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00008172",
-      "c_avi": 38.4,
-      "d_avi": 59.6,
-      "nfl_team": "MIA",
-      "owner_id": "863881053000011776",
-      "player_name": "Greg Dulcich",
-      "position": "TE",
-      "roster_id": 9,
-      "sleeper_id": "8172",
-      "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
     },
     {
       "active": true,

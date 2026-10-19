@@ -92,6 +92,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 14
 - Team file: 14_Phalhala_or_Bust.md
 
+## PLAYER LOOKUP: Austin Ekeler
+- Player name: Austin Ekeler
+- Player ID: 4663
+- Position: RB
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
+
 ## PLAYER LOOKUP: Bhayshul Tuten
 - Player name: Bhayshul Tuten
 - Player ID: 12490
@@ -747,14 +755,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
 - Team file: 16_Crimson_Tide_Pods.md
-
-## PLAYER LOOKUP: Greg Dulcich
-- Player name: Greg Dulcich
-- Player ID: 8172
-- Position: TE
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Gunnar Helm
 - Player name: Gunnar Helm
@@ -2063,6 +2063,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: TB
 - Championship AVI (C-AVI, 0-100): 38.9
 - Dynasty AVI (D-AVI, 0-100): 66.2
+- Availability: available
+
+## AVAILABLE PLAYER: Greg Dulcich
+- Player name: Greg Dulcich
+- Player ID: 8172
+- Position: TE
+- NFL team: MIA
+- Championship AVI (C-AVI, 0-100): 38.4
+- Dynasty AVI (D-AVI, 0-100): 59.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Mason Taylor
@@ -3573,15 +3582,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 7203
 - Position: RB
 - NFL team: FA
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
-- Availability: available
-
-## AVAILABLE PLAYER: Austin Ekeler
-- Player name: Austin Ekeler
-- Player ID: 4663
-- Position: RB
-- NFL team: WAS
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 0.0
 - Availability: available
