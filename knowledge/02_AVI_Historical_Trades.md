@@ -17,22 +17,22 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **93**
-- Owner trade participations: **188**
-- Two-team trades: **91**
+- Unique completed trades: **94**
+- Owner trade participations: **190**
+- Two-team trades: **92**
 - Three-team trades: **2**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **50**
+- 2026 completed trades: **51**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-10-16T02:44:40.332000+00:00**
+- Latest verified trade: **2026-10-20T04:03:39.831000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | 1 | Corgi Loaf Baking Co.  | awang1900 | **27** | 7 | 4 | 16 | 38 | 37 | 10 | 16 | 7 | 10 |
-| 2 | Ravens Regime  | Mentomorii | **22** | 3 | 3 | 16 | 22 | 26 | 6 | 10 | 2 | 4 |
+| 2 | Ravens Regime  | Mentomorii | **23** | 3 | 3 | 17 | 23 | 28 | 6 | 11 | 2 | 4 |
 | 3 | Big Balder Brand | Choopski | **21** | 7 | 2 | 12 | 31 | 33 | 3 | 8 | 1 | 4 |
 | 4 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
 | 5 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
@@ -40,8 +40,8 @@
 | 7 | Badland Banditos  | IcebergSlim69 | **10** | 4 | 4 | 2 | 10 | 11 | 3 | 4 | 1 | 1 |
 | 8 | Mile High Royal Lions | shawnh56 | **10** | 0 | 8 | 2 | 10 | 13 | 5 | 4 | 1 | 2 |
 | 9 | Crimson Tide Pods | nickas | **9** | 0 | 1 | 8 | 14 | 12 | 11 | 2 | 5 | 0 |
-| 10 | Rapid Valley Annihilation | FuzzyRaptor | **8** | 0 | 3 | 5 | 9 | 12 | 9 | 2 | 3 | 0 |
-| 11 | Lightskin Legends ✊🏽 | MadDawgMatt | **7** | 2 | 3 | 2 | 9 | 5 | 1 | 3 | 0 | 0 |
+| 10 | Lightskin Legends ✊🏽 | MadDawgMatt | **8** | 2 | 3 | 3 | 11 | 6 | 2 | 3 | 0 | 0 |
+| 11 | Rapid Valley Annihilation | FuzzyRaptor | **8** | 0 | 3 | 5 | 9 | 12 | 9 | 2 | 3 | 0 |
 | 12 | SmokyValleyWheatWarriors | AlexPete6800 | **7** | 2 | 2 | 3 | 3 | 5 | 4 | 6 | 0 | 1 |
 | 13 | All Hail King Jesus | Hofer51 | **6** | 0 | 4 | 2 | 8 | 5 | 0 | 8 | 0 | 3 |
 | 14 | Gringo’s Goblins  | Burnfaze | **3** | 0 | 0 | 3 | 7 | 7 | 2 | 2 | 2 | 0 |
@@ -70,6 +70,24 @@
 | Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽 | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1418121489537916928
+- Season: 2026
+- Week: 6
+- Created at UTC: 2026-10-20T04:03:39.831000+00:00
+- Teams involved: 2
+
+#### Ravens Regime  (Mentomorii)
+- Players received: Jaylen Waddle
+- Players sent: Kyle Pitts, Josh Downs
+- Picks received: None
+- Picks sent: 2027 Round 4 (original roster 1)
+
+#### Lightskin Legends ✊🏽 (MadDawgMatt)
+- Players received: Kyle Pitts, Josh Downs
+- Players sent: Jaylen Waddle
+- Picks received: 2027 Round 4 (original roster 1)
+- Picks sent: None
 
 ### TRADE: 1416652059175825408
 - Season: 2026

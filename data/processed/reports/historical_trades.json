@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-20T02:39:53.346623+00:00",
+  "generated_at_utc": "2026-10-20T06:12:17.764833+00:00",
   "statistics": {
-    "owner_trade_participations": 188,
+    "owner_trade_participations": 190,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -159,18 +159,18 @@
         "by_season": {
           "2024": 3,
           "2025": 3,
-          "2026": 16
+          "2026": 17
         },
         "firsts_in": 2,
         "firsts_out": 4,
         "owner_display_name": "Mentomorii",
         "picks_in": 6,
-        "picks_out": 10,
-        "players_in": 22,
-        "players_out": 26,
+        "picks_out": 11,
+        "players_in": 23,
+        "players_out": 28,
         "roster_id": 3,
         "team_name": "Ravens Regime ",
-        "total": 22
+        "total": 23
       },
       {
         "by_season": {
@@ -291,6 +291,23 @@
       },
       {
         "by_season": {
+          "2024": 2,
+          "2025": 3,
+          "2026": 3
+        },
+        "firsts_in": 0,
+        "firsts_out": 0,
+        "owner_display_name": "MadDawgMatt",
+        "picks_in": 2,
+        "picks_out": 3,
+        "players_in": 11,
+        "players_out": 6,
+        "roster_id": 6,
+        "team_name": "Lightskin Legends ✊🏽",
+        "total": 8
+      },
+      {
+        "by_season": {
           "2025": 3,
           "2026": 5
         },
@@ -304,23 +321,6 @@
         "roster_id": 2,
         "team_name": "Rapid Valley Annihilation",
         "total": 8
-      },
-      {
-        "by_season": {
-          "2024": 2,
-          "2025": 3,
-          "2026": 2
-        },
-        "firsts_in": 0,
-        "firsts_out": 0,
-        "owner_display_name": "MadDawgMatt",
-        "picks_in": 1,
-        "picks_out": 3,
-        "players_in": 9,
-        "players_out": 5,
-        "roster_id": 6,
-        "team_name": "Lightskin Legends ✊🏽",
-        "total": 7
       },
       {
         "by_season": {
@@ -406,10 +406,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 50
+      "2026": 51
     },
-    "two_team_trades": 91,
-    "unique_completed_trades": 93
+    "two_team_trades": 92,
+    "unique_completed_trades": 94
   },
   "trades": [
     {
@@ -6922,6 +6922,82 @@
         }
       ],
       "transaction_id": "1416652059175825408",
+      "week": 6
+    },
+    {
+      "created_at_utc": "2026-10-20T04:03:39.831000+00:00",
+      "created_timestamp_ms": 1792469019831,
+      "roster_ids": [
+        3,
+        6
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 1,
+              "round": 4,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "7526",
+              "player_name": "Jaylen Waddle"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "7553",
+              "player_name": "Kyle Pitts"
+            },
+            {
+              "player_id": "9500",
+              "player_name": "Josh Downs"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        },
+        {
+          "owner_display_name": "MadDawgMatt",
+          "owner_id": "872509429436829696",
+          "picks_received": [
+            {
+              "original_roster_id": 1,
+              "round": 4,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "7553",
+              "player_name": "Kyle Pitts"
+            },
+            {
+              "player_id": "9500",
+              "player_name": "Josh Downs"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "7526",
+              "player_name": "Jaylen Waddle"
+            }
+          ],
+          "roster_id": 6,
+          "season": 2026,
+          "team_name": "Lightskin Legends ✊🏽"
+        }
+      ],
+      "transaction_id": "1418121489537916928",
       "week": 6
     }
   ]

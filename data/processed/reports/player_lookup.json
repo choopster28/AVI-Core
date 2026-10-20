@@ -819,6 +819,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00002306",
+      "c_avi": 27.2,
+      "d_avi": 44.3,
+      "nfl_team": "NYG",
+      "player_name": "Jameis Winston",
+      "position": "QB",
+      "sleeper_id": "2306",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00012467",
       "c_avi": 27.2,
       "d_avi": 35.1,
@@ -2702,8 +2714,8 @@
     }
   ],
   "counts": {
-    "available_players": 225,
-    "rostered_players": 254
+    "available_players": 226,
+    "rostered_players": 253
   },
   "rostered_players": [
     {
@@ -4549,22 +4561,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00002306",
-      "c_avi": 27.2,
-      "d_avi": 44.3,
-      "nfl_team": "NYG",
-      "owner_id": "872509429436829696",
-      "player_name": "Jameis Winston",
-      "position": "QB",
-      "roster_id": 6,
-      "sleeper_id": "2306",
-      "status": "Active",
-      "team_file": "06_Lightskin_Legends.md",
-      "team_name": "Lightskin Legends ✊🏽"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00008138",
       "c_avi": 89.2,
       "d_avi": 94.3,
@@ -4713,14 +4709,14 @@
       "c_avi": 73.2,
       "d_avi": 86.2,
       "nfl_team": "DEN",
-      "owner_id": "872509429436829696",
+      "owner_id": "992908759074680832",
       "player_name": "Jaylen Waddle",
       "position": "WR",
-      "roster_id": 6,
+      "roster_id": 3,
       "sleeper_id": "7526",
       "status": "Active",
-      "team_file": "06_Lightskin_Legends.md",
-      "team_name": "Lightskin Legends ✊🏽"
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
@@ -4969,14 +4965,14 @@
       "c_avi": 52.8,
       "d_avi": 75.7,
       "nfl_team": "IND",
-      "owner_id": "992908759074680832",
+      "owner_id": "872509429436829696",
       "player_name": "Josh Downs",
       "position": "WR",
-      "roster_id": 3,
+      "roster_id": 6,
       "sleeper_id": "9500",
       "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
+      "team_file": "06_Lightskin_Legends.md",
+      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,
@@ -5337,14 +5333,14 @@
       "c_avi": 53.4,
       "d_avi": 79.6,
       "nfl_team": "ATL",
-      "owner_id": "992908759074680832",
+      "owner_id": "872509429436829696",
       "player_name": "Kyle Pitts",
       "position": "TE",
-      "roster_id": 3,
+      "roster_id": 6,
       "sleeper_id": "7553",
       "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
+      "team_file": "06_Lightskin_Legends.md",
+      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,

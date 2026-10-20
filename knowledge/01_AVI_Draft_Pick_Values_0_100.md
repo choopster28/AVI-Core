@@ -590,8 +590,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Conquistadors
 - Original roster ID: 1
-- Current owner team: Ravens Regime
-- Current owner roster ID: 3
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd

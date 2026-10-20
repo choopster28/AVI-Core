@@ -924,14 +924,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 14
 - Team file: 14_Phalhala_or_Bust.md
 
-## PLAYER LOOKUP: Jameis Winston
-- Player name: Jameis Winston
-- Player ID: 2306
-- Position: QB
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Team file: 06_Lightskin_Legends.md
-
 ## PLAYER LOOKUP: James Cook
 - Player name: James Cook
 - Player ID: 8138
@@ -1008,9 +1000,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Jaylen Waddle
 - Player ID: 7526
 - Position: WR
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Team file: 06_Lightskin_Legends.md
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Jaylen Warren
 - Player name: Jaylen Warren
@@ -1136,9 +1128,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Josh Downs
 - Player ID: 9500
 - Position: WR
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
 
 ## PLAYER LOOKUP: Josh Jacobs
 - Player name: Josh Jacobs
@@ -1320,9 +1312,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Kyle Pitts
 - Player ID: 7553
 - Position: TE
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Team file: 06_Lightskin_Legends.md
 
 ## PLAYER LOOKUP: Kyler Murray
 - Player name: Kyler Murray
@@ -2648,6 +2640,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NO
 - Championship AVI (C-AVI, 0-100): 27.3
 - Dynasty AVI (D-AVI, 0-100): 37.9
+- Availability: available
+
+## AVAILABLE PLAYER: Jameis Winston
+- Player name: Jameis Winston
+- Player ID: 2306
+- Position: QB
+- NFL team: NYG
+- Championship AVI (C-AVI, 0-100): 27.2
+- Dynasty AVI (D-AVI, 0-100): 44.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Jordan James
