@@ -1,5 +1,22 @@
 [
   {
+    "id": "mvh5a1uf-8b091e37",
+    "phase": "initial",
+    "mode": "improve_team",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Mile High Royal Lions",
+      "goal": "Win Championship",
+      "targetPosition": "RB, WR",
+      "maxResults": 3
+    },
+    "createdAt": 1792528654551,
+    "updatedAt": 1792528654551,
+    "expiresAt": 1792960654551,
+    "status": "queued"
+  },
+  {
     "id": "mvh56rjp-25e4730b",
     "phase": "initial",
     "mode": "analyze_trade",
