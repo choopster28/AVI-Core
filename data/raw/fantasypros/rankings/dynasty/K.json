@@ -679,7 +679,7 @@
     {
       "cbs_player_id": "2968527",
       "player_age": "26",
-      "player_bye_week": null,
+      "player_bye_week": "13",
       "player_ecr_delta": null,
       "player_eligibility": "K",
       "player_filename": "jake-moody.php",
@@ -692,7 +692,7 @@
       "player_position_id": "K",
       "player_positions": "K",
       "player_short_name": "J. Moody",
-      "player_team_id": "FA",
+      "player_team_id": "BAL",
       "player_yahoo_id": "40129",
       "player_yahoo_positions": "K",
       "pos_rank": "K25",

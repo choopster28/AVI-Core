@@ -3,21 +3,23 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Ari Koslow",
+      "author": "Garrett Ball",
       "categories": [
         "Commentary",
-        "News"
+        "News",
+        "Injury",
+        "Breaking"
       ],
-      "created": "2026-10-19 18:41:23",
-      "created_formated": "Mon, Oct 19th 6:41pm UTC",
-      "desc": "The Seahawks signed FB Jackson Acker. ",
-      "id": 614785,
-      "impact": "Acker will remain off the fantasy radar. ",
-      "link": "https://www.fantasypros.com/nfl/news/614785/jackson-acker-signs-with-seahawks.php",
-      "player_id": 28791,
+      "created": "2026-10-20 01:01:52",
+      "created_formated": "Tue, Oct 20th 1:01am UTC",
+      "desc": "Terry McLaurin was carted off the field after suffering an apparent leg injury, staying on the ground for several minutes before having an air cast placed on his leg. He has since been ruled out for the remainder of the game. Not a surprise given the circumstances.",
+      "id": 614873,
+      "impact": "The injury occurred while McLaurin was trying to run a route late in the first quarter. The whole Washington roster and several of the Niners veterans, including Mike Evans and George Kittle, also came to wish him well. Fantasy managers will need to watch for updates, but expect a lengthy absence. With McLaurin out, Stefon Diggs and Antonio Williams will see an uptick in work, with TE Chig Okonkwo and WR Treylon Burks also filling in some as well.",
+      "link": "https://www.fantasypros.com/nfl/news/614873/terry-mclaurin-carted-off-field-during-monday-night-football.php",
+      "player_id": 18466,
       "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Jackson Acker signs with Seahawks "
+      "team_id": "WAS",
+      "title": "Terry McLaurin carted off field during Monday Night Football"
     },
     {
       "author": "Ari Koslow",
@@ -26,174 +28,34 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-19 18:33:36",
-      "created_formated": "Mon, Oct 19th 6:33pm UTC",
-      "desc": "Colts coach Shane Steichen said Alec Pierce will not practice this week. ",
-      "id": 614784,
-      "impact": "Pierce remains without a clear timetable to return. He is week-to-week. ",
-      "link": "https://www.fantasypros.com/nfl/news/614784/alec-pierce-heel-will-not-practice-this-week.php",
-      "player_id": 23791,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Alec Pierce (heel) will not practice this week"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-19 18:32:52",
-      "created_formated": "Mon, Oct 19th 6:32pm UTC",
-      "desc": "Colts head coach Shane Steichen confirmed that Daniel Jones will start in Week 7 against the Vikings. ",
-      "id": 614783,
-      "impact": "Jones struggles continued in Sunday's loss against the Titans. He'll be a low-end QB2 play in Week 7 against the Vikings defense. ",
-      "link": "https://www.fantasypros.com/nfl/news/614783/daniel-jones-will-start-week-7.php",
-      "player_id": 18232,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Daniel Jones will start in Week 7"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-19 18:19:48",
-      "created_formated": "Mon, Oct 19th 6:19pm UTC",
-      "desc": "Kyle Dugger was back in uniform for practice on Monday. ",
-      "id": 614782,
-      "impact": "Dugger will need to be monitored in practice throughout the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/614782/kyle-dugger-back-uniform-practice-monday.php",
-      "player_id": 19337,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Kyle Dugger back in uniform at practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-19 18:16:13",
-      "created_formated": "Mon, Oct 19th 6:16pm UTC",
-      "desc": "Browns head coach Todd Monken said \"it's too early to tell but I'm hopeful we'll get a number of (injured) guys back.\" ",
-      "id": 614781,
-      "impact": "Sampson was able to recently return to practice. He will need to be monitored in practice again throughout this week. ",
-      "link": "https://www.fantasypros.com/nfl/news/614781/dylan-sampson-knee-uncertain-week-7.php",
-      "player_id": 27102,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Dylan Sampson (knee) uncertain for Week 7"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-19 18:15:23",
-      "created_formated": "Mon, Oct 19th 6:15pm UTC",
-      "desc": "Browns head coach Todd Monken said \"it's too early to tell but I'm hopeful we'll get a number of (injured) guys back.\" ",
-      "id": 614780,
-      "impact": "Judkins will need to be monitored in practice throughout the week after missing Sunday's game against the Ravens. ",
-      "link": "https://www.fantasypros.com/nfl/news/614780/quinshon-judkins-ankle-uncertain-week-7.php",
-      "player_id": 25391,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Quinshon Judkins (ankle) uncertain for Week 7"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-19 18:09:50",
-      "created_formated": "Mon, Oct 19th 6:09pm UTC",
-      "desc": "The Colts worked out WR Courtney Jackson Courtney Jackson. ",
-      "id": 614779,
-      "impact": "Jackson was one of two wide receivers to workout for the Colts to begin the week.",
-      "link": "https://www.fantasypros.com/nfl/news/614779/courtney-jackson-works-out-colts.php",
-      "player_id": 27583,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Courtney Jackson works out for Colts"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-19 18:09:02",
-      "created_formated": "Mon, Oct 19th 6:09pm UTC",
-      "desc": "The Colts worked out WR Ainias Smith. ",
-      "id": 614778,
-      "impact": "Smith was one of two wide receivers to workout for the Colts to begin the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/614778/ainias-smith-works-out-colts.php",
-      "player_id": 23142,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Ainias Smith works out for Colts"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-19 17:58:55",
-      "created_formated": "Mon, Oct 19th 5:58pm UTC",
-      "desc": "Brian Branch remains on track to return in Week 7 against the Packers. ",
-      "id": 614776,
-      "impact": "Branch has returned to practice and he is expected to be activated later this week. The same goes for center Cade Mays. \"Barring anything negatively happening between now and the game, we plan on playing both of those guys,\" Lions head coach Dan Campbell said. ",
-      "link": "https://www.fantasypros.com/nfl/news/614776/brian-branch-achilles-on-track-to-return-week-7.php",
-      "player_id": 25235,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Brian Branch (Achilles) on track to return in Week 7"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-19 18:00:06",
-      "created_formated": "Mon, Oct 19th 6:00pm UTC",
-      "desc": "Cade Mays remains on track to return in Week 7 against the Packers. ",
-      "id": 614777,
-      "impact": "Mays has returned to practice and he is expected to be activated later this week. The same goes for safety Brian Branch. \"Barring anything negatively happening between now and the game, we plan on playing both of those guys,\" Lions head coach Dan Campbell said. ",
-      "link": "https://www.fantasypros.com/nfl/news/614777/cade-mays-wrist-on-track-to-return-week-7.php",
-      "player_id": 20138,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Cade Mays (wrist) on track to return in Week 7"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-19 17:54:25",
-      "created_formated": "Mon, Oct 19th 5:54pm UTC",
-      "desc": "The Seahawks signed TE Josiah Deguara to their practice squad. ",
-      "id": 614775,
-      "impact": "Deguara will add depth in the Seahawks tight end room with Elijah Arroyo expected to miss time. ",
-      "link": "https://www.fantasypros.com/nfl/news/614775/josiah-deguara-signs-with-seahawks.php",
-      "player_id": 19456,
+      "created": "2026-10-19 23:53:18",
+      "created_formated": "Mon, Oct 19th 11:53pm UTC",
+      "desc": "Zach Charbonnet remains on track to play \"in some capacity\" in Week 7 against the Chiefs. ",
+      "id": 614872,
+      "impact": "Charbonnet will continue to practice all week. He'll have to be activated by Thursday, which will be 21 days after they designated him to return to practice. His status will need to be monitored in practice throughout the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/614872/zach-charbonnet-knee-on-track-to-play-in-some-capacity-week-7.php",
+      "player_id": 23152,
       "sport_id": "NFL",
       "team_id": "SEA",
-      "title": "Josiah Deguara signs with Seahawks "
+      "title": "Zach Charbonnet (knee) on track to play 'in some capacity' in Week 7"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-19 23:41:34",
+      "created_formated": "Mon, Oct 19th 11:41pm UTC",
+      "desc": "Cardinals head coach Mike LaFleur said RB Jeremiyah Love will get \"some running in\" on Tuesday. ",
+      "id": 614871,
+      "impact": "Love missed Sunday's win over the Rams. The Cardinals will have a better idea of where he's at and what he'll do on Wednesday.",
+      "link": "https://www.fantasypros.com/nfl/news/614871/jeremiyah-love-ankle-to-get-some-running-in-tuesday.php",
+      "player_id": 25403,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Jeremiyah Love (ankle) to get 'some running in' Tuesday "
     },
     {
       "author": "Ari Koslow",
@@ -201,33 +63,16 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-10-19 17:37:46",
-      "created_formated": "Mon, Oct 19th 5:37pm UTC",
-      "desc": "The Falcons released QB Cooper Rush. ",
-      "id": 614774,
-      "impact": "Rush struggled to begin the season as the Falcons starter. Atlanta signed Andy Dalton as the corresponding move. ",
-      "link": "https://www.fantasypros.com/nfl/news/614774/cooper-rush-released-by-falcons.php",
-      "player_id": 16477,
+      "created": "2026-10-19 23:28:17",
+      "created_formated": "Mon, Oct 19th 11:28pm UTC",
+      "desc": "The Ravens signed kicker Jake Moody to their practice squad. ",
+      "id": 614870,
+      "impact": "Moody was with Baltimore earlier this season. He'll continue to add depth. ",
+      "link": "https://www.fantasypros.com/nfl/news/614870/jake-moody-signs-with-ravens-practice-squad.php",
+      "player_id": 24009,
       "sport_id": "NFL",
       "team_id": "FA",
-      "title": "Cooper Rush released by Falcons "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-19 17:36:47",
-      "created_formated": "Mon, Oct 19th 5:36pm UTC",
-      "desc": "The Falcons signed QB Andy Dalton. ",
-      "id": 614773,
-      "impact": "Dalton was recently released by the Eagles. He could compete with Tua Tagovailoa to backup Michael Penix Jr. ",
-      "link": "https://www.fantasypros.com/nfl/news/614773/andy-dalton-signs-with-falcons.php",
-      "player_id": 9907,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Andy Dalton signs with Falcons "
+      "title": "Jake Moody signs with Ravens' practice squad "
     },
     {
       "author": "Ari Koslow",
@@ -236,16 +81,141 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-19 17:33:12",
-      "created_formated": "Mon, Oct 19th 5:33pm UTC",
-      "desc": "Elijah Arroyo is expected to be placed on injured reserve. ",
-      "id": 614772,
-      "impact": "Arroyo is expected to miss an extended period of time. He'll miss at least four weeks if/when he is placed on injured reserve. ",
-      "link": "https://www.fantasypros.com/nfl/news/614772/elijah-arroyo-shoulder-to-likely-be-placed-on-ir.php",
-      "player_id": 23004,
+      "created": "2026-10-19 23:24:30",
+      "created_formated": "Mon, Oct 19th 11:24pm UTC",
+      "desc": "The Rams placed DT Poona Ford on injured reserve.",
+      "id": 614869,
+      "impact": "Ford will miss the rest of the season for the Rams. ",
+      "link": "https://www.fantasypros.com/nfl/news/614869/poona-ford-placed-on-ir.php",
+      "player_id": 17381,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Poona Ford placed on IR"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-19 23:23:45",
+      "created_formated": "Mon, Oct 19th 11:23pm UTC",
+      "desc": "The Rams placed DL Kobie Turner on injured reserve.",
+      "id": 614868,
+      "impact": "Turner will officially miss at least the next four weeks. It is another injury for the Rams defensive line. ",
+      "link": "https://www.fantasypros.com/nfl/news/614868/kobie-turner-groin-placed-on-ir.php",
+      "player_id": 25283,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Kobie Turner (groin) placed on IR"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-19 23:22:37",
+      "created_formated": "Mon, Oct 19th 11:22pm UTC",
+      "desc": "The Packers signed DT Mazi Smith.",
+      "id": 614867,
+      "impact": "Smith lands a deal after working out with Green Bay on Monday. He will add depth on the defensive line for the Packers. ",
+      "link": "https://www.fantasypros.com/nfl/news/614867/mazi-smith-signs-with-packers.php",
+      "player_id": 25253,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Mazi Smith signs with Packers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-19 23:20:41",
+      "created_formated": "Mon, Oct 19th 11:20pm UTC",
+      "desc": "The Seahawks activated Anthony Bradford's 21-day practice window.",
+      "id": 614866,
+      "impact": "Bradford was placed on injured reserve after Week 1. He is on track to have a chance to return in Week 7 against the Chiefs. ",
+      "link": "https://www.fantasypros.com/nfl/news/614866/anthony-bradford-has-practice-window-opened-by-seahawks.php",
+      "player_id": 25574,
       "sport_id": "NFL",
       "team_id": "SEA",
-      "title": "Elijah Arroyo (shoulder) to likely be placed on IR"
+      "title": "Anthony Bradford has practice window opened by Seahawks "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-19 23:18:41",
+      "created_formated": "Mon, Oct 19th 11:18pm UTC",
+      "desc": "The Rams hosted veteran kicker Matt Prater for a workout on Monday. ",
+      "id": 614865,
+      "impact": "The Rams are in the market for a new kicker after losing Blake Grupe for the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/614865/matt-prater-works-out-rams.php",
+      "player_id": 9443,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Matt Prater works out for Rams"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-19 23:18:03",
+      "created_formated": "Mon, Oct 19th 11:18pm UTC",
+      "desc": "The Rams hosted veteran kicker Brandon McManus for a workout on Monday. ",
+      "id": 614864,
+      "impact": "The Rams are in the market for a new kicker after losing Blake Grupe for the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/614864/brandon-mcmanus-works-out-rams.php",
+      "player_id": 13274,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Brandon McManus works out for Rams"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-10-19 22:51:21",
+      "created_formated": "Mon, Oct 19th 10:51pm UTC",
+      "desc": "Mike Evans (ribs/achilles) is officially active for Week 6 for the San Francisco 49ers according to Adam Schefter.",
+      "id": 614863,
+      "impact": "",
+      "link": "https://www.fantasypros.com/nfl/news/614863/mike-evans-ribsachilles-active-week-6.php",
+      "player_id": 12119,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Mike Evans (ribs/achilles) active for Week 6"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-10-19 22:49:13",
+      "created_formated": "Mon, Oct 19th 10:49pm UTC",
+      "desc": "Stefon Diggs (hamstring) is officially active for Week 6 for the Washington Commanders according to Adam Schefter.",
+      "id": 614862,
+      "impact": "",
+      "link": "https://www.fantasypros.com/nfl/news/614862/stefon-diggs-hamstring-active-week-6.php",
+      "player_id": 13981,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Stefon Diggs (hamstring) active for Week 6"
     },
     {
       "author": "Ari Koslow",
@@ -254,177 +224,203 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-19 17:31:26",
-      "created_formated": "Mon, Oct 19th 5:31pm UTC",
-      "desc": "Monroe Freeling could return in Week 7 against the Buccaneers. ",
-      "id": 614771,
-      "impact": "\"This is a first-round pick for us but we're gonna do what's best for the Panthers,\" Panthers coach Dave Canales said. Freeling will need to be monitored in practice throughout the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/614771/monroe-freeling-knee-could-return-week-7.php",
-      "player_id": 28076,
+      "created": "2026-10-19 21:27:34",
+      "created_formated": "Mon, Oct 19th 9:27pm UTC",
+      "desc": "Micah Parsons will not practice this week. ",
+      "id": 614845,
+      "impact": "Parsons will not return in Week 7. The Packers are not ruling out a Week 8 return for him. ",
+      "link": "https://www.fantasypros.com/nfl/news/614845/micah-parsons-knee-not-practicing-this-week.php",
+      "player_id": 19784,
       "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Monroe Freeling (knee) could return in Week 7"
+      "team_id": "GB",
+      "title": "Micah Parsons (knee) not practicing this week"
     },
     {
-      "author": "Garrett Ball",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News"
       ],
-      "created": "2026-10-19 16:58:52",
-      "created_formated": "Mon, Oct 19th 4:58pm UTC",
-      "desc": "Jalon Daniels is starting off practice on Wednesday as the presumed starter, at least for initial game planning, for Week 7. Baker Mayfield is set to return to practice, and his performance will likely determine which of the two will end up being named the starter against Carolina.",
-      "id": 614769,
-      "impact": "If Mayfield shows enough spark throughout the weeks and few ill effects from his injury, Mayfield will likely start unless the Bucs show an abundance of caution and start Daniels anyway. If Baker can't go, Daniels has shown decent enough ability when rushing to at least give him a floor, but lacks much of a ceiling due to little passing production in each of his three starts.",
-      "link": "https://www.fantasypros.com/nfl/news/614769/jalon-daniels-starter-status-up-air-mayfield-returning.php",
-      "player_id": 26060,
+      "created": "2026-10-19 21:26:04",
+      "created_formated": "Mon, Oct 19th 9:26pm UTC",
+      "desc": "The Raiders released Evan Neal from their practice squad. ",
+      "id": 614844,
+      "impact": "Neal will figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/614844/evan-neal-released-by-raiders.php",
+      "player_id": 23468,
       "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Jalon Daniels starter status up in the air Mayfield returning"
+      "team_id": "FA",
+      "title": "Evan Neal released by Raiders "
     },
     {
-      "author": "Garrett Ball",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-10-19 16:52:39",
-      "created_formated": "Mon, Oct 19th 4:52pm UTC",
-      "desc": "Baker Mayfield (thumb) is set to practice on Wednesday to test his health for Week 7's contest against Carolina.",
-      "id": 614768,
-      "impact": "While Mayfield is expected to start practicing, the team is still planning as if Jalon Daniels will start in Week 7, which isn't surprising given the situation. If Mayfield is healthy enough to start, then he will likely lead the team against the Panthers and be a low-end QB2 for fantasy.",
-      "link": "https://www.fantasypros.com/nfl/news/614768/baker-mayfield-thumb-set-to-practice-on-wednesday.php",
-      "player_id": 17237,
+      "created": "2026-10-19 21:25:34",
+      "created_formated": "Mon, Oct 19th 9:25pm UTC",
+      "desc": "The Raiders released Chris Myarick from their practice squad. ",
+      "id": 614843,
+      "impact": "Myarick will figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/614843/chris-myarick-released-by-raiders.php",
+      "player_id": 19098,
       "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Baker Mayfield (thumb) set to practice on Wednesday"
+      "team_id": "FA",
+      "title": "Chris Myarick released by Raiders"
     },
     {
-      "author": "Garrett Ball",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-10-19 16:46:57",
-      "created_formated": "Mon, Oct 19th 4:46pm UTC",
-      "desc": "Sauce Gardner (calf) is expected to miss time with a calf strain and is labeled week-to-week. However, he's not expected to miss an extended period.",
-      "id": 614767,
-      "impact": "Gardner was unable to finish the Colts game against the Titans due to the injury. It's tough blow to an already struggling secondary, but it's not as if Gardner is wasn't part of the problem.",
-      "link": "https://www.fantasypros.com/nfl/news/614767/sauce-gardner-calf-expected-to-miss-time-with-calf-strain.php",
-      "player_id": 23472,
+      "created": "2026-10-19 21:24:43",
+      "created_formated": "Mon, Oct 19th 9:24pm UTC",
+      "desc": "The Raiders signed Darian Kinnard to their practice squad. ",
+      "id": 614842,
+      "impact": "Kinnard will add depth for the Raiders. ",
+      "link": "https://www.fantasypros.com/nfl/news/614842/darian-kinnard-signs-with-raiders.php",
+      "player_id": 23479,
       "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Sauce Gardner (calf) expected to miss time with calf strain"
+      "team_id": "FA",
+      "title": "Darian Kinnard signs with Raiders "
     },
     {
-      "author": "Leo Sells",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Results"
+        "News"
       ],
-      "created": "2026-10-19 16:37:48",
-      "created_formated": "Mon, Oct 19th 4:37pm UTC",
-      "desc": "The Raiders' D/ST logged two sacks and allowed 33 points in Sunday's loss to the Buffalo Bills.",
-      "id": 614766,
-      "impact": "Las Vegas' defense was outmatched on Sunday. They allowed Buffalo's offense to score 33 points over the course of the afternoon, and they weren't able to log any big plays to help turn the tide of the game. This unit shouldn't be started moving forward, even in favorable matchups.",
-      "link": "https://www.fantasypros.com/nfl/news/614766/raiders-dst-struggles-loss-sunday.php",
-      "player_id": 8220,
+      "created": "2026-10-19 21:23:45",
+      "created_formated": "Mon, Oct 19th 9:23pm UTC",
+      "desc": "The Raiders signed Amari Kight to their practice squad. ",
+      "id": 614841,
+      "impact": "Kight will add depth for the Raiders. ",
+      "link": "https://www.fantasypros.com/nfl/news/614841/amari-kight-signs-with-raiders.php",
+      "player_id": 27782,
       "sport_id": "NFL",
       "team_id": "LV",
-      "title": "Raiders D/ST struggles in loss Sunday"
+      "title": "Amari Kight signs with Raiders "
     },
     {
-      "author": "Leo Sells",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Results"
+        "News"
       ],
-      "created": "2026-10-19 16:36:16",
-      "created_formated": "Mon, Oct 19th 4:36pm UTC",
-      "desc": "Matt Gay went 3-for-3 on his field-goal attempts and 3-for-3 on his extra-point attempts in Sunday's 33-30 loss to the Buffalo Bills.",
-      "id": 614765,
-      "impact": "Gay did his job on Sunday, knocking down all six of his attempted kicks in Las Vegas' narrow loss to the Buffalo Bills. Fantasy managers should be happy with his performance and should continue to view him as a decent fantasy option at the position moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/614765/matt-gay-scores-12-points-loss-sunday.php",
-      "player_id": 18545,
+      "created": "2026-10-19 21:19:10",
+      "created_formated": "Mon, Oct 19th 9:19pm UTC",
+      "desc": "The Patriots released D'Shawn Jamison from their practice squad. ",
+      "id": 614840,
+      "impact": "Jamison will seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/614840/dshawn-jamison-released-by-patriots.php",
+      "player_id": 25629,
       "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Matt Gay scores 12 points in loss Sunday"
+      "team_id": "NE",
+      "title": "D'Shawn Jamison released by Patriots "
     },
     {
-      "author": "Leo Sells",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Results"
+        "News"
       ],
-      "created": "2026-10-19 16:34:17",
-      "created_formated": "Mon, Oct 19th 4:34pm UTC",
-      "desc": "Dylan Laube rushed the ball one time for zero yards and caught one pass for -1 yards in Sunday's 33-30 loss to the Buffalo Bills.",
-      "id": 614764,
-      "impact": "Laube was able to play on Sunday but didn't do much against the Bills. He saw just two touches and finished with negative yards in this matchup. He is clearly eclipsed by Mike Washington Jr. on the depth chart at this point, so he will be irrelevant from a fantasy perspective moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/614764/dylan-laube-uninvolved-loss-sunday.php",
-      "player_id": 26194,
+      "created": "2026-10-19 21:18:27",
+      "created_formated": "Mon, Oct 19th 9:18pm UTC",
+      "desc": "The Patriots signed Andrew Rupcich to their practice squad. ",
+      "id": 614839,
+      "impact": "Rupcich will add depth for New England. ",
+      "link": "https://www.fantasypros.com/nfl/news/614839/andrew-rupcich-signs-with-patriots.php",
+      "player_id": 24679,
       "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Dylan Laube uninvolved in loss Sunday"
+      "team_id": "NE",
+      "title": "Andrew Rupcich signs with Patriots "
     },
     {
-      "author": "Leo Sells",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Results"
+        "News"
       ],
-      "created": "2026-10-19 16:32:49",
-      "created_formated": "Mon, Oct 19th 4:32pm UTC",
-      "desc": "Jalen Nailor caught 1-of-4 targets for nine yards in Sunday's 33-30 loss to the Buffalo Bills.",
-      "id": 614763,
-      "impact": "Nailor wasn't able to do much on Sunday. He caught just one pass over the course of the game and was only able to turn that into nine yards, which left him with a terrible fantasy total. Fantasy managers shouldn't have high expectations for him moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/614763/jalen-nailor-quiet-loss-sunday.php",
-      "player_id": 24177,
+      "created": "2026-10-19 21:17:47",
+      "created_formated": "Mon, Oct 19th 9:17pm UTC",
+      "desc": "The Patriots signed Jacob Rizy to their practice squad. ",
+      "id": 614838,
+      "impact": "Rizy will add depth for New England. ",
+      "link": "https://www.fantasypros.com/nfl/news/614838/jacob-rizy-signs-with-patriots.php",
+      "player_id": 28819,
       "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Jalen Nailor quiet in loss Sunday"
+      "team_id": "NE",
+      "title": "Jacob Rizy signs with Patriots "
     },
     {
-      "author": "Leo Sells",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Results"
+        "News"
       ],
-      "created": "2026-10-19 16:30:59",
-      "created_formated": "Mon, Oct 19th 4:30pm UTC",
-      "desc": "Michael Mayer hauled in 7-of-9 targets for 95 yards in Sunday's 33-30 loss to the Buffalo Bills.",
-      "id": 614762,
-      "impact": "Mayer had a great performance on Sunday. He set a new career high in receiving yards against the Bills, racking up 95 on his seven catches, which left him with a great fantasy total. He may have some good games here or there moving forward, but he's unlikely to be a reliable week-to-week asset with TE Brock Bowers still easily ahead of him in the pecking order at this point.",
-      "link": "https://www.fantasypros.com/nfl/news/614762/michael-mayer-hauls-seven-passes-sunday.php",
-      "player_id": 23056,
+      "created": "2026-10-19 21:16:58",
+      "created_formated": "Mon, Oct 19th 9:16pm UTC",
+      "desc": "The Patriots signed Ryan Miller. ",
+      "id": 614837,
+      "impact": "Miller was waived by Miami. He will add depth with New England. ",
+      "link": "https://www.fantasypros.com/nfl/news/614837/ryan-miller-signs-with-patriots.php",
+      "player_id": 15024,
       "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Michael Mayer hauls in seven passes Sunday"
+      "team_id": "FA",
+      "title": "Ryan Miller signs with Patriots "
     },
     {
-      "author": "Leo Sells",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Results"
+        "News"
       ],
-      "created": "2026-10-19 16:28:54",
-      "created_formated": "Mon, Oct 19th 4:28pm UTC",
-      "desc": "Mike Washington Jr. rushed the ball nine times for 43 yards and caught one pass for seven yards in Sunday's 33-30 loss to the Buffalo Bills.",
-      "id": 614760,
-      "impact": "Washington was surprisingly involved on Sunday. He saw just one less carry than Ashton Jeanty over the course of the afternoon, and he was much more efficient with his work, leading the team in rushing yards at an efficient clip of 4.8 yards per carry as opposed to Jeanty's 2.2 yards per carry. Washington may be earning more touches for himself moving forward, which would be bad news for the fantasy value of Jeanty.",
-      "link": "https://www.fantasypros.com/nfl/news/614760/mike-washington-jr-leads-team-rushing-sunday.php",
-      "player_id": 28108,
+      "created": "2026-10-19 21:16:03",
+      "created_formated": "Mon, Oct 19th 9:16pm UTC",
+      "desc": "The Patriots signed Elliott Davison to their 53-man roster. ",
+      "id": 614836,
+      "impact": "Davison will add depth in the safety room for New England. ",
+      "link": "https://www.fantasypros.com/nfl/news/614836/elliott-davison-signs-to-patriots-active-roster.php",
+      "player_id": 27784,
       "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Mike Washington Jr. leads team in rushing Sunday"
+      "team_id": "NE",
+      "title": "Elliott Davison signs to Patriots active roster"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-19 21:11:43",
+      "created_formated": "Mon, Oct 19th 9:11pm UTC",
+      "desc": "The 49ers elevated WR Malik Turner for Monday's game against the Commanders. ",
+      "id": 614835,
+      "impact": "Turner will add depth in the wide receiver room for San Francisco. ",
+      "link": "https://www.fantasypros.com/nfl/news/614835/malik-turner-elevated-by-49ers.php",
+      "player_id": 18168,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Malik Turner elevated by 49ers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-19 21:11:01",
+      "created_formated": "Mon, Oct 19th 9:11pm UTC",
+      "desc": "The 49ers elevated LB Jalen Graham for Monday's game against the Commanders. ",
+      "id": 614834,
+      "impact": "Graham will add depth in the linebacker room for San Francisco. ",
+      "link": "https://www.fantasypros.com/nfl/news/614834/jalen-graham-elevated-by-49ers.php",
+      "player_id": 25577,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Jalen Graham elevated by 49ers "
     }
   ],
   "public_api": true,

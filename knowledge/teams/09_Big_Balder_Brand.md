@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 5
-- Last updated from Sleeper exports: 2026-10-19
+- Last updated from Sleeper exports: 2026-10-20
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 546.9
 - championship_lineup_c_avi_avg: 68.36
-- offensive_roster_c_avi_sum: 927.4
-- offensive_roster_c_avi_avg: 57.96
-- offensive_roster_d_avi_sum: 1170.4
-- offensive_roster_d_avi_avg: 73.15
+- offensive_roster_c_avi_sum: 889.1
+- offensive_roster_c_avi_avg: 55.57
+- offensive_roster_d_avi_sum: 1110.8
+- offensive_roster_d_avi_avg: 69.42
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 29.7
+- Championship AVI (C-AVI, 0-100): 29.8
 - Dynasty AVI (D-AVI, 0-100): 48.1
 - Projected PPR points: 32.0
 - Category: offense
@@ -211,6 +211,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 26.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Austin Ekeler
+- Player name: Austin Ekeler
+- Player ID: 4663
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: WAS
+- Active: True
+- Status: Active
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 0.0
+- Projected PPR points: None
+- Category: offense
+- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Nico Collins
 - Player name: Nico Collins
@@ -294,23 +311,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 93.1
 - Dynasty AVI (D-AVI, 0-100): 92.6
 - Projected PPR points: 234.9
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Greg Dulcich
-- Player name: Greg Dulcich
-- Player ID: 8172
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: TE
-- Fantasy positions: ['TE']
-- NFL team: MIA
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 38.4
-- Dynasty AVI (D-AVI, 0-100): 59.6
-- Projected PPR points: 110.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

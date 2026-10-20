@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 990097041671892992
 - Division: 4
 - Waiver position: 2
-- Last updated from Sleeper exports: 2026-10-19
+- Last updated from Sleeper exports: 2026-10-20
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 536.5
-- championship_lineup_c_avi_avg: 67.06
-- offensive_roster_c_avi_sum: 889.4
+- championship_lineup_c_avi_sum: 536.6
+- championship_lineup_c_avi_avg: 67.08
+- offensive_roster_c_avi_sum: 889.5
 - offensive_roster_c_avi_avg: 52.32
 - offensive_roster_d_avi_sum: 1116.0
 - offensive_roster_d_avi_avg: 65.65
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Bo Nix | C-AVI: 50.7 | D-AVI: 75.7
 - RB: Kyren Williams | C-AVI: 87.0 | D-AVI: 89.6
-- RB: Aaron Jones | C-AVI: 61.6 | D-AVI: 63.0
+- RB: Aaron Jones | C-AVI: 61.7 | D-AVI: 63.0
 - WR: Christian Watson | C-AVI: 87.3 | D-AVI: 89.8
 - WR: Emeka Egbuka | C-AVI: 74.3 | D-AVI: 90.5
 - TE: Jake Ferguson | C-AVI: 53.9 | D-AVI: 76.7
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 61.6
+- Championship AVI (C-AVI, 0-100): 61.7
 - Dynasty AVI (D-AVI, 0-100): 63.0
 - Projected PPR points: 137.1
 - Category: offense
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 36.1
+- Championship AVI (C-AVI, 0-100): 36.2
 - Dynasty AVI (D-AVI, 0-100): 28.8
 - Projected PPR points: 69.8
 - Category: offense
@@ -255,7 +255,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Fantasy positions: ['WR']
 - NFL team: NE
 - Active: True
-- Status: Active
+- Status: Inactive
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 56.7
 - Dynasty AVI (D-AVI, 0-100): 71.7
@@ -291,7 +291,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 33.9
+- Championship AVI (C-AVI, 0-100): 33.8
 - Dynasty AVI (D-AVI, 0-100): 45.2
 - Projected PPR points: 57.6
 - Category: offense

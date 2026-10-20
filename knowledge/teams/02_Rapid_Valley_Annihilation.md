@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1178861684281753600
 - Division: 2
 - Waiver position: 15
-- Last updated from Sleeper exports: 2026-10-19
+- Last updated from Sleeper exports: 2026-10-20
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 401.1
-- championship_lineup_c_avi_avg: 50.14
-- offensive_roster_c_avi_sum: 796.7
+- championship_lineup_c_avi_sum: 401.0
+- championship_lineup_c_avi_avg: 50.12
+- offensive_roster_c_avi_sum: 796.6
 - offensive_roster_c_avi_avg: 44.26
-- offensive_roster_d_avi_sum: 1146.6
-- offensive_roster_d_avi_avg: 63.70
+- offensive_roster_d_avi_sum: 1146.5
+- offensive_roster_d_avi_avg: 63.69
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Caleb Williams | C-AVI: 74.9 | D-AVI: 85.2
 - RB: Ollie Gordon | C-AVI: 42.0 | D-AVI: 51.1
-- RB: Justice Hill | C-AVI: 33.8 | D-AVI: 40.9
+- RB: Justice Hill | C-AVI: 33.7 | D-AVI: 40.8
 - WR: Denzel Boston | C-AVI: 63.9 | D-AVI: 81.1
 - WR: Quentin Johnston | C-AVI: 44.1 | D-AVI: 68.5
 - TE: Colston Loveland | C-AVI: 60.8 | D-AVI: 85.9
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 33.8
-- Dynasty AVI (D-AVI, 0-100): 40.9
+- Championship AVI (C-AVI, 0-100): 33.7
+- Dynasty AVI (D-AVI, 0-100): 40.8
 - Projected PPR points: 67.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872351659366539264
 - Division: 1
 - Waiver position: 8
-- Last updated from Sleeper exports: 2026-10-19
+- Last updated from Sleeper exports: 2026-10-20
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 453.8
-- championship_lineup_c_avi_avg: 56.73
-- offensive_roster_c_avi_sum: 780.7
+- championship_lineup_c_avi_sum: 453.9
+- championship_lineup_c_avi_avg: 56.74
+- offensive_roster_c_avi_sum: 780.8
 - offensive_roster_c_avi_avg: 52.05
 - offensive_roster_d_avi_sum: 1029.3
 - offensive_roster_d_avi_avg: 68.62
@@ -31,7 +31,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jordan Love | C-AVI: 54.9 | D-AVI: 74.2
-- RB: RJ Harvey | C-AVI: 56.6 | D-AVI: 71.7
+- RB: RJ Harvey | C-AVI: 56.7 | D-AVI: 71.7
 - RB: MarShawn Lloyd | C-AVI: 51.5 | D-AVI: 56.7
 - WR: Mike Evans | C-AVI: 82.4 | D-AVI: 80.8
 - WR: Stefon Diggs | C-AVI: 63.6 | D-AVI: 65.4
@@ -87,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 56.6
+- Championship AVI (C-AVI, 0-100): 56.7
 - Dynasty AVI (D-AVI, 0-100): 71.7
 - Projected PPR points: 144.1
 - Category: offense
