@@ -1,5 +1,306 @@
 [
   {
+    "id": "mvh5a1uf-8b091e37",
+    "createdAt": 1792528739162,
+    "expiresAt": 1792960739162,
+    "mode": "improve_team",
+    "title": "Initial Improve My Team · Mile High Royal Lions",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Mile High Royal Lions",
+      "goal": "Win Championship",
+      "targetPosition": "RB, WR",
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "The Mile High Royal Lions are positioned in a prime Playoff Push window anchored by Jalen Hurts/Matthew Stafford at QB, Jahmyr Gibbs at RB, and a deep receiving corps led by Drake London and Garrett Wilson. To maximize championship odds in 2026, the front office should consolidate surplus talent into true high-ceiling starters at RB and WR. Grounded analysis identifies two realistic target opportunities: leveraging confirmed trade-block asset Amon-Ra St. Brown from contender All Hail King Jesus by solving their severe RB2 weakness, and acquiring veteran elite RB Derrick Henry from retooling Ravens Regime in exchange for young wide receiver production and draft capital.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Playoff Push",
+          "strengths": [
+            "Elite backfield anchor in Jahmyr Gibbs (C-AVI: 99.0)",
+            "High-end tier-one receiving core (Drake London, Garrett Wilson, Davante Adams)",
+            "Strong tight end tandem in Travis Kelce (C-AVI: 78.0) and Dalton Schultz (C-AVI: 61.6)",
+            "Solid future draft pick inventory including multiple 2027 and 2028 2nd-round picks"
+          ],
+          "priorityNeeds": [
+            "S-tier WR consolidation to upgrade the weekly starting FLEX/WR lineup ceiling",
+            "Elite RB1/RB2 pairing alongside Jahmyr Gibbs for championship week consistency"
+          ],
+          "tradeableSurplus": [
+            "Starting-caliber RB depth (J.K. Dobbins)",
+            "Young WR assets with dynasty upside (Marvin Harrison)",
+            "Secondary future draft capital (2027 and 2028 Round 2 picks)"
+          ],
+          "constraintsApplied": [
+            "Target positions strictly filtered to RB and WR",
+            "Two-organization goal matching enforced (Target team goals matched explicitly)",
+            "Starter-for-starter realism enforced across full 16-team league pool",
+            "Injured/inactive players excluded from immediate active lineup projections",
+            "Confirmed trade-block availability credited without waiving target team goal criteria"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 13,
+          "eliminationReasons": [
+            "Conquistadors (Win Championship): De'Von Achane is listed on the trade block but suffered a season-ending torn ACL in Week 3; cannot fulfill immediate active championship lineup requirements.",
+            "Corgi Loaf Baking Co. (Increase Championship Odds): Patrick Mahomes is available on the trade block but target position request is strictly RB/WR.",
+            "Rebuilding teams (Crimson Tide Pods, DMV Fantasy, Rapid Valley Annihilation) lack available top-tier RB/WR starters matching current championship acquisition criteria without overpaying in core cornerstones."
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Ravens Regime ",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Derrick Henry",
+                "assetType": "player",
+                "owner": "Ravens Regime ",
+                "position": "RB",
+                "age": 32,
+                "cavi": 90.5,
+                "davi": 84.7,
+                "publicMarket": 85,
+                "leagueMarket": 88
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Marvin Harrison",
+                "assetType": "player",
+                "owner": "Mile High Royal Lions",
+                "position": "WR",
+                "age": 24,
+                "cavi": 50.4,
+                "davi": 76.7,
+                "publicMarket": 78,
+                "leagueMarket": 75
+              },
+              {
+                "name": "2027 Round 2 Pick (All Hail King Jesus)",
+                "assetType": "pick",
+                "owner": "Mile High Royal Lions",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 50,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Contender Buy-In / Age-Curve Retool Swap",
+            "strategicGoal": "Acquire an elite high-volume RB1 to form a dominant 1-2 backfield punch alongside Jahmyr Gibbs.",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 23,
+              "packageMatch": 18,
+              "lineupReplacement": 12,
+              "competitiveWindow": 10
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 85,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Derrick Henry provides immediate 90.5 C-AVI production and touchdowns in Baltimore's offense, giving Mile High Royal Lions two elite top-5 starting running backs for the playoff push.",
+            "whyOpponentMightAccept": "Ravens Regime is in a verified Retooling window. Derrick Henry (age 32) does not fit their 2-3 year championship horizon. Receiving 24-year-old Marvin Harrison plus an extra 2027 2nd-round pick aligns perfectly with their retool strategy.",
+            "championshipImpact": "Immediate elite boost to RB2/FLEX starting scoring (+40.1 C-AVI net increase over bench options).",
+            "dynastyImpact": "Trades age-curve longevity for maximum 2026 title leverage while retaining 2027/2028 1st-round draft picks.",
+            "rosterImpact": "Locks down the RB position with Gibbs and Henry while preserving Drake London, Garrett Wilson, and Davante Adams at WR.",
+            "publicMarketContext": "Public dynasty sentiment values Derrick Henry highly for redraft/win-now, but discounts his value in retooling dynasty contexts due to age.",
+            "risks": [
+              "Age cliff risk for 32-year-old Derrick Henry after 2026.",
+              "Marvin Harrison developing into a consistent WR1/2 in future seasons."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Marvin Harrison + 2027 2nd-round pick (AHKJ) as a retool-friendly package for Derrick Henry.",
+              "acceptableConcession": "Upgrade the draft pick to a 2028 2nd-round pick or add a 2027 3rd-round pick if heavily contested.",
+              "walkAwayPoint": "Walk away if Ravens Regime demands a 2027 or 2028 1st-round pick on top of Marvin Harrison."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Breece Hall news 2026",
+          "Amon Ra St Brown news 2026",
+          "George Pickens news 2026",
+          "Jaxon Smith Njigba news 2026",
+          "Patrick Mahomes news 2026",
+          "Devon Achane news 2026",
+          "Matthew Golden news 2026",
+          "Devaughn Vele news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfIiecWRJrY1qIh60drVWNxCu-HpIm1DJphr4Utk9G7awSSx46sDfx2c-91S5BukJGBiigLbvAd2ZLcZO7Pt7XIHRWz2vHAqLryrVyfG_-dNUVAUGNMIIY0TaVfnXPxKTZSh0a7dzS4jpsctXpo37q2lCI8iPRhTp0K3jtA9UP8DG7P4leg1qDW6co1w-2DYPQaFVR4jBetOxooj99rnoDVqj5Y3TXqEX9lCk7QfRZBC75p0vzuSo380udYRNV47N0p3wdwSKSYz60pRI=",
+            "title": "rotoviz.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE34n4BpQreTd9xdIEjnhoz_CD5YE38d7cnw0gl3xKGkdbWyPhyRFFXT-0j1pYqbY9GSMmqm8G2f2YBO70-eag-to1wx8Gab_1gd9IC1Fdh-g1BoUEl2EDwL6MeGSQJ7OrXlnAB7k8JBmSuTdjcKHFMmoDcfMe2MG04awmxNnrRkTN9Cv2INuF4J8xDZNexgEvybHe7woVH2-yNaGp-4POEc-nGb7LLQxy_IQ==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbYqdBhBlTn_caOcqWvrlW1K5QuxQmDM-kRBspiusgbLElw2X-krCyPWLT3PNYK5p8yOesVWDHc8f3ylBA73430FS7fHJ_6JNsja76mxWBqqflO6pAc6EhFfKlTVqSRJcwn-QKc3HI5rzoh2ht-cc9mCNOEoSP2KXeLajj6BKDL7LQTtoyF1rD2h7fLgUNwz3iWeeVYoWD3JZIBmCOPYK5PFVBcyww8r-tCeAP",
+            "title": "newyorkjets.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkWYHx6lqGEIaZkDLXDzj_Q8O_444ouGhOVdessQ7YXIK8DCK3khYAJ5OkYzkelcoGdeofOmQ82wW_CmZyRF7UjipxnZDH6UTLoxv8XHAO-B7d4KeneKBEmdjgUFUjdb5wg5egFBlA4Ua9iuzc5rcW88jFWkitO6ISKLYaqo2aFiCsHb2qhwoWxUGFVXU_nalDU2df4d1v-9Dt6g6aYQ==",
+            "title": "thejetpress.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKig87OK8Nwv8uLvGnz9MkgtNSxkdfLO8KusJ87IC9WcmEdmBaQSbpberLk95TLlfwaFzJPAqNMfdrMOriG_LuMc_zHNv7WAy9pmO80NjzXo8sg9r7otfrl5n5KVYlng1D6mgf1PSyWdQvhhHCOr7p6dGusEOS2PgaAfvsmmdg5CfjnxO_cTAeNook1vgnxB9Ibv-8cFWUmaYdb420",
+            "title": "dallascowboys.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtqECBw5383e0ijUoqGnnr9mXegZE1SQPkdx30JSurA4DqiCi7D-NWDrv-BsYuq9HoSiLRkX-7dqdVS4ILlVMMuXRkgCK06BQEs1GtSdVn8SUJlFoA-59uSi5vJL7Ae2l-zQU_LDk6XP46IHDP5h3nCh-tC9euxpBMRGKgFrlzG63o56L213XpRUTi65Z-0qJx",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBzFsIC5CGy1PMTKTgXbpfDIarH1uaf5jl0jszEZPSPhX4bg88SLIvvb3k3OzQTGeL6UDQ_weJP79SS6chxxueXD9DD3fMuEZomgM01u2a96obArjV4WcpudfWSpASXwMR7NzK6eMyHbctc2L2AhWw0TLpcw0UGcqxED_JMD_NwWMl",
+            "title": "lastwordonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHvEDqms0cR9ycmSfzcScv86SLAO53x1KVAkgqd_n9-5sUMPSfITpqIXmvO6nDnAHbwQY5yZldCBsv07IX7JpRY0mJsUi_EXrvlGe_Wo9jAbBDSIgOYMZ115NiYt6BiaSVCT-PDIg8zIdzOSl75MjarMycEvWbQYM_oxB4owfUG35CnH2ouEQHmfTvTkvt7RKGZrOxUmB66c1Fqg8JwZ5rhW_Ua87j5hU=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_wftPGoBFNk6CbQHf5ahChfxv4Xs0dvbp7EFEoQGNRgHWKSGEUcIJZvIbJs1dAJWz0UvzJsn5mNisnl3G52FpOMbn4tnkOy55KHwAnviFwsvCPlB8GXovtf974bVXi9ONV56hA1P4Nu4LnmsIPbLoLH13fPClp8HBIqhph2RQxW9_9GFUEMr0aymi5yB2fkiGoIFBxxzLzBP7t5wx2BGgoWtHraeNtoSOv9XVpkXWpT6HyUwXQ8-vukY=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWj016cjLyKWPrApaT663o2YkHwZx1yyq4yqVuQofVrmMXUEjBB57in4l7oknL6Z0HCdpJgCZA-Vqgy61uUVW8N62wlAhJndKYVS36MOLZzywerUjUC7JioOuf3oPWssaIPIu1H7MFR-Sm8I_TreVfWdDL5zxsetQYoYlyhbP3VBNx7JZhHXs=",
+            "title": "12thmanrising.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdMNZ4KOI34V1E3qLMzfPMkL8JSeEAxNSjPZA_46SvHTm_OXZGIsHxtnF5nXPQFooMeZksJ2swbRbzVSCRZ4TsBo9sgxlrXtAdb7EKj-6U0P70ClCMIWEQqps8NXdJDegPhwDDwbzIi8Jz90rIQHHbUUwr4pjPZUYwnRKV43nfaRQ9jz_ogJKhjbDZ",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETdXoOcxQGFHIkJ22sdmaDnuXLeHeUeh-ug4nDELJpU7MzYUvCP-N8szGrnXhfCub6AJ2WTNYqTgml-94e6ocrVjqU8zDbjuiO2S7ULGpPoOtRy9CS6hHV17ZyAlNIwlv_8UFwTO5FTqGZfLkgqIDiRV9QJ-iHsp18RYmhge79kKEKL229UIUg-Yj3LJov-JjFmdSLltkT60gidbZ5",
+            "title": "saturdaydownsouth.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-tZ0jqbtE6gu1oJpghlftgr88BmRPeZSsTqcdMLfbFP1-Oyv5P_VoZ-FP0UHinseWti9t4BQg_PCAYuVaUCDwowe9sbgsWdSYH7RwhUhDjFucQe0HIDvBAb2ExmabQRsbSvmvC9fWjNX5H79g6ORo-S35dvDo4ApQanDTQu5GMIJ7XDyo9gIH2C1_xzWaqTxlxZ7_cK-1bg9dXrvfbbM=",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF78QlyN_esae0bL7EmivyKLNDrcm4xaslPMyjONvaC1r6_Rd9HV-7D2ILMtYyyJ0ZEclo6PDyboKrV9eBRTSrg5yuwmQ88qd5xYDnGPfaA2odoVfUw8P3XG5ZghYEOB0RjmdUQloVBcMq3y0kh3w3Igbkj-0Ye3_GNJ1GHRnHNKA087HGpd-XcDrU6nc0ceTkaQ21yVK09oD-IuaM61vbvDUtf5iJlyA==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2d8Wm6bxAWu2yfHvOW9syecDT56TmoxGbYf1myn3oH8pC7r3_xy6EYW3YuvuMJrhoisknwikP9QJzr7WxuzdYA7Xo3eTbzqItqf_OmyEE5X9woilAvGSg7UMb3saD-E83O2dIWPPaQIYM6M0XIy-Dm1F28qd1dZKj6gRGtIrPD6jWrblGmU2iyR-0srREKi5KNIoVhyZUQenFGEAU5cIb",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH01SFTx0EelENB4zY42C4yZltDWMjRxa5HAugy7uSkxFuuzpkPGIZoYbFVHudsnMLTx5kQMd1-cXB0kD4RBFS7gQEVcGICdJTu_-TbEcITfnsFj_DXl5cZ27miAhIKVGa2tUbOM0m0MmFHTP1e2fsJpK3Cl8nRy-hqu8tb0tMXAxH6nRcRewysk57dY8j3ikyM3JubA00=",
+            "title": "lombardiave.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXeVhIfDr7s3TA1jnasxiFG4S7uJDS0CALwCP3qU_mKuWpzy9WHP3fQtXGJNlm7VqkZmfUKyLcFkyKf-lA5s6KyMqiS1-gGFf7fGKtcQzIzDPHlV36aj8Sr7OwCAzWdkUusMaBV31l0jl4GivzXaXerFpe8Uz0WL-2lzikN-fTiAO0U6nZneSrq0ldIerBnKycIW5VbMybNJz_E8zxstkUnA5pHlr8fxI=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVkNHTVJjFQSW77qXp83uNjqSAaKxLkWi9guPucP8DgA79GXMDM9rLe8sOvrk92oaEQZ19wC8jSzOYQK5cgW0YpiZvXUkaqie_z4doGzBXUvczEDbXC85pyDXHcUb1gvXWI4SZ0dGgLrcI5aC5e-9WAtdxNQC3Wfb7jgL9kZLcvdvbyEtSrcjbdb39y_4QMdKWjn8L2jqGMeqqqNC-_w==",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbkPE9O1x4eysgJgpBc0NXNiWia4144C8G7WZSCdzzz03fLVeWIVTBjXNSMO-naaHWkYMqaXIplMTYHXOS2UdyaLE0MJHGrhuCkr_m0ZGvyXcz3tlhIa1TZtIAcBUGQnPP3c2UCM07innSXDPUdmV_k6_OItLAMoXwdH6H9MQYxqqzr5H1byfvxDA3yOCwpbHzfR54TIEJQFYDZg==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfpw0LULDEwq5AT-E5ZSKgNqCP2vzAVrNkCDc1iN1xTQuZiRRjNdW_K8KLPDKTQL_zgl9B3M3oNHWn13osoDgC0ldnEGKEq1H3yArPRE7Z73TifFXnpHhBYs8xxOFJa5oMl2jBX6FFcNp56mhK7Rq5kA0KoWP5YrZCRlHb3u5qKVH1-Ic=",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg6IoKpqO2OtPNLcRQtGO5nMEV9MVXUeEiQM1qrznZlLIZsBcANcTKiB9gMuDoyq_7r3NWY3_4O_LCVf5XAvKn6uUSVewSj7X5pWYu7eLZ3uVhvfLM0yIoxMv2k426f-0fHn7bl5fPkQM0krJ3ntHVnHg1AO1eBkvYEMdVAwa-gE-DVAlirZ53XWLnIVOhm9MuzshYYLMIoT1iJfuJ",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjd5AW_gREDaCYpHLH0EWV4kPUfzOua6nm6IthlRmd_UP_uiXclf5QrJ1vIKHpwwQwYIX6iY2gd9tUSLBaEsbgIzlz6PeiEL4FBJAdN5cMQ1H6gi64cPH9wK-3UOYeVx539-cNt0M79huA5jwitWFMQCPp53s=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErX6yBazyhkkeE9hdhMJIcYClui3hBoGP719oZWEgoVZv3JK7gSUEh6szrlrYnvngh168E-jb9RColMbgQhOong2nWrhfO0LRj6Q3-NYlMfb1pC-eFHkQZa4jkowqG12o=",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Amon-Ra St. Brown",
+          "Breece Hall",
+          "George Pickens",
+          "Jaxon Smith-Njigba",
+          "De'Von Achane",
+          "Matthew Golden",
+          "Patrick Mahomes",
+          "Devaughn Vele"
+        ],
+        "aviCoreCommitSha": "79cf549a53e81102005add5768bb7c4901fb81eb",
+        "aviCoreCommittedAt": "2026-10-20T18:50:24Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 542593,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 253,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mvh56rjp-25e4730b",
     "createdAt": 1792528569903,
     "expiresAt": 1792960569903,
