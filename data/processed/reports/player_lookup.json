@@ -627,6 +627,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00012504",
+      "c_avi": 29.7,
+      "d_avi": 48.8,
+      "nfl_team": "GB",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "sleeper_id": "12504",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00004144",
       "c_avi": 29.5,
       "d_avi": 48.3,
@@ -2714,8 +2726,8 @@
     }
   ],
   "counts": {
-    "available_players": 226,
-    "rostered_players": 253
+    "available_players": 227,
+    "rostered_players": 252
   },
   "rostered_players": [
     {
@@ -3738,7 +3750,7 @@
       "position": "WR",
       "roster_id": 4,
       "sleeper_id": "2133",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "04_Mile_High_Royal_Lions.md",
       "team_name": "Mile High Royal Lions"
     },
@@ -5089,22 +5101,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00012504",
-      "c_avi": 29.7,
-      "d_avi": 48.8,
-      "nfl_team": "GB",
-      "owner_id": "863881053000011776",
-      "player_name": "Kaleb Johnson",
-      "position": "RB",
-      "roster_id": 9,
-      "sleeper_id": "12504",
-      "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00003634",
       "c_avi": 35.8,
       "d_avi": 35.7,
@@ -6298,7 +6294,7 @@
       "position": "WR",
       "roster_id": 11,
       "sleeper_id": "9502",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
     },
