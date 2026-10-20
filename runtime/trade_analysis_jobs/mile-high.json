@@ -1,5 +1,55 @@
 [
   {
+    "id": "mvh56rjp-25e4730b",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Mile High Royal Lions",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Big Balder Brand",
+      "trade": {
+        "sideA": [
+          {
+            "name": "J.K. Dobbins",
+            "assetType": "player"
+          },
+          {
+            "name": "Travis Kelce",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · King Jesus · Projected late range (2.10–2.16)",
+            "assetType": "pick"
+          },
+          {
+            "name": "2027 3rd · Mile High · Projected mid range (3.06–3.09)",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Nico Collins",
+            "assetType": "player"
+          },
+          {
+            "name": "Bhayshul Tuten",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1792528501237,
+    "updatedAt": 1792528501237,
+    "expiresAt": 1792960501237,
+    "status": "queued"
+  },
+  {
     "id": "mvfraqli-edd8f2ac",
     "phase": "initial",
     "mode": "improve_team",
