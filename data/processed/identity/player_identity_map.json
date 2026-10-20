@@ -3321,9 +3321,9 @@
     "sleeper_id": "12473"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "19302",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "NYG",
     "player_name": "Najee Harris",
     "position": "RB",

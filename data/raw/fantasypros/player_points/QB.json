@@ -327,16 +327,17 @@
       }
     },
     {
-      "average": 1.4,
+      "average": 0.7,
       "filename": "stetson-bennett.php",
-      "games": 1,
+      "games": 2,
       "player_id": 23927,
       "player_name": "Stetson Bennett IV",
       "points": 1.42,
       "position_id": "QB",
       "team_id": "LAR",
       "weeks": {
-        "1": 1.4
+        "1": 1.4,
+        "6": 0
       }
     },
     {
@@ -411,18 +412,19 @@
       }
     },
     {
-      "average": 21.6,
+      "average": 21.4,
       "filename": "jayden-daniels.php",
-      "games": 3,
+      "games": 4,
       "player_id": 22902,
       "player_name": "Jayden Daniels",
-      "points": 64.66,
+      "points": 85.66,
       "position_id": "QB",
       "team_id": "WAS",
       "weeks": {
         "1": 17.7,
         "2": 14.7,
-        "5": 32.3
+        "5": 32.3,
+        "6": 21
       }
     },
     {
@@ -493,12 +495,12 @@
       }
     },
     {
-      "average": 23.7,
+      "average": 22.7,
       "filename": "brock-purdy.php",
-      "games": 5,
+      "games": 6,
       "player_id": 19797,
       "player_name": "Brock Purdy",
-      "points": 118.64,
+      "points": 136,
       "position_id": "QB",
       "team_id": "SF",
       "weeks": {
@@ -506,7 +508,8 @@
         "2": 28.5,
         "3": 31.3,
         "4": 19.6,
-        "5": 17.2
+        "5": 17.2,
+        "6": 17.4
       }
     },
     {
@@ -985,6 +988,32 @@
       "team_id": "PHI",
       "weeks": {
         "6": 12.6
+      }
+    },
+    {
+      "average": 0,
+      "filename": "gardner-minshew.php",
+      "games": 1,
+      "player_id": 18562,
+      "player_name": "Gardner Minshew II",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "ARI",
+      "weeks": {
+        "6": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "spencer-rattler.php",
+      "games": 1,
+      "player_id": 23081,
+      "player_name": "Spencer Rattler",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "NO",
+      "weeks": {
+        "6": 0
       }
     }
   ],
