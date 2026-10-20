@@ -12568,7 +12568,7 @@
       "genius_id": "1075976",
       "rookie_year": "2023"
     },
-    "news_updated": 1792452912135,
+    "news_updated": 1792517741000,
     "number": 0,
     "oddsjam_id": "DBCCA56770CA",
     "opta_id": null,
@@ -39729,7 +39729,7 @@
       "genius_id": "1401660",
       "rookie_year": "2023"
     },
-    "news_updated": null,
+    "news_updated": 1792517741034,
     "number": 90,
     "oddsjam_id": "6AA2DCA62A90",
     "opta_id": null,
@@ -170260,7 +170260,7 @@
       "rookie_year": "2026",
       "source_id": "9c697f40-9ea7-11ed-b23c-b1b7c283bdf7"
     },
-    "news_updated": 1792394405950,
+    "news_updated": 1792515038978,
     "number": 9,
     "oddsjam_id": null,
     "opta_id": null,
@@ -179164,7 +179164,7 @@
       "rookie_year": "2026",
       "source_id": "5b3eac3f-fe81-4635-a564-5145dbcac6f2"
     },
-    "news_updated": 1792379704166,
+    "news_updated": 1792516839265,
     "number": 20,
     "oddsjam_id": null,
     "opta_id": null,
@@ -208668,7 +208668,7 @@
       "genius_id": "1487651",
       "rookie_year": "2026"
     },
-    "news_updated": 1792457733452,
+    "news_updated": 1792517741017,
     "number": 60,
     "oddsjam_id": null,
     "opta_id": null,
@@ -406501,10 +406501,10 @@
     "hashtag": "#zanegonzalez-NFL-FA-45",
     "height": "72",
     "high_school": "Deer Park (TX)",
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "5f31b335-3c65-4131-801a-8ad7a0f4a8a8",
     "last_name": "Gonzalez",
     "metadata": {
@@ -580167,7 +580167,7 @@
       "genius_id": "1014921",
       "rookie_year": "2020"
     },
-    "news_updated": 1792424408050,
+    "news_updated": 1792517739268,
     "number": 1,
     "oddsjam_id": "E3F53FF48C95",
     "opta_id": null,
@@ -642437,7 +642437,7 @@
     "first_name": "Charles",
     "full_name": "Charles Snowden",
     "gsis_id": null,
-    "hashtag": "#charlessnowden-NFL-WAS-93",
+    "hashtag": "#charlessnowden-NFL-ATL-93",
     "height": "79",
     "high_school": "St. Albans School (DC)",
     "injury_body_part": null,
@@ -642472,7 +642472,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 1061759,
-    "team": "WAS",
+    "team": "ATL",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "240",
@@ -660326,7 +660326,7 @@
       "genius_id": "1077900",
       "rookie_year": "2022"
     },
-    "news_updated": 1792371001700,
+    "news_updated": 1792515639213,
     "number": 4,
     "oddsjam_id": "440F4701CDD2",
     "opta_id": null,
@@ -675660,7 +675660,7 @@
       "genius_id": "1076048",
       "rookie_year": "2022"
     },
-    "news_updated": 1790439927714,
+    "news_updated": 1792515940705,
     "number": 31,
     "oddsjam_id": "AE580C62FEE9",
     "opta_id": null,
@@ -719949,7 +719949,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2023"
     },
-    "news_updated": 1792440911377,
+    "news_updated": 1792518039340,
     "number": 1,
     "oddsjam_id": "D2BEC2F1C55E",
     "opta_id": null,
