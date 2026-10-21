@@ -2795,7 +2795,7 @@
       "genius_id": "1398981",
       "rookie_year": "2023"
     },
-    "news_updated": 1792174841617,
+    "news_updated": 1792602953417,
     "number": 4,
     "oddsjam_id": "D5BE2AF21C8F",
     "opta_id": null,
@@ -54176,7 +54176,7 @@
       "genius_id": "1463652",
       "rookie_year": "2024"
     },
-    "news_updated": 1792428308568,
+    "news_updated": 1792604753576,
     "number": 10,
     "oddsjam_id": "AC5A5CA4A398",
     "opta_id": null,
@@ -55794,10 +55794,10 @@
     "hashtag": "#jawharjordan-NFL-HOU-25",
     "height": "70",
     "high_school": "Hamilton (NY)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Out",
     "kalshi_id": "7427d746-ea31-4553-9a99-eeb2c115eef5",
     "last_name": "Jordan",
     "metadata": {
@@ -55805,7 +55805,7 @@
       "genius_id": "1464134",
       "rookie_year": "2024"
     },
-    "news_updated": 1792460433998,
+    "news_updated": 1792603553963,
     "number": 25,
     "oddsjam_id": "420B88CE340D",
     "opta_id": null,
@@ -128125,7 +128125,7 @@
     "injury_body_part": "Thigh",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Doubtful",
     "kalshi_id": "bb89a197-3880-416d-ab9d-6366d4992742",
     "last_name": "Mauigoa",
     "metadata": {
@@ -146818,7 +146818,7 @@
       "genius_id": "1512294",
       "rookie_year": "2025"
     },
-    "news_updated": 1788222315673,
+    "news_updated": 1792602354950,
     "number": 54,
     "oddsjam_id": "DA258072B01AC91C",
     "opta_id": null,
@@ -448635,7 +448635,7 @@
       "injury_override_regular_2026_6": "Out",
       "rookie_year": "2018"
     },
-    "news_updated": 1792443611893,
+    "news_updated": 1792604754856,
     "number": 8,
     "oddsjam_id": "1C18E878DAB7",
     "opta_id": null,
@@ -449315,7 +449315,7 @@
       "genius_id": "1013868",
       "rookie_year": "2018"
     },
-    "news_updated": 1792599953580,
+    "news_updated": 1792604754846,
     "number": 6,
     "oddsjam_id": "2F8FF2DF2E69",
     "opta_id": null,
@@ -459514,7 +459514,7 @@
       "genius_id": "1009133",
       "rookie_year": "2018"
     },
-    "news_updated": 1792377604481,
+    "news_updated": 1792603553651,
     "number": 14,
     "oddsjam_id": "8EC2956310D2",
     "opta_id": null,
@@ -512343,7 +512343,7 @@
       "injury_override_regular_2025_12": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1792588551823,
+    "news_updated": 1792604754017,
     "number": 8,
     "oddsjam_id": "0614F08B6121",
     "opta_id": null,
@@ -573951,7 +573951,7 @@
     "first_name": "Kenneth",
     "full_name": "Kenneth Murray",
     "gsis_id": null,
-    "hashtag": "#kennethmurray-NFL-FA-50",
+    "hashtag": "#kennethmurray-NFL-HOU-50",
     "height": "74",
     "high_school": "Elkins (TX)",
     "injury_body_part": null,
@@ -573986,7 +573986,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 976232,
-    "team": null,
+    "team": "HOU",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "241",
@@ -580167,7 +580167,7 @@
       "genius_id": "1014921",
       "rookie_year": "2020"
     },
-    "news_updated": 1792542046812,
+    "news_updated": 1792603853410,
     "number": 1,
     "oddsjam_id": "E3F53FF48C95",
     "opta_id": null,
@@ -624159,7 +624159,7 @@
       "genius_id": "1073946",
       "rookie_year": "2021"
     },
-    "news_updated": 1792443311680,
+    "news_updated": 1792602953747,
     "number": 7,
     "oddsjam_id": "E9EA7C70CBBD",
     "opta_id": null,
@@ -630390,7 +630390,7 @@
       "genius_id": "1003024",
       "rookie_year": "2021"
     },
-    "news_updated": 1789777250147,
+    "news_updated": 1792604754838,
     "number": 21,
     "oddsjam_id": "F893942E58D0",
     "opta_id": null,
@@ -630989,7 +630989,7 @@
     "injury_body_part": "Ankle",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Doubtful",
     "kalshi_id": "89f80c7f-69be-4fc5-a7ec-3d787227c027",
     "last_name": "Ossai",
     "metadata": {
@@ -662740,7 +662740,7 @@
       "genius_id": "1343369",
       "rookie_year": "2022"
     },
-    "news_updated": 1792600853130,
+    "news_updated": 1792602053675,
     "number": 20,
     "oddsjam_id": "648A95BBCC7F",
     "opta_id": null,
@@ -720302,10 +720302,10 @@
     "hashtag": "#tyjaespears-NFL-TEN-2",
     "height": "71",
     "high_school": "Ponchatoula (LA)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "1e71f96d-dc72-445f-bf4f-e3c878217c18",
     "last_name": "Spears",
     "metadata": {
@@ -720314,7 +720314,7 @@
       "injury_override_regular_2025_1": "IR",
       "rookie_year": "2023"
     },
-    "news_updated": 1792537846315,
+    "news_updated": 1792602953748,
     "number": 2,
     "oddsjam_id": "69EE7B225AEF",
     "opta_id": null,
