@@ -796,14 +796,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
 
-## PLAYER LOOKUP: Isaiah Williams
-- Player name: Isaiah Williams
-- Player ID: 11608
-- Position: WR
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
-
 ## PLAYER LOOKUP: J.J. McCarthy
 - Player name: J.J. McCarthy
 - Player ID: 11565
@@ -1316,6 +1308,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 6
 - Team file: 06_Lightskin_Legends.md
 
+## PLAYER LOOKUP: Kyle Williams
+- Player name: Kyle Williams
+- Player ID: 12547
+- Position: WR
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
+
 ## PLAYER LOOKUP: Kyler Murray
 - Player name: Kyler Murray
 - Player ID: 5849
@@ -1699,6 +1699,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
+
+## PLAYER LOOKUP: Roschon Johnson
+- Player name: Roschon Johnson
+- Player ID: 10235
+- Position: RB
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Ryan Flournoy
 - Player name: Ryan Flournoy
@@ -2399,15 +2407,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 50.9
 - Availability: available
 
-## AVAILABLE PLAYER: Kyle Williams
-- Player name: Kyle Williams
-- Player ID: 12547
-- Position: WR
-- NFL team: NE
-- Championship AVI (C-AVI, 0-100): 30.4
-- Dynasty AVI (D-AVI, 0-100): 52.7
-- Availability: available
-
 ## AVAILABLE PLAYER: Chris Brooks
 - Player name: Chris Brooks
 - Player ID: 11370
@@ -2885,6 +2884,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 44.4
 - Availability: available
 
+## AVAILABLE PLAYER: Isaiah Williams
+- Player name: Isaiah Williams
+- Player ID: 11608
+- Position: WR
+- NFL team: NYJ
+- Championship AVI (C-AVI, 0-100): 25.1
+- Dynasty AVI (D-AVI, 0-100): 56.6
+- Availability: available
+
 ## AVAILABLE PLAYER: Tahj Brooks
 - Player name: Tahj Brooks
 - Player ID: 12543
@@ -3072,15 +3080,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: LVR
 - Championship AVI (C-AVI, 0-100): 23.1
 - Dynasty AVI (D-AVI, 0-100): 51.8
-- Availability: available
-
-## AVAILABLE PLAYER: Roschon Johnson
-- Player name: Roschon Johnson
-- Player ID: 10235
-- Position: RB
-- NFL team: CHI
-- Championship AVI (C-AVI, 0-100): 23.1
-- Dynasty AVI (D-AVI, 0-100): 30.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Eli Heidenreich

@@ -495,18 +495,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00012547",
-      "c_avi": 30.4,
-      "d_avi": 52.7,
-      "nfl_team": "NE",
-      "player_name": "Kyle Williams",
-      "position": "WR",
-      "sleeper_id": "12547",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00011370",
       "c_avi": 30.3,
       "d_avi": 35.4,
@@ -1143,6 +1131,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011608",
+      "c_avi": 25.1,
+      "d_avi": 56.6,
+      "nfl_team": "NYJ",
+      "player_name": "Isaiah Williams",
+      "position": "WR",
+      "sleeper_id": "11608",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00012543",
       "c_avi": 25.1,
       "d_avi": 33.0,
@@ -1390,18 +1390,6 @@
       "player_name": "Dylan Laube",
       "position": "RB",
       "sleeper_id": "11574",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00010235",
-      "c_avi": 23.1,
-      "d_avi": 30.7,
-      "nfl_team": "CHI",
-      "player_name": "Roschon Johnson",
-      "position": "RB",
-      "sleeper_id": "10235",
       "status": "Active"
     },
     {
@@ -2714,8 +2702,8 @@
     }
   ],
   "counts": {
-    "available_players": 226,
-    "rostered_players": 253
+    "available_players": 225,
+    "rostered_players": 254
   },
   "rostered_players": [
     {
@@ -4305,22 +4293,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00011608",
-      "c_avi": 25.1,
-      "d_avi": 56.6,
-      "nfl_team": "NYJ",
-      "owner_id": "737531831641128960",
-      "player_name": "Isaiah Williams",
-      "position": "WR",
-      "roster_id": 7,
-      "sleeper_id": "11608",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00011565",
       "c_avi": 26.8,
       "d_avi": 55.6,
@@ -5345,6 +5317,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00012547",
+      "c_avi": 30.4,
+      "d_avi": 52.7,
+      "nfl_team": "NE",
+      "owner_id": "737531831641128960",
+      "player_name": "Kyle Williams",
+      "position": "WR",
+      "roster_id": 7,
+      "sleeper_id": "12547",
+      "status": "Active",
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00005849",
       "c_avi": 40.1,
       "d_avi": 65.2,
@@ -6109,6 +6097,22 @@
       "status": "Inactive",
       "team_file": "15_Gringo_s_Goblins.md",
       "team_name": "Gringo’s Goblins "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00010235",
+      "c_avi": 23.1,
+      "d_avi": 30.7,
+      "nfl_team": "CHI",
+      "owner_id": "992908759074680832",
+      "player_name": "Roschon Johnson",
+      "position": "RB",
+      "roster_id": 3,
+      "sleeper_id": "10235",
+      "status": "Active",
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
