@@ -1,5 +1,39 @@
 [
   {
+    "id": "mvibaz6v-e0e9e0dd",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rhamondre Stevenson",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected Mid · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Breece Hall",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1792599241640,
+    "updatedAt": 1792599241640,
+    "expiresAt": 1793031241640,
+    "status": "queued"
+  },
+  {
     "id": "mvi8ely6-e000f702",
     "phase": "final",
     "mode": "analyze_trade",
