@@ -15,30 +15,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00009501",
-      "c_avi": 47.5,
-      "d_avi": 49.9,
-      "nfl_team": "NE",
-      "player_name": "DeMario Douglas",
-      "position": "WR",
-      "sleeper_id": "9501",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00011655",
-      "c_avi": 41.3,
-      "d_avi": 56.5,
-      "nfl_team": "NYG",
-      "player_name": "Tyrone Tracy",
-      "position": "RB",
-      "sleeper_id": "11655",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00004892",
       "c_avi": 38.9,
       "d_avi": 67.0,
@@ -287,6 +263,18 @@
       "position": "TE",
       "sleeper_id": "5906",
       "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00004177",
+      "c_avi": 32.4,
+      "d_avi": 44.9,
+      "nfl_team": "NE",
+      "player_name": "Mack Hollins",
+      "position": "WR",
+      "sleeper_id": "4177",
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -574,18 +562,6 @@
       "player_name": "Isaiah Bond",
       "position": "WR",
       "sleeper_id": "12503",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00012718",
-      "c_avi": 30.1,
-      "d_avi": 38.6,
-      "nfl_team": "LAR",
-      "player_name": "Konata Mumpfield",
-      "position": "WR",
-      "sleeper_id": "12718",
       "status": "Active"
     },
     {
@@ -2031,6 +2007,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00006931",
+      "c_avi": 14.3,
+      "d_avi": 44.8,
+      "nfl_team": "MIN",
+      "player_name": "DeeJay Dallas",
+      "position": "RB",
+      "sleeper_id": "6931",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00011649",
       "c_avi": 14.3,
       "d_avi": 44.3,
@@ -2726,8 +2714,8 @@
     }
   ],
   "counts": {
-    "available_players": 227,
-    "rostered_players": 252
+    "available_players": 226,
+    "rostered_players": 253
   },
   "rostered_players": [
     {
@@ -3805,6 +3793,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00009501",
+      "c_avi": 47.5,
+      "d_avi": 49.9,
+      "nfl_team": "NE",
+      "owner_id": "990097041671892992",
+      "player_name": "DeMario Douglas",
+      "position": "WR",
+      "roster_id": 15,
+      "sleeper_id": "9501",
+      "status": "Active",
+      "team_file": "15_Gringo_s_Goblins.md",
+      "team_name": "Gringo’s Goblins "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00007525",
       "c_avi": 87.0,
       "d_avi": 91.3,
@@ -3817,22 +3821,6 @@
       "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00006931",
-      "c_avi": 14.3,
-      "d_avi": 44.8,
-      "nfl_team": "MIN",
-      "owner_id": "990097041671892992",
-      "player_name": "DeeJay Dallas",
-      "position": "RB",
-      "roster_id": 15,
-      "sleeper_id": "6931",
-      "status": "Active",
-      "team_file": "15_Gringo_s_Goblins.md",
-      "team_name": "Gringo’s Goblins "
     },
     {
       "active": true,
@@ -5309,6 +5297,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00012718",
+      "c_avi": 30.1,
+      "d_avi": 38.6,
+      "nfl_team": "LAR",
+      "owner_id": "863881053000011776",
+      "player_name": "Konata Mumpfield",
+      "position": "WR",
+      "roster_id": 9,
+      "sleeper_id": "12718",
+      "status": "Active",
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00012534",
       "c_avi": 67.5,
       "d_avi": 76.0,
@@ -5398,7 +5402,7 @@
       "position": "QB",
       "roster_id": 3,
       "sleeper_id": "4881",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
     },
@@ -5417,22 +5421,6 @@
       "status": "Active",
       "team_file": "13_Southside_Savages.md",
       "team_name": "Southside Savages"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00004177",
-      "c_avi": 32.4,
-      "d_avi": 44.9,
-      "nfl_team": "NE",
-      "owner_id": "990097041671892992",
-      "player_name": "Mack Hollins",
-      "position": "WR",
-      "roster_id": 15,
-      "sleeper_id": "4177",
-      "status": "Inactive",
-      "team_file": "15_Gringo_s_Goblins.md",
-      "team_name": "Gringo’s Goblins "
     },
     {
       "active": true,
@@ -6633,6 +6621,22 @@
       "status": "Active",
       "team_file": "10_SmokyValleyWheatWarriors.md",
       "team_name": "SmokyValleyWheatWarriors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00011655",
+      "c_avi": 41.3,
+      "d_avi": 56.5,
+      "nfl_team": "NYG",
+      "owner_id": "872351659366539264",
+      "player_name": "Tyrone Tracy",
+      "position": "RB",
+      "roster_id": 5,
+      "sleeper_id": "11655",
+      "status": "Active",
+      "team_file": "05_Northside_Kings.md",
+      "team_name": "Northside Kings "
     },
     {
       "active": true,

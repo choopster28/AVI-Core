@@ -540,6 +540,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
 
+## PLAYER LOOKUP: DeMario Douglas
+- Player name: DeMario Douglas
+- Player ID: 9501
+- Position: WR
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Team file: 15_Gringo_s_Goblins.md
+
 ## PLAYER LOOKUP: DeVonta Smith
 - Player name: DeVonta Smith
 - Player ID: 7525
@@ -547,14 +555,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
-
-## PLAYER LOOKUP: DeeJay Dallas
-- Player name: DeeJay Dallas
-- Player ID: 6931
-- Position: RB
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Team file: 15_Gringo_s_Goblins.md
 
 ## PLAYER LOOKUP: Deebo Samuel
 - Player name: Deebo Samuel
@@ -1292,6 +1292,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
 
+## PLAYER LOOKUP: Konata Mumpfield
+- Player name: Konata Mumpfield
+- Player ID: 12718
+- Position: WR
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
+
 ## PLAYER LOOKUP: Kyle Monangai
 - Player name: Kyle Monangai
 - Player ID: 12534
@@ -1347,14 +1355,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Southside Savages
 - Current owner roster ID: 13
 - Team file: 13_Southside_Savages.md
-
-## PLAYER LOOKUP: Mack Hollins
-- Player name: Mack Hollins
-- Player ID: 4177
-- Position: WR
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Team file: 15_Gringo_s_Goblins.md
 
 ## PLAYER LOOKUP: Makai Lemon
 - Player name: Makai Lemon
@@ -1956,6 +1956,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 10
 - Team file: 10_SmokyValleyWheatWarriors.md
 
+## PLAYER LOOKUP: Tyrone Tracy
+- Player name: Tyrone Tracy
+- Player ID: 11655
+- Position: RB
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Team file: 05_Northside_Kings.md
+
 ## PLAYER LOOKUP: Wan'Dale Robinson
 - Player name: Wan'Dale Robinson
 - Player ID: 8126
@@ -2029,24 +2037,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: KC
 - Championship AVI (C-AVI, 0-100): 47.6
 - Dynasty AVI (D-AVI, 0-100): 44.6
-- Availability: available
-
-## AVAILABLE PLAYER: DeMario Douglas
-- Player name: DeMario Douglas
-- Player ID: 9501
-- Position: WR
-- NFL team: NE
-- Championship AVI (C-AVI, 0-100): 47.5
-- Dynasty AVI (D-AVI, 0-100): 49.9
-- Availability: available
-
-## AVAILABLE PLAYER: Tyrone Tracy
-- Player name: Tyrone Tracy
-- Player ID: 11655
-- Position: RB
-- NFL team: NYG
-- Championship AVI (C-AVI, 0-100): 41.3
-- Dynasty AVI (D-AVI, 0-100): 56.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Baker Mayfield
@@ -2236,6 +2226,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: BUF
 - Championship AVI (C-AVI, 0-100): 32.6
 - Dynasty AVI (D-AVI, 0-100): 36.1
+- Availability: available
+
+## AVAILABLE PLAYER: Mack Hollins
+- Player name: Mack Hollins
+- Player ID: 4177
+- Position: WR
+- NFL team: NE
+- Championship AVI (C-AVI, 0-100): 32.4
+- Dynasty AVI (D-AVI, 0-100): 44.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Darius Slayton
@@ -2452,15 +2451,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CLE
 - Championship AVI (C-AVI, 0-100): 30.1
 - Dynasty AVI (D-AVI, 0-100): 45.0
-- Availability: available
-
-## AVAILABLE PLAYER: Konata Mumpfield
-- Player name: Konata Mumpfield
-- Player ID: 12718
-- Position: WR
-- NFL team: LAR
-- Championship AVI (C-AVI, 0-100): 30.1
-- Dynasty AVI (D-AVI, 0-100): 38.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Charlie Kolar
@@ -3541,6 +3531,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: PIT
 - Championship AVI (C-AVI, 0-100): 16.2
 - Dynasty AVI (D-AVI, 0-100): 25.6
+- Availability: available
+
+## AVAILABLE PLAYER: DeeJay Dallas
+- Player name: DeeJay Dallas
+- Player ID: 6931
+- Position: RB
+- NFL team: MIN
+- Championship AVI (C-AVI, 0-100): 14.3
+- Dynasty AVI (D-AVI, 0-100): 44.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Kendall Milton
