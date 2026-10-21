@@ -1,5 +1,40 @@
 [
   {
+    "id": "mvi8ely6-e000f702",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Big Balder Brand",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rhamondre Stevenson",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected Mid · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          }
+        ]
+      },
+      "personalContext": "Choop is 1-5 and likely not able to make a playoff push, might be selling Saquon"
+    },
+    "createdAt": 1792594372433,
+    "updatedAt": 1792594372433,
+    "expiresAt": 1793026372433,
+    "status": "queued"
+  },
+  {
     "id": "mvi88ib7-824c4c41",
     "phase": "initial",
     "mode": "analyze_trade",
