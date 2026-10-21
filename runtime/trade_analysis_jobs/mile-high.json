@@ -1,5 +1,45 @@
 [
   {
+    "id": "mvirx39x-3db231cd",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Mile High Royal Lions",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Big Balder Brand",
+      "targetAssets": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Travis Kelce",
+          "assetType": "player"
+        },
+        {
+          "name": "J.K. Dobbins",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+          "assetType": "pick"
+        }
+      ]
+    },
+    "createdAt": 1792627147221,
+    "updatedAt": 1792627147221,
+    "expiresAt": 1793059147221,
+    "status": "queued"
+  },
+  {
     "id": "mvirr3lp-7b74f9e5",
     "phase": "initial",
     "mode": "propose_trade",
