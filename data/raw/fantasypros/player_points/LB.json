@@ -3644,7 +3644,7 @@
       "player_name": "Aiden Fisher",
       "points": 0,
       "position_id": "LB",
-      "team_id": "FA",
+      "team_id": "KC",
       "weeks": {
         "2": 0,
         "3": 0,
@@ -3704,7 +3704,7 @@
       "player_name": "Jamal Hill",
       "points": 0,
       "position_id": "LB",
-      "team_id": "HOU",
+      "team_id": "FA",
       "weeks": {
         "2": 0,
         "3": 0,
@@ -4136,7 +4136,7 @@
       "player_name": "Cam Jones",
       "points": 0,
       "position_id": "LB",
-      "team_id": "KC",
+      "team_id": "FA",
       "weeks": {
         "6": 0
       }

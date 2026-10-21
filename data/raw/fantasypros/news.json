@@ -1,7 +1,392 @@
 {
-  "count": 24,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-20 21:59:22",
+      "created_formated": "Tue, Oct 20th 9:59pm UTC",
+      "desc": "Terrance Ferguson is not expected to be activated when first eligible next week. ",
+      "id": 614959,
+      "impact": "Ferguson will remain on injured reserve. He remains week-to-week. ",
+      "link": "https://www.fantasypros.com/nfl/news/614959/terrance-ferguson-ankle-not-expected-to-be-activated-next-week.php",
+      "player_id": 23091,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Terrance Ferguson (ankle) not expected to be activated next week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-20 21:45:29",
+      "created_formated": "Tue, Oct 20th 9:45pm UTC",
+      "desc": "The Cowboys signed Kyle Trask to their practice squad.",
+      "id": 614957,
+      "impact": "Trask will step into the QB3 role for Dallas. ",
+      "link": "https://www.fantasypros.com/nfl/news/614957/kyle-trask-signs-with-cowboys.php",
+      "player_id": 19800,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Kyle Trask signs with Cowboys "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-20 21:44:44",
+      "created_formated": "Tue, Oct 20th 9:44pm UTC",
+      "desc": "The Rams signed kicker Brandon McManus. ",
+      "id": 614956,
+      "impact": "McManus lands a deal following a workout on Monday. ",
+      "link": "https://www.fantasypros.com/nfl/news/614956/brandon-mcmanus-signs-with-rams.php",
+      "player_id": 13274,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Brandon McManus signs with Rams"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-20 21:43:58",
+      "created_formated": "Tue, Oct 20th 9:43pm UTC",
+      "desc": "The Eagles waived Jaydon Blue.",
+      "id": 614955,
+      "impact": "Blue will figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/614955/jaydon-blue-waived-by-eagles.php",
+      "player_id": 24344,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Jaydon Blue waived by Eagles "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-20 21:43:23",
+      "created_formated": "Tue, Oct 20th 9:43pm UTC",
+      "desc": "The Eagles signed RB Eljiah Mitchell to their practice squad.",
+      "id": 614954,
+      "impact": "Mitchell will add depth to a depleted Eagles backfield. He'll remain off the fantasy radar. ",
+      "link": "https://www.fantasypros.com/nfl/news/614954/elijah-mitchell-signs-with-eagles.php",
+      "player_id": 22813,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Elijah Mitchell signs with Eagles "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-20 21:42:31",
+      "created_formated": "Tue, Oct 20th 9:42pm UTC",
+      "desc": "Kyle Monangai did not practice on Tuesday. ",
+      "id": 614953,
+      "impact": "Monangai has still yet to practice. He is trending towards being sidelined again on Thursday against the Patriots. ",
+      "link": "https://www.fantasypros.com/nfl/news/614953/kyle-monangai-thumbtoe-misses-practice-tuesday.php",
+      "player_id": 27131,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Kyle Monangai (thumb/toe) misses practice Tuesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-20 21:41:35",
+      "created_formated": "Tue, Oct 20th 9:41pm UTC",
+      "desc": "Jonah Jackson was limited in practice on Tuesday. ",
+      "id": 614952,
+      "impact": "Jackson left Sunday's game with the injury. His status will need to be monitored in practice on Wednesday. ",
+      "link": "https://www.fantasypros.com/nfl/news/614952/jonah-jackson-hipquad-limited-practice-tuesday.php",
+      "player_id": 19334,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Jonah Jackson (hip/quad) limited in practice Tuesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-20 21:40:29",
+      "created_formated": "Tue, Oct 20th 9:40pm UTC",
+      "desc": "The Colts signed punter Thomas Morstead. ",
+      "id": 614951,
+      "impact": "Morstead will add depth at punter for Indianapolis. ",
+      "link": "https://www.fantasypros.com/nfl/news/614951/thomas-morstead-signs-with-colts.php",
+      "player_id": 9673,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Thomas Morstead signs with Colts"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-20 21:39:40",
+      "created_formated": "Tue, Oct 20th 9:39pm UTC",
+      "desc": "The Colts signed WR Mecole Hardman Jr. to their practice squad. ",
+      "id": 614950,
+      "impact": "Hardman will add depth in the Colts wide receiver room. He'll remain off the fantasy radar. ",
+      "link": "https://www.fantasypros.com/nfl/news/614950/mecole-hardman-jr-signs-with-colts.php",
+      "player_id": 18587,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Mecole Hardman Jr. signs with Colts"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-10-20 19:17:28",
+      "created_formated": "Tue, Oct 20th 7:17pm UTC",
+      "desc": "Terry McLaurin (knee) is out for the rest of the 2026 season with a torn patellar tendon. A tough blow for the veteran receiver and for the struggling Commanders.",
+      "id": 614941,
+      "impact": "McLaurin suffered the injury in the first half of Washington's Monday Night game against San Fransisco, coming up lame after trying to run a route, and staying down for some time before being carted off. An MRI today confirmed the injury, and McLaurin will now miss the rest of 2026. Antonio Williams and Chig Okonkwo are now priority waiver pickups for those in need, and if you are in need of a name in deep leagues, Treylon Burks actually had a fair performance on Monday, though he is banged up as well, so his status will need to be monitored. Regardless, Williams and Okonkwo figure to see an uptick in work alongside Stefon Diggs.",
+      "link": "https://www.fantasypros.com/nfl/news/614941/terry-mclaurin-knee-done-2026-with-torn-patellar-tendon.php",
+      "player_id": 18466,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Terry McLaurin (knee) done for 2026 with torn patellar tendon"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-20 18:43:15",
+      "created_formated": "Tue, Oct 20th 6:43pm UTC",
+      "desc": "Romeo Doubs (shoulder) is facing an uncertain timetable to return, per HC Mike Vrabel. When asked about Doubs and when he might come back into the lineup, Vrabel was uncertain and non-commital on a timeline, stating \"I'm not sure how long that (his IR stint) will be.\"",
+      "id": 614938,
+      "impact": "It's a rough situation for Doubs, who was putting up a big game before going out with a shoulder injury. He's not droppable jet yet, at least not in leagues with an IR slot. However, he seems to be right on the edge of drop territory, so fantasy managers will need to keep an eye out for any updates regarding his potential return. However, it's not looking very promising as of writing.",
+      "link": "https://www.fantasypros.com/nfl/news/614938/romeo-doubs-shoulder-facing-uncertain-timetable-to-retun.php",
+      "player_id": 23794,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Romeo Doubs (shoulder) facing uncertain timetable to retun"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-20 18:59:28",
+      "created_formated": "Tue, Oct 20th 6:59pm UTC",
+      "desc": "Patriots head coach Mike Vrabel said Ben Brown will \"probably not\" be available this week.",
+      "id": 614940,
+      "impact": "Brown and Alijah Vera-Tucker are not expected to be available",
+      "link": "https://www.fantasypros.com/nfl/news/614940/ben-brown-not-expected-to-be-available-week-7.php",
+      "player_id": 23871,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Ben Brown not expected to be available in Week 7"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-20 18:58:44",
+      "created_formated": "Tue, Oct 20th 6:58pm UTC",
+      "desc": "Patriots head coach Mike Vrabel said Alijah Vera-Tucker will \"probably not\" be available this week.",
+      "id": 614939,
+      "impact": "Vera-Tucker and Ben Brown are not expected to be available. ",
+      "link": "https://www.fantasypros.com/nfl/news/614939/alijah-vera-tucker-unlikely-to-be-available-week-7.php",
+      "player_id": 22687,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Alijah Vera-Tucker unlikely to be available in Week 7"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-20 18:10:05",
+      "created_formated": "Tue, Oct 20th 6:10pm UTC",
+      "desc": "Rock Ya-Sin returned to practice on Tuesday. ",
+      "id": 614937,
+      "impact": "Ya-Sin missed time before the bye week with a hamstring injury. ",
+      "link": "https://www.fantasypros.com/nfl/news/614937/rock-ya-sin-hamstring-practices-tuesday.php",
+      "player_id": 18524,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Rock Ya-Sin (hamstring) practices Tuesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-20 18:07:30",
+      "created_formated": "Tue, Oct 20th 6:07pm UTC",
+      "desc": "The Dolphins waived Andre Jones Jr.",
+      "id": 614936,
+      "impact": "Jones will figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/614936/andre-jones-jr-waived-by-dolphins.php",
+      "player_id": 25594,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Andre Jones Jr. waived by Dolphins "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-20 18:06:36",
+      "created_formated": "Tue, Oct 20th 6:06pm UTC",
+      "desc": "The Dolphins waived Storm Duck. ",
+      "id": 614935,
+      "impact": "Duck will seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/614935/storm-duck-waived-by-dolphins.php",
+      "player_id": 26368,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Storm Duck waived by Dolphins "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-20 18:05:55",
+      "created_formated": "Tue, Oct 20th 6:05pm UTC",
+      "desc": "The Dolphins signed DL Rodney McGraw to their active roster. ",
+      "id": 614934,
+      "impact": "McGraw will add depth on the defensive line for Miami. ",
+      "link": "https://www.fantasypros.com/nfl/news/614934/rodney-mcgraw-signs-with-dolphins-active-roster.php",
+      "player_id": 28800,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Rodney McGraw signs with Dolphins active roster "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-20 18:03:46",
+      "created_formated": "Tue, Oct 20th 6:03pm UTC",
+      "desc": "The Dolphins hosted Justin Tucker for a workout. ",
+      "id": 614933,
+      "impact": "Miami went on to sign Zane Gonzalez. Still, Tucker made field goals from 68 yards along with 65 yards, two 60-yarders, two 55-yarders. He also went 11-for-12 and made all of his 50-plus kicks. ",
+      "link": "https://www.fantasypros.com/nfl/news/614933/justin-tucker-works-out-dolphins.php",
+      "player_id": 11465,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Justin Tucker works out for Dolphins "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-20 17:28:58",
+      "created_formated": "Tue, Oct 20th 5:28pm UTC",
+      "desc": "DeMarvion Overshown is expected to return in Week 7 against the Eagles. ",
+      "id": 614932,
+      "impact": "The Cowboys play the Eagles next Monday. \"I've definitely taken this rehab, this recovery, very serious,\" Overshown said. \"I've been trying to get back on the field since the week after I got out, so getting this opportunity to go this week. I'm thankful that I'm still able to get to do what I love.\"",
+      "link": "https://www.fantasypros.com/nfl/news/614932/demarvion-overshown-hamstring-expected-to-return-week-7.php",
+      "player_id": 25314,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "DeMarvion Overshown (hamstring) expected to return in Week 7"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-20 17:26:57",
+      "created_formated": "Tue, Oct 20th 5:26pm UTC",
+      "desc": "The Lions signed DL Aidan Keanaaina to their practice squad. ",
+      "id": 614931,
+      "impact": "Keanaaina will add depth on the defensive line for Detroit. ",
+      "link": "https://www.fantasypros.com/nfl/news/614931/aidan-keanaaina-signs-with-lions.php",
+      "player_id": 28707,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Aidan Keanaaina signs with Lions"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-20 17:26:10",
+      "created_formated": "Tue, Oct 20th 5:26pm UTC",
+      "desc": "The Lions released Chris Smith from their practice squad. ",
+      "id": 614930,
+      "impact": "Smith will seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/614930/chris-smith-released-by-lions.php",
+      "player_id": 25790,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Chris Smith released by Lions"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-20 17:03:56",
+      "created_formated": "Tue, Oct 20th 5:03pm UTC",
+      "desc": "Kerby Joseph is expected to return at some point this season for the Lions. ",
+      "id": 614929,
+      "impact": "Lions head coach Dan Campbell said Joseph is in a good space both physically and mentally. He remains without a clear timetable to return. ",
+      "link": "https://www.fantasypros.com/nfl/news/614929/kerby-joseph-knee-expects-to-play-this-season.php",
+      "player_id": 23800,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Kerby Joseph (knee) expects to play this season"
+    },
     {
       "author": "Nate Miller",
       "categories": [
@@ -52,382 +437,6 @@
       "sport_id": "NFL",
       "team_id": "MIA",
       "title": "Riley Patterson released by Dolphins "
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-20 15:09:55",
-      "created_formated": "Tue, Oct 20th 3:09pm UTC",
-      "desc": "Najee Harris was released by the Giants on Tuesday. ",
-      "id": 614922,
-      "impact": "Even with starting running back Cam Skattebo in the dog house, Harris did very little in Week 6, netting just two yards on four carries. The veteran has gained only 99 yards on 31 carries in total this season, and the Giants made the decision to release him Tuesday morning. The Giants will move forward with the familiar backfield trio of Skattebo, Tyrone Tracy Jr. and Devin Singletary. ",
-      "link": "https://www.fantasypros.com/nfl/news/614922/najee-harris-cut-loose-by-giants.php",
-      "player_id": 19302,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Najee Harris cut loose by Giants"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-20 13:39:57",
-      "created_formated": "Tue, Oct 20th 1:39pm UTC",
-      "desc": "Terry McLaurin (knee) was knocked out of Monday night's loss to the 49ers and will have an MRI on Tuesday. ",
-      "id": 614921,
-      "impact": "McLaurin's injury looked quite ugly and the expectation is that the Commanders star wideout will miss the rest of the season. He will undergo further testing on Tuesday to determine the full severity of the injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/614921/terry-mclaurin-knee-to-have-mri-on-tuesday.php",
-      "player_id": 18466,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Terry McLaurin (knee) to have MRI on Tuesday "
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-20 13:35:40",
-      "created_formated": "Tue, Oct 20th 1:35pm UTC",
-      "desc": "Marquez Valdes-Scantling is expected to sign to the Steelers' practice squad. ",
-      "id": 614920,
-      "impact": "After being let go by the Chargers this past weekend, Valdes-Scantling will meet back up with QB Aaron Rodgers and other familiar faces in Pittsburgh. Valdes-Scantling played in five games with the Steelers last season, catching 10 passes for 80 yards and a touchdown. ",
-      "link": "https://www.fantasypros.com/nfl/news/614920/marquez-valdes-scantling-to-join-steelers.php",
-      "player_id": 17528,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Marquez Valdes-Scantling to join Steelers "
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 10:00:20",
-      "created_formated": "Tue, Oct 20th 10:00am UTC",
-      "desc": "The 49ers D/ST allowed 17 points while notching four sacks in a 23-17 win over the Commanders in Week 6's Monday night game.",
-      "id": 614919,
-      "impact": "San Francisco held the Commanders to just three points in the first half before Washington's offense came to life a bit after halftime. They will look to stay hot against the Falcons on the road in Week 7.",
-      "link": "https://www.fantasypros.com/nfl/news/614919/49ers-dst-picks-up-four-sacks-week-6.php",
-      "player_id": 8270,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "49ers D/ST picks up four sacks in Week 6"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:58:13",
-      "created_formated": "Tue, Oct 20th 9:58am UTC",
-      "desc": "Eddy Pineiro made his lone field-goal attempt while adding two extra points in a 23-17 win over the Commanders in Week 6.",
-      "id": 614918,
-      "impact": "Pineiro hit a 33-yard field goal in the third quarter to give the 49ers their last points of the contest. The veteran kicker has made six of his nine field goals while adding 19 extra points this season. He will take on the Falcons in Week 7.",
-      "link": "https://www.fantasypros.com/nfl/news/614918/eddy-pineiro-makes-one-fg-week-6.php",
-      "player_id": 17575,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Eddy Pineiro makes one FG in Week 6"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:55:03",
-      "created_formated": "Tue, Oct 20th 9:55am UTC",
-      "desc": "George Kittle caught five of his eight targets for 69 yards and a touchdown in a 23-17 win over the Commanders in Week 6.",
-      "id": 614917,
-      "impact": "Kittle finished second on the 49ers in receiving yards and catches in the close win on Monday night. The veteran tight end scored his touchdown on an 11-yard pass from Brock Purdy early in the first quarter. Overall, Kittle has 26 catches for 337 yards and five touchdowns through six games for the 49ers. With Mike Evans (Achilles soreness) expected to be held out through the team's Week 8 bye, Kittle will be a top-five fantasy tight end option in Week 7 vs. the Falcons.",
-      "link": "https://www.fantasypros.com/nfl/news/614917/george-kittle-finds-end-zone-week-6.php",
-      "player_id": 16499,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "George Kittle finds the end zone in Week 6"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:52:55",
-      "created_formated": "Tue, Oct 20th 9:52am UTC",
-      "desc": "Jordan Watkins caught his lone target for a 22-yard gain in a 23-17 win over the Commanders in Week 6.",
-      "id": 614916,
-      "impact": "Watkins was quiet in the win. The veteran receiver could see a larger role in Week 7 vs. the Falcons, with Mike Evans (Achilles soreness) not expected to play. Watkins has caught just three passes for 82 yards on the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/614916/jordan-watkins-goes-22-yards-week-6.php",
-      "player_id": 27486,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Jordan Watkins goes for 22 yards in Week 6"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:49:36",
-      "created_formated": "Tue, Oct 20th 9:49am UTC",
-      "desc": "Brandin Cooks caught one of his two targets for 13 yards in a 23-17 win over the Commanders in Week 6.",
-      "id": 614915,
-      "impact": "Cooks was quiet in the win on Monday night despite Mike Evans leaving the game right before halftime with Achilles soreness. The 49ers leaned on Christian McCaffrey and George Kittle in the passing game in Evans' absence while Cooks was held to just one catch. Cooks is worth a roster spot in deeper leagues, but he should not be in starting lineups heading into Week 7's matchup vs. the Falcons.",
-      "link": "https://www.fantasypros.com/nfl/news/614915/brandin-cooks-hauls-13-yard-pass-week-6.php",
-      "player_id": 12122,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Brandin Cooks hauls in 13-yard pass in Week 6"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:46:58",
-      "created_formated": "Tue, Oct 20th 9:46am UTC",
-      "desc": "Kaelon Black carried the ball eight times for 34 yards while catching his lone target for a three-yard gain in a 23-17 win over the Commanders in Week 6's Monday night game.",
-      "id": 614914,
-      "impact": "Black looked good playing behind Christian McCaffrey, averaging 4.3 yards per carry for the 49ers. The rookie remains one of the top handcuffs in fantasy heading into a Week 7 matchup vs. the Falcons.",
-      "link": "https://www.fantasypros.com/nfl/news/614914/kaelon-black-sees-nine-touches-mnf-win.php",
-      "player_id": 28401,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Kaelon Black sees nine touches in MNF win"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:44:35",
-      "created_formated": "Tue, Oct 20th 9:44am UTC",
-      "desc": "Christian McCaffrey carried the ball 16 times for 64 yards and two touchdowns while catching nine of his 10 targets for 53 yards in a 23-17 win over the Commanders in Week 6's Monday night game. He also lost a fumble in the contest.",
-      "id": 614913,
-      "impact": "McCaffrey turned in a huge performance in the close win. He scored his touchdowns on a pair of one-yard runs in the first half, while he led the 49ers in targets and receptions. With seven total touchdowns through his first six games this year, the veteran tailback will be a top-three fantasy option heading into Week 7's road matchup vs. the Falcons.",
-      "link": "https://www.fantasypros.com/nfl/news/614913/christian-mccaffrey-scores-two-tds-week-6.php",
-      "player_id": 16393,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Christian McCaffrey scores two TDs in Week 6"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:40:40",
-      "created_formated": "Tue, Oct 20th 9:40am UTC",
-      "desc": "Brocky Purdy completed 21 of his 29 passes for 264 yads and one touchdown while adding five rushes for 28 yards in a 23-17 win over the Commanders in Week 6.",
-      "id": 614912,
-      "impact": "Purdy was efficient in the win over Washington on Monday night, although the offense slowed down a bit after halftime. His lone touchdown pass went to George Kittle early in the first quarter. Purdy has been one of the top fantasy QBs this season, posting 1,460 passing yards, 14 touchdowns, and two interceptions across six games. He will be a high-end fantasy option in Week 7 vs. the Falcons.",
-      "link": "https://www.fantasypros.com/nfl/news/614912/brock-purdy-throws-one-td-mnf-win.php",
-      "player_id": 19797,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Brock Purdy throws one TD in MNF win"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:37:28",
-      "created_formated": "Tue, Oct 20th 9:37am UTC",
-      "desc": "The Commanders D/ST allowed 23 points while notching two sacks and recovering a fumble in a 23-17 loss to the 49ers in Week 6's Monday night game.",
-      "id": 614911,
-      "impact": "Washington's defense allowed 20 points in the first half but held the 49ers to just a field goal after halftime. They recovered a Christian McCaffrey fumble while getting sacks from Shy Tuttle and Odafe Oweh. Washington will be on bye in Week 7 before they face the Eagles in Week 8.",
-      "link": "https://www.fantasypros.com/nfl/news/614911/commanders-dst-picks-up-two-sacks-week-6.php",
-      "player_id": 8310,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Commanders D/ST picks up two sacks in Week 6"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:35:04",
-      "created_formated": "Tue, Oct 20th 9:35am UTC",
-      "desc": "Drew Stevens made his lone field-goal attempt and added two extra points in a 23-17 loss to the 49ers in Week 6.",
-      "id": 614910,
-      "impact": "Stevens nailed a 51-yard field goal in the contest, giving him three this season from at least 50 yards out. Overall, the rookie kicker has made 10 of his 12 field-goal attempts and added 10 extra points for Washington. He will be on bye in Week 7 before a Week 8 matchup vs. the Eagles.",
-      "link": "https://www.fantasypros.com/nfl/news/614910/drew-stevens-makes-51-yard-fg-week-6.php",
-      "player_id": 28175,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Drew Stevens makes 51-yard FG in Week 6"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:31:31",
-      "created_formated": "Tue, Oct 20th 9:31am UTC",
-      "desc": "Chig Okonkwo caught all seven of his targets for 69 yards in a 23-17 loss to the 49ers in Week 6.",
-      "id": 614909,
-      "impact": "Okonkwo led the Commanders in receiving in the close loss on Monday night. The veteran tight end has caught at least four passes while reaching at least 60 yards in two straight games. He could be in store for a larger role after his bye in Week 7, as Terry McLaurin was carted off the field on Monday vs. the 49ers with a knee injury.",
-      "link": "https://www.fantasypros.com/nfl/news/614909/chig-okonkwo-goes-seven-catches-69-yards-week-6.php",
-      "player_id": 23982,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Chig Okonkwo goes for seven catches, 69 yards in Week 6"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:28:59",
-      "created_formated": "Tue, Oct 20th 9:28am UTC",
-      "desc": "Antonio Williams caught three of his four targets for 50 yards in a 23-17 loss to the 49ers in Week 6.",
-      "id": 614908,
-      "impact": "Williams finished third on the team in receiving in the loss on Monday night. The rookie wideout has shown flashes this season but his role hasn't been large enough to be trusted as a weekly starter in fantasy. He could see more work after his bye in Week 7, after Terry McLaurin had to be carted off the field during Monday night's game against the 49ers. Williams is worth a waiver claim in most leagues this week.",
-      "link": "https://www.fantasypros.com/nfl/news/614908/antonio-williams-finishes-with-50-receiving-yards-week-6.php",
-      "player_id": 25418,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Antonio Williams finishes with 50 receiving yards in Week 6"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:26:09",
-      "created_formated": "Tue, Oct 20th 9:26am UTC",
-      "desc": "Treylon Burks caught four of his six targets for 66 yards in a 23-17 loss to the 49ers in Week 6.",
-      "id": 614907,
-      "impact": "Burks finished second on the Commanders in receiving yards behind only Chig Okonkwo. The veteran receiver saw an expanded role after Terry McLaurin suffered a knee injury in the first half and was carted off the field. Burks will have some flex appeal in Week 8 after his Week 7 bye, assuming McLaurin can't play.",
-      "link": "https://www.fantasypros.com/nfl/news/614907/treylon-burks-goes-66-yards-week-6.php",
-      "player_id": 22905,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Treylon Burks goes for 66 yards in Week 6"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:23:31",
-      "created_formated": "Tue, Oct 20th 9:23am UTC",
-      "desc": "Stefon Diggs caught six of his seven targets for 44 yards and a touchdown in a 23-17 loss to the 49ers in Week 6's Monday night game.",
-      "id": 614906,
-      "impact": "Diggs set a season-high in catches for the Commanders in the close loss to San Francisco. He found the end zone for the fourth time this season on a one-yard pass from Jayden Daniels late in the third quarter. Diggs should remain a key piece of the Washington passing attack, especially after Terry McLaurin had to be carted off the field with a knee injury on Monday night. The Commanders are on bye in Week 7 before they take on the Eagles in Week 8. Diggs can be considered a solid flex option in fantasy going forward.",
-      "link": "https://www.fantasypros.com/nfl/news/614906/stefon-diggs-scores-td-week-6.php",
-      "player_id": 13981,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Stefon Diggs scores TD in Week 6"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:20:07",
-      "created_formated": "Tue, Oct 20th 9:20am UTC",
-      "desc": "Austin Ekeler carried the ball once for three yards and caught both of his targets for four yards in a 23-17 loss to the 49ers in Week 6.",
-      "id": 614905,
-      "impact": "Ekeler mixed in behind Rachaad White in the Washington backfield. The veteran running back should continue to see a handful of touches behind White while Jacory Croskey-Merritt is on injured reserve with a groin injury.",
-      "link": "https://www.fantasypros.com/nfl/news/614905/austin-ekeler-sees-three-touches-week-6.php",
-      "player_id": 16483,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Austin Ekeler sees three touches in Week 6"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:17:15",
-      "created_formated": "Tue, Oct 20th 9:17am UTC",
-      "desc": "Rachaad White carried the ball seven times for 27 yards and caught four of his five targets for 30 yards and a touchdown in a 23-17 loss to the 49ers in Week 6.",
-      "id": 614904,
-      "impact": "White had a larger role than usual with Jacory Croskey-Merritt on injured reserve with a groin injury. White took advantage, leading the Washington backfield in touches while scoring on a nine-yard pass from Jayden Daniels in the fourth quarter. White is looking like a high-end RB3 in fantasy going forward as he heads into his bye in Week 7.",
-      "link": "https://www.fantasypros.com/nfl/news/614904/rachaad-white-finds-end-zone-week-6-loss.php",
-      "player_id": 23891,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Rachaad White finds the end zone in Week 6 loss"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-20 09:14:07",
-      "created_formated": "Tue, Oct 20th 9:14am UTC",
-      "desc": "Jayden Daniels completed 29 of his 40 passes for 300 yards and two touchdowns while adding four rushes for 10 yards in a 23-17 loss to the 49ers in Week 6.",
-      "id": 614903,
-      "impact": "Unlike Week 5, Daniels didn't do much damage on the ground, but he made up for it with a solid day in the passing attack. His touchdown passes both came in the second half with one going to Stefon Diggs and the other to Rachaad White. Daniels has thrown for 759 yards and five touchdowns across four games this season. A solid QB1 in fantasy going forward, he will be on bye in Week 7 before taking on the Eagles in Week 8.",
-      "link": "https://www.fantasypros.com/nfl/news/614903/jayden-daniels-throws-300-yards-two-tds-week-6.php",
-      "player_id": 22902,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Jayden Daniels throws for 300 yards, two TDs in Week 6"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-20 04:05:42",
-      "created_formated": "Tue, Oct 20th 4:05am UTC",
-      "desc": "49ers head coach Kyle Shanahan said Mike Evans is dealing with Achilles soreness.",
-      "id": 614876,
-      "impact": "There is no rupture, which is a positive sign after Evans left Monday's game late in the first half. He'll continue to be further evaluated later in the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/614876/mike-evans-dealing-with-achilles-soreness.php",
-      "player_id": 12119,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Mike Evans dealing with Achilles soreness "
     }
   ],
   "public_api": true,

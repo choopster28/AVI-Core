@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 308805697879937024
 - Division: 2
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-10-20
+- Last updated from Sleeper exports: 2026-10-21
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,14 +23,14 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 640.9
 - championship_lineup_c_avi_avg: 80.11
-- offensive_roster_c_avi_sum: 822.5
-- offensive_roster_c_avi_avg: 58.75
-- offensive_roster_d_avi_sum: 1005.5
-- offensive_roster_d_avi_avg: 71.82
+- offensive_roster_c_avi_sum: 822.6
+- offensive_roster_c_avi_avg: 58.76
+- offensive_roster_d_avi_sum: 1005.8
+- offensive_roster_d_avi_avg: 71.84
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Trevor Lawrence | C-AVI: 77.0 | D-AVI: 83.8
+- QB: Trevor Lawrence | C-AVI: 77.0 | D-AVI: 83.9
 - RB: Christian McCaffrey | C-AVI: 94.3 | D-AVI: 91.2
 - RB: James Cook | C-AVI: 89.9 | D-AVI: 94.5
 - WR: CeeDee Lamb | C-AVI: 98.0 | D-AVI: 98.2
@@ -54,7 +54,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 77.0
-- Dynasty AVI (D-AVI, 0-100): 83.8
+- Dynasty AVI (D-AVI, 0-100): 83.9
 - Projected PPR points: 303.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 40.0
-- Dynasty AVI (D-AVI, 0-100): 65.0
+- Championship AVI (C-AVI, 0-100): 40.1
+- Dynasty AVI (D-AVI, 0-100): 65.2
 - Projected PPR points: 283.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

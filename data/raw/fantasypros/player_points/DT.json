@@ -2454,7 +2454,7 @@
       "player_name": "Carl Jones Jr.",
       "points": 0,
       "position_id": "DT",
-      "team_id": "BAL",
+      "team_id": "FA",
       "weeks": {
         "1": 0,
         "2": 0,
@@ -3042,7 +3042,7 @@
       "player_name": "Naquan Jones",
       "points": 1.5,
       "position_id": "DT",
-      "team_id": "SF",
+      "team_id": "FA",
       "weeks": {
         "3": 0.8,
         "4": 0.8,
@@ -3333,7 +3333,7 @@
       "player_name": "Chris Williams",
       "points": 0.75,
       "position_id": "DT",
-      "team_id": "CLE",
+      "team_id": "FA",
       "weeks": {
         "5": 0,
         "6": 0.8

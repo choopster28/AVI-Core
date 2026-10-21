@@ -477,7 +477,7 @@
       "player_name": "Erick Hallett II",
       "points": 0.75,
       "position_id": "CB",
-      "team_id": "FA",
+      "team_id": "TEN",
       "weeks": {
         "1": 0,
         "2": 0.8,
@@ -3088,7 +3088,7 @@
       "player_name": "Caelen Carson",
       "points": 0.75,
       "position_id": "CB",
-      "team_id": "DAL",
+      "team_id": "FA",
       "weeks": {
         "3": 0.8,
         "5": 0,
@@ -3329,7 +3329,7 @@
       "player_name": "Collin Wright",
       "points": 0,
       "position_id": "CB",
-      "team_id": "FA",
+      "team_id": "HOU",
       "weeks": {
         "4": 0
       }
@@ -3466,7 +3466,7 @@
       "player_name": "Darren Hall",
       "points": 0,
       "position_id": "CB",
-      "team_id": "WAS",
+      "team_id": "FA",
       "weeks": {
         "5": 0
       }

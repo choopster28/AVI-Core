@@ -9,28 +9,28 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 5
-- Last updated from Sleeper exports: 2026-10-20
+- Last updated from Sleeper exports: 2026-10-21
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 21
-- offense: 16
+- total_players: 19
+- offense: 15
 - kickers: 1
-- idp: 4
+- idp: 3
 - other: 0
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 550.4
 - championship_lineup_c_avi_avg: 68.80
-- offensive_roster_c_avi_sum: 886.9
-- offensive_roster_c_avi_avg: 55.43
-- offensive_roster_d_avi_sum: 1115.2
-- offensive_roster_d_avi_avg: 69.70
+- offensive_roster_c_avi_sum: 857.4
+- offensive_roster_c_avi_avg: 57.16
+- offensive_roster_d_avi_sum: 1066.2
+- offensive_roster_d_avi_avg: 71.08
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Jayden Daniels | C-AVI: 81.5 | D-AVI: 86.3
+- QB: Jayden Daniels | C-AVI: 81.5 | D-AVI: 85.7
 - RB: Omarion Hampton | C-AVI: 74.3 | D-AVI: 87.1
 - RB: Bhayshul Tuten | C-AVI: 72.8 | D-AVI: 81.9
 - WR: Nico Collins | C-AVI: 92.9 | D-AVI: 95.1
@@ -54,7 +54,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 81.5
-- Dynasty AVI (D-AVI, 0-100): 86.3
+- Dynasty AVI (D-AVI, 0-100): 85.7
 - Projected PPR points: 308.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -71,7 +71,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 38.0
 - Championship AVI (C-AVI, 0-100): 44.5
-- Dynasty AVI (D-AVI, 0-100): 56.4
+- Dynasty AVI (D-AVI, 0-100): 56.7
 - Projected PPR points: 39.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -172,26 +172,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 35.6
+- Championship AVI (C-AVI, 0-100): 35.7
 - Dynasty AVI (D-AVI, 0-100): 53.0
 - Projected PPR points: 65.2
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Kaleb Johnson
-- Player name: Kaleb Johnson
-- Player ID: 12504
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: GB
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 29.7
-- Dynasty AVI (D-AVI, 0-100): 48.8
-- Projected PPR points: 32.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -206,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 28.5
-- Dynasty AVI (D-AVI, 0-100): 41.6
+- Championship AVI (C-AVI, 0-100): 28.6
+- Dynasty AVI (D-AVI, 0-100): 41.7
 - Projected PPR points: 26.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -342,23 +325,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Azeez Al-Shaair
-- Player name: Azeez Al-Shaair
-- Player ID: 6485
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: LB
-- Fantasy positions: ['LB']
-- NFL team: HOU
-- Active: True
-- Status: Active
-- Age: 29.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

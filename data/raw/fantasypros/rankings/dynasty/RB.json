@@ -2219,7 +2219,7 @@
     {
       "cbs_player_id": "28875227",
       "player_age": "22",
-      "player_bye_week": "10",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "RB",
       "player_filename": "jaydon-blue.php",
@@ -2232,7 +2232,7 @@
       "player_position_id": "RB",
       "player_positions": "RB",
       "player_short_name": "J. Blue",
-      "player_team_id": "PHI",
+      "player_team_id": "FA",
       "player_yahoo_id": "41935",
       "player_yahoo_positions": "RB",
       "pos_rank": "RB80",
