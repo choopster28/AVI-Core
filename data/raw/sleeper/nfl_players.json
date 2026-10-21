@@ -60312,7 +60312,7 @@
       "injury_override_regular_2025_4": "Out",
       "rookie_year": "2024"
     },
-    "news_updated": 1792425008123,
+    "news_updated": 1792591552200,
     "number": 29,
     "oddsjam_id": "56D1B40B77F3",
     "opta_id": null,
@@ -119737,7 +119737,7 @@
       "rookie_year": "2025",
       "source_id": "85ea3a86-537e-4f79-b65a-7166bcf04e9c"
     },
-    "news_updated": 1791941433036,
+    "news_updated": 1792589452094,
     "number": 86,
     "oddsjam_id": "BF9EA7171852A290",
     "opta_id": null,
@@ -169403,7 +169403,7 @@
       "rookie_year": "2026",
       "source_id": "574f8140-85f6-11ec-b637-a5ab0010ea3e"
     },
-    "news_updated": 1792431008896,
+    "news_updated": 1792590054731,
     "number": 0,
     "oddsjam_id": null,
     "opta_id": null,
@@ -274494,7 +274494,7 @@
       "genius_id": "796976",
       "rookie_year": "2014"
     },
-    "news_updated": 1792490137846,
+    "news_updated": 1792589151910,
     "number": 84,
     "oddsjam_id": "8034C780D6A5",
     "opta_id": null,
@@ -447665,7 +447665,7 @@
       "genius_id": "1007964",
       "rookie_year": "2018"
     },
-    "news_updated": 1792529138689,
+    "news_updated": 1792591252196,
     "number": 26,
     "oddsjam_id": "08F1CFA81F52",
     "opta_id": null,
@@ -454334,7 +454334,7 @@
       "genius_id": "1005754",
       "rookie_year": "2018"
     },
-    "news_updated": 1787181017028,
+    "news_updated": 1792590652111,
     "number": 50,
     "oddsjam_id": "27E0F0A04DA2",
     "opta_id": null,
@@ -512343,7 +512343,7 @@
       "injury_override_regular_2025_12": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1792523737890,
+    "news_updated": 1792588551823,
     "number": 8,
     "oddsjam_id": "0614F08B6121",
     "opta_id": null,
@@ -684017,7 +684017,7 @@
     "first_name": "Eric",
     "full_name": "Eric Johnson",
     "gsis_id": null,
-    "hashtag": "#ericjohnson-NFL-FA-69",
+    "hashtag": "#ericjohnson-NFL-CLE-67",
     "height": "76",
     "high_school": "Plainfield South (IL)",
     "injury_body_part": null,
@@ -684032,7 +684032,7 @@
       "rookie_year": "2022"
     },
     "news_updated": 1788038749556,
-    "number": 69,
+    "number": 67,
     "oddsjam_id": "B5347EA592F8",
     "opta_id": null,
     "pandascore_id": null,
@@ -684052,7 +684052,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 948378,
-    "team": null,
+    "team": "CLE",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "299",
