@@ -1,5 +1,49 @@
 [
   {
+    "id": "mvirr3lp-7b74f9e5",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Mile High Royal Lions",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Big Balder Brand",
+      "targetAssets": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        },
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "J.K. Dobbins",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+          "assetType": "pick"
+        },
+        {
+          "name": "2027 3rd · Mile High · Projected Late · original owner Mile High Royal Lions",
+          "assetType": "pick"
+        },
+        {
+          "name": "Xavier Hutchinson",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1792626867709,
+    "updatedAt": 1792626867709,
+    "expiresAt": 1793058867709,
+    "status": "queued"
+  },
+  {
     "id": "mvh5a1uf-8b091e37",
     "phase": "initial",
     "mode": "improve_team",
