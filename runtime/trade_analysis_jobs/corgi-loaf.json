@@ -29,9 +29,344 @@
       }
     },
     "createdAt": 1792599241640,
-    "updatedAt": 1792599243179,
+    "updatedAt": 1792599304095,
     "expiresAt": 1793031241640,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. attempts to acquire elite 25-year-old running back Breece Hall from Conquistadors in exchange for Rhamondre Stevenson and a 2027 2nd-round pick. While this proposal represents an exceptional value gain for Corgi Loaf's championship run and dynasty structure, it is far too light for Conquistadors—a verified Champion Favorite—to accept. To make this trade viable, Corgi Loaf must revise the offer by pairing Stevenson with a legitimate starting WR like DeVonta Smith or a premium future 1st-round pick.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 28,
+              "cavi": 65,
+              "davi": 73.6,
+              "publicMarket": 62,
+              "leagueMarket": 65
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected Mid",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Breece Hall",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 74,
+              "davi": 88.9,
+              "publicMarket": 85,
+              "leagueMarket": 82
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "D-",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Heavily lopsided in favor of Corgi Loaf Baking Co. Corgi Loaf upgrades starting RB production and secures an elite 25-year-old cornerstone in Breece Hall for an aging RB2 in Rhamondre Stevenson and a mid 2nd-round pick. Conquistadors takes a major hit to both current championship ceiling and long-term dynasty value."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Revising the offer to send DeVonta Smith and Rhamondre Stevenson for Breece Hall creates a mutually beneficial trade. Corgi Loaf leverages deep WR depth to secure an elite RB1, while Conquistadors addresses a major WR depth need with a high-end starter without sacrificing overall lineup output."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 45,
+              "summary": "Elevates starting lineup scoring potential by adding an S-tier RB ceiling in place of a volatile RB2."
+            },
+            "dynastyOutlook": {
+              "score": 70,
+              "summary": "Acquires a 25-year-old franchise RB with elite contract stability and long-term utility."
+            },
+            "lineupQuality": {
+              "score": 50,
+              "summary": "Directly upgrades RB2/FLEX position from Rhamondre Stevenson (65.0 C-AVI) to Breece Hall (74.0 C-AVI)."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Slight loss in bench/draft depth by relinquishing a 2027 2nd-round pick."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Reduces future draft assets, though Breece Hall represents elite liquid player value."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Substantial gain for Corgi Loaf, upgrading from Stevenson to Breece Hall while surrendering only non-premium draft capital."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -50,
+              "summary": "Reduces championship odds for a Champion Favorite by downgrading RB/FLEX ceiling."
+            },
+            "dynastyOutlook": {
+              "score": -60,
+              "summary": "Surrenders a 25-year-old prime cornerstone (88.9 D-AVI) for an aging back (73.6 D-AVI) and non-first draft capital."
+            },
+            "lineupQuality": {
+              "score": -40,
+              "summary": "Downgrades RB/FLEX position without adding adequate compensation elsewhere in the starting eight."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Gains a 2027 2nd pick, providing minor future depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Adds a liquid 2nd-round pick, though insufficient to offset the loss of Hall."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Severely damaging move for Conquistadors, sacrificing an elite RB cornerstone for a lower-tier RB and mid-round pick."
+            }
+          },
+          "explanation": "The proposed transaction heavily favors Corgi Loaf Baking Co. by converting an aging RB2 and a 2nd-round pick into an elite 25-year-old star. For Conquistadors—a team competing for a championship—the deal damages both short-term ceiling and long-term asset structure."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf improves starting lineup C-AVI by upgrading from Rhamondre Stevenson (65.0 C-AVI) to Breece Hall (74.0 C-AVI), reinforcing their Elite Contender status.",
+          "sideADynastyImpact": "Dynasty portfolio increases significantly with the acquisition of 25-year-old Breece Hall (88.9 D-AVI) at the cost of 28-year-old Stevenson (73.6 D-AVI) and a 2027 2nd-round pick (48.5 D-AVI).",
+          "sideARosterImpact": "Consolidates depth into an elite starting slot while preserving depth at QB, WR, and TE.",
+          "sideBChampionshipImpact": "Conquistadors suffers a clear drop in championship ceiling, surrendering Breece Hall's high-ceiling output for Rhamondre Stevenson's lower-efficiency volume.",
+          "sideBDynastyImpact": "Major net loss in long-term dynasty value, giving up a premier 25-year-old RB cornerstone for aging production and a secondary pick.",
+          "sideBRosterImpact": "Creates an unnecessary talent downgrade in the FLEX/RB room for a team built to win now.",
+          "valueAssessment": "The submitted offer favors Corgi Loaf Baking Co. 75/25 in overall transaction equity. Conquistadors cannot accept this as constructed."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views Breece Hall as a top-tier dynasty RB with high redraft ceiling, despite a temporary quadriceps injury. Rhamondre Stevenson is viewed as an aging RB2 facing efficiency struggles and committee competition in New England.",
+          "aviVsMarket": "AVI values Breece Hall at 74.0 C-AVI (reflecting short-term injury absence) and 88.9 D-AVI. Public market consensus ranks Hall significantly higher than Stevenson + a 2nd round pick, considering Stevenson's age (28) and volatile touch distribution.",
+          "relevantContext": [
+            "Breece Hall is under a 3-year extension with New York and remains the focal point of the Jets backfield upon return from a minor quadriceps injury.",
+            "Rhamondre Stevenson is experiencing efficiency declines (2.6 YPC in Week 6) and losing snaps to backfield teammates.",
+            "In a 16-team dynasty PPR format, elite starting RBs hold massive market premiums over mid 2nd-round picks."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors is a verified Champion Favorite focused on winning the title. They have no motivation to downgrade from Breece Hall to Rhamondre Stevenson for a future 2nd-round pick.",
+          "packageFit": "Poor fit. A future mid 2nd-round pick does not provide immediate championship utility to a title contender surrendering an elite starter.",
+          "lineupReplacement": "Fails. Rhamondre Stevenson (65.0 C-AVI) is a noticeable downgrade from Breece Hall (74.0 C-AVI) and does not replace Hall's explosive fantasy upside.",
+          "competitiveWindowFit": "Misaligned. Conquistadors is in a peak championship window and cannot afford to give away top-tier star talent for distant draft capital.",
+          "positionalScarcity": "High-end RB production is extremely scarce in 16-team PPR leagues. Moving a player of Hall's caliber requires an S-tier package."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 5,
+            "packageMatch": 4,
+            "lineupReplacement": 6,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 32,
+          "classification": "Unlikely",
+          "explanation": "Conquistadors is a Champion Favorite dedicated to winning the title. Trading Breece Hall for Rhamondre Stevenson and a 2027 2nd-round pick severely weakens their starting ceiling and surrenders a 25-year-old cornerstone for inadequate compensation. This offer fails manager motivation, package match, lineup replacement, and competitive window alignment."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "While acquiring Breece Hall is an outstanding strategic objective for Corgi Loaf Baking Co., the submitted offer of Rhamondre Stevenson and a 2027 2nd-round pick is far too light and will be rejected by Conquistadors. Corgi Loaf should revise the offer by leveraging deep receiver depth (e.g., adding DeVonta Smith) or offering a 1st-round pick to construct a package that aligns with Conquistadors' championship window.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 28,
+              "cavi": 65,
+              "davi": 73.6,
+              "publicMarket": 62,
+              "leagueMarket": 65
+            },
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 87,
+              "davi": 91.3,
+              "publicMarket": 82,
+              "leagueMarket": 87
+            }
+          ],
+          "receive": [
+            {
+              "name": "Breece Hall",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 74,
+              "davi": 88.9,
+              "publicMarket": 85,
+              "leagueMarket": 82
+            }
+          ],
+          "whyUserShouldDoIt": "Corgi Loaf utilizes its deep WR room (JSN, Nabers, DJ Moore) to land an elite 25-year-old RB1 in Breece Hall, significantly strengthening its starting lineup without sacrificing elite WR starter quality.",
+          "whyOpponentMightAccept": "Conquistadors gets an immediate high-end starter in DeVonta Smith (87.0 C-AVI) to solidify their thin WR core alongside Puka Nacua and Pickens, while receiving Rhamondre Stevenson to maintain running back depth for their championship push."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 28,
+              "cavi": 65,
+              "davi": 73.6,
+              "publicMarket": 62,
+              "leagueMarket": 65
+            },
+            {
+              "name": "2028 Round 1 (Corgi Loaf Baking Co.)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 68,
+              "davi": 72,
+              "publicMarket": 70,
+              "leagueMarket": 68
+            }
+          ],
+          "receive": [
+            {
+              "name": "Breece Hall",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 74,
+              "davi": 88.9,
+              "publicMarket": 85,
+              "leagueMarket": 82
+            }
+          ],
+          "rationale": "If Corgi Loaf prefers to keep DeVonta Smith, pairing Rhamondre Stevenson with a premium 2028 1st-round pick provides Conquistadors with high-value draft capital alongside a startable RB replacement."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Rhamondre Stevenson fantasy outlook 2026",
+          "Rhamondre Stevenson news 2026 NFL",
+          "Breece Hall news 2026 NFL",
+          "Breece Hall fantasy outlook 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgfOKYxvpBJELmzBsS75Sd0fPsKyxml6ugm3aD9yItYqu0D1LX88xxb8D88rux4-tsoHSadXPxZdyvUx5RLsmvmfxZ0c8iAIrabuUHs0g47vFxqrZ6zG5Clt8Z5FADpA_TkfRyK5-buZvrbjcy9lcLc8iTunQMJJA=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6W-tppMBIhFhQX35bWEjHoRHIlMHES5guiZYQkrWMHAdLpLYrNQCoK0uvzopowuATqRq6p6iRYEe4oXi7XLcjuY53cYqHzBhJtwWrgwqfXzrNLAglhD5enkmSASp0BXyHlEvehs_iGegZpugM08ARlBokDGRbDHrlAyB1",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA6vqZIJtiB8D1tOcjLIB0RSWxaf4L4A6IqlBjnoV1CtWl6NUvBufwYuqtybn9NcwHq2rMZTmK4tTbzrwpJ9C4qnYLP5YrTg0xO2u-XHH-BQYMol7oJqaC320erIPqKFC1Jb4nH29l6WmSWaAMYI6GO523VrMUVnvDeeLHBkZADJOgmR8t-4Vk1Gn8fu3KhkEgiEd9mib0I5bykXXt2VhXJfFt0EjSOZLmx5ny",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLfwusVez1mg1ViZI-GaFLsHVRSsFCXyLdqd6REl4Mq6RkLb1cgLzZ3PTiTg13r_CzzTLtDR7icRnAasfAcFfTnCKNI-o1c-hD2wMLTtS0D1swMgdrvkvmBB71ZKtdJaI0MDldIG-qyDP0nlxK48sRglYU",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsiij8BAi2ZTg_SjfziUUCFtLKV5L2wMqLCO-k9oTzNUVpVRAwtX-C_2KVk5DmMP7UiEMqsuCDEU1zYMFZunY4bAiNNsFCWiVRrHfn3nERuscVQtFnUfhHrCoisDZVzrg58arIVZyoWojjRRl_YKOoJK0D8eJCocEAqy591kLj2diHUcpr3eOTXH3Xtuvw3Dkv5WzGsnDhkm7x",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW7c_QNEO_EdEnhadzNL0JUJKfNQbVS6MEruGB_ffJKnuqNUmNTvRsYV92PHefaKLhiH6i2sWo0T8zHXktFniMZ_3ft-K0SFHcP-YR3IuOHyLJXxy1uAspZctdNlmv1PDdy9MeMGJKcvieZR725kroQ57iMytDcM6x9HGP6WnoNDErsnku9UQrf1fYZoj4OZl6yzRxqo9AP6mDcpDx7pLNjaTyLArerVsGoWl4",
+            "title": "newyorkjets.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBWdm9v-eYi8QB2E_PJaZTbZIzv-QJ88nA_VBw2C8m8J4v781N75FEaORV3UT-iXNf6RSxK4Ptlya5-bgP1cxeKGrYMERrbgH-0-vluidN44r8BqSKcUh7w7YidWx-g8PHDQW7otG85lPXvCW07FHu_6_dlYtehvUJ3smtxmVvBYiJAzpYWmoYxyHF",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjF6lYiMXgO0xhxRITiqYMdSbcW7OpR69DLeCG74Sy9WrnW94bJGN1rlzp2vnJ9-LIhzChbKra_ZhJehqHCNHA_ihW2ZUB-xDaz-hGAXKuQXaLwKcjtzs_48lwU1mkrlEFn_PnGdq5OCl8fpWL9aMmlCIlY9vPOM3GoOIqlmm1Ho6up1J6_XyqDzu6aqZRN5UbeyUGB2K2yOSbNqUIX_acDixCjK4H4lrVAQ==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg5DiB-RI90FuI7cDb-x-cI-usc_ysE8_kzpC7n5ZlqcYmoQKEQrjLmXv2dWnnpDoAcPVhaJ44JEd90ZKFzxxqL8mpdbXRPG2DskywMwtJTmqegfVlE_QSIGCdHCHbVsPUw1vxTvc-QFBhX--6LKwMY7fBs4SupMPjiDWWkzwrJLuqkyJqTh7j943_qNO99epdAbNT0ge_ttzvSDAd",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "563627e90c75023222b7df8744ab312033f55ca6",
+        "aviCoreCommittedAt": "2026-10-21T14:14:42Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 88307,
+        "groundedMarketChars": 2716,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mvi8ely6-e000f702",
