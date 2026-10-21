@@ -1,5 +1,361 @@
 [
   {
+    "id": "mvirr3lp-7b74f9e5",
+    "createdAt": 1792626926524,
+    "expiresAt": 1793058926524,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Mile High Royal Lions ↔ Big Balder Brand",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Mile High Royal Lions",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Big Balder Brand",
+      "targetAssets": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        },
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "J.K. Dobbins",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+          "assetType": "pick"
+        },
+        {
+          "name": "2027 3rd · Mile High · Projected Late · original owner Mile High Royal Lions",
+          "assetType": "pick"
+        },
+        {
+          "name": "Xavier Hutchinson",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Mile High Royal Lions sought to construct a trade proposal to acquire Trey McBride and Saquon Barkley from Big Balder Brand using a foundation of J.K. Dobbins, Xavier Hutchinson, a 2027 2nd-round pick (orig. All Hail King Jesus), and a 2027 3rd-round pick. However, Big Balder Brand is an Elite Contender whose verified goal is 'Win Championship,' and Trey McBride is the ONLY tight end on their entire roster. Trading McBride and Barkley for bench depth and mid-round picks severely undermines Big Balder Brand's title odds and leaves them with zero starting tight ends. Furthermore, for Mile High to offer sufficient compensation (e.g., sending Travis Kelce and Jahmyr Gibbs), Mile High would severely damage its own roster and fail its goal to 'Increase Championship Odds.' Consequently, no realistic trade pathway exists between these two franchises for these targets.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "J.K. Dobbins",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 27,
+              "cavi": 51.8,
+              "davi": 64.9,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            },
+            {
+              "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2027 3rd · Mile High · Projected Late · original owner Mile High Royal Lions",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 16.5,
+              "publicMarket": 15,
+              "leagueMarket": 16.5
+            },
+            {
+              "name": "Xavier Hutchinson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 28.1,
+              "davi": 38.8,
+              "publicMarket": 30,
+              "leagueMarket": 30
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 92,
+              "davi": 92.4,
+              "publicMarket": 90,
+              "leagueMarket": 92
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 60.3,
+              "davi": 82.9,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A+",
+            "otherGrade": "F",
+            "userShare": 85,
+            "otherShare": 15,
+            "advantageFranchise": "Mile High Royal Lions",
+            "summary": "The proposed asset combination is overwhelmingly lopsided in favor of Mile High Royal Lions. Acquiring an S-tier tight end in Trey McBride (92.0 C-AVI) and an elite starting RB in Saquon Barkley (60.3 C-AVI) in exchange for J.K. Dobbins, Xavier Hutchinson, and non-premium 2027 picks (+79.9 player C-AVI total) creates enormous surplus value for the user while completely gutting Big Balder Brand's starting lineup and championship mandate."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 85,
+              "summary": "Massive net surge in starting lineup firepower at TE and RB/FLEX."
+            },
+            "championshipOutlook": {
+              "score": 90,
+              "summary": "Instantly elevates TE and RB/FLEX slots to elite, league-winning tier."
+            },
+            "dynastyOutlook": {
+              "score": 80,
+              "summary": "Secures the overall TE1 in dynasty (McBride) alongside high-ceiling RB assets."
+            },
+            "lineupQuality": {
+              "score": 95,
+              "summary": "Upgrades TE from Kelce/Schultz to McBride and fortifies RB2/FLEX."
+            },
+            "depthResilience": {
+              "score": 60,
+              "summary": "Parts with Dobbins and depth pieces while keeping core roster intact."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Surrenders mid-round 2027 draft pick inventory."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -85,
+              "summary": "Catastrophic roster damage for a premier championship contender."
+            },
+            "championshipOutlook": {
+              "score": -95,
+              "summary": "Leaves the franchise with zero rostered tight ends and downgraded RB starting points."
+            },
+            "dynastyOutlook": {
+              "score": -60,
+              "summary": "Surrenders cornerstone 26-year-old TE McBride for secondary pieces and minor picks."
+            },
+            "lineupQuality": {
+              "score": -90,
+              "summary": "Destroys mandatory starting TE slot and reduces weekly projected points severely."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Adds minor depth in Dobbins and Hutchinson but creates a massive starting void."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Gains modest pick capital in the 2027 2nd and 3rd rounds."
+            }
+          },
+          "explanation": "The proposed framework creates critical structural failure for Big Balder Brand by stripping their only starting tight end and premier running back without replacing the TE slot or providing equal starting talent, directly violating their 'Win Championship' goal."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Mile High gains +152.3 total C-AVI in premier starting talent while giving up +79.9 C-AVI in non-elite player assets, representing a net +72.4 C-AVI increase.",
+          "sideADynastyImpact": "Acquires top dynasty TE Trey McBride (92.4 D-AVI) and Saquon Barkley (82.9 D-AVI) while yielding lower-tier dynasty assets and mid-round picks.",
+          "sideARosterImpact": "Consolidates bench depth and future mid-round draft capital into two locked-in high-volume weekly starters.",
+          "sideBChampionshipImpact": "Big Balder Brand suffers a massive drop in total lineup C-AVI, creating an unfillable zero at the mandatory tight end position.",
+          "sideBDynastyImpact": "Loses cornerstone asset Trey McBride without receiving a comparable young asset or 1st-round capital in return.",
+          "sideBRosterImpact": "Roster is left without any active TE, breaking mandatory league lineup starting requirements.",
+          "valueAssessment": "Severely lopsided on both C-AVI (+152.3 vs +79.9) and D-AVI metrics."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus ranks Trey McBride as the overall TE1/TE2 asset in dynasty football following his multi-year extension with Arizona. Saquon Barkley remains an elite high-volume running back nearing return from a minor hamstring strain. Neither player can be acquired for secondary depth pieces and day-2/day-3 draft capital.",
+          "aviVsMarket": "AVI aligns tightly with public market consensus: McBride is an S-tier cornerstone (92.0 C-AVI / 92.4 D-AVI), while Barkley commands strong contender value (60.3 C-AVI / 82.9 D-AVI).",
+          "relevantContext": [
+            "Trey McBride commands elite target share in Arizona and is locked into a long-term contract extension.",
+            "Saquon Barkley is nearing return for Philadelphia and retains high-volume goal-line and receiving usage.",
+            "J.K. Dobbins is a mid-tier RB2/FLEX option with moderate fantasy efficiency in Denver.",
+            "Xavier Hutchinson is bench depth with minimal fantasy relevance in Houston."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Big Balder Brand is an Elite Contender with an explicit goal to Win Championship. They have zero motivation to downgrade starting production for secondary assets or mid-round draft picks.",
+          "packageFit": "Extremely poor fit. The proposed package offers depth at RB/WR and 2nd/3rd round draft capital, none of which solves Big Balder Brand's mandatory starting lineup needs.",
+          "lineupReplacement": "Complete failure. Big Balder Brand has NO OTHER TE on their roster. Trading McBride leaves them with 0 starting TEs.",
+          "competitiveWindowFit": "Direct conflict. Surrendering top starters undermines Big Balder Brand's current championship window.",
+          "positionalScarcity": "Tight end is highly scarce in a 16-team league. S-tier tight ends like McBride carry massive premium value."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 0,
+            "packageMatch": 2,
+            "lineupReplacement": 0,
+            "competitiveWindow": 0
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 17,
+          "classification": "Impossible",
+          "explanation": "Big Balder Brand is an Elite Contender with an explicit 'Win Championship' goal. Trey McBride is their only rostered TE. Trading McBride and Barkley for J.K. Dobbins, Xavier Hutchinson, a 2027 2nd, and a 2027 3rd creates an unfillable hole at TE and severely damages their title odds. The trade partner will instantly reject this offer."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Big Balder Brand is an Elite Contender with an explicit 'Win Championship' goal. Trey McBride is their only rostered TE. Trading McBride and Barkley for J.K. Dobbins, Xavier Hutchinson, a 2027 2nd, and a 2027 3rd creates an unfillable hole at TE and severely damages their title odds. The trade partner will instantly reject this offer.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Big Balder Brand is an Elite Contender with an explicit 'Win Championship' goal. Trey McBride is their only rostered TE. Trading McBride and Barkley for J.K. Dobbins, Xavier Hutchinson, a 2027 2nd, and a 2027 3rd creates an unfillable hole at TE and severely damages their title odds. The trade partner will instantly reject this offer.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Big Balder Brand is an Elite Contender with an explicit goal to Win Championship. They have zero motivation to downgrade starting production for secondary assets or mid-round draft picks."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "Extremely poor fit. The proposed package offers depth at RB/WR and 2nd/3rd round draft capital, none of which solves Big Balder Brand's mandatory starting lineup needs."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "Complete failure. Big Balder Brand has NO OTHER TE on their roster. Trading McBride leaves them with 0 starting TEs."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Direct conflict. Surrendering top starters undermines Big Balder Brand's current championship window."
+            }
+          ],
+          "opponentPerspective": "Big Balder Brand is an Elite Contender with an explicit goal to Win Championship. They have zero motivation to downgrade starting production for secondary assets or mid-round draft picks.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Extremely poor fit. The proposed package offers depth at RB/WR and 2nd/3rd round draft capital, none of which solves Big Balder Brand's mandatory starting lineup needs.",
+          "whatWouldNeedToChange": [
+            "Big Balder Brand is an Elite Contender with an explicit goal to Win Championship. They have zero motivation to downgrade starting production for secondary assets or mid-round draft picks.",
+            "Extremely poor fit. The proposed package offers depth at RB/WR and 2nd/3rd round draft capital, none of which solves Big Balder Brand's mandatory starting lineup needs.",
+            "Complete failure. Big Balder Brand has NO OTHER TE on their roster. Trading McBride leaves them with 0 starting TEs.",
+            "Direct conflict. Surrendering top starters undermines Big Balder Brand's current championship window."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Saquon Barkley news 2026",
+          "Trey McBride news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjG4_T8SuaNsh-adH4IS88NGNnFnHkjoqzGp8EOiApc9H0wZnfXD0J-3FxUlBiQMjM1XBFHNmqlxGBtg10pzzSUOrO5s9XV5266CEhUy4vv1yrmurb53YuwSVF83llQgvC4jUQR-_DucaCZ6aI4fWsZLNmwT7meP-n18S_K7A29oXiScpFUfo9",
+            "title": "gophnx.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF94BsFwUa7QsoiEAG8h1wiOH96_bDM_3BZgPVP0FCLOLcl1HKR4i286BADiP94o2e1id4JjjIIpJgrmi-ah1k8Y9yDXle3fwK6l4Lt9y4Ebjsr1tMtwiqt7aioggzlgGrj6y2vz5dwJYwXyIoT0Nz54bvfLc39ApqsjdjnQBP7HvUpkSg7oWmf4wxqOdHwBaafRRarCbNs",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG9Rj_uihdY2HeYw9z4ca34PFnWdA02sAzzt61FZH9gSvUrZgeDhwl4Th7GsbY0m6qClpyGkvcnkmDdbrF8j-Je6rbCnD9gPDXYkxJEUuzbXMw1TtDajIqX_mSZ7LbjxAdcpCpgeDS0PWUhbVPIHeLNGEztq5IzydlcUovK2mDnoMVwQxw5ZdOgZSOKlgk1-DYsAEhmJvBCNK5CMRaRaQyC96bB1GK1XVR",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjj3Xmt7FoTGrSzOkg2wDiagqEcqpuo4-dipWh0Cobfn1Po3EyQqsw7f5iFe4EsTlAjprc4qgamVdBj0CcYV76DlOHmyXvdD_JupP062-u-vEDMZuKofM5xiz92dgmnrhdjFb2x1xhxYv3kA5P",
+            "title": "sportspyder.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEJP6yoZ5FTSOapMJb1MaNQcWMeehPNC13YaNK3AvW_8GmXKRSyHYvcCiyQbhoXXlAD1RUdI22aJcAk4Jz9Sqb85P4YOJcd9_K8uvhxpSCwlIXPi08J_3yKIFrTP96CEtoCc34HOkU2kzKgI2Te3ekPeqjVbb_2jrkN6UnHgwNZm09TGAn3vyvF611LomPldFDI0EPMLoblw==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz23CYNkjwB5YdnBhNaBXnqbJVf-t3zOrLJtu5bIK7OSJ8lb-V2YTeIxVxlIlWrmhN629nAbrss5lFkZN7KsPnoC3EiDbd14TA-TAMvNFsAVzx97wLWX51-Kg76mw_YW_YmplB3dYxeNMr8ETVefgGZ_B_DaQqxu2MoaOdIK88dv6mk67hm4vpRmJwYqTRzvagDvJ8P6l8CQ==",
+            "title": "nfltraderumors.co"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK6t_dnD2Bx4aQQYwuuwkv4Z5F7REHaDe02UxVGHZkvMUc-dx1tjxZU08Qa0eH7I6lZHMGIjvbpGl57IN1aq85YOMVC1-jpr4OspG8ynwAOsk0nRyWSqDBQKWkJyiJYJ4dPUAXyg5XRKHRfxgKhrgEbIo3g1N4NYTev94FBFvFb8GrT5ksA00WxOlAu6EKbLjvk_57tHFW0F2TW30555mV1Vfk7WVqwXE-bL1h7LvYKJIMVN0gMUW1tvqJ3LirayQm1psCBddYG4U3nCGWuel9CZ4Lq05bxEJRs1hwHJLWUf_WGiHpvo3ahX-wJy-eiZ7xVsAuyKzWT7LO1o2JYe4gchws",
+            "title": "indiatimes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhpfZc9DjBTmGdI2fkYMdSUmV6SnX_B71q4_MM4eM_GG2dGeELX68Cf2LhEOjNJ152SS1AYgurE9f3VBgPvH-Ao6FnEHBgXOw8wcuqHyJOxXlqwpoWcO8C3XaeihNOzH6oGEEWe6JBXeNtfOnaNrMxez-BytffUCHMgW5dkBzaCF4BFpj5uCmbqbbOAbjk3HHyP1AJfswxwROThwuB-g74rj4zbn-tEo_rqw==",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJIKzZtbFV7VaSbEnRVgEh_K9S1SzvtDHfsdovdLr4VXuJ7ift1E8hIQLUxMi-MwxDBz6RR4c9sHGOurhEkjLtpa-98Ggf1dcZLyE42emBKRwM4kB7QfkO76Ki4Zqry-6VHzVshLdO6Z4R3zS4syqcBibj0KTr5FPYR1j0AJMBnW1pieiSwcaVJ-ug1SsXuLOyir8=",
+            "title": "breakingac.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHByNYekJtdVAAZM4Y31NykQ3wmd0MbMF1aShYubdLGIEo62I-hV2ZBNChRYSUUv3tvk-Rbx6Z2KhN7v8ZS0CLGlf4EcUv_nE_96zMD7wKNtqGec2es3sjLftEzYAFzFej0icIGmbPJf2b-GwQ59KvbcFDdnIBUmROuZ2JWJqUw5qHeolpw_BPAcOEapo0ZJlyc50mEixRFRmwm2saibm7tCyFcKfKAtXupBngURtfdohVeTBOxwUw5",
+            "title": "nbcsports.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "26e0a35d212f33e0638b91be5b6beb2aec1b3c6b",
+        "aviCoreCommittedAt": "2026-10-21T23:48:52Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 82950,
+        "groundedMarketChars": 2719,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mvh5a1uf-8b091e37",
     "createdAt": 1792528739162,
     "expiresAt": 1792960739162,
