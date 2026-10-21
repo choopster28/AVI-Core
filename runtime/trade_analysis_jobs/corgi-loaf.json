@@ -30,9 +30,335 @@
       "personalContext": "Choop is 1-5 and likely not able to make a playoff push, might be selling Saquon"
     },
     "createdAt": 1792594372433,
-    "updatedAt": 1792594375701,
+    "updatedAt": 1792594389963,
     "expiresAt": 1793026372433,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. proposes acquiring Saquon Barkley from Big Balder Brand in exchange for Rhamondre Stevenson and a 2027 2nd-round pick. Incorporating personal context that Big Balder Brand (Choopski) is currently 1-5 and pivoting toward a sell mode completely alters Market Reality. Because Choopski is struggling and likely out of the 2026 title picture, his competitive window shifts from an Elite Contender to a Seller, making future draft capital and younger production highly attractive. Consequently, acceptance probability skyrockets, turning a previously 'Unlikely' trade into a highly realistic deal where the original submitted package is fully viable without adding extra pieces.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 28,
+              "cavi": 65,
+              "davi": 73.6,
+              "publicMarket": 65,
+              "leagueMarket": 65
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected Mid · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 60.3,
+              "davi": 82.5,
+              "publicMarket": 60.3,
+              "leagueMarket": 60.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "With Big Balder Brand sitting at 1-5 and sliding out of contention, pivoting to sell Saquon Barkley for a serviceable rotational back (Stevenson) and a valuable 2027 2nd-round pick provides excellent retooling value for Choopski while giving Corgi Loaf an elite RB anchor for a title push."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The submitted offer of Rhamondre Stevenson and a 2027 2nd-round pick is fully acceptable given the trade partner's 1-5 record and emerging seller status."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 15,
+              "summary": "Secures an elite RB1 ceiling for Corgi Loaf's championship run without overpaying in draft capital."
+            },
+            "championshipOutlook": {
+              "score": 55,
+              "summary": "Significantly upgrades weekly starting points at running back."
+            },
+            "dynastyOutlook": {
+              "score": 25,
+              "summary": "Maintains top-tier roster strength while consolidating assets."
+            },
+            "lineupQuality": {
+              "score": 60,
+              "summary": "Directly injects Barkley into the starting lineup over Stevenson."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Minor consolidation hit on the bench."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Surrenders a 2027 2nd-round pick."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 20,
+              "summary": "Capitalizes on a disappointing 1-5 start by liquidating an aging asset for a startable back and future draft capital."
+            },
+            "championshipOutlook": {
+              "score": -30,
+              "summary": "Concedes the 2026 title chase to pivot toward future asset accumulation."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Adds a valuable 2027 2nd-round pick to accelerate the retooling process."
+            },
+            "lineupQuality": {
+              "score": -25,
+              "summary": "Trades away peak weekly scoring for future flexibility."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Maintains a functional roster piece in Stevenson."
+            },
+            "flexibilityLiquidity": {
+              "score": 40,
+              "summary": "Acquires critical mid-round draft capital."
+            }
+          },
+          "explanation": "Factoring in Big Balder Brand's 1-5 record transforms this transaction from an unlikely contender-to-contender clash into a logical seller-to-buyer pivot, heavily benefiting Corgi Loaf's championship ambitions while supplying Choopski with necessary future capital."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf Baking Co. pairs Saquon Barkley (246.7 projected PPR points) with Chuba Hubbard, David Montgomery, JSN, Malik Nabers, DeVonta Smith, and Tyler Warren, creating a formidable starting lineup for a 16-team championship run.",
+          "sideADynastyImpact": "Acquiring Barkley (82.5 D-AVI) yields a strong dynasty baseline while relinquishing Stevenson (73.6 D-AVI) and a 2027 2nd (48.5 Draft AVI).",
+          "sideARosterImpact": "Strengthens top-end RB starting quality while maintaining strong WR/TE starting depth.",
+          "sideBChampionshipImpact": "Big Balder Brand relinquishes their highest-ceiling RB asset while competing for a title, replacing his volume with Stevenson (169.0 projected PPR points) who shares backfield work with TreVeyon Henderson and Corey Kiner.",
+          "sideBDynastyImpact": "Receives Stevenson and a 2027 2nd, accumulating future trade liquidity but lowering overall roster D-AVI peak.",
+          "sideBRosterImpact": "Leaves Big Balder Brand reliant on Omarion Hampton, Bhayshul Tuten, and Jeremiyah Love at RB without an S-tier anchor.",
+          "valueAssessment": "Raw asset values show Stevenson (65.0 C-AVI) + 2027 2nd (48.5 Draft AVI) = 113.5 C-AVI vs Saquon Barkley (60.3 C-AVI). While summed C-AVI favors Side A, Barkley's season projection (246.7 PPR points) and elite ceiling far exceed Stevenson's projected output (169.0 PPR points)."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Saquon Barkley remains a premier fantasy RB asset despite recent hamstring management and the season-ending injury to Eagles QB Jalen Hurts. Rhamondre Stevenson's public market standing is capped by New England's multi-back usage alongside TreVeyon Henderson and Corey Kiner.",
+          "aviVsMarket": "Public market consensus ranks Barkley as an S-tier/high-A-tier dynasty and redraft asset. Stevenson is valued as a mid-tier RB2/3 given backfield competition. The 2027 2nd pick holds moderate liquid value in public market trade calculators.",
+          "relevantContext": [
+            "Saquon Barkley is working back from a hamstring tweak with a week-to-week outlook, while Philadelphia's offensive environment adapts to QB Tanner McKee following Jalen Hurts' season-ending injury.",
+            "Rhamondre Stevenson operates in a New England rotation featuring TreVeyon Henderson and emerging backup Corey Kiner.",
+            "Big Balder Brand is an Elite Contender aiming to Win Championship, making 2026 weekly starting ceiling paramount."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "At 1-5, Big Balder Brand is pivoting away from a win-now posture and looking to cash out older assets for picks.",
+          "packageFit": "The submitted package directly answers a seller's need by combining an active roster piece with a 2nd-round pick.",
+          "lineupReplacement": "Stevenson steps into a rotational role while Big Balder shifts focus to youth.",
+          "competitiveWindowFit": "Directly matches Choopski's new reality of pivoting out of the 2026 race.",
+          "positionalScarcity": "Provides the seller with a solid return before age curve depreciation sets in."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 12,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 82,
+          "classification": "Realistic",
+          "explanation": "Because Big Balder Brand is 1-5, Choopski's motivation shifts to selling off assets like Saquon Barkley. The submitted package of Stevenson and a 2027 2nd meets all validation checks for a pivoting manager."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "With personal context confirming that trade partner Choopski is 1-5 and looking to sell Saquon Barkley, the original trade package of Rhamondre Stevenson and a 2027 2nd-round pick becomes entirely realistic and advantageous. Corgi Loaf should submit the trade as-is to capture an elite championship piece.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 28,
+              "cavi": 65,
+              "davi": 73.6,
+              "publicMarket": 65,
+              "leagueMarket": 65
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected Mid · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 60.3,
+              "davi": 82.5,
+              "publicMarket": 60.3,
+              "leagueMarket": 60.3
+            }
+          ],
+          "whyUserShouldDoIt": "You secure an elite RB1 scoring anchor for your championship run at a suppressed market price due to your partner's 1-5 record.",
+          "whyOpponentMightAccept": "At 1-5, Choopski needs to pivot toward draft capital and younger pieces, making a 2nd-round pick and Stevenson an attractive exit package for Barkley."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Applied personal context that trade partner Choopski is 1-5 and likely selling Saquon Barkley. This shifts Big Balder Brand's window from contender to seller, making the original package of Stevenson and a 2027 2nd highly realistic and acceptable."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Saquon Barkley news 2026",
+          "Rhamondre Stevenson news 2026",
+          "Rhamondre Stevenson fantasy 2026",
+          "Saquon Barkley fantasy 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3XuEMPsYxgxwtvGtu2xXidRgVMz5B_ab-ttZHectjwePDcyLFJqCLEWekoOKUZKtv955RFBrF1DHu5V-Gg_37dekrMuqSzSHm-Z9cqiLoeBuV2WafshIwucffrtFi-7u6Ah1EoV8igiABU-6b6qHhiUiKWAP0coHrJZJ9F3A6nqJuPM7_Zq8s11E_kDPObsISPuow1Qzs",
+            "title": "nfltraderumors.co"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcugjvgqLNm1fBfIoVWJXGu3dzIY24OsMd9JdCKHkCTB5HDB-HKneC9rkVoZeOdYYQkgLmV53UiJACVr5S9DnzVDZgb4ar5lZ6dsxsOn6Yxfg24OIxMX5hVh9uogvWYk7X4zlV2i6u_QUMv3JZ3Du9qgO89rcXS0liLstzJyQd6MXY7_XnmiyKYsRzK5JaxfvkA_GmAU04t3U=",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3prQaUy9ty_yEXLhc9XtP03cZcoFpHTgEcg7Fr-TdIl03IojS2beTm3m3K2sOWWkKhY9I6kpYXK1LFsZ6U86TpZPKCXqGnwKvr6DtGX7m_CdHdHPGS3ArrHkQgShcOzUx-8gIjApUcU9ToZpZp7uAkIzJ_-xeRG-c4_numc6icQSS2K9V_rzi20I3ro8BilW-C7N3x9R3aiEo45oRU_fKCAB7nChLXxBnUV73nkjbAmTsrUEsJdA=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHddf_m3d2onm5MTtSqwei8Eaee_pkcgTAKZdZ8elh5NuSpk9xBrvDGrhJ5ZdmFOhSD4kg6bTrNk-2uuvkJQpocjvBq0IJLV3GmrcNvME46Cwbvkp1-Rob6pkaWhjcPL_BjY3b-u1a9YyFw5IOls-I=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhzcZNhCxSKT8lum3IL-4XqfanfBEI_0u-1ujwAE5dS3J5aunSWr6fOuetzMMWvZ1v3hXA9QAjqkCC_EAnxjmDq2sqC6oaUY5As4ftvNJUa1L-BvSIW6zsIdmtFZnnOhCdus1Wu7yPvfQNBWSkmWiZY7MMWQEtXnx0uXUck_LwfAYd2Chyu9s3axR3E0UxwpzJGD2K-XqZdbF98KkVOYc9bu5XvZ-DB5kb90RgGDg=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0rNn2OimWK8Ol_9yzTBubXsuT2LMR2j0X7TkyFrv0XkPeRpi94C-6nHgQR5dvqErRn3mqwxaVJpAPAFcagr_ld-pcTE1n609uN2EjdYqjA5dlfAKHybZmrz5kQeLWPAEfNYVLoq-bpWU6AGHQmxXtbTFHhO0m",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnbTVw3eGQ7oddlpRX-fKN4ERA6MNoJaEz50GbvXDIBqJO4sPglfoLHX52ZlHtmxqqH4VEM0EtXH8xfBkiljRlDQ9kpai44rPEFSENfIO8Gr3cCzCcHf0Qrt86etUlPVHsaOn3PlYgsVncvI_eogvRLxe2jC8Bzz5iXbh05ZEkhkohdbMMMZmM-pEf_eWjciohOAxdDnbhhcs48NatLvpKk1iPyhgZ",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqbCPl2Fi7cWUbRLeO4Bg8NcYBJXqP1gSVzYtVLi1-sROztpMxk3ahxULFfdJZ0ysVzVqPt26OSZk4aLKX_GbXAWc63G-GHRLwvaYu2j3PNHwcEF_rAGv6PdUI18S0ADhSw5eeQhP8TnApS-A4",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQBzy6OMW9aosWnxRaiVdal5cn9DoLM3_L-uq_HPZnmUzxKUrYyXsr1LtUfPFOcGDDb62EfNyDtlcVrLhLyjzWXziSVbEV6hOCVSD-x9XJBv46bU-dZhxCAu6iy_kQM06D6P8r4zwZYiP3A-96_C1FWkmvqQPWWRN2yD2EiFW0sNPpuM_s3ww8fMxpfqQVeWXKdq1_oA-JBeOqNW4_R9Tvjji3uel_ymvTfhaHm1pGxQU7RI91N0c1xH_Amv-ObHZYgNvySWb0geazQDw=",
+            "title": "draftkings.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuiTAvOCbZDJ4hF_oc9KewaqawKxLeaoATROkN_RqMoSGq5EskMYNBEK65ha0S80pt4dqgNbb2S7XLikcy3FQZ2-F4NIBmXDQ7I5fn6aj9Rnk5W6H_JXHGIfYn076Phfycv9iMsOilfZvn7Q6OZQwY5WrbjrIAfuVGv68Ajlr4VaSXQdgXuk7OGrugZaU=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpArWcprfWRpH9ZtaZFsRzNVCtFYKs1OnwIvidwk5FRr6yQqQQqboUmMsqaoiYViXZ2XBuZocH3FI1wnoRVmP3891eD82HKOCiQZhcb9OyprK5sPSfTv5PaM_Em-PUGk5iM6Xf1m4rqi1CnyjpMjvusiJig6IKUFJm2Fo=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErYYCh5Yhf1RQvzJpvqBwPeFUAb4XA4fIsbvH8diwq6hjkY8qpZ2e3XvEn1Pe7WOvMCH0F9tqSRZcNvS1pYD1jKVWq2e-ZCmojNjjL3fNqEYhw3Dfy6E7wf5HK841ik1az9cnNESLlDgajnvvZXzibWTBGIKdzaGIoq9GKnSw5Y47WSXh25XFpMu339TeN_cR4HCdTjxUgOQu9",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsZN7_CAak_3IWStKYgMGjVxWq-Le34ohi57Goi5Fk1Un1ZT2QgfkAk7Lnu_JQHVs636pqR0q0_e8beG8Js47LABzSneOeUlesJHJP-ps0yxI_L0m0jE9lpr-ZIUPHBvpaSo0KQjRYro_y5tBZ7-n8GD5mDBoaxvYiB3ZFUmvbpoxs4FZb8AI2t5w8l6kGHnUdDQSiManqSpC",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbzzGQuBpjKq2XlRNrn77s4wIbCbO4-Uc9CApmWcey3Gc4eCKju7ecIOU66ox2tuobq2UmS6sXkMbdzLpuklsM2zkdc9G6d-j9PKhmtuBelG_23DcTGS_5z2kYTClT4kFAMyXNKqFHCBM7dQ==",
+            "title": "draftpunk.net"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO6-y7GDc2mAhTDpQ30OW__BsX63X3tGo9iCenWYahhH_yHzLtPiftZCfU8OshXMrfOElsZEXRrWnaSLhuIf9laWp8IUa8mY4uKow5FCkvfwVNdlnUkp75HMKMbcFI7Bk=",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "563627e90c75023222b7df8744ab312033f55ca6",
+        "aviCoreCommittedAt": "2026-10-21T14:14:42Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 87009,
+        "groundedMarketChars": 3265,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": true,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mvi88ib7-824c4c41",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "563627e90c75023222b7df8744ab312033f55ca6"
+      }
+    }
   },
   {
     "id": "mvi88ib7-824c4c41",
