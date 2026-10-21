@@ -1,5 +1,366 @@
 [
   {
+    "id": "mvimxloo-763a45aa",
+    "createdAt": 1792618838867,
+    "expiresAt": 1793050838867,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Ravens Regime ↔ Big Balder Brand",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Big Balder Brand",
+      "targetAssets": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 2nd · Balder · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Derrick Henry",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Evaluating a proposal where Ravens Regime sends Derrick Henry to Big Balder Brand for Saquon Barkley and a 2028 2nd-round pick. While Big Balder Brand (an Elite Contender pursuing 'Win Championship') would eagerly accept upgrading their starting backfield with Henry's 90.5 C-AVI, the transaction actively contradicts Ravens Regime's goal to 'Increase Championship Odds'. Giving up Henry's dominant weekly production for Barkley—who is currently recovering from a week-to-week hamstring strain on a downgraded Philadelphia offense without Jalen Hurts—reduces Ravens Regime's immediate starting C-AVI by 30.2 points. To make this deal advance Ravens Regime's 2026 championship odds, the package must be revised to include a immediate startable asset like Chris Godwin.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 90.5,
+              "davi": 85.2,
+              "publicMarket": 88,
+              "leagueMarket": 89
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 60.3,
+              "davi": 82.9,
+              "publicMarket": 82,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2028 2nd · Balder · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C+",
+            "otherGrade": "A+",
+            "userShare": 38,
+            "otherShare": 62,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The submitted construction is heavily slanted toward Big Balder Brand. Big Balder Brand receives an elite 90.5 C-AVI RB1 in Derrick Henry to propel their championship push, while sending away an injured Saquon Barkley (60.3 C-AVI) and a distant 2028 2nd. For Ravens Regime, losing 30.2 C-AVI in starting power directly harms 2026 title odds."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "Revising the proposal to swap the 2028 2nd pick for wide receiver Chris Godwin (48.9 C-AVI) balances the immediate lineup impact. Ravens Regime gets younger at RB while adding Godwin to upgrade FLEX2, preserving 2026 championship capability while securing long-term age relief."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": -25,
+              "summary": "Substantial immediate hit to starting C-AVI power (-30.2 C-AVI) outweighs the minor age decrease and distant 2028 2nd pick capital."
+            },
+            "championshipOutlook": {
+              "score": -35,
+              "summary": "Trading away Derrick Henry (90.5 C-AVI, 246.9 projected PPR points) damages 2026 weekly scoring potential and playoff firepower."
+            },
+            "dynastyOutlook": {
+              "score": 15,
+              "summary": "Moving from a 32-year-old RB to a 29-year-old RB plus securing a 2028 2nd pick modestly improves long-term portfolio longevity."
+            },
+            "lineupQuality": {
+              "score": -30,
+              "summary": "RB1 slot drops from an elite league-winning anchor (Henry) to a recovering Saquon Barkley on a weakened Eagles offense."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Exposes backfield depth to elevated injury risk while Saquon works back from a multi-week hamstring strain."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Acquiring an extra 2028 2nd round draft pick provides liquid trade currency for future moves."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 40,
+              "summary": "Massive win for an Elite Contender targeting 'Win Championship', gaining a premier RB1 without surrendering core current starters."
+            },
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Derrick Henry immediately slots into the starting RB lineup, adding 30.2 C-AVI to Big Balder Brand's title push."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Takes on age at RB (Henry is 32.0), slightly shortening the long-term dynasty window."
+            },
+            "lineupQuality": {
+              "score": 45,
+              "summary": "Upgrades the starting RB slot significantly over an injured/uncertain Barkley."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Establishes a dominant backfield tier with Derrick Henry, Omarion Hampton, and Bhayshul Tuten."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Parts with future draft currency (2028 2nd) to maximize immediate 2026 roster ceiling."
+            }
+          },
+          "explanation": "Visual impact highlights the conflict between the submitted offer and Ravens Regime's primary goal. Big Balder Brand gains significant championship strength (+40 overall), whereas Ravens Regime suffers an immediate starting lineup drop (-25 overall) that directly hurts 2026 title odds."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Ravens Regime surrenders Derrick Henry (90.5 C-AVI) and receives Saquon Barkley (60.3 C-AVI) + 2028 2nd (0.0 C-AVI). Net starting lineup impact is -30.2 C-AVI, which reduces weekly projected scoring and weakens 2026 championship probability.",
+          "sideADynastyImpact": "Dynasty value increases slightly due to age regression relief (Henry is 32.0, Barkley is 29.0) and the addition of a 2028 2nd pick (48.5 D-AVI).",
+          "sideARosterImpact": "Monangai remains at RB, Barkley slots in as RB2 with lingering health questions, and Pollard stays as FLEX2.",
+          "sideBChampionshipImpact": "Big Balder Brand increases starting lineup C-AVI by +30.2 points, elevating their championship lineup C-AVI sum from 611.8 to 642.0.",
+          "sideBDynastyImpact": "Big Balder Brand sacrifices minor youth and a future 2nd-round pick to solidify an immediate championship mantle.",
+          "sideBRosterImpact": "Derrick Henry becomes the undisputed RB1 alongside Omarion Hampton and Bhayshul Tuten, forming a powerhouse backfield.",
+          "valueAssessment": "Derrick Henry holds a 90.5 C-AVI / 85.2 D-AVI rating as a dominant win-now asset. Saquon Barkley carries a 60.3 C-AVI / 82.9 D-AVI due to a week-to-week hamstring strain and Jalen Hurts' season-ending injury. A 2028 2nd pick (48.5 D-AVI) does not compensate for the 30.2 C-AVI gap for a team trying to win now."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty markets rank Saquon Barkley and Derrick Henry in similar overall dynasty tiers due to Henry's age (32), but redraft and current-season market consensus heavily favors Henry's immediate workload and health over Barkley's current hamstring recovery and lost quarterback situation.",
+          "aviVsMarket": "Public market over-indexes on Barkley's brand name and age (29 vs 32), whereas AVI's C-AVI correctly accounts for Barkley's active week-to-week injury status, Philadelphia's offensive decline, and Henry's elite week-in-week-out production in Baltimore.",
+          "relevantContext": [
+            "Saquon Barkley is week-to-week with a right hamstring strain suffered in Week 4.",
+            "Philadelphia Eagles lost QB Jalen Hurts for the season due to blood clots.",
+            "Derrick Henry is fully healthy and performing as an elite RB1 with 246.9 projected PPR points."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Big Balder Brand is an Elite Contender with the stated goal 'Win Championship'. They are highly motivated to acquire Derrick Henry to replace an injured/uncertain Barkley with a fully operational 90+ C-AVI anchor.",
+          "packageFit": "Derrick Henry fits Big Balder Brand's win-now window perfectly. Sending Saquon + a pick is an easy trade-off for them.",
+          "lineupReplacement": "Big Balder Brand replaces Barkley with Henry, directly upgrading their active starting lineup.",
+          "competitiveWindowFit": "Completely aligned for Big Balder Brand (Elite Contender). Directly misaligned for Ravens Regime if the goal is to increase 2026 title odds.",
+          "positionalScarcity": "In a 16-team league, high-volume RB1s capable of scoring 20+ PPR points weekly are exceptionally scarce."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 24,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 97,
+          "classification": "Highly Realistic",
+          "explanation": "Big Balder Brand would accept this submitted offer almost immediately. Getting Derrick Henry for an injured Saquon Barkley and a future 2nd round pick significantly improves their 2026 championship odds."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Do not send the submitted trade offer as constructed. While Big Balder Brand would accept in seconds, giving up Derrick Henry (90.5 C-AVI) for Saquon Barkley (60.3 C-AVI) and a 2028 2nd reduces Ravens Regime's starting lineup power by 30.2 C-AVI, directly contradicting your goal to 'Increase Championship Odds'. Revise the proposal to demand wide receiver Chris Godwin (48.9 C-AVI) instead of the 2028 2nd pick to ensure your 2026 lineup remains strong.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 90.5,
+              "davi": 85.2,
+              "publicMarket": 88,
+              "leagueMarket": 89
+            }
+          ],
+          "receive": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 60.3,
+              "davi": 82.9,
+              "publicMarket": 82,
+              "leagueMarket": 80
+            },
+            {
+              "name": "Chris Godwin",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 48.9,
+              "davi": 70.9,
+              "publicMarket": 65,
+              "leagueMarket": 68
+            }
+          ],
+          "whyUserShouldDoIt": "Receiving Chris Godwin along with Saquon Barkley gives Ravens Regime a immediate startable WR/FLEX upgrade (48.9 C-AVI) to pair with Barkley, insulating the lineup against Barkley's injury recovery and getting 3 years younger at RB.",
+          "whyOpponentMightAccept": "Big Balder Brand is deep at WR (Nico Collins, Rashee Rice, A.J. Brown) where Godwin sits on their bench. Trading Godwin + Barkley to secure Derrick Henry as their starting RB anchor directly furthers their 'Win Championship' goal."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 90.5,
+              "davi": 85.2,
+              "publicMarket": 88,
+              "leagueMarket": 89
+            }
+          ],
+          "receive": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 60.3,
+              "davi": 82.9,
+              "publicMarket": 82,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2028 2nd · Balder · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48
+            },
+            {
+              "name": "2029 2nd · Balder · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48
+            }
+          ],
+          "rationale": "If Big Balder Brand refuses to trade Chris Godwin, adding a second 2nd-round pick (2029 2nd) gives Ravens Regime maximum future liquidity to re-route picks for an immediate starting upgrade elsewhere."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Saquon Barkley fantasy update 2026",
+          "Saquon Barkley news 2026 NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHzqTSounj6DeikEK3USHSG4sNylF5dg2NmHAIP4Uh3t82TfPeOZdHMhMfLlbAB5PE7P6oCn_BJ9LXKq6kmygyVI-QTSv8jz6RbgPORtdYOTn06PLGesz-GB4nlE7z6Ry1PV0DhkJlokY59ri6WwqZuoo5JuJEK-hrdmEM3sBnCpBOMnlRwKqnFwNPvC9Ceuc0ohoOn6MiRJwjCRP89N49xH9WfdRpESyaow==",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiCljIUGrr8nsIBEa9cg825SCzVMx-j5YeAZ7aZhORFBTO8lV3FFohJSPV9I9gSsp7fs4fb8j0JENO0-B6J66mQ9HriGEtrM8TQTFVB_kBpUD5K0Ubkfs730dgjGTQGq9Z2xI0EMeM5ZLm9Vj7DfEb_-238CrjQQcKpc1cpGVGjhmTPBmaSCqcl6CbjM7LXC-god4vq-XEyw==",
+            "title": "nfltraderumors.co"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkNYWEMomKaRDzGKA2ZfYwQw5JAeTKE5Idd85grgoDUlmXPItePP60zidAbmsvPoYDPNujUkkWpH5ICZITQTQMmHeLKPVsNlBexzb8jtdhcewtJMpGLg8KYl9QQduvV-S2Dm-tPexK4CqzBK0f_u7QKz6JeF_vEYs4Kd2sfLiPT0ydIsIvGME6LhdvGhGj_D0oNdaV3GEQ-QBgIbj82nMnbozN-SHo_A==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgPkU1adCSYHenWGWxB9GfbweUNer1bBA--5YhYHdg-_xXlcCZI4EFHFte3vSajmdJN5Whw2GsTICG9IJ_J-Lz0Qrl8OrUe_ddYlsBWzlHW6Egj452xp_4QDCVGrsnLV2ffO52D5SeCfEwDFpNwEq5V5l7Nh5yQpw1Ap7nG9mDrYps8IkXUZrA1fNZFQgxKVsyORfjQ3HhU2dlhbHLSmRxRQ==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXlPfb_savqfT5NqijNyMIwGhPcS0852xUCUTdfWasZFyCBWMLoyFSOP6LMs1Twie7z837cjS8VBEOP7zyej105RtPvFtYw29k3BXMOvt136BHHNcs-z0Zu_UxTzbscBOo7-JZm1XkSmV0_c86lcHp",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa0Ex8ago_LHkeR-WZIxeSPOzRFftgC2O1OB9YuY9VsAU3oJvUjOUcMWlFvuFwq4qCRlKiGMn0BC-ni4ewmbHUMJn5iZd5k_Y-xsKFhKdpl2j9nMxg8uou51Ll1eb2mI45wFsl--QVTQIO81PdZfoXkDLIzzPVIZ0_MzrKpZgFrR_G8cp-wgK4gsBanEolgaCGnGgksvim-RmI7yl6j-n6SWA69WfAaKw8Z18jG95f",
+            "title": "rotoballer.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "5a707b85c2d2c073047e9ddd5316362b22892501",
+        "aviCoreCommittedAt": "2026-10-21T21:27:04Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 86116,
+        "groundedMarketChars": 3038,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mvbsqf15-f6de2141",
     "createdAt": 1792205315806,
     "expiresAt": 1792637315806,
