@@ -79,12 +79,12 @@
 
 #### Ravens Regime  (Mentomorii)
 - Players received: Jaylen Waddle
-- Players sent: Kyle Pitts, Josh Downs
+- Players sent: Kyle Pitts Sr., Josh Downs
 - Picks received: None
 - Picks sent: 2027 Round 4 (original roster 1)
 
 #### Lightskin Legends ✊🏽 (MadDawgMatt)
-- Players received: Kyle Pitts, Josh Downs
+- Players received: Kyle Pitts Sr., Josh Downs
 - Players sent: Jaylen Waddle
 - Picks received: 2027 Round 4 (original roster 1)
 - Picks sent: None
@@ -210,14 +210,14 @@
 - Picks sent: 2028 Round 3 (original roster 1), 2029 Round 1 (original roster 1), 2029 Round 2 (original roster 1), 2029 Round 3 (original roster 1), 2027 Round 3 (original roster 3), 2027 Round 2 (original roster 5)
 
 #### Lightskin Legends ✊🏽 (MadDawgMatt)
-- Players received: Ladd McConkey, Jaylen Waddle, Travis Etienne
+- Players received: Ladd McConkey, Jaylen Waddle, Travis Etienne Jr.
 - Players sent: DK Metcalf, Jonathan Taylor
 - Picks received: None
 - Picks sent: None
 
 #### Southside Savages (GGEZGoNext)
 - Players received: Emanuel Wilson, DK Metcalf
-- Players sent: Jaylen Waddle, Travis Etienne
+- Players sent: Jaylen Waddle, Travis Etienne Jr.
 - Picks received: 2028 Round 3 (original roster 1), 2029 Round 1 (original roster 1), 2029 Round 2 (original roster 1), 2029 Round 3 (original roster 1), 2027 Round 3 (original roster 3), 2027 Round 2 (original roster 5)
 - Picks sent: None
 
@@ -247,12 +247,12 @@
 
 #### Conquistadors (Thecan)
 - Players received: None
-- Players sent: Chris Brazzell
+- Players sent: Chris Brazzell II
 - Picks received: 2027 Round 4 (original roster 6)
 - Picks sent: None
 
 #### Lightskin Legends ✊🏽 (MadDawgMatt)
-- Players received: Chris Brazzell
+- Players received: Chris Brazzell II
 - Players sent: None
 - Picks received: None
 - Picks sent: 2027 Round 4 (original roster 6)
@@ -390,14 +390,14 @@
 - Teams involved: 2
 
 #### Ravens Regime  (Mentomorii)
-- Players received: KC Concepcion
+- Players received: KC Concepcion Jr.
 - Players sent: Davante Adams
 - Picks received: None
 - Picks sent: None
 
 #### Mile High Royal Lions (shawnh56)
 - Players received: Davante Adams
-- Players sent: KC Concepcion
+- Players sent: KC Concepcion Jr.
 - Picks received: None
 - Picks sent: None
 
@@ -427,12 +427,12 @@
 
 #### Corgi Loaf Baking Co.  (awang1900)
 - Players received: David Montgomery, Tank Dell
-- Players sent: Aaron Jones, Christian Watson
+- Players sent: Aaron Jones Sr., Christian Watson
 - Picks received: None
 - Picks sent: 2029 Round 1 (original roster 11)
 
 #### Gringo’s Goblins  (Burnfaze)
-- Players received: Aaron Jones, Christian Watson
+- Players received: Aaron Jones Sr., Christian Watson
 - Players sent: David Montgomery, Tank Dell
 - Picks received: 2029 Round 1 (original roster 11)
 - Picks sent: None
@@ -463,12 +463,12 @@
 
 #### All Hail King Jesus (Hofer51)
 - Players received: D'Andre Swift, Justin Jefferson
-- Players sent: Aaron Jones, Jaxon Smith-Njigba
+- Players sent: Aaron Jones Sr., Jaxon Smith-Njigba
 - Picks received: None
 - Picks sent: 2027 Round 4 (original roster 8), 2027 Round 5 (original roster 8), 2028 Round 1 (original roster 8), 2029 Round 1 (original roster 8)
 
 #### Corgi Loaf Baking Co.  (awang1900)
-- Players received: Aaron Jones, Jaxon Smith-Njigba
+- Players received: Aaron Jones Sr., Jaxon Smith-Njigba
 - Players sent: D'Andre Swift, Justin Jefferson
 - Picks received: 2027 Round 4 (original roster 8), 2027 Round 5 (original roster 8), 2028 Round 1 (original roster 8), 2029 Round 1 (original roster 8)
 - Picks sent: None
@@ -570,14 +570,14 @@
 - Teams involved: 2
 
 #### Ravens Regime  (Mentomorii)
-- Players received: Isaac TeSlaa, Kyle Pitts
+- Players received: Isaac TeSlaa, Kyle Pitts Sr.
 - Players sent: Tyler Warren
 - Picks received: None
 - Picks sent: 2028 Round 1 (original roster 3)
 
 #### Corgi Loaf Baking Co.  (awang1900)
 - Players received: Tyler Warren
-- Players sent: Isaac TeSlaa, Kyle Pitts
+- Players sent: Isaac TeSlaa, Kyle Pitts Sr.
 - Picks received: 2028 Round 1 (original roster 3)
 - Picks sent: None
 
@@ -786,14 +786,14 @@
 - Teams involved: 2
 
 #### Big Balder Brand (Choopski)
-- Players received: Omarion Hampton, Chris Godwin, A.J. Brown
+- Players received: Omarion Hampton, Chris Godwin Jr., A.J. Brown
 - Players sent: Tre' Harris, Emeka Egbuka, Kyren Williams
 - Picks received: 2027 Round 2 (original roster 15)
 - Picks sent: 2027 Round 1 (original roster 9)
 
 #### Gringo’s Goblins  (Burnfaze)
 - Players received: Tre' Harris, Emeka Egbuka, Kyren Williams
-- Players sent: Omarion Hampton, Chris Godwin, A.J. Brown
+- Players sent: Omarion Hampton, Chris Godwin Jr., A.J. Brown
 - Picks received: 2027 Round 1 (original roster 9)
 - Picks sent: 2027 Round 2 (original roster 15)
 
@@ -804,7 +804,7 @@
 - Teams involved: 3
 
 #### Conquistadors (Thecan)
-- Players received: Matthew Golden, Harold Fannin
+- Players received: Matthew Golden, Harold Fannin Jr.
 - Players sent: Malik Washington, Alec Pierce
 - Picks received: None
 - Picks sent: 2028 Round 2 (original roster 1), 2027 Round 1 (original roster 10)
@@ -817,7 +817,7 @@
 
 #### Crimson Tide Pods (nickas)
 - Players received: Alec Pierce
-- Players sent: Harold Fannin, Mike Evans
+- Players sent: Harold Fannin Jr., Mike Evans
 - Picks received: 2027 Round 1 (original roster 10), 2027 Round 2 (original roster 5)
 - Picks sent: None
 
@@ -864,14 +864,14 @@
 - Teams involved: 2
 
 #### Badland Banditos  (IcebergSlim69)
-- Players received: Kenneth Walker
-- Players sent: Chris Rodriguez
+- Players received: Kenneth Walker III
+- Players sent: Chris Rodriguez Jr.
 - Picks received: 2027 Round 3 (original roster 16)
 - Picks sent: None
 
 #### Crimson Tide Pods (nickas)
-- Players received: Chris Rodriguez
-- Players sent: Kenneth Walker
+- Players received: Chris Rodriguez Jr.
+- Players sent: Kenneth Walker III
 - Picks received: None
 - Picks sent: 2027 Round 3 (original roster 16)
 
@@ -883,12 +883,12 @@
 
 #### Rapid Valley Annihilation (FuzzyRaptor)
 - Players received: Quentin Johnston
-- Players sent: Kyle Pitts
+- Players sent: Kyle Pitts Sr.
 - Picks received: 2027 Round 2 (original roster 11)
 - Picks sent: None
 
 #### Corgi Loaf Baking Co.  (awang1900)
-- Players received: Kyle Pitts
+- Players received: Kyle Pitts Sr.
 - Players sent: Quentin Johnston
 - Picks received: None
 - Picks sent: 2027 Round 2 (original roster 11)
@@ -918,14 +918,14 @@
 - Teams involved: 2
 
 #### Northside Kings  (srsmith95)
-- Players received: Brian Robinson
-- Players sent: Tyrone Tracy
+- Players received: Brian Robinson Jr.
+- Players sent: Tyrone Tracy Jr.
 - Picks received: 2027 Round 4 (original roster 11)
 - Picks sent: None
 
 #### Corgi Loaf Baking Co.  (awang1900)
-- Players received: Tyrone Tracy
-- Players sent: Brian Robinson
+- Players received: Tyrone Tracy Jr.
+- Players sent: Brian Robinson Jr.
 - Picks received: None
 - Picks sent: 2027 Round 4 (original roster 11)
 
@@ -1008,14 +1008,14 @@
 - Teams involved: 2
 
 #### Captain Jahmyrica (shawnh56)
-- Players received: Marvin Harrison
+- Players received: Marvin Harrison Jr.
 - Players sent: Rachaad White
 - Picks received: None
 - Picks sent: 2027 Round 1 (original roster 9)
 
 #### TacticsNoob (TacticsNoob)
 - Players received: Rachaad White
-- Players sent: Marvin Harrison
+- Players sent: Marvin Harrison Jr.
 - Picks received: 2027 Round 1 (original roster 9)
 - Picks sent: None
 
@@ -1080,14 +1080,14 @@
 - Teams involved: 2
 
 #### Steven  (srsmith95)
-- Players received: Tyrone Tracy
+- Players received: Tyrone Tracy Jr.
 - Players sent: Kaleb Johnson
 - Picks received: None
 - Picks sent: None
 
 #### What tf is a draft pick  (awang1900)
 - Players received: Kaleb Johnson
-- Players sent: Tyrone Tracy
+- Players sent: Tyrone Tracy Jr.
 - Picks received: None
 - Picks sent: None
 
@@ -1207,12 +1207,12 @@
 
 #### Dijon Bijan (Thecan)
 - Players received: Xavier Worthy
-- Players sent: Calvin Austin
+- Players sent: Calvin Austin III
 - Picks received: None
 - Picks sent: 2027 Round 2 (original roster 1)
 
 #### Hit & Ruggs 🏎️ (MadDawgMatt)
-- Players received: Calvin Austin
+- Players received: Calvin Austin III
 - Players sent: Xavier Worthy
 - Picks received: 2027 Round 2 (original roster 1)
 - Picks sent: None
@@ -1332,14 +1332,14 @@
 - Teams involved: 2
 
 #### FuzzyRaptor (FuzzyRaptor)
-- Players received: Caleb Williams, DJ Moore, Najee Harris, Kyle Pitts, Garrett Wilson
+- Players received: Caleb Williams, DJ Moore, Najee Harris, Kyle Pitts Sr., Garrett Wilson
 - Players sent: Rashee Rice, David Njoku, Christian McCaffrey, Lamar Jackson, Jakobi Meyers
 - Picks received: None
 - Picks sent: None
 
 #### What tf is a draft pick  (awang1900)
 - Players received: Rashee Rice, David Njoku, Christian McCaffrey, Lamar Jackson, Jakobi Meyers
-- Players sent: Caleb Williams, DJ Moore, Najee Harris, Kyle Pitts, Garrett Wilson
+- Players sent: Caleb Williams, DJ Moore, Najee Harris, Kyle Pitts Sr., Garrett Wilson
 - Picks received: None
 - Picks sent: None
 
@@ -1441,12 +1441,12 @@
 
 #### King Shitter ‘24 (Choopski)
 - Players received: Drake London, Jahmyr Gibbs
-- Players sent: Marvin Harrison, Breece Hall
+- Players sent: Marvin Harrison Jr., Breece Hall
 - Picks received: None
 - Picks sent: None
 
 #### TacticsNoob (TacticsNoob)
-- Players received: Marvin Harrison, Breece Hall
+- Players received: Marvin Harrison Jr., Breece Hall
 - Players sent: Drake London, Jahmyr Gibbs
 - Picks received: None
 - Picks sent: None
@@ -1476,14 +1476,14 @@
 - Teams involved: 2
 
 #### Dakota Danglers (IcebergSlim69)
-- Players received: Brian Thomas, Josh Jacobs
+- Players received: Brian Thomas Jr., Josh Jacobs
 - Players sent: Malik Nabers
 - Picks received: None
 - Picks sent: None
 
 #### King Shitter ‘24 (Choopski)
 - Players received: Malik Nabers
-- Players sent: Brian Thomas, Josh Jacobs
+- Players sent: Brian Thomas Jr., Josh Jacobs
 - Picks received: None
 - Picks sent: None
 
@@ -1548,14 +1548,14 @@
 - Teams involved: 2
 
 #### Amon the Run (Thecan)
-- Players received: Chris Godwin
+- Players received: Chris Godwin Jr.
 - Players sent: None
 - Picks received: None
 - Picks sent: None
 
 #### Murray had a little Lamb (AlexPete6800)
 - Players received: None
-- Players sent: Chris Godwin
+- Players sent: Chris Godwin Jr.
 - Picks received: None
 - Picks sent: None
 
@@ -1639,12 +1639,12 @@
 
 #### Dakota Danglers (IcebergSlim69)
 - Players received: A.J. Brown
-- Players sent: Drake London, Brian Robinson
+- Players sent: Drake London, Brian Robinson Jr.
 - Picks received: None
 - Picks sent: None
 
 #### TacticsNoob (TacticsNoob)
-- Players received: Drake London, Brian Robinson
+- Players received: Drake London, Brian Robinson Jr.
 - Players sent: A.J. Brown
 - Picks received: None
 - Picks sent: None
@@ -1674,14 +1674,14 @@
 - Teams involved: 2
 
 #### King Shitter ‘24 (Choopski)
-- Players received: Marvin Harrison
+- Players received: Marvin Harrison Jr.
 - Players sent: Alvin Kamara
 - Picks received: None
 - Picks sent: None
 
 #### TacticsNoob (TacticsNoob)
 - Players received: Alvin Kamara
-- Players sent: Marvin Harrison
+- Players sent: Marvin Harrison Jr.
 - Picks received: None
 - Picks sent: None
 

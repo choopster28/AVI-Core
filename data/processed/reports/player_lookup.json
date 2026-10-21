@@ -1491,18 +1491,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00008122",
-      "c_avi": 22.2,
-      "d_avi": 27.5,
-      "nfl_team": "ARI",
-      "player_name": "Zonovan Knight",
-      "position": "RB",
-      "sleeper_id": "8122",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00007496",
       "c_avi": 22.1,
       "d_avi": 24.9,
@@ -2074,6 +2062,18 @@
       "player_name": "Antonio Williams",
       "position": "RB",
       "sleeper_id": "7203",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00004663",
+      "c_avi": 0.0,
+      "d_avi": 0.7,
+      "nfl_team": "WAS",
+      "player_name": "Austin Ekeler",
+      "position": "RB",
+      "sleeper_id": "4663",
       "status": "Active"
     },
     {
@@ -2881,22 +2881,6 @@
       "status": "Active",
       "team_file": "14_Phalhala_or_Bust.md",
       "team_name": "Phalhala or Bust"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00004663",
-      "c_avi": 0.0,
-      "d_avi": 0.7,
-      "nfl_team": "WAS",
-      "owner_id": "863881053000011776",
-      "player_name": "Austin Ekeler",
-      "position": "RB",
-      "roster_id": 9,
-      "sleeper_id": "4663",
-      "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
@@ -6769,6 +6753,22 @@
       "status": "Active",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00008122",
+      "c_avi": 22.2,
+      "d_avi": 27.5,
+      "nfl_team": "ARI",
+      "owner_id": "863881053000011776",
+      "player_name": "Zonovan Knight",
+      "position": "RB",
+      "roster_id": 9,
+      "sleeper_id": "8122",
+      "status": "Active",
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
     }
   ]
 }
