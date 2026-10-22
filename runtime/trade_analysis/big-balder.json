@@ -1,1 +1,359 @@
-[]
+[
+  {
+    "id": "mvk16p11-16a7c2a6",
+    "createdAt": 1792703238380,
+    "expiresAt": 1793135238380,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Big Balder Brand ↔ All Hail King Jesus",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "targetTeam": "All Hail King Jesus",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          },
+          {
+            "name": "Rashee Rice",
+            "assetType": "player"
+          },
+          {
+            "name": "2028 2nd · Balder · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Amon-Ra St. Brown",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand's proposal to send Saquon Barkley, Rashee Rice, and a 2028 2nd-round pick to All Hail King Jesus in exchange for Amon-Ra St. Brown represents an exceptionally sharp Retool strategy. By liquidating a 29-year-old bellcow running back coming off a soft-tissue injury (Barkley) and a high-upside receiver managing a hamstring absence (Rice), Big Balder Brand secures a bulletproof 26-year-old tier-1 wide receiver cornerstone in St. Brown (97.3 C-AVI / 98.7 D-AVI). In a 16-team format, pairing St. Brown with Nico Collins (93.0 C-AVI) and Trey McBride (92.0 C-AVI) builds a elite dynasty ceiling. Crucially, the deal is equally compelling for All Hail King Jesus, who is making a championship push but starting Kimani Vidal (35.4 C-AVI) at RB2. Acquiring Barkley solves their single biggest starting vulnerability while adding Rice as flexible depth. Market Reality confirms St. Brown is publicly available on the trade block, making trade execution highly realistic.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 60.5,
+              "davi": 84.6,
+              "publicMarket": 78,
+              "leagueMarket": 75
+            },
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 66,
+              "davi": 87.4,
+              "publicMarket": 82,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2028 2nd · Balder · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Amon-Ra St. Brown",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 26,
+              "cavi": 97.3,
+              "davi": 98.7,
+              "publicMarket": 96,
+              "leagueMarket": 97
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand wins the long-term dynasty ledger by acquiring an indestructible 26-year-old cornerstone receiver in Amon-Ra St. Brown. While surrendering Saquon Barkley and Rashee Rice reduces short-term FLEX depth, BBB's young backfield core (Omarion Hampton, Bhayshul Tuten, Jeremiyah Love) easily absorbs Barkley's exit. All Hail King Jesus achieves vital current-season balance by fixing an alarming hole at RB2 with Barkley while retaining Justin Jefferson and Tee Higgins at WR."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 65,
+              "summary": "Pairs St. Brown with Nico Collins to form one of the premier long-term receiving tandems in the league."
+            },
+            "dynastyOutlook": {
+              "score": 85,
+              "summary": "Dramatically improves insulation and longevity by converting a 29-year-old RB into a durable tier-1 WR."
+            },
+            "lineupQuality": {
+              "score": 60,
+              "summary": "Elevates WR1 firepower to a 97.3 C-AVI peak while relying on young backfield depth to cover RB slots."
+            },
+            "depthResilience": {
+              "score": 40,
+              "summary": "Consolidates multiple assets into one elite piece, slightly thinning immediate FLEX depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 50,
+              "summary": "Parting with a 2028 2nd is easily offset by acquiring one of the most liquid cornerstone assets in dynasty."
+            },
+            "overall": {
+              "score": 8,
+              "summary": "Secures an elite 26-year-old cornerstone WR in Amon-Ra St. Brown, executing a ideal Retool strategy."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -8,
+              "summary": "Dramatically raises weekly floor and ceiling by pairing Saquon Barkley with D'Andre Swift in the backfield."
+            },
+            "dynastyOutlook": {
+              "score": 45,
+              "summary": "Trades away a young WR1 cornerstone, taking on minor age and health risk at RB and WR."
+            },
+            "lineupQuality": {
+              "score": -8,
+              "summary": "Eliminates a 35.4 C-AVI hole at RB2 while featuring Justin Jefferson and Tee Higgins as primary WRs."
+            },
+            "depthResilience": {
+              "score": 70,
+              "summary": "Bolsters active lineup depth across RB and WR, providing multiple startable weekly options."
+            },
+            "flexibilityLiquidity": {
+              "score": 60,
+              "summary": "Gains a 2028 2nd-round pick, giving the front office extra capital to move during mid-season pushes."
+            },
+            "overall": {
+              "score": -8,
+              "summary": "Solves a critical starting RB2 deficiency for a playoff run while retaining top-tier WR depth."
+            }
+          },
+          "explanation": "This deal creates a classic win-win outcome. Big Balder Brand accomplishes its Retool objective by converting aging/injured production into a prime 26-year-old WR cornerstone. Meanwhile, All Hail King Jesus directly fixes its weakest starting slot (RB2) for a title push without sacrificing its status as a WR powerhouse."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand replaces Rashee Rice (currently out with a hamstring injury) and Saquon Barkley with Amon-Ra St. Brown (97.3 C-AVI). St. Brown gives BBB an elite, weekly double-digit PPR target baseline alongside Nico Collins.",
+          "sideADynastyImpact": "D-AVI increases significantly from 84.6 (Barkley) and 87.4 (Rice) to 98.7 (St. Brown). Moving a 29-year-old RB for a 26-year-old elite WR is textbook dynasty asset preservation.",
+          "sideARosterImpact": "BBB streamlines its lineup around young stars (Jayden Daniels, Omarion Hampton, Bhayshul Tuten, Nico Collins, Trey McBride, Amon-Ra St. Brown), opening up bench flexibility.",
+          "sideBChampionshipImpact": "All Hail King Jesus immediately upgrades its second running back slot from Kimani Vidal (35.4 C-AVI) to Saquon Barkley (60.5 C-AVI, expected back this week), providing a massive weekly point uplift for a contender.",
+          "sideBDynastyImpact": "AHKJ surrenders the top long-term asset in the deal (St. Brown, 98.7 D-AVI), but acquires two high-end dynasty contributors in Rice (87.4 D-AVI) and Barkley (84.6 D-AVI) plus a 2028 2nd pick.",
+          "sideBRosterImpact": "AHKJ shifts from a WR-overloaded, RB-depleted build into a balanced, championship-ready starting lineup across all 8 offensive slots.",
+          "valueAssessment": "Asset value slightly favors Big Balder Brand on pure dynasty longevity, but market alignment and team-need symmetry make the package balanced and highly beneficial to both sides."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty markets heavily favor holding tier-1 wide receiver cornerstones like Amon-Ra St. Brown due to career longevity and minimal injury risk relative to running backs.",
+          "aviVsMarket": "AVI values St. Brown at 98.7 D-AVI, fully aligned with consensus KeepTradeCut and FantasyPros top-3 receiver valuations. Saquon Barkley's market value reflects win-now RB1 appeal, while Rashee Rice retains strong dynasty market value despite his current hamstring strain.",
+          "relevantContext": [
+            "Amon-Ra St. Brown is fully healthy coming off Detroit's Week 6 bye.",
+            "Saquon Barkley is reported by NFL Network as returning to practice and in line to play in Week 7 after missing two games with a hamstring issue.",
+            "Rashee Rice is currently sidelined with a hamstring injury and DNP in practice, making his short-term status pessimistic."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "All Hail King Jesus is actively contending for a championship but suffers from a major weakness at RB2 (starting Kimani Vidal). Placing Amon-Ra St. Brown on the trade block signals a willingness to rebalance WR surplus into elite RB volume.",
+          "packageFit": "Saquon Barkley gives AHKJ an immediate bellcow back, Rashee Rice provides high-upside WR replacement once healthy, and the 2028 2nd adds long-term draft currency.",
+          "lineupReplacement": "AHKJ retains Justin Jefferson and Tee Higgins as WR starters, while Barkley upgrades RB2 dramatically over Vidal.",
+          "competitiveWindowFit": "Directly advances AHKJ's goal to Increase Championship Odds by fortifying their weakest starting slot without dismantling their starting core.",
+          "positionalScarcity": "Bellcow running backs are extraordinarily scarce in a 16-team league. Supplying Saquon Barkley gives AHKJ a championship-caliber backfield duo alongside D'Andre Swift."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 22,
+            "packageMatch": 17,
+            "lineupReplacement": 12,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 90,
+          "classification": "Highly Realistic",
+          "explanation": "Amon-Ra St. Brown is explicitly listed on the Autobots public trade block. All Hail King Jesus is a Playoff Push contender starting Kimani Vidal at RB2; acquiring Saquon Barkley directly resolves their biggest lineup deficiency while Rashee Rice provides WR/FLEX insulation."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "This offer perfectly aligns with Big Balder Brand's Retool objective. Acquiring Amon-Ra St. Brown gives BBB an irreplaceable 26-year-old WR cornerstone (98.7 D-AVI) while liquidating a 29-year-old running back (Saquon Barkley) and an injured receiver (Rashee Rice). BBB's backfield depth (Hampton, Tuten, Love) absorbs Barkley's departure with ease, creating a elite core alongside Nico Collins and Trey McBride.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 60.5,
+              "davi": 84.6,
+              "publicMarket": 78,
+              "leagueMarket": 75
+            },
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 66,
+              "davi": 87.4,
+              "publicMarket": 82,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2028 2nd · Balder · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Amon-Ra St. Brown",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 26,
+              "cavi": 97.3,
+              "davi": 98.7,
+              "publicMarket": 96,
+              "leagueMarket": 97
+            }
+          ],
+          "whyUserShouldDoIt": "You secure a premier 26-year-old WR1 cornerstone for your retool while selling high on a 29-year-old RB coming off a soft-tissue injury.",
+          "whyOpponentMightAccept": "All Hail King Jesus fixes their major RB2 hole with Saquon Barkley for a title run while receiving Rashee Rice and draft capital."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Rashee Rice news 2026",
+          "Saquon Barkley news 2026",
+          "Amon Ra St Brown news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEPuAote6uftLa7yI9kr6V_Vi9AISnc3pxzHlIox1sKfUBmRy41hnVANH0PeVmBku9Bv3ilFNqxW6gItNNUOpxtWhZ_TMiWFsymvpUshItWh38Jt55G3q8OFYoyVZ-6-4w",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGtsx7SxfM_DK3bdDK9FEXQGYCMZsfNMGm0E2BBx8E2AsSpeP3T2Ep9ZQJBmIuI_IHBpbMiZlJmv00iCSThnhuMI1niRfFFrniWJA4A8FKMI1XcduSJrV-XjHrU7NHwXspqaAYc-8O1RGu0JuQFQ==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_3Oi40louwWp9QzCNx3Eg-Jijn8o4a0rFOGAJfJoDIbBJZ3_A_IYOoK0ftmX_1_uEfejH9WnSLzgrGZAOd4tqG0Sz26nd871KsZvCkHtWXOysLSpk2-YgtZUFca90oeoCLDIG9nErtxb8GQZZL1q_990eTtwVcKw05dxzCoZUhxHHKsDZhjXc2YG7Q4fbPzVNZXu9QblTDBc=",
+            "title": "detroitlions.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc9LuK_x8QB9Xkzs9TxzwhVAHiWrkDBRND6K_hFN5ILqMGULdLZFaYqZpg61fln4Vq7CbYiZQ68mrFWAcuFLeBmrDu1NkJyDKKZ4Rt6u79oAAfmRKWxTMlsJ6AJ5ayJ6cR189jZdQDlAtNlk2IspU7gR8UL8GSO5sbGCByvNDqB3oc4p58p6caEO0OUB-TunE6nwbxi7o=",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ-gx4z4lvAJjNgGsNj9B_hDGXC4wNpXv8UFwv5ic8Xju4cVipvODsFPkZHDdQfOekpOuvKymCr9Xm215WvrhCbbtMFbr3zNyk52lDwL47_AWeyAzCPAPMX9AunaJz41STSGPe1ee5fZEcQlLmMWhkSKpbLDsGVYOEZ7T_1YDtFZsMLALbWAUfs4We4FKSkc2zwmebn9YbWbhcv4dxc0K5g5GhZEBhyD8NTw==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-d4_X2qbwX1Jb7SmdqPqXinVVbSltGozxBQI-e8MtoEyhFxIqoG4JdEYXkeYsqJs6OfbBOvoB8Gj8va06Qjyy35-7l9eQ_G1cXBEm0Tl16n9eg2BDV6bGj7aRAQPoIBYQmFIjNPI=",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHmZs_Yqn0NsgfVMs01aoqTM77Cn1nR0PiBPzFlhaAmk7C04InEE7QH3usJJwtuIQTB11sipPLShOg4i7qxXRjSozpeuHvTUTusi2Ye9PaA0ixgGWXVFZ38f333RIbFw0EBqigATbK_EKqfhQOCwOYE_fUmb5uQRibHN8aGhtg",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIShZ3bNowhGj2Z2aI9sBEiVpTk4ttA3abtlnDYemjOZ_P0H5Z_6okJAZnv5j31CfKgDE46-MPVfvEnDc1ofS-gcc2xe73PfGGN7UJa1Aat5Av1H-K7sUgvn-6DORV05mPhIsZYFwBG4r_uHvZ37go92luBb8OOjv11v7YWLlniKSRyGeLcpJ8vadFhzg=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdgIc0Oak6U8idtyECRg4MoikWZoGLXXk9Nl2OOfdq6LCYP0WczSP9JkVmkAK60aiXawIlOFvrRj1P4HleT_Xs3-VtuOpMGWnjijxmHdPzfKYe4SRDbhKDNwW-uyODuLbWPuEMNRptjIMJD6ZKvnm3qnTnVTQ-SmevhtxoC76h0yw4Bd-n9I5bbfvYNDMH",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPPh9sYx2n7sY_swNcWIpyLgHOM8mF0qmJ2dMrAlFIpqj3ynOUImwLNOKahhlOLAH_gRM3fZBVA_khn3Qj-88ACIHbfL4d_B5aVhTnVneFwQdCSifD8gOqempED1Ulgup8S0HeFYsNREXCjP5lopfjVGyvToNP8g2XyNxzxW-TKli3XUMXEBNVPYw=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiuOzvl2i1efKYBE1lmywv0vW8RZ_Og3El2Xr0EgsUiYRDB3vyH-PYO891hyo2hgz1taLd9svGTj66KO2gnGVCEAUNW5L4tp4xCiVi2EzTApLNX10406SoQqY3BdVT14ySbvNRw_4IT0BiTiBpCJSjxEhWVqv3w3s0pOVTNzlOgQ-0JJXonkgT7SDPLSc3fHMCIfvB",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhXWv2El18Mki3WlAUg_6ORTavYHfA3GF4lwKy5ObGJOk1Ft2qbbblRq_a3aCmSYWt_NDXmqUBTPc2FGdj9UHyHmjoJa9LMTP7zFMlHUMSXDkjijJqv286tstewKAZOJ_9iGOrrkcwx-X5hoBNUd4EqGZPkX301Xa9P3vGUthZL9cd-1jKacN8JM0sWCo-94mTdE3efWgQ",
+            "title": "insidetheiggles.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "1548cb0717850e4a8ec7dd128b073d5bc6ce7bc6",
+        "aviCoreCommittedAt": "2026-10-22T18:58:34Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 81043,
+        "groundedMarketChars": 5268,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  }
+]
