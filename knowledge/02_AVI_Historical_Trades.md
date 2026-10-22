@@ -17,15 +17,15 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **94**
-- Owner trade participations: **190**
-- Two-team trades: **92**
+- Unique completed trades: **95**
+- Owner trade participations: **192**
+- Two-team trades: **93**
 - Three-team trades: **2**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **51**
+- 2026 completed trades: **52**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-10-20T04:03:39.831000+00:00**
+- Latest verified trade: **2026-10-21T13:55:16.608000+00:00**
 
 ## Trades by Owner
 
@@ -35,9 +35,9 @@
 | 2 | Ravens Regime  | Mentomorii | **23** | 3 | 3 | 17 | 23 | 28 | 6 | 11 | 2 | 4 |
 | 3 | Big Balder Brand | Choopski | **21** | 7 | 2 | 12 | 31 | 33 | 3 | 8 | 1 | 4 |
 | 4 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
-| 5 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
-| 6 | Northside Kings  | srsmith95 | **17** | 6 | 5 | 6 | 18 | 13 | 8 | 4 | 3 | 3 |
-| 7 | Badland Banditos  | IcebergSlim69 | **10** | 4 | 4 | 2 | 10 | 11 | 3 | 4 | 1 | 1 |
+| 5 | Northside Kings  | srsmith95 | **18** | 6 | 5 | 7 | 19 | 15 | 12 | 5 | 5 | 3 |
+| 6 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
+| 7 | Badland Banditos  | IcebergSlim69 | **11** | 4 | 4 | 3 | 12 | 12 | 4 | 8 | 1 | 3 |
 | 8 | Mile High Royal Lions | shawnh56 | **10** | 0 | 8 | 2 | 10 | 13 | 5 | 4 | 1 | 2 |
 | 9 | Crimson Tide Pods | nickas | **9** | 0 | 1 | 8 | 14 | 12 | 11 | 2 | 5 | 0 |
 | 10 | Lightskin Legends ✊🏽 | MadDawgMatt | **8** | 2 | 3 | 3 | 11 | 6 | 2 | 3 | 0 | 0 |
@@ -70,6 +70,24 @@
 | Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽 | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1418632761677299712
+- Season: 2026
+- Week: 7
+- Created at UTC: 2026-10-21T13:55:16.608000+00:00
+- Teams involved: 2
+
+#### Northside Kings  (srsmith95)
+- Players received: Brandin Cooks
+- Players sent: Mike Evans, Stefon Diggs
+- Picks received: 2028 Round 2 (original roster 7), 2028 Round 3 (original roster 7), 2029 Round 1 (original roster 7), 2027 Round 1 (original roster 8)
+- Picks sent: 2027 Round 3 (original roster 1)
+
+#### Badland Banditos  (IcebergSlim69)
+- Players received: Mike Evans, Stefon Diggs
+- Players sent: Brandin Cooks
+- Picks received: 2027 Round 3 (original roster 1)
+- Picks sent: 2028 Round 2 (original roster 7), 2028 Round 3 (original roster 7), 2029 Round 1 (original roster 7), 2027 Round 1 (original roster 8)
 
 ### TRADE: 1418121489537916928
 - Season: 2026

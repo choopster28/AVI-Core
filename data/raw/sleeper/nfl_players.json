@@ -173724,7 +173724,7 @@
     "birth_state": null,
     "college": "Washington",
     "competitions": [],
-    "depth_chart_order": null,
+    "depth_chart_order": 6,
     "depth_chart_position": "RB",
     "espn_id": null,
     "fantasy_data_id": 25886,
@@ -512888,7 +512888,7 @@
       "injury_override_regular_2024_3": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1792612554316,
+    "news_updated": 1792668056964,
     "number": 1,
     "oddsjam_id": "828EC99117A1",
     "opta_id": null,

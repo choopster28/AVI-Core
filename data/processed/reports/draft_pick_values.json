@@ -5,7 +5,7 @@
     2028,
     2029
   ],
-  "generated_at_utc": "2026-10-22T08:07:29.983381+00:00",
+  "generated_at_utc": "2026-10-22T13:04:14.166083+00:00",
   "league_id": "1312185568032997376",
   "max_rounds": 20,
   "ownership_source": "Sleeper traded_picks + native original ownership",
@@ -111,8 +111,8 @@
     },
     {
       "avi_category": "Premium Starter",
-      "current_owner_roster_id": 7,
-      "current_owner_team": "Badland Banditos",
+      "current_owner_roster_id": 5,
+      "current_owner_team": "Northside Kings",
       "draft_pick_avi": 79.3,
       "original_roster_id": 8,
       "original_team": "All Hail King Jesus",
@@ -461,8 +461,8 @@
     },
     {
       "avi_category": "Replacement / Watch List",
-      "current_owner_roster_id": 5,
-      "current_owner_team": "Northside Kings",
+      "current_owner_roster_id": 7,
+      "current_owner_team": "Badland Banditos",
       "draft_pick_avi": 16.5,
       "original_roster_id": 1,
       "original_team": "Conquistadors",
@@ -4801,8 +4801,8 @@
     },
     {
       "avi_category": "Rosterable Depth / Upside Stash",
-      "current_owner_roster_id": 7,
-      "current_owner_team": "Badland Banditos",
+      "current_owner_roster_id": 5,
+      "current_owner_team": "Northside Kings",
       "draft_pick_avi": 48.5,
       "original_roster_id": 7,
       "original_team": "Badland Banditos",
@@ -5025,8 +5025,8 @@
     },
     {
       "avi_category": "Replacement / Watch List",
-      "current_owner_roster_id": 7,
-      "current_owner_team": "Badland Banditos",
+      "current_owner_roster_id": 5,
+      "current_owner_team": "Northside Kings",
       "draft_pick_avi": 16.5,
       "original_roster_id": 7,
       "original_team": "Badland Banditos",
@@ -9057,8 +9057,8 @@
     },
     {
       "avi_category": "Premium Starter",
-      "current_owner_roster_id": 7,
-      "current_owner_team": "Badland Banditos",
+      "current_owner_roster_id": 5,
+      "current_owner_team": "Northside Kings",
       "draft_pick_avi": 79.3,
       "original_roster_id": 7,
       "original_team": "Badland Banditos",

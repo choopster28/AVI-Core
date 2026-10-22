@@ -2969,14 +2969,14 @@
       "c_avi": 18.7,
       "d_avi": 25.0,
       "nfl_team": "SF",
-      "owner_id": "737531831641128960",
+      "owner_id": "872351659366539264",
       "player_name": "Brandin Cooks",
       "position": "WR",
-      "roster_id": 7,
+      "roster_id": 5,
       "sleeper_id": "2197",
       "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
+      "team_file": "05_Northside_Kings.md",
+      "team_name": "Northside Kings "
     },
     {
       "active": true,
@@ -5673,14 +5673,14 @@
       "c_avi": 81.6,
       "d_avi": 81.1,
       "nfl_team": "SF",
-      "owner_id": "872351659366539264",
+      "owner_id": "737531831641128960",
       "player_name": "Mike Evans",
       "position": "WR",
-      "roster_id": 5,
+      "roster_id": 7,
       "sleeper_id": "2216",
       "status": "Active",
-      "team_file": "05_Northside_Kings.md",
-      "team_name": "Northside Kings "
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
     },
     {
       "active": true,
@@ -6201,14 +6201,14 @@
       "c_avi": 64.0,
       "d_avi": 65.9,
       "nfl_team": "WAS",
-      "owner_id": "872351659366539264",
+      "owner_id": "737531831641128960",
       "player_name": "Stefon Diggs",
       "position": "WR",
-      "roster_id": 5,
+      "roster_id": 7,
       "sleeper_id": "2449",
       "status": "Active",
-      "team_file": "05_Northside_Kings.md",
-      "team_name": "Northside Kings "
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
     },
     {
       "active": true,

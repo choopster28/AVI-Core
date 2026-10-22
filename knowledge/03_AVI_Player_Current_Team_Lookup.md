@@ -136,9 +136,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Brandin Cooks
 - Player ID: 2197
 - Position: WR
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Team file: 05_Northside_Kings.md
 
 ## PLAYER LOOKUP: Brandon Aiyuk
 - Player name: Brandon Aiyuk
@@ -1488,9 +1488,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Mike Evans
 - Player ID: 2216
 - Position: WR
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Team file: 05_Northside_Kings.md
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
 
 ## PLAYER LOOKUP: Mike Gesicki
 - Player name: Mike Gesicki
@@ -1752,9 +1752,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Stefon Diggs
 - Player ID: 2449
 - Position: WR
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Team file: 05_Northside_Kings.md
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
 
 ## PLAYER LOOKUP: T.J. Hockenson
 - Player name: T.J. Hockenson
