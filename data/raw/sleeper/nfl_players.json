@@ -18268,7 +18268,7 @@
       "genius_id": "1399261",
       "rookie_year": "2023"
     },
-    "news_updated": 1792452912137,
+    "news_updated": 1792692013268,
     "number": 53,
     "oddsjam_id": "98AF6EF93876",
     "opta_id": null,
@@ -37034,7 +37034,7 @@
       "genius_id": "1408435",
       "rookie_year": "2023"
     },
-    "news_updated": 1768343419420,
+    "news_updated": 1792694413505,
     "number": 84,
     "oddsjam_id": "61C525B66BFD",
     "opta_id": null,
@@ -118314,9 +118314,9 @@
     "height": "77",
     "high_school": "Independence (TX)",
     "injury_body_part": "Shoulder",
-    "injury_notes": null,
+    "injury_notes": "Surgery",
     "injury_start_date": null,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "kalshi_id": "b7129bf6-c0f9-4c67-974f-350a666fa7dc",
     "last_name": "Arroyo",
     "metadata": {
@@ -118325,7 +118325,7 @@
       "rookie_year": "2025",
       "source_id": "371cfdbc-6113-418d-8861-2b7ef21dacb7"
     },
-    "news_updated": 1792452311899,
+    "news_updated": 1792694712488,
     "number": 18,
     "oddsjam_id": "10E910A0AE1B1692",
     "opta_id": null,
@@ -118344,7 +118344,7 @@
     "sport": "nfl",
     "sportradar_id": "98bc7c8c-e6e4-4694-a0ef-d3f25274223e",
     "stats_id": null,
-    "status": "Active",
+    "status": "Inactive",
     "swish_id": null,
     "team": "SEA",
     "team_abbr": null,
@@ -120464,7 +120464,7 @@
     "injury_body_part": "Back",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "kalshi_id": "68f2ba27-e362-4688-8f8a-74ee2d540469",
     "last_name": "Simmons",
     "metadata": {
@@ -120473,7 +120473,7 @@
       "rookie_year": "2025",
       "source_id": "0f7390b9-1964-4950-8f43-a4d1b1f21293"
     },
-    "news_updated": 1792210840129,
+    "news_updated": 1792693813365,
     "number": 71,
     "oddsjam_id": "C10A3CDCD4C40939",
     "opta_id": null,
@@ -176374,8 +176374,8 @@
     "fantasy_positions": [
       "DB"
     ],
-    "first_name": "AJ",
-    "full_name": "AJ Haulcy",
+    "first_name": "A.J.",
+    "full_name": "A.J. Haulcy",
     "gsis_id": null,
     "hashtag": "#ajhaulcy-NFL-IND-25",
     "height": "71",
@@ -404205,7 +404205,7 @@
       "injury_override_regular_2025_3": "IR",
       "rookie_year": "2017"
     },
-    "news_updated": 1792032910230,
+    "news_updated": 1792692611758,
     "number": 33,
     "oddsjam_id": "6A8C12F44A16",
     "opta_id": null,
@@ -448635,7 +448635,7 @@
       "injury_override_regular_2026_6": "Out",
       "rookie_year": "2018"
     },
-    "news_updated": 1792689611574,
+    "news_updated": 1792694413497,
     "number": 8,
     "oddsjam_id": "1C18E878DAB7",
     "opta_id": null,
@@ -449315,7 +449315,7 @@
       "genius_id": "1013868",
       "rookie_year": "2018"
     },
-    "news_updated": 1792688412967,
+    "news_updated": 1792694112137,
     "number": 6,
     "oddsjam_id": "2F8FF2DF2E69",
     "opta_id": null,
@@ -515120,7 +515120,7 @@
       "genius_id": "1016052",
       "rookie_year": "2019"
     },
-    "news_updated": 1792691412259,
+    "news_updated": 1792693813447,
     "number": 32,
     "oddsjam_id": "A2114935F695",
     "opta_id": null,
@@ -582915,7 +582915,7 @@
     "first_name": "Myles",
     "full_name": "Myles Bryant",
     "gsis_id": null,
-    "hashtag": "#mylesbryant-NFL-FA-27",
+    "hashtag": "#mylesbryant-NFL-DET-27",
     "height": "69",
     "high_school": "Loyola (CA)",
     "injury_body_part": null,
@@ -582950,7 +582950,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 924122,
-    "team": null,
+    "team": "DET",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "192",
@@ -673417,7 +673417,7 @@
       "genius_id": "1016656",
       "rookie_year": "2022"
     },
-    "news_updated": 1792626652136,
+    "news_updated": 1792694413526,
     "number": 5,
     "oddsjam_id": "CD7A861FC02C",
     "opta_id": null,
@@ -677895,7 +677895,7 @@
       "genius_id": "1344053",
       "rookie_year": "2022"
     },
-    "news_updated": 1792205139371,
+    "news_updated": 1792692013287,
     "number": 2,
     "oddsjam_id": "8EC565BDF389",
     "opta_id": null,
@@ -679586,7 +679586,7 @@
       "genius_id": "1013150",
       "rookie_year": "2022"
     },
-    "news_updated": 1792337757208,
+    "news_updated": 1792694413517,
     "number": 6,
     "oddsjam_id": "E4C4C724E3FC",
     "opta_id": null,
@@ -712700,7 +712700,7 @@
       "genius_id": "1017014",
       "rookie_year": "2022"
     },
-    "news_updated": 1792455033156,
+    "news_updated": 1792692013257,
     "number": 9,
     "oddsjam_id": "35532C2D7F92",
     "opta_id": null,
@@ -722184,7 +722184,7 @@
     "injury_body_part": "Knee - ACL",
     "injury_notes": "Surgery",
     "injury_start_date": null,
-    "injury_status": "PUP",
+    "injury_status": "Questionable",
     "kalshi_id": "e4f3e4c7-94a3-487f-8ce1-284bb78b1ec4",
     "last_name": "Charbonnet",
     "metadata": {
@@ -722192,7 +722192,7 @@
       "genius_id": "1398978",
       "rookie_year": "2023"
     },
-    "news_updated": 1792628153374,
+    "news_updated": 1792693211768,
     "number": 26,
     "oddsjam_id": "DD41FF156D28",
     "opta_id": null,
@@ -722211,7 +722211,7 @@
     "sport": "nfl",
     "sportradar_id": "7d7f1628-85a7-4633-9ffe-d82fc2761b00",
     "stats_id": null,
-    "status": "Inactive",
+    "status": "Active",
     "swish_id": 1164530,
     "team": "SEA",
     "team_abbr": null,

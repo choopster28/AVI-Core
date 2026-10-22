@@ -178,7 +178,7 @@
       "player_name": "Elijah Arroyo",
       "position": "TE",
       "sleeper_id": "12521",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -2559,6 +2559,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00008116",
+      "c_avi": 0.0,
+      "d_avi": 10.3,
+      "nfl_team": "GB",
+      "player_name": "Pierre Strong Jr.",
+      "position": "RB",
+      "sleeper_id": "8116",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00002749",
       "c_avi": 0.0,
       "d_avi": 12.4,
@@ -2702,8 +2714,8 @@
     }
   ],
   "counts": {
-    "available_players": 225,
-    "rostered_players": 254
+    "available_players": 226,
+    "rostered_players": 253
   },
   "rostered_players": [
     {
@@ -5861,22 +5873,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00008116",
-      "c_avi": 0.0,
-      "d_avi": 10.3,
-      "nfl_team": "GB",
-      "owner_id": "736994691492519936",
-      "player_name": "Pierre Strong Jr.",
-      "position": "RB",
-      "roster_id": 8,
-      "sleeper_id": "8116",
-      "status": "Active",
-      "team_file": "08_All_Hail_King_Jesus.md",
-      "team_name": "All Hail King Jesus"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00009493",
       "c_avi": 97.6,
       "d_avi": 99.0,
@@ -6702,7 +6698,7 @@
       "position": "RB",
       "roster_id": 8,
       "sleeper_id": "9753",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "08_All_Hail_King_Jesus.md",
       "team_name": "All Hail King Jesus"
     },

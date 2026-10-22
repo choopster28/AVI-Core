@@ -1580,14 +1580,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
 
-## PLAYER LOOKUP: Pierre Strong Jr.
-- Player name: Pierre Strong Jr.
-- Player ID: 8116
-- Position: RB
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Team file: 08_All_Hail_King_Jesus.md
-
 ## PLAYER LOOKUP: Puka Nacua
 - Player name: Puka Nacua
 - Player ID: 9493
@@ -3953,6 +3945,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NYG
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 9.7
+- Availability: available
+
+## AVAILABLE PLAYER: Pierre Strong Jr.
+- Player name: Pierre Strong Jr.
+- Player ID: 8116
+- Position: RB
+- NFL team: GB
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 10.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Raheem Mostert
