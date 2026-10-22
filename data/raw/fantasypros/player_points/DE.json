@@ -89,28 +89,28 @@
       }
     },
     {
-      "average": 3.5,
+      "average": 3.7,
       "filename": "rueben-bain.php",
       "games": 4,
       "player_id": 28772,
       "player_name": "Rueben Bain Jr.",
-      "points": 14,
+      "points": 14.75,
       "position_id": "DE",
       "team_id": "TB",
       "weeks": {
         "1": 1.5,
         "2": 0,
         "5": 1.5,
-        "6": 11
+        "6": 11.8
       }
     },
     {
-      "average": 6.6,
+      "average": 6.5,
       "filename": "jowon-briggs.php",
       "games": 6,
       "player_id": 26485,
       "player_name": "Jowon Briggs",
-      "points": 39.5,
+      "points": 38.75,
       "position_id": "DE",
       "team_id": "NYJ",
       "weeks": {
@@ -119,7 +119,7 @@
         "3": 3.8,
         "4": 7,
         "5": 10.3,
-        "6": 6.8
+        "6": 6
       }
     },
     {
@@ -899,12 +899,12 @@
       }
     },
     {
-      "average": 8.2,
+      "average": 8,
       "filename": "kingsley-enagbare.php",
       "games": 5,
       "player_id": 23487,
       "player_name": "Kingsley Enagbare",
-      "points": 40.75,
+      "points": 40,
       "position_id": "DE",
       "team_id": "NYJ",
       "weeks": {
@@ -912,7 +912,7 @@
         "2": 14.3,
         "3": 3,
         "5": 4.8,
-        "6": 10
+        "6": 9.3
       }
     },
     {
@@ -1447,12 +1447,12 @@
       }
     },
     {
-      "average": 14.1,
+      "average": 14.2,
       "filename": "david-bailey-edge.php",
       "games": 6,
       "player_id": 27191,
       "player_name": "David Bailey",
-      "points": 84.5,
+      "points": 85.25,
       "position_id": "DE",
       "team_id": "NYJ",
       "weeks": {
@@ -1461,7 +1461,7 @@
         "3": 9.3,
         "4": 7.5,
         "5": 28.5,
-        "6": 12.5
+        "6": 13.3
       }
     },
     {

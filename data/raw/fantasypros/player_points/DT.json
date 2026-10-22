@@ -643,12 +643,12 @@
       }
     },
     {
-      "average": 4.5,
+      "average": 4.4,
       "filename": "dj-reader.php",
       "games": 6,
       "player_id": 15758,
       "player_name": "DJ Reader",
-      "points": 27.25,
+      "points": 26.5,
       "position_id": "DT",
       "team_id": "NYG",
       "weeks": {
@@ -657,7 +657,7 @@
         "3": 1.5,
         "4": 2.3,
         "5": 5.3,
-        "6": 11.5
+        "6": 10.8
       }
     },
     {
@@ -1378,12 +1378,12 @@
       }
     },
     {
-      "average": 2.9,
+      "average": 3,
       "filename": "harrison-phillips.php",
       "games": 6,
       "player_id": 17343,
       "player_name": "Harrison Phillips",
-      "points": 17.5,
+      "points": 18.25,
       "position_id": "DT",
       "team_id": "NYJ",
       "weeks": {
@@ -1392,7 +1392,7 @@
         "3": 3.8,
         "4": 6.8,
         "5": 1.5,
-        "6": 0.8
+        "6": 1.5
       }
     },
     {
@@ -1848,12 +1848,12 @@
       }
     },
     {
-      "average": 5.1,
+      "average": 5,
       "filename": "otito-ogbonnia.php",
       "games": 6,
       "player_id": 23900,
       "player_name": "Otito Ogbonnia",
-      "points": 30.5,
+      "points": 29.75,
       "position_id": "DT",
       "team_id": "DAL",
       "weeks": {
@@ -1862,7 +1862,7 @@
         "3": 8.3,
         "4": 2.3,
         "5": 11,
-        "6": 4.5
+        "6": 3.8
       }
     },
     {

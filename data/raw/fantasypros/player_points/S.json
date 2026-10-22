@@ -1648,12 +1648,12 @@
       }
     },
     {
-      "average": 10.3,
+      "average": 10,
       "filename": "xavier-watts.php",
       "games": 6,
       "player_id": 27067,
       "player_name": "Xavier Watts",
-      "points": 61.5,
+      "points": 60,
       "position_id": "S",
       "team_id": "ATL",
       "weeks": {
@@ -1662,7 +1662,7 @@
         "3": 12.5,
         "4": 11.8,
         "5": 12.8,
-        "6": 7
+        "6": 5.5
       }
     },
     {
@@ -2443,17 +2443,17 @@
       }
     },
     {
-      "average": 0,
+      "average": 0.8,
       "filename": "jalon-kilgore.php",
       "games": 2,
       "player_id": 27963,
       "player_name": "Jalon Kilgore",
-      "points": 0,
+      "points": 1.5,
       "position_id": "S",
       "team_id": "BUF",
       "weeks": {
         "5": 0,
-        "6": 0
+        "6": 1.5
       }
     },
     {

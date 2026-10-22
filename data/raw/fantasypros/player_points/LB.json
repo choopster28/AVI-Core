@@ -1919,12 +1919,12 @@
       }
     },
     {
-      "average": 4.1,
+      "average": 4.2,
       "filename": "rashan-gary.php",
       "games": 6,
       "player_id": 18209,
       "player_name": "Rashan Gary",
-      "points": 24.5,
+      "points": 25.25,
       "position_id": "LB",
       "team_id": "DAL",
       "weeks": {
@@ -1933,7 +1933,7 @@
         "3": 1.5,
         "4": 9.5,
         "5": 7.5,
-        "6": 0
+        "6": 0.8
       }
     },
     {
@@ -2868,12 +2868,12 @@
       }
     },
     {
-      "average": 7.1,
+      "average": 7,
       "filename": "david-walker.php",
       "games": 6,
       "player_id": 27091,
       "player_name": "David Walker",
-      "points": 42.75,
+      "points": 42,
       "position_id": "LB",
       "team_id": "TB",
       "weeks": {
@@ -2882,7 +2882,7 @@
         "3": 12,
         "4": 3,
         "5": 0.8,
-        "6": 19
+        "6": 18.3
       }
     },
     {

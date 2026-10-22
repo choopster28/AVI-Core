@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-10-22T00:46:05.675445+00:00",
+  "fetched_at_utc": "2026-10-22T17:07:15.343646+00:00",
   "players": {
     "10210": {
       "gms_active": 1.0,
@@ -5738,11 +5738,16 @@
       "tm_st_snp": 24.0
     },
     "11805": {
+      "def_snp": 1.0,
       "gms_active": 1.0,
       "gp": 1.0,
       "pos_rank_half_ppr": 999.0,
       "pos_rank_ppr": 999.0,
-      "pos_rank_std": 999.0
+      "pos_rank_std": 999.0,
+      "st_snp": 17.0,
+      "tm_def_snp": 71.0,
+      "tm_off_snp": 63.0,
+      "tm_st_snp": 29.0
     },
     "11806": {
       "gms_active": 1.0,

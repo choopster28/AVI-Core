@@ -342,12 +342,12 @@
       }
     },
     {
-      "average": 7.5,
+      "average": 7.6,
       "filename": "greg-newsome-db.php",
       "games": 6,
       "player_id": 23238,
       "player_name": "Greg Newsome II",
-      "points": 44.75,
+      "points": 45.5,
       "position_id": "CB",
       "team_id": "NYG",
       "weeks": {
@@ -356,7 +356,7 @@
         "3": 6,
         "4": 16.3,
         "5": 6,
-        "6": 4.5
+        "6": 5.3
       }
     },
     {
@@ -555,12 +555,12 @@
       }
     },
     {
-      "average": 6.7,
+      "average": 6.9,
       "filename": "eric-stokes.php",
       "games": 6,
       "player_id": 22708,
       "player_name": "Eric Stokes",
-      "points": 40,
+      "points": 41.5,
       "position_id": "CB",
       "team_id": "LV",
       "weeks": {
@@ -569,7 +569,7 @@
         "3": 6.3,
         "4": 7.5,
         "5": 4.5,
-        "6": 3.8
+        "6": 5.3
       }
     },
     {
@@ -1088,12 +1088,12 @@
       }
     },
     {
-      "average": 2.3,
+      "average": 2.5,
       "filename": "avieon-terrell.php",
       "games": 6,
       "player_id": 27981,
       "player_name": "Avieon Terrell",
-      "points": 13.5,
+      "points": 15,
       "position_id": "CB",
       "team_id": "ATL",
       "weeks": {
@@ -1102,7 +1102,7 @@
         "3": 0.8,
         "4": 0,
         "5": 3,
-        "6": 6.8
+        "6": 8.3
       }
     },
     {
@@ -2642,12 +2642,12 @@
       }
     },
     {
-      "average": 11.1,
+      "average": 10.8,
       "filename": "cooper-dejean.php",
       "games": 6,
       "player_id": 26103,
       "player_name": "Cooper DeJean",
-      "points": 66.5,
+      "points": 65,
       "position_id": "CB",
       "team_id": "PHI",
       "weeks": {
@@ -2656,7 +2656,7 @@
         "3": 8.3,
         "4": 14,
         "5": 17,
-        "6": 13
+        "6": 11.5
       }
     },
     {
