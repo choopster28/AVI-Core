@@ -87,6 +87,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00013413",
+      "c_avi": 35.3,
+      "d_avi": 62.2,
+      "nfl_team": "KC",
+      "player_name": "Cyrus Allen",
+      "position": "WR",
+      "sleeper_id": "13413",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00011575",
       "c_avi": 35.0,
       "d_avi": 57.7,
@@ -1306,18 +1318,6 @@
       "player_name": "Eli Heidenreich",
       "position": "RB",
       "sleeper_id": "13423",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00011623",
-      "c_avi": 23.9,
-      "d_avi": 53.5,
-      "nfl_team": "LAR",
-      "player_name": "Jordan Whittington",
-      "position": "WR",
-      "sleeper_id": "11623",
       "status": "Active"
     },
     {
@@ -3505,22 +3505,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00013413",
-      "c_avi": 35.3,
-      "d_avi": 62.2,
-      "nfl_team": "KC",
-      "owner_id": "736993578450030592",
-      "player_name": "Cyrus Allen",
-      "position": "WR",
-      "roster_id": 1,
-      "sleeper_id": "13413",
-      "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00006790",
       "c_avi": 82.5,
       "d_avi": 86.9,
@@ -4925,6 +4909,22 @@
       "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00011623",
+      "c_avi": 23.9,
+      "d_avi": 53.5,
+      "nfl_team": "LAR",
+      "owner_id": "736993578450030592",
+      "player_name": "Jordan Whittington",
+      "position": "WR",
+      "roster_id": 1,
+      "sleeper_id": "11623",
+      "status": "Active",
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
     },
     {
       "active": true,
