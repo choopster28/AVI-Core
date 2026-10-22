@@ -1323,6 +1323,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00002078",
+      "c_avi": 23.9,
+      "d_avi": 34.8,
+      "nfl_team": "MIN",
+      "player_name": "Odell Beckham Jr.",
+      "position": "WR",
+      "sleeper_id": "2078",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00007562",
       "c_avi": 23.9,
       "d_avi": 48.6,
@@ -2542,18 +2554,6 @@
       "player_name": "Phil Mafah",
       "position": "RB",
       "sleeper_id": "12738",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00008116",
-      "c_avi": 0.0,
-      "d_avi": 10.3,
-      "nfl_team": "GB",
-      "player_name": "Pierre Strong Jr.",
-      "position": "RB",
-      "sleeper_id": "8116",
       "status": "Active"
     },
     {
@@ -5733,22 +5733,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00002078",
-      "c_avi": 23.9,
-      "d_avi": 34.8,
-      "nfl_team": "MIN",
-      "owner_id": "736994691492519936",
-      "player_name": "Odell Beckham Jr.",
-      "position": "WR",
-      "roster_id": 8,
-      "sleeper_id": "2078",
-      "status": "Active",
-      "team_file": "08_All_Hail_King_Jesus.md",
-      "team_name": "All Hail King Jesus"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00012495",
       "c_avi": 41.5,
       "d_avi": 62.3,
@@ -5873,6 +5857,22 @@
       "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00008116",
+      "c_avi": 0.0,
+      "d_avi": 10.3,
+      "nfl_team": "GB",
+      "owner_id": "736994691492519936",
+      "player_name": "Pierre Strong Jr.",
+      "position": "RB",
+      "roster_id": 8,
+      "sleeper_id": "8116",
+      "status": "Active",
+      "team_file": "08_All_Hail_King_Jesus.md",
+      "team_name": "All Hail King Jesus"
     },
     {
       "active": true,

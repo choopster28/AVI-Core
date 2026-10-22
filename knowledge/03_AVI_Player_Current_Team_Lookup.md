@@ -1516,14 +1516,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
 
-## PLAYER LOOKUP: Odell Beckham Jr.
-- Player name: Odell Beckham Jr.
-- Player ID: 2078
-- Position: WR
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Team file: 08_All_Hail_King_Jesus.md
-
 ## PLAYER LOOKUP: Ollie Gordon II
 - Player name: Ollie Gordon II
 - Player ID: 12495
@@ -1587,6 +1579,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
+
+## PLAYER LOOKUP: Pierre Strong Jr.
+- Player name: Pierre Strong Jr.
+- Player ID: 8116
+- Position: RB
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Team file: 08_All_Hail_King_Jesus.md
 
 ## PLAYER LOOKUP: Puka Nacua
 - Player name: Puka Nacua
@@ -3028,6 +3028,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 53.5
 - Availability: available
 
+## AVAILABLE PLAYER: Odell Beckham Jr.
+- Player name: Odell Beckham Jr.
+- Player ID: 2078
+- Position: WR
+- NFL team: MIN
+- Championship AVI (C-AVI, 0-100): 23.9
+- Dynasty AVI (D-AVI, 0-100): 34.8
+- Availability: available
+
 ## AVAILABLE PLAYER: Tutu Atwell
 - Player name: Tutu Atwell
 - Player ID: 7562
@@ -3944,15 +3953,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NYG
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 9.7
-- Availability: available
-
-## AVAILABLE PLAYER: Pierre Strong Jr.
-- Player name: Pierre Strong Jr.
-- Player ID: 8116
-- Position: RB
-- NFL team: GB
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 10.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Raheem Mostert
