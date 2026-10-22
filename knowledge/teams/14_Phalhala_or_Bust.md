@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1132141719354535936
 - Division: 3
 - Waiver position: 1
-- Last updated from Sleeper exports: 2026-10-21
+- Last updated from Sleeper exports: 2026-10-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 521.5
-- championship_lineup_c_avi_avg: 65.19
-- offensive_roster_c_avi_sum: 701.9
-- offensive_roster_c_avi_avg: 53.99
+- championship_lineup_c_avi_sum: 521.6
+- championship_lineup_c_avi_avg: 65.20
+- offensive_roster_c_avi_sum: 702.2
+- offensive_roster_c_avi_avg: 54.02
 - offensive_roster_d_avi_sum: 936.1
 - offensive_roster_d_avi_avg: 72.01
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -33,7 +33,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - QB: C.J. Stroud | C-AVI: 49.2 | D-AVI: 70.0
 - RB: Ashton Jeanty | C-AVI: 89.1 | D-AVI: 94.9
 - RB: Jaylen Warren | C-AVI: 76.7 | D-AVI: 80.2
-- WR: Michael Wilson | C-AVI: 66.5 | D-AVI: 81.4
+- WR: Michael Wilson | C-AVI: 66.6 | D-AVI: 81.4
 - WR: Rome Odunze | C-AVI: 57.5 | D-AVI: 81.8
 - TE: Sam LaPorta | C-AVI: 85.3 | D-AVI: 88.9
 - FLEX: Hunter Henry | C-AVI: 51.6 | D-AVI: 70.4
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 52.6
+- Championship AVI (C-AVI, 0-100): 52.7
 - Dynasty AVI (D-AVI, 0-100): 66.0
 - Projected PPR points: 153.7
 - Category: offense
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 27.6
+- Championship AVI (C-AVI, 0-100): 27.7
 - Dynasty AVI (D-AVI, 0-100): 47.7
 - Projected PPR points: 24.8
 - Category: offense
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 66.5
+- Championship AVI (C-AVI, 0-100): 66.6
 - Dynasty AVI (D-AVI, 0-100): 81.4
 - Projected PPR points: 166.0
 - Category: offense
@@ -382,8 +382,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Kevin Byard
-- Player name: Kevin Byard
+### PLAYER: Kevin Byard III
+- Player name: Kevin Byard III
 - Player ID: 3233
 - Current owner team: Phalhala or Bust
 - Current owner roster ID: 14

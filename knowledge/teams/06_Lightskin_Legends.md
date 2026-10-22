@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872509429436829696
 - Division: 2
 - Waiver position: 16
-- Last updated from Sleeper exports: 2026-10-21
+- Last updated from Sleeper exports: 2026-10-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,20 +23,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 538.4
 - championship_lineup_c_avi_avg: 67.30
-- offensive_roster_c_avi_sum: 923.7
+- offensive_roster_c_avi_sum: 923.8
 - offensive_roster_c_avi_avg: 51.32
-- offensive_roster_d_avi_sum: 1194.5
+- offensive_roster_d_avi_sum: 1194.4
 - offensive_roster_d_avi_avg: 66.36
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jared Goff | C-AVI: 71.1 | D-AVI: 76.8
 - RB: Javonte Williams | C-AVI: 84.0 | D-AVI: 88.1
-- RB: Chase Brown | C-AVI: 82.8 | D-AVI: 90.6
+- RB: Chase Brown | C-AVI: 82.9 | D-AVI: 90.6
 - WR: Parker Washington | C-AVI: 83.5 | D-AVI: 91.2
 - WR: Keon Coleman | C-AVI: 52.0 | D-AVI: 60.0
-- TE: Kyle Pitts | C-AVI: 62.5 | D-AVI: 81.5
-- FLEX: Josh Downs | C-AVI: 51.8 | D-AVI: 76.0
+- TE: Kyle Pitts Sr. | C-AVI: 62.5 | D-AVI: 81.5
+- FLEX: Josh Downs | C-AVI: 51.7 | D-AVI: 75.9
 - FLEX: Mike Gesicki | C-AVI: 50.7 | D-AVI: 58.6
 
 ## Current Roster — All Player Cards
@@ -104,14 +104,14 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 82.8
+- Championship AVI (C-AVI, 0-100): 82.9
 - Dynasty AVI (D-AVI, 0-100): 90.6
 - Projected PPR points: 255.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Travis Etienne
-- Player name: Travis Etienne
+### PLAYER: Travis Etienne Jr.
+- Player name: Travis Etienne Jr.
 - Player ID: 7543
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 51.8
-- Dynasty AVI (D-AVI, 0-100): 76.0
+- Championship AVI (C-AVI, 0-100): 51.7
+- Dynasty AVI (D-AVI, 0-100): 75.9
 - Projected PPR points: 172.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 43.3
+- Championship AVI (C-AVI, 0-100): 43.4
 - Dynasty AVI (D-AVI, 0-100): 60.4
 - Projected PPR points: 102.3
 - Category: offense
@@ -263,8 +263,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Chris Brazzell
-- Player name: Chris Brazzell
+### PLAYER: Chris Brazzell II
+- Player name: Chris Brazzell II
 - Player ID: 13353
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6
@@ -280,8 +280,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
 
-### PLAYER: Kyle Pitts
-- Player name: Kyle Pitts
+### PLAYER: Kyle Pitts Sr.
+- Player name: Kyle Pitts Sr.
 - Player ID: 7553
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6
@@ -382,8 +382,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Ernest Jones
-- Player name: Ernest Jones
+### PLAYER: Ernest Jones IV
+- Player name: Ernest Jones IV
 - Player ID: 7672
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6

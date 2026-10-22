@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 308805697879937024
 - Division: 2
 - Waiver position: 5
-- Last updated from Sleeper exports: 2026-10-21
+- Last updated from Sleeper exports: 2026-10-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,21 +23,21 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 641.3
 - championship_lineup_c_avi_avg: 80.16
-- offensive_roster_c_avi_sum: 823.4
-- offensive_roster_c_avi_avg: 58.81
-- offensive_roster_d_avi_sum: 1018.9
-- offensive_roster_d_avi_avg: 72.78
+- offensive_roster_c_avi_sum: 823.5
+- offensive_roster_c_avi_avg: 58.82
+- offensive_roster_d_avi_sum: 1019.0
+- offensive_roster_d_avi_avg: 72.79
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Trevor Lawrence | C-AVI: 77.0 | D-AVI: 83.9
 - RB: Christian McCaffrey | C-AVI: 94.3 | D-AVI: 91.5
-- RB: James Cook | C-AVI: 89.9 | D-AVI: 94.6
+- RB: James Cook III | C-AVI: 89.9 | D-AVI: 94.6
 - WR: CeeDee Lamb | C-AVI: 98.0 | D-AVI: 98.2
 - WR: Chris Olave | C-AVI: 92.5 | D-AVI: 95.3
 - TE: George Kittle | C-AVI: 82.5 | D-AVI: 84.2
 - FLEX: Wan'Dale Robinson | C-AVI: 56.6 | D-AVI: 75.3
-- FLEX: Brian Robinson | C-AVI: 50.5 | D-AVI: 59.7
+- FLEX: Brian Robinson Jr. | C-AVI: 50.5 | D-AVI: 59.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -110,8 +110,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: James Cook
-- Player name: James Cook
+### PLAYER: James Cook III
+- Player name: James Cook III
 - Player ID: 8138
 - Current owner team: SmokyValleyWheatWarriors
 - Current owner roster ID: 10
@@ -127,8 +127,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Brian Robinson
-- Player name: Brian Robinson
+### PLAYER: Brian Robinson Jr.
+- Player name: Brian Robinson Jr.
 - Player ID: 8154
 - Current owner team: SmokyValleyWheatWarriors
 - Current owner roster ID: 10
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 46.9
-- Dynasty AVI (D-AVI, 0-100): 67.9
+- Championship AVI (C-AVI, 0-100): 47.0
+- Dynasty AVI (D-AVI, 0-100): 68.0
 - Projected PPR points: 83.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

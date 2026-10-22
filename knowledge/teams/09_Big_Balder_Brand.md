@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 13
-- Last updated from Sleeper exports: 2026-10-21
+- Last updated from Sleeper exports: 2026-10-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 611.8
-- championship_lineup_c_avi_avg: 76.47
-- offensive_roster_c_avi_sum: 888.0
-- offensive_roster_c_avi_avg: 55.50
-- offensive_roster_d_avi_sum: 1114.8
-- offensive_roster_d_avi_avg: 69.67
+- championship_lineup_c_avi_sum: 611.9
+- championship_lineup_c_avi_avg: 76.49
+- offensive_roster_c_avi_sum: 910.6
+- offensive_roster_c_avi_avg: 56.91
+- offensive_roster_d_avi_sum: 1141.7
+- offensive_roster_d_avi_avg: 71.36
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jayden Daniels | C-AVI: 81.5 | D-AVI: 86.4
 - RB: Omarion Hampton | C-AVI: 74.4 | D-AVI: 87.4
-- RB: Bhayshul Tuten | C-AVI: 72.8 | D-AVI: 82.3
+- RB: Bhayshul Tuten | C-AVI: 72.9 | D-AVI: 82.4
 - WR: Nico Collins | C-AVI: 92.9 | D-AVI: 95.2
 - WR: Rashee Rice | C-AVI: 65.9 | D-AVI: 85.8
 - TE: Trey McBride | C-AVI: 92.0 | D-AVI: 92.4
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 72.8
-- Dynasty AVI (D-AVI, 0-100): 82.3
+- Championship AVI (C-AVI, 0-100): 72.9
+- Dynasty AVI (D-AVI, 0-100): 82.4
 - Projected PPR points: 174.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 39.9
+- Championship AVI (C-AVI, 0-100): 40.0
 - Dynasty AVI (D-AVI, 0-100): 64.6
 - Projected PPR points: 77.2
 - Category: offense
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 35.7
+- Championship AVI (C-AVI, 0-100): 35.8
 - Dynasty AVI (D-AVI, 0-100): 54.5
 - Projected PPR points: 65.2
 - Category: offense
@@ -195,22 +195,22 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Austin Ekeler
-- Player name: Austin Ekeler
-- Player ID: 4663
+### PLAYER: Zonovan Knight
+- Player name: Zonovan Knight
+- Player ID: 8122
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: WAS
+- NFL team: ARI
 - Active: True
 - Status: Active
-- Age: 31.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.7
-- Projected PPR points: None
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 22.3
+- Dynasty AVI (D-AVI, 0-100): 27.5
+- Projected PPR points: 10.5
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Nico Collins
 - Player name: Nico Collins
@@ -246,8 +246,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Chris Godwin
-- Player name: Chris Godwin
+### PLAYER: Chris Godwin Jr.
+- Player name: Chris Godwin Jr.
 - Player ID: 4037
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9

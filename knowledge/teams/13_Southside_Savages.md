@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 998253660243054592
 - Division: 2
 - Waiver position: 6
-- Last updated from Sleeper exports: 2026-10-21
+- Last updated from Sleeper exports: 2026-10-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,20 +21,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 513.7
-- championship_lineup_c_avi_avg: 64.21
-- offensive_roster_c_avi_sum: 701.3
-- offensive_roster_c_avi_avg: 50.09
+- championship_lineup_c_avi_sum: 513.8
+- championship_lineup_c_avi_avg: 64.22
+- offensive_roster_c_avi_sum: 701.6
+- offensive_roster_c_avi_avg: 50.11
 - offensive_roster_d_avi_sum: 950.3
 - offensive_roster_d_avi_avg: 67.88
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Drake Maye | C-AVI: 86.5 | D-AVI: 89.6
-- RB: Emanuel Wilson | C-AVI: 48.6 | D-AVI: 52.6
+- RB: Emanuel Wilson | C-AVI: 48.7 | D-AVI: 52.6
 - RB: TreVeyon Henderson | C-AVI: 48.5 | D-AVI: 78.8
 - WR: Tetairoa McMillan | C-AVI: 89.6 | D-AVI: 94.9
-- WR: Luther Burden | C-AVI: 74.6 | D-AVI: 87.9
+- WR: Luther Burden III | C-AVI: 74.6 | D-AVI: 87.9
 - TE: Pat Freiermuth | C-AVI: 59.7 | D-AVI: 70.7
 - FLEX: DK Metcalf | C-AVI: 66.5 | D-AVI: 79.0
 - FLEX: Kayshon Boutte | C-AVI: 39.7 | D-AVI: 62.1
@@ -87,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 48.6
+- Championship AVI (C-AVI, 0-100): 48.7
 - Dynasty AVI (D-AVI, 0-100): 52.6
 - Projected PPR points: 56.5
 - Category: offense
@@ -103,7 +103,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: NE
 - Active: True
 - Status: Active
-- Age: 23.0
+- Age: 24.0
 - Championship AVI (C-AVI, 0-100): 48.5
 - Dynasty AVI (D-AVI, 0-100): 78.8
 - Projected PPR points: 171.0
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 30.4
+- Championship AVI (C-AVI, 0-100): 30.5
 - Dynasty AVI (D-AVI, 0-100): 41.9
 - Projected PPR points: 55.8
 - Category: offense
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 13.3
+- Championship AVI (C-AVI, 0-100): 13.4
 - Dynasty AVI (D-AVI, 0-100): 68.0
 - Projected PPR points: 139.4
 - Category: offense
@@ -161,8 +161,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Luther Burden
-- Player name: Luther Burden
+### PLAYER: Luther Burden III
+- Player name: Luther Burden III
 - Player ID: 12519
 - Current owner team: Southside Savages
 - Current owner roster ID: 13
@@ -229,8 +229,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Efton Chism
-- Player name: Efton Chism
+### PLAYER: Efton Chism III
+- Player name: Efton Chism III
 - Player ID: 12542
 - Current owner team: Southside Savages
 - Current owner roster ID: 13

@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 10
-- Last updated from Sleeper exports: 2026-10-21
+- Last updated from Sleeper exports: 2026-10-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,17 +21,17 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 625.6
-- championship_lineup_c_avi_avg: 78.20
-- offensive_roster_c_avi_sum: 980.5
-- offensive_roster_c_avi_avg: 57.68
+- championship_lineup_c_avi_sum: 625.7
+- championship_lineup_c_avi_avg: 78.21
+- offensive_roster_c_avi_sum: 980.9
+- offensive_roster_c_avi_avg: 57.70
 - offensive_roster_d_avi_sum: 1205.4
 - offensive_roster_d_avi_avg: 70.91
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Patrick Mahomes | C-AVI: 61.5 | D-AVI: 81.1
-- RB: Chuba Hubbard | C-AVI: 70.3 | D-AVI: 78.1
+- RB: Chuba Hubbard | C-AVI: 70.4 | D-AVI: 78.1
 - RB: David Montgomery | C-AVI: 67.4 | D-AVI: 74.7
 - WR: Jaxon Smith-Njigba | C-AVI: 99.3 | D-AVI: 99.5
 - WR: Malik Nabers | C-AVI: 91.5 | D-AVI: 95.9
@@ -87,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 70.3
+- Championship AVI (C-AVI, 0-100): 70.4
 - Dynasty AVI (D-AVI, 0-100): 78.1
 - Projected PPR points: 147.9
 - Category: offense
@@ -144,8 +144,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Mike Washington
-- Player name: Mike Washington
+### PLAYER: Mike Washington Jr.
+- Player name: Mike Washington Jr.
 - Player ID: 13305
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 38.1
+- Championship AVI (C-AVI, 0-100): 38.3
 - Dynasty AVI (D-AVI, 0-100): 62.7
 - Projected PPR points: 97.5
 - Category: offense
@@ -274,7 +274,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 30.7
+- Championship AVI (C-AVI, 0-100): 30.8
 - Dynasty AVI (D-AVI, 0-100): 53.2
 - Projected PPR points: 51.9
 - Category: offense

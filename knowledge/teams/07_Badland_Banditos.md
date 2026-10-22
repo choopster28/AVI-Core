@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-10-21
+- Last updated from Sleeper exports: 2026-10-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 599.4
-- championship_lineup_c_avi_avg: 74.92
-- offensive_roster_c_avi_sum: 920.3
+- championship_lineup_c_avi_sum: 599.3
+- championship_lineup_c_avi_avg: 74.91
+- offensive_roster_c_avi_sum: 920.4
 - offensive_roster_c_avi_avg: 54.14
 - offensive_roster_d_avi_sum: 1166.1
 - offensive_roster_d_avi_avg: 68.59
@@ -31,12 +31,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Joe Burrow | C-AVI: 75.8 | D-AVI: 86.7
-- RB: Kenneth Walker | C-AVI: 93.8 | D-AVI: 96.1
+- RB: Kenneth Walker III | C-AVI: 93.8 | D-AVI: 96.1
 - RB: Bucky Irving | C-AVI: 77.7 | D-AVI: 85.6
 - WR: Ja'Marr Chase | C-AVI: 90.9 | D-AVI: 98.5
-- WR: Tre Tucker | C-AVI: 63.6 | D-AVI: 65.3
+- WR: Tre Tucker | C-AVI: 63.5 | D-AVI: 65.3
 - TE: Brock Bowers | C-AVI: 94.7 | D-AVI: 93.5
-- FLEX: Brian Thomas | C-AVI: 51.6 | D-AVI: 78.5
+- FLEX: Brian Thomas Jr. | C-AVI: 51.6 | D-AVI: 78.5
 - FLEX: Jaylin Noel | C-AVI: 51.3 | D-AVI: 64.8
 
 ## Current Roster — All Player Cards
@@ -76,8 +76,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Kenneth Walker
-- Player name: Kenneth Walker
+### PLAYER: Kenneth Walker III
+- Player name: Kenneth Walker III
 - Player ID: 8151
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
@@ -189,14 +189,14 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 63.6
+- Championship AVI (C-AVI, 0-100): 63.5
 - Dynasty AVI (D-AVI, 0-100): 65.3
 - Projected PPR points: 125.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Brian Thomas
-- Player name: Brian Thomas
+### PLAYER: Brian Thomas Jr.
+- Player name: Brian Thomas Jr.
 - Player ID: 11631
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
@@ -291,7 +291,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 18.5
+- Championship AVI (C-AVI, 0-100): 18.7
 - Dynasty AVI (D-AVI, 0-100): 25.0
 - Projected PPR points: 28.8
 - Category: offense

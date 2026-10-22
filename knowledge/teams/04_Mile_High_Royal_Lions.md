@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736992907139158016
 - Division: 4
 - Waiver position: 3
-- Last updated from Sleeper exports: 2026-10-21
+- Last updated from Sleeper exports: 2026-10-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -32,12 +32,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Matthew Stafford | C-AVI: 55.4 | D-AVI: 67.0
 - RB: Jahmyr Gibbs | C-AVI: 99.0 | D-AVI: 98.4
-- RB: J.K. Dobbins | C-AVI: 51.8 | D-AVI: 64.9
+- RB: J.K. Dobbins | C-AVI: 51.9 | D-AVI: 64.9
 - WR: Drake London | C-AVI: 89.6 | D-AVI: 96.1
 - WR: Garrett Wilson | C-AVI: 86.0 | D-AVI: 92.2
 - TE: Travis Kelce | C-AVI: 78.4 | D-AVI: 79.5
-- FLEX: Dalton Schultz | C-AVI: 62.1 | D-AVI: 73.2
-- FLEX: Marvin Harrison | C-AVI: 50.4 | D-AVI: 77.4
+- FLEX: Dalton Schultz | C-AVI: 62.0 | D-AVI: 73.2
+- FLEX: Marvin Harrison Jr. | C-AVI: 50.4 | D-AVI: 77.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -76,8 +76,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Michael Penix
-- Player name: Michael Penix
+### PLAYER: Michael Penix Jr.
+- Player name: Michael Penix Jr.
 - Player ID: 11559
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 51.8
+- Championship AVI (C-AVI, 0-100): 51.9
 - Dynasty AVI (D-AVI, 0-100): 64.9
 - Projected PPR points: 160.2
 - Category: offense
@@ -212,8 +212,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Marvin Harrison
-- Player name: Marvin Harrison
+### PLAYER: Marvin Harrison Jr.
+- Player name: Marvin Harrison Jr.
 - Player ID: 11628
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
@@ -325,7 +325,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 62.1
+- Championship AVI (C-AVI, 0-100): 62.0
 - Dynasty AVI (D-AVI, 0-100): 73.2
 - Projected PPR points: 150.9
 - Category: offense

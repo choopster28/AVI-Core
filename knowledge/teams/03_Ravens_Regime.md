@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 992908759074680832
 - Division: 3
 - Waiver position: 4
-- Last updated from Sleeper exports: 2026-10-21
+- Last updated from Sleeper exports: 2026-10-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 574.3
-- championship_lineup_c_avi_avg: 71.79
-- offensive_roster_c_avi_sum: 904.8
-- offensive_roster_c_avi_avg: 53.22
+- championship_lineup_c_avi_sum: 558.2
+- championship_lineup_c_avi_avg: 69.78
+- offensive_roster_c_avi_sum: 905.2
+- offensive_roster_c_avi_avg: 53.25
 - offensive_roster_d_avi_sum: 1214.3
 - offensive_roster_d_avi_avg: 71.43
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -32,12 +32,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Lamar Jackson | C-AVI: 74.7 | D-AVI: 88.4
 - RB: Derrick Henry | C-AVI: 90.5 | D-AVI: 85.2
-- RB: Kyle Monangai | C-AVI: 67.7 | D-AVI: 76.7
+- RB: Tony Pollard | C-AVI: 51.7 | D-AVI: 69.8
 - WR: Zay Flowers | C-AVI: 88.8 | D-AVI: 93.8
 - WR: Jaylen Waddle | C-AVI: 69.4 | D-AVI: 85.8
 - TE: Juwan Johnson | C-AVI: 65.1 | D-AVI: 77.5
-- FLEX: Carnell Tate | C-AVI: 66.4 | D-AVI: 87.4
-- FLEX: Tony Pollard | C-AVI: 51.7 | D-AVI: 69.8
+- FLEX: Carnell Tate | C-AVI: 66.5 | D-AVI: 87.4
+- FLEX: Blake Corum | C-AVI: 51.5 | D-AVI: 73.2
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 67.7
+- Championship AVI (C-AVI, 0-100): 67.6
 - Dynasty AVI (D-AVI, 0-100): 76.7
 - Projected PPR points: 154.6
 - Category: offense
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 51.4
+- Championship AVI (C-AVI, 0-100): 51.5
 - Dynasty AVI (D-AVI, 0-100): 73.2
 - Projected PPR points: 135.3
 - Category: offense
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 26.5
+- Championship AVI (C-AVI, 0-100): 26.6
 - Dynasty AVI (D-AVI, 0-100): 37.2
 - Projected PPR points: 30.1
 - Category: offense
@@ -257,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 66.4
+- Championship AVI (C-AVI, 0-100): 66.5
 - Dynasty AVI (D-AVI, 0-100): 87.4
 - Projected PPR points: 177.3
 - Category: offense
@@ -274,14 +274,14 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 43.6
+- Championship AVI (C-AVI, 0-100): 43.8
 - Dynasty AVI (D-AVI, 0-100): 79.7
 - Projected PPR points: 111.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: KC Concepcion
-- Player name: KC Concepcion
+### PLAYER: KC Concepcion Jr.
+- Player name: KC Concepcion Jr.
 - Player ID: 13298
 - Current owner team: Ravens Regime 
 - Current owner roster ID: 3

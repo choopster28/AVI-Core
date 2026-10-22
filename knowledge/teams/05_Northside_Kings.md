@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872351659366539264
 - Division: 1
 - Waiver position: 12
-- Last updated from Sleeper exports: 2026-10-21
+- Last updated from Sleeper exports: 2026-10-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -127,8 +127,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Tyrone Tracy
-- Player name: Tyrone Tracy
+### PLAYER: Tyrone Tracy Jr.
+- Player name: Tyrone Tracy Jr.
 - Player ID: 11655
 - Current owner team: Northside Kings 
 - Current owner roster ID: 5

@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 471824466389757952
 - Division: 1
 - Waiver position: 2
-- Last updated from Sleeper exports: 2026-10-21
+- Last updated from Sleeper exports: 2026-10-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 378.7
-- championship_lineup_c_avi_avg: 47.34
-- offensive_roster_c_avi_sum: 691.8
+- championship_lineup_c_avi_sum: 378.8
+- championship_lineup_c_avi_avg: 47.35
+- offensive_roster_c_avi_sum: 691.9
 - offensive_roster_c_avi_avg: 43.24
 - offensive_roster_d_avi_sum: 1031.1
 - offensive_roster_d_avi_avg: 64.44
@@ -31,7 +31,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Justin Herbert | C-AVI: 48.3 | D-AVI: 76.4
-- RB: Chris Rodriguez | C-AVI: 39.8 | D-AVI: 60.3
+- RB: Chris Rodriguez Jr. | C-AVI: 39.9 | D-AVI: 60.3
 - RB: Emmett Johnson | C-AVI: 36.2 | D-AVI: 65.5
 - WR: Jakobi Meyers | C-AVI: 58.4 | D-AVI: 71.6
 - WR: Germie Bernard | C-AVI: 46.7 | D-AVI: 64.9
@@ -93,8 +93,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Chris Rodriguez
-- Player name: Chris Rodriguez
+### PLAYER: Chris Rodriguez Jr.
+- Player name: Chris Rodriguez Jr.
 - Player ID: 10219
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 39.8
+- Championship AVI (C-AVI, 0-100): 39.9
 - Dynasty AVI (D-AVI, 0-100): 60.3
 - Projected PPR points: 132.5
 - Category: offense
@@ -195,8 +195,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Michael Pittman
-- Player name: Michael Pittman
+### PLAYER: Michael Pittman Jr.
+- Player name: Michael Pittman Jr.
 - Player ID: 6819
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
@@ -314,17 +314,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Tyler Bass
-- Player name: Tyler Bass
-- Player ID: 7042
+### PLAYER: Harrison Butker
+- Player name: Harrison Butker
+- Player ID: 4227
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
 - Position: K
 - Fantasy positions: ['K']
-- NFL team: BUF
+- NFL team: KC
 - Active: True
 - Status: Active
-- Age: 29.0
+- Age: 31.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
@@ -348,8 +348,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Rueben Bain
-- Player name: Rueben Bain
+### PLAYER: Rueben Bain Jr.
+- Player name: Rueben Bain Jr.
 - Player ID: 13340
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16

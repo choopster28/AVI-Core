@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-10-21
+- Last updated from Sleeper exports: 2026-10-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,9 +23,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 594.9
 - championship_lineup_c_avi_avg: 74.36
-- offensive_roster_c_avi_sum: 932.5
-- offensive_roster_c_avi_avg: 58.28
-- offensive_roster_d_avi_sum: 1109.7
+- offensive_roster_c_avi_sum: 932.7
+- offensive_roster_c_avi_avg: 58.29
+- offensive_roster_d_avi_sum: 1109.8
 - offensive_roster_d_avi_avg: 69.36
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 37.4
+- Championship AVI (C-AVI, 0-100): 37.5
 - Dynasty AVI (D-AVI, 0-100): 67.4
 - Projected PPR points: 67.2
 - Category: offense
@@ -195,8 +195,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Deebo Samuel
-- Player name: Deebo Samuel
+### PLAYER: Deebo Samuel Sr.
+- Player name: Deebo Samuel Sr.
 - Player ID: 5872
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8
@@ -240,14 +240,14 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 35.8
-- Dynasty AVI (D-AVI, 0-100): 35.6
+- Championship AVI (C-AVI, 0-100): 35.9
+- Dynasty AVI (D-AVI, 0-100): 35.7
 - Projected PPR points: 27.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Odell Beckham
-- Player name: Odell Beckham
+### PLAYER: Odell Beckham Jr.
+- Player name: Odell Beckham Jr.
 - Player ID: 2078
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8
@@ -331,8 +331,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Will Anderson
-- Player name: Will Anderson
+### PLAYER: Will Anderson Jr.
+- Player name: Will Anderson Jr.
 - Player ID: 10892
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8
@@ -382,8 +382,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Derwin James
-- Player name: Derwin James
+### PLAYER: Derwin James Jr.
+- Player name: Derwin James Jr.
 - Player ID: 4971
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8

@@ -77,11 +77,10 @@
   {
     "active": true,
     "aliases": [
-      "Aaron Jones",
       "Aaron Jones Sr."
     ],
     "avi_id": "AVI-00004199",
-    "canonical_name": "Aaron Jones",
+    "canonical_name": "Aaron Jones Sr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -353,11 +352,10 @@
   {
     "active": true,
     "aliases": [
-      "Anthony Richardson",
       "Anthony Richardson Sr."
     ],
     "avi_id": "AVI-00009229",
-    "canonical_name": "Anthony Richardson",
+    "canonical_name": "Anthony Richardson Sr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -954,11 +952,10 @@
   {
     "active": true,
     "aliases": [
-      "Brian Robinson",
       "Brian Robinson Jr."
     ],
     "avi_id": "AVI-00008154",
-    "canonical_name": "Brian Robinson",
+    "canonical_name": "Brian Robinson Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -980,11 +977,10 @@
   {
     "active": true,
     "aliases": [
-      "Brian Thomas",
       "Brian Thomas Jr."
     ],
     "avi_id": "AVI-00011631",
-    "canonical_name": "Brian Thomas",
+    "canonical_name": "Brian Thomas Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -1756,11 +1752,10 @@
   {
     "active": true,
     "aliases": [
-      "Chris Brazzell",
       "Chris Brazzell II"
     ],
     "avi_id": "AVI-00013353",
-    "canonical_name": "Chris Brazzell",
+    "canonical_name": "Chris Brazzell II",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -1807,11 +1802,10 @@
   {
     "active": true,
     "aliases": [
-      "Chris Godwin",
       "Chris Godwin Jr."
     ],
     "avi_id": "AVI-00004037",
-    "canonical_name": "Chris Godwin",
+    "canonical_name": "Chris Godwin Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -1858,11 +1852,10 @@
   {
     "active": true,
     "aliases": [
-      "Chris Rodriguez",
       "Chris Rodriguez Jr."
     ],
     "avi_id": "AVI-00010219",
-    "canonical_name": "Chris Rodriguez",
+    "canonical_name": "Chris Rodriguez Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -2909,11 +2902,10 @@
   {
     "active": true,
     "aliases": [
-      "Deebo Samuel",
       "Deebo Samuel Sr."
     ],
     "avi_id": "AVI-00005872",
-    "canonical_name": "Deebo Samuel",
+    "canonical_name": "Deebo Samuel Sr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -3260,11 +3252,10 @@
   {
     "active": true,
     "aliases": [
-      "Dont'e Thornton",
       "Dont'e Thornton Jr."
     ],
     "avi_id": "AVI-00012541",
-    "canonical_name": "Dont'e Thornton",
+    "canonical_name": "Dont'e Thornton Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -3511,11 +3502,10 @@
   {
     "active": true,
     "aliases": [
-      "Efton Chism",
       "Efton Chism III"
     ],
     "avi_id": "AVI-00012542",
-    "canonical_name": "Efton Chism",
+    "canonical_name": "Efton Chism III",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -3837,11 +3827,10 @@
   {
     "active": true,
     "aliases": [
-      "Erick All",
       "Erick All Jr."
     ],
     "avi_id": "AVI-00011592",
-    "canonical_name": "Erick All",
+    "canonical_name": "Erick All Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -3938,11 +3927,10 @@
   {
     "active": true,
     "aliases": [
-      "Frank Gore",
       "Frank Gore Jr."
     ],
     "avi_id": "AVI-00011573",
-    "canonical_name": "Frank Gore",
+    "canonical_name": "Frank Gore Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -3989,11 +3977,10 @@
   {
     "active": true,
     "aliases": [
-      "Gardner Minshew",
       "Gardner Minshew II"
     ],
     "avi_id": "AVI-00006011",
-    "canonical_name": "Gardner Minshew",
+    "canonical_name": "Gardner Minshew II",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -4240,11 +4227,10 @@
   {
     "active": true,
     "aliases": [
-      "Harold Fannin",
       "Harold Fannin Jr."
     ],
     "avi_id": "AVI-00012506",
-    "canonical_name": "Harold Fannin",
+    "canonical_name": "Harold Fannin Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -5316,11 +5302,10 @@
   {
     "active": true,
     "aliases": [
-      "James Cook",
       "James Cook III"
     ],
     "avi_id": "AVI-00008138",
-    "canonical_name": "James Cook",
+    "canonical_name": "James Cook III",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -5892,11 +5877,10 @@
   {
     "active": true,
     "aliases": [
-      "Jimmy Horn",
       "Jimmy Horn Jr."
     ],
     "avi_id": "AVI-00012523",
-    "canonical_name": "Jimmy Horn",
+    "canonical_name": "Jimmy Horn Jr.",
     "match": {
       "confidence": "review",
       "method": "exact_name_position"
@@ -6044,11 +6028,10 @@
   {
     "active": true,
     "aliases": [
-      "John Metchie",
       "John Metchie III"
     ],
     "avi_id": "AVI-00008147",
-    "canonical_name": "John Metchie",
+    "canonical_name": "John Metchie III",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -6720,10 +6703,11 @@
   {
     "active": true,
     "aliases": [
-      "KC Concepcion"
+      "KC Concepcion",
+      "KC Concepcion Jr."
     ],
     "avi_id": "AVI-00013298",
-    "canonical_name": "KC Concepcion",
+    "canonical_name": "KC Concepcion Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -7170,11 +7154,10 @@
   {
     "active": true,
     "aliases": [
-      "Kenneth Walker",
       "Kenneth Walker III"
     ],
     "avi_id": "AVI-00008151",
-    "canonical_name": "Kenneth Walker",
+    "canonical_name": "Kenneth Walker III",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -7271,11 +7254,10 @@
   {
     "active": true,
     "aliases": [
-      "Kevin Coleman",
       "Kevin Coleman Jr."
     ],
     "avi_id": "AVI-00013338",
-    "canonical_name": "Kevin Coleman",
+    "canonical_name": "Kevin Coleman Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -7447,11 +7429,10 @@
   {
     "active": true,
     "aliases": [
-      "Kyle Pitts",
       "Kyle Pitts Sr."
     ],
     "avi_id": "AVI-00007553",
-    "canonical_name": "Kyle Pitts",
+    "canonical_name": "Kyle Pitts Sr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -7623,11 +7604,10 @@
   {
     "active": true,
     "aliases": [
-      "LeQuint Allen",
       "LeQuint Allen Jr."
     ],
     "avi_id": "AVI-00012544",
-    "canonical_name": "LeQuint Allen",
+    "canonical_name": "LeQuint Allen Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -7775,11 +7755,10 @@
   {
     "active": true,
     "aliases": [
-      "Luther Burden",
       "Luther Burden III"
     ],
     "avi_id": "AVI-00012519",
-    "canonical_name": "Luther Burden",
+    "canonical_name": "Luther Burden III",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -8177,11 +8156,10 @@
   {
     "active": true,
     "aliases": [
-      "Marvin Harrison",
       "Marvin Harrison Jr."
     ],
     "avi_id": "AVI-00011628",
-    "canonical_name": "Marvin Harrison",
+    "canonical_name": "Marvin Harrison Jr.",
     "match": {
       "confidence": "review",
       "method": "exact_name_position"
@@ -8203,11 +8181,10 @@
   {
     "active": true,
     "aliases": [
-      "Marvin Mims",
       "Marvin Mims Jr."
     ],
     "avi_id": "AVI-00009494",
-    "canonical_name": "Marvin Mims",
+    "canonical_name": "Marvin Mims Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -8454,11 +8431,10 @@
   {
     "active": true,
     "aliases": [
-      "Michael Penix",
       "Michael Penix Jr."
     ],
     "avi_id": "AVI-00011559",
-    "canonical_name": "Michael Penix",
+    "canonical_name": "Michael Penix Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -8480,11 +8456,10 @@
   {
     "active": true,
     "aliases": [
-      "Michael Pittman",
       "Michael Pittman Jr."
     ],
     "avi_id": "AVI-00006819",
-    "canonical_name": "Michael Pittman",
+    "canonical_name": "Michael Pittman Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -8607,11 +8582,10 @@
   {
     "active": true,
     "aliases": [
-      "Mike Washington",
       "Mike Washington Jr."
     ],
     "avi_id": "AVI-00013305",
-    "canonical_name": "Mike Washington",
+    "canonical_name": "Mike Washington Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -8883,11 +8857,10 @@
   {
     "active": true,
     "aliases": [
-      "Odell Beckham",
       "Odell Beckham Jr."
     ],
     "avi_id": "AVI-00002078",
-    "canonical_name": "Odell Beckham",
+    "canonical_name": "Odell Beckham Jr.",
     "match": {
       "confidence": "review",
       "method": "exact_name_position"
@@ -8934,11 +8907,10 @@
   {
     "active": true,
     "aliases": [
-      "Ollie Gordon",
       "Ollie Gordon II"
     ],
     "avi_id": "AVI-00012495",
-    "canonical_name": "Ollie Gordon",
+    "canonical_name": "Ollie Gordon II",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -8960,11 +8932,10 @@
   {
     "active": true,
     "aliases": [
-      "Omar Cooper",
       "Omar Cooper Jr."
     ],
     "avi_id": "AVI-00013276",
-    "canonical_name": "Omar Cooper",
+    "canonical_name": "Omar Cooper Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -9188,11 +9159,10 @@
   {
     "active": true,
     "aliases": [
-      "Pierre Strong",
       "Pierre Strong Jr."
     ],
     "avi_id": "AVI-00008116",
-    "canonical_name": "Pierre Strong",
+    "canonical_name": "Pierre Strong Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -9639,11 +9609,10 @@
   {
     "active": true,
     "aliases": [
-      "Robert Henry",
       "Robert Henry Jr."
     ],
     "avi_id": "AVI-00013418",
-    "canonical_name": "Robert Henry",
+    "canonical_name": "Robert Henry Jr.",
     "match": {
       "confidence": "review",
       "method": "exact_name_position"
@@ -10490,11 +10459,10 @@
   {
     "active": true,
     "aliases": [
-      "Ted Hurst",
       "Ted Hurst III"
     ],
     "avi_id": "AVI-00013317",
-    "canonical_name": "Ted Hurst",
+    "canonical_name": "Ted Hurst III",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -10691,11 +10659,10 @@
   {
     "active": true,
     "aliases": [
-      "Theo Wease",
       "Theo Wease Jr."
     ],
     "avi_id": "AVI-00012860",
-    "canonical_name": "Theo Wease",
+    "canonical_name": "Theo Wease Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -10817,11 +10784,10 @@
   {
     "active": true,
     "aliases": [
-      "Travis Etienne",
       "Travis Etienne Jr."
     ],
     "avi_id": "AVI-00007543",
-    "canonical_name": "Travis Etienne",
+    "canonical_name": "Travis Etienne Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
@@ -11543,11 +11509,10 @@
   {
     "active": true,
     "aliases": [
-      "Tyrone Tracy",
       "Tyrone Tracy Jr."
     ],
     "avi_id": "AVI-00011655",
-    "canonical_name": "Tyrone Tracy",
+    "canonical_name": "Tyrone Tracy Jr.",
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"

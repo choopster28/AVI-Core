@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 990097041671892992
 - Division: 4
 - Waiver position: 14
-- Last updated from Sleeper exports: 2026-10-21
+- Last updated from Sleeper exports: 2026-10-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 532.7
-- championship_lineup_c_avi_avg: 66.59
-- offensive_roster_c_avi_sum: 881.0
-- offensive_roster_c_avi_avg: 55.06
-- offensive_roster_d_avi_sum: 1096.8
-- offensive_roster_d_avi_avg: 68.55
+- championship_lineup_c_avi_sum: 532.9
+- championship_lineup_c_avi_avg: 66.61
+- offensive_roster_c_avi_sum: 881.2
+- offensive_roster_c_avi_avg: 55.08
+- offensive_roster_d_avi_sum: 1096.9
+- offensive_roster_d_avi_avg: 68.56
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Bo Nix | C-AVI: 50.3 | D-AVI: 74.7
 - RB: Kyren Williams | C-AVI: 87.0 | D-AVI: 90.1
-- RB: Aaron Jones | C-AVI: 61.0 | D-AVI: 64.4
+- RB: Aaron Jones Sr. | C-AVI: 61.1 | D-AVI: 64.5
 - WR: Christian Watson | C-AVI: 87.1 | D-AVI: 90.6
 - WR: Emeka Egbuka | C-AVI: 74.3 | D-AVI: 90.6
 - TE: Jake Ferguson | C-AVI: 51.3 | D-AVI: 76.9
 - FLEX: Jameson Williams | C-AVI: 68.8 | D-AVI: 84.4
-- FLEX: Alvin Kamara | C-AVI: 52.9 | D-AVI: 58.9
+- FLEX: Alvin Kamara | C-AVI: 53.0 | D-AVI: 58.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -93,8 +93,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Aaron Jones
-- Player name: Aaron Jones
+### PLAYER: Aaron Jones Sr.
+- Player name: Aaron Jones Sr.
 - Player ID: 4199
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 61.0
-- Dynasty AVI (D-AVI, 0-100): 64.4
+- Championship AVI (C-AVI, 0-100): 61.1
+- Dynasty AVI (D-AVI, 0-100): 64.5
 - Projected PPR points: 137.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 52.9
+- Championship AVI (C-AVI, 0-100): 53.0
 - Dynasty AVI (D-AVI, 0-100): 58.9
 - Projected PPR points: 63.0
 - Category: offense

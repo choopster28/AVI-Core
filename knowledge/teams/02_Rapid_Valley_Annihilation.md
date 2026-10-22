@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1178861684281753600
 - Division: 2
 - Waiver position: 15
-- Last updated from Sleeper exports: 2026-10-21
+- Last updated from Sleeper exports: 2026-10-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 454.6
-- championship_lineup_c_avi_avg: 56.83
+- championship_lineup_c_avi_sum: 454.7
+- championship_lineup_c_avi_avg: 56.84
 - offensive_roster_c_avi_sum: 769.6
 - offensive_roster_c_avi_avg: 45.27
 - offensive_roster_d_avi_sum: 1120.2
@@ -32,9 +32,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Caleb Williams | C-AVI: 73.4 | D-AVI: 85.2
 - RB: Quinshon Judkins | C-AVI: 71.0 | D-AVI: 85.0
-- RB: Ollie Gordon | C-AVI: 41.0 | D-AVI: 55.9
+- RB: Ollie Gordon II | C-AVI: 41.1 | D-AVI: 55.9
 - WR: Denzel Boston | C-AVI: 61.1 | D-AVI: 81.0
-- WR: Omar Cooper | C-AVI: 56.7 | D-AVI: 74.1
+- WR: Omar Cooper Jr. | C-AVI: 56.7 | D-AVI: 74.1
 - TE: Colston Loveland | C-AVI: 61.7 | D-AVI: 86.2
 - FLEX: Adonai Mitchell | C-AVI: 45.6 | D-AVI: 68.6
 - FLEX: Quentin Johnston | C-AVI: 44.1 | D-AVI: 69.5
@@ -93,8 +93,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Ollie Gordon
-- Player name: Ollie Gordon
+### PLAYER: Ollie Gordon II
+- Player name: Ollie Gordon II
 - Player ID: 12495
 - Current owner team: Rapid Valley Annihilation
 - Current owner roster ID: 2
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 41.0
+- Championship AVI (C-AVI, 0-100): 41.1
 - Dynasty AVI (D-AVI, 0-100): 55.9
 - Projected PPR points: 23.2
 - Category: offense
@@ -144,8 +144,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Omar Cooper
-- Player name: Omar Cooper
+### PLAYER: Omar Cooper Jr.
+- Player name: Omar Cooper Jr.
 - Player ID: 13276
 - Current owner team: Rapid Valley Annihilation
 - Current owner roster ID: 2
@@ -212,8 +212,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Ted Hurst
-- Player name: Ted Hurst
+### PLAYER: Ted Hurst III
+- Player name: Ted Hurst III
 - Player ID: 13317
 - Current owner team: Rapid Valley Annihilation
 - Current owner roster ID: 2
@@ -257,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 28.9
+- Championship AVI (C-AVI, 0-100): 28.8
 - Dynasty AVI (D-AVI, 0-100): 42.6
 - Projected PPR points: 26.8
 - Category: offense
