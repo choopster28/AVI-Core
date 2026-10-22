@@ -748,6 +748,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 16
 - Team file: 16_Crimson_Tide_Pods.md
 
+## PLAYER LOOKUP: Greg Dulcich
+- Player name: Greg Dulcich
+- Player ID: 8172
+- Position: TE
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
+
 ## PLAYER LOOKUP: Gunnar Helm
 - Player name: Gunnar Helm
 - Player ID: 12502
@@ -1500,14 +1508,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
 
-## PLAYER LOOKUP: Najee Harris
-- Player name: Najee Harris
-- Player ID: 7528
-- Position: RB
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
-
 ## PLAYER LOOKUP: Nico Collins
 - Player name: Nico Collins
 - Player ID: 7569
@@ -2056,15 +2056,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 67.0
 - Availability: available
 
-## AVAILABLE PLAYER: Greg Dulcich
-- Player name: Greg Dulcich
-- Player ID: 8172
-- Position: TE
-- NFL team: MIA
-- Championship AVI (C-AVI, 0-100): 38.6
-- Dynasty AVI (D-AVI, 0-100): 62.4
-- Availability: available
-
 ## AVAILABLE PLAYER: Mason Taylor
 - Player name: Mason Taylor
 - Player ID: 12498
@@ -2549,6 +2540,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: KC
 - Championship AVI (C-AVI, 0-100): 28.7
 - Dynasty AVI (D-AVI, 0-100): 50.4
+- Availability: available
+
+## AVAILABLE PLAYER: Najee Harris
+- Player name: Najee Harris
+- Player ID: 7528
+- Position: RB
+- NFL team: NYG
+- Championship AVI (C-AVI, 0-100): 28.7
+- Dynasty AVI (D-AVI, 0-100): 43.5
 - Availability: available
 
 ## AVAILABLE PLAYER: AJ Dillon

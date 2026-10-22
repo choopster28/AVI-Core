@@ -27,18 +27,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00008172",
-      "c_avi": 38.6,
-      "d_avi": 62.4,
-      "nfl_team": "MIA",
-      "player_name": "Greg Dulcich",
-      "position": "TE",
-      "sleeper_id": "8172",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00012498",
       "c_avi": 37.6,
       "d_avi": 65.1,
@@ -682,6 +670,18 @@
       "player_name": "Justin Fields",
       "position": "QB",
       "sleeper_id": "7591",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00007528",
+      "c_avi": 28.7,
+      "d_avi": 43.5,
+      "nfl_team": "NYG",
+      "player_name": "Najee Harris",
+      "position": "RB",
+      "sleeper_id": "7528",
       "status": "Active"
     },
     {
@@ -4197,6 +4197,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00008172",
+      "c_avi": 38.6,
+      "d_avi": 62.4,
+      "nfl_team": "MIA",
+      "owner_id": "863881053000011776",
+      "player_name": "Greg Dulcich",
+      "position": "TE",
+      "roster_id": 9,
+      "sleeper_id": "8172",
+      "status": "Active",
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00012502",
       "c_avi": 40.3,
       "d_avi": 66.3,
@@ -5697,22 +5713,6 @@
       "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00007528",
-      "c_avi": 28.7,
-      "d_avi": 43.5,
-      "nfl_team": "NYG",
-      "owner_id": "863881053000011776",
-      "player_name": "Najee Harris",
-      "position": "RB",
-      "roster_id": 9,
-      "sleeper_id": "7528",
-      "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
