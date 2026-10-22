@@ -1,5 +1,338 @@
 [
   {
+    "id": "mvirx39x-3db231cd",
+    "createdAt": 1792627209839,
+    "expiresAt": 1793059209839,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Mile High Royal Lions ↔ Big Balder Brand",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Mile High Royal Lions",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Big Balder Brand",
+      "targetAssets": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Travis Kelce",
+          "assetType": "player"
+        },
+        {
+          "name": "J.K. Dobbins",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+          "assetType": "pick"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Mile High Royal Lions requested a trade proposal to acquire RB Saquon Barkley and TE Trey McBride from Big Balder Brand using foundation assets Travis Kelce, J.K. Dobbins, and a 2027 2nd-round pick (All Hail King Jesus). Big Balder Brand is an Elite Contender with an explicit 'Win Championship' goal who previously traded significant capital (including a 1st-round pick) to acquire 26-year-old elite TE Trey McBride. Trading McBride and Barkley for 37-year-old Travis Kelce, J.K. Dobbins, and a 2nd-round pick severely damages Big Balder Brand's starting lineup and championship window. Furthermore, any offer sufficient to pry McBride away from an Elite Contender would require Mile High to surrender Jahmyr Gibbs or Garrett Wilson/Drake London, which would gut Mile High's own roster and directly violate their objective to Increase Championship Odds. Consequently, Market Reality dictates that no realistic trade exists between these two franchises for this asset combination.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Travis Kelce",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "TE",
+              "age": 37,
+              "cavi": 78.4,
+              "davi": 79.5,
+              "publicMarket": 75,
+              "leagueMarket": 78.4
+            },
+            {
+              "name": "J.K. Dobbins",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 27,
+              "cavi": 51.8,
+              "davi": 64.9,
+              "publicMarket": 58,
+              "leagueMarket": 51.8
+            },
+            {
+              "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 60.3,
+              "davi": 82.9,
+              "publicMarket": 75,
+              "leagueMarket": 60.3
+            },
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 92,
+              "davi": 92.4,
+              "publicMarket": 94,
+              "leagueMarket": 92
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "F",
+            "userShare": 80,
+            "otherShare": 20,
+            "advantageFranchise": "Mile High Royal Lions",
+            "summary": "The foundation package is extraordinarily favorable for Mile High Royal Lions. Acquiring elite TE Trey McBride (age 26) and RB Saquon Barkley for aging Travis Kelce (age 37), J.K. Dobbins, and a 2027 2nd-round pick would solve Mile High's TE longevity while upgrading FLEX depth, but it represents an unacceptable starting lineup and dynasty downgrade for Big Balder Brand."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 65,
+              "summary": "Major potential boost to TE longevity and overall starting lineup ceiling if completed."
+            },
+            "championshipOutlook": {
+              "score": 70,
+              "summary": "Upgrades TE from aging Travis Kelce to elite cornerstone Trey McBride (+13.6 C-AVI) and adds high-upside RB depth with Saquon Barkley."
+            },
+            "dynastyOutlook": {
+              "score": 75,
+              "summary": "Secures an elite 26-year-old TE1 while shedding a 37-year-old veteran TE."
+            },
+            "lineupQuality": {
+              "score": 70,
+              "summary": "Immediate improvement in starting TE slot and FLEX efficiency."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Subtle shift in RB depth giving up Dobbins for Barkley, maintaining strong overall bench depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Minor reduction in draft capital flexibility by sending a 2027 2nd-round pick."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -75,
+              "summary": "Devastating starting lineup and dynasty downgrade for an Elite Contender."
+            },
+            "championshipOutlook": {
+              "score": -80,
+              "summary": "Directly downgrades starting TE from Trey McBride (92.0 C-AVI) to Travis Kelce (78.4 C-AVI) and weakens FLEX ceiling during a championship run."
+            },
+            "dynastyOutlook": {
+              "score": -85,
+              "summary": "Severe dynasty destruction by trading away 26-year-old TE1 McBride for 37-year-old Kelce."
+            },
+            "lineupQuality": {
+              "score": -75,
+              "summary": "Creates immediate structural production gaps at TE1 and FLEX."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Receives J.K. Dobbins as RB depth, which does not compensate for losing Barkley's upside."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Gains a future 2027 2nd-round pick, which offers zero short-term utility for a Win Championship mandate."
+            }
+          },
+          "explanation": "The proposed asset movement represents a massive net transfer from Big Balder Brand to Mile High Royal Lions. Big Balder Brand, as an Elite Contender focused on winning the 2026 title, would cripple its TE dominance and age its roster significantly by trading away Trey McBride."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Mile High Royal Lions upgrades starting TE from Kelce (78.4 C-AVI) to McBride (92.0 C-AVI), gaining +13.6 C-AVI points at TE while adding Saquon Barkley into the FLEX mix.",
+          "sideADynastyImpact": "Extremely positive dynasty impact (+12.9 D-AVI at TE) swapping a 37-year-old tight end for a 26-year-old elite asset.",
+          "sideARosterImpact": "Consolidates veteran capital and a 2nd-round pick into an elite young TE cornerstone and premier RB.",
+          "sideBChampionshipImpact": "Big Balder Brand suffers a severe downgrade at starting TE (-13.6 C-AVI) and surrenders high-ceiling RB depth, actively harming their 2026 title pursuit.",
+          "sideBDynastyImpact": "Catastrophic dynasty loss for Big Balder Brand, surrendering age-26 McBride for age-37 Kelce.",
+          "sideBRosterImpact": "Creates an immediate, significant hole at starting TE and adds an aging veteran alongside an injury-prone RB2.",
+          "valueAssessment": "Summed incoming C-AVI for Mile High is 152.3 against outgoing 130.2 player C-AVI plus a 48.5 pick AVI. However, asset quality, age distribution, and positional scarcity make this trade structurally impossible for Big Balder Brand."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus views Trey McBride as a top-3 elite dynasty TE (TE1/TE2 overall) due to unmatched target volume in Arizona. Saquon Barkley remains a high-end starter when active, despite managing a short-term hamstring issue. Travis Kelce is valued as an aging, win-now veteran near retirement.",
+          "aviVsMarket": "AVI and public market consensus align closely. Both value McBride as a premier foundational TE (92.0 AVI) and Kelce as an aging redraft weapon (78.4 AVI). Market sentiment on Barkley acknowledges his elite ceiling while discounting his age (29) and short-term hamstring recovery.",
+          "relevantContext": [
+            "Trey McBride commands elite target share in Arizona and is a foundational dynasty TE1.",
+            "Saquon Barkley is dealing with a week-to-week hamstring strain but maintains strong stretch-run utility.",
+            "Travis Kelce is 37 years old, placing his dynasty lifespan near completion.",
+            "Big Balder Brand paid a 2028 1st-round pick and George Kittle earlier this season specifically to acquire Trey McBride."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Big Balder Brand (Choopski) is an Elite Contender whose verified goal is Win Championship. They have zero incentive to move 26-year-old elite TE Trey McBride, whom they specifically acquired earlier this season to anchor their TE position.",
+          "packageFit": "The foundation package (Kelce, Dobbins, 2027 2nd) offers an aging substitute at TE, a mid-tier RB2, and non-premium pick capital that holds no appeal for an Elite Contender.",
+          "lineupReplacement": "Travis Kelce represents a steep production and longevity downgrade from Trey McBride, while J.K. Dobbins does not match Barkley's ceiling in Big Balder Brand's FLEX.",
+          "competitiveWindowFit": "Directly conflicts with Big Balder Brand's competitive window by aging their starting roster and lowering their weekly scoring ceiling.",
+          "positionalScarcity": "Tight end is a highly scarce elite position in PPR formats. Surrendering an elite 26-year-old TE1 without receiving an elite young star or overwhelming premier value destroys Big Balder Brand's competitive edge."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 5,
+            "packageMatch": 5,
+            "lineupReplacement": 5,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 47,
+          "classification": "Unlikely",
+          "explanation": "Big Balder Brand is an Elite Contender whose goal is Win Championship. They recently traded heavy capital for Trey McBride. Surrendering McBride and Barkley for Kelce, Dobbins, and a 2nd fails manager motivation, package match, lineup replacement, and competitive window validations."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Big Balder Brand is an Elite Contender whose goal is Win Championship. They recently traded heavy capital for Trey McBride. Surrendering McBride and Barkley for Kelce, Dobbins, and a 2nd fails manager motivation, package match, lineup replacement, and competitive window validations.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Big Balder Brand is an Elite Contender whose goal is Win Championship. They recently traded heavy capital for Trey McBride. Surrendering McBride and Barkley for Kelce, Dobbins, and a 2nd fails manager motivation, package match, lineup replacement, and competitive window validations.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Big Balder Brand (Choopski) is an Elite Contender whose verified goal is Win Championship. They have zero incentive to move 26-year-old elite TE Trey McBride, whom they specifically acquired earlier this season to anchor their TE position."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "The foundation package (Kelce, Dobbins, 2027 2nd) offers an aging substitute at TE, a mid-tier RB2, and non-premium pick capital that holds no appeal for an Elite Contender."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "Travis Kelce represents a steep production and longevity downgrade from Trey McBride, while J.K. Dobbins does not match Barkley's ceiling in Big Balder Brand's FLEX."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Directly conflicts with Big Balder Brand's competitive window by aging their starting roster and lowering their weekly scoring ceiling."
+            }
+          ],
+          "opponentPerspective": "Big Balder Brand (Choopski) is an Elite Contender whose verified goal is Win Championship. They have zero incentive to move 26-year-old elite TE Trey McBride, whom they specifically acquired earlier this season to anchor their TE position.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "The foundation package (Kelce, Dobbins, 2027 2nd) offers an aging substitute at TE, a mid-tier RB2, and non-premium pick capital that holds no appeal for an Elite Contender.",
+          "whatWouldNeedToChange": [
+            "Big Balder Brand (Choopski) is an Elite Contender whose verified goal is Win Championship. They have zero incentive to move 26-year-old elite TE Trey McBride, whom they specifically acquired earlier this season to anchor their TE position.",
+            "The foundation package (Kelce, Dobbins, 2027 2nd) offers an aging substitute at TE, a mid-tier RB2, and non-premium pick capital that holds no appeal for an Elite Contender.",
+            "Travis Kelce represents a steep production and longevity downgrade from Trey McBride, while J.K. Dobbins does not match Barkley's ceiling in Big Balder Brand's FLEX.",
+            "Directly conflicts with Big Balder Brand's competitive window by aging their starting roster and lowering their weekly scoring ceiling."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Trey McBride news 2026 NFL fantasy",
+          "Saquon Barkley news 2026 NFL fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSLYrpiMfgK8Gtk3MTefF925gVg9b-o_qNJS3SdZ4ZL4BHhbgptWnUsDSeO925hKt8dnOUV0uf-p_FGdA5zuIgD-MLLaikRFm2YwPmmEA0-aGkgNWRbh5qEpkS87H2coZSO_VodUFTK6-FB9JNyjy6rpNxwoPUPwbTNQc=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkGI9xSF2mFBRI4v5e82XJBRoVuVoNEdCWkXofu2ZS2OpfcgrgQFU_FenyzbX9BXOmS9zCXVtM_1w8sYzvHfxoS6pdXYpyyPtQhNNXr2pzk6c2d8eaXZu-sBEpgFf58x2nmy7ZZPswa46WTsHSEFl7dByxZTg7dyqACEIE3w3z6apaOEztHRFi2ib1wqBTPdO5wPu27_044P1dNUlI2jJLmYHRV2xURGv6xUmoJKvV",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2kZXgVIqeYVLUwtkgHFmMpi7ZK7fZby-bRMJaacJzjsKyCTjlE_GfMOIclNUvSwBtMnMWRXa6ZfOEavyEkzn8xA5zcmL7xa3HSMEhX69W7-8Y__CTaFEELgsBN-vksk4ph4ix9c5AlbHdZpyJegjLSNz1CsWl3Q==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGqPSs3CT71ecu7B7YE21qZvoNSCcizuYwawDu7ArrSUndSHR_DFgY02pwAukSTVRxPRWzoIf53bWr0owh_AAU59YRJfTZRcDdMsUU2LjmxPiO3F6jHU0YahNjiB7omgnmnkPg_UDlDuj6PYqzo8nQLIOIR69HG2yHlSS7aCrSisCVUGfWEb75TkNZxiD6LKChn8oPZOxWAOMqXA56iSIc2hv3Q0T-Zw==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCaEjpPNJ6Iu34Moj2ZE7ibqpk7hcntHqQWzx9CVzrfOptB0xU31wUEjGu5QX8IELfi8eTvPIF9Yn5GK5w1KBVqzaEd65GMOgffUvlR_a3Oi5kErf0pF-CYPVnhsSQy-YZvJhf2_iRHI_ojfsVdISl16E9KFhvcKnXHMeQDLlDvzU3xAgZqGrRMvOTOXHn8ZU8TCD0SnM2hs0fQNcMTWPHYLnX9zkJOgAFjIny",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8rptEBfw088_FOAiRuz6nNoSWs7fJUlG2UmM3fckbmDJkzGBdshSZYZWAbBlmMkSntnQ3eWC9PQhaaeIy835crd0wfvIO99BPVahBRGtiYnm9sZODxjbQXAQ-ubxWt0hVFF4RI0PaA_Vex7jggkox2_CzVHB4bnEI",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWmD1PYeDSnCMwmjldyeUC44c3jDnVhePDHGDhvQHEgpWKfGfZ96oqOwPpfIw3rKzxj6c6pzNkn4ZDf_asmRpdVkbaBNvFPv5EXmQkb8NwPDIjzzT6_bGy-e15h6zVo8EZkqscI2CIU38BNjswy3EwQcaJ3mY=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXvn_fNXnj67PZRc7j4xpXyZyjnWbp3WE2B0IcqRrcCXRrwG5V0zpu8yb6YpnEQReFhP1YVeWhch-x42BT-ed5fsaMN8UNgHtYjHfAlHPg86JM2TW1dNx5zu1UP-haEr6k1XMCGEKxqZ6K2AEN7BNIYNabLZA8tsYjgs7geeCWgA36hYyC7HqwWJeAS-3rKP0WxtJSSYZxdMFnGM7HJTYdVVVrKtTXoZCDV9BMKQg=",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "26e0a35d212f33e0638b91be5b6beb2aec1b3c6b",
+        "aviCoreCommittedAt": "2026-10-21T23:48:52Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 82950,
+        "groundedMarketChars": 2868,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mvirr3lp-7b74f9e5",
     "createdAt": 1792626926524,
     "expiresAt": 1793058926524,
