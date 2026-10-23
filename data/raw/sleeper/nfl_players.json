@@ -2795,7 +2795,7 @@
       "genius_id": "1398981",
       "rookie_year": "2023"
     },
-    "news_updated": 1792706713411,
+    "news_updated": 1792777222745,
     "number": 4,
     "oddsjam_id": "D5BE2AF21C8F",
     "opta_id": null,
@@ -8767,7 +8767,7 @@
     "team": "GB",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "337",
+    "weight": "319",
     "yahoo_id": null,
     "years_exp": 3
   },
@@ -13290,7 +13290,7 @@
     "injury_body_part": "Pectoral",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "a3b9a8b9-0e91-408f-9ee7-2ad3107fe242",
     "last_name": "Robinson",
     "metadata": {
@@ -13411,7 +13411,7 @@
     "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "681f4b15-f1e2-44c9-b0f0-5ea2489a78da",
     "last_name": "Gaines II",
     "metadata": {
@@ -37503,7 +37503,7 @@
     "full_name": "Jason Brownlee",
     "gsis_id": null,
     "hashtag": "#jasonbrownlee-NFL-NYG-89",
-    "height": "75",
+    "height": "74",
     "high_school": "West Point (MS)",
     "injury_body_part": null,
     "injury_notes": null,
@@ -37540,7 +37540,7 @@
     "team": "NYG",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "202",
+    "weight": "198",
     "yahoo_id": null,
     "years_exp": 3
   },
@@ -46120,7 +46120,7 @@
     "injury_body_part": "Calf",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "a2cee42f-1b94-47cf-9a65-31326295d2b8",
     "last_name": "Incoom",
     "metadata": {
@@ -55506,7 +55506,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2024"
     },
-    "news_updated": 1792094430771,
+    "news_updated": 1792774822647,
     "number": 25,
     "oddsjam_id": "84C4F05F8EFF",
     "opta_id": null,
@@ -55556,10 +55556,10 @@
     "hashtag": "#buckyirving-NFL-TB-7",
     "height": "70",
     "high_school": "Hillcrest (IL)",
-    "injury_body_part": "Illness",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "3012395f-ace0-482d-a616-8c3f7a4918d8",
     "last_name": "Irving",
     "metadata": {
@@ -55569,7 +55569,7 @@
       "injury_override_regular_2025_9": "Out",
       "rookie_year": "2024"
     },
-    "news_updated": 1792769122195,
+    "news_updated": 1792776622750,
     "number": 7,
     "oddsjam_id": "A45A1C03F17B",
     "opta_id": null,
@@ -56948,7 +56948,7 @@
       "injury_override_regular_2025_7": "Out",
       "rookie_year": "2024"
     },
-    "news_updated": 1792715716256,
+    "news_updated": 1792777524346,
     "number": 89,
     "oddsjam_id": "890CB831F75E",
     "opta_id": null,
@@ -70468,7 +70468,7 @@
     "team": "JAX",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "227",
+    "weight": "226",
     "yahoo_id": null,
     "years_exp": 2
   },
@@ -70983,7 +70983,7 @@
     "injury_body_part": "Biceps",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "33d255bc-24c7-49f5-8e74-a690e87162c6",
     "last_name": "Jerrell",
     "metadata": {
@@ -113803,10 +113803,10 @@
     "hashtag": "#brashardsmith-NFL-KC-24",
     "height": "70",
     "high_school": "Miami Palmetto (FL)",
-    "injury_body_part": null,
+    "injury_body_part": "Hamstring",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "f5e97b57-37bd-400a-9518-a16ffc56317e",
     "last_name": "Smith",
     "metadata": {
@@ -114696,7 +114696,7 @@
       "rookie_year": "2025",
       "source_id": "85e2aed0-863f-11ec-8b4f-bfdcdbacd7ed"
     },
-    "news_updated": 1792704613226,
+    "news_updated": 1792777523259,
     "number": 22,
     "oddsjam_id": "636C1E9B510528E0",
     "opta_id": null,
@@ -117715,7 +117715,7 @@
       "rookie_year": "2025",
       "source_id": "b0c3a640-863a-11ec-ac3f-2f01cb0af5e4"
     },
-    "news_updated": 1792704313162,
+    "news_updated": 1792777224402,
     "number": 10,
     "oddsjam_id": "EFD3A435BF24E96E",
     "opta_id": null,
@@ -117825,7 +117825,7 @@
     "injury_body_part": "Concussion",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Doubtful",
+    "injury_status": "Out",
     "kalshi_id": "3d2fa9ca-6d4a-4d11-ad59-e17d0630498e",
     "last_name": "Egbuka",
     "metadata": {
@@ -117834,7 +117834,7 @@
       "rookie_year": "2025",
       "source_id": "d7f54546-46ed-45c6-9ecc-b23c65ee6679"
     },
-    "news_updated": 1792773922792,
+    "news_updated": 1792776022675,
     "number": 2,
     "oddsjam_id": "93527AC8024DA07C",
     "opta_id": null,
@@ -118073,7 +118073,7 @@
     "injury_body_part": "Groin",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "36a35fe8-2829-4d2b-9b05-0d46ef1bb6e7",
     "last_name": "Warren",
     "metadata": {
@@ -118082,7 +118082,7 @@
       "rookie_year": "2025",
       "source_id": "1e9c9776-39f1-4f9f-bef6-b86cbbe274a0"
     },
-    "news_updated": 1792772422246,
+    "news_updated": 1792775423902,
     "number": 84,
     "oddsjam_id": "CFC2D2F8D9BD90DE",
     "opta_id": null,
@@ -120402,7 +120402,7 @@
     "injury_body_part": "Ankle",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "2d7000ad-85f6-4a81-a0ef-3e68a48c827c",
     "last_name": "Nolen III",
     "metadata": {
@@ -126849,7 +126849,7 @@
     "injury_body_part": "Hamstring",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "84be6ef6-a891-47ee-9fc5-ab3ff6b8bf92",
     "last_name": "Bowman Jr.",
     "metadata": {
@@ -152946,7 +152946,7 @@
     "full_name": "Amari Kight",
     "gsis_id": null,
     "hashtag": "#amarikight-NFL-LV-78",
-    "height": "78",
+    "height": "79",
     "high_school": "Thompson (AL)",
     "injury_body_part": null,
     "injury_notes": null,
@@ -169761,7 +169761,7 @@
     "injury_body_part": "Ankle",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "567a2849-2939-4c91-a86b-57333d325117",
     "last_name": "Love",
     "metadata": {
@@ -169770,7 +169770,7 @@
       "rookie_year": "2026",
       "source_id": "34ee4830-92c4-11ed-8165-1b7b8311cdae"
     },
-    "news_updated": 1792712114908,
+    "news_updated": 1792777524335,
     "number": 4,
     "oddsjam_id": null,
     "opta_id": null,
@@ -171052,7 +171052,7 @@
       "rookie_year": "2026",
       "source_id": "6a695fd0-4b04-4185-8bb8-06d4f54a5739"
     },
-    "news_updated": 1792716014852,
+    "news_updated": 1792776923448,
     "number": 4,
     "oddsjam_id": null,
     "opta_id": null,
@@ -180504,10 +180504,10 @@
     "hashtag": "#monroefreeling-NFL-CAR-57",
     "height": "79",
     "high_school": "Oceanside (CA)",
-    "injury_body_part": null,
+    "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "367873c4-e453-423d-8dd3-f996c55a7786",
     "last_name": "Freeling",
     "metadata": {
@@ -184869,7 +184869,7 @@
     "full_name": "Lorenzo Styles",
     "gsis_id": null,
     "hashtag": "#lorenzostyles-NFL-NO-36",
-    "height": "71",
+    "height": "72",
     "high_school": "Pickerington Central (OH)",
     "injury_body_part": null,
     "injury_notes": null,
@@ -194509,7 +194509,7 @@
     "team": "LAR",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "315",
+    "weight": "310",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -216289,7 +216289,7 @@
     "team": "ARI",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "325",
+    "weight": "330",
     "yahoo_id": null,
     "years_exp": 0
   },
@@ -310426,7 +310426,7 @@
     "team": "DET",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "190",
+    "weight": "188",
     "yahoo_id": 28947,
     "years_exp": 11
   },
@@ -398617,7 +398617,7 @@
     "team": "NYG",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "275",
+    "weight": "264",
     "yahoo_id": 30181,
     "years_exp": 9
   },
@@ -419133,7 +419133,7 @@
     "full_name": "Kenny Moore II",
     "gsis_id": "00-0033393",
     "hashtag": "#kennymooreii-NFL-PHI-23",
-    "height": "69",
+    "height": "70",
     "high_school": "Lowndes (GA)",
     "injury_body_part": null,
     "injury_notes": null,
@@ -419170,7 +419170,7 @@
     "team": "PHI",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "179",
+    "weight": "190",
     "yahoo_id": 30669,
     "years_exp": 9
   },
@@ -448635,7 +448635,7 @@
       "injury_override_regular_2026_6": "Out",
       "rookie_year": "2018"
     },
-    "news_updated": 1792772722117,
+    "news_updated": 1792776923445,
     "number": 8,
     "oddsjam_id": "1C18E878DAB7",
     "opta_id": null,
@@ -449304,10 +449304,10 @@
     "hashtag": "#bakermayfield-NFL-TB-6",
     "height": "73",
     "high_school": "Lake Travis (TX)",
-    "injury_body_part": null,
+    "injury_body_part": "Thumb",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "075165b5-273c-4372-8950-7f01a4f1af4e",
     "last_name": "Mayfield",
     "metadata": {
@@ -449315,7 +449315,7 @@
       "genius_id": "1013868",
       "rookie_year": "2018"
     },
-    "news_updated": 1792773922792,
+    "news_updated": 1792775123021,
     "number": 6,
     "oddsjam_id": "2F8FF2DF2E69",
     "opta_id": null,
@@ -479314,7 +479314,7 @@
       "genius_id": "1017709",
       "rookie_year": "2018"
     },
-    "news_updated": 1792716015438,
+    "news_updated": 1792775724190,
     "number": 44,
     "oddsjam_id": "731C2DF6B294",
     "opta_id": null,
@@ -579021,7 +579021,7 @@
     "injury_body_part": "Ribs",
     "injury_notes": "Fracture",
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "3de97361-e7e1-4ef9-a68e-41a6f1676cb9",
     "last_name": "Winfield Jr.",
     "metadata": {
@@ -582953,7 +582953,7 @@
     "team": "DET",
     "team_abbr": null,
     "team_changed_at": null,
-    "weight": "192",
+    "weight": "185",
     "yahoo_id": 33319,
     "years_exp": 6
   },
@@ -626331,7 +626331,7 @@
       "genius_id": "1014824",
       "rookie_year": "2021"
     },
-    "news_updated": 1789595122374,
+    "news_updated": 1792776623287,
     "number": 25,
     "oddsjam_id": "682B740727E1",
     "opta_id": null,
@@ -628129,7 +628129,7 @@
     "injury_body_part": "Hamstring",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Doubtful",
+    "injury_status": "Out",
     "kalshi_id": "edcf37df-fa9a-42dc-9be1-ba583d715b36",
     "last_name": "Phillips",
     "metadata": {
@@ -630924,10 +630924,10 @@
     "hashtag": "#divinedeablo-NFL-ATL-0",
     "height": "75",
     "high_school": "Mount Tabor (NC)",
-    "injury_body_part": "Arm",
+    "injury_body_part": "Forearm",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "8b9fe7a0-d3d0-418e-92dc-04749e50af69",
     "last_name": "Deablo",
     "metadata": {
@@ -662671,7 +662671,7 @@
     "injury_body_part": "Hamstring",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "3765ace4-02cd-4f41-825d-d4d21bcb36f7",
     "last_name": "Robinson Jr.",
     "metadata": {
@@ -662679,7 +662679,7 @@
       "genius_id": "1014956",
       "rookie_year": "2022"
     },
-    "news_updated": 1792773322486,
+    "news_updated": 1792776923860,
     "number": 15,
     "oddsjam_id": "0C67949114D1",
     "opta_id": null,
@@ -678006,10 +678006,10 @@
     "hashtag": "#cameronthomas-NFL-ATL-99",
     "height": "76",
     "high_school": "Carlsbad (CA)",
-    "injury_body_part": "Ankle",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "ee075b11-c6e7-4ce2-968a-e1f32685444f",
     "last_name": "Thomas",
     "metadata": {
@@ -678067,10 +678067,10 @@
     "hashtag": "#zyonmccollum-NFL-TB-27",
     "height": "74",
     "high_school": "Ball (TX)",
-    "injury_body_part": "Illness",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "7b5bf627-09ff-4d67-9a1d-84d82b60f50f",
     "last_name": "McCollum",
     "metadata": {
@@ -682751,7 +682751,7 @@
     "injury_body_part": "Calf",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "3c2dca84-3238-45bf-9783-189e0c015233",
     "last_name": "Goedeke",
     "metadata": {
