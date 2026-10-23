@@ -9,30 +9,30 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-10-22
+- Last updated from Sleeper exports: 2026-10-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 22
-- offense: 16
+- total_players: 21
+- offense: 15
 - kickers: 1
 - idp: 5
 - other: 0
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 595.7
-- championship_lineup_c_avi_avg: 74.46
-- offensive_roster_c_avi_sum: 934.6
-- offensive_roster_c_avi_avg: 58.41
-- offensive_roster_d_avi_sum: 1133.2
-- offensive_roster_d_avi_avg: 70.83
+- championship_lineup_c_avi_sum: 598.1
+- championship_lineup_c_avi_avg: 74.76
+- offensive_roster_c_avi_sum: 911.0
+- offensive_roster_c_avi_avg: 60.73
+- offensive_roster_d_avi_sum: 1098.0
+- offensive_roster_d_avi_avg: 73.20
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 83.3 | D-AVI: 84.5
-- RB: D'Andre Swift | C-AVI: 82.5 | D-AVI: 86.9
-- RB: Kimani Vidal | C-AVI: 35.4 | D-AVI: 59.5
+- RB: D'Andre Swift | C-AVI: 82.5 | D-AVI: 86.5
+- RB: Zach Charbonnet | C-AVI: 37.8 | D-AVI: 71.0
 - WR: Amon-Ra St. Brown | C-AVI: 97.3 | D-AVI: 98.7
 - WR: Justin Jefferson | C-AVI: 87.1 | D-AVI: 96.4
 - TE: Tucker Kraft | C-AVI: 64.1 | D-AVI: 85.3
@@ -88,7 +88,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 82.5
-- Dynasty AVI (D-AVI, 0-100): 86.9
+- Dynasty AVI (D-AVI, 0-100): 86.5
 - Projected PPR points: 208.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -102,9 +102,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Fantasy positions: ['RB']
 - NFL team: SEA
 - Active: True
-- Status: Inactive
+- Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 37.7
+- Championship AVI (C-AVI, 0-100): 37.8
 - Dynasty AVI (D-AVI, 0-100): 71.0
 - Projected PPR points: 67.2
 - Category: offense
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 35.4
+- Championship AVI (C-AVI, 0-100): 35.5
 - Dynasty AVI (D-AVI, 0-100): 59.5
 - Projected PPR points: 60.0
 - Category: offense
@@ -240,26 +240,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 36.8
+- Championship AVI (C-AVI, 0-100): 36.9
 - Dynasty AVI (D-AVI, 0-100): 47.9
 - Projected PPR points: 27.7
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Odell Beckham Jr.
-- Player name: Odell Beckham Jr.
-- Player ID: 2078
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: MIN
-- Active: True
-- Status: Active
-- Age: 33.0
-- Championship AVI (C-AVI, 0-100): 23.9
-- Dynasty AVI (D-AVI, 0-100): 34.8
-- Projected PPR points: 28.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

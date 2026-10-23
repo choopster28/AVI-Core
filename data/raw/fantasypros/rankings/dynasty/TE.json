@@ -2,7 +2,7 @@
   "count": 107,
   "filters": "1204,4317,2373,7494,552,4176,5874",
   "last_updated": "10/22",
-  "last_updated_ts": 1792680949,
+  "last_updated_ts": 1792712132,
   "players": [
     {
       "cbs_player_id": "26693971",
@@ -444,11 +444,11 @@
       "player_yahoo_id": "33113",
       "player_yahoo_positions": "TE",
       "pos_rank": "TE16",
-      "rank_ave": "17.20",
+      "rank_ave": "17.40",
       "rank_ecr": 16,
-      "rank_max": "22",
+      "rank_max": "23",
       "rank_min": "12",
-      "rank_std": "3.43",
+      "rank_std": "3.72",
       "sportsdata_id": "0226b03b-f91d-4223-9813-9fcd2e9c3acc",
       "tier": 4
     },
@@ -612,11 +612,11 @@
       "player_yahoo_id": "34099",
       "player_yahoo_positions": "TE",
       "pos_rank": "TE22",
-      "rank_ave": "22.80",
+      "rank_ave": "22.00",
       "rank_ecr": 22,
       "rank_max": "26",
       "rank_min": "19",
-      "rank_std": "3.19",
+      "rank_std": "2.76",
       "sportsdata_id": "14e11f9b-58c8-437f-abc0-a4e4df9a7c47",
       "tier": 4
     },

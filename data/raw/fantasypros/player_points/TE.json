@@ -723,7 +723,7 @@
       "player_name": "E.J. Jenkins",
       "points": 0,
       "position_id": "TE",
-      "team_id": "PHI",
+      "team_id": "FA",
       "weeks": {
         "1": 0,
         "2": 0,
@@ -2261,7 +2261,7 @@
       "player_name": "Shawn Bowman",
       "points": 0,
       "position_id": "TE",
-      "team_id": "FA",
+      "team_id": "ARI",
       "weeks": {
         "6": 0
       }

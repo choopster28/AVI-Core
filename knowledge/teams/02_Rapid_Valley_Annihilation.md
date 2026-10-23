@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1178861684281753600
 - Division: 2
 - Waiver position: 15
-- Last updated from Sleeper exports: 2026-10-22
+- Last updated from Sleeper exports: 2026-10-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 456.6
-- championship_lineup_c_avi_avg: 57.08
+- championship_lineup_c_avi_sum: 456.7
+- championship_lineup_c_avi_avg: 57.09
 - offensive_roster_c_avi_sum: 775.3
 - offensive_roster_c_avi_avg: 45.61
-- offensive_roster_d_avi_sum: 1191.9
+- offensive_roster_d_avi_sum: 1191.8
 - offensive_roster_d_avi_avg: 70.11
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Caleb Williams | C-AVI: 73.4 | D-AVI: 85.3
 - RB: Quinshon Judkins | C-AVI: 71.1 | D-AVI: 86.5
-- RB: Ollie Gordon II | C-AVI: 41.5 | D-AVI: 62.3
+- RB: Ollie Gordon II | C-AVI: 41.6 | D-AVI: 62.3
 - WR: Denzel Boston | C-AVI: 61.3 | D-AVI: 83.7
 - WR: Omar Cooper Jr. | C-AVI: 57.0 | D-AVI: 78.6
 - TE: Colston Loveland | C-AVI: 61.7 | D-AVI: 86.1
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 41.5
+- Championship AVI (C-AVI, 0-100): 41.6
 - Dynasty AVI (D-AVI, 0-100): 62.3
 - Projected PPR points: 23.2
 - Category: offense
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 29.8
-- Dynasty AVI (D-AVI, 0-100): 53.8
+- Championship AVI (C-AVI, 0-100): 29.7
+- Dynasty AVI (D-AVI, 0-100): 53.7
 - Projected PPR points: 26.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
