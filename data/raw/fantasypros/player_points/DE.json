@@ -53,12 +53,12 @@
       }
     },
     {
-      "average": 13.5,
+      "average": 11.8,
       "filename": "elijah-ponder-de.php",
-      "games": 6,
+      "games": 7,
       "player_id": 27734,
       "player_name": "Elijah Ponder",
-      "points": 80.75,
+      "points": 82.25,
       "position_id": "DE",
       "team_id": "NE",
       "weeks": {
@@ -67,7 +67,8 @@
         "3": 4.3,
         "4": 15,
         "5": 24.5,
-        "6": 8.8
+        "6": 8.8,
+        "7": 1.5
       }
     },
     {
@@ -1653,12 +1654,12 @@
       }
     },
     {
-      "average": 2.9,
+      "average": 2.6,
       "filename": "kentavius-street.php",
-      "games": 6,
+      "games": 7,
       "player_id": 17416,
       "player_name": "Kentavius Street",
-      "points": 17.25,
+      "points": 18,
       "position_id": "DE",
       "team_id": "CHI",
       "weeks": {
@@ -1667,7 +1668,8 @@
         "3": 0,
         "4": 0.8,
         "5": 1.5,
-        "6": 4
+        "6": 4,
+        "7": 0.8
       }
     },
     {

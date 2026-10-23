@@ -606,12 +606,12 @@
       }
     },
     {
-      "average": 10.7,
+      "average": 12.4,
       "filename": "rhamondre-stevenson.php",
-      "games": 6,
+      "games": 7,
       "player_id": 22726,
       "player_name": "Rhamondre Stevenson",
-      "points": 64.39999999999999,
+      "points": 86.89999999999999,
       "position_id": "RB",
       "team_id": "NE",
       "weeks": {
@@ -620,7 +620,8 @@
         "3": 6.8,
         "4": 18.4,
         "5": 17.5,
-        "6": 3.6
+        "6": 3.6,
+        "7": 22.5
       }
     },
     {
@@ -1285,12 +1286,12 @@
       }
     },
     {
-      "average": 2.6,
+      "average": 2.4,
       "filename": "corey-kiner.php",
-      "games": 6,
+      "games": 7,
       "player_id": 22997,
       "player_name": "Corey Kiner",
-      "points": 15.400000000000002,
+      "points": 16.700000000000003,
       "position_id": "RB",
       "team_id": "NE",
       "weeks": {
@@ -1299,7 +1300,8 @@
         "3": 3.7,
         "4": 0,
         "5": 4.9,
-        "6": 5.7
+        "6": 5.7,
+        "7": 1.3
       }
     },
     {
@@ -1338,12 +1340,12 @@
       }
     },
     {
-      "average": 17.3,
+      "average": 17.5,
       "filename": "dandre-swift.php",
-      "games": 6,
+      "games": 7,
       "player_id": 19210,
       "player_name": "D'Andre Swift",
-      "points": 103.8,
+      "points": 122.8,
       "position_id": "RB",
       "team_id": "CHI",
       "weeks": {
@@ -1352,7 +1354,8 @@
         "3": 10.8,
         "4": 7.4,
         "5": 17.3,
-        "6": 23
+        "6": 23,
+        "7": 19
       }
     },
     {
@@ -1538,12 +1541,12 @@
       }
     },
     {
-      "average": 4.5,
+      "average": 4,
       "filename": "roschon-johnson.php",
-      "games": 6,
+      "games": 7,
       "player_id": 25322,
       "player_name": "Roschon Johnson",
-      "points": 26.8,
+      "points": 28.1,
       "position_id": "RB",
       "team_id": "CHI",
       "weeks": {
@@ -1552,7 +1555,8 @@
         "3": 0,
         "4": 3.3,
         "5": 9,
-        "6": 14.5
+        "6": 14.5,
+        "7": 1.3
       }
     },
     {
@@ -1764,12 +1768,12 @@
       }
     },
     {
-      "average": 5.9,
+      "average": 5.6,
       "filename": "treveyon-henderson.php",
-      "games": 5,
+      "games": 6,
       "player_id": 23065,
       "player_name": "TreVeyon Henderson",
-      "points": 29.5,
+      "points": 33.8,
       "position_id": "RB",
       "team_id": "NE",
       "weeks": {
@@ -1777,7 +1781,8 @@
         "3": 3.9,
         "4": 4.2,
         "5": 4.8,
-        "6": 3
+        "6": 3,
+        "7": 4.3
       }
     },
     {
@@ -2064,7 +2069,7 @@
     {
       "average": 0,
       "filename": "zavier-scott.php",
-      "games": 2,
+      "games": 3,
       "player_id": 25748,
       "player_name": "Zavier Scott",
       "points": 0,
@@ -2072,7 +2077,8 @@
       "team_id": "CHI",
       "weeks": {
         "5": 0,
-        "6": 0
+        "6": 0,
+        "7": 0
       }
     },
     {

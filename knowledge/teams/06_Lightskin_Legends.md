@@ -23,15 +23,15 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 539.6
 - championship_lineup_c_avi_avg: 67.45
-- offensive_roster_c_avi_sum: 927.4
+- offensive_roster_c_avi_sum: 927.3
 - offensive_roster_c_avi_avg: 51.52
-- offensive_roster_d_avi_sum: 1263.1
-- offensive_roster_d_avi_avg: 70.17
+- offensive_roster_d_avi_sum: 1263.5
+- offensive_roster_d_avi_avg: 70.19
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jared Goff | C-AVI: 71.1 | D-AVI: 77.3
-- RB: Javonte Williams | C-AVI: 84.1 | D-AVI: 89.5
+- RB: Javonte Williams | C-AVI: 84.1 | D-AVI: 89.9
 - RB: Chase Brown | C-AVI: 82.9 | D-AVI: 91.6
 - WR: Parker Washington | C-AVI: 83.6 | D-AVI: 92.5
 - WR: Keon Coleman | C-AVI: 52.6 | D-AVI: 67.2
@@ -88,7 +88,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 84.1
-- Dynasty AVI (D-AVI, 0-100): 89.5
+- Dynasty AVI (D-AVI, 0-100): 89.9
 - Projected PPR points: 212.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 43.9
+- Championship AVI (C-AVI, 0-100): 43.8
 - Dynasty AVI (D-AVI, 0-100): 67.0
 - Projected PPR points: 102.3
 - Category: offense

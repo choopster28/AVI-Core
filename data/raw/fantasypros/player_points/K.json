@@ -340,10 +340,10 @@
     {
       "average": 7,
       "filename": "andres-borregales.php",
-      "games": 6,
+      "games": 7,
       "player_id": 27291,
       "player_name": "Andy Borregales",
-      "points": 42,
+      "points": 49,
       "position_id": "K",
       "team_id": "NE",
       "weeks": {
@@ -352,7 +352,8 @@
         "3": 7,
         "4": 3,
         "5": 9,
-        "6": 8
+        "6": 8,
+        "7": 7
       }
     },
     {
@@ -481,12 +482,12 @@
       }
     },
     {
-      "average": 8,
+      "average": 9,
       "filename": "cairo-santos.php",
-      "games": 6,
+      "games": 7,
       "player_id": 13731,
       "player_name": "Cairo Santos",
-      "points": 48,
+      "points": 63,
       "position_id": "K",
       "team_id": "CHI",
       "weeks": {
@@ -495,7 +496,8 @@
         "3": 10,
         "4": 11,
         "5": 1,
-        "6": 9
+        "6": 9,
+        "7": 15
       }
     },
     {

@@ -51,12 +51,12 @@
       }
     },
     {
-      "average": 3.2,
+      "average": 3.5,
       "filename": "cole-kmet.php",
-      "games": 6,
+      "games": 7,
       "player_id": 19229,
       "player_name": "Cole Kmet",
-      "points": 18.900000000000002,
+      "points": 24.700000000000003,
       "position_id": "TE",
       "team_id": "CHI",
       "weeks": {
@@ -65,7 +65,8 @@
         "3": 0,
         "4": 3.3,
         "5": 1.8,
-        "6": 2.3
+        "6": 2.3,
+        "7": 5.8
       }
     },
     {
@@ -734,12 +735,12 @@
       }
     },
     {
-      "average": 7.1,
+      "average": 8.9,
       "filename": "colston-loveland.php",
-      "games": 6,
+      "games": 7,
       "player_id": 26006,
       "player_name": "Colston Loveland",
-      "points": 42.5,
+      "points": 62.4,
       "position_id": "TE",
       "team_id": "CHI",
       "weeks": {
@@ -748,7 +749,8 @@
         "3": 7.1,
         "4": 11.7,
         "5": 3.9,
-        "6": 18.5
+        "6": 18.5,
+        "7": 19.9
       }
     },
     {
@@ -842,12 +844,12 @@
       }
     },
     {
-      "average": 8.9,
+      "average": 9.7,
       "filename": "hunter-henry.php",
-      "games": 6,
+      "games": 7,
       "player_id": 15561,
       "player_name": "Hunter Henry",
-      "points": 53.5,
+      "points": 67.6,
       "position_id": "TE",
       "team_id": "NE",
       "weeks": {
@@ -856,7 +858,8 @@
         "3": 1.5,
         "4": 11.2,
         "5": 13.4,
-        "6": 14.8
+        "6": 14.8,
+        "7": 14.1
       }
     },
     {
@@ -1374,12 +1377,12 @@
       }
     },
     {
-      "average": 5.2,
+      "average": 6.8,
       "filename": "eli-raridon.php",
-      "games": 5,
+      "games": 6,
       "player_id": 28154,
       "player_name": "Eli Raridon",
-      "points": 26.2,
+      "points": 40.8,
       "position_id": "TE",
       "team_id": "NE",
       "weeks": {
@@ -1387,7 +1390,8 @@
         "2": 4,
         "4": 2.2,
         "5": 10.7,
-        "6": 2.1
+        "6": 2.1,
+        "7": 14.6
       }
     },
     {
@@ -2261,7 +2265,7 @@
       "player_name": "Shawn Bowman",
       "points": 0,
       "position_id": "TE",
-      "team_id": "ARI",
+      "team_id": "FA",
       "weeks": {
         "6": 0
       }

@@ -170,18 +170,19 @@
       }
     },
     {
-      "average": 20.8,
+      "average": 21.2,
       "filename": "caleb-williams.php",
-      "games": 3,
+      "games": 4,
       "player_id": 23084,
       "player_name": "Caleb Williams",
-      "points": 62.48,
+      "points": 84.6,
       "position_id": "QB",
       "team_id": "CHI",
       "weeks": {
         "1": 37.3,
         "2": 8.7,
-        "6": 16.5
+        "6": 16.5,
+        "7": 22.1
       }
     },
     {
@@ -477,12 +478,12 @@
       }
     },
     {
-      "average": 19.7,
+      "average": 20.9,
       "filename": "drake-maye.php",
-      "games": 6,
+      "games": 7,
       "player_id": 23046,
       "player_name": "Drake Maye",
-      "points": 118.02,
+      "points": 146.46,
       "position_id": "QB",
       "team_id": "NE",
       "weeks": {
@@ -491,7 +492,8 @@
         "3": 5.8,
         "4": 27.2,
         "5": 39.5,
-        "6": 23.8
+        "6": 23.8,
+        "7": 28.4
       }
     },
     {

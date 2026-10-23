@@ -21,19 +21,19 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 522.3
-- championship_lineup_c_avi_avg: 65.29
-- offensive_roster_c_avi_sum: 676.4
-- offensive_roster_c_avi_avg: 56.37
-- offensive_roster_d_avi_sum: 914.4
-- offensive_roster_d_avi_avg: 76.20
+- championship_lineup_c_avi_sum: 522.2
+- championship_lineup_c_avi_avg: 65.28
+- offensive_roster_c_avi_sum: 676.3
+- offensive_roster_c_avi_avg: 56.36
+- offensive_roster_d_avi_sum: 914.8
+- offensive_roster_d_avi_avg: 76.23
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: C.J. Stroud | C-AVI: 49.2 | D-AVI: 70.0
 - RB: Ashton Jeanty | C-AVI: 89.1 | D-AVI: 95.3
 - RB: Jaylen Warren | C-AVI: 76.9 | D-AVI: 82.8
-- WR: Michael Wilson | C-AVI: 66.8 | D-AVI: 84.1
+- WR: Michael Wilson | C-AVI: 66.7 | D-AVI: 84.1
 - WR: Rome Odunze | C-AVI: 57.8 | D-AVI: 84.5
 - TE: Sam LaPorta | C-AVI: 85.3 | D-AVI: 88.8
 - FLEX: Hunter Henry | C-AVI: 51.5 | D-AVI: 69.9
@@ -139,7 +139,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 53.1
-- Dynasty AVI (D-AVI, 0-100): 71.0
+- Dynasty AVI (D-AVI, 0-100): 71.4
 - Projected PPR points: 153.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 66.8
+- Championship AVI (C-AVI, 0-100): 66.7
 - Dynasty AVI (D-AVI, 0-100): 84.1
 - Projected PPR points: 166.0
 - Category: offense

@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 534.3
-- championship_lineup_c_avi_avg: 66.79
-- offensive_roster_c_avi_sum: 885.4
-- offensive_roster_c_avi_avg: 55.34
-- offensive_roster_d_avi_sum: 1148.9
-- offensive_roster_d_avi_avg: 71.81
+- championship_lineup_c_avi_sum: 534.2
+- championship_lineup_c_avi_avg: 66.78
+- offensive_roster_c_avi_sum: 885.3
+- offensive_roster_c_avi_avg: 55.33
+- offensive_roster_d_avi_sum: 1149.8
+- offensive_roster_d_avi_avg: 71.86
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Bo Nix | C-AVI: 50.4 | D-AVI: 75.9
 - RB: Kyren Williams | C-AVI: 87.1 | D-AVI: 91.2
-- RB: Aaron Jones Sr. | C-AVI: 61.5 | D-AVI: 69.5
+- RB: Aaron Jones Sr. | C-AVI: 61.4 | D-AVI: 69.5
 - WR: Christian Watson | C-AVI: 87.2 | D-AVI: 91.6
 - WR: Emeka Egbuka | C-AVI: 74.4 | D-AVI: 91.7
 - TE: Jake Ferguson | C-AVI: 51.3 | D-AVI: 76.7
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 61.5
+- Championship AVI (C-AVI, 0-100): 61.4
 - Dynasty AVI (D-AVI, 0-100): 69.5
 - Projected PPR points: 137.1
 - Category: offense
@@ -139,7 +139,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 48.9
-- Dynasty AVI (D-AVI, 0-100): 67.3
+- Dynasty AVI (D-AVI, 0-100): 67.8
 - Projected PPR points: 52.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -156,7 +156,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 44.1
-- Dynasty AVI (D-AVI, 0-100): 68.2
+- Dynasty AVI (D-AVI, 0-100): 68.6
 - Projected PPR points: 154.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

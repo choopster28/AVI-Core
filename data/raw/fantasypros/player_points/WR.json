@@ -805,9 +805,9 @@
       }
     },
     {
-      "average": 4.5,
+      "average": 3.8,
       "filename": "kyle-williams-wr-2025.php",
-      "games": 6,
+      "games": 7,
       "player_id": 27487,
       "player_name": "Kyle Williams",
       "points": 26.7,
@@ -819,7 +819,8 @@
         "3": 4.4,
         "4": 0,
         "5": 18.1,
-        "6": 2.2
+        "6": 2.2,
+        "7": 0
       }
     },
     {
@@ -839,9 +840,9 @@
       }
     },
     {
-      "average": 1.6,
+      "average": 1.4,
       "filename": "zavion-thomas.php",
-      "games": 6,
+      "games": 7,
       "player_id": 28132,
       "player_name": "Zavion Thomas",
       "points": 9.8,
@@ -853,7 +854,8 @@
         "3": 1.1,
         "4": 0,
         "5": 3.2,
-        "6": 5.5
+        "6": 5.5,
+        "7": 0
       }
     },
     {
@@ -961,9 +963,9 @@
       }
     },
     {
-      "average": 1.2,
+      "average": 1,
       "filename": "jahdae-walker.php",
-      "games": 6,
+      "games": 7,
       "player_id": 27810,
       "player_name": "Jahdae Walker",
       "points": 7.1,
@@ -975,7 +977,8 @@
         "3": 0,
         "4": 0,
         "5": 0,
-        "6": 0
+        "6": 0,
+        "7": 0
       }
     },
     {
@@ -1770,12 +1773,12 @@
       }
     },
     {
-      "average": 9.9,
+      "average": 9.2,
       "filename": "demario-douglas.php",
-      "games": 6,
+      "games": 7,
       "player_id": 25304,
       "player_name": "DeMario Douglas",
-      "points": 59.300000000000004,
+      "points": 64.60000000000001,
       "position_id": "WR",
       "team_id": "NE",
       "weeks": {
@@ -1784,7 +1787,8 @@
         "3": 4.8,
         "4": 3.5,
         "5": 22.5,
-        "6": 19.6
+        "6": 19.6,
+        "7": 5.3
       }
     },
     {
@@ -1940,12 +1944,12 @@
       }
     },
     {
-      "average": 12.2,
+      "average": 13.9,
       "filename": "luther-burden-iii.php",
-      "games": 6,
+      "games": 7,
       "player_id": 27016,
       "player_name": "Luther Burden III",
-      "points": 73.3,
+      "points": 97,
       "position_id": "WR",
       "team_id": "CHI",
       "weeks": {
@@ -1954,7 +1958,8 @@
         "3": 19.8,
         "4": 11.4,
         "5": 8.9,
-        "6": 17.5
+        "6": 17.5,
+        "7": 23.7
       }
     },
     {
@@ -2039,17 +2044,18 @@
       }
     },
     {
-      "average": 5.7,
+      "average": 6.4,
       "filename": "aj-brown.php",
-      "games": 2,
+      "games": 3,
       "player_id": 18218,
       "player_name": "A.J. Brown",
-      "points": 11.3,
+      "points": 19.1,
       "position_id": "WR",
       "team_id": "NE",
       "weeks": {
         "1": 5.6,
-        "6": 5.7
+        "6": 5.7,
+        "7": 7.8
       }
     },
     {
@@ -2616,9 +2622,9 @@
       }
     },
     {
-      "average": 9.4,
+      "average": 8,
       "filename": "kalif-raymond.php",
-      "games": 6,
+      "games": 7,
       "player_id": 16081,
       "player_name": "Kalif Raymond",
       "points": 56.199999999999996,
@@ -2630,7 +2636,8 @@
         "3": 21,
         "4": 2.6,
         "5": 3.4,
-        "6": 3.8
+        "6": 3.8,
+        "7": 0
       }
     },
     {
@@ -2869,12 +2876,12 @@
       }
     },
     {
-      "average": 8.2,
+      "average": 8.6,
       "filename": "rome-odunze.php",
-      "games": 6,
+      "games": 7,
       "player_id": 25411,
       "player_name": "Rome Odunze",
-      "points": 49.199999999999996,
+      "points": 60.099999999999994,
       "position_id": "WR",
       "team_id": "CHI",
       "weeks": {
@@ -2883,7 +2890,8 @@
         "3": 7.4,
         "4": 15.4,
         "5": 5,
-        "6": 6.9
+        "6": 6.9,
+        "7": 10.9
       }
     },
     {
@@ -3029,12 +3037,12 @@
       }
     },
     {
-      "average": 5.1,
+      "average": 4.7,
       "filename": "efton-chismi.php",
-      "games": 5,
+      "games": 6,
       "player_id": 27445,
       "player_name": "Efton Chism III",
-      "points": 25.64,
+      "points": 28.240000000000002,
       "position_id": "WR",
       "team_id": "NE",
       "weeks": {
@@ -3042,7 +3050,8 @@
         "3": 1.7,
         "4": 12.2,
         "5": 10.9,
-        "6": 0
+        "6": 0,
+        "7": 2.6
       }
     },
     {

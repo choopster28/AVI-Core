@@ -23,16 +23,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 699.9
 - championship_lineup_c_avi_avg: 87.49
-- offensive_roster_c_avi_sum: 1119.3
-- offensive_roster_c_avi_avg: 62.18
-- offensive_roster_d_avi_sum: 1390.4
-- offensive_roster_d_avi_avg: 77.24
+- offensive_roster_c_avi_sum: 1119.8
+- offensive_roster_c_avi_avg: 62.21
+- offensive_roster_d_avi_sum: 1394.4
+- offensive_roster_d_avi_avg: 77.47
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Josh Allen | C-AVI: 95.8 | D-AVI: 92.6
 - RB: Bijan Robinson | C-AVI: 96.9 | D-AVI: 97.6
-- RB: Jonathan Taylor | C-AVI: 93.1 | D-AVI: 94.7
+- RB: Jonathan Taylor | C-AVI: 93.1 | D-AVI: 95.1
 - WR: Puka Nacua | C-AVI: 97.6 | D-AVI: 99.0
 - WR: George Pickens | C-AVI: 88.1 | D-AVI: 94.6
 - TE: Isaiah Likely | C-AVI: 82.3 | D-AVI: 85.4
@@ -105,7 +105,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 93.1
-- Dynasty AVI (D-AVI, 0-100): 94.7
+- Dynasty AVI (D-AVI, 0-100): 95.1
 - Projected PPR points: 272.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 35.5
-- Dynasty AVI (D-AVI, 0-100): 56.2
+- Championship AVI (C-AVI, 0-100): 35.9
+- Dynasty AVI (D-AVI, 0-100): 59.3
 - Projected PPR points: 72.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -173,7 +173,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 29.6
-- Dynasty AVI (D-AVI, 0-100): 53.0
+- Dynasty AVI (D-AVI, 0-100): 53.5
 - Projected PPR points: 36.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -308,7 +308,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 23.8
+- Championship AVI (C-AVI, 0-100): 23.9
 - Dynasty AVI (D-AVI, 0-100): 53.5
 - Projected PPR points: 23.3
 - Category: offense

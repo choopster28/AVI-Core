@@ -539,12 +539,12 @@
       }
     },
     {
-      "average": 1.8,
+      "average": 2.3,
       "filename": "cory-durden.php",
-      "games": 6,
+      "games": 7,
       "player_id": 25783,
       "player_name": "Cory Durden",
-      "points": 10.5,
+      "points": 15.75,
       "position_id": "DT",
       "team_id": "NE",
       "weeks": {
@@ -553,7 +553,8 @@
         "3": 0,
         "4": 2.3,
         "5": 1.5,
-        "6": 3.8
+        "6": 3.8,
+        "7": 5.3
       }
     },
     {
@@ -574,12 +575,12 @@
       }
     },
     {
-      "average": 4.8,
+      "average": 5.3,
       "filename": "christian-barmore.php",
-      "games": 5,
+      "games": 6,
       "player_id": 22691,
       "player_name": "Christian Barmore",
-      "points": 23.75,
+      "points": 31.75,
       "position_id": "DT",
       "team_id": "NE",
       "weeks": {
@@ -587,7 +588,8 @@
         "2": 12,
         "3": 2.3,
         "5": 0,
-        "6": 8
+        "6": 8,
+        "7": 8
       }
     },
     {
@@ -1547,12 +1549,12 @@
       }
     },
     {
-      "average": 3.9,
+      "average": 3.5,
       "filename": "dremont-jones.php",
-      "games": 5,
+      "games": 6,
       "player_id": 18212,
       "player_name": "Dre'Mont Jones",
-      "points": 19.5,
+      "points": 21,
       "position_id": "DT",
       "team_id": "NE",
       "weeks": {
@@ -1560,7 +1562,8 @@
         "2": 0.8,
         "4": 0,
         "5": 6.3,
-        "6": 3.8
+        "6": 3.8,
+        "7": 1.5
       }
     },
     {
@@ -2173,19 +2176,20 @@
       }
     },
     {
-      "average": 3,
+      "average": 4,
       "filename": "leonard-taylor-iii.php",
-      "games": 4,
+      "games": 5,
       "player_id": 26110,
       "player_name": "Leonard Taylor III",
-      "points": 12,
+      "points": 20,
       "position_id": "DT",
       "team_id": "NE",
       "weeks": {
         "1": 0,
         "4": 0,
         "5": 8,
-        "6": 4
+        "6": 4,
+        "7": 8
       }
     },
     {
@@ -2221,12 +2225,12 @@
       }
     },
     {
-      "average": 3.8,
+      "average": 3.3,
       "filename": "james-lynch.php",
-      "games": 5,
+      "games": 6,
       "player_id": 19290,
       "player_name": "James Lynch",
-      "points": 19,
+      "points": 19.75,
       "position_id": "DT",
       "team_id": "CHI",
       "weeks": {
@@ -2234,7 +2238,8 @@
         "2": 6.8,
         "3": 0.8,
         "5": 6.3,
-        "6": 1.5
+        "6": 1.5,
+        "7": 0.8
       }
     },
     {
@@ -2416,12 +2421,12 @@
       }
     },
     {
-      "average": 2.2,
+      "average": 2.1,
       "filename": "grady-jarrett.php",
-      "games": 6,
+      "games": 7,
       "player_id": 14045,
       "player_name": "Grady Jarrett",
-      "points": 13,
+      "points": 14.5,
       "position_id": "DT",
       "team_id": "CHI",
       "weeks": {
@@ -2430,7 +2435,8 @@
         "3": 0.8,
         "4": 2.3,
         "5": 5.5,
-        "6": 0
+        "6": 0,
+        "7": 1.5
       }
     },
     {
@@ -2462,12 +2468,12 @@
       }
     },
     {
-      "average": 3.8,
+      "average": 4,
       "filename": "milton-williams.php",
-      "games": 6,
+      "games": 7,
       "player_id": 23209,
       "player_name": "Milton Williams",
-      "points": 23,
+      "points": 27.75,
       "position_id": "DT",
       "team_id": "NE",
       "weeks": {
@@ -2476,7 +2482,8 @@
         "3": 6,
         "4": 0,
         "5": 2.3,
-        "6": 10.3
+        "6": 10.3,
+        "7": 4.8
       }
     },
     {
@@ -2516,9 +2523,9 @@
       }
     },
     {
-      "average": 0.3,
+      "average": 0.2,
       "filename": "jordan-van-den-berg.php",
-      "games": 6,
+      "games": 7,
       "player_id": 28506,
       "player_name": "Jordan van den Berg",
       "points": 1.5,
@@ -2530,7 +2537,8 @@
         "3": 0,
         "4": 0,
         "5": 0,
-        "6": 0
+        "6": 0,
+        "7": 0
       }
     },
     {
@@ -2746,10 +2754,10 @@
     {
       "average": 1.8,
       "filename": "neville-gallimore.php",
-      "games": 6,
+      "games": 7,
       "player_id": 19227,
       "player_name": "Neville Gallimore",
-      "points": 10.75,
+      "points": 12.25,
       "position_id": "DT",
       "team_id": "CHI",
       "weeks": {
@@ -2758,7 +2766,8 @@
         "3": 1.5,
         "4": 1.5,
         "5": 4,
-        "6": 0
+        "6": 0,
+        "7": 1.5
       }
     },
     {
@@ -2812,12 +2821,12 @@
       }
     },
     {
-      "average": 0.9,
+      "average": 1,
       "filename": "daquan-jones.php",
-      "games": 5,
+      "games": 6,
       "player_id": 12241,
       "player_name": "DaQuan Jones",
-      "points": 4.5,
+      "points": 6,
       "position_id": "DT",
       "team_id": "NE",
       "weeks": {
@@ -2825,7 +2834,8 @@
         "3": 1.5,
         "4": 0.8,
         "5": 0,
-        "6": 0.8
+        "6": 0.8,
+        "7": 1.5
       }
     },
     {
@@ -3407,16 +3417,17 @@
       }
     },
     {
-      "average": 0,
+      "average": 2.8,
       "filename": "jamree-kromah.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26634,
       "player_name": "Jamree Kromah",
-      "points": 0,
+      "points": 5.5,
       "position_id": "DT",
       "team_id": "CHI",
       "weeks": {
-        "6": 0
+        "6": 0,
+        "7": 5.5
       }
     },
     {
@@ -3433,16 +3444,17 @@
       }
     },
     {
-      "average": 0.8,
+      "average": 1.1,
       "filename": "shemar-turner.php",
-      "games": 1,
+      "games": 2,
       "player_id": 27163,
       "player_name": "Shemar Turner",
-      "points": 0.75,
+      "points": 2.25,
       "position_id": "DT",
       "team_id": "CHI",
       "weeks": {
-        "6": 0.8
+        "6": 0.8,
+        "7": 1.5
       }
     }
   ],

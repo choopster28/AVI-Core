@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 642.4
-- championship_lineup_c_avi_avg: 80.30
-- offensive_roster_c_avi_sum: 825.2
+- championship_lineup_c_avi_sum: 642.3
+- championship_lineup_c_avi_avg: 80.29
+- offensive_roster_c_avi_sum: 825.1
 - offensive_roster_c_avi_avg: 58.94
 - offensive_roster_d_avi_sum: 1062.3
 - offensive_roster_d_avi_avg: 75.88
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Chris Olave | C-AVI: 92.6 | D-AVI: 96.3
 - TE: George Kittle | C-AVI: 82.5 | D-AVI: 84.0
 - FLEX: Wan'Dale Robinson | C-AVI: 56.8 | D-AVI: 78.5
-- FLEX: Brian Robinson Jr. | C-AVI: 51.0 | D-AVI: 65.4
+- FLEX: Brian Robinson Jr. | C-AVI: 50.9 | D-AVI: 64.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 51.0
-- Dynasty AVI (D-AVI, 0-100): 65.4
+- Championship AVI (C-AVI, 0-100): 50.9
+- Dynasty AVI (D-AVI, 0-100): 64.9
 - Projected PPR points: 69.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -156,7 +156,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 47.3
-- Dynasty AVI (D-AVI, 0-100): 71.8
+- Dynasty AVI (D-AVI, 0-100): 72.3
 - Projected PPR points: 83.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

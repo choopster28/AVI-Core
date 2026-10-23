@@ -1002,12 +1002,12 @@
       }
     },
     {
-      "average": 6.7,
+      "average": 6.6,
       "filename": "tyrique-stevenson.php",
-      "games": 5,
+      "games": 6,
       "player_id": 25263,
       "player_name": "Tyrique Stevenson Sr.",
-      "points": 33.5,
+      "points": 39.5,
       "position_id": "CB",
       "team_id": "CHI",
       "weeks": {
@@ -1015,7 +1015,8 @@
         "2": 10,
         "3": 0,
         "4": 7.8,
-        "5": 4.5
+        "5": 4.5,
+        "7": 6
       }
     },
     {
@@ -1760,12 +1761,12 @@
       }
     },
     {
-      "average": 5.6,
+      "average": 5.2,
       "filename": "jaylon-johnson.php",
-      "games": 6,
+      "games": 7,
       "player_id": 19254,
       "player_name": "Jaylon Johnson",
-      "points": 33.5,
+      "points": 36.5,
       "position_id": "CB",
       "team_id": "CHI",
       "weeks": {
@@ -1774,7 +1775,8 @@
         "3": 10,
         "4": 0,
         "5": 7.5,
-        "6": 3
+        "6": 3,
+        "7": 3
       }
     },
     {
@@ -1844,12 +1846,12 @@
       }
     },
     {
-      "average": 7.1,
+      "average": 6.9,
       "filename": "charles-woods.php",
-      "games": 6,
+      "games": 7,
       "player_id": 26192,
       "player_name": "Charles Woods",
-      "points": 42.75,
+      "points": 48,
       "position_id": "CB",
       "team_id": "NE",
       "weeks": {
@@ -1858,7 +1860,8 @@
         "3": 5.3,
         "4": 2.3,
         "5": 10,
-        "6": 10.3
+        "6": 10.3,
+        "7": 5.3
       }
     },
     {
@@ -1984,12 +1987,12 @@
       }
     },
     {
-      "average": 7.6,
+      "average": 9.3,
       "filename": "marcus-jones.php",
-      "games": 6,
+      "games": 7,
       "player_id": 23890,
       "player_name": "Marcus Jones",
-      "points": 45.5,
+      "points": 65,
       "position_id": "CB",
       "team_id": "NE",
       "weeks": {
@@ -1998,7 +2001,8 @@
         "3": 14.8,
         "4": 8.3,
         "5": 4.5,
-        "6": 10.5
+        "6": 10.5,
+        "7": 19.5
       }
     },
     {
@@ -2193,12 +2197,12 @@
       }
     },
     {
-      "average": 6.5,
+      "average": 6.7,
       "filename": "malik-muhammad.php",
-      "games": 6,
+      "games": 7,
       "player_id": 27978,
       "player_name": "Malik Muhammad II",
-      "points": 39.25,
+      "points": 47,
       "position_id": "CB",
       "team_id": "CHI",
       "weeks": {
@@ -2207,7 +2211,8 @@
         "3": 5.3,
         "4": 3.8,
         "5": 6,
-        "6": 2.3
+        "6": 2.3,
+        "7": 7.8
       }
     },
     {
@@ -2458,10 +2463,10 @@
     {
       "average": 5.9,
       "filename": "cam-lewis.php",
-      "games": 5,
+      "games": 6,
       "player_id": 18724,
       "player_name": "Cam Lewis",
-      "points": 29.25,
+      "points": 35.25,
       "position_id": "CB",
       "team_id": "CHI",
       "weeks": {
@@ -2469,7 +2474,8 @@
         "2": 6,
         "3": 3.8,
         "5": 6.8,
-        "6": 4.5
+        "6": 4.5,
+        "7": 6
       }
     },
     {
@@ -2539,19 +2545,20 @@
       }
     },
     {
-      "average": 6.8,
+      "average": 6.5,
       "filename": "christian-gonzalez.php",
-      "games": 4,
+      "games": 5,
       "player_id": 25238,
       "player_name": "Christian Gonzalez",
-      "points": 27,
+      "points": 32.25,
       "position_id": "CB",
       "team_id": "NE",
       "weeks": {
         "1": 6,
         "2": 8.3,
         "3": 4.5,
-        "6": 8.3
+        "6": 8.3,
+        "7": 5.3
       }
     },
     {
@@ -3281,9 +3288,9 @@
       }
     },
     {
-      "average": 5.4,
+      "average": 4.1,
       "filename": "kindle-vildor.php",
-      "games": 3,
+      "games": 4,
       "player_id": 19594,
       "player_name": "Kindle Vildor",
       "points": 16.25,
@@ -3292,7 +3299,8 @@
       "weeks": {
         "4": 5.5,
         "5": 10.8,
-        "6": 0
+        "6": 0,
+        "7": 0
       }
     },
     {
@@ -3525,16 +3533,17 @@
       }
     },
     {
-      "average": 33.5,
+      "average": 24.3,
       "filename": "kyler-gordon.php",
-      "games": 1,
+      "games": 2,
       "player_id": 23765,
       "player_name": "Kyler Gordon",
-      "points": 33.5,
+      "points": 48.5,
       "position_id": "CB",
       "team_id": "CHI",
       "weeks": {
-        "6": 33.5
+        "6": 33.5,
+        "7": 15
       }
     },
     {
