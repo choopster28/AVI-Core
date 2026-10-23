@@ -118,7 +118,7 @@
       "player_name": "Cole Kmet",
       "position": "TE",
       "sleeper_id": "6826",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -694,6 +694,18 @@
       "player_name": "Elijah Higgins",
       "position": "TE",
       "sleeper_id": "10231",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00006130",
+      "c_avi": 28.9,
+      "d_avi": 47.5,
+      "nfl_team": "NYG",
+      "player_name": "Devin Singletary",
+      "position": "RB",
+      "sleeper_id": "6130",
       "status": "Active"
     },
     {
@@ -2726,8 +2738,8 @@
     }
   ],
   "counts": {
-    "available_players": 227,
-    "rostered_players": 252
+    "available_players": 228,
+    "rostered_players": 251
   },
   "rostered_players": [
     {
@@ -3881,22 +3893,6 @@
       "status": "Active",
       "team_file": "01_Conquistadors.md",
       "team_name": "Conquistadors"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00006130",
-      "c_avi": 28.9,
-      "d_avi": 47.5,
-      "nfl_team": "NYG",
-      "owner_id": "737531831641128960",
-      "player_name": "Devin Singletary",
-      "position": "RB",
-      "roster_id": 7,
-      "sleeper_id": "6130",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
     },
     {
       "active": true,
