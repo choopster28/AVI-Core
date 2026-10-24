@@ -860,14 +860,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 16
 - Team file: 16_Crimson_Tide_Pods.md
 
-## PLAYER LOOKUP: Jaleel McLaughlin
-- Player name: Jaleel McLaughlin
-- Player ID: 11439
-- Position: RB
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
-
 ## PLAYER LOOKUP: Jalen Coker
 - Player name: Jalen Coker
 - Player ID: 11646
@@ -3119,6 +3111,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: JAC
 - Championship AVI (C-AVI, 0-100): 23.0
 - Dynasty AVI (D-AVI, 0-100): 39.7
+- Availability: available
+
+## AVAILABLE PLAYER: Jaleel McLaughlin
+- Player name: Jaleel McLaughlin
+- Player ID: 11439
+- Position: RB
+- NFL team: CLE
+- Championship AVI (C-AVI, 0-100): 22.8
+- Dynasty AVI (D-AVI, 0-100): 40.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Adam Trautman

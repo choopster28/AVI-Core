@@ -1479,6 +1479,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011439",
+      "c_avi": 22.8,
+      "d_avi": 40.4,
+      "nfl_team": "CLE",
+      "player_name": "Jaleel McLaughlin",
+      "position": "RB",
+      "sleeper_id": "11439",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00006869",
       "c_avi": 22.7,
       "d_avi": 27.7,
@@ -1738,7 +1750,7 @@
       "player_name": "Tyler Badie",
       "position": "RB",
       "sleeper_id": "8208",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -2738,8 +2750,8 @@
     }
   ],
   "counts": {
-    "available_players": 228,
-    "rostered_players": 251
+    "available_players": 229,
+    "rostered_players": 250
   },
   "rostered_players": [
     {
@@ -3410,7 +3422,7 @@
       "position": "WR",
       "roster_id": 1,
       "sleeper_id": "4950",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "01_Conquistadors.md",
       "team_name": "Conquistadors"
     },
@@ -4457,22 +4469,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00011439",
-      "c_avi": 22.8,
-      "d_avi": 40.4,
-      "nfl_team": "CLE",
-      "owner_id": "986498458162970624",
-      "player_name": "Jaleel McLaughlin",
-      "position": "RB",
-      "roster_id": 11,
-      "sleeper_id": "11439",
-      "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00011646",
       "c_avi": 72.0,
       "d_avi": 84.4,
@@ -4802,7 +4798,7 @@
       "position": "RB",
       "roster_id": 4,
       "sleeper_id": "13345",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "04_Mile_High_Royal_Lions.md",
       "team_name": "Mile High Royal Lions"
     },
@@ -4882,7 +4878,7 @@
       "position": "RB",
       "roster_id": 14,
       "sleeper_id": "8408",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "14_Phalhala_or_Bust.md",
       "team_name": "Phalhala or Bust"
     },
