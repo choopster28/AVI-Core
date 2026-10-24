@@ -1,5 +1,43 @@
 [
   {
+    "id": "mvmuebzb-e02e4397",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Big Balder Brand",
+      "trade": {
+        "sideA": [
+          {
+            "name": "DeVonta Smith",
+            "assetType": "player"
+          },
+          {
+            "name": "Cam Skattebo",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Nico Collins",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1792873175591,
+    "updatedAt": 1792873175591,
+    "expiresAt": 1793305175591,
+    "status": "queued"
+  },
+  {
     "id": "mvmtpjah-e15bd3dc",
     "phase": "initial",
     "mode": "shop_assets",
