@@ -1,5 +1,405 @@
 [
   {
+    "id": "mvmuebzb-e02e4397",
+    "createdAt": 1792873281839,
+    "expiresAt": 1793305281839,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Corgi Loaf Baking Co. ↔ Big Balder Brand",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Big Balder Brand",
+      "trade": {
+        "sideA": [
+          {
+            "name": "DeVonta Smith",
+            "assetType": "player"
+          },
+          {
+            "name": "Cam Skattebo",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Nico Collins",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. (Goal: Win Championship) proposes trading WR DeVonta Smith (87.1 C-AVI), RB Cam Skattebo (59.9 C-AVI), and a 2027 2nd-round pick (48.5 C-AVI) to Big Balder Brand (Goal: Increase Championship Odds / Playoff Push) in exchange for elite WR Nico Collins (93.0 C-AVI). From Corgi Loaf's perspective, acquiring Collins upgrades the starting FLEX/WR slot by +5.9 C-AVI without altering the starting RB tandem (Hubbard, Montgomery, Stevenson). However, the submitted offer overpays in raw asset volume (195.5 total asset C-AVI vs. 93.0) and misaligns with Big Balder Brand's roster structure. Big Balder already features four higher-ranked starting RBs (Omarion Hampton 74.4, Bhayshul Tuten 73.1, Jeremiyah Love 72.1, Saquon Barkley 60.4), making Skattebo a redundant RB5 who provides 0 starting lineup improvement. Meanwhile, trading away Nico Collins downgrades Big Balder's starting WR1 slot by -5.9 C-AVI while they are actively pushing for the playoffs. A revised offer targeting Big Balder's WR depth needs (e.g., DeVonta Smith + DJ Moore) is recommended to align both franchises' championship goals.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 87.1,
+              "davi": 92.8,
+              "publicMarket": 88,
+              "leagueMarket": 87.5
+            },
+            {
+              "name": "Cam Skattebo",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 59.9,
+              "davi": 80.8,
+              "publicMarket": 62,
+              "leagueMarket": 60
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Nico Collins",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 93,
+              "davi": 96,
+              "publicMarket": 94,
+              "leagueMarket": 93.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "D+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Corgi Loaf improves starting lineup firepower by swapping DeVonta Smith (87.1 C-AVI) for Nico Collins (93.0 C-AVI) in a starting FLEX slot, but surrenders 195.5 total asset AVI including valuable RB depth and pick capital. For Big Balder Brand, taking on a hamstring-depressed WR, a redundant RB5, and future capital directly reduces starting WR1 power (-5.9 C-AVI) during a mandatory Playoff Push."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Revising the offer to package DeVonta Smith with WR DJ Moore (57.7 C-AVI) solves Big Balder's legitimate WR2/FLEX vulnerability (improving over Chris Godwin 49.3 / A.J. Brown 48.5) while preserving Corgi Loaf's RB depth (retaining Skattebo) and 2027 draft capital."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 25,
+              "summary": "Elevates starting lineup ceiling with healthy alpha WR1 Nico Collins alongside Jaxon Smith-Njigba and Malik Nabers."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Parts with 24-year-old RB Cam Skattebo and a 2027 2nd-round draft pick."
+            },
+            "lineupQuality": {
+              "score": 30,
+              "summary": "Upgrades starting FLEX slot from DeVonta Smith (87.1) to Nico Collins (93.0)."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Trims RB bench depth behind Hubbard, Montgomery, and Stevenson."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Surrenders 2027 2nd-round draft capital."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Modest net positive: secures an elite WR1 starting upgrade (+5.9 C-AVI) but surrenders redundant depth and draft capital."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -25,
+              "summary": "Directly reduces immediate starting lineup ceiling (-5.9 C-AVI) during a playoff push."
+            },
+            "dynastyOutlook": {
+              "score": 10,
+              "summary": "Gains young RB depth and a 2027 2nd pick."
+            },
+            "lineupQuality": {
+              "score": -25,
+              "summary": "Starting WR1 C-AVI drops from 93.0 (Nico Collins) to 87.1 (DeVonta Smith)."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Adds Skattebo as RB5 behind Hampton, Tuten, Love, and Barkley, yielding zero starting utility."
+            },
+            "flexibilityLiquidity": {
+              "score": 15,
+              "summary": "Acquires an extra 2027 2nd-round pick."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Net negative move for a contender: downgrades mandatory starting WR1 slot without filling any starting lineup gap."
+            }
+          },
+          "explanation": "Corgi Loaf achieves a +5.9 C-AVI starting lineup boost at the expense of bench depth and pick capital. Big Balder Brand takes a direct starting lineup hit at WR1 while receiving an RB5 who sits behind four existing starters, failing to support their Playoff Push goal."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf increases active starting lineup score by +5.9 C-AVI, replacing DeVonta Smith (87.1 C-AVI) with Nico Collins (93.0 C-AVI) in a FLEX slot.",
+          "sideADynastyImpact": "Slight net dynasty decline (-8.0 D-AVI) from surrendering 24-year-old Cam Skattebo (80.8 D-AVI) and 2027 2nd-round pick capital.",
+          "sideARosterImpact": "Consolidates bench depth and draft capital into a elite cornerstone WR1 while keeping starting RBs Hubbard, Montgomery, and Stevenson intact.",
+          "sideBChampionshipImpact": "Big Balder Brand suffers a -5.9 C-AVI drop at WR1. Furthermore, DeVonta Smith's current hamstring injury threatens zero production in Week 7.",
+          "sideBDynastyImpact": "Accumulates secondary youth assets, though diluting top-tier starting roster power.",
+          "sideBRosterImpact": "Creates bench bloat at RB, where Skattebo (59.9 C-AVI) cannot crack a starting lineup that already features Hampton (74.4), Tuten (73.1), Love (72.1), and Barkley (60.4).",
+          "valueAssessment": "Fair total asset value on paper, but structurally flawed: Corgi Loaf overpays in total value while sending Big Balder assets that fail to upgrade their starting lineup during a Playoff Push."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus treats Nico Collins as an elite, untouchable dynasty WR1 tied to C.J. Stroud. DeVonta Smith remains a top-tier WR2 whose current market price is temporarily depressed by a hamstring injury and backup QB play. Cam Skattebo's market value is volatile following a Week 5 fumble and a Week 6 snap drop (6 snaps, 0 carries).",
+          "aviVsMarket": "AVI accurately mirrors market consensus: Collins (93.0 C-AVI / 96.0 D-AVI) commands a premium as a healthy alpha, whereas Skattebo's recent role erosion makes him a bench piece rather than a centerpiece trade asset for a contender.",
+          "relevantContext": [
+            "DeVonta Smith is dealing with a hamstring injury (DNP Thursday/Friday, highly doubtful for Week 7 vs. Dallas).",
+            "Cam Skattebo played just 6 snaps in Week 6 with zero carries following a Week 5 fumble, creating role uncertainty on the Giants.",
+            "Nico Collins is fully healthy, serving as C.J. Stroud's primary WR1 in Houston."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Big Balder Brand's goal is Increase Championship Odds during a Playoff Push. Trading away WR1 Nico Collins for an injured WR2 and a redundant RB conflicts directly with their current strategic window.",
+          "packageFit": "Poor structural fit. Big Balder already rosters Hampton, Tuten, Love, and Barkley; Skattebo adds zero starting lineup value as RB5.",
+          "lineupReplacement": "Replacing Collins with Smith causes an immediate -5.9 C-AVI starting lineup downgrade at WR1, plus zero projected points in Week 7 due to Smith's hamstring injury.",
+          "competitiveWindowFit": "Big Balder Brand is in win-now mode. Taking on future pick capital and bench depth in exchange for starting WR1 firepower damages their playoff push.",
+          "positionalScarcity": "Elite WR1s attached to franchise QBs in 16-team formats are extremely scarce and require targeted, high-impact starting upgrades to acquire."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 5,
+            "packageMatch": 3,
+            "lineupReplacement": 0,
+            "competitiveWindow": 0
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 38,
+          "classification": "Unlikely",
+          "explanation": "Big Balder Brand is unlikely to accept this offer as constructed. As a Playoff Push team, swapping WR1 Nico Collins for hamstring-injured DeVonta Smith, an unneeded RB5 in Cam Skattebo, and a future 2nd-round pick degrades their starting lineup without addressing any existing structural roster weakness."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Consolidating into Nico Collins is a strong championship move for Corgi Loaf, but the submitted package overpays in total value (195.5 total AVI vs 93.0) while sending Big Balder an RB they cannot use. Restructuring the offer to address Big Balder's secondary WR need (e.g., DeVonta Smith + DJ Moore) preserves Corgi Loaf's RB depth (retaining Skattebo) and presents a package that genuinely enhances Big Balder's playoff odds.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 87.1,
+              "davi": 92.8,
+              "publicMarket": 88,
+              "leagueMarket": 87.5
+            },
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 57.7,
+              "davi": 82.6,
+              "publicMarket": 60,
+              "leagueMarket": 58
+            }
+          ],
+          "receive": [
+            {
+              "name": "Nico Collins",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 93,
+              "davi": 96,
+              "publicMarket": 94,
+              "leagueMarket": 93.5
+            }
+          ],
+          "whyUserShouldDoIt": "Corgi Loaf upgrades from DeVonta Smith to alpha WR1 Nico Collins (+5.9 C-AVI) while retaining young RB Cam Skattebo and keeping all 2027 draft picks.",
+          "whyOpponentMightAccept": "Big Balder Brand acquires DeVonta Smith plus DJ Moore, giving them a usable WR2/FLEX upgrade over Chris Godwin (49.3 C-AVI) and A.J. Brown (48.5 C-AVI) to strengthen overall starting lineup depth for their Playoff Push."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 87.1,
+              "davi": 92.8,
+              "publicMarket": 88,
+              "leagueMarket": 87.5
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Nico Collins",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 93,
+              "davi": 96,
+              "publicMarket": 94,
+              "leagueMarket": 93.5
+            }
+          ],
+          "rationale": "If Big Balder prefers draft liquidity over DJ Moore, removing Cam Skattebo prevents Corgi Loaf from overpaying in player depth while offering a streamlined 2-for-1 proposal."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Nico Collins news 2026",
+          "DeVonta Smith news 2026",
+          "Cam Skattebo football 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSf5flypIExaSSpLjs0iEpv4o12_pRIl9p4WvKTXA4oF-9tak_s7NZ9YnCuQnZUdtyiNE51-IfMEkpxxn2_NsoMHbtUZAyuQlnkdLjs_d0N4PF_I2ndbikKu0H4B5xb2uwWNuhkcumVjFEfiXQoTM9U-hFWh7UUHcGK-Tp7AmQN2i5z752lrtfvtS96sOlpuP7ZA6FdtWxMwA=",
+            "title": "fieldlevelmedia.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7Y8CF_tVId0Ee121jy2f7ef0u5YNwWe9aN5MrOYOh1W8iMPowiOw2dcaoYZKVX3KUOQX3KB1MjWIIknHdwxYQhhk4o_U0f6_F8X87y2ydL6QNKZron5Ze_7TWJETr4NZhL2V3gV3nRFsjSKwNsowJGhzcBUgATSGQ_y-HDMUMMyWO3RuiOedaP0GrEbT3WmZYaLGMtnHlIzTYS6vNKAkKquk8zQ==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxqDAM2K3SnII2JlPyp1tQU-1ZAqeis3FQLFDM8lNep22SMuWGmumBdn-orJtG-N_U7b_sZojGU3D9aHP7yRNml_1WHuTQqPdSwY6-BsEvr9YXSI9oQAdl05nNyoK5OAloT45fozGKW_UQP-IO2n-gOQjjW7s1JusBeqH4sv8bKIeHhsL7tJSwbXGCefeVG8WG3-tBGUmXjHyvjyL4fj4rL_tbVc5wo54cnpZHGBqL",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFabobJzbblXTS9gKKu_OBj-JGWtJxiq2U3TS20qp26-Jk9QfV5qE2XidZ0S6qQd_REimCl55RXzcTpjKUhvrWeiZ4I4VgEJTJ5FZuFSxMc1VM2a95nclliAH7RABNNM1iTZUBz_TVZuK05I-8n07Zp8GoT6ULhtBDZydFR1hLtEAmGaNlrgivodjKDYrFPJp3Wjg1NgDaoCSKM",
+            "title": "footballguys.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnBcvrdODbklSZe2c8KMR6cJolX2Ll70TGgYnwkW0wyiN18bGCJtmCgR9ehKN4D-HZhKbW799slQU5CpKslLU82mmNplmI702te9f83YnPZFBsMmNFuKG4FJUWiL-1WZQs",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQruldav2msLL5Cghocl8lYoHR52E_pxehGyRIxSNJLQUD718AD9WPG1e1Etp1VtQcod929YLBMZJZP0hZftHW1MjC42IXskFNZUaPgy9u2qYTPRbEl3EiCIEXqqD1mYI=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9EebZsvtz1pzQR4t7m8YcFTKDunukFeZz4FaWNaDB0G32Y3aSHWpwuopEtnOl0zIZat3S-dJwX-Igwwv5tT6kYLAao8aP_PEQ1tMiTX9Hk83GQOVU8Wx3uIwBHeTATyJtO4n5qKwueBa9d0EMlSbp-MPu_KwYFwF9L2YnNtW0Lkx1Sjf21bVIQK_UC5xAGsqMdd0dfwAvqJXS",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoUXHIbdJPnU3Q0mPv3C-aauXb_F-TqFK1bMzUWxuxxLJYw4DI4iUMevY7RO8VaGYgOPyACQMUE5dwzvYSnuRaJhV1A19QBy8Qflxcg-Mmp4p3uEc4DAdsyr5db5H2GJ2fYo78WKJN4I767sRBaIUG4-JyJ-loOdmcTZKG9bcDqXnkfnnJhEE=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG129GwPbKZrXTIIC8T9eQ81R7_maPdFBxYqr-4Mwylq-jEeGQqetz_iSGFzAjeLObEFtbB82Lv8Dqy_cPrE8OMm1igsACH8a3wfXinhOPMsdYXku5YxvHZMg1dPUBJ0sWfhrLPaaUDWtX90QvzphKdSWdClkpDgxZYUV6XykV-w==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvtUWMzxuR2yiokmpreqx-TMHQ4lGnL0biaIy0rUfCU1CZWrZ410wtkphPVwJA4x_UKqMiwxXYHHqNfbSVtlYqBPHEG2MVsblURzjiaCt_JLuI3dPiAy3sQV58tB-Z3r1E6bdlv03kGzxuFDmOOL9HJC1AcldSzC6C_velfjH4yy2ZtPXgM_fqrQV2kZWkiLSF0fl_GKbmYw==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH4OT0Rxkr0izqWXPvSR6etabdrwF5wu8DAzM7wkhNqNaLQjVDQgz7qEQBT2MzuHbX_CI4VPFpO7iyv_u_lOxM2nF7FpMFLGgY_1Oz5eOc8cHrUFR5MYQKa62IEoGjFewrOv3Ws5KHtZP5Ci1SAd0ubj96Hb8fFt-ItX8WhIZSPVkVZ_ZX2Kz0YgUE8TesxTh4SkAyV9sjWXXxXOym",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8PmMOi2TB6TVqEqqtNbGFmmDtQYauQUx0Knds9k35vVGwY66wqPmYbpUAUFVMP4mixrax-FSSn6UhRdtDyTEKKcfIhWDE2HutMUZdWwl6THcW9NVgJsZQRoeUuLzzhemJ",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGif8KH5uKovixQG1dFBXBWn3n_L2_M_sViZbz1pN2SlcPGwHIbE5ssc_gsunrK1Cm59cocGcfAMSQewHbACgom5RZbRJfq-QFzdCqjNcGqfuddMIV2ad0Gqzp322aBuPFTYA1PQEKKz4WcrykbMJDhuPw24402W3HTDK43u0dS4LWM",
+            "title": "tixel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJFesXpl7Gbt2x8wnRHGya3nhC0B_JoqVHlI07yyjccjq9q7We7UfsabhsRFmQ4Swskxb5fKVtTW1Q9LoDxuAnScIUAX9DZYCqjq-NHrbPQkEnudBTbt0RYvt6G95_DpxJRUwUc0eSO1fb-4krVbKLOBzMyYnikC2ARy1RxVzyQ4CShbuCzwVpKibNKeBL55HIne7dwIjkzuLRPRXpl7uqS5Px",
+            "title": "forbes.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "1cfb8d217075bb77442bc88b763b97da00b19808",
+        "aviCoreCommittedAt": "2026-10-24T19:59:35Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 88469,
+        "groundedMarketChars": 5535,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": true
+      }
+    }
+  },
+  {
     "id": "mvmtpjah-e15bd3dc",
     "createdAt": 1792872077045,
     "expiresAt": 1793304077045,
