@@ -1,5 +1,31 @@
 [
   {
+    "id": "mvmtpjah-e15bd3dc",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "DeVonta Smith",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1792872018665,
+    "updatedAt": 1792872018665,
+    "expiresAt": 1793304018665,
+    "status": "queued"
+  },
+  {
     "id": "mvibaz6v-e0e9e0dd",
     "phase": "initial",
     "mode": "analyze_trade",
