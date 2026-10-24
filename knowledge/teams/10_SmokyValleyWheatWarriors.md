@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 308805697879937024
 - Division: 2
 - Waiver position: 5
-- Last updated from Sleeper exports: 2026-10-23
+- Last updated from Sleeper exports: 2026-10-24
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 642.3
-- championship_lineup_c_avi_avg: 80.29
+- championship_lineup_c_avi_sum: 641.0
+- championship_lineup_c_avi_avg: 80.12
 - offensive_roster_c_avi_sum: 825.1
 - offensive_roster_c_avi_avg: 58.94
 - offensive_roster_d_avi_sum: 1062.3
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Chris Olave | C-AVI: 92.6 | D-AVI: 96.3
 - TE: George Kittle | C-AVI: 82.5 | D-AVI: 84.0
 - FLEX: Wan'Dale Robinson | C-AVI: 56.8 | D-AVI: 78.5
-- FLEX: Brian Robinson Jr. | C-AVI: 50.9 | D-AVI: 64.9
+- FLEX: Mark Andrews | C-AVI: 49.6 | D-AVI: 73.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.

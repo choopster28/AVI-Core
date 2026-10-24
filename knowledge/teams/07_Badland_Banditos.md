@@ -9,24 +9,24 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-10-23
+- Last updated from Sleeper exports: 2026-10-24
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 23
-- offense: 19
+- total_players: 22
+- offense: 18
 - kickers: 1
 - idp: 3
 - other: 0
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 643.3
-- championship_lineup_c_avi_avg: 80.41
-- offensive_roster_c_avi_sum: 1052.1
-- offensive_roster_c_avi_avg: 58.45
-- offensive_roster_d_avi_sum: 1352.1
-- offensive_roster_d_avi_avg: 75.12
+- championship_lineup_c_avi_sum: 613.2
+- championship_lineup_c_avi_avg: 76.65
+- offensive_roster_c_avi_sum: 1023.1
+- offensive_roster_c_avi_avg: 60.18
+- offensive_roster_d_avi_sum: 1304.6
+- offensive_roster_d_avi_avg: 76.74
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Kenneth Walker III | C-AVI: 93.8 | D-AVI: 96.3
 - RB: Bucky Irving | C-AVI: 77.8 | D-AVI: 87.7
 - WR: Ja'Marr Chase | C-AVI: 90.9 | D-AVI: 98.5
-- WR: Mike Evans | C-AVI: 81.8 | D-AVI: 84.7
+- WR: Stefon Diggs | C-AVI: 64.4 | D-AVI: 71.5
 - TE: Brock Bowers | C-AVI: 94.7 | D-AVI: 93.5
-- FLEX: Stefon Diggs | C-AVI: 64.4 | D-AVI: 71.5
-- FLEX: Tre Tucker | C-AVI: 64.1 | D-AVI: 71.9
+- FLEX: Tre Tucker | C-AVI: 64.0 | D-AVI: 71.9
+- FLEX: Brian Thomas Jr. | C-AVI: 51.8 | D-AVI: 81.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -107,23 +107,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 77.8
 - Dynasty AVI (D-AVI, 0-100): 87.7
 - Projected PPR points: 197.3
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Devin Singletary
-- Player name: Devin Singletary
-- Player ID: 6130
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: NYG
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 28.9
-- Dynasty AVI (D-AVI, 0-100): 47.5
-- Projected PPR points: 30.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -223,7 +206,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 64.1
+- Championship AVI (C-AVI, 0-100): 64.0
 - Dynasty AVI (D-AVI, 0-100): 71.9
 - Projected PPR points: 125.9
 - Category: offense
@@ -382,6 +365,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
+### PLAYER: Devin Lloyd
+- Player name: Devin Lloyd
+- Player ID: 8329
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: CAR
+- Active: True
+- Status: Active
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
 ### PLAYER: T.J. Watt
 - Player name: T.J. Watt
 - Player ID: 4070
@@ -393,23 +393,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Tremaine Edmunds
-- Player name: Tremaine Edmunds
-- Player ID: 4968
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: LB
-- Fantasy positions: ['LB']
-- NFL team: NYG
-- Active: True
-- Status: Active
-- Age: 28.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

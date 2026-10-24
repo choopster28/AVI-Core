@@ -12205,7 +12205,7 @@
     },
     {
       "cbs_player_id": "2252834",
-      "player_bye_week": "11",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "trevon-diggs.php",
@@ -12218,7 +12218,7 @@
       "player_position_id": "CB",
       "player_positions": "CB",
       "player_short_name": "T. Diggs",
-      "player_team_id": "SEA",
+      "player_team_id": "FA",
       "player_yahoo_id": "32721",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB229",

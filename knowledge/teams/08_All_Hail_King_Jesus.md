@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-10-23
+- Last updated from Sleeper exports: 2026-10-24
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 598.0
-- championship_lineup_c_avi_avg: 74.75
-- offensive_roster_c_avi_sum: 910.7
-- offensive_roster_c_avi_avg: 60.71
+- championship_lineup_c_avi_sum: 595.8
+- championship_lineup_c_avi_avg: 74.47
+- offensive_roster_c_avi_sum: 911.0
+- offensive_roster_c_avi_avg: 60.73
 - offensive_roster_d_avi_sum: 1098.4
 - offensive_roster_d_avi_avg: 73.23
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 83.3 | D-AVI: 84.5
 - RB: D'Andre Swift | C-AVI: 82.5 | D-AVI: 86.9
-- RB: Zach Charbonnet | C-AVI: 37.7 | D-AVI: 71.0
+- RB: Kimani Vidal | C-AVI: 35.5 | D-AVI: 59.5
 - WR: Amon-Ra St. Brown | C-AVI: 97.3 | D-AVI: 98.7
 - WR: Justin Jefferson | C-AVI: 87.1 | D-AVI: 96.4
 - TE: Tucker Kraft | C-AVI: 64.1 | D-AVI: 85.3
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 37.7
+- Championship AVI (C-AVI, 0-100): 37.8
 - Dynasty AVI (D-AVI, 0-100): 71.0
 - Projected PPR points: 67.2
 - Category: offense
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 35.4
+- Championship AVI (C-AVI, 0-100): 35.5
 - Dynasty AVI (D-AVI, 0-100): 59.5
 - Projected PPR points: 60.0
 - Category: offense
@@ -154,7 +154,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: DET
 - Active: True
 - Status: Active
-- Age: 26.0
+- Age: 27.0
 - Championship AVI (C-AVI, 0-100): 97.3
 - Dynasty AVI (D-AVI, 0-100): 98.7
 - Projected PPR points: 280.5
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 36.8
+- Championship AVI (C-AVI, 0-100): 36.9
 - Dynasty AVI (D-AVI, 0-100): 47.9
 - Projected PPR points: 27.7
 - Category: offense

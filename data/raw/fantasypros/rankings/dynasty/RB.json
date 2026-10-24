@@ -3731,7 +3731,7 @@
     {
       "cbs_player_id": "2804094",
       "player_age": "28",
-      "player_bye_week": "6",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "RB",
       "player_filename": "deejay-dallas.php",
@@ -3744,7 +3744,7 @@
       "player_position_id": "RB",
       "player_positions": "RB",
       "player_short_name": "D. Dallas",
-      "player_team_id": "MIN",
+      "player_team_id": "FA",
       "player_yahoo_id": "32814",
       "player_yahoo_positions": "RB",
       "pos_rank": "RB134",
