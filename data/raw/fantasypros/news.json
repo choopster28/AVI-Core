@@ -3,6 +3,42 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-24 15:31:12",
+      "created_formated": "Sat, Oct 24th 3:31pm UTC",
+      "desc": "Zach Charbonnet (knee) will not play Sunday night against the Chiefs. ",
+      "id": 615638,
+      "impact": "There was some speculation that Charbonnet would make his long-awaited return for the Seahawks on Sunday night, but that will not be the case. Charbonnet was activated from the PUP list this past Thursday and should be ready to go for a Monday night matchup against the Bears in Week 8. ",
+      "link": "https://www.fantasypros.com/nfl/news/615638/zach-charbonnet-knee-will-not-play-week-7.php",
+      "player_id": 23152,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Zach Charbonnet (knee) will not play in Week 7"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-24 14:54:43",
+      "created_formated": "Sat, Oct 24th 2:54pm UTC",
+      "desc": "DeShon Elliott (knee) has been activated off IR. ",
+      "id": 615629,
+      "impact": "Elliott has yet to play this season and only got into five games last season. He has been practicing this week, however, and will return for the Steelers on Sunday against the Saints. Elliott registered 108 total tackles with three fumble recoveries and an interception back in 2024 for the Steelers. ",
+      "link": "https://www.fantasypros.com/nfl/news/615629/deshon-elliott-knee-returning-week-7.php",
+      "player_id": 17344,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "DeShon Elliott (knee) returning in Week 7"
+    },
+    {
       "author": "Leo Sells",
       "categories": [
         "Commentary",
@@ -415,42 +451,6 @@
       "sport_id": "NFL",
       "team_id": "BAL",
       "title": "Ronnie Stanley (toe/ankle) cleared to play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 19:50:25",
-      "created_formated": "Fri, Oct 23rd 7:50pm UTC",
-      "desc": "Rashod Bateman (shoulder) is good to go for Sunday's game against the Cincinnati Bengals.",
-      "id": 615544,
-      "impact": "Bateman will be good to go for Sunday's game after being limited by a shoulder issue earlier in the week. He isn't expected to be a trustworthy fantasy option in this game, however, though his ceiling will be raised considerably if QB Lamar Jackson (ankle) is cleared to play ahead of game time.",
-      "link": "https://www.fantasypros.com/nfl/news/615544/rashod-bateman-shoulder-good-to-go-sunday.php",
-      "player_id": 19794,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Rashod Bateman (shoulder) good to go for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 19:48:45",
-      "created_formated": "Fri, Oct 23rd 7:48pm UTC",
-      "desc": "Lamar Jackson (ankle) is officially questionable for Sunday's game against the Cincinnati Bengals.",
-      "id": 615543,
-      "impact": "Jackson has missed the past couple of games due to an ankle injury, but he is officially questionable for Week 7 and will have a chance to make his return to the lineup on Sunday. All of Baltimore's relevant fantasy options will see a nice boost if he's back in the lineup this week, even if he's slightly limited by the lingering effects of his injury.",
-      "link": "https://www.fantasypros.com/nfl/news/615543/lamar-jackson-ankle-officially-questionable-sunday.php",
-      "player_id": 17233,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Lamar Jackson (ankle) officially questionable for Sunday"
     }
   ],
   "public_api": true,
