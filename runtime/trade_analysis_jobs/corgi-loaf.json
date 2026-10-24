@@ -29,9 +29,417 @@
       "maxResults": 3
     },
     "createdAt": 1792880461768,
-    "updatedAt": 1792880463492,
+    "updatedAt": 1792880547607,
     "expiresAt": 1793312461768,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. possesses substantial offensive firepower with Jaxon Smith-Njigba (99.3 C-AVI) and Malik Nabers (91.6 C-AVI) anchoring the wide receiver core, but lacks an elite RB1 centerpiece to drive maximum championship upside. By shopping DeVonta Smith (87.1 C-AVI), David Montgomery (67.7 C-AVI), Cam Skattebo (59.9 C-AVI), and a 2027 2nd-round pick, Corgi Loaf can target retooling and playoff-pushing managers who need wide receiver stability or long-term value, converting non-essential surplus into immediate high-ceiling running back producers like Kyren Williams, Derrick Henry, or Chase Brown.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Playoff Push / Win Championship",
+          "strengths": [
+            "Elite young wide receiver duo in Jaxon Smith-Njigba (99.3 C-AVI) and Malik Nabers (91.6 C-AVI)",
+            "High-end quarterback floor with Patrick Mahomes (61.4 C-AVI / 80.6 D-AVI)",
+            "Top-tier TE foundation with Tyler Warren (83.5 C-AVI)"
+          ],
+          "priorityNeeds": [
+            "Acquire a true elite RB1 anchor to boost weekly championship ceiling",
+            "Consolidate mid-tier running back depth and future pick capital into starting-lineup upgrades",
+            "Optimize roster efficiency by reallocating surplus WR value to RB"
+          ],
+          "tradeableSurplus": [
+            "DeVonta Smith (WR, 87.1 C-AVI / 92.8 D-AVI)",
+            "David Montgomery (RB, 67.7 C-AVI / 78.2 D-AVI)",
+            "Cam Skattebo (RB, 59.9 C-AVI / 80.8 D-AVI)",
+            "2027 2nd · Badlands · Projected Late (48.5 AVI)"
+          ],
+          "constraintsApplied": [
+            "Must advance user's Win Championship goal by increasing active starting-lineup C-AVI",
+            "Trade partners' organizational goals (Retool / Increase Championship Odds) enforced as mandatory constraints",
+            "Starter-for-starter realism enforced across all candidate constructions",
+            "Injury status and current availability strictly honored for all target assets"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Win Championship contenders (Badland Banditos, SmokyValleyWheatWarriors, All Hail King Jesus) will not surrender top-tier RB1/WR1 cornerstones for mid-tier depth packages",
+            "Rebuilding teams (Crimson Tide Pods, Northside Kings, DMV Fantasy) lack elite win-now RB1 centerpieces matching Corgi Loaf's championship timeline",
+            "Selected franchises failed positional match or lacked necessary starting-caliber trade assets"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Gringo’s Goblins",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Kyren Williams",
+                "assetType": "player",
+                "owner": "Gringo’s Goblins",
+                "position": "RB",
+                "age": 26,
+                "cavi": 87.1,
+                "davi": 91.2,
+                "publicMarket": 88,
+                "leagueMarket": 88
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "DeVonta Smith",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "WR",
+                "age": 27,
+                "cavi": 87.1,
+                "davi": 92.8,
+                "publicMarket": 89,
+                "leagueMarket": 89
+              }
+            ],
+            "scenarioType": "Star-for-Star Positional Reallocation",
+            "strategicGoal": "Swap surplus elite WR depth for a true RB1 centerpiece to balance starting lineup scoring.",
+            "scoring": {
+              "availability": 24,
+              "opposingGmMotivation": 23,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 87,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Corgi Loaf is stacked at WR with Smith-Njigba and Nabers. Moving DeVonta Smith for Kyren Williams gives Corgi Loaf an elite 87.1 C-AVI workhorse running back, dramatically boosting weekly RB scoring for the title push.",
+            "whyOpponentMightAccept": "Gringo's Goblins is in Retool status. Swapping a 26-year-old high-volume RB for a elite 27-year-old WR in DeVonta Smith (92.8 D-AVI) extends their structural competitive window while insulating them against running back age-cliff decay.",
+            "championshipImpact": "Immediate tier-1 upgrade at RB1 position, raising weekly projected scoring ceiling significantly.",
+            "dynastyImpact": "Neutral D-AVI exchange (92.8 D-AVI vs 91.2 D-AVI) that shifts value into crucial positional balance.",
+            "rosterImpact": "Rebalances roster from WR depth surplus into high-volume RB1 production without sacrificing starting WR quality.",
+            "publicMarketContext": "DeVonta Smith commands premium market demand as a high-end WR2/WR1 route-runner; Kyren Williams remains a focal point in Los Angeles' backfield.",
+            "risks": [
+              "DeVonta Smith's lingering short-term injury might require minor patience before finalized medical clearance",
+              "Kyren Williams carries typical high-touch RB workload risk"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer DeVonta Smith straight up for Kyren Williams, emphasizing Smith's superior longevity and elite target share.",
+              "acceptableConcession": "Include 2027 3rd round draft pick if Gringo's Goblins requests minor sweetener.",
+              "walkAwayPoint": "Walk away if opponent demands Corgi Loaf include a 2027 1st or an additional starter."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Ravens Regime",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Derrick Henry",
+                "assetType": "player",
+                "owner": "Ravens Regime",
+                "position": "RB",
+                "age": 32,
+                "cavi": 90.7,
+                "davi": 87.9,
+                "publicMarket": 89,
+                "leagueMarket": 89
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "David Montgomery",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 67.7,
+                "davi": 78.2,
+                "publicMarket": 68,
+                "leagueMarket": 68
+              },
+              {
+                "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 50,
+                "leagueMarket": 50
+              }
+            ],
+            "scenarioType": "Veteran Upside Consolidation",
+            "strategicGoal": "Acquire S-tier championship RB production from a retooling manager by offering a younger starter plus draft capital.",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 22,
+              "packageMatch": 17,
+              "lineupReplacement": 12,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 85,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Derrick Henry (90.7 C-AVI) provides instant league-winning upside for 2026. Turning David Montgomery and a 2nd into Henry provides an immediate +23.0 C-AVI upgrade at RB.",
+            "whyOpponentMightAccept": "Ravens Regime is Retooling. Holding a 32-year-old running back conflicts with their long-term timeline. Acquiring 29-year-old David Montgomery preserves startable backfield volume while adding a valuable 2027 2nd pick.",
+            "championshipImpact": "Massive direct boost to championship odds by adding a top-3 scoring fantasy RB.",
+            "dynastyImpact": "Slight long-term age trade-off for overwhelming immediate title equity.",
+            "rosterImpact": "Consolidates RB depth and draft capital into an elite starting anchor.",
+            "publicMarketContext": "Derrick Henry continues his dominant rushing output; David Montgomery provides reliable RB2 volume when healthy.",
+            "risks": [
+              "Age curve for 32-year-old RB",
+              "Montgomery's soft-tissue injury short-term status"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose David Montgomery + 2027 2nd for Derrick Henry, pointing out Henry's age relative to Ravens Regime's retool window.",
+              "acceptableConcession": "Upgrade 2027 2nd to a future 2nd pick if required to close.",
+              "walkAwayPoint": "Walk away if opponent demands DeVonta Smith or a 1st-round pick."
+            }
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Lightskin Legends ✊🏽",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Chase Brown",
+                "assetType": "player",
+                "owner": "Lightskin Legends ✊🏽",
+                "position": "RB",
+                "age": 26,
+                "cavi": 82.9,
+                "davi": 91.6,
+                "publicMarket": 84,
+                "leagueMarket": 84
+              },
+              {
+                "name": "2028 Round 2 (Lightskin Legends ✊🏽)",
+                "assetType": "pick",
+                "owner": "Lightskin Legends ✊🏽",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 50,
+                "leagueMarket": 50
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "DeVonta Smith",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "WR",
+                "age": 27,
+                "cavi": 87.1,
+                "davi": 92.8,
+                "publicMarket": 89,
+                "leagueMarket": 89
+              }
+            ],
+            "scenarioType": "Star Swap with Capital Return",
+            "strategicGoal": "Acquire a dynamic RB1 in Chase Brown while picking up draft capital from a contender seeking wide receiver help.",
+            "scoring": {
+              "availability": 23,
+              "opposingGmMotivation": 21,
+              "packageMatch": 17,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 81,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Chase Brown (82.9 C-AVI / 91.6 D-AVI) gives Corgi Loaf a young, high-volume starting RB1 while adding a 2028 2nd pick to replenish future trade flexibility.",
+            "whyOpponentMightAccept": "Lightskin Legends needs WR stability alongside Parker Washington. DeVonta Smith (87.1 C-AVI) provides an elite WR1 centerpiece to elevate their playoff push, making the 2nd-round pick sweetener a worthwhile price.",
+            "championshipImpact": "Solidifies starting RB position with high PPR floor while preserving strong starting WR setup.",
+            "dynastyImpact": "Gains key 2028 2nd round capital while maintaining top-tier young talent.",
+            "rosterImpact": "Fills starting RB need and adds draft capital inventory.",
+            "publicMarketContext": "Chase Brown has taken over Cincinnati's backfield; DeVonta Smith is viewed as an elite route-running receiver.",
+            "risks": [
+              "Bengals offensive environment variance",
+              "Relinquishing Smith's high weekly target ceiling"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer DeVonta Smith for Chase Brown + 2028 2nd, highlighting Smith's elite 87.1 C-AVI and 92.8 D-AVI.",
+              "acceptableConcession": "Accept a 2027 3rd in place of the 2028 2nd if opponent hesitates on 2nd-round capital.",
+              "walkAwayPoint": "Walk away if opponent refuses to attach draft capital to Chase Brown."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "David Montgomery news 2026 fantasy",
+          "DeVonta Smith news 2026 fantasy",
+          "Tee Higgins news 2026 contract injury",
+          "Kenneth Walker III news 2026 fantasy",
+          "James Cook III news 2026 fantasy",
+          "Cam Skattebo news 2026 fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQYZZrCb9Q_cCljAjAbPgJlGcD4z8IZHbHmf0nirBzaiQtGA_A8TMvF2X50S6cuDzKzy84MK1ASFsG298zrWP6XeNijkFtEXRnrY1292m7TthEq_2LO-M8m8os4R26qX0RrdUR9u07ig00eYbCpqKMmTysveiAi6hDn7Z6OQXQdHQAvYDXZVIIw4hqFKoGVWq8uVG4-q5ak25PLqGuXT9MkadB7K3UW5aFNiujljdjCQrS",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyAiTKwO4JwktJrmyiejxSErqQitG42oZPUrXUZjZroU09-UEcdJ2ykhpwoxwgRaOWRig6b26c6H2OwKzt-LDYhjER1oGiRkZdVrShA4EpFe--Gta3rejlw6n2kk9n0DgfUU8-leMOtpzrFodwpRTUW4r7O7ysSrZ8PrTPSqQg_eLZLhCELYqf",
+            "title": "stripehype.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvFd31koO9IfQ_QiNZbVmikh7E2u4rPCfvd5XXEjuKbeRYwDjGVGIlyAqKPTyhNpGTvpLXIWCPPJeyVPibqWTX4-N4jpnuz-BwMbPC7vy1wAitbhUsWGHK5FWfbNTXDVB6yOHFOmOnDd19x_peWpwAujB8xB176yHlunYkKq__Y5vO35Zk49VG6Car_SsGKdqtDMlvvkuJkxXuxw==",
+            "title": "thebiglead.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtx_aeAslE1wwGiZ5PUdmI63McTVej_JwRd7qEWftZzlm-Ilsu2d-maqowjjXqEd4uy8qpxDuv1P8B8Oa3qE2XBJl4riYm2ms7iPe0jDF3YKEBgtuyrne0YzWnRb3jBuhjOblHd-fxHyhVnJbk7jLFG8wrvxSq6XZ6TS-gJKYFVjFt-CXoqc5ndnFH7QaWQqfNapaHZuG8PJXecvF85pV4z-Hn",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4cGfT-b0TdjS33ENS5bQ3-WA1iaqZNcAM421Xf9OcTmiQHbUNlxlI302_tLQI-TJHkZ_Tud--rtiz43iJexut8rKgfRO0nMLnEpIH6kHsxlaE84FNi8OnZ3mxdCvIvNXO",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy1SoaS6gjt2f3xYV1x08H5CFWRcFRLFAMxtoRPCDENDH37nUvxOOQvFNIvDS73yK5TaIZ2hthV0eDMqYDESByNA_nXgSPvpxVxfj-uRWNia63HzT3zco01JQkRXCEV7THCf7co2m4r8sPRdNGrtLjf63gpNhziSnSoFwUiPj9_4myDmBHzGfCWrdsLLDeQgqPKDNpZ-TmTJpPUFm3G2AspsnY5FYs7w==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEue73AIpTIgJL4ZLagv1kSjoBu7R3-xL3mbUZ__aFTNQAdHCnXQsKrtY6ctOVlNP-uqYX15bDdV9nVk3MLbfaihRbe01IgQ3O549kLyuge1P0PZqNMMUHklAmiJ_3-qceY7TbCBTL752r4aw05y3L40zMRT0Uq5Z6D4fBb713tXUKCP929bnIoJ2ysAGP1k-dPdKcEx_T0QjUcBqIjPhF-hKECLNz1",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFyxXlNxRh_37TjOY51pXKvtZlUtKKvB7pJcdetn37PSL1ilUcAf1ZHrJ_uxOgHjn_upp7K_GJ1FV_6F6_cYJElYtDY5VmDezkXntHVxeyQvzX-ebxEC7ofRKpFfJKnLJDL2gtN-TtLV5b1BWRFw-MgGgRdJ_yf97XOkI=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsYC-OScRVAUf-GWI-GdNkyK6EFgllURknCfQlXKxdYHKjBNQjMTjhq4vxySIXts4xI85gvHofSgAGZdmJE_FPBpYaxNPbfvcfl04WOS3-PyT9v9Gbh8oMFLVmMpoeXrS9VSxmhZBQ3i7DGB-q5GPvtz8aM3kCwybgImdlTSOk_tcl4q1zmnRPpc206NXhkw_5R1qp8FZ8MuYe",
+            "title": "footballguys.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoADM0RYsBEozH4njNl9t2iiVp1sMt_vsViYoJK5IW3n6uGcr2_p0uSobRkYQ3UHTDgUVR-q40GD1FRJaOwe_9N22nSoU42PNpTckeDWTaD3DcfIirLH5FMBxfxDVOA1vcWfPRmd_WHQjUVN_JtcFb6js=",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgBP14HiwGxO8HJItyWO6pWHlcURqcGI-Eht3XCpo4u5dlaBL20Dhbuao0UKqTLBES27fCtmodipsUpNZyxL0uteMNLAsGdD-9U-EOgSymhoVAcCrkoiYah55IfA2qOLNmzmgcqSMwbE51IqrCiORUe18toxsrpGwD8BxibZflSslkCyQ9UJ2aDdusxRw=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3Vm5hDLxM9Ju8gZ2i1iOHhAT_f6GeWT5ehBSCT-siAOg7eH6vyPNo-FbrK4n5--mWKR8PMSLzaBfy0M-A9znzkZpgDwoth9NkNv7dJEkbtN9AWpmzSVoy59e20EvRoriwOFj_9u6IlaO1HVNI5djfkyM=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg3cMkWRAzSq7HeaFau7ePLsiQFJ17ZbTsBb9K8CoyG4QKzkQO6CAEAj7b-BApIGRxfKfZ7lV-ZUdUHraoWqWo_BbomME7SXJUbtAkfZY5jyx_4XyAqT3bslOnCeqzw0Z5lP9LcXkkkPjVjiwlFtHutOyRGAMTQHgNisTGOPIvCaXGctdJcKNh0gkziiO4KdUXsggKea5QN7d36jfDC2AwYeM=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYaddVhg_Czg1CnAYeHiJmfj3CK1yUnfo09zLvJmZrHMgs3-L7P4LVJakEhI0AfWlHFy01xKTpwLKlf7R3kVOaJ1qX7TD0G2BYNKBmdKXAoGtRvQXjQVZF1egDwJH7NV7z",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_70OBBE8c2hsvFgEskFOiCRFXTKHKKX7eZ94idXUN0vhRVzEJ2ULHRt-trghtLDVyDPeni9veZu6iNKEkbLD-J3nk2LWEumc-szN9XcIRziex8Pr0pMP3oYQLJ3vKWAKVUeYnwtaIzpqCywoVnfjAlwg8t1ULOf8X7ZZby76fYKfTp-KNcrZDXnmXxru22_-N_MnZ12BE2bojDg==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHktV9-VkAWVsvnpcPCEJkE3zR3IKRRJJhLmrUIZDWjNdWDzUutqi-WMSJiHhZ9UGcimx7tFdKykQWgRsyZ1nDkXN6FR-2_au_uEdiiZIF_WjXpqaM-3QYe97rDxHusrovhnTgCxFM3cXN6UlAIGh76wznQ9l4zOLGT-8I0c2-t8NGtBwEB3bWocWj2KQal3NFi-sY08rIeIrqogxeAUQbQBtXvvmj2Z1o5",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8O0MbL-mkBSOoqBhHcpaiEU6vuexU1yogeftCiNPo0P8-QZiFcoHjnH2UeZ_sKOLyoodb-FREKfmD-eSc40PzRbxAAYFQ8oN2lPVlqA-aDFtE-gsZJ4bw_mgM3071pnC82NUDTCAw9nZOVbZ6rA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmVLwRfIqaqgoOQQQnIBVk_ZBbtg71WejXEDi5l_xGDZxoW0oyB4SS0vWLtsiUSCeZwvkKSiYaMHaMn_kE48qZH6Coojdrv8iq_17MyWWY-LubqVGfhEat5YYNHoHvIA==",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvhfQqTeRqUPHMouY8FDAjCanfeu85c4aPfBRE2BubXPzLCKB-6QOHyuvPIOVQSTIVReq5bqhMlB-myFVlcQo-_F9BI9eJtWbuyzaHt7UtQuMnkFrSQD0MEmnIQpFQybHIk1xu_NmF2kBNokq1dweVSZyxwsGGE7opGTxbebBoFuOVm91aEqweKDmUAjwg3AE2XpjFUj1dU6EiSulWpMFlqKV-cQ==",
+            "title": "buffalowdown.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwHCIWjJTWqmuLcja_Lbd9XBhAiAVcLhd7Kam49xifGFX_nG_f4z9VUNUvZfj3pypfpGTcl6SOhzxZAZWiHofqr89NgkSMbOmqfI42dB1xrSpFYt73O5Jyh2ZWYRD6ijuj4hnxH9UhS25b",
+            "title": "fantasybot.ai"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Tee Higgins",
+          "DeVonta Smith",
+          "Kenneth Walker III",
+          "David Montgomery",
+          "Cam Skattebo",
+          "James Cook III"
+        ],
+        "aviCoreCommitSha": "92e45195dc5b20650b26a9e61016a72488a8719b",
+        "aviCoreCommittedAt": "2026-10-24T21:42:37Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 543403,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 251,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mvmuebzb-e02e4397",
