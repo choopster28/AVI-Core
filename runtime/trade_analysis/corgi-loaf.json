@@ -1,5 +1,400 @@
 [
   {
+    "id": "mvmtpjah-e15bd3dc",
+    "createdAt": 1792872077045,
+    "expiresAt": 1793304077045,
+    "mode": "shop_assets",
+    "title": "Initial Shop Assets · Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "DeVonta Smith",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. is shopping DeVonta Smith alongside a 2027 2nd-round pick (Badland Banditos) to pivot away from Smith's current hamstring uncertainty and consolidate immediate championship-winning starting WR production. Market evaluation across all 15 rival franchises reveals 3 strong, realistic near-peer opportunities with contend/retool franchises—All Hail King Jesus, Ravens Regime, and Conquistadors—where the 2027 2nd pick serves as a sufficient sweetener to unlock reliable WR1/FLEX upgrades like Tee Higgins, Zay Flowers, and George Pickens without surrendering starting lineup caliber.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Playoff Push",
+          "strengths": [
+            "Elite WR core anchored by Jaxon Smith-Njigba and Malik Nabers",
+            "Premier QB foundation with Patrick Mahomes and Tyler Shough",
+            "Robust FLEX lineup depth and high TE production with Tyler Warren"
+          ],
+          "priorityNeeds": [
+            "Immediate starting-lineup WR/FLEX ceiling free of current injury risk",
+            "Consolidation of depth assets into elite active weekly points"
+          ],
+          "tradeableSurplus": [
+            "DeVonta Smith (WR, C-AVI: 87.1, D-AVI: 92.8)",
+            "2027 Round 2 Pick (Badland Banditos) (Pick AVI: 48.5)"
+          ],
+          "constraintsApplied": [
+            "Must advance Win Championship / Increase Championship Odds goal",
+            "All outgoing and incoming players must belong to the league-relative starter pool",
+            "Target team organizational goals applied as mandatory second-front-office constraints",
+            "Hard injury exclusions applied (out-for-season assets eliminated from incoming proposals)"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Badland Banditos eliminated from Terry McLaurin target list due to McLaurin's season-ending torn patellar tendon, violating contender immediate lineup-replacement rules",
+            "Rebuilding franchises (DMV Fantasy, Crimson Tide Pods, Northside Kings) eliminated due to lack of win-now WR1 assets matching DeVonta Smith's near-peer value tier",
+            "Playoff Push rivals unwilling to trade cornerstone starters to a direct playoff contender without an overwhelming premium"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "All Hail King Jesus",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Tee Higgins",
+                "assetType": "player",
+                "owner": "All Hail King Jesus",
+                "position": "WR",
+                "age": 27,
+                "cavi": 83.8,
+                "davi": 91.1,
+                "publicMarket": 84,
+                "leagueMarket": 83.8
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "DeVonta Smith",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "WR",
+                "age": 27,
+                "cavi": 87.1,
+                "davi": 92.8,
+                "publicMarket": 88,
+                "leagueMarket": 87.1
+              },
+              {
+                "name": "2027 Round 2 Pick (Badland Banditos)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Starter Swap + Sweetener",
+            "strategicGoal": "Swap for an immediately active elite WR in a high-powered offense while insulating opponent's title odds with a 2nd-round pick",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 21,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 86,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Tee Higgins is fully healthy and operating as a weekly WR1 option alongside Joe Burrow in Cincinnati. Swapping DeVonta Smith avoids Smith's lingering hamstring issues while securing immediate, reliable starting points for your championship run.",
+            "whyOpponentMightAccept": "All Hail King Jesus (Win Championship) receives DeVonta Smith—who possesses higher baseline C-AVI (87.1 vs 83.8) and D-AVI (92.8 vs 91.1)—plus a 2027 2nd-round pick sweetener to build draft liquidity while maintaining an elite WR trio alongside Justin Jefferson and Amon-Ra St. Brown.",
+            "championshipImpact": "Upgrades active weekly lineup consistency and eliminates injury downtime at FLEX/WR2 during critical stretch weeks.",
+            "dynastyImpact": "Neutral to slightly positive; retains prime 27-year-old WR talent while smartly spending a late 2nd pick to guarantee immediate availability.",
+            "rosterImpact": "Slots directly into starting WR/FLEX ahead of DJ Moore and Tank Dell.",
+            "publicMarketContext": "Tee Higgins is in a dominant contract year rhythm with heavy weekly target volume. DeVonta Smith is currently week-to-week with a hamstring aggravation.",
+            "risks": [
+              "DeVonta Smith returns to full health and outperforms Higgins over the final month",
+              "Bengals offensive pass volume fluctuates if Joe Burrow leans heavily on Ja'Marr Chase"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer DeVonta Smith straight up or with a 2027 3rd, highlighting Smith's superior long-term dynasty rank.",
+              "acceptableConcession": "Include the 2027 2nd (Badland Banditos) as requested to finalize the deal immediately.",
+              "walkAwayPoint": "Do not add any additional 1st-round draft capital or young starters like Cam Skattebo."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Ravens Regime",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Zay Flowers",
+                "assetType": "player",
+                "owner": "Ravens Regime",
+                "position": "WR",
+                "age": 26,
+                "cavi": 88.9,
+                "davi": 94.7,
+                "publicMarket": 90,
+                "leagueMarket": 88.9
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "DeVonta Smith",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "WR",
+                "age": 27,
+                "cavi": 87.1,
+                "davi": 92.8,
+                "publicMarket": 88,
+                "leagueMarket": 87.1
+              },
+              {
+                "name": "2027 Round 2 Pick (Badland Banditos)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Retool Asset Reallocation",
+            "strategicGoal": "Acquire Baltimore's alpha target receiver while accommodating opponent's retool timeline with draft capital",
+            "scoring": {
+              "availability": 24,
+              "opposingGmMotivation": 20,
+              "packageMatch": 17,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 81,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Zay Flowers (C-AVI: 88.9, D-AVI: 94.7) offers supreme target volume as Lamar Jackson's top wideout, giving your starting lineup an active weekly ceiling upgrade over a banged-up Smith.",
+            "whyOpponentMightAccept": "Ravens Regime is in Retool status. Acquiring DeVonta Smith gives them a proven near-peer WR star while picking up a 2027 2nd pick to bolster their retooling asset base.",
+            "championshipImpact": "Adds a top-15 PPR wide receiver with double-digit weekly target share into your active championship lineup.",
+            "dynastyImpact": "Gains a slightly younger wide receiver asset (age 26 vs 27) with elite D-AVI (94.7).",
+            "rosterImpact": "Pairs Zay Flowers with Jaxon Smith-Njigba and Malik Nabers to form an unbeatable 3-receiver nucleus.",
+            "publicMarketContext": "Zay Flowers commands high target share in Baltimore's passing game. DeVonta Smith's temporary injury uncertainty provides a window for a retooling opponent to demand a sweetener.",
+            "risks": [
+              "Baltimore passing volume can be game-script dependent on heavy rushing weeks",
+              "Surrendering the 2027 2nd pick reduces future mid-round rookie flexibility"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose DeVonta Smith for Zay Flowers straight swap emphasizing Smith's proven multi-year production.",
+              "acceptableConcession": "Add the 2027 2nd (Badland Banditos) pick if Ravens Regime insists on retool capital.",
+              "walkAwayPoint": "Walk away if opponent demands a 2027 1st or an additional startable RB."
+            }
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Conquistadors",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "George Pickens",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "WR",
+                "age": 25,
+                "cavi": 88.1,
+                "davi": 94.6,
+                "publicMarket": 89,
+                "leagueMarket": 88.1
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "DeVonta Smith",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "WR",
+                "age": 27,
+                "cavi": 87.1,
+                "davi": 92.8,
+                "publicMarket": 88,
+                "leagueMarket": 87.1
+              },
+              {
+                "name": "2027 Round 2 Pick (Badland Banditos)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Contender Near-Peer Pivot",
+            "strategicGoal": "Capitalize on rival contender's depth needs by offering a high-volume WR and pick capital for explosive starting firepower",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 18,
+              "packageMatch": 16,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 76,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "George Pickens (C-AVI: 88.1, D-AVI: 94.6, Age 25) offers explosive weekly upside as Dallas' WR1 target and is two years younger than Smith, securing immediate points and long-term trajectory.",
+            "whyOpponentMightAccept": "Conquistadors (Win Championship) gain a refined, polished route-runner in DeVonta Smith plus a 2027 2nd-round pick to reload asset depth while keeping their title odds firmly intact.",
+            "championshipImpact": "Injects game-breaking big-play volatility and high touchdown ceiling into your FLEX/WR spot.",
+            "dynastyImpact": "Positive age curve adjustment (25 vs 27) with superior D-AVI (94.6 vs 92.8).",
+            "rosterImpact": "Establishes a potent WR trio alongside Jaxon Smith-Njigba and Malik Nabers.",
+            "publicMarketContext": "George Pickens is producing strongly in Dallas despite offensive noise. DeVonta Smith is sidelined short-term with a hamstring strain.",
+            "risks": [
+              "Pickens' weekly floor can be volatile depending on Dallas' offensive consistency",
+              "Conquistadors are a direct championship rival"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer DeVonta Smith + 2027 3rd for George Pickens, citing Smith's established production history.",
+              "acceptableConcession": "Upgrade the pick sweetener to the 2027 2nd (Badland Banditos) to complete the deal.",
+              "walkAwayPoint": "Walk away if opponent demands any starting RB (Montgomery/Hubbard/Stevenson) attached."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tee Higgins news 2026",
+          "DeVonta Smith news 2026",
+          "George Pickens news 2026",
+          "Terry McLaurin news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIFoWYDIeGJ4JKYLZ05isH3CteSzY82to3EfbOW4TVmIXjDZ3g0E3M-XOlVTa12hn-OA7oO7IClIFZLE03XPSU6pw5j1bRU61a3mhcdwQx1nH_Ci7N_Y9V7_rad-4WLNsa8GwaDASwguphcc9A0Gdu2SnEHWOOAoV5rLtMw9uZc9sKAsKgNA_xRiwTjA==",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI47BuExBEQVrexK9nUn8qYOGd15IDhI6Jme5hnTdvHkBk7EjUVRxV1eP35xT-NllR1NdI4difQQg-NVKuw-fbDmoulIOfkIrM7ZxgpF_rIAqJE-5rDVQfrJIIzmbcTbhZ-IOHHqy9ayuPAOT__9Iz9ctTEV6zgutWpLRVOEmNuZs57RPGgrMfO2XJpxpqL0AU",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQiQ2IUzVLBy8P8y41oZ0A4Psue46bbgnRNrZUsRJgyGTB8yLWUKs0Gwuc1EHtHAk6UTx_YSLlL9oYyAiTGViEZog094Jf-yM_pvB7iG3vPFCdK1ZjK-Wc53NYX9va5FkKMHbk4ctc0vBvWu6On_s=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiA4AZjZJsXqlsJNxDumzwJlP2YE-Cud3BI2o3zohF8uZg__HGIugp8ekManMXL2zcWmcJQmCSCh_cPKzA8J3fkB-Vsajc7PBs13TRA5e7QLM0hzE_hFpWDLzntGQqFT93Y2cqIrZYjGgQLHmKu8-6anqT0vhNy6HDcZmrxlJjlyhbX-pV0LSd-CBvGCTbaRPqk05aYHGgclY2vvFdlVt710Vqzoc=",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4GqpAl0Yq9JR05k0JVEAjSNjU6YiI0uujW-yiVg4JqdMaYGmmDvytcY1A8HnBX2pRGyPSKRazXmSnOpWS7CsIbtDpPgdUlL55PJ0YdtzwDRS92raCtRyUZll2yjgquSqiyXmn4GvgZDdODceEgyqSy2g4OWnMibBtp6-ISy5-1wOOAFV9GT59onNssPbhHflglgucZlLGtgzNOlJJaEtnRIK7",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFduTJsD9oK61lPBuPPEN4SZFAX00TCuAFQmDtPCDLqJkvImXxwolmfEHcyHKIhfyHbixmSktSt8nWqgimkj0UwZsHFNGGOWqWchpZiaTH--tHh3hVcquMmj7o4kzM5_M=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6Ohtm7o1NoSwBQ1cz_9_CZGvLqokhftDcuG4UD-K6ELZfqseT3bacgwb-UyRI0hg0m7ew9VpA0ephHpVEWsD0XmOLK5dViHWsGxpv7t0R7xW6MI9Rq5N90zDTVrdXTmdyXvFGRzdVXE2qFjN_z3G37xaA-tmAYM9iYtKark-xXSOTyxjCCvotHquhMEz5CM-6gAoe_fmaP3_wOtyoLQgFMwHuSVp8HkQTW-J5wU62cFNhavId1AGoJWUq0XlQkaH8eKvboRJlUAs=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzdYztD4Joub3jAw9l2aZEuc-hMNN7yRVWZPw_mp3E3EsxId5f8O2WiWjFysd8jDVsgcH3Z0HY6mk8j4M73OXPpKmrMTNGOAH4u34mOqTBR8AT8gzlb6JjXv-o9Fv07LwNRCRXl7Bl2NuXjj_QID3iEUFY53zd2IN64pMoJ8KODzwBfLpbmTw7GXFwiDOBDga0zg==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSKKyGgI3n2y5NeWkyVVHqOGCYp0xHRnLrsf2zF_s5IFX3wukoGNCBWj6KNTKv7a2vDtq50VWulb8VczTyt1LaYIwbQnZ1rFXUTPlC6NTiR7Y8CEPq1hyCyjeGacgi2R_N-763hKHUCrcAcUtdZYm8y7NXbxjAM0sqI8dmpzUQDSLCX_AC0H-ZBy0cGYBoe9o4YB0d",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTPvHcpjAP_iP2bCW4TcUEMjA0HTgOeYdFXD7cPAtjFgNi45jslibykDXkcNNeQkXU_exN1w4a_wceG7pBw2yZoTcNmxQtyMXpgUIha7NOtbnGi00cwe25DORUtJtpaXvQzvWUURwLqAHoyA_6YWskvlmAA87tugQyr7U4dUQy3frB8as4OsL2cXkqkH3qxkg66gS96-xHQsisi97ipPDS8VG47UgrCFgBWEvjeOA=",
+            "title": "washingtonpost.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "George Pickens",
+          "DeVonta Smith",
+          "Terry McLaurin",
+          "Tee Higgins"
+        ],
+        "aviCoreCommitSha": "1cfb8d217075bb77442bc88b763b97da00b19808",
+        "aviCoreCommittedAt": "2026-10-24T19:59:35Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 543403,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 251,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mvibaz6v-e0e9e0dd",
     "createdAt": 1792599305456,
     "expiresAt": 1793031305456,
