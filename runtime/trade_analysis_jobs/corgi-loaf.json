@@ -1,5 +1,39 @@
 [
   {
+    "id": "mvmyqi14-c4522e46",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "DeVonta Smith",
+          "assetType": "player"
+        },
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        },
+        {
+          "name": "Cam Skattebo",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1792880461768,
+    "updatedAt": 1792880461768,
+    "expiresAt": 1793312461768,
+    "status": "queued"
+  },
+  {
     "id": "mvmuebzb-e02e4397",
     "phase": "initial",
     "mode": "analyze_trade",
