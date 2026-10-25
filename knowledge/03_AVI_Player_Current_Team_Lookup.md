@@ -396,6 +396,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
 
+## PLAYER LOOKUP: Cyrus Allen
+- Player name: Cyrus Allen
+- Player ID: 13413
+- Position: WR
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
+
 ## PLAYER LOOKUP: D'Andre Swift
 - Player name: D'Andre Swift
 - Player ID: 6790
@@ -1075,14 +1083,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
-
-## PLAYER LOOKUP: Jordan Whittington
-- Player name: Jordan Whittington
-- Player ID: 11623
-- Position: WR
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
 
 ## PLAYER LOOKUP: Jordyn Tyson
 - Player name: Jordyn Tyson
@@ -2069,15 +2069,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 61.7
 - Availability: available
 
-## AVAILABLE PLAYER: Cyrus Allen
-- Player name: Cyrus Allen
-- Player ID: 13413
-- Position: WR
-- NFL team: KC
-- Championship AVI (C-AVI, 0-100): 35.3
-- Dynasty AVI (D-AVI, 0-100): 62.2
-- Availability: available
-
 ## AVAILABLE PLAYER: Ray Davis
 - Player name: Ray Davis
 - Player ID: 11575
@@ -3012,6 +3003,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: PIT
 - Championship AVI (C-AVI, 0-100): 24.0
 - Dynasty AVI (D-AVI, 0-100): 45.2
+- Availability: available
+
+## AVAILABLE PLAYER: Jordan Whittington
+- Player name: Jordan Whittington
+- Player ID: 11623
+- Position: WR
+- NFL team: LAR
+- Championship AVI (C-AVI, 0-100): 23.9
+- Dynasty AVI (D-AVI, 0-100): 53.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Odell Beckham Jr.
