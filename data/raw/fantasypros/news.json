@@ -1,7 +1,151 @@
 {
-  "count": 25,
+  "count": 23,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-25 15:51:12",
+      "created_formated": "Sun, Oct 25th 3:51pm UTC",
+      "desc": "49ers WR Christian Kirk (calf) is officially active for a Week 7 matchup with the Falcons. ",
+      "id": 615701,
+      "impact": "Kirk is set to make his debut for the 49ers and could be heavily involved with Deebo Samuel and Mike Evans both out due to injury. Fantasy managers should expect Kirk to see plenty of playing time against Atlanta. ",
+      "link": "https://www.fantasypros.com/nfl/news/615701/christian-kirk-calf-officially-active-week-7.php",
+      "player_id": 17268,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Christian Kirk (calf) officially active for Week 7"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-25 15:48:34",
+      "created_formated": "Sun, Oct 25th 3:48pm UTC",
+      "desc": "Dolphins WR Caleb Douglas (ankle) is officially active for Week 7 matchup with the Jets.",
+      "id": 615700,
+      "impact": "Douglas has been out of action since Week 2. Prior to his injury, he had seven receptions for 113 yards in his first two NFL games. Fantasy managers should expect him to be involved in the Dolphins' passing attack. ",
+      "link": "https://www.fantasypros.com/nfl/news/615700/caleb-douglas-ankle-officially-active-week-7.php",
+      "player_id": 28135,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Caleb Douglas (ankle) officially active for Week 7"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-25 15:41:32",
+      "created_formated": "Sun, Oct 25th 3:41pm UTC",
+      "desc": "Jets RB Breece Hall (quad) is officially inactive for a Week 7 matchup with the Dolphins.",
+      "id": 615698,
+      "impact": "Hall was expected to test his injured quad in pregame warmups, but will now miss his fourth straight game. Braelon Allen will serve as the primary running back against Miami. ",
+      "link": "https://www.fantasypros.com/nfl/news/615698/breece-hall-quad-officially-inactive-week-7.php",
+      "player_id": 22982,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Breece Hall (quad) officially inactive for Week 7"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-25 15:38:25",
+      "created_formated": "Sun, Oct 25th 3:38pm UTC",
+      "desc": "Texans WR Tank Dell (knee) is officially active for a Week 7 matchup with the Giants.",
+      "id": 615697,
+      "impact": "Dell was considered questionable to play but will suit up for the first time since December 2024. Fantasy managers should expect Dell to have limited fantasy value right now. ",
+      "link": "https://www.fantasypros.com/nfl/news/615697/tank-dell-knee-officially-active-week-7.php",
+      "player_id": 25361,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Tank Dell (knee) officially active for Week 7"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-25 15:36:35",
+      "created_formated": "Sun, Oct 25th 3:36pm UTC",
+      "desc": "Titans RB Tyjae Spears (knee) is officially inactive for a Week 7 matchup with the Browns.",
+      "id": 615696,
+      "impact": "Spears continues to deal with a nagging knee injury that will keep him out this week. Tony Pollard will see the bulk of the touches out of the Titans' backfield, with Julius Chestnut serving as the backup. ",
+      "link": "https://www.fantasypros.com/nfl/news/615696/tyjae-spears-knee-officially-inactive-week-7.php",
+      "player_id": 25323,
+      "sport_id": "NFL",
+      "team_id": "TEN",
+      "title": "Tyjae Spears (knee) officially inactive for Week 7 "
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-25 15:35:18",
+      "created_formated": "Sun, Oct 25th 3:35pm UTC",
+      "desc": "Titans WR Calvin Ridley (hip) is officially inactive for a Week 7 matchup with the Browns.",
+      "id": 615695,
+      "impact": "Ridley was tagged as questionable as he dealt with a hip injury that lingered throughout the week. His absence will likely open up some playing time for a few depth wide receivers on the roster. ",
+      "link": "https://www.fantasypros.com/nfl/news/615695/calvin-ridley-hip-officially-inactive-week-7.php",
+      "player_id": 17258,
+      "sport_id": "NFL",
+      "team_id": "TEN",
+      "title": "Calvin Ridley (hip) officially inactive for Week 7"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-25 15:33:15",
+      "created_formated": "Sun, Oct 25th 3:33pm UTC",
+      "desc": "Browns RB Dylan Sampson (knee) is officially active for Week 7.",
+      "id": 615694,
+      "impact": "Sampson was considered questionable to play against the Titans, but will serve as the backup to Quinshon Judkins in a plus matchup against Tennessee. ",
+      "link": "https://www.fantasypros.com/nfl/news/615694/dylan-sampson-knee-officially-active-week-7.php",
+      "player_id": 27102,
+      "sport_id": "NFL",
+      "team_id": "CLE",
+      "title": "Dylan Sampson (knee) officially active for Week 7 "
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-25 12:17:32",
+      "created_formated": "Sun, Oct 25th 12:17pm UTC",
+      "desc": "Rico Dowdle (knee) is officially active for Week 7 for the Pittsburgh Steelers against the New Orleans Saints according to Nick Farabaugh.",
+      "id": 615681,
+      "impact": "Dowdle will suit up after struggling through limited practice sessions late in the week, offering head coach Mike McCarthy another option out of the Pittsburgh backfield behind Jaylen Warren against the Saints.",
+      "link": "https://www.fantasypros.com/nfl/news/615681/rico-dowdle-knee-active-week-7.php",
+      "player_id": 19647,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Rico Dowdle (knee) active for Week 7"
+    },
     {
       "author": "Jordan Epp",
       "categories": [
@@ -206,24 +350,6 @@
         "News",
         "Injury"
       ],
-      "created": "2026-10-23 21:29:19",
-      "created_formated": "Fri, Oct 23rd 9:29pm UTC",
-      "desc": "Tank Dell (knee) is officially listed as questionable to play in Sunday's game against the New York Giants.",
-      "id": 615566,
-      "impact": "Dell is officially listed questionable to play on Sunday, but it was reported earlier in the week that he is going to play, so it seems likely that he is going to suit up against the Giants. Fantasy managers shouldn't expect him to be fantasy relevant even if active, however.",
-      "link": "https://www.fantasypros.com/nfl/news/615566/tank-dell-knee-officially-listed-questionable-sunday.php",
-      "player_id": 25361,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Tank Dell (knee) officially listed questionable for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
       "created": "2026-10-23 21:26:27",
       "created_formated": "Fri, Oct 23rd 9:26pm UTC",
       "desc": "Reed Blankenship (concussion/hand) is out for Sunday's game against the New York Giants.",
@@ -288,168 +414,6 @@
       "sport_id": "NFL",
       "team_id": "HOU",
       "title": "Blake Fisher (thumb) sidelined for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 21:20:03",
-      "created_formated": "Fri, Oct 23rd 9:20pm UTC",
-      "desc": "Trent Brown (wrist) was cleared to play in Sunday's game against the New York Giants.",
-      "id": 615561,
-      "impact": "The veteran lineman will be good to go for Week 7, despite missing a practice earlier in the week due to a wrist issue. He will continue to be a key starter on Houston's offensive front moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/615561/trent-brown-wrist-cleared-to-play-sunday.php",
-      "player_id": 15435,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Trent Brown (wrist) cleared to play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 21:18:20",
-      "created_formated": "Fri, Oct 23rd 9:18pm UTC",
-      "desc": "Dalton Schultz (quad) is good to go for Sunday's game against the New York Giants.",
-      "id": 615560,
-      "impact": "The veteran was dealing with a quad injury at practice throughout the week, but it's not a serious issue at this point and won't prevent him from playing in Week 7. He will continue to be a decent week-to-week streaming option in PPR formats moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/615560/dalton-schultz-quad-good-to-go-sunday.php",
-      "player_id": 17349,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Dalton Schultz (quad) good to go Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 21:13:07",
-      "created_formated": "Fri, Oct 23rd 9:13pm UTC",
-      "desc": "Nick Bosa (knee/calf) was ruled out for Sunday's game against the Atlanta Falcons.",
-      "id": 615559,
-      "impact": "Bosa will miss yet another game while recovering from a pair of injuries. San Francisco's defensive front will continue to operate at less than full capacity until he's back in the lineup.",
-      "link": "https://www.fantasypros.com/nfl/news/615559/nick-bosa-kneecalf-ruled-out-sunday.php",
-      "player_id": 18199,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Nick Bosa (knee/calf) ruled out for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 21:10:13",
-      "created_formated": "Fri, Oct 23rd 9:10pm UTC",
-      "desc": "Christian Kirk (calf) is questionable for Sunday's game against the Atlanta Falcons.",
-      "id": 615558,
-      "impact": "Kirk has yet to make his debut for the 49ers this season, but it may come on Sunday, as he is officially considered questionable to play against the Falcons. If he's cleared to play, he will likely be in line for a good amount of work right away with Mike Evans (ribs/Achilles) and Deebo Samuel Sr. (hamstring) both currently sidelined for San Francisco.",
-      "link": "https://www.fantasypros.com/nfl/news/615558/christian-kirk-calf-questionable-sunday.php",
-      "player_id": 17268,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Christian Kirk (calf) questionable for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 21:07:34",
-      "created_formated": "Fri, Oct 23rd 9:07pm UTC",
-      "desc": "Deebo Samuel Sr. (hamstring) won't play in Sunday's game against the Atlanta Falcons.",
-      "id": 615557,
-      "impact": "As expected, the veteran is going to miss another game on Sunday as he continues to nurse a hamstring injury. QB Brock Purdy doesn't project to be as strong of a fantasy option this week with him and Mike Evans (ribs/Achilles) ruled out for this matchup against the Falcons.",
-      "link": "https://www.fantasypros.com/nfl/news/615557/deebo-samuel-sr-hamstring-wont-play-sunday.php",
-      "player_id": 18244,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Deebo Samuel Sr. (hamstring) won't play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 21:06:04",
-      "created_formated": "Fri, Oct 23rd 9:06pm UTC",
-      "desc": "Mike Evans (ribs/Achilles) has been ruled out for Sunday's game against the Atlanta Falcons.",
-      "id": 615556,
-      "impact": "Evans is not going to be available to play on Sunday. He aggravated his Achilles injury last week, and with the team's bye week coming up in Week 8, they deemed it best to let him sit out this week to recover. Christian Kirk (calf) and Brandin Cooks will both see more work while he's out.",
-      "link": "https://www.fantasypros.com/nfl/news/615556/mike-evans-ribsachilles-ruled-out-sunday.php",
-      "player_id": 12119,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Mike Evans (ribs/Achilles) ruled out for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 20:31:09",
-      "created_formated": "Fri, Oct 23rd 8:31pm UTC",
-      "desc": "Matthew Golden (shoulder) is off of the injury report for Sunday's game against the Detroit Lions.",
-      "id": 615555,
-      "impact": "As expected, Golden is officially off of Green Bay's injury report and good to go for Week 7. He will play against the Lions and should be started in nearly all league formats at this point in the season.",
-      "link": "https://www.fantasypros.com/nfl/news/615555/matthew-golden-shoulder-off-injury-report-sunday.php",
-      "player_id": 26024,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Matthew Golden (shoulder) off injury report for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 20:26:22",
-      "created_formated": "Fri, Oct 23rd 8:26pm UTC",
-      "desc": "Bo Melton (back) is questionable to play in Sunday's game against the Detroit Lions.",
-      "id": 615554,
-      "impact": "Melton is uncertain to play on Sunday due to the back injury that is currently bothering him. If he's ruled out ahead of game time, Savion Williams may see more work as a result of his absence, though not likely enough to be a relevant fantasy option.",
-      "link": "https://www.fantasypros.com/nfl/news/615554/bo-melton-back-questionable-to-play-sunday.php",
-      "player_id": 24049,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Bo Melton (back) questionable to play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 20:24:12",
-      "created_formated": "Fri, Oct 23rd 8:24pm UTC",
-      "desc": "Savion Williams (ankle) will play in Sunday's game against the Detroit Lions.",
-      "id": 615553,
-      "impact": "Williams is going to be available to play on Sunday, despite managing an ankle injury earlier in the week. He isn't expected to see a lot of work against the Lions, however, though his workload will increase if Bo Melton (back) is ruled out ahead of game time.",
-      "link": "https://www.fantasypros.com/nfl/news/615553/savion-williams-ankle-will-play-sunday.php",
-      "player_id": 27144,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Savion Williams (ankle) will play Sunday"
     }
   ],
   "public_api": true,

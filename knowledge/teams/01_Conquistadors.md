@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 699.9
-- championship_lineup_c_avi_avg: 87.49
-- offensive_roster_c_avi_sum: 1119.5
-- offensive_roster_c_avi_avg: 62.19
+- championship_lineup_c_avi_sum: 696.3
+- championship_lineup_c_avi_avg: 87.04
+- offensive_roster_c_avi_sum: 1119.6
+- offensive_roster_c_avi_avg: 62.20
 - offensive_roster_d_avi_sum: 1393.0
 - offensive_roster_d_avi_avg: 77.39
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -36,8 +36,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Puka Nacua | C-AVI: 97.6 | D-AVI: 99.0
 - WR: George Pickens | C-AVI: 88.1 | D-AVI: 94.6
 - TE: Isaiah Likely | C-AVI: 82.3 | D-AVI: 85.4
-- FLEX: Breece Hall | C-AVI: 74.1 | D-AVI: 90.0
 - FLEX: Matthew Golden | C-AVI: 72.0 | D-AVI: 85.3
+- FLEX: Harold Fannin Jr. | C-AVI: 70.5 | D-AVI: 84.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -308,7 +308,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 23.8
+- Championship AVI (C-AVI, 0-100): 23.9
 - Dynasty AVI (D-AVI, 0-100): 53.5
 - Projected PPR points: 23.3
 - Category: offense

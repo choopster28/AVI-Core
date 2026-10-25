@@ -255,7 +255,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Fantasy positions: ['WR']
 - NFL team: HOU
 - Active: True
-- Status: Inactive
+- Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 31.4
 - Dynasty AVI (D-AVI, 0-100): 61.7

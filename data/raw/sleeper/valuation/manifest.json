@@ -2,7 +2,7 @@
   "feeds": {
     "projections_season": {
       "status": "sleeper",
-      "valid_players": 1477
+      "valid_players": 1479
     },
     "stats_week_1": {
       "status": "sleeper",
@@ -29,8 +29,8 @@
       "valid_players": 346
     },
     "stats_week_7": {
-      "reason": "ValueError",
-      "status": "fantasypros_fallback"
+      "status": "sleeper",
+      "valid_players": 46
     }
   },
   "season": 2026,
