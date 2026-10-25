@@ -11430,7 +11430,7 @@
     },
     {
       "cbs_player_id": "2079166",
-      "player_bye_week": null,
+      "player_bye_week": "8",
       "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "obo-okoronkwo.php",
@@ -11443,7 +11443,7 @@
       "player_position_id": "LB",
       "player_positions": "LB",
       "player_short_name": "O. Okoronkwo",
-      "player_team_id": "FA",
+      "player_team_id": "SF",
       "player_yahoo_id": "31130",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "LB304",

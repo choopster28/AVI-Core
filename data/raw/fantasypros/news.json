@@ -3,6 +3,131 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Jordan Epp",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-24 21:24:10",
+      "created_formated": "Sat, Oct 24th 9:24pm UTC",
+      "desc": "Philadelphia Eagles wide receiver Dontayvion Wicks was ruled out for Monday Night Football against Dallas due to an ankle injury.",
+      "id": 615654,
+      "impact": "Wicks did not practice this week, so this does not come as a surprise. However, multiple important players will miss Week 7, including Wicks and wide receiver DeVonta Smith. Quarterback Tanner McKee will rely on a patchwork offense in a divisional matchup. ",
+      "link": "https://www.fantasypros.com/nfl/news/615654/dontayvion-wicks-ankle-out-week-7.php",
+      "player_id": 24354,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Dontayvion Wicks (ankle) out for Week 7"
+    },
+    {
+      "author": "Jordan Epp",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-24 21:20:15",
+      "created_formated": "Sat, Oct 24th 9:20pm UTC",
+      "desc": "Philadelphia Eagles wide receiver DeVonta Smith has been ruled out for Monday Night Football in Week 7 against the Dallas Cowboys.",
+      "id": 615653,
+      "impact": "This is how the week trended, with Smith not practicing at all heading into Week 7. Smith had returned after a multi-game hiatus for Week 6, catching a touchdown from quarterback Tanner McKee; now, McKee will be without a key offensive weapon.",
+      "link": "https://www.fantasypros.com/nfl/news/615653/devonta-smith-hamstring-ruled-out-vs-dallas.php",
+      "player_id": 19222,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "DeVonta Smith (hamstring) ruled out vs. Dallas"
+    },
+    {
+      "author": "Jordan Epp",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-24 21:15:12",
+      "created_formated": "Sat, Oct 24th 9:15pm UTC",
+      "desc": "Baltimore Ravens quarterback Tyler Huntley is expected to start against the Cincinnati Bengals in Week 7.",
+      "id": 615651,
+      "impact": "Lamar Jackson (ankle) remains out despite logging three limited practices this week. Huntley gets at least one more start, with Jackson potentially returning in Week 8. Huntley has three touchdowns in two starts and is a QB2 option against an improved Bengals defense.",
+      "link": "https://www.fantasypros.com/nfl/news/615651/tyler-huntley-set-to-starts-vs-bengals.php",
+      "player_id": 19297,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Tyler Huntley set to start vs. Bengals"
+    },
+    {
+      "author": "Jordan Epp",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-24 21:10:40",
+      "created_formated": "Sat, Oct 24th 9:10pm UTC",
+      "desc": "The Baltimore Ravens have ruled out quarterback Lamar Jackson for their Week 6 matchup with the Cincinnati Bengals.",
+      "id": 615650,
+      "impact": "Jackson last played on Oct. 4 against the Tennessee Titans, throwing for two scores and 222 yards in one half. The Ravens are 1-1 in that stretch, with Tyler Huntley starting under center. A key divisional matchup awaits in a competitive AFC North, and Jackson could return in Week 8 against the Buffalo Bills.",
+      "link": "https://www.fantasypros.com/nfl/news/615650/lamar-jackson-ankle-ruled-out-week-7.php",
+      "player_id": 17233,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Lamar Jackson (ankle) ruled out for Week 7"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-24 16:02:01",
+      "created_formated": "Sat, Oct 24th 4:02pm UTC",
+      "desc": "Sauce Gardner (calf) will miss Sunday's game against the Vikings. ",
+      "id": 615647,
+      "impact": "Gardner sustained a calf injury in Week 6 and has been missing at practice all week. Justin Walley and Cam Taylor-Britt will likely see increased snaps in Gardner's absence. ",
+      "link": "https://www.fantasypros.com/nfl/news/615647/sauce-gardner-calf-will-not-play-week-7.php",
+      "player_id": 23472,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Sauce Gardner (calf) will not play in Week 7"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-24 15:58:00",
+      "created_formated": "Sat, Oct 24th 3:58pm UTC",
+      "desc": "Divine Deablo (arm) will miss Sunday's game against the 49ers. ",
+      "id": 615646,
+      "impact": "Deablo sustained a forearm injury against the Bears in Week 6 and will not be able to go on Sunday. Josh Woods will step in for Deablo. ",
+      "link": "https://www.fantasypros.com/nfl/news/615646/divine-deablo-arm-will-not-play-week-7.php",
+      "player_id": 23208,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Divine Deablo (arm) will not play in Week 7"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-24 15:55:20",
+      "created_formated": "Sat, Oct 24th 3:55pm UTC",
+      "desc": "Antoine Winfield Jr. (rib) will miss Sunday's game against the Panthers. ",
+      "id": 615644,
+      "impact": "Winfield did practice in a limited fashion this week, but he will still miss a third straight game. Ifeatu Melifonwu will step in at safety once again. ",
+      "link": "https://www.fantasypros.com/nfl/news/615644/antoine-winfield-jr-rib-will-not-play-sunday.php",
+      "player_id": 19266,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Antoine Winfield Jr. (rib) will not play Sunday"
+    },
+    {
       "author": "Nate Miller",
       "categories": [
         "Commentary",
@@ -325,132 +450,6 @@
       "sport_id": "NFL",
       "team_id": "GB",
       "title": "Savion Williams (ankle) will play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 20:21:30",
-      "created_formated": "Fri, Oct 23rd 8:21pm UTC",
-      "desc": "Christian Watson (ankle) has officially been cleared to play in Sunday's game against the Detroit Lions.",
-      "id": 615552,
-      "impact": "The star wideout is officially off of the team's injury report and will be available to play on Sunday. Fantasy managers should feel good starting him in what projects to be a great matchup against the Lions on Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/615552/christian-watson-ankle-officially-cleared-to-play-sunday.php",
-      "player_id": 23886,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Christian Watson (ankle) officially cleared to play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 20:19:31",
-      "created_formated": "Fri, Oct 23rd 8:19pm UTC",
-      "desc": "Jordan Love (back) is without an injury designation for Sunday's game against the Detroit Lions.",
-      "id": 615551,
-      "impact": "Love was managing a minor back issue early on in the week, but to no surprise, he carries no injury designation heading into the weekend and will be good to go for Sunday's game. He should be considered a solid streaming option this week in a favorable matchup against Detroit.",
-      "link": "https://www.fantasypros.com/nfl/news/615551/jordan-love-back-without-injury-designation-sunday.php",
-      "player_id": 19246,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Jordan Love (back) without injury designation for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 20:18:07",
-      "created_formated": "Fri, Oct 23rd 8:18pm UTC",
-      "desc": "Aaron Banks (knee/toe) is listed questionable for Sunday's game against the Detroit Lions.",
-      "id": 615550,
-      "impact": "Banks has been sidelined for close to a month while dealing with various injuries. He may be back in the lineup on Sunday, however, as he is officially considered questionable to play against Detroit. Green Bay's offensive front will see a nice boost whenever he's back in the lineup for them.",
-      "link": "https://www.fantasypros.com/nfl/news/615550/aaron-banks-kneetoe-listed-questionable-sunday.php",
-      "player_id": 22804,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Aaron Banks (knee/toe) listed questionable for Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 19:59:31",
-      "created_formated": "Fri, Oct 23rd 7:59pm UTC",
-      "desc": "Andrew Vorhees (foot) will play in Sunday's game against the Cincinnati Bengals.",
-      "id": 615549,
-      "impact": "The veteran is off of the injury report and will be available to play on Sunday. Cam Jurgens is set to make his debut for the Ravens in this game, however, meaning that Vorhees is not expected to be a starter for the foreseeable future.",
-      "link": "https://www.fantasypros.com/nfl/news/615549/andrew-vorhees-foot-will-play-sunday.php",
-      "player_id": 23836,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Andrew Vorhees (foot) will play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 19:57:48",
-      "created_formated": "Fri, Oct 23rd 7:57pm UTC",
-      "desc": "John Simpson (groin) will be available to play in Sunday's game against the Cincinnati Bengals.",
-      "id": 615548,
-      "impact": "Simpson is going to play on Sunday, which was the expectation since the beginning of the week. Baltimore's offensive line seems to be mostly healthy for Week 7, so it's quite possible that they will look better than usual in a tough divisional matchup against the Bengals this week.",
-      "link": "https://www.fantasypros.com/nfl/news/615548/john-simpson-groin-available-to-play-sunday.php",
-      "player_id": 19244,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "John Simpson (groin) available to play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 19:54:23",
-      "created_formated": "Fri, Oct 23rd 7:54pm UTC",
-      "desc": "Cam Jurgens (concussion) is set to play in Sunday's game against the Cincinnati Bengals.",
-      "id": 615547,
-      "impact": "Jurgens was recently recovering from a concussion, but he has since cleared the NFL's concussion protocols and will be available to make his debut for the Ravens in Week 7. The interior of their offensive line should see a nice boost moving forward with him now healthy and in the lineup.",
-      "link": "https://www.fantasypros.com/nfl/news/615547/cam-jurgens-concussion-set-to-play-sunday.php",
-      "player_id": 24183,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Cam Jurgens (concussion) set to play Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-23 19:52:19",
-      "created_formated": "Fri, Oct 23rd 7:52pm UTC",
-      "desc": "Ronnie Stanley (toe/ankle) has been cleared to play in Sunday's game against the Cincinnati Bengals.",
-      "id": 615546,
-      "impact": "Stanley was listed on team's the injury report throughout the week, but the injuries that he's managing aren't serious and won't prevent him from playing in Week 7. His presence will be especially important if QB Lamar Jackson (ankle) is back behind center this week.",
-      "link": "https://www.fantasypros.com/nfl/news/615546/ronnie-stanley-toeankle-cleared-to-play-sunday.php",
-      "player_id": 15490,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Ronnie Stanley (toe/ankle) cleared to play Sunday"
     }
   ],
   "public_api": true,
