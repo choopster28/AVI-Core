@@ -176,18 +176,19 @@
       }
     },
     {
-      "average": 0.3,
+      "average": 0.4,
       "filename": "brandon-pili.php",
-      "games": 3,
+      "games": 4,
       "player_id": 25838,
       "player_name": "Brandon Pili",
-      "points": 0.75,
+      "points": 1.5,
       "position_id": "DT",
       "team_id": "SEA",
       "weeks": {
         "1": 0,
         "2": 0,
-        "5": 0.8
+        "5": 0.8,
+        "7": 0.8
       }
     },
     {
@@ -388,12 +389,12 @@
       }
     },
     {
-      "average": 0.9,
+      "average": 2.2,
       "filename": "khyiris-tonga.php",
-      "games": 5,
+      "games": 6,
       "player_id": 22767,
       "player_name": "Khyiris Tonga",
-      "points": 4.5,
+      "points": 13,
       "position_id": "DT",
       "team_id": "KC",
       "weeks": {
@@ -401,7 +402,8 @@
         "2": 0,
         "3": 2.3,
         "4": 0,
-        "6": 1.5
+        "6": 1.5,
+        "7": 8.5
       }
     },
     {
@@ -442,12 +444,12 @@
       }
     },
     {
-      "average": 8.5,
+      "average": 8.4,
       "filename": "leonard-williams.php",
-      "games": 6,
+      "games": 7,
       "player_id": 13892,
       "player_name": "Leonard Williams",
-      "points": 51,
+      "points": 58.75,
       "position_id": "DT",
       "team_id": "SEA",
       "weeks": {
@@ -456,7 +458,8 @@
         "3": 12.8,
         "4": 0,
         "5": 0.8,
-        "6": 9.3
+        "6": 9.3,
+        "7": 7.8
       }
     },
     {
@@ -2148,12 +2151,12 @@
       }
     },
     {
-      "average": 2.5,
+      "average": 2.3,
       "filename": "jarran-reed.php",
-      "games": 6,
+      "games": 7,
       "player_id": 15540,
       "player_name": "Jarran Reed",
-      "points": 14.75,
+      "points": 16.25,
       "position_id": "DT",
       "team_id": "SEA",
       "weeks": {
@@ -2162,7 +2165,8 @@
         "3": 5.3,
         "4": 0,
         "5": 0,
-        "6": 0
+        "6": 0,
+        "7": 1.5
       }
     },
     {
@@ -2257,12 +2261,12 @@
       }
     },
     {
-      "average": 3.9,
+      "average": 4.6,
       "filename": "ashton-gillotte.php",
-      "games": 5,
+      "games": 6,
       "player_id": 27039,
       "player_name": "Ashton Gillotte",
-      "points": 19.25,
+      "points": 27.75,
       "position_id": "DT",
       "team_id": "KC",
       "weeks": {
@@ -2270,7 +2274,8 @@
         "2": 3,
         "3": 3.8,
         "4": 3,
-        "6": 8.8
+        "6": 8.8,
+        "7": 8.5
       }
     },
     {
@@ -2417,12 +2422,12 @@
       }
     },
     {
-      "average": 8.1,
+      "average": 7.4,
       "filename": "byron-murphy-ii.php",
-      "games": 6,
+      "games": 7,
       "player_id": 26221,
       "player_name": "Byron Murphy II",
-      "points": 48.5,
+      "points": 51.5,
       "position_id": "DT",
       "team_id": "SEA",
       "weeks": {
@@ -2431,7 +2436,8 @@
         "3": 6.8,
         "4": 8,
         "5": 23.8,
-        "6": 3
+        "6": 3,
+        "7": 3
       }
     },
     {
@@ -3055,18 +3061,19 @@
       }
     },
     {
-      "average": 0.3,
+      "average": 0.4,
       "filename": "bryson-eason.php",
-      "games": 3,
+      "games": 4,
       "player_id": 28554,
       "player_name": "Bryson Eason",
-      "points": 0.75,
+      "points": 1.5,
       "position_id": "DT",
       "team_id": "KC",
       "weeks": {
         "3": 0.8,
         "4": 0,
-        "6": 0
+        "6": 0,
+        "7": 0.8
       }
     },
     {

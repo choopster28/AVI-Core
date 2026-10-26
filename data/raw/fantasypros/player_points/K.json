@@ -1,12 +1,12 @@
 {
   "players": [
     {
-      "average": 10,
+      "average": 9.7,
       "filename": "jason-myers.php",
-      "games": 6,
+      "games": 7,
       "player_id": 14003,
       "player_name": "Jason Myers",
-      "points": 60,
+      "points": 68,
       "position_id": "K",
       "team_id": "SEA",
       "weeks": {
@@ -15,7 +15,8 @@
         "3": 9,
         "4": 6,
         "5": 23,
-        "6": 8
+        "6": 8,
+        "7": 8
       }
     },
     {
@@ -148,12 +149,12 @@
       }
     },
     {
-      "average": 9.8,
+      "average": 9.7,
       "filename": "jake-bates.php",
-      "games": 5,
+      "games": 6,
       "player_id": 26075,
       "player_name": "Jake Bates",
-      "points": 49,
+      "points": 58,
       "position_id": "K",
       "team_id": "DET",
       "weeks": {
@@ -161,7 +162,8 @@
         "2": 7,
         "3": 7,
         "4": 18,
-        "5": 10
+        "5": 10,
+        "7": 9
       }
     },
     {
@@ -390,12 +392,12 @@
       }
     },
     {
-      "average": 10.2,
+      "average": 10.3,
       "filename": "chad-ryland.php",
-      "games": 6,
+      "games": 7,
       "player_id": 25354,
       "player_name": "Chad Ryland",
-      "points": 61,
+      "points": 72,
       "position_id": "K",
       "team_id": "ARI",
       "weeks": {
@@ -404,16 +406,17 @@
         "3": 14,
         "4": 8,
         "5": 3,
-        "6": 19
+        "6": 19,
+        "7": 11
       }
     },
     {
-      "average": 10.7,
+      "average": 10.4,
       "filename": "matt-gay.php",
-      "games": 6,
+      "games": 7,
       "player_id": 18545,
       "player_name": "Matt Gay",
-      "points": 64,
+      "points": 73,
       "position_id": "K",
       "team_id": "LV",
       "weeks": {
@@ -422,7 +425,8 @@
         "3": 12,
         "4": 16,
         "5": 6,
-        "6": 12
+        "6": 12,
+        "7": 9
       }
     },
     {
@@ -444,12 +448,12 @@
       }
     },
     {
-      "average": 7.8,
+      "average": 7.6,
       "filename": "trey-smack.php",
-      "games": 6,
+      "games": 7,
       "player_id": 28507,
       "player_name": "Trey Smack",
-      "points": 47,
+      "points": 53,
       "position_id": "K",
       "team_id": "GB",
       "weeks": {
@@ -458,7 +462,8 @@
         "3": 2,
         "4": 7,
         "5": 5,
-        "6": 12
+        "6": 12,
+        "7": 6
       }
     },
     {
@@ -535,12 +540,12 @@
       }
     },
     {
-      "average": 9.8,
+      "average": 9,
       "filename": "harrison-butker.php",
-      "games": 5,
+      "games": 6,
       "player_id": 16712,
       "player_name": "Harrison Butker",
-      "points": 49,
+      "points": 54,
       "position_id": "K",
       "team_id": "KC",
       "weeks": {
@@ -548,16 +553,17 @@
         "2": 17,
         "3": 6,
         "4": 6,
-        "6": 13
+        "6": 13,
+        "7": 5
       }
     },
     {
-      "average": 7,
+      "average": 8,
       "filename": "wil-lutz.php",
-      "games": 6,
+      "games": 7,
       "player_id": 16026,
       "player_name": "Wil Lutz",
-      "points": 42,
+      "points": 56,
       "position_id": "K",
       "team_id": "DEN",
       "weeks": {
@@ -566,7 +572,8 @@
         "3": 2,
         "4": 9,
         "5": 11,
-        "6": 7
+        "6": 7,
+        "7": 14
       }
     },
     {
@@ -610,6 +617,19 @@
       "team_id": "MIA",
       "weeks": {
         "7": 4
+      }
+    },
+    {
+      "average": 5,
+      "filename": "brandon-mcmanus.php",
+      "games": 1,
+      "player_id": 13274,
+      "player_name": "Brandon McManus",
+      "points": 5,
+      "position_id": "K",
+      "team_id": "LAR",
+      "weeks": {
+        "7": 5
       }
     }
   ],

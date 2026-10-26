@@ -3,22 +3,255 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Chris Schommer",
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-26 18:16:36",
+      "created_formated": "Mon, Oct 26th 6:16pm UTC",
+      "desc": "Stefon Diggs reportedly won't see a larger role due to the injury to Terry McLaurin, per HC Dan Quinn. The absence of the star receiver will be made up for by others, with Antonio Williams being one of those named.",
+      "id": 616029,
+      "impact": "This could easily be coach speak as the Commanders certainly need Diggs' help with McLaurin out. However, the naming of Antonio Williams was a pleasant surprise, as the rookie has flashed when given the opportunity to perform. He's a fun name to watch as the season moves on.",
+      "link": "https://www.fantasypros.com/nfl/news/616029/stefon-diggs-wont-see-bigger-role-due-to-terry-mclaurin-injury.php",
+      "player_id": 13981,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Stefon Diggs won't see bigger role due to Terry McLaurin injury"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-26 17:36:34",
+      "created_formated": "Mon, Oct 26th 5:36pm UTC",
+      "desc": "Rashid Shaheed (knee) received positive news regarding his knee injury with the early testing showing that it seems to be minor. Shaheed left Monday nights game against Kansas City early on and did not return.",
+      "id": 616025,
+      "impact": "It's good news for Shaheed that it seems like he will only miss a few weeks at most. However, if he misses time, Cooper Kupp seems next in line for targets, but AJ Barner also stepped up in his absence as well. Tory Horton appeared to take over return duties, and he could see additional snaps as well.",
+      "link": "https://www.fantasypros.com/nfl/news/616025/rashid-shaheed-knee-knee-injury-seemingly-minor.php",
+      "player_id": 24687,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Rashid Shaheed (knee) knee injury seemingly minor"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-26 17:30:21",
+      "created_formated": "Mon, Oct 26th 5:30pm UTC",
+      "desc": "Jadarian Price (chest) will have his 21-day practice window opened this week as he prepares to come off of IR.",
+      "id": 616024,
+      "impact": "Price's addition, combined with the hopeful return of Zach Charbonnet, will greatly improve Seattle's run game. True, they've made it work with Emanuel Wilson and George Holani, but you know they would rather have their first round investment taking snaps and getting experience.",
+      "link": "https://www.fantasypros.com/nfl/news/616024/jadarian-price-chest-will-have-21-day-practice-window-opened-this-week.php",
+      "player_id": 27329,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Jadarian Price (chest) will have 21-day practice window opened this week"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-26 17:26:01",
+      "created_formated": "Mon, Oct 26th 5:26pm UTC",
+      "desc": "Charles Cross (ankle) is expected to be out between 1-2 weeks with a high ankle sprain. His availability will depend on how his rehab goes.",
+      "id": 616023,
+      "impact": "The 25 year old is an anchor in the Seahawks offensive line and his absence will surely be felt. They'll have to make things work in the meantime, and help is on the way in the form of Zach Charbonnet and Jadarian Price to help out the running game, putting less pressure on the O-Line from constantly pass blocking.",
+      "link": "https://www.fantasypros.com/nfl/news/616023/charles-cross-ankle-out-1-2-weeks-with-ankle-sprain.php",
+      "player_id": 23482,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Charles Cross (ankle) out for 1-2 weeks with ankle sprain"
+    },
+    {
+      "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-10-26 00:24:04",
-      "created_formated": "Mon, Oct 26th 12:24am UTC",
-      "desc": "Blake Corum rushed 17 times for 93 yards and one touchdown while also catching his only target for eight yards in the Rams' 35-21 Week 7 win over the Las Vegas Raiders.",
-      "id": 615806,
-      "impact": "Corum has had a nose for the end zone of late, recording one touchdown in each of his last three contests. The dynamic running back remains an impactful option behind No. 1 running back Kyren Williams for head coach Sean McVay, with a Week 8 matchup against the winless Los Angeles Chargers up next.",
-      "link": "https://www.fantasypros.com/nfl/news/615806/blake-corum-reaches-end-zone-week-7-win-over-raiders.php",
-      "player_id": 23013,
+      "created": "2026-10-26 17:15:12",
+      "created_formated": "Mon, Oct 26th 5:15pm UTC",
+      "desc": "Darren Waller caught one of two targets for a 50-yard touchdown in the Panthers' 43-13 loss to the Buccaneers on Sunday,",
+      "id": 616022,
+      "impact": "If you have to only catch one ball, you might as well make it count. Waller rewarded those who started him with a long 50-yard score before going silent for the rest of the way. He's a risky start in fantasy despite some initial optimism for his role,",
+      "link": "https://www.fantasypros.com/nfl/news/616022/darren-waller-catches-long-td-loss-to-tampa.php",
+      "player_id": 14104,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Blake Corum reaches end zone in Week 7 win over Raiders"
+      "team_id": "CAR",
+      "title": "Darren Waller catches long TD in loss to Tampa"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-26 17:13:06",
+      "created_formated": "Mon, Oct 26th 5:13pm UTC",
+      "desc": "Jalen Coker caught just one of four targets for nine yards in the Panthers' 43-13 loss to the Buccaneers on Sunday.",
+      "id": 616020,
+      "impact": "Coker was coming in on a hot streak and went ice cold in this game. Everyone has a bad day, and the Carolina offense at large failed to do much at all, so it's not like Coker was the only one on the struggle bus. He will look to have a bounce-back night against the Packers on Thursday.",
+      "link": "https://www.fantasypros.com/nfl/news/616020/jalen-coker-goes-quiet-loss-to-tampa.php",
+      "player_id": 26403,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Jalen Coker goes quiet in loss to Tampa"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-26 17:11:16",
+      "created_formated": "Mon, Oct 26th 5:11pm UTC",
+      "desc": "Tetairoa McMillan caught four of six targets for 40 yards in the Panthers' 43-13 loss to Tampa Bay on Sunday.",
+      "id": 616019,
+      "impact": "McMillan was largely held in check all day by the Tampa defense, as was the rest of the Carolina offense. It wasn't a great showing by the young receiver, but it didn't sink your week. He will look to improve on those numbers against the Packers on TNF.",
+      "link": "https://www.fantasypros.com/nfl/news/616019/tetairoa-mcmillan-catches-four-passes-loss.php",
+      "player_id": 25417,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Tetairoa McMillan catches four passes in loss"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-26 17:09:27",
+      "created_formated": "Mon, Oct 26th 5:09pm UTC",
+      "desc": "Chuba Hubbard ran seven times for 33 yards and caught four of five targets for 27 yards in the Panthers' 43-13 loss to Tampa Bay on Sunday.",
+      "id": 616018,
+      "impact": "Hubbard was actually fairly efficient on the ground, the game just got away from Carolina so quickly that he didn't receive many touches. He was greatly helped by his receiving work in PPR formats, with his four receptions tied for the most on the team. He will look to have a better night against the Packers on Thursday.",
+      "link": "https://www.fantasypros.com/nfl/news/616018/chuba-hubbard-saved-by-receiving-work-loss-to-tampa.php",
+      "player_id": 19792,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Chuba Hubbard saved by receiving work in loss to Tampa"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-26 17:03:03",
+      "created_formated": "Mon, Oct 26th 5:03pm UTC",
+      "desc": "The Tampa Bay Buccaneers D/ST racked up five sacks, two interceptions, two fumble recoveries, and a defensive touchdown in the Bucs' dominant 43-13 win over the Panthers on Sunday.",
+      "id": 616015,
+      "impact": "The Bucs' defense didn't even let the Panthers make this a contest, holding them to 13 points while also scoring some points of their own. It was an impressive showing by the unit, which now gets to face the Falcons next week.",
+      "link": "https://www.fantasypros.com/nfl/news/616015/tampa-bay-buccaneers-dst-rattle-panthers-win.php",
+      "player_id": 8290,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Tampa Bay Buccaneers D/ST rattle Panthers in win"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-26 17:06:17",
+      "created_formated": "Mon, Oct 26th 5:06pm UTC",
+      "desc": "Bryce Young completed 14-of-27 passes for 163 yards with a touchdown and two picks and a fumble in the Panthers' 43-13 loss to the Bucs on Sunday.",
+      "id": 616016,
+      "impact": "Young had his worst game of the season in this one, with his top two receivers, Tetairoa McMillan and Jalen Coker, held to just five catches for 49 yards combined. He better shake off this loss quickly, as the Panthers face off against the Packers on Thursday night.",
+      "link": "https://www.fantasypros.com/nfl/news/616016/bryce-young-struggles-loss-to-bucs.php",
+      "player_id": 22900,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Bryce Young struggles in loss to Bucs"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-26 17:00:54",
+      "created_formated": "Mon, Oct 26th 5:00pm UTC",
+      "desc": "Chase McLaughlin made both of his field goal attempts and all five of his PATs in the Bucs' resounding 43-13 win over the Panthers on Sunday.",
+      "id": 616014,
+      "impact": "McLaughlin has been on fire this year, with nine or more kicking points in five of the Bucs seven contests. It's been a great start for the veteran kicker, who has not missed a single field goal or PAT this year.",
+      "link": "https://www.fantasypros.com/nfl/news/616014/chase-mclaughlin-racks-up-11-kicking-points-win.php",
+      "player_id": 19058,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Chase McLaughlin racks up 11 kicking points in win"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-26 16:57:30",
+      "created_formated": "Mon, Oct 26th 4:57pm UTC",
+      "desc": "Jaylin Noel (toe) is still having his toe injury evaluated to find the extend of his injury, per HC DeMeco Ryans.",
+      "id": 616013,
+      "impact": "Noel left the Texans game against the Giants early on, and did not return due to turf toe. It's likely he will miss at least a week, and possibly more, but fantasy managers will have to wait for additional news to come out to be certain.",
+      "link": "https://www.fantasypros.com/nfl/news/616013/jaylin-noel-toe-toe-injury-still-being-evaluated.php",
+      "player_id": 27122,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Jaylin Noel (toe) toe injury still being evaluated"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-26 15:37:35",
+      "created_formated": "Mon, Oct 26th 3:37pm UTC",
+      "desc": "Zaire Franklin (leg) suffered a hairline fracture in his leg but is expected to miss minimal time, hence why the team elected to not put him on IR.",
+      "id": 616012,
+      "impact": "While it's unfortunate for the Green Bay defense that should be getting Micah Parsons back soon, it's still good news that Franklin shouldn't be out for long. Once he and Parsons return, this could be a very fun and scary defensive unit.",
+      "link": "https://www.fantasypros.com/nfl/news/616012/zaire-franklin-leg-expected-to-miss-minimal-time-with-leg-injury.php",
+      "player_id": 17563,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Zaire Franklin (leg) expected to miss minimal time with leg injury"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-26 15:34:03",
+      "created_formated": "Mon, Oct 26th 3:34pm UTC",
+      "desc": "Aaron Jones Sr. (knee) is labeled \"day-to-day\" with his knee injury that isn't seen as significant.",
+      "id": 616011,
+      "impact": "Jones left the Vikings game against the Colts early due to the injury, leaving fresh off of IR Jordan Mason to handle the workload. Mason produced well in the win, and should be in line for more touches should Jones be out next week.",
+      "link": "https://www.fantasypros.com/nfl/news/616011/aaron-jones-sr-knee-day-to-day-with-knee-injury.php",
+      "player_id": 16673,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Aaron Jones Sr. (knee) day-to-day with knee injury"
     },
     {
       "author": "Chris Schommer",
@@ -27,430 +260,196 @@
         "News",
         "Results"
       ],
-      "created": "2026-10-26 00:20:38",
-      "created_formated": "Mon, Oct 26th 12:20am UTC",
-      "desc": "Colby Parkinson caught five of his six targets for 48 yards in the Rams' 35-21 win over the Las Vegas Raiders in Week 7.",
-      "id": 615804,
-      "impact": "Parkinson made the most of increased usage in the Los Angeles passing attack, recording over 40 receiving yards for the first time in his six contests. The tight end remains another risky option in a Los Angeles passing attack led by superstar wideout Puka Nacua ahead of a Week 8 contest against the Los Angeles Chargers.",
-      "link": "https://www.fantasypros.com/nfl/news/615804/colby-parkinson-sees-six-targets-week-7-win.php",
-      "player_id": 19372,
+      "created": "2026-10-26 14:44:26",
+      "created_formated": "Mon, Oct 26th 2:44pm UTC",
+      "desc": "Michael Mayer caught all three of his targets for 32 yards in the Raiders' 35-21 loss to the Rams in Week 7.",
+      "id": 616000,
+      "impact": "Mayer has seen inconsistent involvement in the Las Vegas passing attack of late, receiving three targets or less in three of his last five contests. The tight end remains difficult to trust in all formats as long as Brock Bowers remains healthy, with a Week 8 contest against the New York Jets up next.",
+      "link": "https://www.fantasypros.com/nfl/news/616000/michael-mayer-catches-three-passes-week-7.php",
+      "player_id": 23056,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Colby Parkinson sees six targets in Week 7 win"
+      "team_id": "LV",
+      "title": "Michael Mayer catches three passes in Week 7"
     },
     {
-      "author": "Chris Schommer",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-10-26 00:17:27",
-      "created_formated": "Mon, Oct 26th 12:17am UTC",
-      "desc": "Tyler Higbee caught two of his three targets for 14 yards in the Rams' 35-21 win over the Las Vegas Raiders in Week 7.",
-      "id": 615802,
-      "impact": "Higbee has cooled off of late, finishing with less than 25 receiving yards in each of the last two contests. The tight end remains one of the more stable pass-catching options as part of a banged-up Rams offense, with a Week 8 contest against the Los Angeles Chargers up next.",
-      "link": "https://www.fantasypros.com/nfl/news/615802/tyler-higbee-quiet-week-7-win.php",
-      "player_id": 15623,
+      "created": "2026-10-26 12:20:09",
+      "created_formated": "Mon, Oct 26th 12:20pm UTC",
+      "desc": "The Packers' D/ST logged two fumble recoveries and one sack while allowing 20 points in Sunday's loss to the Detroit Lions.",
+      "id": 615973,
+      "impact": "Green Bay's defense played pretty well on Sunday. They slowed down Detroit's elite offense and limited them to just 20 points on the day, and they were also able to log some big plays to help out their own offense. This unit has a short week coming up, with a matchup against the Panthers happening on Thursday night football in Week 8.",
+      "link": "https://www.fantasypros.com/nfl/news/615973/packers-dst-forces-two-turnovers-sunday.php",
+      "player_id": 8110,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Tyler Higbee quiet in Week 7 win"
+      "team_id": "GB",
+      "title": "Packers D/ST forces two turnovers Sunday"
     },
     {
-      "author": "Chris Schommer",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-10-26 00:12:58",
-      "created_formated": "Mon, Oct 26th 12:12am UTC",
-      "desc": "Konata Mumpfield caught one of his two targets for 15 yards in the Rams' 35-21 win over the Las Vegas Raiders in Week 7.",
-      "id": 615801,
-      "impact": "Mumpfield has struggled to make an impact in the Los Angeles passing attack, finishing with under 20 receiving yards in seven of eight contests. The wideout cannot be trusted as a reliable pass-catching option in any format ahead of a Week 8 contest against the Los Angeles Chargers.",
-      "link": "https://www.fantasypros.com/nfl/news/615801/konata-mumpfield-quiet-week-7.php",
-      "player_id": 27449,
+      "created": "2026-10-26 12:17:36",
+      "created_formated": "Mon, Oct 26th 12:17pm UTC",
+      "desc": "Trey Smack went 1-for-3 on his field-goal attempts and 2-for-2 on his extra-point attempts in Sunday's 20-17 loss to the Detroit Lions.",
+      "id": 615972,
+      "impact": "The rookie ended up with two missed field-goal attempts on Sunday, which was especially consequential with Green Bay losing by just three points. One of those were blocked, however, which can't really be blamed on him. Still, this wasn't a good performance from him and he will likely be a shaky fantasy option at the position for the foreseeable future.",
+      "link": "https://www.fantasypros.com/nfl/news/615972/trey-smack-misses-two-kicks-loss-sunday.php",
+      "player_id": 28507,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Konata Mumpfield quiet in Week 7"
+      "team_id": "GB",
+      "title": "Trey Smack misses two kicks in loss Sunday"
     },
     {
-      "author": "Chris Schommer",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-10-26 00:09:40",
-      "created_formated": "Mon, Oct 26th 12:09am UTC",
-      "desc": "Davis Allen caught four of his five targets for 20 yards and two touchdowns in the Rams' 35-21 win over the Las Vegas Raiders in Week 7.",
-      "id": 615800,
-      "impact": "Allen took advantage of an increased workload, finishing with more than three targets for the first time this season in the win. The tight end remains difficult to trust in all formats ahead of a Week 8 contest against the Los Angeles Chargers.",
-      "link": "https://www.fantasypros.com/nfl/news/615800/davis-allen-catches-two-touchdowns-week-7.php",
-      "player_id": 23761,
+      "created": "2026-10-26 12:14:50",
+      "created_formated": "Mon, Oct 26th 12:14pm UTC",
+      "desc": "MarShawn Lloyd rushed the ball six times for 20 yards and caught two passes for 15 yards in Sunday's 20-17 loss to the Detroit Lions.",
+      "id": 615970,
+      "impact": "Lloyd was still somewhat involved on Sunday and saw eight opportunities, but he wasn't able to do much with them and was entirely outshined by Josh Jacobs in his first game back. There doesn't seem to be much optimism surrounding Lloyd's role or fantasy outlook for the foreseeable future with Jacobs now back in the lineup.",
+      "link": "https://www.fantasypros.com/nfl/news/615970/marshawn-lloyd-quiet-loss-sunday.php",
+      "player_id": 23118,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Davis Allen catches two touchdowns in Week 7"
+      "team_id": "GB",
+      "title": "MarShawn Lloyd quiet in loss Sunday"
     },
     {
-      "author": "Chris Schommer",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-10-26 00:07:05",
-      "created_formated": "Mon, Oct 26th 12:07am UTC",
-      "desc": "The Rams D/ST recorded two sacks while failing to force any turnovers in a 35-21 win over the Las Vegas Raiders in Week 7.",
-      "id": 615799,
-      "impact": "The defense was able to make stops when it counted, holding the Raiders to less than 50 rushing yards in the win. The unit will look to take advantage of an underperforming Los Angeles Chargers offense in Week 8.",
-      "link": "https://www.fantasypros.com/nfl/news/615799/rams-dst-stands-tall-week-7.php",
-      "player_id": 8280,
+      "created": "2026-10-26 12:12:45",
+      "created_formated": "Mon, Oct 26th 12:12pm UTC",
+      "desc": "Tucker Kraft hauled in 4-of-6 targets for 49 yards and a touchdown in Sunday's 20-17 loss to the Detroit Lions.",
+      "id": 615969,
+      "impact": "Kraft had a solid game on Sunday. He was able to haul in four passes for 49 yards on the afternoon, one of which he was able to get into the end zone on as well. He should continue to be viewed as a weekly starter at the tight end position moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/615969/tucker-kraft-finds-end-zone-sunday.php",
+      "player_id": 25298,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Rams D/ST stands tall in Week 7"
+      "team_id": "GB",
+      "title": "Tucker Kraft finds end zone Sunday"
     },
     {
-      "author": "Chris Schommer",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-10-26 00:04:40",
-      "created_formated": "Mon, Oct 26th 12:04am UTC",
-      "desc": "Brandon McManus converted each of his five extra point attempts in the Rams' 35-21 win over the Las Vegas Raiders in Week 7.",
-      "id": 615798,
-      "impact": "McManus offered head coach Sean McVay a reliable kicking option for the first time this season and will look for another impactful performance in a Week 8 contest against the Los Angeles Chargers.",
-      "link": "https://www.fantasypros.com/nfl/news/615798/brandon-mcmanus-perfect-week-7.php",
-      "player_id": 13274,
+      "created": "2026-10-26 12:10:13",
+      "created_formated": "Mon, Oct 26th 12:10pm UTC",
+      "desc": "Josh Jacobs rushed the ball 11 times for 36 yards and caught 5-of-7 targets for 55 yards and a touchdown in Sunday's 20-17 loss to the Detroit Lions.",
+      "id": 615968,
+      "impact": "Sunday was the first game back for Jacobs after he missed the start of the season while on the Commissioner's Exempt List. He wasn't effective on the ground in his first game back, but he made his hay through the air with five catches, 55 yards, and a touchdown on the day. He should be a viable RB2 over the course of the back half of the season as he continues to knock the rust off after so much time off.",
+      "link": "https://www.fantasypros.com/nfl/news/615968/josh-jacobs-scores-once-return-game-sunday.php",
+      "player_id": 18269,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Brandon McManus perfect in Week 7"
+      "team_id": "GB",
+      "title": "Josh Jacobs scores once in return game Sunday"
     },
     {
-      "author": "Jesse Garcia",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-10-25 22:40:47",
-      "created_formated": "Sun, Oct 25th 10:40pm UTC",
-      "desc": "The Jets D/ST allowed 208 passing yards, 156 rushing yards, and 28 points in a Week 7 loss to Miami. ",
-      "id": 615795,
-      "impact": "The Jets' defense tallied two sacks but failed to force a turnover. The defense was unable to stop Malik Willis and Ollie Gordon in either phase of the game. The Dolphins will take on the Raiders in Week 8. ",
-      "link": "https://www.fantasypros.com/nfl/news/615795/jets-dst-struggles-week-7-loss.php",
-      "player_id": 8210,
+      "created": "2026-10-26 11:58:03",
+      "created_formated": "Mon, Oct 26th 11:58am UTC",
+      "desc": "Matthew Golden caught 6-of-12 targets for 39 yards in Sunday's 20-17 loss to the Detroit Lions.",
+      "id": 615967,
+      "impact": "Golden was the most-targeted receiver for Green Bay on Sunday. He wasn't able to make the most out of those opportunities, however, catching just half of his targets and turning that into 39 scoreless yards against Detroit. This was a bit of a down game for him, but he should bounce back in the near future, especially if he continues to be targeted at this rate.",
+      "link": "https://www.fantasypros.com/nfl/news/615967/matthew-golden-underwhelming-loss-sunday.php",
+      "player_id": 26024,
       "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Jets D/ST struggles in Week 7 loss "
+      "team_id": "GB",
+      "title": "Matthew Golden underwhelming in loss Sunday"
     },
     {
-      "author": "Jesse Garcia",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-10-25 22:39:21",
-      "created_formated": "Sun, Oct 25th 10:39pm UTC",
-      "desc": "Jason Sanders connected on 1-of-2 field goals and 2-of-2 extra points in a 28-25 loss to Miami. ",
-      "id": 615794,
-      "impact": "Sanders missed a 40-yard field goal to open the third quarter, marking his first miss of the season. Sanders will look to bounce back against the Raiders in Week 8. ",
-      "link": "https://www.fantasypros.com/nfl/news/615794/jason-sanders-misses-field-goal-week-7.php",
-      "player_id": 17533,
+      "created": "2026-10-26 11:55:53",
+      "created_formated": "Mon, Oct 26th 11:55am UTC",
+      "desc": "Christian Watson caught 5-of-8 targets for 57 yards in Sunday's 20-17 loss to the Detroit Lions.",
+      "id": 615966,
+      "impact": "Watson played a decent game on Sunday. He was able to lead the team with 57 receiving yards on the day, but he didn't get into the end zone at all and only caught five passes, which left him with a mediocre fantasy finish. He will continue to be a must-start option on a week-to-week basis for as long as he continues to be productive.",
+      "link": "https://www.fantasypros.com/nfl/news/615966/christian-watson-leads-team-receiving-sunday.php",
+      "player_id": 23886,
       "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Jason Sanders misses a field goal in Week 7 "
+      "team_id": "GB",
+      "title": "Christian Watson leads team in receiving Sunday"
     },
     {
-      "author": "Jesse Garcia",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-10-25 22:37:53",
-      "created_formated": "Sun, Oct 25th 10:37pm UTC",
-      "desc": "Mason Taylor caught 5-of-6 targets for 62 yards and two touchdowns in a 28-25 loss to the Dolphins. ",
-      "id": 615793,
-      "impact": "Taylor has seen six targets in back-to-back games for the Jets and accounted for two of the team's three touchdowns Sunday. Taylor appears to be more trusted than Kenyon Sadiq by Geno Smith, leaving Taylor as the better option heading into Week 8. ",
-      "link": "https://www.fantasypros.com/nfl/news/615793/mason-taylor-hits-pay-dirt-twice-week-7-loss.php",
-      "player_id": 26005,
+      "created": "2026-10-26 11:54:02",
+      "created_formated": "Mon, Oct 26th 11:54am UTC",
+      "desc": "Jordan Love completed 27-of-45 passing attempts for 274 yards, two touchdowns, and an interception in Sunday's 20-17 loss to the Detroit Lions.",
+      "id": 615965,
+      "impact": "Love had an okay game on Sunday. He threw for close to 300 yards and two touchdowns over the course of the game, but he also threw two interceptions and didn't have a very high completion percentage on the day. He will continue to be a viable week-to-week streaming option moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/615965/jordan-love-throws-two-touchdowns-loss-sunday.php",
+      "player_id": 19246,
       "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Mason Taylor hits pay dirt twice in Week 7 loss"
+      "team_id": "GB",
+      "title": "Jordan Love throws two touchdowns in loss Sunday"
     },
     {
-      "author": "Jesse Garcia",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-10-25 22:36:09",
-      "created_formated": "Sun, Oct 25th 10:36pm UTC",
-      "desc": "Kenyon Sadiq caught his lone target for six yards in a 28-25 loss to the Dolphins.",
-      "id": 615792,
-      "impact": "Sadiq has struggled to get involved over the past few weeks. He saw Mason Taylor score twice for the Jets Sunday, leaving Sadiq as a risky option heading into Week 8. ",
-      "link": "https://www.fantasypros.com/nfl/news/615792/kenyon-sadiq-held-to-one-reception-week-7.php",
-      "player_id": 26055,
+      "created": "2026-10-26 11:51:21",
+      "created_formated": "Mon, Oct 26th 11:51am UTC",
+      "desc": "The Lions' D/ST logged one sack and one interception while allowing 17 points in Sunday's win over the Green Bay Packers.",
+      "id": 615964,
+      "impact": "Detroit's defense has struggled heavily over the first half of the season, but they looked a lot better on Sunday. They allowed Green Bay's high-powered offense to score just 17 points on the day, which helped Detroit to pick up a key win over their divisional rival. Still, this unit shouldn't be started outside of favorable matchups moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/615964/lions-dst-allows-17-points-win-sunday.php",
+      "player_id": 8100,
       "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Kenyon Sadiq held to one reception in Week 7"
+      "team_id": "DET",
+      "title": "Lions D/ST allows 17 points in win Sunday"
     },
     {
-      "author": "Jesse Garcia",
+      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-10-25 22:34:30",
-      "created_formated": "Sun, Oct 25th 10:34pm UTC",
-      "desc": "Adonai Mitchell did not record a reception on three targets in a 28-25 loss to the Dolphins.",
-      "id": 615791,
-      "impact": "Mitchell was held without a catch in his return from a finger injury. He was overshadowed by an excellent performance from Omar Cooper. Fantasy managers can leave Mitchell out of their lineups in Week 8.  ",
-      "link": "https://www.fantasypros.com/nfl/news/615791/adonai-mitchell-held-without-reception-week-7.php",
-      "player_id": 24357,
+      "created": "2026-10-26 11:49:33",
+      "created_formated": "Mon, Oct 26th 11:49am UTC",
+      "desc": "Jake Bates went 2-for-2 on his field-goal attempts and 2-for-2 on his extra-point attempts in Sunday's 20-17 win over the Green Bay Packers.",
+      "id": 615963,
+      "impact": "Bates did his job on Sunday, making all four of his attempted kicks in a win over the Packers. He should continue to be a good fantasy option at the kicker position moving forward, considering how effective Detroit is at moving the ball.",
+      "link": "https://www.fantasypros.com/nfl/news/615963/jake-bates-scores-eight-points-win-sunday.php",
+      "player_id": 26075,
       "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Adonai Mitchell held without a reception in Week 7 "
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-25 22:34:23",
-      "created_formated": "Sun, Oct 25th 10:34pm UTC",
-      "desc": "George Kittle hauled in 8-of-10 targets for 88 yards in Sunday's 29-20 loss to the Falcons. ",
-      "id": 615790,
-      "impact": "With both Mike Evans and Deebo Samuel out, Kittle put up new season highs in receptions, targets, and receiving yards on Sunday. The veteran TE is averaging just under five grabs for more than 60 yards per game with five touchdowns through seven weeks. Kittle remains among the top fantasy assets at TE. ",
-      "link": "https://www.fantasypros.com/nfl/news/615790/george-kittle-leads-49ers-receiving-sunday.php",
-      "player_id": 16499,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "George Kittle leads 49ers in receiving Sunday "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-25 22:32:31",
-      "created_formated": "Sun, Oct 25th 10:32pm UTC",
-      "desc": "Omar Cooper Jr. caught 5-of-5 targets for 115 yards and a touchdown in the Jets' 28-25 loss to Miami.",
-      "id": 615789,
-      "impact": "Cooper has put together back-to-back 100 yard performances for the Jets. He did the bulk of his work on receptions of 52 and 60-yards. Fantasy managers should view him as a strong option heading into a Week 8 matchup with the Raiders. ",
-      "link": "https://www.fantasypros.com/nfl/news/615789/omar-cooper-jr-finds-end-zone-week-7-loss.php",
-      "player_id": 28127,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Omar Cooper Jr. finds the end zone in Week 7 loss "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-25 22:30:48",
-      "created_formated": "Sun, Oct 25th 10:30pm UTC",
-      "desc": "Garrett Wilson caught 2-of-3 targets for 26 yards in a 28-25 loss to the Dolphins. ",
-      "id": 615788,
-      "impact": "Wilson turned in his worst performance of the season Sunday, with the star receiver not seeing a target until the second half. Wilson will look to bounce back against Las Vegas in Week 8. ",
-      "link": "https://www.fantasypros.com/nfl/news/615788/garrett-wilson-quiet-week-7-loss.php",
-      "player_id": 23072,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Garrett Wilson quiet in Week 7 loss "
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-25 22:29:59",
-      "created_formated": "Sun, Oct 25th 10:29pm UTC",
-      "desc": "Kyle Juszczyk caught all three of his targets for 11 yards and a touchdown in Sunday's 29-20 loss to the Falcons. ",
-      "id": 615787,
-      "impact": "With the 49ers WR corps beat up, Juszczyk was targeted a season-high three times on Sunday and caught his second touchdown of the campaign. Juszczyk has long been a valuable contributor for the 49ers, but he simply doesn't carry much fantasy value. ",
-      "link": "https://www.fantasypros.com/nfl/news/615787/kyle-juszczyk-catches-td-pass-week-7-loss.php",
-      "player_id": 11798,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Kyle Juszczyk catches TD pass in Week 7 loss"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-25 22:29:15",
-      "created_formated": "Sun, Oct 25th 10:29pm UTC",
-      "desc": "Isaiah Davis rushed for five yards on one carry in the Jets' 28-25 loss to Miami. He caught 3-of-3 targets for 49 yards.",
-      "id": 615786,
-      "impact": "Davis was not really involved in the offense Sunday, with Braelon Allen seeing the bulk of the work out of the Jets' backfield. Davis can stay off the fantasy radar heading into Week 8. ",
-      "link": "https://www.fantasypros.com/nfl/news/615786/isaiah-davis-sees-four-touches-week-7.php",
-      "player_id": 25977,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Isaiah Davis sees four touches in Week 7 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-25 22:27:23",
-      "created_formated": "Sun, Oct 25th 10:27pm UTC",
-      "desc": "Braelon Allen rushed for 104 yards on 17 carries in a 28-25 loss to the Dolphins. He caught 6-of-7 targets for 30 yards.",
-      "id": 615785,
-      "impact": "Allen was heavily involved in both phases of the offense, with his seven targets and six receptions leading the pass catchers for the Jets. Allen has potentially carved out a role for himself even if Breece Hall is able to return to the field in Week 8. ",
-      "link": "https://www.fantasypros.com/nfl/news/615785/braelon-allen-eclipses-100-rushing-yards-week-7-loss.php",
-      "player_id": 24346,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Braelon Allen eclipses 100 rushing yards in Week 7 loss"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-25 22:25:45",
-      "created_formated": "Sun, Oct 25th 10:25pm UTC",
-      "desc": "Jordan Watkins caught 3-of-6 targets for 56 yards in Sunday's 29-20 loss to the Falcons. ",
-      "id": 615784,
-      "impact": "With both Deebo Samuel and Mike Evans sidelined, Jordan Watkins led the way for 49ers'wide receivers on Sunday. The second-year pro is not likely to make much of a fantasy impact after the Week 8 bye.",
-      "link": "https://www.fantasypros.com/nfl/news/615784/jordan-watkins-eclipses-50-yards-receiving-sunday.php",
-      "player_id": 27486,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Jordan Watkins eclipses 50 yards receiving Sunday"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-25 22:22:48",
-      "created_formated": "Sun, Oct 25th 10:22pm UTC",
-      "desc": "Geno Smith completed 23-of-30 passes for 287 yards, three touchdowns, and one interception in a 28-25 loss to Miami.",
-      "id": 615783,
-      "impact": "Smith and the Jets trailed the Dolphins, allowing for a high volume passing attack in the final three quarters. Smith connected with Mason Taylor twice and Omar Cooper for his three touchdown passes. Smith and the Jets will take on the Raiders in Week 8. ",
-      "link": "https://www.fantasypros.com/nfl/news/615783/geno-smith-tosses-three-touchdowns-week-7-loss.php",
-      "player_id": 11687,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Geno Smith tosses three touchdowns in Week 7 loss"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-25 22:21:26",
-      "created_formated": "Sun, Oct 25th 10:21pm UTC",
-      "desc": "Christian McCaffrey rushed for 39 yards and a touchdown on seven carries, adding six receptions for 61 yards in Sunday's 29-20 loss to the Falcons. ",
-      "id": 615782,
-      "impact": "McCaffrey dealt with a thigh injury for a portion of Sunday's game, but he still ended up gaining 100 yards of offense on 13 touches. He also found the end zone on the ground for the eighth time this season. He remains a top-shelf fantasy option. ",
-      "link": "https://www.fantasypros.com/nfl/news/615782/christian-mccaffrey-gains-100-yards-scores-week-7-loss.php",
-      "player_id": 16393,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Christian McCaffrey gains 100 yards, scores in Week 7 loss"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-25 22:20:43",
-      "created_formated": "Sun, Oct 25th 10:20pm UTC",
-      "desc": "The Dolphins D/ST allowed 25 points, 287 passing yards, and 108 rushing yards in a 28-25 win over the Jets.",
-      "id": 615781,
-      "impact": "The Dolphins' defense tallied two sacks and one interception on their way to their first win of the season. The Dolphins' defense will face a tougher test in Week 8 against Drake Maye and the Patriots. ",
-      "link": "https://www.fantasypros.com/nfl/news/615781/dolphins-dst-allows-25-points-week-7-win.php",
-      "player_id": 8160,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Dolphins D/ST allows 25 points in Week 7 win "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-25 22:19:19",
-      "created_formated": "Sun, Oct 25th 10:19pm UTC",
-      "desc": "Zane Gonzalez connected on 4-of-4 extra point attempts in a 28-25 win over the Jets. ",
-      "id": 615779,
-      "impact": "Gonzalez was elevated from the Dolphins' practice squad and performed well in his first game of the season. The Dolphins will likely elevate him again in Week 8 to kick against New England. ",
-      "link": "https://www.fantasypros.com/nfl/news/615779/zane-gonzalez-perfect-week-7-win.php",
-      "player_id": 16548,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Zane Gonzalez perfect in Week 7 win "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-25 22:17:55",
-      "created_formated": "Sun, Oct 25th 10:17pm UTC",
-      "desc": "Greg Dulcich caught 5-of-5 targets for 86 yards in the Dolphins' 28-25 win over the Jets.",
-      "id": 615778,
-      "impact": "Dulcich led the team in receptions, targets, and receiving yards Sunday. The veteran tight end should remain a key component in the Dolphins' offense in Week 8 against New England. ",
-      "link": "https://www.fantasypros.com/nfl/news/615778/greg-dulcich-hauls-five-passes-week-7-win.php",
-      "player_id": 23153,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Greg Dulcich hauls in five passes in Week 7 win"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-25 22:17:44",
-      "created_formated": "Sun, Oct 25th 10:17pm UTC",
-      "desc": "Kaelon Black rushed for 63 yards and a touchdown on 12 carries in Sunday's 29-20 loss to the Falcons. ",
-      "id": 615777,
-      "impact": "Black led the 49ers in carries Sunday afternoon and gashed the Falcons' defense for a 30-yard TD run in the second quarter. Christian McCaffrey did deal with a thigh issue in this one and ended up only outtouching Black 13-to-12. This was a nice game for Black, but he remains useful to fantasy managers only as a handcuff to McCaffrey.",
-      "link": "https://www.fantasypros.com/nfl/news/615777/kaelon-black-finds-end-zone-week-7-loss.php",
-      "player_id": 28401,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Kaelon Black finds the end zone in Week 7 loss"
+      "team_id": "DET",
+      "title": "Jake Bates scores eight points in win Sunday"
     }
   ],
   "public_api": true,

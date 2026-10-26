@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 613.2
-- championship_lineup_c_avi_avg: 76.65
-- offensive_roster_c_avi_sum: 1023.2
+- championship_lineup_c_avi_sum: 613.3
+- championship_lineup_c_avi_avg: 76.66
+- offensive_roster_c_avi_sum: 1023.3
 - offensive_roster_c_avi_avg: 60.19
 - offensive_roster_d_avi_sum: 1305.3
 - offensive_roster_d_avi_avg: 76.78
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Ja'Marr Chase | C-AVI: 90.9 | D-AVI: 98.5
 - WR: Stefon Diggs | C-AVI: 64.4 | D-AVI: 71.5
 - TE: Brock Bowers | C-AVI: 94.7 | D-AVI: 93.5
-- FLEX: Tre Tucker | C-AVI: 64.0 | D-AVI: 71.9
+- FLEX: Tre Tucker | C-AVI: 64.1 | D-AVI: 71.9
 - FLEX: Brian Thomas Jr. | C-AVI: 51.8 | D-AVI: 81.4
 
 ## Current Roster — All Player Cards
@@ -206,7 +206,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 64.0
+- Championship AVI (C-AVI, 0-100): 64.1
 - Dynasty AVI (D-AVI, 0-100): 71.9
 - Projected PPR points: 125.9
 - Category: offense

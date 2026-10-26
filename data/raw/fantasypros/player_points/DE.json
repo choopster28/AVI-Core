@@ -559,12 +559,12 @@
       }
     },
     {
-      "average": 4.1,
+      "average": 3.9,
       "filename": "demarcus-lawrence.php",
-      "games": 6,
+      "games": 7,
       "player_id": 12217,
       "player_name": "DeMarcus Lawrence",
-      "points": 24.75,
+      "points": 27,
       "position_id": "DE",
       "team_id": "SEA",
       "weeks": {
@@ -573,7 +573,8 @@
         "3": 7.8,
         "4": 9.5,
         "5": 1.5,
-        "6": 1.5
+        "6": 1.5,
+        "7": 2.3
       }
     },
     {
@@ -629,12 +630,12 @@
       }
     },
     {
-      "average": 2.5,
+      "average": 2.3,
       "filename": "r-mason-thomas.php",
-      "games": 5,
+      "games": 6,
       "player_id": 28021,
       "player_name": "R Mason Thomas",
-      "points": 12.5,
+      "points": 14,
       "position_id": "DE",
       "team_id": "KC",
       "weeks": {
@@ -642,7 +643,8 @@
         "2": 0,
         "3": 1.5,
         "4": 0,
-        "6": 2.3
+        "6": 2.3,
+        "7": 1.5
       }
     },
     {
@@ -735,12 +737,12 @@
       }
     },
     {
-      "average": 5.2,
+      "average": 6.5,
       "filename": "derick-hall.php",
-      "games": 6,
+      "games": 7,
       "player_id": 24697,
       "player_name": "Derick Hall",
-      "points": 31.25,
+      "points": 45.5,
       "position_id": "DE",
       "team_id": "SEA",
       "weeks": {
@@ -749,7 +751,8 @@
         "3": 11,
         "4": 6.3,
         "5": 2.3,
-        "6": 2.3
+        "6": 2.3,
+        "7": 14.3
       }
     },
     {
@@ -948,9 +951,9 @@
       }
     },
     {
-      "average": 0.3,
+      "average": 0.2,
       "filename": "dante-fowler.php",
-      "games": 6,
+      "games": 7,
       "player_id": 14020,
       "player_name": "Dante Fowler Jr.",
       "points": 1.5,
@@ -962,7 +965,8 @@
         "3": 0,
         "4": 1.5,
         "5": 0,
-        "6": 0
+        "6": 0,
+        "7": 0
       }
     },
     {
@@ -1421,12 +1425,12 @@
       }
     },
     {
-      "average": 9.5,
+      "average": 9.1,
       "filename": "george-karlaftis-iii.php",
-      "games": 5,
+      "games": 6,
       "player_id": 23501,
       "player_name": "George Karlaftis III",
-      "points": 47.5,
+      "points": 54.5,
       "position_id": "DE",
       "team_id": "KC",
       "weeks": {
@@ -1434,7 +1438,8 @@
         "2": 5.3,
         "3": 11.3,
         "4": 9.3,
-        "6": 18.8
+        "6": 18.8,
+        "7": 7
       }
     },
     {
