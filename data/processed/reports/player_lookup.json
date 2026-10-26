@@ -2242,7 +2242,7 @@
       "player_name": "Dillon Gabriel",
       "position": "QB",
       "sleeper_id": "12486",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "active": true,
@@ -4030,7 +4030,7 @@
       "position": "TE",
       "roster_id": 2,
       "sleeper_id": "13349",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "02_Rapid_Valley_Annihilation.md",
       "team_name": "Rapid Valley Annihilation"
     },
