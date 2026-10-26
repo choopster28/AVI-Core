@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 9
-- Last updated from Sleeper exports: 2026-10-25
+- Last updated from Sleeper exports: 2026-10-26
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 696.3
 - championship_lineup_c_avi_avg: 87.04
-- offensive_roster_c_avi_sum: 1119.6
-- offensive_roster_c_avi_avg: 62.20
-- offensive_roster_d_avi_sum: 1393.0
-- offensive_roster_d_avi_avg: 77.39
+- offensive_roster_c_avi_sum: 1131.0
+- offensive_roster_c_avi_avg: 62.83
+- offensive_roster_d_avi_sum: 1401.7
+- offensive_roster_d_avi_avg: 77.87
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -263,6 +263,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Cyrus Allen
+- Player name: Cyrus Allen
+- Player ID: 13413
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: KC
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 35.3
+- Dynasty AVI (D-AVI, 0-100): 62.2
+- Projected PPR points: 94.5
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Christian Kirk
 - Player name: Christian Kirk
 - Player ID: 4950
@@ -294,23 +311,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 26.0
 - Dynasty AVI (D-AVI, 0-100): 47.2
 - Projected PPR points: 59.6
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Jordan Whittington
-- Player name: Jordan Whittington
-- Player ID: 11623
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: LAR
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 23.9
-- Dynasty AVI (D-AVI, 0-100): 53.5
-- Projected PPR points: 23.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

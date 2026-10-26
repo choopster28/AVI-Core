@@ -2648,29 +2648,6 @@
       "team_id": "JAC"
     },
     {
-      "filename": "cam-hart.php",
-      "fpid": 26233,
-      "mflid": 16731,
-      "name": "Cam Hart",
-      "position_id": "DB",
-      "stats": {
-        "def_assist": 16.31,
-        "def_ff": 0.28,
-        "def_fr": 0.18,
-        "def_int": 1.76,
-        "def_pd": 13.57,
-        "def_sack": 0.16,
-        "def_safety": 0,
-        "def_tackle": 58.8,
-        "def_td": 0.18,
-        "def_tlost": 0,
-        "points": 133.15,
-        "points_half": 133.15,
-        "points_ppr": 133.15
-      },
-      "team_id": "LAC"
-    },
-    {
       "filename": "marcus-harris-db.php",
       "fpid": 27536,
       "mflid": 17221,
@@ -2692,6 +2669,29 @@
         "points_ppr": 133.15
       },
       "team_id": "TEN"
+    },
+    {
+      "filename": "cam-hart.php",
+      "fpid": 26233,
+      "mflid": 16731,
+      "name": "Cam Hart",
+      "position_id": "DB",
+      "stats": {
+        "def_assist": 16.31,
+        "def_ff": 0.28,
+        "def_fr": 0.18,
+        "def_int": 1.76,
+        "def_pd": 13.57,
+        "def_sack": 0.16,
+        "def_safety": 0,
+        "def_tackle": 58.8,
+        "def_td": 0.18,
+        "def_tlost": 0,
+        "points": 133.15,
+        "points_half": 133.15,
+        "points_ppr": 133.15
+      },
+      "team_id": "LAC"
     },
     {
       "filename": "josh-jobe.php",
