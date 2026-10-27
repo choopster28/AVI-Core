@@ -430,7 +430,7 @@
       "player_name": "Erick All Jr.",
       "position": "TE",
       "sleeper_id": "11592",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -1546,7 +1546,7 @@
       "player_name": "Dont'e Thornton Jr.",
       "position": "WR",
       "sleeper_id": "12541",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "active": true,
@@ -6602,7 +6602,7 @@
       "position": "RB",
       "roster_id": 5,
       "sleeper_id": "11655",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "05_Northside_Kings.md",
       "team_name": "Northside Kings "
     },
