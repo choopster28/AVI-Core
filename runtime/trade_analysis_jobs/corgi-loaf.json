@@ -30,9 +30,300 @@
       "personalContext": "Hofer will be 2-5"
     },
     "createdAt": 1793112298584,
-    "updatedAt": 1793112300811,
+    "updatedAt": 1793112315267,
     "expiresAt": 1793544298584,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "In a 16-team dynasty league where Corgi Loaf Baking Co. is pursuing a 2026 championship, trading DeVonta Smith for Tee Higgins addresses an immediate short-term availability risk caused by Smith's lingering hamstring injury and Philadelphia's quarterback transition to Tanner McKee. Factoring in that trade partner All Hail King Jesus (Hofer) is projected at a 2-5 record and sliding into a retool/rebuild mindset rather than an elite title-favorite lock, King Jesus has strong motivation to cash out on an expiring asset like Tee Higgins for younger foundational pieces and draft capital. However, attaching an unneeded 2nd-round pick on top of DeVonta Smith remains an overpay. The refined assessment integrates Hofer's 2-5 record to make a 1:1 swap or value-optimized package exceptionally realistic.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 87.1,
+              "davi": 92.8,
+              "publicMarket": 85,
+              "leagueMarket": 87.1
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 83.8,
+              "davi": 91.1,
+              "publicMarket": 90,
+              "leagueMarket": 88
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "B+",
+            "userShare": 45,
+            "otherShare": 55,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "Corgi Loaf Baking Co. surrenders a valuable 2027 2nd-round pick on top of a wide receiver with higher baseline C-AVI and D-AVI (DeVonta Smith, 87.1 C-AVI / 92.8 D-AVI). While Tee Higgins provides immediate starter production for Corgi's championship push, paying a premium 2nd-round pick in a 16-team league to trade within the same 27-year-old WR tier is unnecessary, even against a 2-5 opponent."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 51,
+            "otherShare": 49,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "By stripping away the 2027 2nd-round pick and offering DeVonta Smith for Tee Higgins straight up, Corgi Loaf Baking Co. solves its immediate starting lineup availability issue for the 2026 title push without giving up core draft capital. Given Hofer's 2-5 record, securing a younger, higher-ceiling asset in DeVonta Smith aligns perfectly with a team pivoting toward future viability."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 10,
+              "summary": "Acquires a healthy Tee Higgins for a title push while protecting draft capital, leveraging Hofer's 2-5 slide."
+            },
+            "championshipOutlook": {
+              "score": 25,
+              "summary": "Replaces an inactive DeVonta Smith with a healthy Tee Higgins paired with Joe Burrow, stabilizing weekly starting production."
+            },
+            "dynastyOutlook": {
+              "score": 5,
+              "summary": "Improves long-term flexibility by retaining draft capital in a fair 1:1 wide receiver swap."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Stabilizes WR/FLEX starting slots with consistent weekly target volume."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Maintains starter quality and preserves full draft liquidity."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "No draft capital surrendered in the recommended 1:1 structure."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 15,
+              "summary": "At 2-5, Hofer capitalizes on Tee Higgins' current high market value to pivot toward an elite dynasty asset in DeVonta Smith."
+            },
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Slight short-term downgrade during the recovery window, fitting for a 2-5 team re-evaluating its competitive trajectory."
+            },
+            "dynastyOutlook": {
+              "score": 25,
+              "summary": "Acquires an elite 27-year-old wide receiver with superior baseline dynasty metrics (92.8 D-AVI)."
+            },
+            "lineupQuality": {
+              "score": -5,
+              "summary": "Minor temporary dip while Smith is sidelined."
+            },
+            "depthResilience": {
+              "score": 5,
+              "summary": "Maintains strong long-term positional group stability."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Positions the franchise well for future weeks."
+            }
+          },
+          "explanation": "Factoring in Hofer's 2-5 record transforms this trade from an awkward contender-to-contender swap into a logical pivot where a struggling manager secures a premier dynasty asset while Corgi captures immediate title production."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf Baking Co. gains immediate rest-of-season starter value by acquiring Tee Higgins (83.8 C-AVI), who is healthy and performing well alongside Joe Burrow. Replacing DeVonta Smith (currently sidelined with a hamstring injury and impacted by Tanner McKee starting at QB) stabilizes Corgi's FLEX/WR starting positions for the stretch run.",
+          "sideADynastyImpact": "Dynasty value drops slightly (-10 net D-AVI impact) due to giving up a 2027 2nd-round pick (48.5 Pick AVI) alongside DeVonta Smith (92.8 D-AVI) to acquire Tee Higgins (91.1 D-AVI). In a 16-team league, 2nd-round picks represent meaningful roster liquidity.",
+          "sideARosterImpact": "Lineup quality improves immediately at FLEX/WR2, while overall offensive depth remains strong with JSN, Nabers, Chuba, Montgomery, Stevenson, and Tyler Warren anchored in the starting 8.",
+          "sideBChampionshipImpact": "All Hail King Jesus experiences a short-term drop in championship lineup strength. Trading away Tee Higgins creates a hole at FLEX, forcing reliance on Deebo Samuel Sr. (57.2 C-AVI) or Dallas Goedert (62.2 C-AVI) until DeVonta Smith returns.",
+          "sideBDynastyImpact": "All Hail King Jesus gains net dynasty value (+20 D-AVI equivalent) by acquiring a 2027 2nd-round pick while swapping 27-year-old wideouts in similar dynasty tiers.",
+          "sideBRosterImpact": "Improves overall pick inventory, but weakens active weekly starting options during a season where King Jesus is explicitly contending for a championship.",
+          "valueAssessment": "Total asset value favors All Hail King Jesus due to the inclusion of the 2027 2nd-round pick. However, strategic alignment is flawed for both teams: Corgi overpays in draft capital, while King Jesus assumes short-term injury risk during a title push."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus evaluates DeVonta Smith and Tee Higgins in the same general WR2 tier (both 27 years old, strong baseline WR2 profile with WR1 weekly upside). Live market reporting indicates DeVonta Smith is currently sidelined with a hamstring injury, with Eagles head coach Nick Sirianni noncommittal regarding return timing given Philadelphia's 2-4 record and Jalen Hurts' absence. Conversely, Tee Higgins is fully healthy, coming off a 6-catch, 148-yard, 1-TD performance in Week 7 with Joe Burrow.",
+          "aviVsMarket": "AVI values DeVonta Smith (87.1 C-AVI) slightly higher than Tee Higgins (83.8 C-AVI) on full-season baseline health projections, but live market sentiment currently favors Higgins for 2026 redraft and immediate championship utility due to Smith's injury absence.",
+          "relevantContext": [
+            "DeVonta Smith is officially sidelined with a hamstring injury, while Eagles QB Jalen Hurts is out, leaving backup Tanner McKee under center.",
+            "Tee Higgins is active and healthy, operating as a primary option alongside Joe Burrow in Cincinnati.",
+            "In 16-team dynasty formats, starting wide receivers carry significant value, making a 1:1 swap reasonable without attaching a 2nd-round pick."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "All Hail King Jesus is sitting at 2-5 and facing an uphill playoff battle, creating strong motivation to acquire elite younger assets like DeVonta Smith rather than holding older or expiring production in Tee Higgins.",
+          "packageFit": "A 1:1 player swap aligns cleanly with Hofer's 2-5 standing without requiring Corgi to overpay in draft capital.",
+          "lineupReplacement": "Hofer can absorb a short-term injury absence given their 2-5 record and transition toward future outlooks.",
+          "competitiveWindowFit": "Hofer's 2-5 record shifts their operational window from immediate title defense to strategic asset accumulation.",
+          "positionalScarcity": "Starting wide receivers in 16-team PPR formats are valuable assets that require balanced compensation."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 25,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 12,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 85,
+          "classification": "Realistic",
+          "explanation": "Because All Hail King Jesus is sitting at 2-5, their motivation to acquire an elite younger asset like DeVonta Smith is significantly higher than if they were an undefeated juggernaut. A 1:1 swap passes all validation checks with an acceptance probability of 85%."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Corgi Loaf Baking Co. should remove the 2027 2nd-round pick from the package. Given that trade partner Hofer is 2-5, they have clear motivation to pivot toward high-end dynasty assets like DeVonta Smith rather than demanding extra picks for Tee Higgins. Proposing a 1:1 straight player swap captures Corgi's needed championship points while respecting Hofer's 2-5 context.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 87.1,
+              "davi": 92.8,
+              "publicMarket": 85,
+              "leagueMarket": 87.1
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 83.8,
+              "davi": 91.1,
+              "publicMarket": 90,
+              "leagueMarket": 88
+            }
+          ],
+          "whyUserShouldDoIt": "Swapping DeVonta Smith for Tee Higgins 1:1 secures an immediate, fully healthy receiver tied to Joe Burrow for Corgi's championship push, resolving short-term injury risk without giving up valuable 2027 draft capital.",
+          "whyOpponentMightAccept": "With Hofer sitting at 2-5, acquiring DeVonta Smith provides a superior long-term dynasty ceiling (92.8 D-AVI) that fits a team recalibrating for future success."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Considered trade partner Hofer's 2-5 record, shifting their valuation perspective from an active elite contender to a manager motivated to acquire elite younger assets (DeVonta Smith) in exchange for win-now production (Tee Higgins), making a 1:1 straight swap highly realistic."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tee Higgins injury status 2026",
+          "DeVonta Smith injury status 2026",
+          "DeVonta Smith news 2026",
+          "Tee Higgins news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4RN6cdYhhD4k1vpWIiDOokfQq5f_b8lMaQzJ_1JQdBgjneN2GCLHQpPTzRB69Fde4C56BgquToDnDtrScQcfD1cv7OTmwP_2XIiEhmRpHioqkqTDHsHzBNTWAatx3LGbpAmCWpsLe9ocfoYcMU4K8fhLdhZOJ-3n_3GGwnSLlrHPVgmZiaCdFiQA32up6XR-LVMXTZPzNksf_ulhgzqK0AHY=",
+            "title": "insidetheiggles.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ6nDpmQJEopqkHTDl4PPtopsTHrFmENTJOXOVTLLrElD8PEHRHh7owST5U9_peoQQGVznXKMA_X2O40YTS_BNICmCkuQeQj77V8uOyX1GgUZgnKZSMZdogKN9U2_bbTHl_GTap8J6pHnKiVVTJYQxEgdKJXxCvoQjUWQe9AL6USmkmggb-h32V7APZAV8aCaZ6Yu1cUL15-w2_E00PsktrttD0A==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAuYUGTTd5_vX9qr7DpP72sGXYWFPrtpyfRL8YnHOgIaUYed8heA2JDh1wJrlJ04TJb9VGeEZ2aLeEnF9cHXz1uAaxs1SNsaKfapmNZW15wQZw9uGI57N45q-mE-qva9ZvkHB4eHfUM-lfPDkLD6am_GVfiyfPFqIkDv6lIiejG54NEFnH-H_j7B1DmLDMEubeQeHsrTWJZT8vYGUttXrtBAJzhmcvDXqLlKO4jVBSnje3Tw==",
+            "title": "washingtonpost.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFet1umlu6b26KRC3KMH6syLVlQIBqfDHgF2JSxEHvr_NrIpepUQ3tjGTZNxdclyXtrnvs25KS2CBkXuhKNQZxnATi6jwgORYweo9XMXJJkJylW_EB8qZub-iUZpo9m6L7mNql7pAOI5NiEdCMMjNpfhSXfQB_cw_p0qn7yrFbDq4a54I9IoGrrBUDY5YK0d79_P76dRm8xNQzWHVGSBND5PTr04z0TFg==",
+            "title": "phlsportsnation.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8mK4Xo7NJXK6iClpyTgn-zQgZ52whzQdlaCLEWq-f6J_8qdJB4wABdDQ92LQj0vXGmyTrRvX5az6koUdF67Q1Lhw8n-K7ydeTfc4uVMnnqnvHIyNt7PluW2WRuc6ShWVFvOGpfkHe6SJmWD5dvX4Ws9x34f5feHnz2TmB6Jt46DpUB26Vj3WkkW1xmrbY6-pVAxuI91wdFXnRAh6Uf1t30XT7",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhor_a901UGW2bgaVeIOHQWsJNxCZMEemPsuEvs-aa7Z5r22X4-0Er3c1HC2V85S9GVdPU8_KtQCyr9dIfO8jc6pxu6akvOSV_Q1FxxrBvJ4a3gS8N3nlgNwVlHgRBhqh0fHFmk4dSoKs1XODTA8lczyPOLJFqB-MieaKYoTkm9JMBSkdbMHjTFx3PXodhN3SekmQFaAmF83EIMT6l28_JyQ==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIUYQr-4vEjg1-xOGwsId1zfzdbm-TsPW-LvXLloIle6qDTItUaTNLPiVHsWRH-Uoq0NuTyYFXQB--AnrgO0ngRFNLscvMA_97WJvv8UiQ_rHPw4Y3wkYTvpZW2PC3Bz-svJcKF279HsP7MT3yl49x0UNu4LxQayvRAJxBz3IIZVwWb0dJ7BniyoLF3SRGJC1qu95scyXBDBNiOCe50DAYnkUO5A==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEorAA5Dx0rH8wgO32TeJCUW7zVjiiHH-n7hLO6Od309nPoadgJxe27oQ-QGyhHEAYrAjU63SHuqyIOG5UXUB7rcfCduGZBfe-QdvXAPmLOKAkIlvusR_nE-BznZZCfctlgiEfKFRyKnAln11W7ixIaZUdA7809ZPN_ZlS1pwpl2zqfBQSWtI_UXUIvqQ==",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzq-Kwc3dO6_R6P0vIXkw66X3PRe3PI8h9mzgyE7WYCfotb99Gvk6Fc58--Qvn8mOJihwyIv2ykbczbEItnn-4E3GDnhaYXoEhseaEVZ1dcIqpXztAy2h2UGWv4gw_uXDlXMsqvjHW3hVneHePP6lUs40AYNAG9rY81-wCBspt6brkZh1xgA8-XMedA3wyFCC9aCnXrN0W",
+            "title": "prizepicks.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "e329280e36322ecac0dc04101722c077c1da5c93",
+        "aviCoreCommittedAt": "2026-10-27T09:56:13Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 82241,
+        "groundedMarketChars": 3393,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": true,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mvqsg44o-4e80c871",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "e329280e36322ecac0dc04101722c077c1da5c93"
+      }
+    }
   },
   {
     "id": "mvqsg44o-4e80c871",
