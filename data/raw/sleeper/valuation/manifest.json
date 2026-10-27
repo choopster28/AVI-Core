@@ -30,7 +30,11 @@
     },
     "stats_week_7": {
       "status": "sleeper",
-      "valid_players": 329
+      "valid_players": 332
+    },
+    "stats_week_8": {
+      "reason": "ValueError",
+      "status": "fantasypros_fallback"
     }
   },
   "season": 2026,

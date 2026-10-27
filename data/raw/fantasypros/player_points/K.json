@@ -467,12 +467,12 @@
       }
     },
     {
-      "average": 5.5,
+      "average": 5.1,
       "filename": "jake-elliott.php",
-      "games": 6,
+      "games": 7,
       "player_id": 16540,
       "player_name": "Jake Elliott",
-      "points": 33,
+      "points": 36,
       "position_id": "K",
       "team_id": "PHI",
       "weeks": {
@@ -481,7 +481,8 @@
         "3": 1,
         "4": 10,
         "5": 6,
-        "6": 2
+        "6": 2,
+        "7": 3
       }
     },
     {
@@ -522,12 +523,12 @@
       }
     },
     {
-      "average": 7.8,
+      "average": 8.7,
       "filename": "brandon-aubrey.php",
-      "games": 6,
+      "games": 7,
       "player_id": 26068,
       "player_name": "Brandon Aubrey",
-      "points": 47,
+      "points": 61,
       "position_id": "K",
       "team_id": "DAL",
       "weeks": {
@@ -536,7 +537,8 @@
         "3": 11,
         "4": 12,
         "5": 5,
-        "6": 1
+        "6": 1,
+        "7": 14
       }
     },
     {

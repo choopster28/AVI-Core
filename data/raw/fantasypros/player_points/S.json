@@ -16,9 +16,9 @@
       }
     },
     {
-      "average": 2,
+      "average": 1.7,
       "filename": "isaiah-pola-mao.php",
-      "games": 6,
+      "games": 7,
       "player_id": 23939,
       "player_name": "Isaiah Pola-Mao",
       "points": 12,
@@ -30,7 +30,8 @@
         "3": 8.3,
         "4": 0,
         "5": 0,
-        "6": 0
+        "6": 0,
+        "7": 0
       }
     },
     {
@@ -147,12 +148,12 @@
       }
     },
     {
-      "average": 6.8,
+      "average": 7,
       "filename": "andrew-mukuba.php",
-      "games": 6,
+      "games": 7,
       "player_id": 27081,
       "player_name": "Andrew Mukuba",
-      "points": 41,
+      "points": 49.25,
       "position_id": "S",
       "team_id": "PHI",
       "weeks": {
@@ -161,7 +162,8 @@
         "3": 9.8,
         "4": 10.3,
         "5": 4.5,
-        "6": 9
+        "6": 9,
+        "7": 8.3
       }
     },
     {
@@ -301,9 +303,9 @@
       }
     },
     {
-      "average": 3.5,
+      "average": 2.6,
       "filename": "kyle-dugger.php",
-      "games": 3,
+      "games": 4,
       "player_id": 19337,
       "player_name": "Kyle Dugger",
       "points": 10.5,
@@ -312,7 +314,8 @@
       "weeks": {
         "1": 0,
         "2": 0,
-        "3": 10.5
+        "3": 10.5,
+        "7": 0
       }
     },
     {
@@ -460,7 +463,7 @@
     {
       "average": 0,
       "filename": "donovan-mcmillon.php",
-      "games": 6,
+      "games": 7,
       "player_id": 27584,
       "player_name": "Donovan McMillon",
       "points": 0,
@@ -472,7 +475,8 @@
         "3": 0,
         "4": 0,
         "5": 0,
-        "6": 0
+        "6": 0,
+        "7": 0
       }
     },
     {
@@ -585,19 +589,20 @@
       }
     },
     {
-      "average": 5.8,
+      "average": 5.4,
       "filename": "malik-hooker.php",
-      "games": 4,
+      "games": 5,
       "player_id": 16373,
       "player_name": "Malik Hooker",
-      "points": 23.25,
+      "points": 27,
       "position_id": "S",
       "team_id": "DAL",
       "weeks": {
         "1": 1.5,
         "4": 12,
         "5": 6,
-        "6": 3.8
+        "6": 3.8,
+        "7": 3.8
       }
     },
     {
@@ -677,7 +682,7 @@
     {
       "average": 0,
       "filename": "miles-killebrew.php",
-      "games": 6,
+      "games": 7,
       "player_id": 15588,
       "player_name": "Miles Killebrew",
       "points": 0,
@@ -689,7 +694,8 @@
         "3": 0,
         "4": 0,
         "5": 0,
-        "6": 0
+        "6": 0,
+        "7": 0
       }
     },
     {
@@ -797,7 +803,7 @@
     {
       "average": 0,
       "filename": "jacob-thomas.php",
-      "games": 5,
+      "games": 6,
       "player_id": 28525,
       "player_name": "Jacob Thomas",
       "points": 0,
@@ -808,13 +814,14 @@
         "2": 0,
         "3": 0,
         "4": 0,
-        "5": 0
+        "5": 0,
+        "7": 0
       }
     },
     {
-      "average": 4.5,
+      "average": 3.6,
       "filename": "marcus-epps.php",
-      "games": 4,
+      "games": 5,
       "player_id": 18575,
       "player_name": "Marcus Epps",
       "points": 18,
@@ -824,16 +831,17 @@
         "1": 9,
         "2": 2.3,
         "3": 6.8,
-        "6": 0
+        "6": 0,
+        "7": 0
       }
     },
     {
-      "average": 0.9,
+      "average": 1.5,
       "filename": "alijah-clark.php",
-      "games": 5,
+      "games": 6,
       "player_id": 27080,
       "player_name": "Alijah Clark",
-      "points": 4.5,
+      "points": 9,
       "position_id": "S",
       "team_id": "DAL",
       "weeks": {
@@ -841,16 +849,17 @@
         "2": 0,
         "3": 4.5,
         "4": 0,
-        "5": 0
+        "5": 0,
+        "7": 4.5
       }
     },
     {
       "average": 4.9,
       "filename": "markquese-ball.php",
-      "games": 6,
+      "games": 7,
       "player_id": 24864,
       "player_name": "Markquese Bell",
-      "points": 29.25,
+      "points": 34.5,
       "position_id": "S",
       "team_id": "DAL",
       "weeks": {
@@ -859,13 +868,14 @@
         "3": 9.8,
         "4": 0,
         "5": 5.3,
-        "6": 6.8
+        "6": 6.8,
+        "7": 5.3
       }
     },
     {
-      "average": 1.3,
+      "average": 1.1,
       "filename": "xavier-nwankpa.php",
-      "games": 5,
+      "games": 6,
       "player_id": 28239,
       "player_name": "Xavier Nwankpa",
       "points": 6.5,
@@ -876,7 +886,8 @@
         "2": 0,
         "3": 0,
         "4": 6.5,
-        "6": 0
+        "6": 0,
+        "7": 0
       }
     },
     {
@@ -1351,7 +1362,7 @@
     {
       "average": 0,
       "filename": "elijah-campbell.php",
-      "games": 6,
+      "games": 7,
       "player_id": 17673,
       "player_name": "Elijah Campbell",
       "points": 0,
@@ -1363,7 +1374,8 @@
         "3": 0,
         "4": 0,
         "5": 0,
-        "6": 0
+        "6": 0,
+        "7": 0
       }
     },
     {
@@ -1382,9 +1394,9 @@
       }
     },
     {
-      "average": 1.8,
+      "average": 1.5,
       "filename": "hunter-wohler.php",
-      "games": 6,
+      "games": 7,
       "player_id": 27240,
       "player_name": "Hunter Wohler",
       "points": 10.5,
@@ -1396,7 +1408,8 @@
         "3": 1.5,
         "4": 0,
         "5": 0,
-        "6": 1.5
+        "6": 1.5,
+        "7": 0
       }
     },
     {
@@ -1520,9 +1533,9 @@
       }
     },
     {
-      "average": 0.3,
+      "average": 0.2,
       "filename": "kitan-oladapo.php",
-      "games": 6,
+      "games": 7,
       "player_id": 26320,
       "player_name": "Kitan Oladapo",
       "points": 1.5,
@@ -1534,7 +1547,8 @@
         "3": 0,
         "4": 0,
         "5": 1.5,
-        "6": 0
+        "6": 0,
+        "7": 0
       }
     },
     {
@@ -1758,12 +1772,12 @@
       }
     },
     {
-      "average": 8.8,
+      "average": 8.4,
       "filename": "caleb-downs.php",
-      "games": 6,
+      "games": 7,
       "player_id": 27950,
       "player_name": "Caleb Downs",
-      "points": 53,
+      "points": 59,
       "position_id": "S",
       "team_id": "DAL",
       "weeks": {
@@ -1772,7 +1786,8 @@
         "3": 3.8,
         "4": 6.8,
         "5": 3,
-        "6": 13.5
+        "6": 13.5,
+        "7": 6
       }
     },
     {
@@ -2177,9 +2192,9 @@
       }
     },
     {
-      "average": 11.2,
+      "average": 9,
       "filename": "christian-izien.php",
-      "games": 4,
+      "games": 5,
       "player_id": 25867,
       "player_name": "Christian Izien",
       "points": 44.75,
@@ -2189,7 +2204,8 @@
         "2": 2.3,
         "3": 24,
         "4": 18.5,
-        "5": 0
+        "5": 0,
+        "7": 0
       }
     },
     {
@@ -2427,18 +2443,19 @@
       }
     },
     {
-      "average": 0.3,
+      "average": 0.4,
       "filename": "juanyeh-thomas.php",
-      "games": 3,
+      "games": 4,
       "player_id": 24865,
       "player_name": "Juanyeh Thomas",
-      "points": 0.75,
+      "points": 1.5,
       "position_id": "S",
       "team_id": "DAL",
       "weeks": {
         "4": 0,
         "5": 0,
-        "6": 0.8
+        "6": 0.8,
+        "7": 0.8
       }
     },
     {
@@ -2513,7 +2530,7 @@
     {
       "average": 0,
       "filename": "brenden-schooler.php",
-      "games": 2,
+      "games": 3,
       "player_id": 24788,
       "player_name": "Brenden Schooler",
       "points": 0,
@@ -2521,7 +2538,8 @@
       "team_id": "NE",
       "weeks": {
         "5": 0,
-        "6": 0
+        "6": 0,
+        "7": 0
       }
     },
     {
@@ -2539,9 +2557,9 @@
       }
     },
     {
-      "average": 1.5,
+      "average": 1,
       "filename": "elliott-davison.php",
-      "games": 2,
+      "games": 3,
       "player_id": 27784,
       "player_name": "Elliott Davison",
       "points": 3,
@@ -2549,7 +2567,8 @@
       "team_id": "NE",
       "weeks": {
         "5": 3,
-        "6": 0
+        "6": 0,
+        "7": 0
       }
     },
     {
@@ -2569,7 +2588,7 @@
     {
       "average": 0,
       "filename": "lorenzo-styles.php",
-      "games": 2,
+      "games": 3,
       "player_id": 25412,
       "player_name": "Lorenzo Styles Jr.",
       "points": 0,
@@ -2577,7 +2596,8 @@
       "team_id": "NO",
       "weeks": {
         "5": 0,
-        "6": 0
+        "6": 0,
+        "7": 0
       }
     },
     {
