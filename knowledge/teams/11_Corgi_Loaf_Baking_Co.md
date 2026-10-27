@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 10
-- Last updated from Sleeper exports: 2026-10-26
+- Last updated from Sleeper exports: 2026-10-27
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 536.4
-- championship_lineup_c_avi_avg: 67.05
-- offensive_roster_c_avi_sum: 961.3
-- offensive_roster_c_avi_avg: 60.08
+- championship_lineup_c_avi_sum: 536.5
+- championship_lineup_c_avi_avg: 67.06
+- offensive_roster_c_avi_sum: 961.4
+- offensive_roster_c_avi_avg: 60.09
 - offensive_roster_d_avi_sum: 1225.3
 - offensive_roster_d_avi_avg: 76.58
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Malik Nabers | C-AVI: 91.6 | D-AVI: 96.7
 - TE: Michael Mayer | C-AVI: 49.7 | D-AVI: 63.5
 - FLEX: Cam Skattebo | C-AVI: 59.9 | D-AVI: 80.8
-- FLEX: Mike Washington Jr. | C-AVI: 38.5 | D-AVI: 66.9
+- FLEX: Mike Washington Jr. | C-AVI: 38.6 | D-AVI: 66.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 38.5
+- Championship AVI (C-AVI, 0-100): 38.6
 - Dynasty AVI (D-AVI, 0-100): 66.9
 - Projected PPR points: 97.5
 - Category: offense

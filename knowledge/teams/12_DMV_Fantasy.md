@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1129546394534158336
 - Division: 4
 - Waiver position: 8
-- Last updated from Sleeper exports: 2026-10-26
+- Last updated from Sleeper exports: 2026-10-27
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -31,10 +31,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Championship Lineup Used For Raw C-AVI Input
 - RB: Rachaad White | C-AVI: 53.2 | D-AVI: 71.6
-- RB: Keaton Mitchell | C-AVI: 40.3 | D-AVI: 64.1
+- RB: Keaton Mitchell | C-AVI: 40.2 | D-AVI: 64.1
 - WR: Jalen Coker | C-AVI: 72.0 | D-AVI: 84.4
 - WR: Jauan Jennings | C-AVI: 38.4 | D-AVI: 61.5
-- TE: Brenton Strange | C-AVI: 60.0 | D-AVI: 79.4
+- TE: Brenton Strange | C-AVI: 60.1 | D-AVI: 79.4
 - FLEX: Chig Okonkwo | C-AVI: 42.9 | D-AVI: 70.6
 - FLEX: Antonio Williams | C-AVI: 37.0 | D-AVI: 73.8
 
@@ -154,7 +154,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 40.3
+- Championship AVI (C-AVI, 0-100): 40.2
 - Dynasty AVI (D-AVI, 0-100): 64.1
 - Projected PPR points: 96.9
 - Category: offense
@@ -256,7 +256,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 60.0
+- Championship AVI (C-AVI, 0-100): 60.1
 - Dynasty AVI (D-AVI, 0-100): 79.4
 - Projected PPR points: 161.0
 - Category: offense

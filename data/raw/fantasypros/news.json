@@ -6,6 +6,185 @@
       "author": "Garrett Ball",
       "categories": [
         "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-26 20:22:11",
+      "created_formated": "Mon, Oct 26th 8:22pm UTC",
+      "desc": "Grant Calcaterra (back) will be activated from IR ahead of the Eagles Monday night game against the Cowboys.",
+      "id": 616034,
+      "impact": "Calcaterra has had some decent games in the past, but has primarily been a blocking/secondary tight end so far in his career. Rookie TE Eli Stowers is also making his debut on Monday, and he is much more of a pass catching threat. Both shouldn't be started in regular leagues just yet.",
+      "link": "https://www.fantasypros.com/nfl/news/616034/grant-calcaterra-back-to-be-activated-from-ir-will-play-monday.php",
+      "player_id": 24180,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Grant Calcaterra (back) to be activated from IR, will play Monday"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-26 21:58:09",
+      "created_formated": "Mon, Oct 26th 9:58pm UTC",
+      "desc": "The Carolina Panthers D/ST was run over by the Tampa Bay offense on Sunday, failing to record a sack or a turnover in what was a disaster of a day for the team.",
+      "id": 616041,
+      "impact": "The defense struggled to stop Tampa, and the offense struggled to score against Tampa. There was little to write home about in this one, as the Panthers were dominated throughout. They'll look to bounce back against Green Bay on Thursday.",
+      "link": "https://www.fantasypros.com/nfl/news/616041/carolina-panthers-dst-run-over-by-bucs.php",
+      "player_id": 8040,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Carolina Panthers D/ST run over by Bucs"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-26 21:55:32",
+      "created_formated": "Mon, Oct 26th 9:55pm UTC",
+      "desc": "Ryan Fitzgerald hit one of two PATs in the Panthers' 43-13 blowout loss to the Bucs on Sunday.",
+      "id": 616040,
+      "impact": "Fitzgerald was held to just one PAT in what many thought was a decent spot for the Panthers, just another instance of the offense struggling mightily to get on the board. He will look to have a better outing on Thursday against Green Bay.",
+      "link": "https://www.fantasypros.com/nfl/news/616040/ryan-fitzgerald-quiet-loss-to-tampa.php",
+      "player_id": 27261,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Ryan Fitzgerald quiet in loss to Tampa"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-26 21:41:10",
+      "created_formated": "Mon, Oct 26th 9:41pm UTC",
+      "desc": "John Metchie III caught two of four targets for 20 yards in the Panthers' 43-13 blowout loss to the Bucs on Sunday.",
+      "id": 616039,
+      "impact": "This marks the fourth straight game where Metchie has caught multiple passes, though usually he's capped at about 20 yards. He's been operating as the Panthers' third wideout, but that hasn't led to much in most weeks. He's best left on waivers.",
+      "link": "https://www.fantasypros.com/nfl/news/616039/john-metchie-iii-snags-two-passes-loss.php",
+      "player_id": 22895,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "John Metchie III snags two passes in loss"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-26 21:36:51",
+      "created_formated": "Mon, Oct 26th 9:36pm UTC",
+      "desc": "Mitchell Evans caught both of his targets for 39 yards in the Panthers' 43-13 loss to the Buccaneers on Sunday.",
+      "id": 616038,
+      "impact": "Evans had his best yardage total of the season in the blowout loss, putting up his second 30+ yard game of the season. Evans is buried on the tight end depth chart, so don't expect this to become a regular thing.",
+      "link": "https://www.fantasypros.com/nfl/news/616038/mitchell-evans-snags-two-passes-loss.php",
+      "player_id": 27138,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Mitchell Evans snags two passes in loss"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-26 17:06:17",
+      "created_formated": "Mon, Oct 26th 5:06pm UTC",
+      "desc": "Bryce Young completed 14-of-27 passes for 163 yards with a touchdown and two picks and a fumble in the Panthers' 43-13 loss to the Bucs on Sunday. He also ran once for nine yards.",
+      "id": 616016,
+      "impact": "Young had his worst game of the season in this one, with his top two receivers, Tetairoa McMillan and Jalen Coker, held to just five catches for 49 yards combined. He better shake off this loss quickly, as the Panthers face off against the Packers on Thursday night.",
+      "link": "https://www.fantasypros.com/nfl/news/616016/bryce-young-struggles-loss-to-bucs.php",
+      "player_id": 22900,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Bryce Young struggles in loss to Bucs"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-26 21:07:06",
+      "created_formated": "Mon, Oct 26th 9:07pm UTC",
+      "desc": "Taylor Moton (leg) was placed on IR after exiting Sunday's loss to the Buccaneers due to injury.",
+      "id": 616037,
+      "impact": "Moton was diagnosed with a fractured left fibula after further testing on Monday. The veteran tackle will miss at least the next four games, but potentially longer. Rookie lineman Monroe Freeling replaced Moton in Sunday's game. ",
+      "link": "https://www.fantasypros.com/nfl/news/616037/taylor-moton-leg-lands-on-ir.php",
+      "player_id": 16710,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Taylor Moton (leg) lands on IR"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-26 21:00:54",
+      "created_formated": "Mon, Oct 26th 9:00pm UTC",
+      "desc": "Dillon Gabriel (back) was activated from IR on Monday. ",
+      "id": 616036,
+      "impact": "Gabriel had been progressing at practice last week, taking reps with the Browns' second team. He'll now enter the mix with fellow second-year QB Shedeur Sanders on the Browns' depth chart behind starter Deshaun Watson. ",
+      "link": "https://www.fantasypros.com/nfl/news/616036/dillon-gabriel-back-returns-from-ir.php",
+      "player_id": 23150,
+      "sport_id": "NFL",
+      "team_id": "CLE",
+      "title": "Dillon Gabriel (back) returns from IR"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-26 20:19:20",
+      "created_formated": "Mon, Oct 26th 8:19pm UTC",
+      "desc": "Eli Stowers (quad/hamstring) will be activated from IR today and play in the Eagles Monday night game against the Cowboys.",
+      "id": 616033,
+      "impact": "Stowers has yet to play in 2026 due to injuries sustained in the preseason. The rookie second round pick will now make his season debut, and look to make an impact for a struggling Eagles roster.",
+      "link": "https://www.fantasypros.com/nfl/news/616033/eli-stowers-quadhamsting-to-be-activated-from-ir-will-play-on-monday.php",
+      "player_id": 23144,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Eli Stowers (quad/hamsting) to be activated from IR, will play on Monday"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-26 19:07:21",
+      "created_formated": "Mon, Oct 26th 7:07pm UTC",
+      "desc": "Daniel Jones is still the Colts starter, per HC Shane Steichen.",
+      "id": 616032,
+      "impact": "Jones has been downright abysmal this season, throwing just four touchdown passes to seven interceptions, with only one passing touchdown in the last four games. His rushing hasn't been there for him either, as he's only had one score on the ground and is averaging fewer than 10 rushing yards per game this season. Rumblings will build for the team to give Anthony Richardson or some other name a shot if things continue to spiral, Steichen is likely coaching for his job, and Jones is playing for his job at this point as well. He's the QB28 on the season, but the QB37 in PPG among QBs with multiple games under their belt. He's not startable in any league at this point.",
+      "link": "https://www.fantasypros.com/nfl/news/616032/daniel-jones-backed-by-hc-steichen-still-colts-starter.php",
+      "player_id": 18232,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Daniel Jones backed by HC Steichen, still Colts starter"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
         "News"
       ],
       "created": "2026-10-26 18:16:36",
@@ -170,24 +349,6 @@
         "News",
         "Results"
       ],
-      "created": "2026-10-26 17:06:17",
-      "created_formated": "Mon, Oct 26th 5:06pm UTC",
-      "desc": "Bryce Young completed 14-of-27 passes for 163 yards with a touchdown and two picks and a fumble in the Panthers' 43-13 loss to the Bucs on Sunday.",
-      "id": 616016,
-      "impact": "Young had his worst game of the season in this one, with his top two receivers, Tetairoa McMillan and Jalen Coker, held to just five catches for 49 yards combined. He better shake off this loss quickly, as the Panthers face off against the Packers on Thursday night.",
-      "link": "https://www.fantasypros.com/nfl/news/616016/bryce-young-struggles-loss-to-bucs.php",
-      "player_id": 22900,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Bryce Young struggles in loss to Bucs"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
       "created": "2026-10-26 17:00:54",
       "created_formated": "Mon, Oct 26th 5:00pm UTC",
       "desc": "Chase McLaughlin made both of his field goal attempts and all five of his PATs in the Bucs' resounding 43-13 win over the Panthers on Sunday.",
@@ -288,168 +449,6 @@
       "sport_id": "NFL",
       "team_id": "GB",
       "title": "Packers D/ST forces two turnovers Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-26 12:17:36",
-      "created_formated": "Mon, Oct 26th 12:17pm UTC",
-      "desc": "Trey Smack went 1-for-3 on his field-goal attempts and 2-for-2 on his extra-point attempts in Sunday's 20-17 loss to the Detroit Lions.",
-      "id": 615972,
-      "impact": "The rookie ended up with two missed field-goal attempts on Sunday, which was especially consequential with Green Bay losing by just three points. One of those were blocked, however, which can't really be blamed on him. Still, this wasn't a good performance from him and he will likely be a shaky fantasy option at the position for the foreseeable future.",
-      "link": "https://www.fantasypros.com/nfl/news/615972/trey-smack-misses-two-kicks-loss-sunday.php",
-      "player_id": 28507,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Trey Smack misses two kicks in loss Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-26 12:14:50",
-      "created_formated": "Mon, Oct 26th 12:14pm UTC",
-      "desc": "MarShawn Lloyd rushed the ball six times for 20 yards and caught two passes for 15 yards in Sunday's 20-17 loss to the Detroit Lions.",
-      "id": 615970,
-      "impact": "Lloyd was still somewhat involved on Sunday and saw eight opportunities, but he wasn't able to do much with them and was entirely outshined by Josh Jacobs in his first game back. There doesn't seem to be much optimism surrounding Lloyd's role or fantasy outlook for the foreseeable future with Jacobs now back in the lineup.",
-      "link": "https://www.fantasypros.com/nfl/news/615970/marshawn-lloyd-quiet-loss-sunday.php",
-      "player_id": 23118,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "MarShawn Lloyd quiet in loss Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-26 12:12:45",
-      "created_formated": "Mon, Oct 26th 12:12pm UTC",
-      "desc": "Tucker Kraft hauled in 4-of-6 targets for 49 yards and a touchdown in Sunday's 20-17 loss to the Detroit Lions.",
-      "id": 615969,
-      "impact": "Kraft had a solid game on Sunday. He was able to haul in four passes for 49 yards on the afternoon, one of which he was able to get into the end zone on as well. He should continue to be viewed as a weekly starter at the tight end position moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/615969/tucker-kraft-finds-end-zone-sunday.php",
-      "player_id": 25298,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Tucker Kraft finds end zone Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-26 12:10:13",
-      "created_formated": "Mon, Oct 26th 12:10pm UTC",
-      "desc": "Josh Jacobs rushed the ball 11 times for 36 yards and caught 5-of-7 targets for 55 yards and a touchdown in Sunday's 20-17 loss to the Detroit Lions.",
-      "id": 615968,
-      "impact": "Sunday was the first game back for Jacobs after he missed the start of the season while on the Commissioner's Exempt List. He wasn't effective on the ground in his first game back, but he made his hay through the air with five catches, 55 yards, and a touchdown on the day. He should be a viable RB2 over the course of the back half of the season as he continues to knock the rust off after so much time off.",
-      "link": "https://www.fantasypros.com/nfl/news/615968/josh-jacobs-scores-once-return-game-sunday.php",
-      "player_id": 18269,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Josh Jacobs scores once in return game Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-26 11:58:03",
-      "created_formated": "Mon, Oct 26th 11:58am UTC",
-      "desc": "Matthew Golden caught 6-of-12 targets for 39 yards in Sunday's 20-17 loss to the Detroit Lions.",
-      "id": 615967,
-      "impact": "Golden was the most-targeted receiver for Green Bay on Sunday. He wasn't able to make the most out of those opportunities, however, catching just half of his targets and turning that into 39 scoreless yards against Detroit. This was a bit of a down game for him, but he should bounce back in the near future, especially if he continues to be targeted at this rate.",
-      "link": "https://www.fantasypros.com/nfl/news/615967/matthew-golden-underwhelming-loss-sunday.php",
-      "player_id": 26024,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Matthew Golden underwhelming in loss Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-26 11:55:53",
-      "created_formated": "Mon, Oct 26th 11:55am UTC",
-      "desc": "Christian Watson caught 5-of-8 targets for 57 yards in Sunday's 20-17 loss to the Detroit Lions.",
-      "id": 615966,
-      "impact": "Watson played a decent game on Sunday. He was able to lead the team with 57 receiving yards on the day, but he didn't get into the end zone at all and only caught five passes, which left him with a mediocre fantasy finish. He will continue to be a must-start option on a week-to-week basis for as long as he continues to be productive.",
-      "link": "https://www.fantasypros.com/nfl/news/615966/christian-watson-leads-team-receiving-sunday.php",
-      "player_id": 23886,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Christian Watson leads team in receiving Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-26 11:54:02",
-      "created_formated": "Mon, Oct 26th 11:54am UTC",
-      "desc": "Jordan Love completed 27-of-45 passing attempts for 274 yards, two touchdowns, and an interception in Sunday's 20-17 loss to the Detroit Lions.",
-      "id": 615965,
-      "impact": "Love had an okay game on Sunday. He threw for close to 300 yards and two touchdowns over the course of the game, but he also threw two interceptions and didn't have a very high completion percentage on the day. He will continue to be a viable week-to-week streaming option moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/615965/jordan-love-throws-two-touchdowns-loss-sunday.php",
-      "player_id": 19246,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Jordan Love throws two touchdowns in loss Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-26 11:51:21",
-      "created_formated": "Mon, Oct 26th 11:51am UTC",
-      "desc": "The Lions' D/ST logged one sack and one interception while allowing 17 points in Sunday's win over the Green Bay Packers.",
-      "id": 615964,
-      "impact": "Detroit's defense has struggled heavily over the first half of the season, but they looked a lot better on Sunday. They allowed Green Bay's high-powered offense to score just 17 points on the day, which helped Detroit to pick up a key win over their divisional rival. Still, this unit shouldn't be started outside of favorable matchups moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/615964/lions-dst-allows-17-points-win-sunday.php",
-      "player_id": 8100,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Lions D/ST allows 17 points in win Sunday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-26 11:49:33",
-      "created_formated": "Mon, Oct 26th 11:49am UTC",
-      "desc": "Jake Bates went 2-for-2 on his field-goal attempts and 2-for-2 on his extra-point attempts in Sunday's 20-17 win over the Green Bay Packers.",
-      "id": 615963,
-      "impact": "Bates did his job on Sunday, making all four of his attempted kicks in a win over the Packers. He should continue to be a good fantasy option at the kicker position moving forward, considering how effective Detroit is at moving the ball.",
-      "link": "https://www.fantasypros.com/nfl/news/615963/jake-bates-scores-eight-points-win-sunday.php",
-      "player_id": 26075,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Jake Bates scores eight points in win Sunday"
     }
   ],
   "public_api": true,

@@ -2275,7 +2275,7 @@
     {
       "cbs_player_id": "28873701",
       "player_age": "23",
-      "player_bye_week": "11",
+      "player_bye_week": null,
       "player_ecr_delta": 16,
       "player_eligibility": "TE",
       "player_filename": "carsen-ryan.php",
@@ -2288,7 +2288,7 @@
       "player_position_id": "TE",
       "player_positions": "TE",
       "player_short_name": "C. Ryan",
-      "player_team_id": "CLE",
+      "player_team_id": "FA",
       "player_yahoo_id": "42870",
       "player_yahoo_positions": "TE",
       "pos_rank": "TE82",
@@ -2498,7 +2498,7 @@
     },
     {
       "cbs_player_id": "3123819",
-      "player_age": "25",
+      "player_age": "26",
       "player_bye_week": "5",
       "player_ecr_delta": null,
       "player_eligibility": "TE",
