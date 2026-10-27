@@ -1,5 +1,40 @@
 [
   {
+    "id": "mvqsrkb8-6a0624c4",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "All Hail King Jesus",
+      "trade": {
+        "sideA": [
+          {
+            "name": "DeVonta Smith",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Tee Higgins",
+            "assetType": "player"
+          }
+        ]
+      },
+      "personalContext": "Hofer will be 2-5"
+    },
+    "createdAt": 1793112298584,
+    "updatedAt": 1793112298584,
+    "expiresAt": 1793544298584,
+    "status": "queued"
+  },
+  {
     "id": "mvqsg44o-4e80c871",
     "phase": "initial",
     "mode": "analyze_trade",
