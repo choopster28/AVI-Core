@@ -1,5 +1,490 @@
 [
   {
+    "id": "mvso0q5s-29028f77",
+    "createdAt": 1793225278232,
+    "expiresAt": 1793657278232,
+    "mode": "analyze_trade",
+    "title": "Final Trade Analysis · Big Balder Brand ↔ Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Increase Championship Odds",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          },
+          {
+            "name": "DeVonta Smith",
+            "assetType": "player"
+          },
+          {
+            "name": "Tyler Warren",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": [],
+      "personalContext": "Choop has a chance at the playoffs by potentially going 7-7 or 8-6. I know he has a lot of injuries and is hesitant to add two more players fighting injuries to his roster given his situation, while giving up McBride. Also, choop doesn’t want two eagles on his team so that’s why he’s moving Saquon in this deal… the eagles offense is bottom 5, but smiths long term outlook outweighs saquons"
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Incorporating personal context regarding trade partner Awang's (Corgi Loaf Baking Co.) injury hesitations and desire to avoid rostering multiple players from a bottom-5 Eagles offense significantly reshapes how this transaction must be structured. While Big Balder Brand (Choopski) is pushing for a playoff berth and wants to capitalize on DeVonta Smith's long-term upside while offloading Saquon Barkley's injury volatility, Awang is currently battling for a playoff spot (7-7/8-6 projection) and is naturally reluctant to take on *more* injury-riddled pieces when surrendering an elite, healthy cornerstone like Trey McBride. To satisfy Awang's competitive window and aversion to injury/Eagles clutter, the recommended offer must pivot away from bundling Saquon Barkley and instead deliver clean, high-upside starting assets.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 93.4,
+              "davi": 92.7,
+              "publicMarket": 94,
+              "leagueMarket": 93.4
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 62.9,
+              "davi": 85,
+              "publicMarket": 72,
+              "leagueMarket": 62.9
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 27,
+              "cavi": 70.2,
+              "davi": 80.8,
+              "publicMarket": 72,
+              "leagueMarket": 70.2
+            },
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 84.9,
+              "davi": 91.9,
+              "publicMarket": 85,
+              "leagueMarket": 84.9
+            },
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "TE",
+              "age": 24,
+              "cavi": 81.6,
+              "davi": 90,
+              "publicMarket": 82,
+              "leagueMarket": 81.6
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "D+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "As submitted, Big Balder Brand secures a major upgrade in starting lineup utility (+21.5 net C-AVI boost). However, Corgi Loaf Baking Co. suffers a -26.2 C-AVI drop in starting lineup capacity, stripping away vital offensive depth. Furthermore, incorporating personal context reveals that trade partner Awang is fighting for a playoff spot and is heavily resistant to acquiring Saquon Barkley due to injury concerns and an aversion to rostering multiple players from a struggling Eagles offense."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "By modifying the package to substitute safer, non-Eagles roster depth or draft capital, Big Balder Brand can acquire elite pieces without triggering Awang's specific hesitation regarding injury-prone players and offensive concentration in Philadelphia."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 10,
+              "summary": "Substantial boost to starting lineup C-AVI and roster depth across WR2 and FLEX slots in a 16-team format."
+            },
+            "championshipOutlook": {
+              "score": 72,
+              "summary": "Increases weekly floor and ceiling by upgrading starting slots and balancing high-leverage positions for a playoff push."
+            },
+            "dynastyOutlook": {
+              "score": 55,
+              "summary": "Acquires young assets like Tyler Warren and DeVonta Smith while offloading aging running back volatility."
+            },
+            "lineupQuality": {
+              "score": 75,
+              "summary": "Upgrades WR2 and FLEX slots dramatically while maintaining high tight end output."
+            },
+            "depthResilience": {
+              "score": 60,
+              "summary": "Creates excellent injury resilience by pushing proven producers into optimal roles."
+            },
+            "flexibilityLiquidity": {
+              "score": 50,
+              "summary": "Maintains solid trade flexibility with liquid, prime-age dynasty assets."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -10,
+              "summary": "Acquires elite TE1 Trey McBride, but suffers lineup friction and violates manager risk tolerances regarding injury volatility and Eagles exposure."
+            },
+            "championshipOutlook": {
+              "score": -55,
+              "summary": "Damages 2026 title odds by stripping starting depth and forcing injury-prone assets onto a bubble playoff roster."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Consolidates into Trey McBride but creates unnecessary roster construction hurdles."
+            },
+            "lineupQuality": {
+              "score": -50,
+              "summary": "Upgrades TE slot but creates severe drop-offs at RB and FLEX when surrendering stable producers."
+            },
+            "depthResilience": {
+              "score": -60,
+              "summary": "Leaves roster highly fragile by compounding injury risk."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Gains premier trade currency in Trey McBride at the expense of current lineup integrity."
+            }
+          },
+          "explanation": "Big Balder Brand gains structural value, but personal context proves that Corgi Loaf manager Awang views Saquon Barkley as an undesirable injury risk tied to a bottom-5 Eagles offense, making the submitted structure a non-starter from a behavioral standpoint."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand's starting lineup C-AVI increases from 576.4 to 597.9 (+21.5 index points). Adding DeVonta Smith (84.9 C-AVI) and Chuba Hubbard (70.2 C-AVI) elevates the starting WR2 and RB2/FLEX slots, while Tyler Warren (81.6 C-AVI) minimizes the positional drop from Trey McBride (93.4 C-AVI).",
+          "sideADynastyImpact": "Big Balder improves its overall age and contract profile by acquiring 24-year-old Tyler Warren and 27-year-old DeVonta Smith while offloading 29-year-old Saquon Barkley.",
+          "sideARosterImpact": "Roster balance improves significantly in a 16-team league. Rashee Rice (66.6 C-AVI) and Jeremiyah Love (65.7 C-AVI) move to FLEX roles, while Omarion Hampton (58.9 C-AVI) and Chris Godwin Jr. (43.4 C-AVI) provide high-end bench depth.",
+          "sideBChampionshipImpact": "Corgi Loaf Baking Co.'s starting lineup C-AVI drops from 596.9 to 570.7 (-26.2 index points). Although Trey McBride (93.4 C-AVI) provides a +11.8 TE upgrade over Tyler Warren (81.6 C-AVI), losing DeVonta Smith and Chuba Hubbard forces David Montgomery (54.2 C-AVI) into a mandatory starting FLEX role.",
+          "sideBDynastyImpact": "Corgi Loaf acquires the premier TE1 in dynasty fantasy football (McBride, 92.7 D-AVI), but sacrifices two prime-age starters in Hubbard and Smith.",
+          "sideBRosterImpact": "Corgi Loaf's starting roster becomes top-heavy and fragile, stripping away starting FLEX insurance during a championship push.",
+          "valueAssessment": "On raw asset C-AVI sum, Side B (236.7) exceeds Side A (156.3), but when evaluated through actual 16-team mandatory starting lineup requirements, Big Balder Brand captures the vast majority of real weekly starting utility."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus views Trey McBride as an elite blue-chip TE1 overall. Saquon Barkley carries high historical RB1 upside but faces contemporary workload management (hamstring/back issues) and downgraded Eagles offense conditions without Jalen Hurts. Chuba Hubbard operates as a high-volume RB13 PPR producer in Carolina. DeVonta Smith (hamstring) and Tyler Warren (groin) represent high-upside starters working back from soft-tissue absences.",
+          "aviVsMarket": "AVI values Trey McBride (93.4 C-AVI) and DeVonta Smith (84.9 C-AVI) in line with public dynasty/redraft consensus. Saquon Barkley's C-AVI (62.9) accurately reflects current health management and Philadelphia offense volatility compared to his higher name-brand public prestige.",
+          "relevantContext": [
+            "Trey McBride leads all NFL TEs in receptions and yards, commanding elite target share in Arizona.",
+            "Saquon Barkley exited Week 7 early with a back injury following a prior hamstring strain; workload is actively monitored and Eagles lost Jalen Hurts for the season.",
+            "Chuba Hubbard commands bellcow usage in Carolina (RB13 PPR overall through Week 7).",
+            "DeVonta Smith missed Week 7 with a lingering hamstring injury; Eagles operating under backup QB Tanner McKee.",
+            "Tyler Warren (IND) returned to practice limited on Oct 28 following a groin injury and represents an elite 24-year-old TE producer."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf manager Awang is fighting for a 7-7 or 8-6 playoff spot. He is hyper-sensitive to injury risks and explicitly wants to avoid stacking injury-prone players from a bottom-5 Eagles offense, rendering Saquon Barkley an unappealing centerpiece.",
+          "packageFit": "The submitted package fails not just mathematically on lineup replacement, but behaviorally due to Awang's personal roster constraints and risk profile.",
+          "lineupReplacement": "Corgi Loaf cannot afford to absorb injury-prone replacement options while fighting for the postseason bubble.",
+          "competitiveWindowFit": "Awang's bubble playoff status requires stable, reliable producers rather than volatile injury risks.",
+          "positionalScarcity": "In a 16-team league, usable starting depth is paramount, but risk management dictates rejecting injury accumulation."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 2,
+            "packageMatch": 5,
+            "lineupReplacement": 2,
+            "competitiveWindow": 1
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 35,
+          "classification": "Unlikely",
+          "explanation": "Although public availability is open, Corgi Loaf manager Awang will reject this trade due to personal risk aversion: he is fighting for a playoff spot (7-7/8-6), wants to avoid acquiring injury-prone players, and explicitly rejects stacking multiple players from a bottom-5 Eagles offense like Saquon Barkley."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "While Big Balder Brand benefits conceptually from upgrading starting positions, the submitted trade is dead on arrival because trade partner Awang refuses to take on Saquon Barkley's injury volatility and bottom-5 Eagles offense exposure while fighting for a playoff spot. To get a deal done, Big Balder Brand must construct a package that removes Barkley entirely or replaces him with clean, non-Eagles assets.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 93.4,
+              "davi": 92.7,
+              "publicMarket": 94,
+              "leagueMarket": 93.4
+            },
+            {
+              "name": "Chris Godwin Jr.",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 43.4,
+              "davi": 73.9,
+              "publicMarket": 55,
+              "leagueMarket": 43.4
+            }
+          ],
+          "receive": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 27,
+              "cavi": 70.2,
+              "davi": 80.8,
+              "publicMarket": 72,
+              "leagueMarket": 70.2
+            },
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 84.9,
+              "davi": 91.9,
+              "publicMarket": 85,
+              "leagueMarket": 84.9
+            },
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "TE",
+              "age": 24,
+              "cavi": 81.6,
+              "davi": 90,
+              "publicMarket": 82,
+              "leagueMarket": 81.6
+            }
+          ],
+          "whyUserShouldDoIt": "Big Balder Brand still secures major starting upgrades at WR2 and FLEX and acquires 24-year-old TE Tyler Warren, while completely bypassing Awang's aversion to Saquon Barkley and Eagles offensive stacking.",
+          "whyOpponentMightAccept": "Corgi Loaf secures elite TE1 Trey McBride and stable veteran WR depth in Chris Godwin Jr. without taking on injury-prone Saquon Barkley or unwanted Eagles roster clutter during their playoff push."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 93.4,
+              "davi": 92.7,
+              "publicMarket": 94,
+              "leagueMarket": 93.4
+            },
+            {
+              "name": "2028 Round 2 Pick",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 27,
+              "cavi": 70.2,
+              "davi": 80.8,
+              "publicMarket": 72,
+              "leagueMarket": 70.2
+            },
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 84.9,
+              "davi": 91.9,
+              "publicMarket": 85,
+              "leagueMarket": 84.9
+            },
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "TE",
+              "age": 24,
+              "cavi": 81.6,
+              "davi": 90,
+              "publicMarket": 82,
+              "leagueMarket": 81.6
+            }
+          ],
+          "rationale": "Replacing Saquon Barkley entirely with a 2028 2nd-round draft pick removes all Eagles offensive exposure and injury baggage, perfectly aligning with Awang's bubble playoff risk profile while still compensating Corgi Loaf for parting with starting depth."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Considered trade partner Awang's bubble playoff status (7-7/8-6 projection), his specific hesitation toward acquiring injury-prone players while giving up Trey McBride, and his aversion to rostering multiple players from a bottom-5 Eagles offense (which explains why he is moving Saquon). As a result, the recommended package was restructured to remove Saquon Barkley and substitute clean, non-Eagles assets like Chris Godwin Jr. or future draft capital."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "DeVonta Smith news 2026 fantasy football",
+          "Chuba Hubbard news 2026 fantasy football",
+          "Trey McBride news 2026 fantasy football",
+          "Saquon Barkley news 2026 fantasy football",
+          "Tyler Warren NFL draft 2025 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjGYoo0qer_zLoiZyVg6jzb0XUtmDtmS8jtFtklGMwOnX9umo38CVVZ3V1SUAjFrysjoQqItC7OUM7RwPlR4_pR3iWFBOs7wB9WVhniwE-J_tTqWJhn0xgCosM_AA0t-_GkDy0hUopZbmNzsRZuxxLutPh5_GDIDwjDV1dSTOWk4TntwWqeK4dUN_9mtg=",
+            "title": "clutchpoints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGstPRiUHOdGeNIStivuPSU2JYLN28sEtYUx5TQ6ilyuihRoh-ahaM368wZLV1mp8E_iCIbmdz7x5-hnv0hrEXCaTVALFCMhRSIdnsgNcrm_ImwN7yWGzNpodmcQ0ZnFqDMT013ryc6K5Pw_JR9ctI-m81ob9Q=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI_CnodsKTyM9W9me4yNWJtI5W79noBnF1NotPRwfqnzBzMitBxG2PU_zpWsOylwS4WumYuyWZeWi-XEgHM66UCylys7Kgxft5MHrKlA5WKAJ9kvNn0QmJFPlqX3VEjjsyrOvlB1Iu",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLppszZ6-ttSDnwohCPlEX7r1torwO29zAXO8-4jKcVeoFwGPmntdff07ocGhzu51annlpCsAhvuky19giWarHDdp9kDWd-pL-WSvTBG2VyhPlW15WzAyHGn4t8Echih-X85_t0gtfYHnMLrEo5hf7QlnBtWHu3Q==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDiq7mkojzgj5VuzzqeQCLFXSsqLX-WHxS82y-mXuobwxImgnGZs_x-vG-omNSbS7IXVughLtEbuoJezx1OwsUMM7eAmu_O3hw3NRd1oxZel6sfoIShLthkty5V3-q4dYPV9rzlyBN8vRvCCiJ4qi37qsD_nq4cIy8LlNf5NnZ2fPyGj3EVr2nWkdyeVgURBp-grn2YtmDsw==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMx-qvrCJJEOMmp5lvGp7RFCNYDijnsMQ5GO3-dXsCRmuUd586jN_6zpT18pOSS2f2z6a03yAFvB33tgjnvPIvRCDpRegvZs69jQwUo7KfqzKUW53-JP6WtAEMjDmIIknN6l04-yuD5K4a6mBx3otPvEuz1OmaLOz5tgYqawHQgzPcDJ-w_oJVuK_zCtcjVcvqnOEDJwjsEvrnusTd0HsFpnqqSFUS6mNcVGyDvnQu9xgGzQ==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-fWMNbYofUP2T4JR1weW34LH7p2G-NziX1FCsH-E7hdsypbMW2p7cKx9dQR3VcLu2odI_amr2rHuzAQE_a7e7D8IdlxSSyD2ERIde4U9rv7hIkDD9xuuOe6MZxb-7JNXtKVgyPPgznmqslktZhwBpSnIOOC1fc9yr2j6rRv0lM-lVYbNT7ke5g2rHmlQ6rCVHRf9Lo8FLgqq6ySjdXQcUUBNmulJj7Q2e8p-Dn4M=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU7QTVHIiZHz9gOEGiv_lzQEIfiBOKmjz_gkwlx1M3awGqQngJExEZd9VI4kpApt-i-YgU22Gr4rk0R7sIud2uB_rBD89auspRax4Ls0_gsyrYrePuOcbpRMqS6drsyAzEuWshcejc0IqpBtKlzCQ-z-XYHc83",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1-JwHbpAIebbl1ebSWRfj-Bjlj5S4wlrRcq7PRbn9pOP4fSDpskEPUm06YlrKL-HV978WYFGHfvXkALe4bDfHz583oWuqx-74m4lbweQgVRWrQTwR4Y1siDDIgQrw7QZlsJVyWHL3J1ZcJEk1z9J-MXJW6a6bJsUFKSuvM4Gpk82nynDJN2kJjfXIz2w-x6FAyQ==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4KseFFHREm5FPVEEPGcaLbawE8L37BokFLIT3i13V8wWCAFy5F7dWOET9uNq1xQazX04LclYiss4rCgcRCZKnKmFFNp9bLsPPZKx0vPrHhiE7TwRqO787HIeRw6XH50QWL4IVHQIefg==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOHC4rcLD9XMfbJbG5MJTzQZCHnNlCQ-U9zZVSRDUXCh24QOLc_voaBrfKcdH0fvGTcbWaAM8eLpZ3n3xUnfIFMzIcQtoMgAKA1c254F8Tli4Lr3DQWS1lscCa6i-v-BWCZJ7vaESEF0pzjBxOzb_KTtHDSj7aEf5ea7bFpdkt4ktPxvuOrj8j",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx-POZl-sK9r6O_eGjJrPHMhx89XeFl5Hjm3o_sfYYDdCGQBXh110C6hcF5LpLa3vUKjU0OqgtTjlDQm2eWrrq9IuqsZuyXZJaFcQBCaGURf_RBFzc0iN9-KqR0xbGKyck-4n7qIcpOw==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExthB-dUxCLaoAqEV5WDW5B5Vz3BltW2c_M5tN1GsJIYSu2vNm3PGkUSfswvotdcLb60gScTYXUKXDGe12BI6xBOwvBuGWJl4FhxSqcdZLD_Sqy_-7NHbcdCpFrYskgVrcjxQ0dD7EwwpYLmAO",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb6kOkul_Xj6HM-_Uyu48-WGf2uiE6Mzf9mQoUG8qUtM4CAZ3SO9uwo4Y4ftSqPMW03tn3kQlucx4QdG1rT8Bkz1o-MuahJXmT5kKEQK0ZVKEipMh_jY3mM7OSZs-7_eAu_7eP8UeK2ytN23s=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKPtGZL_X0kbEDVEdDHtzlBCQfheQ0SppvvaBa_H0e2pTzlaAdwSkacl66mMIN2_epgqYCaqttrXkAypmzWlo7XVLIlIEoy6UHtiHon77JUGC7MWaVUA6pbzyrWAfremgqci6Lp82VHo8-5JmlwDsdY0SiGOv_sbUUuCZrtcMF7ZUUf3LxKINmOaarp530eXVJHE3JCM5qdF2_pV76Ty6fsAS90Jjj3vWwXMc=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOhiI99KnBTZDSnWWh0hCOmvZHb6YqBGcLqKBOMff2u9exXtbWBVwfaZbJCZw9dtMiBK0IULUXXxcA_N0MMZSjAcaqOGJkJ6COjno-KLsasgfcO9axSZhWvMbLkZb0RMX6LWfc6YtNcicGiKwxGnMp6s-vrwctsWDYhd2Zb1Ro2n_dBzQfVCFKGZk-qyeaSrwODpPEtY3JpbrH",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmNMMAX8IkFSRdVLC48mV6LAFD_BMz5vlHGe1ijz_Z5ylncNWpJstsfsTNzKrhkJSHudNuBurm05qOTbrXRlQ8nK5InHZYGkkEdhEtFR-vdMNpfBGAuBVHELIktTnZxJTqnrDlew_Brd1OnlA9FDm_7F5qS8gPes-0TERyigoM_cVb_wuBN9-6X5mMKmBhYmDRJIFftUEqaNzdwGrT77A=",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "d107c8bce8402f07417523a20ee421048d327cb0",
+        "aviCoreCommittedAt": "2026-10-28T22:01:15Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 93289,
+        "groundedMarketChars": 6067,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": true,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mvsnt0ic-da2cac07",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "d107c8bce8402f07417523a20ee421048d327cb0"
+      }
+    }
+  },
+  {
     "id": "mvsnt0ic-da2cac07",
     "createdAt": 1793225009673,
     "expiresAt": 1793657009673,
