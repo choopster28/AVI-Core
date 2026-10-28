@@ -1,0 +1,71 @@
+name: Manual AVI Recalculation (Cached Data Only)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: avi-data-updates
+  cancel-in-progress: false
+
+jobs:
+  recalculate-avi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out latest AVI-Core main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install AVI-Core and tests
+        run: |
+          python -m pip install -e .
+          python -m pip install pytest
+
+      - name: Run valuation regression tests
+        run: python -m pytest -q
+
+      - name: Recalculate AVI from existing files only
+        run: python scripts/recalculate_avi_offline.py
+
+      - name: Commit updated AVI outputs and reports
+        run: |
+          git config user.name "avi-automation"
+          git config user.email "avi-automation@users.noreply.github.com"
+          git add \
+            data/processed/avi/avi_players.json \
+            data/processed/avi/manifest.json \
+            data/processed/reports/player_lookup.json \
+            data/processed/reports/team_profiles_manifest.json \
+            knowledge/03_AVI_Player_Current_Team_Lookup.md \
+            knowledge/teams
+
+          if git diff --cached --quiet; then
+            echo "No recalculated AVI file changes."
+            exit 0
+          fi
+
+          git commit -m "Recalculate AVI from cached data (manual)"
+          for attempt in 1 2 3; do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort || true
+              exit 1
+            fi
+            if git push origin HEAD:main; then
+              echo "Recalculated AVI values published."
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "Failed to publish recalculated AVI files."
+          exit 1
