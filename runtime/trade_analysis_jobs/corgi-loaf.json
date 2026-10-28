@@ -1,5 +1,50 @@
 [
   {
+    "id": "mvsqe3zm-e9724dae",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "partnerGoal": "Retool",
+      "targetTeam": "Big Balder Brand",
+      "trade": {
+        "sideA": [
+          {
+            "name": "DeVonta Smith",
+            "assetType": "player"
+          },
+          {
+            "name": "Tyler Warren",
+            "assetType": "player"
+          },
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": [],
+      "personalContext": "Choop is trying to still compete as a pre-season championship contender and thinks he has a schedule that he can finish 7-7 with and make the playoffs. He won't take any package less than this"
+    },
+    "createdAt": 1793229244034,
+    "updatedAt": 1793229244034,
+    "expiresAt": 1793661244034,
+    "status": "queued"
+  },
+  {
     "id": "mvsqaz2s-370e8eb3",
     "phase": "initial",
     "mode": "analyze_trade",
