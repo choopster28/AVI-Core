@@ -1,5 +1,34 @@
 [
   {
+    "id": "mvs7dfh4-1071f70d",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "Jahmyr Gibbs",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "He’s open to moving Gibbs and needs TE help. I’m open to adding a rb like Tuten for Gibbs and kelce, or something similar"
+    },
+    "createdAt": 1793197299523,
+    "updatedAt": 1793197299523,
+    "expiresAt": 1793629299523,
+    "status": "queued"
+  },
+  {
     "id": "mvs7afvg-b1216cce",
     "phase": "initial",
     "mode": "propose_trade",
