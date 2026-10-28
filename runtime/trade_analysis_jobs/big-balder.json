@@ -1,5 +1,40 @@
 [
   {
+    "id": "mvsc9yb3-99e8e56c",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jonathan Taylor",
+            "assetType": "player"
+          },
+          {
+            "name": "Isaiah Likely",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1793205535216,
+    "updatedAt": 1793205535216,
+    "expiresAt": 1793637535216,
+    "status": "queued"
+  },
+  {
     "id": "mvsbggcl-180f2a6f",
     "phase": "final",
     "mode": "analyze_trade",
