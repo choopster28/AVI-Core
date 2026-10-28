@@ -2667,7 +2667,7 @@
     {
       "cbs_player_id": "2964372",
       "player_age": "27",
-      "player_bye_week": "14",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "RB",
       "player_filename": "emari-demercado.php",
@@ -2680,7 +2680,7 @@
       "player_position_id": "RB",
       "player_positions": "RB",
       "player_short_name": "E. Demercado",
-      "player_team_id": "DAL",
+      "player_team_id": "FA",
       "player_yahoo_id": "40430",
       "player_yahoo_positions": "RB",
       "pos_rank": "RB96",

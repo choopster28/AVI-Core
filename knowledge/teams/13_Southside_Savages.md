@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 998253660243054592
 - Division: 2
 - Waiver position: 6
-- Last updated from Sleeper exports: 2026-10-27
+- Last updated from Sleeper exports: 2026-10-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 512.1
-- championship_lineup_c_avi_avg: 64.01
-- offensive_roster_c_avi_sum: 723.8
-- offensive_roster_c_avi_avg: 51.70
-- offensive_roster_d_avi_sum: 988.6
-- offensive_roster_d_avi_avg: 70.61
+- championship_lineup_c_avi_sum: 512.3
+- championship_lineup_c_avi_avg: 64.04
+- offensive_roster_c_avi_sum: 724.0
+- offensive_roster_c_avi_avg: 51.71
+- offensive_roster_d_avi_sum: 988.7
+- offensive_roster_d_avi_avg: 70.62
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Drake Maye | C-AVI: 89.1 | D-AVI: 90.1
-- RB: Emanuel Wilson | C-AVI: 50.4 | D-AVI: 59.7
-- RB: TreVeyon Henderson | C-AVI: 48.0 | D-AVI: 80.2
+- RB: Emanuel Wilson | C-AVI: 50.5 | D-AVI: 59.8
+- RB: TreVeyon Henderson | C-AVI: 48.1 | D-AVI: 80.2
 - WR: Tetairoa McMillan | C-AVI: 88.1 | D-AVI: 95.0
 - WR: Luther Burden III | C-AVI: 77.3 | D-AVI: 90.5
 - TE: Pat Freiermuth | C-AVI: 53.6 | D-AVI: 68.0
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 50.4
-- Dynasty AVI (D-AVI, 0-100): 59.7
+- Championship AVI (C-AVI, 0-100): 50.5
+- Dynasty AVI (D-AVI, 0-100): 59.8
 - Projected PPR points: 56.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 48.0
+- Championship AVI (C-AVI, 0-100): 48.1
 - Dynasty AVI (D-AVI, 0-100): 80.2
 - Projected PPR points: 171.0
 - Category: offense

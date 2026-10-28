@@ -713,7 +713,7 @@
       "player_name": "Jonah Laulu",
       "points": 6.5,
       "position_id": "DT",
-      "team_id": "LV",
+      "team_id": "FA",
       "weeks": {
         "1": 0,
         "2": 1.5,
@@ -2484,7 +2484,7 @@
       "player_name": "DeForest Buckner",
       "points": 66,
       "position_id": "DT",
-      "team_id": "IND",
+      "team_id": "SF",
       "weeks": {
         "1": 7.5,
         "2": 12.5,
@@ -3107,7 +3107,7 @@
       "player_name": "Kevin Givens",
       "points": 1.5,
       "position_id": "DT",
-      "team_id": "FA",
+      "team_id": "SF",
       "weeks": {
         "3": 1.5
       }

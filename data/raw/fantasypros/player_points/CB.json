@@ -3290,7 +3290,7 @@
       "player_name": "Nick McCloud",
       "points": 4,
       "position_id": "CB",
-      "team_id": "CHI",
+      "team_id": "FA",
       "weeks": {
         "4": 0,
         "6": 4
@@ -3560,7 +3560,7 @@
       "player_name": "Anthony Kendall",
       "points": 2.25,
       "position_id": "CB",
-      "team_id": "BUF",
+      "team_id": "FA",
       "weeks": {
         "5": 2.3
       }

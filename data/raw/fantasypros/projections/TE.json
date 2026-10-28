@@ -2860,52 +2860,6 @@
       "team_id": "GB"
     },
     {
-      "filename": "cj-dippre.php",
-      "fpid": 27251,
-      "mflid": 17281,
-      "name": "CJ Dippre",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "rec_rec": 0,
-        "rec_tds": 0,
-        "rec_yds": 0,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "TB"
-    },
-    {
-      "filename": "devin-culp.php",
-      "fpid": 26440,
-      "mflid": 16796,
-      "name": "Devin Culp",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "rec_rec": 0,
-        "rec_tds": 0,
-        "rec_yds": 0,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "FA"
-    },
-    {
       "filename": "jack-stoll.php",
       "fpid": 23193,
       "mflid": 15541,
@@ -2927,29 +2881,6 @@
         "scrimage_yards_200": 0
       },
       "team_id": "SF"
-    },
-    {
-      "filename": "joe-royer.php",
-      "fpid": 27312,
-      "mflid": 17566,
-      "name": "Joe Royer",
-      "position_id": "TE",
-      "stats": {
-        "2pt_tds": 0,
-        "fumbles": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "rec_rec": 0,
-        "rec_tds": 0,
-        "rec_yds": 0,
-        "rec_yds_100": 0,
-        "rec_yds_200": 0,
-        "ret_tds": 0,
-        "scrimage_yards_100": 0,
-        "scrimage_yards_200": 0
-      },
-      "team_id": "CLE"
     },
     {
       "filename": "cole-turner.php",
@@ -2996,6 +2927,75 @@
         "scrimage_yards_200": 0
       },
       "team_id": "NYJ"
+    },
+    {
+      "filename": "devin-culp.php",
+      "fpid": 26440,
+      "mflid": 16796,
+      "name": "Devin Culp",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "rec_rec": 0,
+        "rec_tds": 0,
+        "rec_yds": 0,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "cj-dippre.php",
+      "fpid": 27251,
+      "mflid": 17281,
+      "name": "CJ Dippre",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "rec_rec": 0,
+        "rec_tds": 0,
+        "rec_yds": 0,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "TB"
+    },
+    {
+      "filename": "joe-royer.php",
+      "fpid": 27312,
+      "mflid": 17566,
+      "name": "Joe Royer",
+      "position_id": "TE",
+      "stats": {
+        "2pt_tds": 0,
+        "fumbles": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "rec_rec": 0,
+        "rec_tds": 0,
+        "rec_yds": 0,
+        "rec_yds_100": 0,
+        "rec_yds_200": 0,
+        "ret_tds": 0,
+        "scrimage_yards_100": 0,
+        "scrimage_yards_200": 0
+      },
+      "team_id": "CLE"
     }
   ],
   "positions": "TE",

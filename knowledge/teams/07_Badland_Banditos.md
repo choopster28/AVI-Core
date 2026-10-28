@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-10-27
+- Last updated from Sleeper exports: 2026-10-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 621.5
-- championship_lineup_c_avi_avg: 77.69
+- championship_lineup_c_avi_sum: 621.4
+- championship_lineup_c_avi_avg: 77.67
 - offensive_roster_c_avi_sum: 1038.7
 - offensive_roster_c_avi_avg: 61.10
 - offensive_roster_d_avi_sum: 1309.1
@@ -34,7 +34,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Kenneth Walker III | C-AVI: 93.6 | D-AVI: 96.3
 - RB: Bucky Irving | C-AVI: 78.3 | D-AVI: 87.8
 - WR: Ja'Marr Chase | C-AVI: 91.1 | D-AVI: 98.5
-- WR: Tre Tucker | C-AVI: 65.6 | D-AVI: 72.1
+- WR: Tre Tucker | C-AVI: 65.5 | D-AVI: 72.1
 - TE: Brock Bowers | C-AVI: 94.7 | D-AVI: 93.5
 - FLEX: Stefon Diggs | C-AVI: 62.2 | D-AVI: 71.1
 - FLEX: Brian Thomas Jr. | C-AVI: 51.8 | D-AVI: 81.4
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 25.4
+- Championship AVI (C-AVI, 0-100): 25.5
 - Dynasty AVI (D-AVI, 0-100): 52.7
 - Projected PPR points: 5.6
 - Category: offense
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 65.6
+- Championship AVI (C-AVI, 0-100): 65.5
 - Dynasty AVI (D-AVI, 0-100): 72.1
 - Projected PPR points: 125.9
 - Category: offense

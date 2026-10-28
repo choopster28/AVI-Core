@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872509429436829696
 - Division: 2
 - Waiver position: 16
-- Last updated from Sleeper exports: 2026-10-27
+- Last updated from Sleeper exports: 2026-10-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 538.1
-- championship_lineup_c_avi_avg: 67.26
-- offensive_roster_c_avi_sum: 922.1
+- championship_lineup_c_avi_sum: 538.2
+- championship_lineup_c_avi_avg: 67.28
+- offensive_roster_c_avi_sum: 922.2
 - offensive_roster_c_avi_avg: 51.23
 - offensive_roster_d_avi_sum: 1260.6
 - offensive_roster_d_avi_avg: 70.03
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Dak Prescott | C-AVI: 75.6 | D-AVI: 81.2
 - RB: Javonte Williams | C-AVI: 84.6 | D-AVI: 89.6
-- RB: Chase Brown | C-AVI: 80.6 | D-AVI: 91.2
+- RB: Chase Brown | C-AVI: 80.7 | D-AVI: 91.2
 - WR: Parker Washington | C-AVI: 82.6 | D-AVI: 92.3
 - WR: Keon Coleman | C-AVI: 51.9 | D-AVI: 67.1
 - TE: Kyle Pitts Sr. | C-AVI: 64.2 | D-AVI: 81.7
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 80.6
+- Championship AVI (C-AVI, 0-100): 80.7
 - Dynasty AVI (D-AVI, 0-100): 91.2
 - Projected PPR points: 255.2
 - Category: offense
