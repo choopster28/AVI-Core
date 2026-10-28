@@ -47,6 +47,13 @@ def apply_cavi_risk_adjustments() -> dict[str, Any]:
             continue
         adjustment = by_avi_id.get(str(player.get("avi_id")))
         if not adjustment:
+            # Remove expired manual-risk metadata after availability has changed.
+            # The in-season transition preceding this pass recomputes base C-AVI.
+            components = player.get("components")
+            if isinstance(components, dict) and components.get("c_avi_risk_adjustment") is not None:
+                for key in ("base_c_avi_before_risk_adjustment", "c_avi_risk_adjustment", "c_avi_risk_reason"):
+                    components.pop(key, None)
+            player.pop("c_avi_risk_adjustment", None)
             continue
 
         raw_adjustment = adjustment.get("c_avi_adjustment")
