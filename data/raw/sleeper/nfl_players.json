@@ -55384,7 +55384,7 @@
       "genius_id": "1463731",
       "rookie_year": "2024"
     },
-    "news_updated": 1793017216934,
+    "news_updated": 1793196320728,
     "number": 32,
     "oddsjam_id": "BB0614A43AA9",
     "opta_id": null,
@@ -58742,7 +58742,7 @@
       "genius_id": "1463696",
       "rookie_year": "2024"
     },
-    "news_updated": 1793126704706,
+    "news_updated": 1793193920504,
     "number": 7,
     "oddsjam_id": "8542FBE776C7",
     "opta_id": null,
@@ -126339,7 +126339,7 @@
   },
   "1264": {
     "active": true,
-    "age": 35,
+    "age": 36,
     "birth_city": null,
     "birth_country": null,
     "birth_date": "1989-11-21",
@@ -126356,7 +126356,7 @@
     "first_name": "Justin",
     "full_name": "Justin Tucker",
     "gsis_id": "00-0029597",
-    "hashtag": "#justintucker-NFL-FA-9",
+    "hashtag": "#justintucker-NFL-KC-9",
     "height": "73",
     "high_school": "Westlake (TX)",
     "injury_body_part": null,
@@ -126369,7 +126369,7 @@
       "channel_id": "1113708866371088384",
       "rookie_year": "2012"
     },
-    "news_updated": 1792519541008,
+    "news_updated": 1793195421037,
     "number": 9,
     "oddsjam_id": "37DEAB30F68A",
     "opta_id": null,
@@ -126384,18 +126384,18 @@
     "search_first_name": "justin",
     "search_full_name": "justintucker",
     "search_last_name": "tucker",
-    "search_rank": 182,
+    "search_rank": 653,
     "sport": "nfl",
     "sportradar_id": "20a0bad2-d530-4ff4-a2df-5c0a21a1f5db",
     "stats_id": 448132,
     "status": "Active",
     "swish_id": 448132,
-    "team": null,
+    "team": "KC",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "191",
     "yahoo_id": 26534,
-    "years_exp": 13
+    "years_exp": 14
   },
   "12640": {
     "active": true,
@@ -155000,10 +155000,10 @@
     "hashtag": "#bensauls-NFL-FA-30",
     "height": "70",
     "high_school": "Tippecanoe (OH)",
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "27a963a3-c8a6-41ec-b230-b0571ff4d4b2",
     "last_name": "Sauls",
     "metadata": {
@@ -520108,7 +520108,7 @@
       "genius_id": "1005525",
       "rookie_year": "2019"
     },
-    "news_updated": 1792986313346,
+    "news_updated": 1793195120692,
     "number": 20,
     "oddsjam_id": "792747EDCE23",
     "opta_id": null,
@@ -621217,7 +621217,7 @@
       "genius_id": "1081537",
       "rookie_year": "2021"
     },
-    "news_updated": 1792979412957,
+    "news_updated": 1793196621157,
     "number": 17,
     "oddsjam_id": "100F669A3109",
     "opta_id": null,
@@ -626336,7 +626336,7 @@
       "genius_id": "1014824",
       "rookie_year": "2021"
     },
-    "news_updated": 1793057112087,
+    "news_updated": 1793195420504,
     "number": 25,
     "oddsjam_id": "682B740727E1",
     "opta_id": null,
@@ -721147,7 +721147,7 @@
       "genius_id": "165525",
       "rookie_year": "2005"
     },
-    "news_updated": 1792980613415,
+    "news_updated": 1793195120691,
     "number": 8,
     "oddsjam_id": "16E7FD97D946",
     "opta_id": null,
