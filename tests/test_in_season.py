@@ -2,6 +2,7 @@ from avi.valuation.in_season import (
     _completed_points,
     _fresh_completed_week_available,
     _player_point_components,
+    _injury_adjusted_production,
 )
 
 
@@ -131,3 +132,30 @@ def test_consistent_weekly_production_beats_two_spike_weeks_when_totals_are_clos
     assert values["spikes"] < 100.0
     assert values["steady"] > 50.0
     assert values["spikes"] - values["steady"] < 25.0
+
+
+def test_established_injured_starter_retains_bounded_recovery_equity():
+    adjusted, credit = _injury_adjusted_production(
+        actual=2.9, projection=92.2, ceiling=90.1,
+        observed_games=5, completed_weeks=7, injury_status="questionable active",
+    )
+    assert 2.9 < adjusted <= 42.9
+    assert 0 < credit <= 40
+    assert adjusted == round(2.9 + credit, 1)
+
+
+def test_healthy_underperformer_does_not_receive_injury_rebound():
+    assert _injury_adjusted_production(20, 92, 91, 5, 7, "active") == (20, 0.0)
+
+
+def test_high_upside_without_verified_history_gets_no_injury_rebound():
+    assert _injury_adjusted_production(20, 93, 65, 4, 7, "questionable") == (20, 0.0)
+
+
+def test_one_bye_not_confused_for_injury_missed_games():
+    assert _injury_adjusted_production(20, 93, 90, 6, 7, "questionable") == (20, 0.0)
+
+
+def test_unverified_current_injury_or_small_sample_has_no_rebound():
+    assert _injury_adjusted_production(15, 91, 90, 4, 7, "") == (15, 0.0)
+    assert _injury_adjusted_production(15, 91, 90, 1, 7, "out") == (15, 0.0)
