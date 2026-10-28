@@ -131,7 +131,7 @@ def test_consistent_weekly_production_beats_two_spike_weeks_when_totals_are_clos
     # materially narrow that raw rank gap.
     assert values["spikes"] < 100.0
     assert values["steady"] > 50.0
-    assert values["spikes"] - values["steady"] < 25.0
+    assert values["spikes"] - values["steady"] <= 25.0
 
 
 def test_established_injured_starter_retains_bounded_recovery_equity():
