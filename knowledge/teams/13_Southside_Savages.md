@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 512.3
-- championship_lineup_c_avi_avg: 64.04
-- offensive_roster_c_avi_sum: 724.0
-- offensive_roster_c_avi_avg: 51.71
-- offensive_roster_d_avi_sum: 988.7
-- offensive_roster_d_avi_avg: 70.62
+- championship_lineup_c_avi_sum: 533.4
+- championship_lineup_c_avi_avg: 66.67
+- offensive_roster_c_avi_sum: 752.0
+- offensive_roster_c_avi_avg: 53.71
+- offensive_roster_d_avi_sum: 993.4
+- offensive_roster_d_avi_avg: 70.96
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Drake Maye | C-AVI: 89.1 | D-AVI: 90.1
+- RB: Josh Jacobs | C-AVI: 61.2 | D-AVI: 78.8
 - RB: Emanuel Wilson | C-AVI: 50.5 | D-AVI: 59.8
-- RB: TreVeyon Henderson | C-AVI: 48.1 | D-AVI: 80.2
 - WR: Tetairoa McMillan | C-AVI: 88.1 | D-AVI: 95.0
 - WR: Luther Burden III | C-AVI: 77.3 | D-AVI: 90.5
 - TE: Pat Freiermuth | C-AVI: 53.6 | D-AVI: 68.0
 - FLEX: DK Metcalf | C-AVI: 65.5 | D-AVI: 82.1
-- FLEX: Kayshon Boutte | C-AVI: 40.1 | D-AVI: 68.1
+- FLEX: TreVeyon Henderson | C-AVI: 48.1 | D-AVI: 80.2
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -76,6 +76,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Josh Jacobs
+- Player name: Josh Jacobs
+- Player ID: 5850
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: GB
+- Active: True
+- Status: Active
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): 61.2
+- Dynasty AVI (D-AVI, 0-100): 78.8
+- Projected PPR points: 139.4
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Emanuel Wilson
 - Player name: Emanuel Wilson
 - Player ID: 11435
@@ -107,23 +124,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 48.1
 - Dynasty AVI (D-AVI, 0-100): 80.2
 - Projected PPR points: 171.0
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Josh Jacobs
-- Player name: Josh Jacobs
-- Player ID: 5850
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: GB
-- Active: True
-- Status: Active
-- Age: 28.0
-- Championship AVI (C-AVI, 0-100): 33.2
-- Dynasty AVI (D-AVI, 0-100): 74.1
-- Projected PPR points: 139.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

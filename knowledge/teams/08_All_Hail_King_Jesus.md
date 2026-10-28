@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 603.0
-- championship_lineup_c_avi_avg: 75.38
+- championship_lineup_c_avi_sum: 606.3
+- championship_lineup_c_avi_avg: 75.79
 - offensive_roster_c_avi_sum: 906.6
 - offensive_roster_c_avi_avg: 60.44
 - offensive_roster_d_avi_sum: 1097.7
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 82.6 | D-AVI: 84.4
 - RB: D'Andre Swift | C-AVI: 82.6 | D-AVI: 86.9
-- RB: Kimani Vidal | C-AVI: 34.5 | D-AVI: 59.3
+- RB: Zach Charbonnet | C-AVI: 37.8 | D-AVI: 71.0
 - WR: Amon-Ra St. Brown | C-AVI: 97.4 | D-AVI: 98.7
 - WR: Tee Higgins | C-AVI: 87.0 | D-AVI: 91.6
 - TE: Tucker Kraft | C-AVI: 70.9 | D-AVI: 86.5

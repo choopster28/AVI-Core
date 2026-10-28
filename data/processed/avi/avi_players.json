@@ -564,20 +564,6 @@
     ],
     "avi_id": "AVI-00008112",
     "c_avi": 91.4,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 91.4,
-      "amount": 0.0,
-      "availability_ceiling": 98.0,
-      "base_c_avi": 91.4,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 0.2,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "questionable",
-      "status": "questionable active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Drake London",
     "components": {
       "age_career_horizon": null,
@@ -596,7 +582,7 @@
     "d_avi": 96.6,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "sleeper",
       "projection": "sleeper",
@@ -1482,15 +1468,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 73.0,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 73.0,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Emeka Egbuka",
@@ -1700,15 +1686,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 87.0,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 87.0,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "DeVonta Smith",
@@ -1932,15 +1918,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 69.7,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 69.7,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Jeremiyah Love",
@@ -2082,15 +2068,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 62.2,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 62.2,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Ladd McConkey",
@@ -2232,15 +2218,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 83.1,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 83.1,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Tyler Warren",
@@ -2314,15 +2300,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 66.4,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 66.4,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Rashee Rice",
@@ -2532,15 +2518,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 73.3,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 73.3,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Lamar Jackson",
@@ -2614,15 +2600,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 72.9,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 72.9,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Breece Hall",
@@ -4452,20 +4438,6 @@
     ],
     "avi_id": "AVI-00010236",
     "c_avi": 66.8,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 66.8,
-      "amount": 0.0,
-      "availability_ceiling": 98.0,
-      "base_c_avi": 66.8,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 0.2,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "questionable",
-      "status": "questionable active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Dalton Kincaid",
     "components": {
       "age_career_horizon": null,
@@ -4484,7 +4456,7 @@
     "d_avi": 83.6,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "sleeper",
       "projection": "sleeper",
@@ -4687,15 +4659,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 58.3,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 58.3,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "DJ Moore",
@@ -6231,20 +6203,6 @@
     ],
     "avi_id": "AVI-00011646",
     "c_avi": 69.4,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 69.4,
-      "amount": 0.0,
-      "availability_ceiling": 98.0,
-      "base_c_avi": 69.4,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 0.2,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "questionable",
-      "status": "questionable active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Jalen Coker",
     "components": {
       "age_career_horizon": null,
@@ -6263,7 +6221,7 @@
     "d_avi": 84.2,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "sleeper",
       "projection": "sleeper",
@@ -7733,15 +7691,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 65.3,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 65.3,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Kyle Monangai",
@@ -8165,7 +8123,7 @@
       "Josh Jacobs"
     ],
     "avi_id": "AVI-00005850",
-    "c_avi": 33.2,
+    "c_avi": 61.2,
     "c_avi_risk_adjustment": {
       "amount": -28.0,
       "reason": "Current championship utility is materially reduced while Jacobs is on the NFL Commissioner's Exempt List and unavailable to practice or play, with no verified return date while the league review and pending legal matter remain unresolved. This adjustment prices football availability uncertainty and does not presume the outcome of the allegations.",
@@ -8189,7 +8147,7 @@
       "public_market": 75.42632204396911,
       "redraft_market": 73.79679144385027
     },
-    "d_avi": 74.1,
+    "d_avi": 78.8,
     "data_sources": {
       "dynasty_market": "fantasypros",
       "injury": "fantasypros",
@@ -9634,15 +9592,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 39.6,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 39.6,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Tre' Harris",
@@ -9866,15 +9824,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 41.5,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 41.5,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Rashid Shaheed",
@@ -10013,20 +9971,6 @@
     ],
     "avi_id": "AVI-00007567",
     "c_avi": 44.6,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 44.6,
-      "amount": 0.0,
-      "availability_ceiling": 98.0,
-      "base_c_avi": 44.6,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 0.2,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "questionable",
-      "status": "questionable active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Kenny Gainwell",
     "components": {
       "age_career_horizon": null,
@@ -10045,7 +9989,7 @@
     "d_avi": 70.0,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "sleeper",
       "projection": "sleeper",
@@ -10180,15 +10124,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 37.8,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 37.8,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Zach Charbonnet",
@@ -11678,15 +11622,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 40.6,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 40.6,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Dontayvion Wicks",
@@ -13012,15 +12956,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 39.2,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 39.2,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Tyjae Spears",
@@ -13159,20 +13103,6 @@
     ],
     "avi_id": "AVI-00013278",
     "c_avi": 32.1,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 32.1,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 32.1,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Max Klare",
     "components": {
       "age_career_horizon": null,
@@ -13191,7 +13121,7 @@
     "d_avi": 65.1,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "fantasypros",
       "projection": "sleeper",
@@ -13788,15 +13718,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 35.7,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 35.7,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Calvin Ridley",
@@ -14034,15 +13964,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 48.3,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 48.3,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Brian Robinson Jr.",
@@ -15393,20 +15323,6 @@
     ],
     "avi_id": "AVI-00013288",
     "c_avi": 34.5,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 34.5,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 34.5,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Nicholas Singleton",
     "components": {
       "age_career_horizon": null,
@@ -15425,7 +15341,7 @@
     "d_avi": 60.7,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "mixed_sleeper_fantasypros",
       "projection": "sleeper",
@@ -16087,20 +16003,6 @@
     ],
     "avi_id": "AVI-00013268",
     "c_avi": 31.5,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 31.5,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 31.5,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Elijah Sarratt",
     "components": {
       "age_career_horizon": null,
@@ -16119,7 +16021,7 @@
     "d_avi": 59.6,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "sleeper",
       "projection": "sleeper",
@@ -16523,20 +16425,6 @@
     ],
     "avi_id": "AVI-00013275",
     "c_avi": 26.6,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 26.6,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 26.6,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Ty Simpson",
     "components": {
       "age_career_horizon": null,
@@ -16555,7 +16443,7 @@
     "d_avi": 59.4,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "fantasypros",
       "projection": "sleeper",
@@ -17546,20 +17434,6 @@
     ],
     "avi_id": "AVI-00012504",
     "c_avi": 30.5,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 30.5,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 30.5,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Kaleb Johnson",
     "components": {
       "age_career_horizon": null,
@@ -17578,7 +17452,7 @@
     "d_avi": 57.1,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "mixed_sleeper_fantasypros",
       "projection": "sleeper",
@@ -18486,20 +18360,6 @@
     ],
     "avi_id": "AVI-00013347",
     "c_avi": 28.2,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 28.2,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 28.2,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Demond Claiborne",
     "components": {
       "age_career_horizon": null,
@@ -18518,7 +18378,7 @@
     "d_avi": 54.8,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "sleeper",
       "projection": "sleeper",
@@ -18571,15 +18431,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 30.1,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 30.1,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Carson Beck",
@@ -20298,20 +20158,6 @@
     ],
     "avi_id": "AVI-00011600",
     "c_avi": 26.0,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 26.0,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 26.0,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Ja'Tavion Sanders",
     "components": {
       "age_career_horizon": null,
@@ -20330,7 +20176,7 @@
     "d_avi": 51.5,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "unavailable",
       "projection": "sleeper",
@@ -21824,20 +21670,6 @@
     ],
     "avi_id": "AVI-00013289",
     "c_avi": 24.1,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 24.1,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 24.1,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Drew Allar",
     "components": {
       "age_career_horizon": null,
@@ -21856,7 +21688,7 @@
     "d_avi": 49.0,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "unavailable",
       "projection": "sleeper",
@@ -22246,20 +22078,6 @@
     ],
     "avi_id": "AVI-00008117",
     "c_avi": 27.8,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 27.8,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 27.8,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Jalen Tolbert",
     "components": {
       "age_career_horizon": null,
@@ -22278,7 +22096,7 @@
     "d_avi": 47.9,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "mixed_sleeper_fantasypros",
       "projection": "sleeper",
@@ -22971,15 +22789,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 31.1,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 31.1,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Olamide Zaccheaus",
@@ -23472,20 +23290,6 @@
     ],
     "avi_id": "AVI-00013423",
     "c_avi": 24.0,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 24.0,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 24.0,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Eli Heidenreich",
     "components": {
       "age_career_horizon": null,
@@ -23504,7 +23308,7 @@
     "d_avi": 45.2,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "fantasypros",
       "projection": "fantasypros",
@@ -24033,15 +23837,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 29.4,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 29.4,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "KaVontae Turpin",
@@ -24205,8 +24009,8 @@
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
       "reason_code": "injured_reserve",
-      "status": "ir active",
-      "status_source": "sleeper"
+      "status": "ir ir",
+      "status_source": "fantasypros"
     },
     "canonical_name": "Dont'e Thornton Jr.",
     "components": {
@@ -24226,7 +24030,7 @@
     "d_avi": 44.7,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "unavailable",
       "projection": "sleeper",
@@ -24483,15 +24287,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 24.1,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 24.1,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Marcus Mariota",
@@ -24698,20 +24502,6 @@
     ],
     "avi_id": "AVI-00011199",
     "c_avi": 30.1,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 30.1,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 30.1,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Emari Demercado",
     "components": {
       "age_career_horizon": null,
@@ -24730,7 +24520,7 @@
     "d_avi": 42.7,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "sleeper",
       "projection": "sleeper",
@@ -25584,20 +25374,6 @@
     ],
     "avi_id": "AVI-00011579",
     "c_avi": 25.5,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 25.5,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 25.5,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Audric Estime",
     "components": {
       "age_career_horizon": null,
@@ -25616,7 +25392,7 @@
     "d_avi": 40.6,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "sleeper",
       "projection": "sleeper",
@@ -26361,20 +26137,6 @@
     ],
     "avi_id": "AVI-00012470",
     "c_avi": 19.8,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 19.8,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 19.8,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Riley Leonard",
     "components": {
       "age_career_horizon": null,
@@ -26393,7 +26155,7 @@
     "d_avi": 39.2,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "unavailable",
       "projection": "sleeper",
@@ -28622,20 +28384,6 @@
     ],
     "avi_id": "AVI-00006828",
     "c_avi": 29.1,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 29.1,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 29.1,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "AJ Dillon",
     "components": {
       "age_career_horizon": null,
@@ -28654,7 +28402,7 @@
     "d_avi": 30.0,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "sleeper",
       "projection": "fantasypros",
@@ -29466,20 +29214,6 @@
     ],
     "avi_id": "AVI-00002359",
     "c_avi": 18.6,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 18.6,
-      "amount": 0.0,
-      "availability_ceiling": 98.0,
-      "base_c_avi": 18.6,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 0.2,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "questionable",
-      "status": "questionable active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Ameer Abdullah",
     "components": {
       "age_career_horizon": null,
@@ -29498,7 +29232,7 @@
     "d_avi": 24.1,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "sleeper",
+      "injury": "fantasypros",
       "news": "fantasypros",
       "production": "mixed_sleeper_fantasypros",
       "projection": "sleeper",
@@ -29905,15 +29639,15 @@
     "c_avi_availability_adjustment": {
       "adjusted_c_avi": 18.6,
       "amount": 0.0,
-      "availability_ceiling": 90.0,
+      "availability_ceiling": 98.0,
       "base_c_avi": 18.6,
       "championship_horizon_end_week": 17,
       "current_week": 8,
-      "expected_missed_weeks": 1.0,
+      "expected_missed_weeks": 0.2,
       "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
       "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
+      "reason_code": "questionable",
+      "status": "questionable active",
       "status_source": "sleeper"
     },
     "canonical_name": "Kene Nwangwu",
@@ -30892,20 +30626,6 @@
     ],
     "avi_id": "AVI-00012486",
     "c_avi": 0.0,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 0.0,
-      "amount": 0.0,
-      "availability_ceiling": 60.0,
-      "base_c_avi": 0.0,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 4.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "injured_reserve",
-      "status": "ir active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Dillon Gabriel",
     "components": {
       "age_career_horizon": null,
@@ -30923,7 +30643,7 @@
     },
     "d_avi": 35.6,
     "data_sources": {
-      "injury": "sleeper"
+      "injury": "fantasypros"
     },
     "match": {
       "confidence": "verified",
@@ -31263,20 +30983,6 @@
     ],
     "avi_id": "AVI-00013415",
     "c_avi": 0.0,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 0.0,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 0.0,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Haynes King",
     "components": {
       "age_career_horizon": null,
@@ -31294,7 +31000,7 @@
     },
     "d_avi": 22.3,
     "data_sources": {
-      "injury": "sleeper"
+      "injury": "fantasypros"
     },
     "match": {
       "confidence": "verified",
@@ -31375,20 +31081,6 @@
     ],
     "avi_id": "AVI-00013602",
     "c_avi": 0.0,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 0.0,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 0.0,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Jack Strand",
     "components": {
       "age_career_horizon": null,
@@ -31406,7 +31098,7 @@
     },
     "d_avi": 23.2,
     "data_sources": {
-      "injury": "sleeper"
+      "injury": "fantasypros"
     },
     "match": {
       "confidence": "verified",
@@ -32637,20 +32329,6 @@
     ],
     "avi_id": "AVI-00013418",
     "c_avi": 0.0,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 0.0,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 0.0,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Robert Henry Jr.",
     "components": {
       "age_career_horizon": null,
@@ -32668,7 +32346,7 @@
     },
     "d_avi": 20.5,
     "data_sources": {
-      "injury": "sleeper"
+      "injury": "fantasypros"
     },
     "match": {
       "confidence": "review",
@@ -32847,20 +32525,6 @@
     ],
     "avi_id": "AVI-00013306",
     "c_avi": 0.0,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 0.0,
-      "amount": 0.0,
-      "availability_ceiling": 90.0,
-      "base_c_avi": 0.0,
-      "championship_horizon_end_week": 17,
-      "current_week": 8,
-      "expected_missed_weeks": 1.0,
-      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
-      "projection_aware": true,
-      "reason_code": "out",
-      "status": "out active",
-      "status_source": "sleeper"
-    },
     "canonical_name": "Taylen Green",
     "components": {
       "age_career_horizon": null,
@@ -32878,7 +32542,7 @@
     },
     "d_avi": 38.9,
     "data_sources": {
-      "injury": "sleeper"
+      "injury": "fantasypros"
     },
     "match": {
       "confidence": "verified",
@@ -33057,6 +32721,20 @@
     ],
     "avi_id": "AVI-00003321",
     "c_avi": 0.0,
+    "c_avi_availability_adjustment": {
+      "adjusted_c_avi": 0.0,
+      "amount": 0.0,
+      "availability_ceiling": 98.0,
+      "base_c_avi": 0.0,
+      "championship_horizon_end_week": 17,
+      "current_week": 8,
+      "expected_missed_weeks": 0.2,
+      "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
+      "projection_aware": true,
+      "reason_code": "questionable",
+      "status": "questionable active",
+      "status_source": "sleeper"
+    },
     "canonical_name": "Tyreek Hill",
     "components": {
       "age_career_horizon": null,
@@ -33074,7 +32752,7 @@
     },
     "d_avi": 41.7,
     "data_sources": {
-      "injury": "fantasypros"
+      "injury": "sleeper"
     },
     "match": {
       "confidence": "review",

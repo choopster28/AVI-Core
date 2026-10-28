@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: awang1900
 - Owner ID: 986498458162970624
 - Division: 3
-- Waiver position: 10
+- Waiver position: 8
 - Last updated from Sleeper exports: 2026-10-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 534.8
-- championship_lineup_c_avi_avg: 66.85
+- championship_lineup_c_avi_sum: 621.2
+- championship_lineup_c_avi_avg: 77.65
 - offensive_roster_c_avi_sum: 954.1
 - offensive_roster_c_avi_avg: 59.63
 - offensive_roster_d_avi_sum: 1222.2
@@ -35,9 +35,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Rhamondre Stevenson | C-AVI: 67.2 | D-AVI: 78.4
 - WR: Jaxon Smith-Njigba | C-AVI: 99.3 | D-AVI: 99.6
 - WR: Malik Nabers | C-AVI: 92.1 | D-AVI: 96.8
-- TE: Michael Mayer | C-AVI: 45.1 | D-AVI: 61.0
+- TE: Tyler Warren | C-AVI: 83.1 | D-AVI: 90.3
+- FLEX: DeVonta Smith | C-AVI: 87.0 | D-AVI: 92.8
 - FLEX: Cam Skattebo | C-AVI: 66.4 | D-AVI: 81.9
-- FLEX: Mike Washington Jr. | C-AVI: 38.6 | D-AVI: 67.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.

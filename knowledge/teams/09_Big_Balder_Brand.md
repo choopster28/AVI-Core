@@ -8,25 +8,25 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Choopski
 - Owner ID: 863881053000011776
 - Division: 1
-- Waiver position: 13
+- Waiver position: 10
 - Last updated from Sleeper exports: 2026-10-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
 - total_players: 21
-- offense: 16
-- kickers: 2
+- offense: 17
+- kickers: 1
 - idp: 3
 - other: 0
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 566.9
-- championship_lineup_c_avi_avg: 70.86
-- offensive_roster_c_avi_sum: 918.5
-- offensive_roster_c_avi_avg: 57.41
-- offensive_roster_d_avi_sum: 1206.9
-- offensive_roster_d_avi_avg: 75.43
+- championship_lineup_c_avi_sum: 605.3
+- championship_lineup_c_avi_avg: 75.66
+- offensive_roster_c_avi_sum: 945.9
+- offensive_roster_c_avi_avg: 55.64
+- offensive_roster_d_avi_sum: 1250.3
+- offensive_roster_d_avi_avg: 73.55
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Bhayshul Tuten | C-AVI: 72.0 | D-AVI: 85.1
 - RB: Omarion Hampton | C-AVI: 69.8 | D-AVI: 87.9
 - WR: Nico Collins | C-AVI: 89.3 | D-AVI: 95.2
-- WR: Chris Godwin Jr. | C-AVI: 49.2 | D-AVI: 75.1
+- WR: Rashee Rice | C-AVI: 66.4 | D-AVI: 87.8
 - TE: Trey McBride | C-AVI: 94.8 | D-AVI: 92.9
+- FLEX: Jeremiyah Love | C-AVI: 69.7 | D-AVI: 90.6
 - FLEX: Saquon Barkley | C-AVI: 63.1 | D-AVI: 85.1
-- FLEX: A.J. Brown | C-AVI: 48.5 | D-AVI: 83.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -175,6 +175,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 36.2
 - Dynasty AVI (D-AVI, 0-100): 60.6
 - Projected PPR points: 65.2
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Trevor Etienne
+- Player name: Trevor Etienne
+- Player ID: 12531
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: CAR
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 27.4
+- Dynasty AVI (D-AVI, 0-100): 43.4
+- Projected PPR points: 36.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -325,23 +342,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: kicker
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Jason Myers
-- Player name: Jason Myers
-- Player ID: 2747
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: K
-- Fantasy positions: ['K']
-- NFL team: SEA
-- Active: True
-- Status: Active
-- Age: 35.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

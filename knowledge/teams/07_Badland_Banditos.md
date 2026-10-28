@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: IcebergSlim69
 - Owner ID: 737531831641128960
 - Division: 3
-- Waiver position: 11
+- Waiver position: 13
 - Last updated from Sleeper exports: 2026-10-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 621.4
 - championship_lineup_c_avi_avg: 77.67
-- offensive_roster_c_avi_sum: 1038.7
-- offensive_roster_c_avi_avg: 61.10
-- offensive_roster_d_avi_sum: 1309.1
-- offensive_roster_d_avi_avg: 77.01
+- offensive_roster_c_avi_sum: 1038.9
+- offensive_roster_c_avi_avg: 61.11
+- offensive_roster_d_avi_sum: 1297.9
+- offensive_roster_d_avi_avg: 76.35
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -107,6 +107,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 78.3
 - Dynasty AVI (D-AVI, 0-100): 87.8
 - Projected PPR points: 197.3
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Devin Singletary
+- Player name: Devin Singletary
+- Player ID: 6130
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: NYG
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 30.9
+- Dynasty AVI (D-AVI, 0-100): 50.5
+- Projected PPR points: 30.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -277,23 +294,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 40.4
 - Dynasty AVI (D-AVI, 0-100): 68.8
 - Projected PPR points: 127.4
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Kyle Williams
-- Player name: Kyle Williams
-- Player ID: 12547
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: NE
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 30.7
-- Dynasty AVI (D-AVI, 0-100): 61.7
-- Projected PPR points: 31.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

@@ -14,15 +14,15 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Roster Counts
 - total_players: 22
-- offense: 18
+- offense: 17
 - kickers: 1
-- idp: 3
+- idp: 4
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 536.9
-- championship_lineup_c_avi_avg: 67.11
+- championship_lineup_c_avi_sum: 584.2
+- championship_lineup_c_avi_avg: 73.03
 - offensive_roster_c_avi_sum: 930.4
 - offensive_roster_c_avi_avg: 54.73
 - offensive_roster_d_avi_sum: 1272.2
@@ -30,14 +30,14 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Cam Ward | C-AVI: 35.9 | D-AVI: 65.0
+- QB: Lamar Jackson | C-AVI: 73.3 | D-AVI: 88.2
 - RB: Derrick Henry | C-AVI: 88.7 | D-AVI: 87.2
 - RB: Tony Pollard | C-AVI: 70.2 | D-AVI: 76.6
 - WR: Zay Flowers | C-AVI: 90.5 | D-AVI: 95.3
 - WR: Jaylen Waddle | C-AVI: 70.2 | D-AVI: 87.9
 - TE: Juwan Johnson | C-AVI: 59.1 | D-AVI: 76.8
 - FLEX: Carnell Tate | C-AVI: 66.9 | D-AVI: 88.8
-- FLEX: KC Concepcion Jr. | C-AVI: 55.4 | D-AVI: 82.5
+- FLEX: Kyle Monangai | C-AVI: 65.3 | D-AVI: 79.2
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -75,23 +75,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 227.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Tyler Huntley
-- Player name: Tyler Huntley
-- Player ID: 7083
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: QB
-- Fantasy positions: ['QB']
-- NFL team: BAL
-- Active: True
-- Status: Active
-- Age: 28.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: offense
-- Valuation status: NOT_IN_AVI_OUTPUT
 
 ### PLAYER: Derrick Henry
 - Player name: Derrick Henry
@@ -376,6 +359,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Alex Singleton
+- Player name: Alex Singleton
+- Player ID: 2617
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: DEN
+- Active: True
+- Status: Active
+- Age: 32.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

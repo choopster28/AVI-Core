@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: TacticsNoob
 - Owner ID: 1129546394534158336
 - Division: 4
-- Waiver position: 8
+- Waiver position: 14
 - Last updated from Sleeper exports: 2026-10-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,15 +21,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 334.5
-- championship_lineup_c_avi_avg: 47.79
-- offensive_roster_c_avi_sum: 522.0
-- offensive_roster_c_avi_avg: 43.50
-- offensive_roster_d_avi_sum: 801.5
-- offensive_roster_d_avi_avg: 66.79
+- championship_lineup_c_avi_sum: 373.5
+- championship_lineup_c_avi_avg: 46.69
+- offensive_roster_c_avi_sum: 561.0
+- offensive_roster_c_avi_avg: 43.15
+- offensive_roster_d_avi_sum: 869.3
+- offensive_roster_d_avi_avg: 66.87
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
+- QB: Baker Mayfield | C-AVI: 39.0 | D-AVI: 67.8
 - RB: Rachaad White | C-AVI: 49.6 | D-AVI: 71.0
 - RB: Keaton Mitchell | C-AVI: 38.7 | D-AVI: 63.8
 - WR: Jalen Coker | C-AVI: 69.4 | D-AVI: 84.2
@@ -58,6 +59,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Baker Mayfield
+- Player name: Baker Mayfield
+- Player ID: 4892
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: TB
+- Active: True
+- Status: Active
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): 39.0
+- Dynasty AVI (D-AVI, 0-100): 67.8
+- Projected PPR points: 274.9
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Drew Lock
 - Player name: Drew Lock
 - Player ID: 5854
@@ -69,23 +87,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: offense
-- Valuation status: NOT_IN_AVI_OUTPUT
-
-### PLAYER: Jalon Daniels
-- Player name: Jalon Daniels
-- Player ID: 13425
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Position: QB
-- Fantasy positions: ['QB']
-- NFL team: TB
-- Active: True
-- Status: Active
-- Age: 23.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

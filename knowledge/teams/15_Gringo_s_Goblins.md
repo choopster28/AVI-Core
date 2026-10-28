@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Burnfaze
 - Owner ID: 990097041671892992
 - Division: 4
-- Waiver position: 14
+- Waiver position: 11
 - Last updated from Sleeper exports: 2026-10-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 514.5
-- championship_lineup_c_avi_avg: 64.31
+- championship_lineup_c_avi_sum: 536.8
+- championship_lineup_c_avi_avg: 67.10
 - offensive_roster_c_avi_sum: 888.5
 - offensive_roster_c_avi_avg: 55.53
 - offensive_roster_d_avi_sum: 1152.8
@@ -36,8 +36,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Christian Watson | C-AVI: 87.0 | D-AVI: 91.8
 - WR: Jameson Williams | C-AVI: 77.1 | D-AVI: 88.2
 - TE: Jake Ferguson | C-AVI: 50.5 | D-AVI: 76.6
+- FLEX: Emeka Egbuka | C-AVI: 73.0 | D-AVI: 91.5
 - FLEX: Alvin Kamara | C-AVI: 52.8 | D-AVI: 64.2
-- FLEX: Braelon Allen | C-AVI: 50.7 | D-AVI: 67.6
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.

@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Thecan
 - Owner ID: 736993578450030592
 - Division: 1
-- Waiver position: 9
+- Waiver position: 15
 - Last updated from Sleeper exports: 2026-10-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 694.2
-- championship_lineup_c_avi_avg: 86.78
-- offensive_roster_c_avi_sum: 1124.0
-- offensive_roster_c_avi_avg: 62.44
-- offensive_roster_d_avi_sum: 1398.7
-- offensive_roster_d_avi_avg: 77.71
+- championship_lineup_c_avi_sum: 696.4
+- championship_lineup_c_avi_avg: 87.05
+- offensive_roster_c_avi_sum: 1121.0
+- offensive_roster_c_avi_avg: 62.28
+- offensive_roster_d_avi_sum: 1389.6
+- offensive_roster_d_avi_avg: 77.20
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,8 +36,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Puka Nacua | C-AVI: 98.1 | D-AVI: 99.1
 - WR: George Pickens | C-AVI: 87.6 | D-AVI: 94.6
 - TE: Isaiah Likely | C-AVI: 81.2 | D-AVI: 85.2
+- FLEX: Breece Hall | C-AVI: 72.9 | D-AVI: 89.8
 - FLEX: Matthew Golden | C-AVI: 71.1 | D-AVI: 86.3
-- FLEX: Harold Fannin Jr. | C-AVI: 70.7 | D-AVI: 85.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -280,20 +280,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Christian Kirk
-- Player name: Christian Kirk
-- Player ID: 4950
+### PLAYER: Treylon Burks
+- Player name: Treylon Burks
+- Player ID: 8135
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: SF
+- NFL team: WAS
 - Active: True
 - Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 30.4
-- Dynasty AVI (D-AVI, 0-100): 58.8
-- Projected PPR points: 46.4
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 27.4
+- Dynasty AVI (D-AVI, 0-100): 49.7
+- Projected PPR points: 34.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

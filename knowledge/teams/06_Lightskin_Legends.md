@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 538.2
-- championship_lineup_c_avi_avg: 67.28
+- championship_lineup_c_avi_sum: 553.0
+- championship_lineup_c_avi_avg: 69.12
 - offensive_roster_c_avi_sum: 922.2
 - offensive_roster_c_avi_avg: 51.23
 - offensive_roster_d_avi_sum: 1260.6
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Javonte Williams | C-AVI: 84.6 | D-AVI: 89.6
 - RB: Chase Brown | C-AVI: 80.7 | D-AVI: 91.2
 - WR: Parker Washington | C-AVI: 82.6 | D-AVI: 92.3
-- WR: Keon Coleman | C-AVI: 51.9 | D-AVI: 67.1
+- WR: Ladd McConkey | C-AVI: 62.2 | D-AVI: 87.8
 - TE: Kyle Pitts Sr. | C-AVI: 64.2 | D-AVI: 81.7
+- FLEX: Keon Coleman | C-AVI: 51.9 | D-AVI: 67.1
 - FLEX: Josh Downs | C-AVI: 51.2 | D-AVI: 79.2
-- FLEX: Mike Gesicki | C-AVI: 47.4 | D-AVI: 59.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -348,17 +348,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Ryan Fitzgerald
-- Player name: Ryan Fitzgerald
-- Player ID: 12961
+### PLAYER: Nick Folk
+- Player name: Nick Folk
+- Player ID: 650
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6
 - Position: K
 - Fantasy positions: ['K']
-- NFL team: CAR
+- NFL team: ATL
 - Active: True
 - Status: Active
-- Age: 26.0
+- Age: 41.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
