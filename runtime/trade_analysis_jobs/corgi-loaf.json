@@ -1,5 +1,44 @@
 [
   {
+    "id": "mvskuyes-7b5a918d",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Big Balder Brand",
+      "trade": {
+        "sideA": [
+          {
+            "name": "DeVonta Smith",
+            "assetType": "player"
+          },
+          {
+            "name": "Tyler Warren",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1793219952052,
+    "updatedAt": 1793219952052,
+    "expiresAt": 1793651952052,
+    "status": "queued"
+  },
+  {
     "id": "mvsfogx0-10ef77d1",
     "phase": "initial",
     "mode": "shop_assets",
