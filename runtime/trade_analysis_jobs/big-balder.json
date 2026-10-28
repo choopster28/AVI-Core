@@ -1,5 +1,33 @@
 [
   {
+    "id": "mvs7ubw5-bdc558cb",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Rebuild",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "Jahmyr Gibbs",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1793198087861,
+    "updatedAt": 1793198087861,
+    "expiresAt": 1793630087861,
+    "status": "queued"
+  },
+  {
     "id": "mvs7phx5-b0d7591e",
     "phase": "initial",
     "mode": "analyze_trade",
