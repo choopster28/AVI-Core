@@ -37,9 +37,365 @@
       }
     },
     "createdAt": 1793203200039,
-    "updatedAt": 1793203202631,
+    "updatedAt": 1793203330575,
     "expiresAt": 1793635200039,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "The proposed trade sends Trey McBride, Saquon Barkley, and a 2028 2nd-round pick to Conquistadors for Bijan Robinson and Isaiah Likely in a 16-team league. From Big Balder Brand's perspective (seeking to Increase Championship Odds), this transaction provides a significant lineup upgrade: acquiring 24-year-old elite centerpiece Bijan Robinson (93.6 C-AVI / 97.0 D-AVI) increases starting lineup C-AVI by +17.7 index points while absorbing a manageable TE transition to Isaiah Likely (80.4 C-AVI). However, Conquistadors—a Champion Favorite explicitly operating under a 'Win Championship' goal—incurs a net -17.7 starting C-AVI index hit by surrendering Bijan Robinson for Trey McBride and an injured Saquon Barkley (62.9 C-AVI, managing a hamstring recovery). Because Conquistadors cannot weaken its starting lineup during a title push, it is unlikely to accept this offer as constructed (41% acceptance probability), making 'Revise Offer' the optimal front-office strategy.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 93.4,
+              "davi": 92.7,
+              "publicMarket": 93,
+              "leagueMarket": 93
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 62.9,
+              "davi": 85,
+              "publicMarket": 70,
+              "leagueMarket": 68
+            },
+            {
+              "name": "2028 2nd · Balder · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 45
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Bijan Robinson",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 93.6,
+              "davi": 97,
+              "publicMarket": 98,
+              "leagueMarket": 97
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 26,
+              "cavi": 80.4,
+              "davi": 85.1,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "D+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand gains significant championship value by landing Bijan Robinson, raising starting lineup C-AVI from 576.5 to 594.2 (+17.7 net index gain). However, Conquistadors—a Champion Favorite seeking to Win Championship—suffers a -17.7 drop in starting C-AVI index while surrendering a 24-year-old cornerstone for an injured Saquon Barkley."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Adding young starter Bhayshul Tuten (70.3 C-AVI / 84.8 D-AVI) to the package provides Conquistadors with an immediate FLEX starter to cushion Saquon Barkley's health risk, making the deal viable for a Champion Favorite while still securing Bijan Robinson for Big Balder Brand."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 55,
+              "summary": "Starting C-AVI index increases from 576.5 to 594.2 (+17.7 index gain), boosting weekly high-end scoring potential."
+            },
+            "dynastyOutlook": {
+              "score": 75,
+              "summary": "Securing Bijan Robinson (97.0 D-AVI) establishes a premier long-term anchor at a premium position."
+            },
+            "lineupQuality": {
+              "score": 50,
+              "summary": "RB1 jumps to top-league tier; TE drops from McBride (93.4) to Likely (80.4), but net lineup strength increases."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Elevates Jeremiyah Love and Omarion Hampton into secure FLEX positions with solid bench backing."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Parting with a 2028 2nd pick slightly reduces future trade liquidity."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Substantial roster enhancement through the acquisition of 24-year-old elite running back Bijan Robinson."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -45,
+              "summary": "Starting C-AVI index declines from 686.8 to 669.1 (-17.7 index hit), weakening immediate title defense."
+            },
+            "dynastyOutlook": {
+              "score": -30,
+              "summary": "Trading 24-year-old Bijan Robinson (97.0 D-AVI) degrades long-term core foundation."
+            },
+            "lineupQuality": {
+              "score": -40,
+              "summary": "TE upgrade (+13.0 C-AVI) is outweighed by the major drop at RB1 (-30.7 C-AVI) from Bijan to Saquon/Breece."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Acquires Saquon Barkley, but his active hamstring injury adds risk to a championship run."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Picks up a 2028 2nd-round pick, adding future asset liquidity."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Net downgrade for a Champion Favorite trading away a 24-year-old elite workhorse running back."
+            }
+          },
+          "explanation": "Big Balder Brand converts depth and an injured veteran into elite cornerstone Bijan Robinson. Conquistadors incurs a direct starting lineup loss (-17.7 C-AVI index), which conflicts with their Win Championship goal."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand's 8-player starting C-AVI index rises from 576.5 to 594.2 (+17.7 index gain). Adding Bijan Robinson (93.6 C-AVI) at RB1 creates an elite weekly floor, comfortably absorbing the -13.0 TE index drop from Trey McBride (93.4) to Isaiah Likely (80.4).",
+          "sideADynastyImpact": "Acquiring 24-year-old Bijan Robinson (97.0 D-AVI) establishes an unyielding dynasty foundation. Trading Trey McBride (92.7 D-AVI), Saquon Barkley (85.0 D-AVI), and a 2028 2nd (48.5 D-AVI) represents a net gain in premier tier talent.",
+          "sideARosterImpact": "Shifts Jeremiyah Love (65.8 C-AVI) and Omarion Hampton (58.9 C-AVI) into stable FLEX positions.",
+          "sideBChampionshipImpact": "Conquistadors' starting C-AVI index drops from 686.8 to 669.1 (-17.7 index hit). Upgrading TE from Likely to McBride (+13.0 C-AVI) fails to cover the large RB loss (-30.7 C-AVI) when replacing Bijan Robinson with Saquon Barkley or Breece Hall.",
+          "sideBDynastyImpact": "Losing Bijan Robinson reduces Conquistadors' long-term RB core, replacing a 24-year-old elite asset with a 29-year-old RB dealing with a hamstring injury.",
+          "sideBRosterImpact": "Promotes Breece Hall (71.1 C-AVI) and an injured Saquon Barkley (62.9 C-AVI) into primary starting/FLEX slots, eliminating their positional edge at RB1.",
+          "valueAssessment": "Total C-AVI index sent by Big Balder Brand is 204.8 vs 174.0 received. In a 16-team league, consolidating assets into Bijan Robinson enhances Big Balder Brand's top-end starter profile."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Live market consensus views Bijan Robinson as a top-3 overall dynasty asset. Trey McBride is widely regarded as dynasty TE1. Saquon Barkley retains high brand recognition, but his age (29) and active hamstring injury suppress his immediate redraft/dynasty value.",
+          "aviVsMarket": "AVI values Isaiah Likely (80.4 C-AVI) strongly due to his 2026 breakout with the NY Giants (16.1 PPR PPG through 7 games). Market consensus holds Bijan Robinson near untouchable status for packages without elite current starters or 1st-round capital.",
+          "relevantContext": [
+            "Bijan Robinson is an elite workhorse in Atlanta, combining heavy rushing volume with active target share.",
+            "Trey McBride commands elite volume in Arizona, averaging over 11 targets per game.",
+            "Saquon Barkley is currently recovering from a hamstring injury, limiting his immediate availability and current C-AVI index.",
+            "Isaiah Likely has emerged as a focal weapon in New York with 5 receiving TDs through 7 games."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors is a Champion Favorite whose mandate is to Win Championship in 2026. Weakening their starting lineup directly undermines that objective.",
+          "packageFit": "Trey McBride offers an elite TE upgrade, but Saquon Barkley (hamstring) and a 2028 2nd do not adequately compensate for surrendering Bijan Robinson.",
+          "lineupReplacement": "Surrendering Bijan forces Conquistadors to rely on Breece Hall and an injured Saquon Barkley, dropping overall lineup production.",
+          "competitiveWindowFit": "Conquistadors is in a peak championship window; a 2028 2nd pick offers zero immediate starting impact.",
+          "positionalScarcity": "In a 16-team full-PPR format, a 24-year-old bellhorn RB like Bijan Robinson represents the highest tier of positional scarcity."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 8,
+            "packageMatch": 10,
+            "lineupReplacement": 5,
+            "competitiveWindow": 3
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 41,
+          "classification": "Unlikely",
+          "explanation": "Conquistadors is a Champion Favorite focused on winning the title. Taking a -17.7 hit to their starting C-AVI index and inheriting Saquon Barkley's hamstring recovery risk creates an unacceptable lineup downgrade, resulting in an offer rejection."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "The submitted offer strongly favors Big Balder Brand (+17.7 C-AVI index increase and acquiring Bijan Robinson), but Conquistadors will decline due to the immediate hit to their championship starting lineup (-17.7 C-AVI index). To make this trade viable for a title contender, Big Balder Brand must add a legitimate young starting RB like Bhayshul Tuten (70.3 C-AVI) to cushion Saquon's health risk and provide real starting/FLEX depth.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 93.4,
+              "davi": 92.7,
+              "publicMarket": 93,
+              "leagueMarket": 93
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 62.9,
+              "davi": 85,
+              "publicMarket": 70,
+              "leagueMarket": 68
+            },
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 70.3,
+              "davi": 84.8,
+              "publicMarket": 72,
+              "leagueMarket": 70
+            },
+            {
+              "name": "2028 2nd · Balder · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 45
+            }
+          ],
+          "receive": [
+            {
+              "name": "Bijan Robinson",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 93.6,
+              "davi": 97,
+              "publicMarket": 98,
+              "leagueMarket": 97
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 26,
+              "cavi": 80.4,
+              "davi": 85.1,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ],
+          "whyUserShouldDoIt": "You secure dynasty RB1 overall Bijan Robinson (93.6 C-AVI / 97.0 D-AVI) to pair with Nico Collins and Rashee Rice, giving you a dominant championship core while retaining Jeremiyah Love and Omarion Hampton in starting roles.",
+          "whyOpponentMightAccept": "Conquistadors secures overall TE1 Trey McBride (93.4 C-AVI), veteran Saquon Barkley, plus young starter Bhayshul Tuten (70.3 C-AVI) who immediately enters their starting FLEX slot (+70.3 C-AVI) to erase the RB scoring loss and protect against Saquon's hamstring recovery timeline."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Isaiah Likely stats news 2026 NFL",
+          "Saquon Barkley stats news 2026 NFL",
+          "Trey McBride stats news 2026 NFL",
+          "Bijan Robinson stats news 2026 NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqokvqmdP8ALWBm4BrGQB0Kory81Xor4QTbKsBE4IPRmD9tGOpVwZJ4TFa7ZDNygdMPqR5OXYdcd1qDt5A6iwjZylsowN66B0l0SzTU6c_5mnL2vNRv8kx_5SkMP7OK9nPv46itiXEImn1Rmbq",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExMnZ1VNVBE3tfRQ7VDozUA-VRdwDnDFq_ehWYKlmUOUxiHa_cAHD5jitvHAlO8TGc0ii_mOzcy-JAoysWU0fRg_OTBw2SVWWQyo5ezfhr8xSxdBVsqe65JnjJVnSl_Hvd0KR9xmoV",
+            "title": "sleeper.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYoS43xfCriMTRmGIhB4O-tlrMiRjORtU-ULSlhlfXvtAPpiijlzTi-gXPi3Htw5xyWg01XljtDozmRgbVOCSXQB5gbxYwsvzE9uCJuFS5ZFYaiVAb_5nnminmV2lDa9DajQonQDlhDEP8FQ==",
+            "title": "thesportswire.net"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAPuQB5TLGuVw_muQUYoBhuNqYnrABU5mFjeybgsKsQEk80xifvOPYnUzAZGDkF7BtCTGPgvhnM7lxAMWdjViZjZVgnbvyAO259EFHy0wjZacPDmExte8K8t-xv_Pw3wZx0Ua9UlvQRwcpiA-vTyE=",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_IkX3hn4YxvZIuxwgLgDOEYiADgaSxa0JSh57QEmGk9cL1XlOm90ahXBsTNopeKU_H3AHiD7qXdPPk82Uh50lVe0ejVaGm7en1Xt6fcysRRJM2aBGzDOEH_jsyzZ_6zNpbQFgxiwlZ8BKPL0_stelAOf4",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLWYufYatTi1-20gBO89F8ABZBseNnCjMbE_KeixZAJ-RyHya7D6kzs1gDdSNB78_auLWuxTsSq0FgAKzV8RcLRoAaotZxfc-Hx8xaueLoN2EdfmLUx3DIzhUDhiQIiMJmPFb4QlKebDuYWsNNZwmlj674-jc12VW_ArGIeK8zQwvVtd46fkHF",
+            "title": "atlantafalcons.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv_03r12CX5C7q8SZYH2UEE8n_DmAdN9YuV_i-SS-Vf1waxpmBlt29XdArrwP73F6pbQCTjJbiw9mhEQY8w_grCkszLrg9d98WpA_uzVQl7EG6mSirWORnfro3bcm1qJzK12UpZZ3iku_IHH4oig==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzWfZyS-ydQ_e_MUEQLFDpmiuj59EnsVA8xoXhWrt_1MbUVTi-mYc54egMKtAmRX44OXsq_eCadCFmIdBAeJczUmGBrNGVY3LhHVI4ovSZfxAiozZkvkzVvTbvDAsMD6LDAsyWRkgkoDaUIECx4mREt53R4-v0N0E17XrNZoTU_JlvUvwvZTkWVHfuRFQnuJeHcycQe_P7Kw==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm6Y7QTk4DLX2xcTgNDpWB6D7-3WSuXXEOsbcwLemv1awG9IcMDFVVHWHaUfdlxiXbI1yNH_VgrxxBcu7k_wrp2DTnHBr7huC3KL7N3ku6pL_3V_SQOu1Bd2HgGLd3OCyHcUhq0VYfB9WaNR4q",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_x3OLqKY0UcDvwlqphZVH4jkzU7Y_ekW0WcqTtGqMSkJhOzuV0qqcGEyyT2afvpmmAkI1cQJ5sMzWMDDY1WaGOs_OiY3B5RqLcYP_XYq90m7H-2CiTEkSLVFutIUfQvCnd-LeB8SmrW0i9w0IuyT12oHithMdB21YZRIlSjIL",
+            "title": "giants.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "7e63736bc0a5e753acfa8c79480c428a4f21b9a1",
+        "aviCoreCommittedAt": "2026-10-28T15:51:38Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 84463,
+        "groundedMarketChars": 5204,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": true
+      }
+    }
   },
   {
     "id": "mvsatrg2-febef18b",
