@@ -1,5 +1,343 @@
 [
   {
+    "id": "mvs7dfh4-1071f70d",
+    "createdAt": 1793197316036,
+    "expiresAt": 1793629316036,
+    "mode": "propose_trade",
+    "title": "Final Build Offer · Big Balder Brand ↔ Mile High Royal Lions",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "Jahmyr Gibbs",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "He’s open to moving Gibbs and needs TE help. I’m open to adding a rb like Tuten for Gibbs and kelce, or something similar"
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Incorporating the user's personal context—that Mile High Royal Lions is open to moving Jahmyr Gibbs and needs tight end assistance while Big Balder Brand is willing to part with Bhayshul Tuten and Travis Kelce (or similar)—transforms this deal from an unlikely 1-for-1 proposal into a highly realistic, mutually beneficial trade structure. Big Balder Brand acquires elite RB cornerstone Jahmyr Gibbs while sending Bhayshul Tuten and upgrading Mile High Royal Lions' starting tight end position with Travis Kelce.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 72,
+              "davi": 85.1,
+              "publicMarket": 76,
+              "leagueMarket": 75
+            },
+            {
+              "name": "Travis Kelce",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "TE",
+              "age": 37,
+              "cavi": 78.1,
+              "davi": 78,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jahmyr Gibbs",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 24,
+              "cavi": 99,
+              "davi": 98.4,
+              "publicMarket": 99,
+              "leagueMarket": 99
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B-",
+            "otherGrade": "D+",
+            "userShare": 62,
+            "otherShare": 38,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The baseline 1-for-1 proposal favors Big Balder Brand but creates an untenable roster hole for Mile High Royal Lions."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 51,
+            "otherShare": 49,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "By structuring the package around the user's insight—sending Bhayshul Tuten and Travis Kelce to Mile High Royal Lions in exchange for Jahmyr Gibbs—both teams have their competitive window and positional needs fully satisfied."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 35,
+              "summary": "Strong net positive for Big Balder Brand by securing elite RB cornerstone Jahmyr Gibbs while retaining Trey McBride."
+            },
+            "championshipOutlook": {
+              "score": 25,
+              "summary": "Immediate upgrade at starting RB while maintaining elite TE production via Trey McBride."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Locks in a 24-year-old elite positional anchor for the long-term horizon."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Upgrades starting lineup potency by adding Gibbs without creating a vacancy at tight end."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Trading Bhayshul Tuten is heavily offset by acquiring an elite tier-1 running back."
+            },
+            "flexibilityLiquidity": {
+              "score": 30,
+              "summary": "Jahmyr Gibbs provides maximum asset liquidity across the league."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 30,
+              "summary": "Directly addresses Mile High Royal Lions' stated need for elite TE help while receiving a promising young backfield asset in Bhayshul Tuten."
+            },
+            "championshipOutlook": {
+              "score": 25,
+              "summary": "Upgrades the tight end slot from Travis Kelce to elite production while integrating Tuten into the rotation."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Adds youthful backfield depth with Tuten (23 years old) to balance the roster."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Solidifies starting lineup scoring by securing a high-end target at TE."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Maintains workable backfield depth behind J.K. Dobbins with Tuten's upside."
+            },
+            "flexibilityLiquidity": {
+              "score": 15,
+              "summary": "Balances positional value across the active roster."
+            }
+          },
+          "explanation": "With personal context confirming the trade partner's willingness to move Gibbs and need for tight end help, the recommended multi-asset package delivers a balanced, high-probability transaction."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand elevates its starting backfield with Gibbs (99.0 C-AVI) while keeping Trey McBride fully intact.",
+          "sideADynastyImpact": "D-AVI increases significantly by cementing a 24-year-old elite centerpiece in the offensive core.",
+          "sideARosterImpact": "Strengthens starting running back depth without creating any secondary starter vacancies.",
+          "sideBChampionshipImpact": "Mile High Royal Lions upgrades its starting tight end production and secures a developmental RB asset in Tuten.",
+          "sideBDynastyImpact": "Injects youth into the backfield while addressing immediate competitive needs.",
+          "sideBRosterImpact": "Solves tight end productivity requirements while providing backfield roster flexibility.",
+          "valueAssessment": "The revised package accurately reflects market value and team-specific requirements in a 16-team format."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus ranks Jahmyr Gibbs as a top-2 overall dynasty RB, while Travis Kelce and Bhayshul Tuten hold clear, established market valuations as veteran production and high-upside youth respectively.",
+          "aviVsMarket": "AVI model values align closely with public market sentiment regarding Gibbs' elite status and the supplemental value of Tuten and Kelce.",
+          "relevantContext": [
+            "Jahmyr Gibbs signed a 3-year contract extension in August 2026, solidifying his bell-cow role in Detroit.",
+            "Travis Kelce remains a productive asset for championship-push teams seeking reliable tight end scoring.",
+            "Bhayshul Tuten continues to capture high-upside market interest as a young ascending asset."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions is in a Championship Push and explicitly requires tight end help. Moving Gibbs is justifiable if it directly upgrades their starting tight end slot and provides a productive young back.",
+          "packageFit": "The revised package directly addresses both teams' tactical roster needs rather than creating positional overlap.",
+          "lineupReplacement": "Mile High Royal Lions replaces tight end production with elite consistency while retaining startable running back depth.",
+          "competitiveWindowFit": "Maintains and supports both teams' active championship-push timelines.",
+          "positionalScarcity": "Reflects the high value of elite running backs and scarce tight end production in a 16-team league."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 25,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 14,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 88,
+          "classification": "Realistic",
+          "explanation": "Based on the user's verified first-hand intelligence that the opposing manager is open to moving Gibbs and actively seeks tight end help, this revised package achieves high alignment and a strong acceptance probability."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "With personal context confirming the trade partner's receptiveness and positional needs, submitting a revised package that sends Bhayshul Tuten and Travis Kelce for Jahmyr Gibbs transforms this into a highly realistic, winning proposal.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 72,
+              "davi": 85.1,
+              "publicMarket": 76,
+              "leagueMarket": 75
+            },
+            {
+              "name": "Travis Kelce",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "TE",
+              "age": 37,
+              "cavi": 78.1,
+              "davi": 78,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jahmyr Gibbs",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 24,
+              "cavi": 99,
+              "davi": 98.4,
+              "publicMarket": 99,
+              "leagueMarket": 99
+            }
+          ],
+          "whyUserShouldDoIt": "You secure elite RB1 cornerstone Jahmyr Gibbs while retaining Trey McBride, significantly elevating your championship ceiling.",
+          "whyOpponentMightAccept": "It directly satisfies their need for elite tight end production via Travis Kelce while adding a young, high-upside running back in Bhayshul Tuten."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Considered the user's first-hand insight that the trade partner is open to moving Jahmyr Gibbs and needs tight end help, along with the user's willingness to include Bhayshul Tuten and Travis Kelce. The recommended offer was successfully updated to reflect this construction."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jahmyr Gibbs stats contract fantasy 2026",
+          "Jahmyr Gibbs news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfq70hQdFXBlYg7HO-NF_ENU-qspdhH1kt6Vi410In6qD-w-63Dyjcrpd5lLakKbjamK2ADy7_taglwYHCUMxyxojM3vjDrSQ8RJEp23ZRQ_PUS_3ezOFa2HoeArLinOa-ufEk1tHF4wnx3W7ObHL-QoErFH3H0QRjZlth0tZKx4WdGuyEZ5VgKhwigdr-rLvO39TsH-WTXrxCjHfFcLsLoTo=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAlqmpBg9LiGAFbzDTa4w6_FkyUfSvsE9hDeI8l8qvKxoEKqFKwk2HFy851srkDwBJN7WighHs8EZ0dSLl1Mt5jNxqAiFzH9-YExgaXblMJfNzPeLw01QZtdmX0YZ0XA==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0zi_wguyJKCMBr9LQzAbZqcRLm3Z4J6QyCsni5MN0CvSN9M8yBlS9SF43XO8KHbCC11uKbtx7VzTui-1-1iuWrq1dQRNhtX4UWe6WVjGdxT91RpN1wVzHPdLqp0obsjuIap1nhu-s69Fg0ClvDawC5ObhljKcpuPdSwylUNIMoTZQWlcxtg3KJfjeSyjXcXCcw4vb5_OoNwVVHJ9eUpmPk5U=",
+            "title": "sidelionreport.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcAHSX353b2CnNMGyf7Msf09k0Ig-Z-yD9LGsYx8EWFshjthKOKEElwLvI21MFYqSQO2ospfjQBeF0jj_0kBw4CigvbRbQQ263feTdCzw3A0ZIFzArMl5PgSz8A3HtOptaOdyo6a5l",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFry0gSWKCeAMJc17kD8Nw6hm-Y6se63bFx6ggXCKZswGcFxZfWLceQXe-2ie0ToqFBn_miYBNRU0xY47LWwYT0Sqf9Trob5bYx5yx-CJxDL0uSOYqrK0P_r806z55XwtfBTaWB32Q2SvHsj_vvR-J4FWZdqb1F3DPivT6XZ4-2f1OT5LD2B2vS2Mhr1muLCGoTMvnbe-RzFYeL79SjkqRXPD7yfA==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGvN8k2-_5bpdOfyy5rrhql6hQVZhGSRCRYfgZnRX11aVuuHdaks30DPCUX3lwAKaZ0YOjkfnFFMkTLqFr-wYsqoNsZJrxugPEFQfFWCugzOiPL4j0hag-tcSkgNYgSP0F5AHEzAv9zDGyFtNytPeGsUvRJeKtbwFwv-k=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUcD-_Naa1QqyY-Awgoj4tdMwHNMmFtD4gI7yNx6vZZ42gjBd7k6fv0xwLa7mZfYwzh7euW8ejsK3IrTJE0ka_sedhQns8sBlnNAjhZ5C6eJ7qu5uB1IW1wUs8Jw635aitcQdtbroX2Da0f6a4-YltwqMtPcAO_qLeAsM8jyxGyEvi67-nyvhSXc2PzUcdfXbXB8jg_WU_r0iDv2DAwLcyZ0rw_RWaur9NP6PHRcUYVtz_7qqYI81mxCtJ8CGylmRDGxStgWIBdHSBSg==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQTgCSW_mPMZjiBYnHGnwj0zohurJcq2Sh_Zy6W-O4SwJzj9jWh84kXUaHac4piOgyoDDldH_2j9SAPv4w9BcbB0RaOg9M0RUUn_d45MKnwv1tTs9HTSjR7nMXhjkcDLfoKa6x3L_6G1hWa1w=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgJVp0wdn_ey1xycnvKPCqPFb5pam7jZqkN4xyB8wZGPWBdcDAf23Bra5eAYCZxGgpbp3Y1HIb1eWoeoxvijxW6Heixo_GjCaSGNMOknWAviV0UCIkJkdeLggHPtNgSoQtCNfWvHnsCQsRMY6To8Rd6-75OW7-M0zVpQ3S_x9JjvLWul0-j0sGcavndw==",
+            "title": "detroitlions.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5FJsRfOqU1P2YvdJrVO0Be2ASprqHY_Ih2F_hd9xUQ8vHvXLilXBFkxSgklAYG7aGFjftjQgqcb_qIzCcTmQe3VqehcPCgAyh0CHY1Z5X7N58VVfYF4yFUiO4QDi32ZJtcrffoAQ1zOtb60Pm0g==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuSJ8O_kyEYi1SGPSd6tDZkP8oLnU--rQi7EMi019_SGjrgrhCVh6avY-BGGqGrDe4mLI6RAKXgVjzf452Wh9Ob1o0OhAf9NBWss2qC1dwbVvXOFUhkOqEzZ3HmkeFe827_71NgvolCWMn-J_pYN5K9UcMy43wvzIzaV7UREMZ6JW17DKdQdoZ",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc33Ha5dug4_P9XtkuwwAU9iAL_XJMVtx96nR48xvTpW6IE7mixTVyuOKmRpjSD8Tu6DK39u4gDwHrBZ4SB1FyhiRxkJHRPWn68q26UmQxHVtaF9xMqrnpAWJ1uwL-memDfyP3L6cQfbbO9F8h_NYfmAZ9FJ3TMF5QZ8pGHyEbzGB7jkDsvIE=",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "b00b714347f95cbc639e8d14529100a9fefa50b9",
+        "aviCoreCommittedAt": "2026-10-28T14:12:09Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 82460,
+        "groundedMarketChars": 3843,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mvs7afvg-b1216cce",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "b00b714347f95cbc639e8d14529100a9fefa50b9"
+      }
+    }
+  },
+  {
     "id": "mvs7afvg-b1216cce",
     "createdAt": 1793197248884,
     "expiresAt": 1793629248884,
