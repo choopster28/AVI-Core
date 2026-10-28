@@ -282,11 +282,29 @@ def _player_point_components(points: dict[str, dict[str, Any]]) -> dict[str, flo
     """Blend PPR/game and season production inside a fantasy-relevant pool."""
     ppg = _rank_scores(points, "raw_points")
     total = _rank_scores(points, "season_points")
+    # The median of the four most recent completed games makes a couple of
+    # isolated spike weeks less representative of repeatable production.
+    from statistics import median
+    weekly_records = {}
+    for avi_id, record in points.items():
+        weeks = record.get("weeks") or {}
+        last_four = [value for _, value in sorted(weeks.items())[-4:]]
+        weekly_records[avi_id] = {**record, "recent_median": median(last_four) if last_four else 0.0}
+    stability = _rank_scores(weekly_records, "recent_median")
     result: dict[str, float] = {}
-    for avi_id in points:
+    for avi_id, record in points.items():
         ppg_score = ppg.get(avi_id, 0.0)
         total_score = total.get(avi_id, 0.0)
-        result[avi_id] = round(0.70 * ppg_score + 0.30 * total_score, 1)
+        stability_score = stability.get(avi_id, 0.0)
+        # With fewer than four observed games, reduce reliance on a volatile
+        # recent median rather than treating two big weeks as established form.
+        reliability = min(1.0, len(record.get("weeks") or {}) / 4.0)
+        base_score = 0.70 * ppg_score + 0.30 * total_score
+        result[avi_id] = round(
+            (1.0 - 0.25 * reliability) * base_score
+            + 0.25 * reliability * stability_score,
+            1,
+        )
     return result
 
 
@@ -426,7 +444,7 @@ def apply_in_season_transition() -> dict[str, Any]:
         "elite_upside": 0.10,
     }
     manifest["production_component_policy"] = {
-        "player_points": "70% PPR points/game rank + 30% season-points rank within a fantasy-relevant positional pool",
+        "player_points": "Ranked PPR points/game and season points, with up to 25% recent-four-game median consistency adjustment; small samples receive reduced consistency weight",
         "weekly_ceiling": "best completed-week PPR rank within the same fantasy-relevant positional pool",
         "fantasy_relevant_pool": FANTASY_RELEVANT_POOL,
     }
