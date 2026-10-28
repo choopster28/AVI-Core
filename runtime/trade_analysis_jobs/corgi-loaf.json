@@ -25,9 +25,419 @@
       "maxResults": 3
     },
     "createdAt": 1793211251364,
-    "updatedAt": 1793211253354,
+    "updatedAt": 1793211311547,
     "expiresAt": 1793643251364,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. enters the market from an Elite Contender position seeking to leverage surplus wide receiver talent and future draft capital to acquire a top-tier starting running back anchor for the 2026 championship run. By shopping DeVonta Smith, Rhamondre Stevenson, and a 2027 2nd-round pick, Corgi Loaf can target premier running back upgrades from fellow contenders facing positional imbalances or retooling rosters looking for long-term value.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Elite Contender",
+          "strengths": [
+            "Elite wide receiver starter group featuring Jaxon Smith-Njigba and Malik Nabers",
+            "Premier tight end production in Tyler Warren",
+            "High quarterback ceiling anchored by Patrick Mahomes and Tyler Shough"
+          ],
+          "priorityNeeds": [
+            "Elite RB1 firepower to anchor the championship starting lineup",
+            "Consolidation of depth assets into single high-impact weekly starters"
+          ],
+          "tradeableSurplus": [
+            "DeVonta Smith (WR, C-AVI 84.9)",
+            "Rhamondre Stevenson (RB, C-AVI 65.0)",
+            "2027 2nd · Badlands (Draft Pick, AVI 48.5)"
+          ],
+          "constraintsApplied": [
+            "Enforced mandatory two-organization strategic goal alignment across all proposals",
+            "Verified current roster ownership across all trade assets",
+            "Ensured starter-for-starter realism in all player exchanges"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding franchises rejected proposals containing aging veteran running backs",
+            "Contending managers lacked starting-caliber running back surplus"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Badland Banditos",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Kenneth Walker III",
+                "assetType": "player",
+                "owner": "Badland Banditos",
+                "position": "RB",
+                "age": 26,
+                "cavi": 93.5,
+                "davi": 96.3,
+                "publicMarket": 94,
+                "leagueMarket": 94
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "DeVonta Smith",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "WR",
+                "age": 27,
+                "cavi": 84.9,
+                "davi": 92.5,
+                "publicMarket": 85,
+                "leagueMarket": 85
+              },
+              {
+                "name": "Rhamondre Stevenson",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 28,
+                "cavi": 65,
+                "davi": 78.1,
+                "publicMarket": 65,
+                "leagueMarket": 65
+              }
+            ],
+            "scenarioType": "Contender Starter Consolidation",
+            "strategicGoal": "Acquire an S-tier RB1 to maximize immediate championship win probability.",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 22,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 10
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 88,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Kenneth Walker III provides an elite 93.5 C-AVI weekly RB anchor in Kansas City's high-octane offense, instantly providing Corgi Loaf Baking Co. with an S-tier championship centerpiece without depleting wide receiver starter depth.",
+            "whyOpponentMightAccept": "Badland Banditos gains DeVonta Smith as a high-end WR upgrade alongside Ja'Marr Chase and Mike Evans, while securing Rhamondre Stevenson to maintain starting running back depth next to Bucky Irving.",
+            "championshipImpact": "Substantially increases 2026 title odds by filling the RB1 spot with a top-tier scorer.",
+            "dynastyImpact": "Maintains premium dynasty asset equity with a 26-year-old elite running back.",
+            "rosterImpact": "Consolidates FLEX depth into an untouchable weekly starting RB1.",
+            "publicMarketContext": "Walker is thriving as KC's primary goal-line option, making him a premier target for contenders.",
+            "risks": [
+              "Surrendering DeVonta Smith reduces FLEX depth if secondary WRs experience injuries."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer DeVonta Smith and Rhamondre Stevenson for Kenneth Walker III.",
+              "acceptableConcession": "Add the 2027 2nd (Badlands) if Banditos requests extra pick incentive.",
+              "walkAwayPoint": "Walk away if Banditos requests Malik Nabers or Jaxon Smith-Njigba."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "SmokyValleyWheatWarriors",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "James Cook III",
+                "assetType": "player",
+                "owner": "SmokyValleyWheatWarriors",
+                "position": "RB",
+                "age": 27,
+                "cavi": 88.7,
+                "davi": 94.8,
+                "publicMarket": 90,
+                "leagueMarket": 90
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "DeVonta Smith",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "WR",
+                "age": 27,
+                "cavi": 84.9,
+                "davi": 92.5,
+                "publicMarket": 85,
+                "leagueMarket": 85
+              },
+              {
+                "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Position Surplus Swap",
+            "strategicGoal": "Swap surplus WR star power for an elite RB1 to balance starting lineup scoring.",
+            "scoring": {
+              "availability": 24,
+              "opposingGmMotivation": 23,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 10
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 88,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "James Cook III provides elite RB1 production (88.7 C-AVI) on a dominant Buffalo offense, giving Corgi Loaf a dependable weekly anchor.",
+            "whyOpponentMightAccept": "SmokyValleyWheatWarriors suffers from inactive/injured wide receivers (Aiyuk/Hill) and can leverage RB surplus (McCaffrey) to insert DeVonta Smith directly into their active starting WR lineup alongside CeeDee Lamb and Chris Olave.",
+            "championshipImpact": "Locks in an elite dual-threat RB1 for the title push.",
+            "dynastyImpact": "Secures an extended 27-year-old premier running back attached to Josh Allen.",
+            "rosterImpact": "Transfers surplus WR depth into a top-tier RB starting slot.",
+            "publicMarketContext": "Cook is established as an indispensable focal point in Buffalo's offense following his extension.",
+            "risks": [
+              "Slight loss of future draft capital with the 2027 2nd pick included."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer DeVonta Smith and 2027 2nd (Badlands) for James Cook III.",
+              "acceptableConcession": "Include minor roster depth if needed to seal agreement.",
+              "walkAwayPoint": "Walk away if Wheat Warriors demand a 2027 1st or additional core WRs."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Rapid Valley Annihilation",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Quinshon Judkins",
+                "assetType": "player",
+                "owner": "Rapid Valley Annihilation",
+                "position": "RB",
+                "age": 22,
+                "cavi": 69.6,
+                "davi": 85.8,
+                "publicMarket": 72,
+                "leagueMarket": 72
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Rhamondre Stevenson",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 28,
+                "cavi": 65,
+                "davi": 78.1,
+                "publicMarket": 65,
+                "leagueMarket": 65
+              },
+              {
+                "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Retool Asset Reallocation",
+            "strategicGoal": "Acquire a high-upside young RB starter to reinforce short-term and long-term backfield strength.",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 20,
+              "packageMatch": 17,
+              "lineupReplacement": 12,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 80,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Quinshon Judkins is a 22-year-old rising starting RB with strong volume, upgrading Corgi Loaf's age profile and running back efficiency without surrendering DeVonta Smith.",
+            "whyOpponentMightAccept": "Rapid Valley Annihilation operates in a retool window, acquiring draft capital (2027 2nd) while receiving Rhamondre Stevenson to maintain stable veteran backfield production.",
+            "championshipImpact": "Slight C-AVI upgrade at RB while keeping DeVonta Smith available for WR/FLEX duties.",
+            "dynastyImpact": "Significant age and dynasty value improvement by adding a 22-year-old key backfield asset.",
+            "rosterImpact": "Replaces an older RB with a younger, high-ceiling starter.",
+            "publicMarketContext": "Judkins is gaining steady early-career rushing volume in Cleveland.",
+            "risks": [
+              "Judkins operates in a run-heavy but lower-scoring offense."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Rhamondre Stevenson and 2027 2nd (Badlands) for Quinshon Judkins.",
+              "acceptableConcession": "Upgrade pick sweetener to a slightly earlier 2nd if required.",
+              "walkAwayPoint": "Walk away if RVA demands DeVonta Smith or a 1st-round pick."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Omar Cooper Jr football",
+          "Quinshon Judkins NFL 2026",
+          "Rhamondre Stevenson 2026 news",
+          "Kenneth Walker III 2026 news",
+          "James Cook III news 2026",
+          "DeVonta Smith news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3Z3is0Fv_6wryri2He0a6xMjYmZqLxPOXjCMtL2-7kaP7JARNtlZzdas2zYOU1T5jKm-kO4DUkBKAeVSoIm8g19dytWgGFzqVbykdjBEHAiK_WC98hjayGBzYi2oudDv0S1xIfTEpUwwzIfpk39-oDVYR",
+            "title": "pro-football-reference.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK82yL6tGed1MU1UiTquHdd12hYg3mbrYInaUygmP3ATfqD-x-a1KN7Ox64HN2lKqvEyMrKIAm1VVlkMkLsbiPUfOASxZnCCfmDSwvVl73aI7JgOVs_O_cJTYzUCdiUdH2wCtV3Ko3Y4GdhkXUYa7TI14bJzIQDD9uOQTWAoVNxZoptwABjYtID1Y3Dus=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKSKfHPciQ-897wsGOZ_Smz2CHiheLJadRWUZUBdZwIvljtLe3W8UuImYZfg7nlibRTipHt77VNErkeK1BNv4nO1J1aU7GR8p8qQ9_KGN2TESGutFpIY-1BG3gSmejLdiDgl0=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvSzDiqa-fz2V0AgRWbgtII4ANzSCfe6UtgM4KZunblAllNGiAuVGnxKnNn_ByK4h03_eplhetKUKjxn1UwnwGGtJr_EX0WtIVLwVEKi5pg3L4vmhAbwKdPtQMx5SFWQ7cOPNqY96lSrK-BU2-GUoB",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH88NAeKkyH3zjyktY1vILqnPnibVAz2QaK6oJCcvq-9yq2Nf9uZq8X19Gk2H9h7hZFqQmi_AA13v4VuLh83mn0tjpDtsN7txuFA3kBJL-DQ3CzGvdYw1zW-gf3igTvmE3jj9xo2streD_D7CHclOAsbVWQSSI=",
+            "title": "newyorkjets.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNSgvi1h6ybM56dhFqljrK95j4PF95UBpNXI_K9Jf-Mm_IzWnzjY1k0RIikERpg0HD6bsteHk0fXH4V-qNEHga-nvpXoh7XtSmi9fW91y56PWOzd1RArahhVnnHewNFIjIppdAoBHvJKW5IeHwf-EIkPvvcPpR0cQtfWy2pDzwYWT7RdXk6zKuaH3Ff_444cO32gol",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhs13yl5a3g8-RLMvhst6ays7DJ5PuRj-g39UYoR8QAu-QWH4BtbKozrFFtCHp7pAbn57oW7vIJiJDbOOQ9toeBkauUQsgPgM_vqK0DdbM413ks7TrBDnrt4clNNpiobLF0SDwglaUtqpUzql5lKp-aWfhWlsJFfN-9PqKfM7YmfigfieXsQ1QUOAdMVsO05pQo4ABpITiuMrxntq-bYWncxQD2G04KTg=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv8GOxIASezwyWid4p_QWej6h2-fkUzPNSndADuP8Z_wH58jZWd4UuF91jKMW8EInQNr8-_1-2X6mDA7mUsxe2hSbwYYq_8n-sipduM45ZzYVoMrFgpk_S21fSVO1P7l69b71rIrNywnhT03Lsrw==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXTlxovkhS4aVkFcBbIHBzWNCDWW8hxhX7lkX56vfWUdMC1qGm1yc1T50TgEr35rYU2mHG40DcgkHUaJcWmsIclWBIOFFNygBz9vUxYq7XZnJBunSVbhP8Hk8vbG7erVSGV1BOhDvMY2tsu7s7jHAH4CFiKH0SoaGr12gqDLqXAkwb1_uKoW2cOpjSnbTXyl24gsGAs727fpc1y8rg6Cuxxg==",
+            "title": "bolavip.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRoAP89B3I8_ey924JF9h3Y6VJG_G2mTs-lwwgZ40Tb1-WU4for1hZFYUoDyYGaLpqqt4m4reeqxs3KQhC4eP7wk2NfdCPlpRF-cggv5_trHZOc3oHbABHHLQ9q1xuDbZZbNZwuiNpQwm0I9ks0vM3Lnj_1Z_3uKm7zAqSq4cr1uE10SGPidcix9ogZ-uUnDGthasNVBwUIXd-w_-si3GLfIlkitYZa32jxfrtcg==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbhTzUJqxQ6WT5anGXlIuQcDSbyDFZZINcJv_SH8q2ng1qhFSwBjw2G-ytZDP5r2KexBmzY-3_lfRxygV8ZUNl1NbM2HHzEu3HU8ApvI210w1vLyej3s1B5OGMPmLxP40ifzFYf7zPSjct3rKDszil2VWsA86U59VbznSyccbIsmyH8AWzoOJZTBodKC_ZvqsM6b0bzh4yqRj9E_TUIdCH4__9rVpfELhERTjUyXLPw3oiZFNL5cK3flD8g2z106LUQR-jr2IuaqeOG_XHCHy3naBKY1FRSJCYlpxcHcjMuLAbZ1888qfbHHMA7ggPIn4ms_0-Sq0Edp8SfMYVHw==",
+            "title": "essentiallysports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvZA80LYOOlVN9QdzuUXEYv34iTb6d3FaS9UD0r-kk4Iqt0f5GmnXDR3hTlnlPeY0EI1VdeK_lo-fZZaNZw_Kf-wc6nQePSd4SIJwRw_AxHI0gEwXkEw9SX58zYKEKX0qzt3RMDj_TvVTXpipW6P_XVHyo_1CXtQCXnM0dc7toeScu9Bzfby6k5wsSKy0lwv4ABwjpFiMq-vgCnW8EzgHJTmYW2SbhbBNxfIi2evU=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCDWmtEtSdO0xOEeh2faIX9SjKV15wvU77f5XaRZm2yhVU8kzxLkNnQW_-jDS4B2oFIZGgmxqrjOe90jT1GdNDM3XS-v2F-elGs0scu7fu3GaX1Ox6_B_ZTQ-QlrfT5H91-QSWwZcwRj_UmrviGMUsmVj0I-92_S8fZWFW4hCwkbdOAQB05zrChckA9HDU4k_WPPPv3_OA0CCA3e51rGymZxAD",
+            "title": "insidetheiggles.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk6oIxJoE5x1ZZKxT0csnfF2mBsE1spCHUR5CPX7HIWgBXRdLxJT15jxOO1Qyc5RapfyJF81SHMHM0mamBfWM4H44-AI0pbxanlLLE4P0ZIb7B5wYTUj8ugNzSrSb__q8x8qpoYmHWQljB1IhYapbkO_Cxwy3QCMXQSl5wE0aG9iwfQyBMP8Y67EksNkDCIaI8BKyEjjalKgdBBFFBndiXhw==",
+            "title": "phillyvoice.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4PMUbHLB2oU3iI61XN3Xq0Ts1AqVeHBPzD8Rw5_YnGz-7iXxwgZk825EAAoQXChGD3BdFEv427F_8xU5jl4gbKaHLZqE5suRRcTikJMTMqIFipvFkw1_YHJjOzBchLeFs_OWj7fyFYIMnbA5GXu9NSPzScfPuxqaS3Gf9ffVInHSmkL5h",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ9wWjQtYiDFdzKqZzW3exrDRgEiXw5P2-pPKEoz5c4PEuDdVN6Wu6y5__isVjflkWwbR2M4A2nTI00bnGYgE8jVoCIX_m9832oqrSKRIJ023oesFuG7QvT0rDhfU6waZYXHssb0GXXCd_rcaaHFyjHb8eyrzY5g==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9saPBjej7wkS4eMt_Pqd8r064fWcTC4o3Key0pIOo7PUqEBjLQefKjzp_8whd9kzapoI89IDUFOX_nQ_sUTL2msE4NaeLWjGfoqzoX3iEG1tObZ6Z1F0QOZxkd2S2CJ-nV0MGyiOo0FWG4vDCS0edsh-5Kmd4GkEVi2J_yLbtv6DG2ymE17H1LIwkYqAapp_gFeF4Dc0=",
+            "title": "buffalowdown.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3d3KMRvkMgFAoTqAlwcataJ8pUTRq8NYbz-M0DHJ0pcaVaIowbTOgtdBlWR7azGehdfWMalMvPP2EbH4sON2zMPqnZd_PB1wOsLTHS6esoESTr2qAscidPG3METxtQ4Z1zhnqPVINKOuSlGTj-h2tr7ujwWm1Ccg_9Jp2QkrWjBIxfdtnfoO_LAPmyRm-Edrq-bjfaOSkFqvF533STrMMD9PC",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Quinshon Judkins",
+          "Omar Cooper Jr.",
+          "Rhamondre Stevenson",
+          "Kenneth Walker III",
+          "DeVonta Smith",
+          "James Cook III"
+        ],
+        "aviCoreCommitSha": "ec1f12e660c6e7b53eb3162d2ffa091772577fbe",
+        "aviCoreCommittedAt": "2026-10-28T17:39:55Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 542170,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 251,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mvrnofu2-84afb501",
