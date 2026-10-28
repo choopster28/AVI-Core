@@ -1,5 +1,43 @@
 [
   {
+    "id": "mvsaq5r0-78df41e9",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Bijan Robinson",
+            "assetType": "player"
+          },
+          {
+            "name": "Isaiah Likely",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1793202932124,
+    "updatedAt": 1793202932124,
+    "expiresAt": 1793634932124,
+    "status": "queued"
+  },
+  {
     "id": "mvs7web4-2e101ac1",
     "phase": "final",
     "mode": "propose_trade",
