@@ -1,5 +1,37 @@
 [
   {
+    "id": "mvs75o83-a4add10f",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "targetTeam": "Conquistadors",
+      "targetAssets": [
+        {
+          "name": "Jonathan Taylor",
+          "assetType": "player"
+        },
+        {
+          "name": "Isaiah Likely",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1793196937443,
+    "updatedAt": 1793196937443,
+    "expiresAt": 1793628937443,
+    "status": "queued"
+  },
+  {
     "id": "mvs71nod-b4a4b14d",
     "phase": "final",
     "mode": "shop_assets",
