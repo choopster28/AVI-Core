@@ -347,30 +347,41 @@ def _injury_adjusted_production(
     return round(adjusted, 1), round(adjusted - actual, 1)
 
 
-def apply_in_season_transition() -> dict[str, Any]:
+def apply_in_season_transition(*, offline: bool = False) -> dict[str, Any]:
     """Transition C-AVI globally from preseason to the approved in-season mix."""
     if not AVI_PLAYERS_PATH.exists() or not AVI_MANIFEST_PATH.exists() or not REGISTRY_PATH.exists():
         return {"status": "skipped", "reason": "required AVI files unavailable"}
 
-    state = _nfl_state()
-    points, max_week, mapped_records = _load_current_points()
-
-    current_week_complete: bool | None = None
-    current_week = int(state.get("week") or 0)
-    season_type = str(state.get("season_type") or "").lower()
-    if season_type == "regular" and max_week == current_week and current_week >= 1:
-        current_week_complete = _espn_week_complete(current_week)
-
-    active, completed_through = _fresh_completed_week_available(
-        state,
-        max_week,
-        mapped_records,
-        current_week_complete=current_week_complete,
-    )
     manifest = read_json(AVI_MANIFEST_PATH)
     if not isinstance(manifest, dict):
         raise RuntimeError("AVI manifest must contain an object.")
-
+    points, max_week, mapped_records = _load_current_points()
+    if offline:
+        # Manual recalculation trusts the last published completed-week boundary.
+        # It NEVER contacts Sleeper, ESPN, or FantasyPros, nor assumes that a
+        # newly present partial week is complete.
+        prior = manifest.get("in_season_transition") or {}
+        completed_through = int(prior.get("completed_through_week") or 0)
+        if completed_through < 1:
+            raise RuntimeError("Offline AVI recalculation needs an existing verified completed-week snapshot.")
+        if max_week < completed_through:
+            raise RuntimeError("Cached weekly points do not cover the last verified completed week.")
+        state = {"season": prior.get("nfl_season") or TARGET_SEASON,
+                 "season_type": prior.get("nfl_season_type") or "regular",
+                 "week": prior.get("nfl_week") or completed_through + 1}
+        active = True
+        current_week_complete = prior.get("current_week_schedule_complete")
+    else:
+        state = _nfl_state()
+        current_week_complete = None
+        current_week = int(state.get("week") or 0)
+        season_type = str(state.get("season_type") or "").lower()
+        if season_type == "regular" and max_week == current_week and current_week >= 1:
+            current_week_complete = _espn_week_complete(current_week)
+        active, completed_through = _fresh_completed_week_available(
+            state, max_week, mapped_records,
+            current_week_complete=current_week_complete,
+        )
     manifest["in_season_transition"] = {
         "status": "active" if active else "waiting_for_completed_current_season_points",
         "nfl_season": state.get("season"),
@@ -380,7 +391,7 @@ def apply_in_season_transition() -> dict[str, Any]:
         "fantasypros_max_observed_week": max_week,
         "mapped_player_point_records": mapped_records,
         "current_week_schedule_complete": current_week_complete,
-        "completion_sources": ["Sleeper NFL state", "ESPN NFL scoreboard"],
+        "completion_sources": ["previous verified manifest (offline)"] if offline else ["Sleeper NFL state", "ESPN NFL scoreboard"],
         "production_source_priority": ["sleeper", "fantasypros"],
         "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     }
