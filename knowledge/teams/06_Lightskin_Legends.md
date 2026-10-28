@@ -21,43 +21,26 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 552.9
-- championship_lineup_c_avi_avg: 69.11
-- offensive_roster_c_avi_sum: 922.1
-- offensive_roster_c_avi_avg: 51.23
-- offensive_roster_d_avi_sum: 1260.6
-- offensive_roster_d_avi_avg: 70.03
+- championship_lineup_c_avi_sum: 510.8
+- championship_lineup_c_avi_avg: 63.85
+- offensive_roster_c_avi_sum: 829.9
+- offensive_roster_c_avi_avg: 46.11
+- offensive_roster_d_avi_sum: 1245.3
+- offensive_roster_d_avi_avg: 69.18
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Dak Prescott | C-AVI: 75.6 | D-AVI: 81.2
-- RB: Javonte Williams | C-AVI: 84.6 | D-AVI: 89.6
-- RB: Chase Brown | C-AVI: 80.6 | D-AVI: 91.2
-- WR: Parker Washington | C-AVI: 82.6 | D-AVI: 92.3
-- WR: Ladd McConkey | C-AVI: 62.2 | D-AVI: 87.8
-- TE: Kyle Pitts Sr. | C-AVI: 64.2 | D-AVI: 81.7
-- FLEX: Keon Coleman | C-AVI: 51.9 | D-AVI: 67.1
-- FLEX: Josh Downs | C-AVI: 51.2 | D-AVI: 79.2
+- QB: Jared Goff | C-AVI: 71.9 | D-AVI: 76.8
+- RB: Javonte Williams | C-AVI: 83.9 | D-AVI: 89.4
+- RB: Chase Brown | C-AVI: 73.7 | D-AVI: 90.1
+- WR: Parker Washington | C-AVI: 77.4 | D-AVI: 91.4
+- WR: Keon Coleman | C-AVI: 50.1 | D-AVI: 66.8
+- TE: Kyle Pitts Sr. | C-AVI: 59.8 | D-AVI: 80.9
+- FLEX: Ladd McConkey | C-AVI: 48.6 | D-AVI: 85.6
+- FLEX: Mike Gesicki | C-AVI: 45.4 | D-AVI: 58.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
-
-### PLAYER: Dak Prescott
-- Player name: Dak Prescott
-- Player ID: 3294
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Position: QB
-- Fantasy positions: ['QB']
-- NFL team: DAL
-- Active: True
-- Status: Active
-- Age: 33.0
-- Championship AVI (C-AVI, 0-100): 75.6
-- Dynasty AVI (D-AVI, 0-100): 81.2
-- Projected PPR points: 303.9
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Jared Goff
 - Player name: Jared Goff
@@ -70,9 +53,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 70.3
-- Dynasty AVI (D-AVI, 0-100): 76.5
+- Championship AVI (C-AVI, 0-100): 71.9
+- Dynasty AVI (D-AVI, 0-100): 76.8
 - Projected PPR points: 283.5
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Dak Prescott
+- Player name: Dak Prescott
+- Player ID: 3294
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: DAL
+- Active: True
+- Status: Active
+- Age: 33.0
+- Championship AVI (C-AVI, 0-100): 69.8
+- Dynasty AVI (D-AVI, 0-100): 80.3
+- Projected PPR points: 303.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 84.6
-- Dynasty AVI (D-AVI, 0-100): 89.6
+- Championship AVI (C-AVI, 0-100): 83.9
+- Dynasty AVI (D-AVI, 0-100): 89.4
 - Projected PPR points: 212.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 80.6
-- Dynasty AVI (D-AVI, 0-100): 91.2
+- Championship AVI (C-AVI, 0-100): 73.7
+- Dynasty AVI (D-AVI, 0-100): 90.1
 - Projected PPR points: 255.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 60.0
-- Dynasty AVI (D-AVI, 0-100): 81.3
+- Championship AVI (C-AVI, 0-100): 54.7
+- Dynasty AVI (D-AVI, 0-100): 80.5
 - Projected PPR points: 207.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -155,26 +155,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 82.6
-- Dynasty AVI (D-AVI, 0-100): 92.3
+- Championship AVI (C-AVI, 0-100): 77.4
+- Dynasty AVI (D-AVI, 0-100): 91.4
 - Projected PPR points: 212.4
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Ladd McConkey
-- Player name: Ladd McConkey
-- Player ID: 11635
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: LAC
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 62.2
-- Dynasty AVI (D-AVI, 0-100): 87.8
-- Projected PPR points: 228.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -189,9 +172,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 51.9
-- Dynasty AVI (D-AVI, 0-100): 67.1
+- Championship AVI (C-AVI, 0-100): 50.1
+- Dynasty AVI (D-AVI, 0-100): 66.8
 - Projected PPR points: 85.8
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Ladd McConkey
+- Player name: Ladd McConkey
+- Player ID: 11635
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: LAC
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 48.6
+- Dynasty AVI (D-AVI, 0-100): 85.6
+- Projected PPR points: 228.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 51.2
-- Dynasty AVI (D-AVI, 0-100): 79.2
+- Championship AVI (C-AVI, 0-100): 40.8
+- Dynasty AVI (D-AVI, 0-100): 77.5
 - Projected PPR points: 172.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 43.5
-- Dynasty AVI (D-AVI, 0-100): 66.9
+- Championship AVI (C-AVI, 0-100): 35.0
+- Dynasty AVI (D-AVI, 0-100): 65.5
 - Projected PPR points: 102.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 39.4
-- Dynasty AVI (D-AVI, 0-100): 65.8
+- Championship AVI (C-AVI, 0-100): 32.7
+- Dynasty AVI (D-AVI, 0-100): 64.7
 - Projected PPR points: 119.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 32.8
-- Dynasty AVI (D-AVI, 0-100): 50.0
+- Championship AVI (C-AVI, 0-100): 26.1
+- Dynasty AVI (D-AVI, 0-100): 48.8
 - Projected PPR points: 77.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 64.2
-- Dynasty AVI (D-AVI, 0-100): 81.7
+- Championship AVI (C-AVI, 0-100): 59.8
+- Dynasty AVI (D-AVI, 0-100): 80.9
 - Projected PPR points: 171.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -308,26 +308,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 47.4
-- Dynasty AVI (D-AVI, 0-100): 59.1
+- Championship AVI (C-AVI, 0-100): 45.4
+- Dynasty AVI (D-AVI, 0-100): 58.8
 - Projected PPR points: 104.9
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Terrance Ferguson
-- Player name: Terrance Ferguson
-- Player ID: 12487
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Position: TE
-- Fantasy positions: ['TE']
-- NFL team: LAR
-- Active: True
-- Status: Inactive
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 39.9
-- Dynasty AVI (D-AVI, 0-100): 74.6
-- Projected PPR points: 100.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -342,9 +325,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 35.9
-- Dynasty AVI (D-AVI, 0-100): 58.3
+- Championship AVI (C-AVI, 0-100): 30.8
+- Dynasty AVI (D-AVI, 0-100): 57.4
 - Projected PPR points: 85.1
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Terrance Ferguson
+- Player name: Terrance Ferguson
+- Player ID: 12487
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: LAR
+- Active: True
+- Status: Inactive
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 29.2
+- Dynasty AVI (D-AVI, 0-100): 72.8
+- Projected PPR points: 100.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

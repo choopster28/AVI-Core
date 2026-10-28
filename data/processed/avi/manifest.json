@@ -2,9 +2,9 @@
   "c_avi_weights": {
     "elite_upside": 0.1,
     "league_context": 0.1,
-    "player_points": 0.25,
-    "projections": 0.3,
-    "public_market": 0.25
+    "player_points": 0.4,
+    "projections": 0.25,
+    "public_market": 0.15
   },
   "d_avi_missing_component_policy": "Redistribute missing optional component weights proportionally across verified components.",
   "d_avi_weights": {
@@ -16,7 +16,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-10-28T14:47:55.773858+00:00",
+  "generated_at_utc": "2026-10-28T15:17:11.541316+00:00",
   "in_season_transition": {
     "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     "completed_through_week": 7,
@@ -39,7 +39,7 @@
   "injury_availability_adjustments": {
     "championship_horizon_end_week": 17,
     "current_week": 8,
-    "players_capped": 4,
+    "players_capped": 1,
     "players_evaluated": 479,
     "policy": "Projection-aware C-AVI ceiling. Updated projections/rankings get first chance to price the injury; the availability layer only caps residual overstatement and therefore does not multiply an already reduced projection.",
     "source_priority": [
@@ -64,7 +64,7 @@
       "TE": 24,
       "WR": 64
     },
-    "player_points": "70% PPR points/game rank + 30% season-points rank within a fantasy-relevant positional pool",
+    "player_points": "Ranked PPR points/game and season points, with up to 25% recent-four-game lower-half consistency adjustment; small samples receive reduced consistency weight",
     "weekly_ceiling": "best completed-week PPR rank within the same fantasy-relevant positional pool"
   },
   "record_counts": {
