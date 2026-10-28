@@ -1,5 +1,450 @@
 [
   {
+    "id": "mvsatrg2-febef18b",
+    "createdAt": 1793203119587,
+    "expiresAt": 1793635119587,
+    "mode": "analyze_trade",
+    "title": "Final Trade Analysis · Big Balder Brand ↔ Conquistadors",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Bijan Robinson",
+            "assetType": "player"
+          },
+          {
+            "name": "Isaiah Likely",
+            "assetType": "player"
+          }
+        ]
+      },
+      "personalContext": "I think Likely had a great first 7 weeks but now Jj McCarthy is his qb and I don’t trust him or know how it’ll work for likely. I also think Saquon will be healthy for conquistadors playoff and championship push"
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (Retool) proposes sending Trey McBride and Saquon Barkley to the Conquistadors (Win Championship) in exchange for Bijan Robinson and Isaiah Likely. Factoring in user context—specifically valid concerns regarding Isaiah Likely's target uncertainty with J.J. McCarthy at quarterback for the Giants, and high confidence that Saquon Barkley will be healthy and elite for the Conquistadors' title push—solidifies the logic for BBB to push for this transaction. However, because the Conquistadors are the league's Champion Favorite, parting with Bijan Robinson still requires them to be compensated for any starting-lineup downgrade. BBB’s confidence in Saquon's health aligns with the Conquistadors' win-now objective, making the submitted deal much closer to acceptable if the Conquistadors view Saquon as a stable championship anchor. Market Reality sets acceptance probability at 42% (Unlikely as submitted), but with targeted revisions, it remains an achievable blockbuster.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 93.4,
+              "davi": 92.7,
+              "publicMarket": 88,
+              "leagueMarket": 93.4
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 62.9,
+              "davi": 85,
+              "publicMarket": 75,
+              "leagueMarket": 62.9
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Bijan Robinson",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 93.6,
+              "davi": 97,
+              "publicMarket": 98,
+              "leagueMarket": 93.6
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 26,
+              "cavi": 80.4,
+              "davi": 85.1,
+              "publicMarket": 68,
+              "leagueMarket": 80.4
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C+",
+            "otherGrade": "C",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The submitted construction heavily favors Big Balder Brand's long-term retooling goals by securing 24-year-old elite cornerstone Bijan Robinson. While user concerns regarding Isaiah Likely's QBs (J.J. McCarthy) slightly discount Likely's long-term stability, upgrading to Bijan remains an elite tier-jump. Conquistadors acquire a stellar tight end in Trey McBride and maintain a high-end running back option in Saquon Barkley, whose expected health for the championship push appeals directly to their win-now manager."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "By including a future 2nd-round pick sweetener from Big Balder Brand, the package bridges the positional value gap and gives the Champion Favorite Conquistadors sufficient secondary capital to offset moving an untradeable cornerstone like Bijan."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 15,
+              "summary": "Secures an elite 24-year-old centerpiece RB while capitalizing on Saquon's win-now value."
+            },
+            "championshipOutlook": {
+              "score": 35,
+              "summary": "Bijan Robinson immediately enters the active RB1 slot, raising weekly scoring upside."
+            },
+            "dynastyOutlook": {
+              "score": 55,
+              "summary": "Major age and value consolidation upgrade aligned with BBB's retool strategy."
+            },
+            "lineupQuality": {
+              "score": 30,
+              "summary": "Elite RB upgrade; mitigates TE downgrade concerns by acquiring McBride's former value."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Shifts active depth pieces into flexible supplementary roles."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Consolidates assets into a top-tier dynasty cornerstone."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -5,
+              "summary": "Yields an elite dynasty cornerstone, but secures an elite TE upgrade and a healthy Saquon for the championship run."
+            },
+            "championshipOutlook": {
+              "score": -35,
+              "summary": "Absorbs a minor starting C-AVI drop at RB, though mitigated by Saquon's projected health."
+            },
+            "dynastyOutlook": {
+              "score": -25,
+              "summary": "Loses the consensus dynasty RB1 for an aging back, offset by gaining elite TE production."
+            },
+            "lineupQuality": {
+              "score": -20,
+              "summary": "Downgrades RB1 while significantly boosting TE startability with Trey McBride."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Maintains robust RB depth behind Saquon with Breece Hall and Jonathan Taylor."
+            },
+            "flexibilityLiquidity": {
+              "score": 5,
+              "summary": "Acquires draft capital sweetener in the recommended package to maintain portfolio liquidity."
+            }
+          },
+          "explanation": "Incorporating user context—specifically that Saquon Barkley's health will hold up for the Conquistadors' title push—lessens the perceived risk for the opposing manager, while BBB's skepticism of Isaiah Likely's QB situation makes acquiring Bijan a high-priority pivot."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand's active 8-player offensive lineup score rises from 576.5 to 594.2 C-AVI (+17.7). Bijan Robinson (93.6 C-AVI) replaces Bhayshul Tuten at RB1, Tuten and Jeremiyah Love move into RB2/FLEX, and Isaiah Likely (80.4 C-AVI) replaces McBride at TE.",
+          "sideADynastyImpact": "D-AVI score increases from 177.7 to 182.1. Acquiring 24-year-old Bijan Robinson (97.0 D-AVI) removes age risk at RB, fulfilling BBB's Retool trajectory with an S-tier cornerstone asset.",
+          "sideARosterImpact": "Strengthens starting RB depth, creates a young dual-threat tandem at RB, and maintains a top-10 fantasy TE in Isaiah Likely.",
+          "sideBChampionshipImpact": "Conquistadors' active 8-player offensive lineup score falls from 686.8 to 669.1 C-AVI (-17.7). Upgrading TE from Likely (80.4 C-AVI) to McBride (93.4 C-AVI) (+13.0) is outweighed by the drop from Bijan (93.6 C-AVI) to Saquon/Breece Hall in the starting lineup (-30.7).",
+          "sideBDynastyImpact": "D-AVI score falls from 182.1 to 177.7. Conquistadors lose their top long-term dynasty cornerstone in 24-year-old Bijan Robinson and acquire 29-year-old Saquon Barkley.",
+          "sideBRosterImpact": "Leaves Conquistadors with Jonathan Taylor and Breece Hall as primary RBs while securing an elite TE slot with Trey McBride.",
+          "valueAssessment": "On raw index totals, Side B (174.0 C-AVI / 182.1 D-AVI) holds a slight edge over Side A (156.3 C-AVI / 177.7 D-AVI). However, in actual 16-team starting lineup utility, Big Balder Brand captures all the functional gain while Conquistadors take a net hit."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus heavily favors the Bijan Robinson side. Bijan is universally rated as a top-3 overall dynasty asset and the consensus dynasty RB1. Trey McBride is valued as an elite TE1, but Saquon Barkley's age (29) and recent minor injury scares lower his dynasty trade market relative to Bijan.",
+          "aviVsMarket": "AVI rates Trey McBride (93.4 C-AVI / 92.7 D-AVI) higher than public redraft/dynasty consensus due to 16-team full PPR positional scarcity. Public consensus rates Bijan Robinson (98 market value) as virtually untouchable for aging packages.",
+          "relevantContext": [
+            "Trey McBride is the focal point of the Cardinals' passing attack following the Marvin Harrison Jr. trade, commanding high-volume target shares.",
+            "Saquon Barkley exited Week 7 briefly with back/hamstring tightness; while cleared for Week 8, his age 29 profile increases volatility for a championship contender.",
+            "Bijan Robinson is coming off a massive 2025 campaign (2,298 scrimmage yards) and remains the centerpiece of Atlanta's offense under Michael Penix Jr.",
+            "Isaiah Likely is operating as the Giants' primary TE under John Harbaugh, though recent QB changes to J.J. McCarthy introduce target variance."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors are the league's Champion Favorite and require immediate production; trusting a healthy Saquon Barkley for the playoffs makes moving Bijan more palatable if paired with elite tight end production and draft capital.",
+          "packageFit": "Supplies elite positional upgrading at tight end and a productive veteran running back.",
+          "lineupReplacement": "Managed internally via Jonathan Taylor and Breece Hall supporting Saquon.",
+          "competitiveWindowFit": "Meets win-now requirements if Saquon remains healthy as projected.",
+          "positionalScarcity": "Elite tight end scoring in 16-team formats heavily buoys Trey McBride's side of the ledger."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 15,
+            "packageMatch": 12,
+            "lineupReplacement": 10,
+            "competitiveWindow": 7
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 52,
+          "classification": "Stretch",
+          "explanation": "While Bijan Robinson is not actively shopped, the Conquistadors' championship window and user confidence in Saquon's health raise the viability of this deal above baseline when sweetener picks are included."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "User context regarding Isaiah Likely's QB concerns and Saquon Barkley's expected championship health makes acquiring Bijan Robinson an optimal target for Big Balder Brand's retool. However, to induce the Champion Favorite Conquistadors to part with Bijan, BBB must include a draft pick sweetener (such as a 2028 2nd-round pick) to finalize the agreement.",
+          "confidence": "Medium"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 93.4,
+              "davi": 92.7,
+              "publicMarket": 88,
+              "leagueMarket": 93.4
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 62.9,
+              "davi": 85,
+              "publicMarket": 75,
+              "leagueMarket": 62.9
+            },
+            {
+              "name": "2028 Round 2 Pick",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Bijan Robinson",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 93.6,
+              "davi": 97,
+              "publicMarket": 98,
+              "leagueMarket": 93.6
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 26,
+              "cavi": 80.4,
+              "davi": 85.1,
+              "publicMarket": 68,
+              "leagueMarket": 80.4
+            }
+          ],
+          "whyUserShouldDoIt": "Achieves BBB's retool goal by securing a 24-year-old generational RB while bypassing uncertainty surrounding Isaiah Likely's long-term target share.",
+          "whyOpponentMightAccept": "Provides the defending contender with elite tight-end production in Trey McBride and a healthy Saquon Barkley primed for the championship push, backed by future draft capital."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 93.4,
+              "davi": 92.7,
+              "publicMarket": 88,
+              "leagueMarket": 93.4
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 29,
+              "cavi": 62.9,
+              "davi": 85,
+              "publicMarket": 75,
+              "leagueMarket": 62.9
+            },
+            {
+              "name": "Chris Godwin Jr.",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 43.4,
+              "davi": 74.1,
+              "publicMarket": 55,
+              "leagueMarket": 43.4
+            }
+          ],
+          "receive": [
+            {
+              "name": "Bijan Robinson",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 93.6,
+              "davi": 97,
+              "publicMarket": 98,
+              "leagueMarket": 93.6
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 26,
+              "cavi": 80.4,
+              "davi": 85.1,
+              "publicMarket": 68,
+              "leagueMarket": 80.4
+            }
+          ],
+          "rationale": "If the Conquistadors prefer immediate roster depth over draft picks to secure their title defense, adding Chris Godwin Jr. provides valuable wide receiver production."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Considered user concerns regarding Isaiah Likely's target volatility with J.J. McCarthy at quarterback, alongside strong confidence in Saquon Barkley's health for the Conquistadors' championship push. This context reinforces BBB's motivation to acquire Bijan Robinson while ensuring the trade package accounts for the opponent's win-now valuation of Saquon."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Isaiah Likely news 2026 fantasy football",
+          "Bijan Robinson news 2026 fantasy football",
+          "Trey McBride news 2026 fantasy football",
+          "Saquon Barkley news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2tsSbzBhBEgGKA30plndbkogw3F4EPWrMhKu-OYhf7rLWhdoY8jDnIhj-LsiWO7htODeGI44o1Kpe0hpsHer2f88OkzFy2nJ2oWhJg2iQXr74lgaO0JN_Pf_AE46a-xKMWEuLHR2qaFpe58SiwsuzG2US3_D42ql-sQK7TBCmbHabrbPM1sL707NPfw==",
+            "title": "clutchpoints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbrrBODk7Y4epa09vPeAtNxAFn1pgOccDbfz210oRc_Igy__UUEyuDo-k0sRhIb6J-vtrfLcUQdccF8oWrQM9QWhpIhcRf2NkrOX-SGUfWPwMZjkl1clt7u_WWMYMhp4bRQcXTsqzxuYST1DIpmCLoD4Qj1w==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP7GlHpRLS0ZZAvo-VpNnBGd8OeIIZlAcpNgtHyMyv-6oCDr0dsGc4-8LG5PzVw8CA3vcMyeUGLDz4gcUz_1Wij1qNP5SjhtBsndAxqcGmUgQtJChYKmfHiS1Qs9Os6lCMPnr8wqmho6UzsIhFzqhUSqbOggLKnBz2yOYpD0MZYgInuzvvg-sgQkbS7YeCdCOh44v-1Crs1XD6cck1uS26vwwQ2mzR6y3PpRXK5zR9kr2N",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM35j_KVXwoSfeDjLDIIL6ao6Iap873lNREr3DGx8BUcxQO8Mk6lkSQ48QQzBDQxfHE6Te5F3C8Q6_Hjw2wNpikV121Xhrh6YeFzc6ldtJcR_E7EzqigmlAlbH3QtVazRh8As8KcZEcvaOUGOnk9-ko2uA4WjfMTXq3MaMGC5cvYxcSq-5LbIyXdEuuMq3D6Y7ONwsnnk7",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwQPbwJxMKAes72t_DXT19536tcX-hYBEh5AOERZz90TO7_1V1htg8zBtPwgZmG8K8Kx4C4cXNxSmy_597hFnoDTvSLh_4zp1dRj62Z7vooie9jA0nXDVH5DOsmbJZ1ZbNZJFDiz0ZzvPSxIS72FNlOExhLZ2dHXmAibtpB8WS530aQNUPzauEZ-L3VwY3TAryes110wRhBwIMn6aLHZmvv9AA",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR_CResWWvEceM6NdOXznzs1Ku0bemDPpBV-NAyF8RQSGjLnM4sb2XCjPbYrYQjt89FIC00nsoJGOyvLpRqEItMtXL4o8kxt9BMiCPRwqrSGKNAk-JpTbuzvfGjem_TCSbc1aEB_iHPTHgDA1EJE8=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtEQVT_Bk9auCKAqxc3KnS_BA53M45if3isKqMJXcHYQiVctesj9IOwMSGb8FQ4obmarUsX4A2-7eG9vniIZr5Kb-fjCLKSE6YvFm4FNqY20ooEhj3sCNxG85q6f-AxfDRLlpG_wFmK9MwK3SfSQ2BO7ZAkfeeeyitnDlswTDXhGh2e1uMsAUeNhk=",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd2LU2DHG2ClIk8Aec0mQJPUzVwhDPsSNQIBfay1K49ugvRVcvYzkB206Ih9Q0oJtTOcGkJcSABz0ZMcODHydgo4_hzDTMI_sUN3b4tq_4inI9aCMfrqFiq6yby8ZGwDKoydks7_gwe5tuS7d3DyS_mrSO4rT75v_YvXwrZ-CkVkQm2e19waXvEn7eFU5a9AXtAtGb7ODDzSucDQEF",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhlYo92VzQYPyGUEDlQivWU7Qlq_aPYpObzEab5J2k17n2WcFfO72AEkFyC8RBWboGjXLte9y5xWb0O3Ehlthv6GyDZxNSWimWCosoYNgR1nQV7ru94rvu1CQEtFEIDoOr_Ln3psyKey4bHynRU2Hbz30i6ORAr6rvne6IWuOjDMK00z3H_g0GZslwoR3AHS7hVq-l2lzSFuBedir5zQ==",
+            "title": "draftkings.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLIqqiOLqSRVKmxCIQ3eHsmoykkcLc7svuyyXuz7oifkCD-ikd55gSrOk_hvvsuP16sAhYSWOnk_ub5fr6re54K5-NyWr5blKobm7NRgGCMJ81mY-U11XItm-Mp0wKLo5sZQC31Du4",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE70DpVh1aBzlTQvyScAeGVaxoZC5pR0ar_PS4NM0cqI2rcRcSWAW_VCMbLChLQzKno_F6SveTfu4Z-dQTFH39MNMg8a2GJRHoOA78YoCucw8l9OUfidLMoyNgpWm8ngnH5YMnMxIKGA7JlvNwDDn8IfEZ4Ho37unZ9dpJLdUq0O7EoJ8cYtGw_nJo-Pgv3z6x77RfEr0sa8Q==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMsGdujnW7T-9Cr_UHTus7g918I0JmnQtGm1XgGDGBSCrcj_RiHuWfu_zwMfIuZ957IFwrYHx6M1xP7GOVcHHY5YZS0GGwe1CE4QVUwWdObedNIgBA_7SdTssFKR3XnIuAawHvTIWfxddBUaSSjhtv-PuxvINnT-dBK0Bmo_qnwDKoKR6cTxQsi76gfa4QChk5XzI03WSOfFY=",
+            "title": "thefantasyfootballers.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "7e63736bc0a5e753acfa8c79480c428a4f21b9a1",
+        "aviCoreCommittedAt": "2026-10-28T15:51:38Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 84463,
+        "groundedMarketChars": 4203,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mvsaq5r0-78df41e9",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "7e63736bc0a5e753acfa8c79480c428a4f21b9a1"
+      }
+    }
+  },
+  {
     "id": "mvsaq5r0-78df41e9",
     "createdAt": 1793203003666,
     "expiresAt": 1793635003666,
