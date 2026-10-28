@@ -17,9 +17,233 @@
       "maxResults": 3
     },
     "createdAt": 1793218008509,
-    "updatedAt": 1793218010077,
+    "updatedAt": 1793218072797,
     "expiresAt": 1793650008509,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand possesses the undisputed TE1 dynasty asset in Trey McBride (C-AVI: 93.4, D-AVI: 92.7). By leveraging this elite positional luxury, the franchise can target rival contenders in need of tight end firepower to secure a true WR1 alpha (Jaxon Smith-Njigba, Amon-Ra St. Brown, or Drake London), directly accelerating its own Playoff Push and championship odds.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Playoff Push",
+          "strengths": [
+            "Elite tight end anchor with Trey McBride (C-AVI 93.4, D-AVI 92.7)",
+            "High-end dual-threat quarterback production in Jayden Daniels (C-AVI 75.7)",
+            "Deep starting running back rotation featuring Saquon Barkley, Jeremiyah Love, and Bhayshul Tuten"
+          ],
+          "priorityNeeds": [
+            "Acquire a tier-one alpha WR1 to pair alongside Nico Collins and Rashee Rice",
+            "Maximize weekly lineup ceiling across WR and FLEX slots for a championship run"
+          ],
+          "tradeableSurplus": [
+            "Elite tight end value surplus with Trey McBride"
+          ],
+          "constraintsApplied": [
+            "Mandatory two-organization goal validation applied across all prospective trading partners",
+            "Only league-relative fantasy starting-caliber players included in proposed deals",
+            "Ownership verified against authoritative Sleeper team exports"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding or retooling franchises unable to justify paying a premium win-now price for a peak TE asset",
+            "Teams lacking starting WR surplus required to make a near-peer cornerstone trade work",
+            "Franchises with conflicting competitive windows that fail mandatory seller organizational goal criteria"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Mile High Royal Lions",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Drake London",
+                "assetType": "player",
+                "owner": "Mile High Royal Lions",
+                "position": "WR",
+                "age": 25,
+                "cavi": 90.1,
+                "davi": 96.4,
+                "publicMarket": 93,
+                "leagueMarket": 90.1
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Trey McBride",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "TE",
+                "age": 26,
+                "cavi": 93.4,
+                "davi": 92.7,
+                "publicMarket": 93,
+                "leagueMarket": 93.4
+              }
+            ],
+            "scenarioType": "Near-Peer Elite Swap",
+            "strategicGoal": "Execute a direct near-peer asset trade to land 25-year-old WR Drake London.",
+            "scoring": {
+              "availability": 18,
+              "opposingGmMotivation": 22,
+              "packageMatch": 18,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 78,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Drake London offers an elite 25-year-old wide receiver profile backed by heavy target share in Atlanta, perfectly aligning with Big Balder Brand's need for starting wide receiver strength.",
+            "whyOpponentMightAccept": "Mile High Royal Lions are making a Playoff Push. Their starting TE Travis Kelce is 37 years old; acquiring McBride (age 26) provides an immediate elite TE upgrade and long-term positional security while Garrett Wilson and Davante Adams anchor their wide receiver group.",
+            "championshipImpact": "Adds a dominant target vacuum at WR with high touchdown potential.",
+            "dynastyImpact": "Gains a top-tier 25-year-old wide receiver paired long-term with Michael Penix Jr.",
+            "rosterImpact": "Trades positional depth at TE to complete a formidable starting WR duo alongside Nico Collins.",
+            "publicMarketContext": "London averages over 9 targets per game in Atlanta. McBride is the second-fastest TE to reach 400 career receptions in NFL history.",
+            "risks": [
+              "Direct 1-for-1 player trade depends heavily on opponent's evaluation of tight end vs wide receiver value"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Initiate discussions around a 1-for-1 player swap of Trey McBride for Drake London.",
+              "acceptableConcession": "Offer a 3rd-round pick draft swap if necessary to finalize.",
+              "walkAwayPoint": "Walk away if a 1st-round draft pick or key starter is demanded alongside McBride."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Chris Godwin Jr injury status 2026",
+          "Amon Ra St Brown news 2026",
+          "Jaxon Smith Njigba news 2026",
+          "Trey McBride news 2026",
+          "Drake London news 2026",
+          "Tyler Allgeier news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe3gP16fgu5BHkLKrRIk4ILLA_IyrTAG0wtpslN24K5PLjJ0Ip3iClq4VKsITbIHYzBCdML_qjsVv83tunz0xenqgIkAupyzAvltQkkWCA_mBEAqMezzIzAfG7HhlY4C9ZeeSFBqS_ZmQDMlV2N74FL9QfJ9bdEawYJ57Sm0n0p1ROVwP-aVgLZDQw5bCwxQNr7lBsx0Q=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXngNNIEB0gi9wsHBjEVngpab16jzF8Ez5y4agqWweTjOIJ6LIbmxjI9YcEAm_22wLEaSsgtwIupM2kWt0Yuu1gk1A0H7hQe94mWbjbyFSQ1qVvWdUgzEdvEkJSwR2gzyi-gmOKOJhdpLjrOYVhbPVYyuiJyReLjtdVqBXNSlZrLZDixsAk5INHrEJDYwXzbP7L9K_4h1SMjS9hu070yPVTyZN3w6EryaG1UtHDJI=",
+            "title": "mynorthwest.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENhGyuhe5JyOAN1xqnCAVjHm93Ap5ZwOTqUCD9AxpeeXDJfZUbXbb86O0raO31941ECR-STy_qI6JI6gQQAzLBWOq9wTR50ZvPrR1c7AkR-xJ7dW66uwMvi31CSQUU5vj8c8udOhcph6oDTk00npSYIcXk_X1n_wTUfwe_s3YYw803BTRPaY-wGkgLjb7IT9r70qlvtxnAV0wPcNdtGFPg30qYOfWNYTnE",
+            "title": "arizonasports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLij0JbTsQZsxNGqHYFtxulz7R8k8hZt_I3pMoFEUO8JtUVcm7a4cwpKNdBr3VCqFPVdHI0nWq7M1EYzF_dVpPN7CwlTzSCWNpmGO_A0REtMr_XNLJkCwNsbgB1_JxJLFmCosBZoLrX6zeFfJymP7IATnwSCWDpNEGZSSaBZtDCb2yvCKAAywvBzrquw8UsGgHu-lo",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4TDJ_JxD91uBIQzuhdey0gHrligPjCQef3V8B6Oq7Et4p48fBNlYFKXNhoFp6l0jEpRPXVa_8AuCtGumh74rqtr-26RaHl8gzidMLMQd9EkxuNlrvRcYb6GhaFRTB6PclocgbYpyHFq93tTOHxZr3COslBoYQz-ZEeyzs4P_ws-MWLe5pP2OPmM2mgb0YW_020HaF1j2RAqsc82Vc-6oq",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn5nOz5Vy91wuNy8CPd7B97ksiR7CrEbEnLfQhUMo29DC_kS5_2SoQVfZOKi2RxelF4S673okQ-967kI1OuxlXPjjL5WYlUuqmdXdjz_O6139qzoMTlSKdrDxW5C0vE1Zm_CdUFEfqE1vOyIiXJ9Copwxa6KbZ36idApQy2GuZtBY_Xs1mjZe4igZY2bQhXx3nE2eds7JaE6c=",
+            "title": "thepewterplank.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDc56VFvkMBSPIOo-D72n3WdIAv9-4gjuxFiNBOKjlwurp-TMFQBXG55D8RS2AvOnBCOnYXeWyG8HWMZ-IpNQ0pu01dONfEAGRkHTDtaTLPRL6AKnvl4_MfFW7qDm6sHFfF5AXTdqxBXtVuq2Np0stVjZDcAJGFbA0vkUnkBbHcpCWv13y1lp6zCwn5OC3j-Xnl1kAFqVXAiaNFUkb5yET0VF_SCcRPQhQj8Up3JZnBA==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTL_RFc1zzgd7ss5akePd29JdnxqJIW9TdFaXJhNN33JX9tWzlGxsQyxwQo6j1gZd8GeG8siUiSzqEq8-26ymz5Vx5JizQF7Lwak-qb6GWnjGt6LB-sV0sxEsvdHI92sTSLKXQEZTerraoeWxG9NfFIXIQbyckda7lfAWwrgv9m-dj4IWHvyCwGWYiAA7TzF_JcfH6Hvopvb_RkQ==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1reROlwXjVKjtmko1oNyvWOm6Q3g3o8_q3__pdx9_v_NzGKx2Z9TIoUCUAgeBnLQzJwcl9Uv7pGgibJXJTH7GaLMe2FAOfh4Gt1ae1xb55VI3Y0Pjntj9LCr1a94uKRlTtMaguTXG2hev",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ1b0-a9hsSVd-UbG51H8MXO28QG5v2yDRHoj_nTzFLEbb_VExjeJMxXB5ZfZk_8DthqSAjctPyrrfhaenXzGppuSbbeAZJLNnBZi4LNrNxdqFZAxNnnOeqZgC9fC-CvSuU65uxSUTeMyPeGjdjM8CLIRV",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK3Hu_33PJAJB6LfLDgHJUITC5GEwTohSLhfHG4FrBlfrY_-Xy5NIK8x6tnUHmnKHYfcn3t75TEv2fjfBlnL6bYIaEseaZtZjWn8sF0f8Fjol2xsf5iF1kComJr3xQ_g1o1nbjtjXwF5xQi-soQwe4Y68fZscEQkPWQKrgfydg01_l1IcQ9mw0gyBmh031zwqPNV0qp9i5baPnxse-",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-YIPTXs_XCk5K8VLzSLqQTcWkkSOqZXD4F3JbSm2oMzbJjxylXcsToxKTl9TelAvey44mTdwOznsKwub1ikwqU1GXP14MDhiKjzMop-bqaK8zUzcNIbS5XHO8MPFC44XGrtNwjzfOEeAyQolTGFvmk3IWt6DO0iOcD_6W_0bjF3aq4jfum-MT6B0JsApT_uCYtc0=",
+            "title": "thefantasyfootballers.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Jaxon Smith-Njigba",
+          "Trey McBride",
+          "Amon-Ra St. Brown",
+          "Chris Godwin Jr.",
+          "Drake London",
+          "Tyler Allgeier"
+        ],
+        "aviCoreCommitSha": "3c804509df8588aced6d94413105b8757336e2c4",
+        "aviCoreCommittedAt": "2026-10-28T18:21:45Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 542172,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 251,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mvsjg4pf-9b8e4e7e",
