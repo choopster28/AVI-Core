@@ -419,10 +419,10 @@ def apply_in_season_transition() -> dict[str, Any]:
     manifest["methodology_status"] = "active_2026_3_in_season"
     manifest["methodology_version"] = "2026.3"
     manifest["c_avi_weights"] = {
-        "player_points": 0.25,
-        "projections": 0.30,
+        "player_points": 0.40,
+        "projections": 0.25,
         "league_context": 0.10,
-        "public_market": 0.25,
+        "public_market": 0.15,
         "elite_upside": 0.10,
     }
     manifest["production_component_policy"] = {
