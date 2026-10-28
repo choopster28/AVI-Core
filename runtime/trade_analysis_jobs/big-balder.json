@@ -1,5 +1,29 @@
 [
   {
+    "id": "mvs71nod-b4a4b14d",
+    "phase": "final",
+    "mode": "shop_assets",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Big Balder Brand",
+      "goal": "Rebuild",
+      "targetTeam": "Conquistadors",
+      "assetsToShop": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3,
+      "personalContext": "Trey McBride gives him a weekly positional advantage on a championship run. Sending something else alongside McBride to have him surrender a high end asset is realistic. Multi asset trade is on the table and he wants McBride"
+    },
+    "createdAt": 1793196750294,
+    "updatedAt": 1793196750294,
+    "expiresAt": 1793628750294,
+    "status": "queued"
+  },
+  {
     "id": "mvs6yxcs-b37bfe21",
     "phase": "initial",
     "mode": "shop_assets",
