@@ -1,5 +1,43 @@
 [
   {
+    "id": "mvs7phx5-b0d7591e",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Balance Roster",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Bhayshul Tuten",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jahmyr Gibbs",
+            "assetType": "player"
+          },
+          {
+            "name": "Dalton Schultz",
+            "assetType": "player"
+          }
+        ]
+      }
+    },
+    "createdAt": 1793197862393,
+    "updatedAt": 1793197862393,
+    "expiresAt": 1793629862393,
+    "status": "queued"
+  },
+  {
     "id": "mvs7dfh4-1071f70d",
     "phase": "final",
     "mode": "propose_trade",
