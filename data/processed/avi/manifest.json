@@ -21,8 +21,7 @@
     "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     "completed_through_week": 7,
     "completion_sources": [
-      "Sleeper NFL state",
-      "ESPN NFL scoreboard"
+      "previous verified manifest (offline)"
     ],
     "current_week_schedule_complete": null,
     "fantasypros_max_observed_week": 7,
