@@ -18,8 +18,172 @@
       "maxResults": 3
     },
     "createdAt": 1793196622684,
-    "updatedAt": 1793196624183,
+    "updatedAt": 1793196678687,
     "expiresAt": 1793628622684,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Shopping Trey McBride (TE, C-AVI 94.8, D-AVI 92.9) to the Conquistadors fails current Market Reality standards. Big Balder Brand's strategic Rebuild mandate requires acquiring premium draft capital (1st/2nd round picks) or top-tier young talent in exchange for an S-tier dynasty cornerstone. However, authoritative league records confirm the Conquistadors have traded away all of their 2027, 2028, and 2029 1st, 2nd, and 3rd round draft picks. Furthermore, as a 'Win Championship' contender, the Conquistadors cannot yield core starters like Bijan Robinson, Jonathan Taylor, or Puka Nacua without jeopardizing their own title odds. Because no package between these two specific franchises can satisfy both organizational goals or achieve an Acceptance Probability threshold of 70%, no trade is recommended.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Rebuild",
+          "strengths": [
+            "Elite TE cornerstone in Trey McBride (C-AVI 94.8, D-AVI 92.9)",
+            "High-upside young QB anchor in Jayden Daniels (D-AVI 86.3)",
+            "Strong elite WR nucleus with Nico Collins (D-AVI 95.2) and Rashee Rice (D-AVI 87.8)"
+          ],
+          "priorityNeeds": [
+            "Premium 2027-2029 1st-round draft capital",
+            "Young, high-ceiling RB/WR prospects",
+            "Roster flexibility and liquidity"
+          ],
+          "tradeableSurplus": [
+            "Elite, highly marketable tight end value (Trey McBride)"
+          ],
+          "constraintsApplied": [
+            "Target team scope limited strictly to Conquistadors",
+            "User Goal: Rebuild (demands long-term appreciating value/picks)",
+            "Target Goal: Win Championship (cannot sacrifice immediate active starters)",
+            "Hard Injury Rule: Inactive players cannot fulfill immediate active starter/depth needs"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 1,
+          "managersEliminated": 1,
+          "eliminationReasons": []
+        },
+        "opportunities": [],
+        "noDealExplanation": {
+          "summary": "Market Reality veto: The Conquistadors do not possess the draft pick liquidity (0 picks in Rounds 1-3 through 2029) required to pay fair market value for an S-tier cornerstone like Trey McBride without gutting their own active championship roster.",
+          "primaryObstacles": [
+            "Complete draft capital deficit: Conquistadors hold zero 1st, 2nd, or 3rd round draft picks in 2027, 2028, or 2029.",
+            "Organizational Goal Conflict: Conquistadors' 'Win Championship' goal prevents them from trading active starting anchors (Bijan Robinson, Jonathan Taylor, Puka Nacua, George Pickens).",
+            "Existing Positional Depth: Conquistadors already field Isaiah Likely (C-AVI 81.2) and Harold Fannin Jr. (C-AVI 70.7) at TE, making a massive player-only overpay at tight end irrational for their championship push."
+          ],
+          "userConstraintImpact": "Directing shop_assets strictly toward the Conquistadors limits trade proposals to a team that is asset-constrained in draft pick capital. Because Big Balder Brand is executing a Rebuild, accepting veteran players without 1st-round draft capital in exchange for a 26-year-old TE1 (D-AVI 92.9) would severely undermine the user's rebuilding timeline.",
+          "closestPathToDeal": "To move Trey McBride for maximum rebuild value, expand the target scope league-wide to evaluate contending teams holding multiple 2027/2028 1st-round picks (such as Crimson Tide Pods or DMV Fantasy), or ask the Conquistadors to acquire a 2027/2028 1st-round pick from a third franchise prior to negotiating."
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Trey McBride news 2026",
+          "Breece Hall news 2026",
+          "Breece Hall dynasty value 2026",
+          "Trey McBride dynasty value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW3BI2_-k9bnAYpELrxMP1BQCs1rsb5yofYUoZc_rlQFmZ8HyyaJv-PRsTwRJt1DlZOLtjmXdfXquXtNOfGywI4GVFjtSzdBYueRUu0ZbbMcawfLVn3i8bxN7Dnq6DDawKmT6WCv5yq2NXbn91i9a2DEkeDthqVT6c1P4f1Q4HmRhF--MaTxLxQUiDzyQqpqdVh3ugmGukl1gvwly8LAyHALre0nwAFKDvkQ==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuzsStP8EzrhRhGOElkKOj2cQeNADj8IonQen5QE4GMGgNd0EpIqx8yWCGVzGctOWThpzvBkKPQW0PowAvsN5EZg8iet7QNvJlZKNcVeC-W-bJ3hNzsI_dwlg-D9L94GXW14HF12pIJDlKLq1hPydUwWugVd_WjXQ8qy_w-NNVMcmpt-rinp3fr5-bANsy4oHFWLdyHw==",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ6Ecj7-EGgLDMoKvWZpIWjkeCIEZypydZ_oE0SB58aaFVE1GC3XvSxRqFCF3rhxwvGXMlcqWFSOQMXKEb5B0awQATiaKVI3WJ4xwOrGSxyjjK_XtqG2CDGQWfi5uwOb1u5V6fz1X4ynJy17m0-pto",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK8SUbrJtNkz4V0xylaJHVoibjtR_3tEYyGmwx9NsilM5qSPpMhx3T4mP5ViILI-BfSp-BV2weIfo1Uk_FfcIlAK9f3nrO2NGa29DTgtVaBl2dDltwB_URX95PkfA5l485Uok-GwZBZ7YfAD7cYXjP_p9eJQ7YigGOyWr8wkdHIpN4vRnIjNLQPxFqcE2OzMaWrvw=",
+            "title": "jetsxfactor.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnRZAN_Uulyn969u0Hy6Eb996-yhMlpzEAQKHsA1K-hMNxQTJv3a7UE86iVY2SF6krsDu6zG3fLA4RTaOP4SApBJWfWVVFMQ2fgrU4BOlQAUlaDiwkKgfQtg5vIJuYhiPZFaM6qCW0jH_wgDqYRS0denCNTtbsWj9XImQj5DEZbW42aWjp98SuZ7Ql49HIp2JkqYvWlD1b4nWI7EKL6Q==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG30_bJLDanRy_JmFrMSp5_2O4XQwhHU77hN0v6L_9HcJTrVOtQZxiw79wKLTgXo-K9FefyCemPElUkAO4Fb6Wje4KWYORRHsUVSJikQkXfYihBADeFz1xVD-wT8fYbN3jHw9r-iTdDXdUK2ZI2aY8DaBz2z-p0AJZLOtmX9a10SX2PxnosNr-m",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv3FBiHdp8jn6QWKqTuXtiUOdrNoAN1hy9IJ1Ka-nEorDwjxCWFHvWfHunOlKC6DRX1QQVYYP6bg5X2wq9Fg4BAqy06GqG39VHqvOhdO3CRaLcZ2Jn4vaSG3xF9_DWvwqS2HGqzZm4wMpqqS3Rd38qX0p16Law6yMM9ARhc9ksmiRGiDjkvZejJDunUl6Pb_50KZT_6NcPHg==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLhObicUPKI2pJ_T7iUDOj2pU5_xQywvUVkvuPfcionDcIYR8EoZbALEzQ8lDuBuJPkxeu5hUpRh-fOkMlB9mu7ZEwJH8PKmSVFcLUH8FUUaAZEdGsKxvDWOXIHyW7u_g13ECefeUb",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDIaxM2nda5PPNCyHf8FHGvR-8BkcRJBjHdryAV5l6G6h12b4dEzoYH6nk3ERt0SI1ec1hCkEfda7Z6Tm8pZljVgiOIACHYTLUqgNT_a-dm4uuz80iprLgs5iUk5mAFIYZO-e3tFxVSu39FGPoePj0YI4v-pSbm_CJqiuqLpr8vBrRJqcwv9SUS9PkfAhWptKRrIwI",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfJBznog63d52R5bYQahm2T7g-IIACyGwJVG43HKGrY7i7aduEb2yyc-rx8iF3_3TXGw1GuoLXzXvHIkHF2vAtTMKBROyuYd-QhrkmsjyYTCaLyKNfzWD0BbnfKvcpr2-7ewr8_s4iFPq2iFW8y-cQJJjwZBo=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjUvhIy7UjM1m2nYmpFg3fpr_t48kJkZPbi8ceK_WRduFLk7yqZ0Xp-nRCwG3gqPlyPNsUlyufFHz3g3is9WWFuCkZHSOP3o1bFOZ9nvoaO41Z5IixLAJl70M7udTJpoN6b7owuOOkNslUapHv",
+            "title": "sportspyder.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdy3XAu0YjfBhUDP1qUTWcZHZTEjc1Ka49BDmsqIj8QtfhLGtURnvIbnvUQq0BG_Nv6qRp8Xvy389yJDU33Pi09Jh8z8wr0GdKJgZ15qrrK0sNuarFLST0tvZu9Hx9ive-L4kuknnb1u2AU2Q=",
+            "title": "fantasytradetarget.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiFtx-eT84uAV5OALwiWqoNo5iSzH5BXUhJhNRZFACvnkIInYAo1JijlPtMW4pXyoxZH7q5axfSiWw7HGzMLTB5gFjat4CAZn3lWJIsdCRtY27BoC236PkYVWMgsbJ9w578_lyr6m4Zxx8KuA_J4HLEzW5V7DRCFKm",
+            "title": "keeptradecut.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Breece Hall",
+          "Trey McBride"
+        ],
+        "aviCoreCommitSha": "ce56577dae56ae7ee1c521ef923b5e61e11bb032",
+        "aviCoreCommittedAt": "2026-10-28T11:51:20Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 542127,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 249,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   }
 ]
