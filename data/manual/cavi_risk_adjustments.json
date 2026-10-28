@@ -1,13 +1,5 @@
 {
   "version": 1,
   "description": "Manual championship-value risk adjustments for exceptional current-season risks not represented in FantasyPros projections/rankings. Adjustments are applied after base C-AVI calculation and before team/player reports are generated.",
-  "players": [
-    {
-      "avi_id": "AVI-00005850",
-      "player_name": "Josh Jacobs",
-      "c_avi_adjustment": -28.0,
-      "reason": "Current championship utility is materially reduced while Jacobs is on the NFL Commissioner's Exempt List and unavailable to practice or play, with no verified return date while the league review and pending legal matter remain unresolved. This adjustment prices football availability uncertainty and does not presume the outcome of the allegations.",
-      "review": "Reassess immediately when he is removed from the Commissioner's Exempt List, receives a defined suspension or return timeline, or his game availability materially changes."
-    }
-  ]
+  "players": []
 }
