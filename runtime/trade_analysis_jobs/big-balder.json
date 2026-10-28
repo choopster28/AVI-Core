@@ -1,5 +1,50 @@
 [
   {
+    "id": "mvso0q5s-29028f77",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Increase Championship Odds",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          },
+          {
+            "name": "DeVonta Smith",
+            "assetType": "player"
+          },
+          {
+            "name": "Tyler Warren",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": [],
+      "personalContext": "Choop has a chance at the playoffs by potentially going 7-7 or 8-6. I know he has a lot of injuries and is hesitant to add two more players fighting injuries to his roster given his situation, while giving up McBride. Also, choop doesn’t want two eagles on his team so that’s why he’s moving Saquon in this deal… the eagles offense is bottom 5, but smiths long term outlook outweighs saquons"
+    },
+    "createdAt": 1793225260348,
+    "updatedAt": 1793225260348,
+    "expiresAt": 1793657260348,
+    "status": "queued"
+  },
+  {
     "id": "mvsnt0ic-da2cac07",
     "phase": "initial",
     "mode": "analyze_trade",
