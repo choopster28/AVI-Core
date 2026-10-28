@@ -27,9 +27,412 @@
       ]
     },
     "createdAt": 1793196937443,
-    "updatedAt": 1793196939105,
+    "updatedAt": 1793197045849,
     "expiresAt": 1793628937443,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (Retool) targets elite RB Jonathan Taylor (C-AVI 93.0, D-AVI 94.7) and TE Isaiah Likely (C-AVI 81.2, D-AVI 85.2) from Champion Favorite Conquistadors. To pry Taylor away from a title favorite without compromising Conquistadors' championship pursuit, Big Balder Brand uses TE1 overall Trey McBride (C-AVI 94.8, D-AVI 92.9) as the centerpiece, paired with 21-year-old RB Jeremiyah Love (C-AVI 69.7, D-AVI 90.6) and a 2028 2nd-round pick. This proposal provides Big Balder Brand a premier RB1 anchor to pair with Nico Collins and Jayden Daniels, while supplying Conquistadors the elite tight end upgrade they lack plus long-term RB upside and draft liquidity. Market Reality scores this offer at 72% acceptance probability (Realistic).",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.9,
+              "publicMarket": 92,
+              "leagueMarket": 94.8
+            },
+            {
+              "name": "Jeremiyah Love",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 21,
+              "cavi": 69.7,
+              "davi": 90.6,
+              "publicMarket": 78,
+              "leagueMarket": 69.7
+            },
+            {
+              "name": "2028 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jonathan Taylor",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 27,
+              "cavi": 93,
+              "davi": 94.7,
+              "publicMarket": 90,
+              "leagueMarket": 93
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 26,
+              "cavi": 81.2,
+              "davi": 85.2,
+              "publicMarket": 78,
+              "leagueMarket": 81.2
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand surrenders TE1 overall Trey McBride, 21-year-old RB Jeremiyah Love, and a 2028 2nd-round pick to acquire Jonathan Taylor and Isaiah Likely. The deal delivers Big Balder Brand an elite RB1 anchor (+23.2 C-AVI upgrade over Saquon Barkley in the active RB slot) while maintaining high-end TE stability with Likely. Conquistadors secures the consensus TE1 overall in McBride (+13.6 C-AVI upgrade over Likely) and adds elite young RB asset Jeremiyah Love (90.6 D-AVI) to cushion the loss of Taylor."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "AVI endorses this proposed construction as an optimal retool trade. It satisfies Conquistadors' requirement for immediate starting lineup quality (McBride at TE) while transferring peak RB production (Taylor) to Big Balder Brand."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Substantial retooling upgrade acquiring an elite RB1 anchor in Jonathan Taylor and a proven TE starter in Isaiah Likely."
+            },
+            "championshipOutlook": {
+              "score": 40,
+              "summary": "Immediate starting lineup boost (+9.6 net C-AVI delta) by inserting Jonathan Taylor into the active RB1 slot."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Pairs 27-year-old Jonathan Taylor (94.7 D-AVI) with Nico Collins and Jayden Daniels for multi-year title contention."
+            },
+            "lineupQuality": {
+              "score": 50,
+              "summary": "Upgrades starting RB slot significantly (+23.2 C-AVI) while maintaining TE starter quality with Isaiah Likely."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Retains strong RB depth (Saquon Barkley, Omarion Hampton, Bhayshul Tuten) despite parting with rookie Jeremiyah Love."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Surrenders 2028 2nd round capital while locking down top-tier starting talent."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 25,
+              "summary": "Acquires TE1 overall Trey McBride, explosive 21-year-old RB Jeremiyah Love, and 2028 2nd round capital."
+            },
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "TE position upgrades to 94.8 C-AVI (McBride), while Breece Hall and Jeremiyah Love maintain championship RB/FLEX floor."
+            },
+            "dynastyOutlook": {
+              "score": 45,
+              "summary": "Secures elite young core with 26-year-old McBride (92.9 D-AVI) and 21-year-old Love (90.6 D-AVI)."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Upgrades TE slot to league-best tier, mitigating the loss of Jonathan Taylor with deep starting assets."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Adds versatile RB depth in Jeremiyah Love behind Bijan Robinson and Breece Hall."
+            },
+            "flexibilityLiquidity": {
+              "score": 35,
+              "summary": "Gains 2028 2nd round pick to bolster future asset portfolio."
+            }
+          },
+          "explanation": "Big Balder Brand improves immediate starting lineup strength and acquires a cornerstone RB1 in Jonathan Taylor without sacrificing long-term dynasty viability. Conquistadors transforms their TE position into the league's top option with Trey McBride while adding premium young talent (Jeremiyah Love) and draft liquidity."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand's starting lineup C-AVI increases from 566.9 to 576.5 (+9.6 net gain). Replacing Saquon Barkley (63.1 C-AVI) with Jonathan Taylor (93.0 C-AVI) creates a massive +29.9 C-AVI RB upgrade, easily absorbing the TE drop from Trey McBride (94.8 C-AVI) to Isaiah Likely (81.2 C-AVI, -13.6 delta).",
+          "sideADynastyImpact": "Big Balder Brand exchanges Trey McBride (92.9 D-AVI), Jeremiyah Love (90.6 D-AVI), and a 2028 2nd (48.5 D-AVI) for Jonathan Taylor (94.7 D-AVI) and Isaiah Likely (85.2 D-AVI). Total D-AVI sent is 232.0 versus 179.9 received, representing a slight long-term equity investment to solve their pressing RB ceiling.",
+          "sideARosterImpact": "Big Balder Brand converts TE depth into an elite RB centerpiece. The team retains a formidable RB room featuring Taylor, Saquon Barkley, Omarion Hampton, and Bhayshul Tuten alongside wideouts Nico Collins and Rashee Rice.",
+          "sideBChampionshipImpact": "Conquistadors surrenders Jonathan Taylor (93.0 C-AVI) and Isaiah Likely (81.2 C-AVI). In turn, Trey McBride (94.8 C-AVI) immediately locks into TE, while bench RB Breece Hall (72.9 C-AVI) or Jeremiyah Love (69.7 C-AVI) steps into RB2. Net starting lineup C-AVI shifts from 694.2 to 689.0 (-5.2 C-AVI), preserving their status as a Champion Favorite while securing the dominant TE asset in dynasty.",
+          "sideBDynastyImpact": "Conquistadors acquires the dynasty TE1 overall (McBride, 92.9 D-AVI), an elite 21-year-old RB asset in Jeremiyah Love (90.6 D-AVI), and a 2028 2nd round pick, effectively extending their championship window with younger core pieces.",
+          "sideBRosterImpact": "Conquistadors transitions from a Jonathan Taylor/Bijan Robinson RB tandem to a Bijan Robinson/Breece Hall/Jeremiyah Love trio while creating an unmatched positional advantage at TE with Trey McBride.",
+          "valueAssessment": "Total C-AVI exchanged: Big Balder Brand sends 164.5 C-AVI (McBride 94.8 + Love 69.7 + Pick 0.0) and receives 174.2 C-AVI (Taylor 93.0 + Likely 81.2), yielding a +9.7 net C-AVI gain for the user."
+        },
+        "publicMarketAnalysis": {
+          "summary": "In public dynasty markets (KeepTradeCut / FantasyPros), Trey McBride is valued as the top dynasty tight end, while Jonathan Taylor remains a top-5 dynasty RB. Isaiah Likely carries high TE1 upside following his offseason move to the Giants, though his volume is monitoring a QB transition to J.J. McCarthy. Jeremiyah Love is a fast-rising freshman RB prospect with high dynasty intrigue.",
+          "aviVsMarket": "AVI values Trey McBride at 94.8 C-AVI / 92.9 D-AVI, closely matching public market TE1 consensus. Jonathan Taylor's 93.0 C-AVI reflects his established elite production, while Isaiah Likely's 81.2 C-AVI accounts for his primary TE role in New York.",
+          "relevantContext": [
+            "Jonathan Taylor is actively producing at an elite level (8 TDs through 7 weeks) despite Indianapolis roster retooling.",
+            "Isaiah Likely signed a 3-year, $40M contract with the Giants in the 2026 offseason, establishing him as a primary TE option.",
+            "Trey McBride represents the premier dynasty TE asset under age 27."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors is a Champion Favorite seeking a title. Acquiring Trey McBride gives them the undisputed #1 tight end in fantasy football, solving their TE ceiling, while Jeremiyah Love and 2028 2nd capital replenish their roster after aggressive contender trades.",
+          "packageFit": "The package directly addresses Conquistadors' TE position with an elite tier-1 starter (McBride) while providing immediate RB replacement depth (Love) to pair with Bijan Robinson and Breece Hall.",
+          "lineupReplacement": "Conquistadors replaces Taylor at RB2 with Breece Hall (72.9 C-AVI) or Jeremiyah Love (69.7 C-AVI), while McBride (+13.6 C-AVI over Likely) elevates their TE starting slot.",
+          "competitiveWindowFit": "Conquistadors preserves elite starting lineup strength (689.0 C-AVI) while lowering their overall starter age profile, supporting both immediate title odds and multi-year contention.",
+          "positionalScarcity": "Tight end elite production (McBride, 94.8 C-AVI) is exceptionally scarce in a 16-team league starting 8 offensive slots."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 20,
+            "packageMatch": 17,
+            "lineupReplacement": 12,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 72,
+          "classification": "Realistic",
+          "explanation": "Jonathan Taylor and Isaiah Likely are unlisted on the trade block (availability score 15/30). However, offering the dynasty TE1 overall (Trey McBride) alongside high-upside rookie RB Jeremiyah Love and a 2028 2nd round pick provides Conquistadors a compelling strategic reason to negotiate, yielding a 72% acceptance probability."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This proposal successfully satisfies Big Balder Brand's retooling goal by securing an elite RB1 anchor in Jonathan Taylor (+23.2 active RB C-AVI upgrade) and a solid TE starter in Isaiah Likely. It offers Conquistadors enough elite immediate value (McBride) and long-term upside (Love + 2028 2nd) to command serious consideration from a championship contender.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.9,
+              "publicMarket": 92,
+              "leagueMarket": 94.8
+            },
+            {
+              "name": "Jeremiyah Love",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 21,
+              "cavi": 69.7,
+              "davi": 90.6,
+              "publicMarket": 78,
+              "leagueMarket": 69.7
+            },
+            {
+              "name": "2028 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jonathan Taylor",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 27,
+              "cavi": 93,
+              "davi": 94.7,
+              "publicMarket": 90,
+              "leagueMarket": 93
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 26,
+              "cavi": 81.2,
+              "davi": 85.2,
+              "publicMarket": 78,
+              "leagueMarket": 81.2
+            }
+          ],
+          "whyUserShouldDoIt": "Big Balder Brand fills its clear starting RB void with a top-tier RB1 in Jonathan Taylor, significantly boosting starting lineup output (+9.6 net C-AVI delta) while maintaining a strong TE option in Isaiah Likely.",
+          "whyOpponentMightAccept": "Conquistadors gains Trey McBride, the premier tight end in dynasty fantasy football, upgrading their starting TE position by +13.6 C-AVI while adding high-ceiling rookie RB Jeremiyah Love and future pick liquidity."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.9,
+              "publicMarket": 92,
+              "leagueMarket": 94.8
+            },
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 72,
+              "davi": 85.1,
+              "publicMarket": 75,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2028 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jonathan Taylor",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 27,
+              "cavi": 93,
+              "davi": 94.7,
+              "publicMarket": 90,
+              "leagueMarket": 93
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 26,
+              "cavi": 81.2,
+              "davi": 85.2,
+              "publicMarket": 78,
+              "leagueMarket": 81.2
+            }
+          ],
+          "rationale": "If Big Balder Brand prefers to keep 21-year-old Jeremiyah Love on their retooling roster, substituting Bhayshul Tuten (72.0 C-AVI) gives Conquistadors a higher current-year C-AVI starter at RB while maintaining package fairness."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jonathan Taylor news 2026 NFL",
+          "Isaiah Likely news 2026 NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkhed1gsvU4Wzfx5obMibfZU8mLKGWS5U8DOJvwlwGr9s4LW_v63Yxx3X1HdjwY8Yv7rsm-FEheA7V8rrq3PSKtaeE5I8QrBMB5F2JlnQAHp9EKrQeOp6gxksRvJns6kxDlQQzecd11SeU31bWg553Ptpum0dZBAF0luUTJuwhmaeZUQl6yYc5_nQTzuRnuaFtsImj9DEcCJAzFtlrzg==",
+            "title": "bolavip.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPwwYaf8ptzsvgo46Uhegt7oTg4kynBWDjMVrx5-P937XomWPPsiC4a-IH9hLnudl1uhNvjZzWqxmU_rW9wJQ9o517oPsB9NMcWpFK_EgMI6T0gI-sHRMiUt1y80Dq2jna3WPkB3h3ZebnU7ldir1y-DdcSY4LG-RcndLsY_myhV90D7cC8gqm3j87sZPQr0kgwQ==",
+            "title": "nfltraderumors.co"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQojgYouH28bTekFFq1Mq6LIeQpq-vLG_Ezx-aTcFAetPKp4mbZc42t6vjTgszz6Ja4K9T2AFi-LOirkan7kTOPB-3YHRA93u_RWy9Wk3ewVwIMcvPo7qGnuVKQM8H1c1fyzN7Im4z3DERNFkp2UX5JpMDQHJyok6uxRyhH4NkpFRfjxfNkRqc2_KYJXaUrg4ehAu34dAPNEW-EKZOAh_aoxcurVzbXSuJI40u2TlQAu3skZi1L7I7G4ZFuiEFJLVNFpSR888P2D0=",
+            "title": "as.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx2VYuKj3LaoIzCGlXc1nz56DLqsPUcjCh2tyEjUhFBbwPKR4IqUtGgGGmSpKpM0GofSkG1jUg3N64RIEgKT-bvrx8pOiIcolwiSwkN1pPcNGiNJdszYhzswlZCj7MViMDZd1Rh-6zF4T91kU0EHm6qT-wjYcEShE4wEt5taVX3qzMmKMOMmWQjiha0PkzihwJUHw_w9pxM_guoMOQWQ==",
+            "title": "lindyssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK1T_TdY_paawtRM_9Zuxn4lfDvLcnLJd-OitZ45iRgaTv0aKerH0R3XylvLIj5NnpKx8XuvrhkIA806WkGn2iF9ttYlk1PVjeLANvNJnfEJtb9pSzzWBQ7asNfobXz1v_U37DuZ7Cyt6ESyL-jfp37Q1i3Ggw19337oS4DLOn3QF0456zUAuyX9ihEzvIBDgH0XlkJlQuFSeJwWxXFz8Y6GQ=",
+            "title": "zonecoverage.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo55wE6xt2_vXUKF-N0u3xn-nvALtFs0dE89UOKaMmzncpl7dpAYmgagYxNNns0gsFmLZobbqsBJxoU6GZszQobVHHtZvVaAToHebYMwqU3FeaCbTLTw8LiSSdNEV5KDy4dhCtIJb3Ktyk0hvNf0mIFqHWTFT_MOS7F9r7YRiTPymZLAulhp_Is4Q_k50=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiFtb0e_79FGTgHUru5Tsqpp0Nc86f-9hdAaMWxxePdj9U9x_cxtz1GPQ1WTTfjkDp24asfhlefJduvBH6WnMDGB90343xZ9lNsNY3E3eSZ3DkzpahP6JGTqqvG4jtjtrX4KeLQod0t2uQcLI_-k8=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj08ZzyLgfSxnWDm7u_wRGZ-pAYW3OGzLK4EBmugkWV-ecr-bQflZgibWBwvs7TFYc-E6rTCEOh7nNOBjDGZPRwy_tn4kbDZs5STLMUJiwqiTrGCyCD-xpEOK5e5JSXnv-03pdRkuxoKMwHo3JgSPXzmc9n6-3djtOZOFNSGewGj7u",
+            "title": "giants.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGliVR4EYxwwQmMw2WDDL_8hYI-6RVv28xtqiBA0Uci9SK2Swv3ddSi1KI1L1rFRP4759k9Tm4uHiR0eNLIXFvbHeYwWzBd7F3b9U25e4hLNS87NEEAj5YeVyVZCnElsXHv1Rudo0EyRVCjuJgDgq5c5ccQLWqd",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzmPd8VBYXaTH5vObYHJkcy4FW1OmXINAjM7AQvhCmXhqzYNlMFR_4WEC0BN1IP7zq_WVNhBCJLQv_PP9cEba1KzaVlFJJz6iVz2TkesW5QrzEhG-t9AgAAW-luNF7kjQkKOTF0Ey0LUdC2gbG7E_zlx_Qrvk9Jy05ushGnvMoDFYy4IZKyCAgkYEIncLMem6jAuev_CvNzt4=",
+            "title": "nbcsports.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "b00b714347f95cbc639e8d14529100a9fefa50b9",
+        "aviCoreCommittedAt": "2026-10-28T14:12:09Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 83373,
+        "groundedMarketChars": 4294,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mvs71nod-b4a4b14d",
