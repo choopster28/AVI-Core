@@ -1,5 +1,34 @@
 [
   {
+    "id": "mvs7web4-2e101ac1",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Rebuild",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "Jahmyr Gibbs",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "Kelce is not elite and is old. I have rb depth im willing to add."
+    },
+    "createdAt": 1793198184452,
+    "updatedAt": 1793198184452,
+    "expiresAt": 1793630184452,
+    "status": "queued"
+  },
+  {
     "id": "mvs7ubw5-bdc558cb",
     "phase": "initial",
     "mode": "propose_trade",
