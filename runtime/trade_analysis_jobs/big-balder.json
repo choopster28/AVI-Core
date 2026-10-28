@@ -23,9 +23,300 @@
       ]
     },
     "createdAt": 1793198087861,
-    "updatedAt": 1793198089404,
+    "updatedAt": 1793198147873,
     "expiresAt": 1793630087861,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (rebuilding) seeks to acquire cornerstone RB Jahmyr Gibbs (C-AVI 99.0, D-AVI 98.4) from Mile High Royal Lions using TE Trey McBride (C-AVI 94.8, D-AVI 92.9) as a foundation asset. However, Mile High Royal Lions is actively competing in a championship window ('Playoff Push' status) and Jahmyr Gibbs is their absolute top overall scorer and RB centerpiece. Surrendering Gibbs creates a catastrophic hole at RB1/RB2 (forcing J.K. Dobbins and Jonah Coleman into starting roles), while receiving McBride offers redundant TE depth alongside Travis Kelce (C-AVI 78.1). Furthermore, Big Balder Brand lacks any 1st-round draft capital across 2027, 2028, or 2029 to construct a realistic bridge package. Consequently, Market Reality validates that no realistic trade package exists between these two organizations for Jahmyr Gibbs.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.9,
+              "publicMarket": 92,
+              "leagueMarket": 94.8
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jahmyr Gibbs",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 24,
+              "cavi": 99,
+              "davi": 98.4,
+              "publicMarket": 99,
+              "leagueMarket": 99
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "F",
+            "userShare": 80,
+            "otherShare": 20,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Acquiring Jahmyr Gibbs for Trey McBride straight up would be a massive win for Big Balder Brand, landing a 24-year-old elite RB1 centerpiece. However, for Mile High Royal Lions, this trade destroys their starting RB structure during a championship playoff run while providing marginal positional upgrade at TE where they already feature Travis Kelce."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Acquiring the overall RB1 drastically improves long-term dynasty foundation and elite lineup ceiling."
+            },
+            "championshipOutlook": {
+              "score": 30,
+              "summary": "Adds a massive weekly scoring engine in Jahmyr Gibbs, though leaves a hole at TE to be filled by Greg Dulcich."
+            },
+            "dynastyOutlook": {
+              "score": 55,
+              "summary": "Secures an ultra-elite 24-year-old RB cornerstone to anchor the franchise through its rebuild."
+            },
+            "lineupQuality": {
+              "score": 35,
+              "summary": "Net upgrade in overall starting lineup C-AVI projection."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Depletes TE depth down to Greg Dulcich."
+            },
+            "flexibilityLiquidity": {
+              "score": 40,
+              "summary": "Jahmyr Gibbs represents maximum market liquidity across all dynasty formats."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -65,
+              "summary": "Trading away the premier RB asset severely damages championship odds and cripples positional balance."
+            },
+            "championshipOutlook": {
+              "score": -80,
+              "summary": "Removes 331.4 projected PPR points from RB1 slot, demoting the backfield to J.K. Dobbins and Jonah Coleman."
+            },
+            "dynastyOutlook": {
+              "score": -45,
+              "summary": "Gives up an S-tier 24-year-old RB for an elite TE, net losing total elite dynasty equity."
+            },
+            "lineupQuality": {
+              "score": -60,
+              "summary": "Net starting lineup drop of over 40 C-AVI points across active starting slots."
+            },
+            "depthResilience": {
+              "score": -70,
+              "summary": "Creates an immediate crisis at RB starting depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Exchanges maximum liquid RB capital for TE capital where market buyer pools are narrower."
+            }
+          },
+          "explanation": "Visual impact reflects a severe negative outcome for Mile High Royal Lions due to mandatory position destruction at RB1 during an active championship window."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand gains +4.2 C-AVI in raw player asset value while securing the league's top fantasy RB producer.",
+          "sideADynastyImpact": "D-AVI increases from 92.9 to 98.4, adding a 24-year-old blue-chip cornerstone ideal for a rebuilding timeline.",
+          "sideARosterImpact": "Fills RB starting role with elite production while shifting TE starting duties to Greg Dulcich.",
+          "sideBChampionshipImpact": "Mile High Royal Lions suffers a massive loss in weekly baseline points, dropping their starting RB1 slot from Gibbs (99.0 C-AVI) to Dobbins (51.1 C-AVI).",
+          "sideBDynastyImpact": "Loses their highest-rated dynasty asset (98.4 D-AVI) for an elite TE (92.9 D-AVI) in a position of low relative urgency.",
+          "sideBRosterImpact": "Leaves the backfield severely exposed with J.K. Dobbins as RB1 and Jonah Coleman as RB2.",
+          "valueAssessment": "Asset-for-asset, Gibbs outranks McBride (99.0 vs 94.8 C-AVI). For a contender, the gap is widened further by RB positional scarcity."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Jahmyr Gibbs is universally ranked as the overall dynasty RB1 and a top-3 overall non-QB dynasty asset across KeepTradeCut and FantasyPros consensus charts.",
+          "aviVsMarket": "AVI aligns perfectly with public market sentiment, valuing Gibbs at 99.0 C-AVI / 98.4 D-AVI and McBride at 94.8 C-AVI / 92.9 D-AVI.",
+          "relevantContext": [
+            "Gibbs commands 82.2% of Detroit's backfield rushing attempts and leads all NFL players in scrimmage touchdowns (9) through Week 7 of 2026.",
+            "Recent Week 7 minor ankle scare was cleared medically by HC Dan Campbell; Gibbs carries no multi-week injury designation.",
+            "Trey McBride is elite (TE1 overall candidate), but TEs carry lower structural baseline trade value than bell-cow RB1s in 1QB formats."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions is in a 'Playoff Push' window. Their goal is to maximize current championship odds. Trading their top player destroys that goal.",
+          "packageFit": "Trey McBride does not solve MHRL's primary roster needs. MHRL already rosters 37-year-old elite TE Travis Kelce (78.1 C-AVI) and Dalton Schultz.",
+          "lineupReplacement": "MHRL has no viable internal replacement for Gibbs. Trading Gibbs forces Jonah Coleman (39.3 C-AVI) into the starting RB2 slot.",
+          "competitiveWindowFit": "Directly conflicts with MHRL's active playoff push.",
+          "positionalScarcity": "In a 16-team league, elite RB1s with 25+ weekly touch volume are the single scarcest commodity."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 5,
+            "packageMatch": 5,
+            "lineupReplacement": 0,
+            "competitiveWindow": 0
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 25,
+          "classification": "Impossible",
+          "explanation": "The proposed deal fails four out of five Market Reality validations. Mile High Royal Lions cannot sell their championship RB1 while competing for a title, especially for a TE upgrade they do not urgently require."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "The proposed deal fails four out of five Market Reality validations. Mile High Royal Lions cannot sell their championship RB1 while competing for a title, especially for a TE upgrade they do not urgently require.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "The proposed deal fails four out of five Market Reality validations. Mile High Royal Lions cannot sell their championship RB1 while competing for a title, especially for a TE upgrade they do not urgently require.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Mile High Royal Lions is in a 'Playoff Push' window. Their goal is to maximize current championship odds. Trading their top player destroys that goal."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "Trey McBride does not solve MHRL's primary roster needs. MHRL already rosters 37-year-old elite TE Travis Kelce (78.1 C-AVI) and Dalton Schultz."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "MHRL has no viable internal replacement for Gibbs. Trading Gibbs forces Jonah Coleman (39.3 C-AVI) into the starting RB2 slot."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Directly conflicts with MHRL's active playoff push."
+            }
+          ],
+          "opponentPerspective": "Mile High Royal Lions is in a 'Playoff Push' window. Their goal is to maximize current championship odds. Trading their top player destroys that goal.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Trey McBride does not solve MHRL's primary roster needs. MHRL already rosters 37-year-old elite TE Travis Kelce (78.1 C-AVI) and Dalton Schultz.",
+          "whatWouldNeedToChange": [
+            "Mile High Royal Lions is in a 'Playoff Push' window. Their goal is to maximize current championship odds. Trading their top player destroys that goal.",
+            "Trey McBride does not solve MHRL's primary roster needs. MHRL already rosters 37-year-old elite TE Travis Kelce (78.1 C-AVI) and Dalton Schultz.",
+            "MHRL has no viable internal replacement for Gibbs. Trading Gibbs forces Jonah Coleman (39.3 C-AVI) into the starting RB2 slot.",
+            "Directly conflicts with MHRL's active playoff push."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jahmyr Gibbs injury updates 2026",
+          "Jahmyr Gibbs news 2026",
+          "Jahmyr Gibbs fantasy value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKHp7FzjNDmf7_ThnZ6BDGFnf65GUzZsbMwnKDcSpQeJ253RcEA6X0-Hz_tnqmrnVOfFmYFn29R_Q7cjJXukI3DUUKBMiwIzm_FvOXD0fsbmA3jMZrc9YyvVvb5JZDO2ZnVL5--pDNX4BsyVtdEB41v7fK2rbVTnXKrMTpoDxkBaiGfreG1Ce8xA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJev2-vRB_EIVvgfZZ9jfrfh9rOKq9jGg-_nfFJ-nj8TRVXSXX21KtnMEXYKcC2aPVjfiEUKHEEFe_0zCIK4ZapX05RSBsvJpi8I4V-1wh7EZTt6TgKjwo4N9a98ZzwcRXgE9E7w==",
+            "title": "dynastydealer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm_irnoy1FAQ6pye9Qyi60Y9SM5uBW77y-MiuhituvtOI3WeYj-qR3veG6komqvt0Z1JgnhLYxVogUp2kOMZXNwrlzzuRoTP_fwBTmeBl-LAE1IsyXz7FELySaZGvjYNuDHV96dbcg47XvAMS6mxjMAlNN3B-xDJuKdSg=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAbLjxnSOZvKoXVP1Pp3NLTiGKxqrAzZyH2cSOGzD_8BHiGwmfaZOP9wEi3IGyM37J_LuPWZwc9XLSDY23ZNsmsKAOMa-rmdYZjmG2z7mJRWokuq5LKY996BjzxEkziqjjMai8DY3zYn5M",
+            "title": "yafsb.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLIKV5mO32KEx1ygfEvHKRSZyFoNzFjJ83ZD4m7KrJqay9oWpz8o5H5jaMrisddB8BF6yZty9McaWKNr7dKZ284ZcrJsXh47cU6ftmrwUiFJzI87JxKtiN2xEDgcoLVNB6Nj6UU6pfW1YXFNN7L_ESZC7oqs8Dg4cIr6NWuIif9xE8NoheG3DbNY552Fyv6fSWicY6SdRa6p4R4RNa1K7JzKnQyOviLECOwOplWTVVyA-8OseWeDm1kTh254clDmWYOynXTTMysAxqig==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkQ-qJ-M4OcCadUFdfpi-PQoOdW9csvtMAESYsqVx9L-FLwsVcC51PGjc68GlOiclpbmqS2UCNzYNTmzmKzgSGgBc9mSStGnRFRSGbRkFXVPWsUdrjV1BiDiG5D8-xEl4PP7on6D2AUoj0HVMC8RfLseV75Y4idetvZq5lECtARM4Q6K3gEb3BcMvzEg==",
+            "title": "detroitlions.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXQP7Sq1wItVdrFTK51Ka75Phk3bTdF2TicPbA3YxbhDVqH2nA-iVKhvMyX-2cKdO14nYyxePCF-IrO_YLs09Kihek0h98zcEZ_p4Did2Se-y5FjXaaQmtlvdxl6dPa7yBhCvvXVvN_pdnIkGrozTD3w==",
+            "title": "pff.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2LcjNGmmQ8_zbiGnPvcQVWoZSYPNMXremnT_PATrTOM7RrPt87Fx2aUx5XgvGwA8T2ybVgpkOqIyp8pSePUGGzx5v9cNHFuHZje8rC6hnGJPoZ5Vw55iijfbjlf66OXiLHhYrNQTgAqZoXOilkzCOuiEVrGXsGMCXtGdpgkn_HuELgICka7O64Ilzs6BlNqS2pf6MDfw7gNsdddvbDIerk6k=",
+            "title": "sidelionreport.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZUiNp9miDD9z6aFrt2nkaQExq4CLTrlwBkiEWdRiVAEbJA2Kjf_lnij-iTTjxwxmCMcnNlSQB5C7CWQe35hEtFPu2SeL1hkdCC0Y97n3EzcYmbmdLfOgs6z7dZ0JAysBJa8Ri1iig",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNCsJJatF7TNEs380N3VO_lCkBJJGHipwXZRPrXYPSBqIzr9cNtR8rjePmJL87b01C7KRj8NGkK3FUmdMh6opc7OwyXyAkw5xffZyJOhp17gpj3Rm5Io12s3zdi0Y9FGxvFu4a_3W_SJoseuDAAnJyZLQoc7uRevBMKRdF59jPNO9YGs1nIMLU8sGpnWS6fA==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsFjaFy8rTBMfk72295cxfTUZ--SAe0ZKsMZNLoVOGGHp77jnQBLqvovWr4edQbR9nDqFZ0I3qAH2s3POBlNyUZdPiGTCrZBlLuz6JFju_MatDRAghXNsao6TzQU_LyzVXE8bI1Jlu1GURxMYUAPSx0zmDsenWXaWXSYS6-uYXU6MT14E-",
+            "title": "thebiglead.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGANSJPH0Qj-CKx89nKDE87UAv_Fswbi4e_Q5EVyCAfBWqoY3tzSxKs5fDBeVif4KznssoaUEM4r9mgTZCi131lBp419gxP2xQRvNZjyecjbA7-tw-56CzBAEcGz5RsRaFRK2FFBU0FgMsLDeja20nA0BrQl9U0TMeGFeXnmCMfKMI02yfjY8mp",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZYxTH96WhYXfMzbXKyux5dr3oWJ_pL5QI6hsBpA1xy4iLBK7PiLvzAWn9bopygsPqar_a6ruEXUhfRhLYC8I5oAw9lVLsQbxKTTSCqVQy0WRBc6FC19KKV_ZxZop6iwq19tN1qCCYl7sPUnfQUM_McDdockg-DvzbETd1sJfxDea7UAd8MjA=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHonlj_cbDE8W2f0fWmS7BBTBUPCj0N79IXQldRnHqogx_y9_gB6NmrAJdpadb31iRNir15KyglqMxtU0isA-B8FFxupKybu3q_yZ4lSCCueMliJaYf-dxo_dXomrrfdrWXjEOKZAu53kvmIKh5sMCH4rV12glXddTjZq0=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzTXjYqKReuWW3obpKKZ0-pOgga2Snvb-z1xZ9OK4mJ_YOxCDmoYdqL_C-O78CFB9rWepmOWfQa1pJsFoMBuPRPGhm3trETas831gTeOD5ZdqaLUykOpWg4kabH5hx22gvxtT7qppPSkH8kVyRleCNyTAjGdu_ejl36-UvrF4fBAo6_evq1nH7hZjjdUkfGe3bw3TSjJOZrPOrA7_Gvrfkvhv2lg==",
+            "title": "draftsharks.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "b00b714347f95cbc639e8d14529100a9fefa50b9",
+        "aviCoreCommittedAt": "2026-10-28T14:12:09Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 82460,
+        "groundedMarketChars": 3879,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mvs7phx5-b0d7591e",
