@@ -313,6 +313,40 @@ def _weekly_ceiling_components(points: dict[str, dict[str, Any]]) -> dict[str, f
     return _rank_scores(points, "weekly_ceiling")
 
 
+def _injury_adjusted_production(
+    actual: float,
+    projection: float,
+    ceiling: float | None,
+    observed_games: int,
+    completed_weeks: int,
+    injury_status: str,
+) -> tuple[float, float]:
+    """Conservative, temporary rebound credit for injured, established starters.
+
+    An actual low-production sample remains the foundation. Public projection
+    alone cannot trigger a boost: an established ceiling, verified current
+    injury designation and at least one missed week beyond a possible bye
+    must all be present. This avoids inflating healthy underperformers,
+    rookies, or one-off ceiling spikes.
+    """
+    status = injury_status.lower()
+    active_injury = any(term in status.split() for term in
+                        ("questionable", "doubtful", "out", "ir", "pup", "nfi"))
+    missed_beyond_bye = max(0, completed_weeks - observed_games - 1)
+    if (not active_injury or missed_beyond_bye < 1 or observed_games < 2
+            or ceiling is None or ceiling < 80 or projection < 75
+            or projection <= actual):
+        return actual, 0.0
+    healthy_reference = min(projection, ceiling) * 0.85
+    if healthy_reference <= actual:
+        return actual, 0.0
+    missed_share = min(1.0, missed_beyond_bye / max(2.0, completed_weeks / 3.0))
+    rebound_weight = 0.40 + 0.15 * missed_share
+    credit = min(40.0, (healthy_reference - actual) * rebound_weight)
+    adjusted = min(100.0, actual + credit)
+    return round(adjusted, 1), round(adjusted - actual, 1)
+
+
 def apply_in_season_transition() -> dict[str, Any]:
     """Transition C-AVI globally from preseason to the approved in-season mix."""
     if not AVI_PLAYERS_PATH.exists() or not AVI_MANIFEST_PATH.exists() or not REGISTRY_PATH.exists():
@@ -359,6 +393,8 @@ def apply_in_season_transition() -> dict[str, Any]:
     if not isinstance(players, list):
         raise RuntimeError("AVI players file must contain a list.")
 
+    from avi.valuation.availability_adjustments import _load_injury_state, _status_text
+    injury_states = _load_injury_state()
     completed_points = _completed_points(points, completed_through)
     point_components = _player_point_components(completed_points)
     weekly_ceiling_components = _weekly_ceiling_components(completed_points)
@@ -375,6 +411,7 @@ def apply_in_season_transition() -> dict[str, Any]:
 
         avi_id = str(player.get("avi_id"))
         actual_component = point_components.get(avi_id, 0.0)
+        original_actual_component = actual_component
         projection = _float(components.get("projection"))
         context = _float(components.get("league_context"))
         market = _float(components.get("public_market"))
@@ -382,6 +419,16 @@ def apply_in_season_transition() -> dict[str, Any]:
         upside = weekly_ceiling_components.get(avi_id, existing_upside if existing_upside is not None else 0.0)
         if None in {projection, context, market}:
             continue
+        point_record = completed_points.get(avi_id)
+        observed_games = int(float(point_record.get("games") or 0)) if point_record else 0
+        actual_component, injury_rebound_credit = _injury_adjusted_production(
+            actual_component,
+            float(projection),
+            _float(components.get("long_term_ceiling")),
+            observed_games,
+            completed_through,
+            _status_text(injury_states.get(avi_id, {})),
+        )
 
         new_cavi = calculate_c_avi(
             CAVIComponents(
@@ -395,7 +442,8 @@ def apply_in_season_transition() -> dict[str, Any]:
         )
         player["c_avi"] = new_cavi
         components["player_points"] = actual_component
-        point_record = completed_points.get(avi_id)
+        components["observed_production_component"] = original_actual_component
+        components["injury_rebound_credit"] = injury_rebound_credit
         components["elite_upside"] = upside
         player.setdefault("data_sources", {})["production"] = point_record.get("production_source", "fantasypros") if point_record else "unavailable"
         player["in_season_player_points"] = {
@@ -403,6 +451,8 @@ def apply_in_season_transition() -> dict[str, Any]:
             "season_points": round(float(point_record.get("season_points") or 0.0), 2) if point_record else 0.0,
             "games": int(float(point_record["games"])) if point_record else 0,
             "component_score": actual_component,
+            "observed_component_score": original_actual_component,
+            "injury_rebound_credit": injury_rebound_credit,
             "weekly_ceiling_points": round(float(point_record.get("weekly_ceiling") or 0.0), 2) if point_record else 0.0,
             "weekly_ceiling_component": upside,
             "completed_through_week": completed_through,
@@ -443,7 +493,7 @@ def apply_in_season_transition() -> dict[str, Any]:
         "public_market": 0.15,
         "elite_upside": 0.10,
     }
-    manifest["production_component_policy"] = {
+    manifest["injury_rebound_policy"] = "Bounded credit for verified current injuries with missed games and established healthy ceiling; never applied to healthy underperformers or unproven upside."\n    manifest["production_component_policy"] = {
         "player_points": "Ranked PPR points/game and season points, with up to 25% recent-four-game lower-half consistency adjustment; small samples receive reduced consistency weight",
         "weekly_ceiling": "best completed-week PPR rank within the same fantasy-relevant positional pool",
         "fantasy_relevant_pool": FANTASY_RELEVANT_POOL,
