@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-10-28T15:50:26.857390+00:00",
+  "fetched_at_utc": "2026-10-28T18:21:41.485243+00:00",
   "players": {
     "10210": {
       "gms_active": 1.0,
@@ -14044,7 +14044,11 @@
       "gp": 1.0,
       "pos_rank_half_ppr": 999.0,
       "pos_rank_ppr": 999.0,
-      "pos_rank_std": 999.0
+      "pos_rank_std": 999.0,
+      "st_snp": 8.0,
+      "tm_def_snp": 63.0,
+      "tm_off_snp": 70.0,
+      "tm_st_snp": 27.0
     },
     "13581": {
       "gms_active": 1.0,

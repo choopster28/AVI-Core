@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 576.5
-- championship_lineup_c_avi_avg: 72.06
-- offensive_roster_c_avi_sum: 862.8
+- championship_lineup_c_avi_sum: 576.4
+- championship_lineup_c_avi_avg: 72.05
+- offensive_roster_c_avi_sum: 862.7
 - offensive_roster_c_avi_avg: 50.75
-- offensive_roster_d_avi_sum: 1236.4
-- offensive_roster_d_avi_avg: 72.73
+- offensive_roster_d_avi_sum: 1235.3
+- offensive_roster_d_avi_avg: 72.66
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jayden Daniels | C-AVI: 75.7 | D-AVI: 85.6
 - RB: Bhayshul Tuten | C-AVI: 70.3 | D-AVI: 84.8
-- RB: Jeremiyah Love | C-AVI: 65.8 | D-AVI: 89.9
+- RB: Jeremiyah Love | C-AVI: 65.7 | D-AVI: 89.5
 - WR: Nico Collins | C-AVI: 82.9 | D-AVI: 94.1
 - WR: Rashee Rice | C-AVI: 66.6 | D-AVI: 87.8
 - TE: Trey McBride | C-AVI: 93.4 | D-AVI: 92.7
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 65.8
-- Dynasty AVI (D-AVI, 0-100): 89.9
+- Championship AVI (C-AVI, 0-100): 65.7
+- Dynasty AVI (D-AVI, 0-100): 89.5
 - Projected PPR points: 211.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -258,7 +258,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 30.0
 - Championship AVI (C-AVI, 0-100): 43.4
-- Dynasty AVI (D-AVI, 0-100): 74.1
+- Dynasty AVI (D-AVI, 0-100): 73.9
 - Projected PPR points: 173.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -292,7 +292,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 24.3
-- Dynasty AVI (D-AVI, 0-100): 51.2
+- Dynasty AVI (D-AVI, 0-100): 50.7
 - Projected PPR points: 41.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

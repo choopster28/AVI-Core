@@ -1,5 +1,5 @@
 {
-  "count": 940,
+  "count": 941,
   "covids": [],
   "injuries": [
     {
@@ -4233,6 +4233,29 @@
       "team_practice_2_submitted": false,
       "team_practice_3_submitted": false,
       "yahoo_id": "40211"
+    },
+    {
+      "comment": "",
+      "filename": "ryan-fitzgerald.php",
+      "injury_type": "",
+      "injury_update_date": null,
+      "ir_weeks": [],
+      "name": "Ryan Fitzgerald",
+      "player_id": 27261,
+      "position_id": "K",
+      "practice_1": null,
+      "practice_2": null,
+      "practice_3": null,
+      "practice_report_injury_type": null,
+      "probability_of_playing": null,
+      "rank": 339,
+      "status": "",
+      "status_short": "",
+      "team_id": "CAR",
+      "team_practice_1_submitted": false,
+      "team_practice_2_submitted": false,
+      "team_practice_3_submitted": false,
+      "yahoo_id": "42262"
     },
     {
       "comment": "",
@@ -16096,7 +16119,7 @@
       "rank": null,
       "status": "IR",
       "status_short": "IR",
-      "team_id": "FA",
+      "team_id": "MIN",
       "team_practice_1_submitted": false,
       "team_practice_2_submitted": false,
       "team_practice_3_submitted": false,

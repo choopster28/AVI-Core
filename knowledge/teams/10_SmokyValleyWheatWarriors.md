@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: CeeDee Lamb | C-AVI: 95.6 | D-AVI: 98.1
 - WR: Chris Olave | C-AVI: 90.4 | D-AVI: 96.0
 - TE: George Kittle | C-AVI: 82.4 | D-AVI: 84.0
-- FLEX: Wan'Dale Robinson | C-AVI: 45.9 | D-AVI: 76.9
+- FLEX: Wan'Dale Robinson | C-AVI: 45.9 | D-AVI: 77.2
 - FLEX: Woody Marks | C-AVI: 42.3 | D-AVI: 71.0
 
 ## Current Roster — All Player Cards
@@ -224,7 +224,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 45.9
-- Dynasty AVI (D-AVI, 0-100): 76.9
+- Dynasty AVI (D-AVI, 0-100): 77.2
 - Projected PPR points: 170.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -258,7 +258,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 41.7
+- Dynasty AVI (D-AVI, 0-100): 41.4
 - Projected PPR points: None
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED

@@ -25,8 +25,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - championship_lineup_c_avi_avg: 38.70
 - offensive_roster_c_avi_sum: 460.6
 - offensive_roster_c_avi_avg: 35.43
-- offensive_roster_d_avi_sum: 852.7
-- offensive_roster_d_avi_avg: 65.59
+- offensive_roster_d_avi_sum: 854.4
+- offensive_roster_d_avi_avg: 65.72
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,8 +34,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Rachaad White | C-AVI: 44.6 | D-AVI: 70.2
 - RB: Keaton Mitchell | C-AVI: 29.8 | D-AVI: 62.3
 - WR: Jalen Coker | C-AVI: 62.0 | D-AVI: 83.0
-- WR: Jauan Jennings | C-AVI: 29.4 | D-AVI: 60.0
-- TE: Brenton Strange | C-AVI: 55.8 | D-AVI: 78.7
+- WR: Jauan Jennings | C-AVI: 29.5 | D-AVI: 61.4
+- TE: Brenton Strange | C-AVI: 55.7 | D-AVI: 78.7
 - FLEX: Chig Okonkwo | C-AVI: 31.7 | D-AVI: 68.8
 - FLEX: Isaac TeSlaa | C-AVI: 27.7 | D-AVI: 64.7
 
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 29.4
-- Dynasty AVI (D-AVI, 0-100): 60.0
+- Championship AVI (C-AVI, 0-100): 29.5
+- Dynasty AVI (D-AVI, 0-100): 61.4
 - Projected PPR points: 105.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -207,7 +207,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 27.6
-- Dynasty AVI (D-AVI, 0-100): 72.2
+- Dynasty AVI (D-AVI, 0-100): 72.5
 - Projected PPR points: 75.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 55.8
+- Championship AVI (C-AVI, 0-100): 55.7
 - Dynasty AVI (D-AVI, 0-100): 78.7
 - Projected PPR points: 161.0
 - Category: offense
