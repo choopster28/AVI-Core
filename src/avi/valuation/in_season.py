@@ -504,7 +504,8 @@ def apply_in_season_transition(*, offline: bool = False) -> dict[str, Any]:
         "public_market": 0.15,
         "elite_upside": 0.10,
     }
-    manifest["injury_rebound_policy"] = "Bounded credit for verified current injuries with missed games and established healthy ceiling; never applied to healthy underperformers or unproven upside."\n    manifest["production_component_policy"] = {
+    manifest["injury_rebound_policy"] = "Bounded credit for verified current injuries with missed games and established healthy ceiling; never applied to healthy underperformers or unproven upside."
+    manifest["production_component_policy"] = {
         "player_points": "Ranked PPR points/game and season points, with up to 25% recent-four-game lower-half consistency adjustment; small samples receive reduced consistency weight",
         "weekly_ceiling": "best completed-week PPR rank within the same fantasy-relevant positional pool",
         "fantasy_relevant_pool": FANTASY_RELEVANT_POOL,
