@@ -16,7 +16,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-10-28T01:29:20.789103+00:00",
+  "generated_at_utc": "2026-10-28T14:47:55.773858+00:00",
   "in_season_transition": {
     "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     "completed_through_week": 7,

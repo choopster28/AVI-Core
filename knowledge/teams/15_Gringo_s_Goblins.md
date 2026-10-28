@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 536.8
-- championship_lineup_c_avi_avg: 67.10
-- offensive_roster_c_avi_sum: 888.5
-- offensive_roster_c_avi_avg: 55.53
+- championship_lineup_c_avi_sum: 536.6
+- championship_lineup_c_avi_avg: 67.08
+- offensive_roster_c_avi_sum: 888.3
+- offensive_roster_c_avi_avg: 55.52
 - offensive_roster_d_avi_sum: 1152.8
 - offensive_roster_d_avi_avg: 72.05
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -32,12 +32,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Bo Nix | C-AVI: 52.6 | D-AVI: 76.2
 - RB: Kyren Williams | C-AVI: 86.2 | D-AVI: 91.0
-- RB: Aaron Jones Sr. | C-AVI: 57.6 | D-AVI: 68.9
+- RB: Aaron Jones Sr. | C-AVI: 57.5 | D-AVI: 68.9
 - WR: Christian Watson | C-AVI: 87.0 | D-AVI: 91.8
 - WR: Jameson Williams | C-AVI: 77.1 | D-AVI: 88.2
 - TE: Jake Ferguson | C-AVI: 50.5 | D-AVI: 76.6
 - FLEX: Emeka Egbuka | C-AVI: 73.0 | D-AVI: 91.5
-- FLEX: Alvin Kamara | C-AVI: 52.8 | D-AVI: 64.2
+- FLEX: Alvin Kamara | C-AVI: 52.7 | D-AVI: 64.2
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 57.6
+- Championship AVI (C-AVI, 0-100): 57.5
 - Dynasty AVI (D-AVI, 0-100): 68.9
 - Projected PPR points: 137.1
 - Category: offense
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 52.8
+- Championship AVI (C-AVI, 0-100): 52.7
 - Dynasty AVI (D-AVI, 0-100): 64.2
 - Projected PPR points: 63.0
 - Category: offense

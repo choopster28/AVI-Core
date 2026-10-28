@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 553.0
-- championship_lineup_c_avi_avg: 69.12
-- offensive_roster_c_avi_sum: 922.2
+- championship_lineup_c_avi_sum: 552.9
+- championship_lineup_c_avi_avg: 69.11
+- offensive_roster_c_avi_sum: 922.1
 - offensive_roster_c_avi_avg: 51.23
 - offensive_roster_d_avi_sum: 1260.6
 - offensive_roster_d_avi_avg: 70.03
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Dak Prescott | C-AVI: 75.6 | D-AVI: 81.2
 - RB: Javonte Williams | C-AVI: 84.6 | D-AVI: 89.6
-- RB: Chase Brown | C-AVI: 80.7 | D-AVI: 91.2
+- RB: Chase Brown | C-AVI: 80.6 | D-AVI: 91.2
 - WR: Parker Washington | C-AVI: 82.6 | D-AVI: 92.3
 - WR: Ladd McConkey | C-AVI: 62.2 | D-AVI: 87.8
 - TE: Kyle Pitts Sr. | C-AVI: 64.2 | D-AVI: 81.7
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 80.7
+- Championship AVI (C-AVI, 0-100): 80.6
 - Dynasty AVI (D-AVI, 0-100): 91.2
 - Projected PPR points: 255.2
 - Category: offense

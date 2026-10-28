@@ -3,6 +3,131 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-28 14:15:34",
+      "created_formated": "Wed, Oct 28th 2:15pm UTC",
+      "desc": "Jaylen Waddle is dealing with a chest injury going into the practice week. ",
+      "id": 616191,
+      "impact": "Waddle aggravated a previous chest injury in Sunday's game, and his status for Week 8 will be determined as the week progresses at practice. If Waddle misses Sunday's game, Troy Franklin and Marvin Mims Jr. could stand to see more snaps. This is a situation to monitor.",
+      "link": "https://www.fantasypros.com/nfl/news/616191/jaylen-waddle-chest-to-see-how-practice-week-goes.php",
+      "player_id": 19790,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "Jaylen Waddle (chest) to see how practice week goes"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-28 13:25:04",
+      "created_formated": "Wed, Oct 28th 1:25pm UTC",
+      "desc": "Justin Tucker signed with the Chiefs' practice squad on Wednesday. ",
+      "id": 616188,
+      "impact": "Tucker has not kicked in the NFL since the 2024 season, following a much-publicized violation of the league's personal-conduct policy. He's now alongside fellow veteran kicker Harrison Butker in Kansas City. Butker has struggled a bit this season, and  Tucker could win out between the two. The situation should become clearer as the practice week moves forward. ",
+      "link": "https://www.fantasypros.com/nfl/news/616188/justin-tucker-signs-with-chiefs.php",
+      "player_id": 11465,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Justin Tucker signs with Chiefs"
+    },
+    {
+      "author": "Jordan Epp",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-28 03:11:43",
+      "created_formated": "Wed, Oct 28th 3:11am UTC",
+      "desc": "San Francisco 49ers wide receiver Brandin Cooks caught one pass for 13 yards for the second week in a row in a Week 7 loss to the Atlanta Falcons",
+      "id": 616159,
+      "impact": "Cooks had another quiet week despite a season-high snap rate, appearing on 68% of the offensive plays. The 49ers are desperate for healthy wide receivers, but that doesn't mean they're going to make an impact. Quarterback Brock Purdy completed 27 passes - seven were caught by a wide receiver, a trend that could continue.",
+      "link": "https://www.fantasypros.com/nfl/news/616159/brandin-cooks-snags-one-pass-week-7.php",
+      "player_id": 12122,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Brandin Cooks snags one pass in Week 7"
+    },
+    {
+      "author": "Jordan Epp",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-28 03:07:08",
+      "created_formated": "Wed, Oct 28th 3:07am UTC",
+      "desc": "Kansas City Chiefs tight end Noah Gray caught three passes for 44 yards on three targets in the team's Week 7 loss on Sunday Night Football.",
+      "id": 616158,
+      "impact": "Gray has had a steady role in Kansas City's offense, playing at least 50% of the offensive snaps every week. Since the Week 5 bye, he has six catches for 97 yards - far from reliable for fantasy purposes, but a welcome contribution to a Kansas City offense missing wide receiver Rashee Rice.",
+      "link": "https://www.fantasypros.com/nfl/news/616158/noah-gray-grabs-three-passes-week-7.php",
+      "player_id": 19539,
+      "sport_id": "NFL",
+      "team_id": "KC",
+      "title": "Noah Gray grabs three passes in Week 7"
+    },
+    {
+      "author": "Jordan Epp",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-10-28 03:03:23",
+      "created_formated": "Wed, Oct 28th 3:03am UTC",
+      "desc": "Houston Texans wide receiver Kayshon Boutte caught one pass for 25 yards on two targets in the team's Week 7 loss to the New York Giants.",
+      "id": 616157,
+      "impact": "Boutte recorded a season-low offensive snap rate in Week 7: 31%. This is notable given Xavier Hutchinson's involvement and Marvin Harrison's expected role growth. Jaylin Noel did suffer an injury, but Boutte has yet to surpass 40 receiving yards in a game and has seen a decrease in snap rate in each of the last two weeks.",
+      "link": "https://www.fantasypros.com/nfl/news/616157/kayshon-boutte-takes-backseat-week-7-loss.php",
+      "player_id": 22989,
+      "sport_id": "NFL",
+      "team_id": "HOU",
+      "title": "Kayshon Boutte takes backseat in Week 7 loss"
+    },
+    {
+      "author": "Jordan Epp",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-28 02:58:34",
+      "created_formated": "Wed, Oct 28th 2:58am UTC",
+      "desc": "The New York Giants have placed running back Tyrone Tracy Jr. on injured reserve after suffering a hamstring injury in Week 7's win.",
+      "id": 616156,
+      "impact": "Tracy suffered an injury during the Giants' win over the Houston Texans, a game in which he carried the ball six times for 15 yards and a score. The third-year running back had seen an uptick in snaps after playing 3% or fewer in the opening three weeks, scoring three touchdowns in the last two weeks. Cam Skattebo and Devin Singletary will lead the way for a New York running back room that bounced back in Week 7. Tracy is eligible to return in Week 13, given New York's Week 8 bye.",
+      "link": "https://www.fantasypros.com/nfl/news/616156/tyrone-tracy-jr-hamstring-placed-on-ir.php",
+      "player_id": 22980,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "Tyrone Tracy Jr. (hamstring) placed on IR"
+    },
+    {
+      "author": "Jordan Epp",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-28 02:53:18",
+      "created_formated": "Wed, Oct 28th 2:53am UTC",
+      "desc": "The Cincinnati Bengals have placed tight end Erick All Jr. on injured reserve after suffering a knee injury in Week 7's win.",
+      "id": 616155,
+      "impact": "All has appeared in all six games for Cincinnati this season, playing 32% of the snaps and contributing for the Bengals in multi-tight end sets. He caught eight passes, returning from an injury that sidelined him in 2025. All has dealt with several injuries in his career, and the fear is this could be another season-ending ACL tear. ",
+      "link": "https://www.fantasypros.com/nfl/news/616155/erick-all-jr-placed-on-ir-feared-to-have-torn-acl.php",
+      "player_id": 23837,
+      "sport_id": "NFL",
+      "team_id": "CIN",
+      "title": "Erick All Jr. placed on IR, feared to have torn ACL"
+    },
+    {
       "author": "Garrett Ball",
       "categories": [
         "Commentary",
@@ -324,132 +449,6 @@
       "sport_id": "NFL",
       "team_id": "DAL",
       "title": "Tyler Goodson inefficient in win Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-27 04:03:50",
-      "created_formated": "Tue, Oct 27th 4:03am UTC",
-      "desc": "Ryan Flournoy caught four passes for 70 yards in Monday's 38-21 win over the Philadelphia Eagles.",
-      "id": 616077,
-      "impact": "Flournoy wasn't heavily targeted on Monday night, but he was able to make the most out of his four opportunities by turning them into four catches for 70 total yards. He isn't fantasy relevant at this point, but he is currently a strong contributor for the Cowboys in real life and worth keeping an eye on if someone ahead of him on the depth chart suffers an injury.",
-      "link": "https://www.fantasypros.com/nfl/news/616077/ryan-flournoy-racks-up-70-yards-win-monday.php",
-      "player_id": 26398,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Ryan Flournoy racks up 70 yards in win Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-27 03:59:59",
-      "created_formated": "Tue, Oct 27th 3:59am UTC",
-      "desc": "Jake Ferguson failed to catch his lone target in Monday night's 38-21 win over the Philadelphia Eagles.",
-      "id": 616076,
-      "impact": "The veteran had a goose egg on Monday night, finishing the game with zero catches and just one target. This performance burned any fantasy managers who started him, and he remains a risky option on a week-to-week basis moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/616076/jake-ferguson-catchless-win-monday.php",
-      "player_id": 22718,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Jake Ferguson catchless in win Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-27 03:57:10",
-      "created_formated": "Tue, Oct 27th 3:57am UTC",
-      "desc": "George Pickens caught 4-of-6 targets for 57 yards and a touchdown in Monday night's 38-21 win over the Philadelphia Eagles.",
-      "id": 616075,
-      "impact": "Pickens had a productive outing on Monday night. He was able to rack up 57 yards and a touchdown over the course of the game, which left him with a pretty good fantasy total. He will continue to be a boom-or-bust fantasy option on a week-to-week basis moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/616075/george-pickens-finds-end-zone-win-monday.php",
-      "player_id": 22963,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "George Pickens finds end zone in win Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-27 03:54:48",
-      "created_formated": "Tue, Oct 27th 3:54am UTC",
-      "desc": "CeeDee Lamb hauled in 5-of-12 targets for 74 yards and two touchdowns in Monday night's 38-21 win over the Philadelphia Eagles.",
-      "id": 616074,
-      "impact": "Lamb wasn't able to connect with Prescott on over half of his targets, but he was able to make the most out of the ones that he did catch, finishing with 74 yards and two touchdowns in a comfortable win over the Eagles. He will continue to be a top-tier fantasy option moving forward, assuming he remains healthy.",
-      "link": "https://www.fantasypros.com/nfl/news/616074/ceedee-lamb-hauls-two-touchdowns-monday.php",
-      "player_id": 19202,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "CeeDee Lamb hauls in two touchdowns Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-27 03:47:45",
-      "created_formated": "Tue, Oct 27th 3:47am UTC",
-      "desc": "Javonte Williams rushed the ball 25 times for 155 yards and a touchdown in Monday night's 38-21 win over the Philadelphia Eagles.",
-      "id": 616073,
-      "impact": "Williams was absolutely dominant on Monday night. He set a new career high with 155 rushing yards over the course of the game, and he was also able to get into the end zone towards the end of the game, which was the cherry on top. Fantasy managers should be well pleased with his performance in this primetime matchup.",
-      "link": "https://www.fantasypros.com/nfl/news/616073/javonte-williams-sets-career-high-yards-monday.php",
-      "player_id": 22739,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Javonte Williams sets career high in yards Monday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-10-27 03:44:30",
-      "created_formated": "Tue, Oct 27th 3:44am UTC",
-      "desc": "Dak Prescott completed 15-of-27 passing attempts for 212 yards and three touchdowns in Monday night's 38-21 win over the Philadelphia Eagles.",
-      "id": 616072,
-      "impact": "Prescott had a pretty nice showing on Monday night. He totaled over 200 yards on the night and was able to score three touchdowns while leading the Cowboys to a comfortable win over Philadelphia. He will continue to be a good depth piece or streaming option in most leagues moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/616072/dak-prescott-tosses-three-touchdowns-win-monday.php",
-      "player_id": 15600,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Dak Prescott tosses three touchdowns in win Monday"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-26 20:22:11",
-      "created_formated": "Mon, Oct 26th 8:22pm UTC",
-      "desc": "Grant Calcaterra (back) will be activated from IR ahead of the Eagles Monday night game against the Cowboys.",
-      "id": 616034,
-      "impact": "Calcaterra has had some decent games in the past, but has primarily been a blocking/secondary tight end so far in his career. Rookie TE Eli Stowers is also making his debut on Monday, and he is much more of a pass catching threat. Both shouldn't be started in regular leagues just yet.",
-      "link": "https://www.fantasypros.com/nfl/news/616034/grant-calcaterra-back-to-be-activated-from-ir-will-play-monday.php",
-      "player_id": 24180,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Grant Calcaterra (back) to be activated from IR, will play Monday"
     }
   ],
   "public_api": true,

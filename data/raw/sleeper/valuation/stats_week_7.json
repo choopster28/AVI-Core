@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-10-28T01:29:19.540035+00:00",
+  "fetched_at_utc": "2026-10-28T14:47:54.486935+00:00",
   "players": {
     "10210": {
       "gms_active": 1.0,
@@ -20982,6 +20982,7 @@
     },
     "6711": {
       "gms_active": 1.0,
+      "gp": 1.0,
       "pos_rank_half_ppr": 999.0,
       "pos_rank_ppr": 999.0,
       "pos_rank_std": 999.0
@@ -30361,6 +30362,7 @@
     },
     "TB": {
       "blk_kick": 1.0,
+      "def_2pt": 1.0,
       "def_4_and_stop": 2.0,
       "def_forced_punts": 2.0,
       "def_kr": 3.0,

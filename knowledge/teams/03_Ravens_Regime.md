@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 584.2
-- championship_lineup_c_avi_avg: 73.03
+- championship_lineup_c_avi_sum: 584.3
+- championship_lineup_c_avi_avg: 73.04
 - offensive_roster_c_avi_sum: 930.4
 - offensive_roster_c_avi_avg: 54.73
 - offensive_roster_d_avi_sum: 1272.2
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Jaylen Waddle | C-AVI: 70.2 | D-AVI: 87.9
 - TE: Juwan Johnson | C-AVI: 59.1 | D-AVI: 76.8
 - FLEX: Carnell Tate | C-AVI: 66.9 | D-AVI: 88.8
-- FLEX: Kyle Monangai | C-AVI: 65.3 | D-AVI: 79.2
+- FLEX: Kyle Monangai | C-AVI: 65.4 | D-AVI: 79.2
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 65.3
+- Championship AVI (C-AVI, 0-100): 65.4
 - Dynasty AVI (D-AVI, 0-100): 79.2
 - Projected PPR points: 154.6
 - Category: offense
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 22.8
+- Championship AVI (C-AVI, 0-100): 22.7
 - Dynasty AVI (D-AVI, 0-100): 41.3
 - Projected PPR points: 7.6
 - Category: offense

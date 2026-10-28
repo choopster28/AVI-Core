@@ -74123,10 +74123,10 @@
     "hashtag": "#beaniebishop-NFL-FA-25",
     "height": "70",
     "high_school": "Pleasure Ridge (KY)",
-    "injury_body_part": "Suspension",
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Sus",
+    "injury_status": "Questionable",
     "kalshi_id": "b0551c75-2fb4-4efc-a406-71cf94e1af4d",
     "last_name": "Bishop",
     "metadata": {
@@ -586754,7 +586754,7 @@
       "genius_id": "1008015",
       "rookie_year": "2020"
     },
-    "news_updated": 1792985113549,
+    "news_updated": 1793198121822,
     "number": 83,
     "oddsjam_id": "EF80F08FBD39",
     "opta_id": null,
@@ -621217,7 +621217,7 @@
       "genius_id": "1081537",
       "rookie_year": "2021"
     },
-    "news_updated": 1793196621157,
+    "news_updated": 1793197222423,
     "number": 17,
     "oddsjam_id": "100F669A3109",
     "opta_id": null,
@@ -661234,7 +661234,7 @@
       "genius_id": "1080504",
       "rookie_year": "2022"
     },
-    "news_updated": 1792980311451,
+    "news_updated": 1793197520706,
     "number": 22,
     "oddsjam_id": "1E940316EDB9",
     "opta_id": null,
@@ -670816,10 +670816,10 @@
     "hashtag": "#jalynarmourdavis-NFL-FA-18",
     "height": "73",
     "high_school": "St. Paul's Episcopal (AL)",
-    "injury_body_part": "Achilles",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "b668ee32-94a6-45f0-bb39-7858f9650772",
     "last_name": "Armour-Davis",
     "metadata": {

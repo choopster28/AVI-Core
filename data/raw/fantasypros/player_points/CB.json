@@ -971,9 +971,9 @@
       }
     },
     {
-      "average": 5.5,
+      "average": 4.8,
       "filename": "max-melton.php",
-      "games": 6,
+      "games": 7,
       "player_id": 25366,
       "player_name": "Max Melton",
       "points": 33.25,
@@ -985,7 +985,8 @@
         "3": 6.8,
         "4": 4.5,
         "5": 5.3,
-        "6": 6.8
+        "6": 6.8,
+        "7": 0
       }
     },
     {
