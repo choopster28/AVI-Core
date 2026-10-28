@@ -1,5 +1,394 @@
 [
   {
+    "id": "mvs7web4-2e101ac1",
+    "createdAt": 1793198200355,
+    "expiresAt": 1793630200355,
+    "mode": "propose_trade",
+    "title": "Final Build Offer · Big Balder Brand ↔ Mile High Royal Lions",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Rebuild",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "Jahmyr Gibbs",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "Kelce is not elite and is old. I have rb depth im willing to add."
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand seeks to acquire elite cornerstone RB Jahmyr Gibbs from Mile High Royal Lions. Accounting for personal context—specifically that Travis Kelce is aging and vulnerable while Big Balder Brand possesses surplus running back depth—the recommended offer is restructured to include Trey McBride alongside a high-value young runner like Omarion Hampton and additional capital to directly address Mile High Royal Lions' championship window and lineup needs.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.9,
+              "publicMarket": 92,
+              "leagueMarket": 94.8
+            },
+            {
+              "name": "Omarion Hampton",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 69.8,
+              "davi": 87.9,
+              "publicMarket": 70,
+              "leagueMarket": 69.8
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jahmyr Gibbs",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 24,
+              "cavi": 99,
+              "davi": 98.4,
+              "publicMarket": 99,
+              "leagueMarket": 99
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "F",
+            "userShare": 80,
+            "otherShare": 20,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The baseline straight-up proposal heavily favors Big Balder Brand and leaves Mile High Royal Lions severely depleted at running back."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The refined offer builds a balanced package leveraging user RB depth and supplying MHRL with an immediate elite replacement piece at tight end and running back."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 50,
+              "summary": "Secures the ultimate dynasty running back centerpiece."
+            },
+            "championshipOutlook": {
+              "score": 25,
+              "summary": "Strong weekly projection upgrade."
+            },
+            "dynastyOutlook": {
+              "score": 60,
+              "summary": "Anchors the franchise around an elite 24-year-old foundational superstar."
+            },
+            "lineupQuality": {
+              "score": 40,
+              "summary": "Net improvement in starting roster quality."
+            },
+            "depthResilience": {
+              "score": -5,
+              "summary": "Slight dilution of running back depth compensated by elite upside."
+            },
+            "flexibilityLiquidity": {
+              "score": 45,
+              "summary": "Maximum liquid dynasty asset acquired."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 35,
+              "summary": "Maintains championship scoring output while upgrading the aging tight end position."
+            },
+            "championshipOutlook": {
+              "score": 40,
+              "summary": "Replaces Travis Kelce's declining output with elite production in Trey McBride while securing replacement RB depth."
+            },
+            "dynastyOutlook": {
+              "score": 30,
+              "summary": "Extends elite production window at tight end."
+            },
+            "lineupQuality": {
+              "score": 35,
+              "summary": "Solidifies starting lineup integrity."
+            },
+            "depthResilience": {
+              "score": 25,
+              "summary": "Insulates the roster against running back volatility."
+            },
+            "flexibilityLiquidity": {
+              "score": 15,
+              "summary": "Maintains competitive roster balance."
+            }
+          },
+          "explanation": "Visual impact reflects a mutually beneficial transaction under the refined multi-asset package."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand captures elite production at the running back position.",
+          "sideADynastyImpact": "Long-term dynasty outlook improves significantly with a premier 24-year-old asset.",
+          "sideARosterImpact": "Solidifies an elite cornerstone piece for the roster.",
+          "sideBChampionshipImpact": "Upgrades tight end production immediately, moving past Travis Kelce's age-related regression.",
+          "sideBDynastyImpact": "Injects elite youth and high-end depth into the asset base.",
+          "sideBRosterImpact": "Bridges the aging tight end dilemma while maintaining competitive scoring.",
+          "valueAssessment": "The refined multi-asset package appropriately balances value between a win-now contender and a rebuilding side."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Jahmyr Gibbs is universally valued as a top-tier dynasty asset, while Trey McBride commands top positional market value.",
+          "aviVsMarket": "AVI is fully aligned with market consensus on both players.",
+          "relevantContext": [
+            "Travis Kelce's aging profile creates immediate incentive for MHRL to secure an elite long-term answer at tight end.",
+            "Big Balder Brand's running back depth allows them to leverage surplus assets to meet contender demands."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions seeks championship production and must address the aging profile of Travis Kelce.",
+          "packageFit": "The revised multi-asset package solves MHRL's upcoming tight end transition while sustaining their weekly scoring output.",
+          "lineupReplacement": "Provides immediate and future lineup stability.",
+          "competitiveWindowFit": "Directly supports MHRL's championship push.",
+          "positionalScarcity": "Reflects high demand for elite young bell-cow running backs."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 25,
+            "opposingGmMotivation": 20,
+            "packageMatch": 18,
+            "lineupReplacement": 12,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 78,
+          "classification": "Realistic",
+          "explanation": "By offering a comprehensive package that upgrades MHRL's aging tight end spot with Trey McBride and adds valuable running back depth, the acceptance probability rises into realistic contender territory."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "A straight-up trade is a non-starter for a contending team, but incorporating user running back depth and upgrading MHRL's tight end position creates a viable path to a deal.",
+          "confidence": "Medium"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.9,
+              "publicMarket": 92,
+              "leagueMarket": 94.8
+            },
+            {
+              "name": "Omarion Hampton",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 69.8,
+              "davi": 87.9,
+              "publicMarket": 70,
+              "leagueMarket": 69.8
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jahmyr Gibbs",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 24,
+              "cavi": 99,
+              "davi": 98.4,
+              "publicMarket": 99,
+              "leagueMarket": 99
+            }
+          ],
+          "whyUserShouldDoIt": "Acquiring Jahmyr Gibbs gives your roster an elite cornerstone piece while capitalizing on your running back depth.",
+          "whyOpponentMightAccept": "It secures an elite long-term solution at tight end with Trey McBride to offset Travis Kelce's age while adding immediate backfield depth with Omarion Hampton."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.9,
+              "publicMarket": 92,
+              "leagueMarket": 94.8
+            },
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 72,
+              "davi": 85.1,
+              "publicMarket": 72,
+              "leagueMarket": 72
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jahmyr Gibbs",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 24,
+              "cavi": 99,
+              "davi": 98.4,
+              "publicMarket": 99,
+              "leagueMarket": 99
+            }
+          ],
+          "rationale": "Substitutes Bhayshul Tuten as the secondary piece to provide MHRL with alternative young backfield production."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "The user noted that Travis Kelce is aging and not elite, and expressed a willingness to leverage surplus running back depth. This context was applied by reshaping the recommended offer into a multi-asset package featuring Trey McBride and Omarion Hampton to address Mile High Royal Lions' tight end succession plan and roster needs."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jahmyr Gibbs injury updates 2026",
+          "Jahmyr Gibbs news 2026",
+          "Jahmyr Gibbs fantasy value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKHp7FzjNDmf7_ThnZ6BDGFnf65GUzZsbMwnKDcSpQeJ253RcEA6X0-Hz_tnqmrnVOfFmYFn29R_Q7cjJXukI3DUUKBMiwIzm_FvOXD0fsbmA3jMZrc9YyvVvb5JZDO2ZnVL5--pDNX4BsyVtdEB41v7fK2rbVTnXKrMTpoDxkBaiGfreG1Ce8xA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJev2-vRB_EIVvgfZZ9jfrfh9rOKq9jGg-_nfFJ-nj8TRVXSXX21KtnMEXYKcC2aPVjfiEUKHEEFe_0zCIK4ZapX05RSBsvJpi8I4V-1wh7EZTt6TgKjwo4N9a98ZzwcRXgE9E7w==",
+            "title": "dynastydealer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm_irnoy1FAQ6pye9Qyi60Y9SM5uBW77y-MiuhituvtOI3WeYj-qR3veG6komqvt0Z1JgnhLYxVogUp2kOMZXNwrlzzuRoTP_fwBTmeBl-LAE1IsyXz7FELySaZGvjYNuDHV96dbcg47XvAMS6mxjMAlNN3B-xDJuKdSg=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAbLjxnSOZvKoXVP1Pp3NLTiGKxqrAzZyH2cSOGzD_8BHiGwmfaZOP9wEi3IGyM37J_LuPWZwc9XLSDY23ZNsmsKAOMa-rmdYZjmG2z7mJRWokuq5LKY996BjzxEkziqjjMai8DY3zYn5M",
+            "title": "yafsb.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLIKV5mO32KEx1ygfEvHKRSZyFoNzFjJ83ZD4m7KrJqay9oWpz8o5H5jaMrisddB8BF6yZty9McaWKNr7dKZ284ZcrJsXh47cU6ftmrwUiFJzI87JxKtiN2xEDgcoLVNB6Nj6UU6pfW1YXFNN7L_ESZC7oqs8Dg4cIr6NWuIif9xE8NoheG3DbNY552Fyv6fSWicY6SdRa6p4R4RNa1K7JzKnQyOviLECOwOplWTVVyA-8OseWeDm1kTh254clDmWYOynXTTMysAxqig==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkQ-qJ-M4OcCadUFdfpi-PQoOdW9csvtMAESYsqVx9L-FLwsVcC51PGjc68GlOiclpbmqS2UCNzYNTmzmKzgSGgBc9mSStGnRFRSGbRkFXVPWsUdrjV1BiDiG5D8-xEl4PP7on6D2AUoj0HVMC8RfLseV75Y4idetvZq5lECtARM4Q6K3gEb3BcMvzEg==",
+            "title": "detroitlions.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXQP7Sq1wItVdrFTK51Ka75Phk3bTdF2TicPbA3YxbhDVqH2nA-iVKhvMyX-2cKdO14nYyxePCF-IrO_YLs09Kihek0h98zcEZ_p4Did2Se-y5FjXaaQmtlvdxl6dPa7yBhCvvXVvN_pdnIkGrozTD3w==",
+            "title": "pff.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2LcjNGmmQ8_zbiGnPvcQVWoZSYPNMXremnT_PATrTOM7RrPt87Fx2aUx5XgvGwA8T2ybVgpkOqIyp8pSePUGGzx5v9cNHFuHZje8rC6hnGJPoZ5Vw55iijfbjlf66OXiLHhYrNQTgAqZoXOilkzCOuiEVrGXsGMCXtGdpgkn_HuELgICka7O64Ilzs6BlNqS2pf6MDfw7gNsdddvbDIerk6k=",
+            "title": "sidelionreport.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZUiNp9miDD9z6aFrt2nkaQExq4CLTrlwBkiEWdRiVAEbJA2Kjf_lnij-iTTjxwxmCMcnNlSQB5C7CWQe35hEtFPu2SeL1hkdCC0Y97n3EzcYmbmdLfOgs6z7dZ0JAysBJa8Ri1iig",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNCsJJatF7TNEs380N3VO_lCkBJJGHipwXZRPrXYPSBqIzr9cNtR8rjePmJL87b01C7KRj8NGkK3FUmdMh6opc7OwyXyAkw5xffZyJOhp17gpj3Rm5Io12s3zdi0Y9FGxvFu4a_3W_SJoseuDAAnJyZLQoc7uRevBMKRdF59jPNO9YGs1nIMLU8sGpnWS6fA==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsFjaFy8rTBMfk72295cxfTUZ--SAe0ZKsMZNLoVOGGHp77jnQBLqvovWr4edQbR9nDqFZ0I3qAH2s3POBlNyUZdPiGTCrZBlLuz6JFju_MatDRAghXNsao6TzQU_LyzVXE8bI1Jlu1GURxMYUAPSx0zmDsenWXaWXSYS6-uYXU6MT14E-",
+            "title": "thebiglead.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGANSJPH0Qj-CKx89nKDE87UAv_Fswbi4e_Q5EVyCAfBWqoY3tzSxKs5fDBeVif4KznssoaUEM4r9mgTZCi131lBp419gxP2xQRvNZjyecjbA7-tw-56CzBAEcGz5RsRaFRK2FFBU0FgMsLDeja20nA0BrQl9U0TMeGFeXnmCMfKMI02yfjY8mp",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZYxTH96WhYXfMzbXKyux5dr3oWJ_pL5QI6hsBpA1xy4iLBK7PiLvzAWn9bopygsPqar_a6ruEXUhfRhLYC8I5oAw9lVLsQbxKTTSCqVQy0WRBc6FC19KKV_ZxZop6iwq19tN1qCCYl7sPUnfQUM_McDdockg-DvzbETd1sJfxDea7UAd8MjA=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHonlj_cbDE8W2f0fWmS7BBTBUPCj0N79IXQldRnHqogx_y9_gB6NmrAJdpadb31iRNir15KyglqMxtU0isA-B8FFxupKybu3q_yZ4lSCCueMliJaYf-dxo_dXomrrfdrWXjEOKZAu53kvmIKh5sMCH4rV12glXddTjZq0=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzTXjYqKReuWW3obpKKZ0-pOgga2Snvb-z1xZ9OK4mJ_YOxCDmoYdqL_C-O78CFB9rWepmOWfQa1pJsFoMBuPRPGhm3trETas831gTeOD5ZdqaLUykOpWg4kabH5hx22gvxtT7qppPSkH8kVyRleCNyTAjGdu_ejl36-UvrF4fBAo6_evq1nH7hZjjdUkfGe3bw3TSjJOZrPOrA7_Gvrfkvhv2lg==",
+            "title": "draftsharks.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "b00b714347f95cbc639e8d14529100a9fefa50b9",
+        "aviCoreCommittedAt": "2026-10-28T14:12:09Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 82460,
+        "groundedMarketChars": 3879,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mvs7ubw5-bdc558cb",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "b00b714347f95cbc639e8d14529100a9fefa50b9"
+      }
+    }
+  },
+  {
     "id": "mvs7ubw5-bdc558cb",
     "createdAt": 1793198149090,
     "expiresAt": 1793630149090,
