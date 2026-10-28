@@ -1,1 +1,401 @@
-[]
+[
+  {
+    "id": "mvsj9ckw-5035ef93",
+    "createdAt": 1793217324807,
+    "expiresAt": 1793649324807,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Big Balder Brand ↔ Mile High Royal Lions",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Travis Kelce",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "The submitted proposal is heavily lopsided against Big Balder Brand and strongly opposes a Retool objective. Surrendering 26-year-old Trey McBride—the unassailable overall TE1 in dynasty formats with an elite 93.4 C-AVI and 92.7 D-AVI—for 37-year-old Travis Kelce (74.0 C-AVI) and a single 2027 2nd-round pick creates an immediate 19.4 C-AVI weekly production downgrade while sacrificing a decade-long positional cornerstone for minimal draft capital. Mile High Royal Lions would eagerly accept this deal, but Big Balder Brand must DECLINE and restructure the ask to demand premium young talent (e.g., Marvin Harrison Jr.) plus first-round draft equity if McBride is moved.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 93.4,
+              "davi": 92.7,
+              "publicMarket": 95,
+              "leagueMarket": 93.4
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Travis Kelce",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "TE",
+              "age": 37,
+              "cavi": 74,
+              "davi": 77.3,
+              "publicMarket": 55,
+              "leagueMarket": 74
+            },
+            {
+              "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "F",
+            "otherGrade": "A+",
+            "userShare": 20,
+            "otherShare": 80,
+            "advantageFranchise": "Mile High Royal Lions",
+            "summary": "The submitted trade represents a catastrophic value loss for Big Balder Brand. Trading 26-year-old consensus dynasty TE1 Trey McBride for 37-year-old Travis Kelce and a 2027 2nd-round pick sacrifices 19.4 C-AVI in weekly starting lineup production and surrenders a long-term cornerstone asset for minimal future return, directly contradicting the team's Retool strategy."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "By expanding the package to demand Travis Kelce, Marvin Harrison Jr., and a 2028 1st-round pick in exchange for Trey McBride, Big Balder Brand successfully executes a true Retool—securing a 24-year-old blue-chip wide receiver and premium future draft liquidity while maintaining short-term starting TE viability."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -45,
+              "summary": "Starting tight end C-AVI drops immediately from 93.4 (McBride) to 74.0 (Kelce), cutting weekly scoring ceiling."
+            },
+            "dynastyOutlook": {
+              "score": -85,
+              "summary": "Gives up 10+ years of elite TE dominance for a 37-year-old player near retirement."
+            },
+            "lineupQuality": {
+              "score": -50,
+              "summary": "Creates a mandatory starting slot downgrade without generating starter-level compensation elsewhere."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Single 2027 2nd-round pick provides minimal roster depth or injury protection."
+            },
+            "flexibilityLiquidity": {
+              "score": 15,
+              "summary": "Acquires one 2027 2nd-round pick, adding minor draft asset liquidity."
+            },
+            "overall": {
+              "score": -60,
+              "summary": "Severe overall franchise value drain caused by trading away a 26-year-old TE1 cornerstone for an aging veteran and a secondary pick."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Upgrades starting TE slot C-AVI from 74.0 to 93.4, elevating title contention."
+            },
+            "dynastyOutlook": {
+              "score": 85,
+              "summary": "Secures an elite 26-year-old dynasty cornerstone for the next 5+ seasons."
+            },
+            "lineupQuality": {
+              "score": 50,
+              "summary": "Direct starting lineup boost at tight end."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Eliminates retirement age risk at tight end."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Outlays a 2027 2nd-round draft pick."
+            },
+            "overall": {
+              "score": 60,
+              "summary": "Massive franchise upgrade securing the premium dynasty TE1 while yielding very little core capital."
+            }
+          },
+          "explanation": "The visual impact demonstrates a severe imbalance. Big Balder Brand suffers massive losses across dynasty outlook, lineup quality, and overall portfolio value. Mile High Royal Lions captures substantial upside across starting production and long-term asset stability."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand takes an immediate starting lineup drop of -19.4 C-AVI at tight end (93.4 down to 74.0). In a 16-team league where positional scarcity at tight end is paramount, this downgrade materially damages weekly scoring potential.",
+          "sideADynastyImpact": "Catastrophic long-term loss. D-AVI drops from 92.7 (McBride) to 77.3 (Kelce) plus 48.5 (2027 2nd). Exchanging a 26-year-old locked-in All-Pro target hog for a 37-year-old player contemplating retirement destroys long-term roster equity.",
+          "sideARosterImpact": "Replaces a dominant young starter with an aging veteran who requires immediate future replacement planning, while adding a single mid-round pick that rarely yields equivalent starter production.",
+          "sideBChampionshipImpact": "Mile High Royal Lions boosts their starting tight end C-AVI by +19.4, cementing their Playoff Push with one of the most reliable volume receivers in the NFL.",
+          "sideBDynastyImpact": "Gains an elite cornerstone asset (D-AVI 92.7) while shedding a 37-year-old player with imminent retirement risk, securing positional dominance through 2029.",
+          "sideBRosterImpact": "Directly upgrades mandatory TE starter slot with zero disruption to depth at other positions.",
+          "valueAssessment": "The net AVI sum (93.4 sent vs 122.5 received) is a deceptive illusion. In 16-team fantasy formats, sum-of-parts calculations that package an aging player and a 2nd-round pick for an S-tier cornerstone severely underpay the elite asset."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus considers Trey McBride the consensus overall TE1 in dynasty formats following his record-breaking 126-catch season in 2025 and 2026 contract extension. Travis Kelce is valued primarily as a short-term win-now rental due to his age (37) and potential retirement horizon after 2026.",
+          "aviVsMarket": "AVI and public consensus align closely on Trey McBride as a tier-one cornerstone (C-AVI 93.4, Market ~95). Travis Kelce holds respectable C-AVI (74.0) for current-season redraft/contender value, but his dynasty market value (~55) is heavily depressed relative to McBride.",
+          "relevantContext": [
+            "McBride is 26 years old, signed through 2029 with Arizona, and maintains a minimum 7-catch floor per game in 2026.",
+            "Kelce is 37 years old on a 1-year deal, dealing with minor maintenance issues, and faces impending retirement.",
+            "In 16-team leagues, elite young tight ends are virtually unobtainable without paying multiple 1st-round equivalents."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions would be extremely motivated to accept this trade. Acquiring 26-year-old Trey McBride while surrendering only an aging Travis Kelce and a 2nd-round pick solves their tight end age curve permanently.",
+          "packageFit": "The submitted package is an ideal fit for Mile High Royal Lions' Playoff Push, instantly upgrading their starting TE slot while extending their competitive window by 5+ years.",
+          "lineupReplacement": "Mile High Royal Lions cleanly replaces Travis Kelce with Trey McBride in their starting lineup with zero void left behind.",
+          "competitiveWindowFit": "Perfect fit for Mile High Royal Lions. For Big Balder Brand, trading youth for age completely conflicts with a Retool strategy.",
+          "positionalScarcity": "Tight end is a scarce premium position in 16-team PPR leagues. McBride's target monopoly makes him one of the most valuable non-QB assets in the format."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 25,
+            "packageMatch": 20,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 85,
+          "classification": "Realistic",
+          "explanation": "Mile High Royal Lions has an 85% acceptance probability for this submitted construction. They receive a massive value gift, getting the consensus dynasty TE1 while giving up a 37-year-old veteran and a secondary pick."
+        },
+        "verdict": {
+          "decision": "Decline",
+          "rationale": "Big Balder Brand must DECLINE this trade immediately. Selling 26-year-old Trey McBride (93.4 C-AVI, 92.7 D-AVI) for 37-year-old Travis Kelce and a 2027 2nd-round pick destroys franchise equity, creates an immediate 19.4 C-AVI starting lineup hit, and completely violates a Retool goal by trading youth for age.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 93.4,
+              "davi": 92.7,
+              "publicMarket": 95,
+              "leagueMarket": 93.4
+            }
+          ],
+          "receive": [
+            {
+              "name": "Travis Kelce",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "TE",
+              "age": 37,
+              "cavi": 74,
+              "davi": 77.3,
+              "publicMarket": 55,
+              "leagueMarket": 74
+            },
+            {
+              "name": "Marvin Harrison Jr.",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 24,
+              "cavi": 43.7,
+              "davi": 79.1,
+              "publicMarket": 80,
+              "leagueMarket": 65
+            },
+            {
+              "name": "2028 1st · Mile High Royal Lions · Projected Mid · original owner Mile High Royal Lions",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "whyUserShouldDoIt": "This rebalanced construction delivers a legitimate Retool payoff: you add 24-year-old Marvin Harrison Jr. to your long-term WR core, gain a 2028 1st-round pick, and maintain competitive TE starter production with Kelce.",
+          "whyOpponentMightAccept": "Mile High Royal Lions is in a Playoff Push and gets the ultimate TE upgrade in 26-year-old Trey McBride, consolidating depth into an elite, unstoppable weekly winner."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 93.4,
+              "davi": 92.7,
+              "publicMarket": 95,
+              "leagueMarket": 93.4
+            }
+          ],
+          "receive": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 75.5,
+              "davi": 91.6,
+              "publicMarket": 90,
+              "leagueMarket": 85
+            },
+            {
+              "name": "Travis Kelce",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "TE",
+              "age": 37,
+              "cavi": 74,
+              "davi": 77.3,
+              "publicMarket": 55,
+              "leagueMarket": 74
+            }
+          ],
+          "rationale": "Direct 1-for-2 player trade where Big Balder Brand converts elite TE equity into a 26-year-old WR1 in Garrett Wilson while taking back Travis Kelce to plug the starting TE slot during the retooling phase."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Travis Kelce news 2026 fantasy football",
+          "Trey McBride news 2026 fantasy football",
+          "Travis Kelce retirement status 2026",
+          "Trey McBride contract NFL 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt-OfGgdb1rGaKvsYT-C2IAnzELY9t3PDzRHCref79bX9afwPjyhnDDE-etxIXV-AgFF8w-SWntlfNuOO40tWwZL5fOG5owY7ZecczzthPz7j8dOMAMjuT28Eu8LN1wA==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFotLIJnnMRBXYBzNYWSf4jmwaKGg_miNgGbs7KyRUmGNHujbouKb8_bOZtxRu74DChrWL23q6ZqdeXg1WE8B4pPOU7KNOrCQi_qmatrFDlvpWyjxy9rJQHNuvJBXyiJWJPFlZheLGcpCLkgN4S4xfuy8zaSIUU7X7mtG_kj9XxNwIiPCNuKVFvIhabPauZ4N0S-V8MukV7ZurBjqiWIykyr3d6",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB3OqPM9q3gn1x7moZuvI5TeSGThTejDI2NvqfdX8WIOm3M9o1XphZGwx11rMdz0QbNzBeDuMDUpZJI9LFgm7WFfbBC3Bsb3gd21m3RQhjiotcoRvcH9CKsKnYi8fpdEsCbtqqEU-1i7rTGvZeoLRcZeZZqzPjYcqXwVuuJX3O8zN-aVf59J0CrBLHhTt1",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHODYH2E5ExKoC-bdBzw5PEWzjtRsv1apoqmz-oPyygdSBIr_--dnXxOXg6kqLOCH4yrM7rgBNIUk-20_QQgOK1-RQg5RBtkZJTS9xLSxpiGZ1PJVkGYSMnkgkoXoZ12Qss5P63X4RGoJud9ITJV5v-MZcY_iGnpoQF_tkiqbnDpiZa_rl0qUM3jzwJ65WCJFIo1Q==",
+            "title": "denvergazette.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4tSSwiwWsCDxZfKcdPkr2gZMmD5VojfSysM9u4azpElMxzhfBxPJ4ZJ8ANovtVhr1vcjbNECpLMDkjqP4VkhRZe6pb-NA1wHWJVbQtqKm_S1Sjy4RZud0rKK2sJdn8uwOQWTpZ7XKzeib-um-GPlmiuq2Jw==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQO4QKv94zZ8YAVQCxxSO_1bZjZGraUKKGmjaYkiFmJAuO0YeYFreOu9Pv9NjfAmpxPHgVmf0viKl5d6tOPScSO4H24kbNBJResGeNqnuciHFbxGdXLLEIhz07Jik0MrNoiLzsp76gHlifd2iXoMUiipRQ4-TYpcXCbw==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES2TL2pGC9K0Za6aNHjv4cwyxs-d8fBMJvdmfPKFvzHsTMGpemxX_jQ3TZXrIWRMY9hzYoRRneni-7fBvHT_01GOtqVhFpHCS2gnKjz2qZAtu2Lw9S4L3uyzFL5B2ndlayNlXrXXBZUEcwwRG2LX0T6PoNyhFsWFnOcPiil4eXgVnIGoRKtRuA1RO5pg==",
+            "title": "clutchpoints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEomncJEeLHjCIMJAAhQh7XfZdES5rZbvT8g8AEtjUNKNG-PxAcjx6rfRPvDfY2AAPwxHaGxrySYs54a5PCkIcYhZ4LK93ZocNlZMFhREz3zxeYSZAtTSlSIrLqZFPAg==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBHpcZtiPJvP7e8x8CGFaFyvXdzgj_JB8_nGyrYkcUBTZ-lCJvhp6fbmGh2eA4Uvqvh0pyrN8cF0U9W-hAn-hjNul7Z_pcLSwDV7Q43ZxC0QuHSuaTSEpqVUXYBEk1UFJDIwg3TMM6eb0shlHk1UBT-phU32k_UUTMG96XlvXYJQ158e3ltHF1DcmG0Okjw17YkP0y4ER9OKok6Py1VEtm6A==",
+            "title": "as.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHte1bx4Ae0yD-JtBuvAKeufkLsgYGNeHaSt-5oaCfKRegc0IGKIXiaWkb3c9JfZx2LNyCW8jftsWhzdUJxnf3MrtPvH6h2K8jAcjImtbO0ESYIIWFVmRSpqYmIwX9-AkrKwggsR5WQw0NF5XwjUg7TofPi71Pb5QcK57OvkBQEBTN9mzT5vzhtTibhwl1xVUhxUrsL2B2kGbJ5",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7Gb2rYLDl2pSqy8JGM7ZvaT7I_B05Ms0Tpmpjo1YFgE0_O55TS8yxDLRBguys7IYA3kXpMMV8Rzt2Gfl8tO6RhJ30uokHQdXvqamBpkVeIvd0iPBjgkz0WYAtZoXGwELG9v8HYBQ=",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3KmEo1yCN2MqloDTDD37BRlO3cETxZufCG0FhzXqWfWxnTNaFMoiSAnTDRKY2ajMVBhoTwGEKS8pDQ4mRWM4A8Vjn1aUlAgVxsx7GtC5bwNTbv1gtNx1bq15qTRSyctmflaXQGa2p3YtCiJF-VxYGHd6qXg==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnk3MYY5TNd24V-aEhNnoBavQ8rZvM3ZzUjtrbRemvZWuEkAQI5f5-foqgMjTXXhZraHklXeDweCipjwa9P8Mx3RBSWlZCzHD_c2ldRcjAT6j1ht2lGzGSi9xSuw1eMKyJjV0o-ARyYzYHfL7D37uz0qLmQq7pWrN_COQsFgIcWj5_GhgLnbS-WoSab4cQtCaifXCZgfeHotBpCMTwXwF8jJChRCt1xhTRhNY=",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ083o1J8laVG2nZ-p33GqoHzR0gzGlwJ-TMgGn4rXh42JKxaqRyYPcv46Kb2wUUJZ_HbsdEwWqXxvxsGzF8XdYbP9fIQi8UQWzjub_rG1yccxeDyRcEuDqZs1Whi6E4ZdTZJydS6F9wet01GOzTSZdB4xueP1valmdi42w_kMIdf5kah048kfBWkCp96Glv4lcc9U35RdHddq84SPyLA=",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "3c804509df8588aced6d94413105b8757336e2c4",
+        "aviCoreCommittedAt": "2026-10-28T18:21:45Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 83014,
+        "groundedMarketChars": 4587,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  }
+]
