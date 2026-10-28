@@ -1,5 +1,46 @@
 [
   {
+    "id": "mvslvqkr-98770f47",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Tyler Warren",
+            "assetType": "player"
+          },
+          {
+            "name": "DeVonta Smith",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": [],
+      "personalContext": "Choop has a chance at the playoffs by potentially going 7-7 or 8-6. I know he has a lot of injuries and is hesitant to add two more players fighting injuries to his roster given his situation, while giving up McBride. Also, adding smith places two Eagles players on his team and they’re currently a bottom 5 offense"
+    },
+    "createdAt": 1793221668360,
+    "updatedAt": 1793221668360,
+    "expiresAt": 1793653668360,
+    "status": "queued"
+  },
+  {
     "id": "mvslqd43-6dc04e61",
     "phase": "initial",
     "mode": "analyze_trade",
