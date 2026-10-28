@@ -92,6 +92,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 14
 - Team file: 14_Phalhala_or_Bust.md
 
+## PLAYER LOOKUP: Austin Ekeler
+- Player name: Austin Ekeler
+- Player ID: 4663
+- Position: RB
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
+
 ## PLAYER LOOKUP: Baker Mayfield
 - Player name: Baker Mayfield
 - Player ID: 4892
@@ -892,14 +900,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
 
-## PLAYER LOOKUP: Jalen McMillan
-- Player name: Jalen McMillan
-- Player ID: 11618
-- Position: WR
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
-
 ## PLAYER LOOKUP: Jalen Nailor
 - Player name: Jalen Nailor
 - Player ID: 8180
@@ -1003,14 +1003,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Rapid Valley Annihilation
 - Current owner roster ID: 2
 - Team file: 02_Rapid_Valley_Annihilation.md
-
-## PLAYER LOOKUP: Jaylin Noel
-- Player name: Jaylin Noel
-- Player ID: 12536
-- Position: WR
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
 
 ## PLAYER LOOKUP: Jeremiyah Love
 - Player name: Jeremiyah Love
@@ -1998,6 +1990,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 
 ## Available Player Board
 
+## AVAILABLE PLAYER: Jaylin Noel
+- Player name: Jaylin Noel
+- Player ID: 12536
+- Position: WR
+- NFL team: HOU
+- Championship AVI (C-AVI, 0-100): 48.4
+- Dynasty AVI (D-AVI, 0-100): 70.3
+- Availability: available
+
 ## AVAILABLE PLAYER: Tyquan Thornton
 - Player name: Tyquan Thornton
 - Player ID: 8188
@@ -2041,6 +2042,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NE
 - Championship AVI (C-AVI, 0-100): 31.4
 - Dynasty AVI (D-AVI, 0-100): 54.1
+- Availability: available
+
+## AVAILABLE PLAYER: Jalen McMillan
+- Player name: Jalen McMillan
+- Player ID: 11618
+- Position: WR
+- NFL team: TB
+- Championship AVI (C-AVI, 0-100): 30.9
+- Dynasty AVI (D-AVI, 0-100): 67.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Noah Gray
@@ -3589,15 +3599,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 0.0
-- Availability: available
-
-## AVAILABLE PLAYER: Austin Ekeler
-- Player name: Austin Ekeler
-- Player ID: 4663
-- Position: RB
-- NFL team: WAS
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 13.0
 - Availability: available
 
 ## AVAILABLE PLAYER: CJ Daniels

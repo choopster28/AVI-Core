@@ -3,6 +3,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00012536",
+      "c_avi": 48.4,
+      "d_avi": 70.3,
+      "nfl_team": "HOU",
+      "player_name": "Jaylin Noel",
+      "position": "WR",
+      "sleeper_id": "12536",
+      "status": "Inactive"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00008188",
       "c_avi": 42.9,
       "d_avi": 56.4,
@@ -58,6 +70,18 @@
       "player_name": "Mack Hollins",
       "position": "WR",
       "sleeper_id": "4177",
+      "status": "Inactive"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00011618",
+      "c_avi": 30.9,
+      "d_avi": 67.2,
+      "nfl_team": "TB",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "sleeper_id": "11618",
       "status": "Inactive"
     },
     {
@@ -2127,18 +2151,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00004663",
-      "c_avi": 0.0,
-      "d_avi": 13.0,
-      "nfl_team": "WAS",
-      "player_name": "Austin Ekeler",
-      "position": "RB",
-      "sleeper_id": "4663",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00013270",
       "c_avi": 0.0,
       "d_avi": 35.7,
@@ -2762,8 +2774,8 @@
     }
   ],
   "counts": {
-    "available_players": 230,
-    "rostered_players": 249
+    "available_players": 231,
+    "rostered_players": 248
   },
   "rostered_players": [
     {
@@ -2941,6 +2953,22 @@
       "status": "Active",
       "team_file": "14_Phalhala_or_Bust.md",
       "team_name": "Phalhala or Bust"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00004663",
+      "c_avi": 0.0,
+      "d_avi": 13.0,
+      "nfl_team": "WAS",
+      "owner_id": "737531831641128960",
+      "player_name": "Austin Ekeler",
+      "position": "RB",
+      "roster_id": 7,
+      "sleeper_id": "4663",
+      "status": "Active",
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
     },
     {
       "active": true,
@@ -3690,7 +3718,7 @@
       "position": "RB",
       "roster_id": 6,
       "sleeper_id": "8129",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "06_Lightskin_Legends.md",
       "team_name": "Lightskin Legends ✊🏽"
     },
@@ -4545,22 +4573,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00011618",
-      "c_avi": 30.9,
-      "d_avi": 67.2,
-      "nfl_team": "TB",
-      "owner_id": "737531831641128960",
-      "player_name": "Jalen McMillan",
-      "position": "WR",
-      "roster_id": 7,
-      "sleeper_id": "11618",
-      "status": "Inactive",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00008180",
       "c_avi": 30.5,
       "d_avi": 57.6,
@@ -4765,22 +4777,6 @@
       "status": "Active",
       "team_file": "02_Rapid_Valley_Annihilation.md",
       "team_name": "Rapid Valley Annihilation"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00012536",
-      "c_avi": 48.4,
-      "d_avi": 70.3,
-      "nfl_team": "HOU",
-      "owner_id": "737531831641128960",
-      "player_name": "Jaylin Noel",
-      "position": "WR",
-      "roster_id": 7,
-      "sleeper_id": "12536",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
     },
     {
       "active": true,
