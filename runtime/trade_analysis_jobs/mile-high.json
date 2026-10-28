@@ -1,5 +1,41 @@
 [
   {
+    "id": "mvsjg4pf-9b8e4e7e",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "Travis Kelce",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 3rd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+          "assetType": "pick"
+        },
+        {
+          "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1793217580756,
+    "updatedAt": 1793217580756,
+    "expiresAt": 1793649580756,
+    "status": "queued"
+  },
+  {
     "id": "mvsj9ckw-5035ef93",
     "phase": "initial",
     "mode": "analyze_trade",
