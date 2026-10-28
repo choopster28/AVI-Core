@@ -1,5 +1,60 @@
 [
   {
+    "id": "mvsb6i1a-c1d22f3b",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Increase Championship Odds",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          },
+          {
+            "name": "2028 2nd · Balder · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Bijan Robinson",
+            "assetType": "player"
+          },
+          {
+            "name": "Isaiah Likely",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": [
+        {
+          "side": "A",
+          "replace": {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          },
+          "alternate": {
+            "name": "Bhayshul Tuten",
+            "assetType": "player"
+          }
+        }
+      ]
+    },
+    "createdAt": 1793203694542,
+    "updatedAt": 1793203694542,
+    "expiresAt": 1793635694542,
+    "status": "queued"
+  },
+  {
     "id": "mvsavwh3-df525c78",
     "phase": "initial",
     "mode": "analyze_trade",
