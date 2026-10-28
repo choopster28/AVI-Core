@@ -36,9 +36,318 @@
       "personalContext": "Choop has a chance at the playoffs by potentially going 7-7 or 8-6. I know he has a lot of injuries and is hesitant to add two more players fighting injuries to his roster given his situation, while giving up McBride. Also, adding smith places two Eagles players on his team and they’re currently a bottom 5 offense"
     },
     "createdAt": 1793221668360,
-    "updatedAt": 1793221670070,
+    "updatedAt": 1793221682274,
     "expiresAt": 1793653668360,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Incorporating user-specific personal context reveals that Big Balder Brand (Choop) is actively fighting for a playoff spot (projected 7-7 or 8-6) and is understandably hesitant to acquire two players currently managing injuries—Tyler Warren (groin strain) and DeVonta Smith (hamstring)—while giving up an elite, healthy producer in Trey McBride. Furthermore, adding DeVonta Smith would stack two Eagles players onto a roster facing heavy offensive headwinds with Tanner McKee under center following Jalen Hurts' season-ending blood clot diagnosis. Factoring in Choop's short-term playoff goals and risk aversion toward injured assets, the trade as originally submitted carries too much health volatility and lineup uncertainty for a team fighting down the stretch.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 93.4,
+              "davi": 92.7,
+              "publicMarket": 93,
+              "leagueMarket": 93.4
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "TE",
+              "age": 24,
+              "cavi": 81.6,
+              "davi": 90,
+              "publicMarket": 82,
+              "leagueMarket": 81.6
+            },
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 84.9,
+              "davi": 91.9,
+              "publicMarket": 85,
+              "leagueMarket": 84.9
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C+",
+            "otherGrade": "A-",
+            "userShare": 68,
+            "otherShare": 32,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "While mathematically favorable in long-term value and draft capital, the submitted trade conflicts directly with Choop's immediate playoff push (7-7 / 8-6 target). Absorbing two injured players (Warren's groin and Smith's hamstring) plus quarterback uncertainty in Philadelphia creates an unacceptable weekly production risk during a stretch run."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 10,
+              "summary": "Values long-term asset collection, but hurts immediate playoff viability due to incoming injury clouds."
+            },
+            "championshipOutlook": {
+              "score": -25,
+              "summary": "Weakens weekly floor during a critical 7-7 / 8-6 playoff push by trading an elite healthy tight end for two injured contributors."
+            },
+            "dynastyOutlook": {
+              "score": 75,
+              "summary": "Captures a young ascending tight end, a high-end wide receiver, and a 2nd-round pick."
+            },
+            "lineupQuality": {
+              "score": -10,
+              "summary": "Replaces reliable weekly points from Trey McBride with uncertain availability from Warren and Smith."
+            },
+            "depthResilience": {
+              "score": 40,
+              "summary": "Adds multi-starter roster depth once healthy, but exacerbates current injury concerns."
+            },
+            "flexibilityLiquidity": {
+              "score": 60,
+              "summary": "Acquires future draft capital."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -36,
+              "summary": "Strong upgrade at tight end for an elite contender, but hits starting lineup depth hard."
+            },
+            "championshipOutlook": {
+              "score": -55,
+              "summary": "Creates a major scoring hole at FLEX2."
+            },
+            "dynastyOutlook": {
+              "score": -35,
+              "summary": "Surrenders premium assets and picks."
+            },
+            "lineupQuality": {
+              "score": -28,
+              "summary": "Upgrades TE while dropping off at FLEX."
+            },
+            "depthResilience": {
+              "score": -52,
+              "summary": "Depletes active roster depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Parts with draft capital."
+            }
+          },
+          "explanation": "Factoring in Choop's active playoff push and risk aversion toward injury-prone or volatile situations (such as the Eagles' offense under Tanner McKee), the original trade presents too much short-term downside."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand's starting lineup C-AVI theoretically improves from 576.4 to 590.6 (+14.2). Inserting DeVonta Smith at WR2 and shifting Rashee Rice and Saquon Barkley to FLEX slots boosts starting capacity, though near-term scoring depends on Warren and Smith clearing injury hurdles.",
+          "sideADynastyImpact": "Converting one prime tight end into a 24-year-old 1st-round TE (Warren), a 27-year-old WR (Smith), and a 2027 2nd pick increases overall offensive roster D-AVI and long-term liquidity.",
+          "sideARosterImpact": "Upgrades WR2/FLEX spots and strengthens 16-team roster depth against replacement-level exposure.",
+          "sideBChampionshipImpact": "Corgi Loaf Baking Co.'s starting lineup C-AVI drops from 596.9 to 578.0 (-18.9). The +11.8 gain at TE is negated by losing DeVonta Smith (84.9) and being forced to start David Montgomery (54.2) or DJ Moore (47.1) at FLEX2.",
+          "sideBDynastyImpact": "Reduces positional depth and draft capital by concentrating top-tier value into a single tight end asset.",
+          "sideBRosterImpact": "Leaves Corgi Loaf with thin receiver depth behind Jaxon Smith-Njigba and Malik Nabers during an active championship window.",
+          "valueAssessment": "Big Balder Brand captures 215.0 total C-AVI and 230.4 D-AVI in incoming talent/capital while sending 93.4 C-AVI and 92.7 D-AVI."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus views Trey McBride as an undisputed Tier-1 dynasty tight end commanding elite target volume. Tyler Warren is an ascending 2nd-year TE with 1st-round draft capital but is currently week-to-week with a groin injury. DeVonta Smith is an established dynasty WR2/WR1 whose current redraft production is suppressed by a re-aggravated hamstring injury and the loss of QB Jalen Hurts for the season.",
+          "aviVsMarket": "Public market rankers acknowledge McBride's tier dominance, but AVI highlights that acquiring two top-25 overall position players plus a 2nd-round pick in a 16-team league offers superior roster utility, provided injury risks are managed.",
+          "relevantContext": [
+            "Trey McBride leads NFL tight ends with 49 receptions through Week 7 and averages 14.9 PPR PPG as Arizona's primary target.",
+            "Tyler Warren logged an 83%+ route participation rate for Indianapolis before sustaining a groin strain, making his post-return role solid.",
+            "DeVonta Smith is sidelined with a re-aggravated hamstring injury, and the Eagles' offense faces heavy efficiency headwinds with Tanner McKee replacing Jalen Hurts (out ROS with DVT)."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf wants to win a championship and needs elite tight end scoring.",
+          "packageFit": "Fails to respect the user's immediate playoff push and injury risk tolerance.",
+          "lineupReplacement": "Accepting injured pieces hurts weekly scoring floor.",
+          "competitiveWindowFit": "Directly contradicts a team fighting for a 7-7 / 8-6 playoff spot.",
+          "positionalScarcity": "McBride provides irreplaceable weekly stability at tight end."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 25,
+            "opposingGmMotivation": 15,
+            "packageMatch": 10,
+            "lineupReplacement": 5,
+            "competitiveWindow": 3
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 45,
+          "classification": "Unlikely",
+          "explanation": "Given the user's playoff push and valid concerns regarding injuries and offensive context, holding Trey McBride is the prudent decision."
+        },
+        "verdict": {
+          "decision": "Decline",
+          "rationale": "With Choop fighting for a playoff spot (7-7 or 8-6 target), trading a healthy, elite producer like Trey McBride for two players currently fighting injuries (Warren and Smith) introduces too much volatility. Furthermore, stacking Eagles players on a bottom-5 offense under Tanner McKee creates unnecessary downside risk. Decline the trade and retain McBride for the stretch run.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "User playoff push requirements and injury risk aversion conflict with acquiring two currently injured players.",
+          "summary": "Choop needs reliable weekly production to secure a playoff berth, making the acquisition of Warren and Smith too risky.",
+          "failedFactors": [
+            {
+              "factor": "userConstraint",
+              "explanation": "User is pushing for the playoffs and cannot absorb multiple injury risks while surrendering a healthy elite asset."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Short-term playoff goals conflict with adding sidelined players."
+            }
+          ],
+          "opponentPerspective": "Corgi Loaf acquires an elite tight end for their championship run.",
+          "userConstraintImpact": "Eliminates the viability of trading for injured assets during a playoff chase.",
+          "closestPathToDeal": "Targeting healthy win-now assets instead of injured players.",
+          "whatWouldNeedToChange": [
+            "Replacement of injured incoming assets with healthy producers."
+          ]
+        },
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Considered Choop's playoff push (7-7 / 8-6 target), his hesitation to add two injured players (Warren and Smith) while giving up healthy Trey McBride, and the concern of stacking Eagles players on a struggling offense led by Tanner McKee. Concluded that the trade should be declined."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tyler Warren NFL draft 2025 2026 stats fantasy",
+          "Trey McBride news 2026 fantasy NFL",
+          "DeVonta Smith news 2026 fantasy NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjLscY4IhlE7petQXMD0QnUHbF8wOr2TSCIW_tr3vWySWKqqj0E9ygUT8PPWCwdEPAzu5l5i4vea_M9vErMeCxA7kXmb1Lw7cq1YA1LKSw9ejL4ITj-fmFJ4RDCIwa0romZksF6wWnOUB-B9n5cs440f3XO-I=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGs8FEzofOuFxw0EZKi6xvEv1RbrH9WL0UDsMtb7jSJbjspPw8GDNdw9vNZvQMKCXlfz4s7hTnBs3RG7s6XCqvfZUbp45q4ORgr3iHWhsFS7u9kQfxOFETMEbSAnHj9St0324uL7nbD0v-bD1_tO4T2F4sD52cyzjiUnZNyarSVFE3jzGDPT5gds8g",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqoGpscu4bp5dfEFsCR2uFxbLTe18OGh5SvPBOWgs1x3qGivvBSRzzuRGEzmLg7FFwyJhwompf5ZpWxOjLhSkVgKSTHa3dO19Qvt-FdvDiRPNsOmKidg-2S0Pgbv6GL8sonm3YV2YPrJwCrkDnABxVi5ga6XNqRMdKkkoU2RN-ZQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_WtyUDBEYadt16eUhblHUnMzZsng-Jmmw50RmsQz6EPsnlttFhLZLV7mufwOff0bfG84DBQbPWB2HGvbChoF7MHClEG8Cvvvfcx-ygmxCL4bGyfWvWHJovABP4XyXsEMtQ3EIYe6b",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMtT_lNh_hX_8XxvNn0LcELfysdCh1YjOwLUvgwZJwh_Xf7a-ZRgwUVUipdLP5JAFTCLlqCZYONRmd0LGDIbk-r-nOrJ6Hbs0ZdM487syJ5myrpWk_zW7f_TD8RzF7sMJedC_8Z3dXo3HxbGB6Y1Trq7yFyysUMuSnHgU=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxw1d-Mjgw69bS6OK2SdymzBvF7NKIUn08mxg_VJRcxAiqxuKPPoatCcgIzeWzUv_955y2N_qtDVFK4P0WH1Y90IAsEFPwtRRKnDMr7F3A2HoeM5wr775abZZkyddA1f8ZrY5dCg1Sw9MnIWEvNS53tJvGMchrjqRj_tZ0rRtlb2YIXcnFMeLO",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE287s7khTaPhvdPgRHyHL_zpuJmT7USgKg5wcA5vCZh1S10iRS8PIJckIPodjBH0TBY9AE8KDIUckP14Xh6ZN_jbnKrQeAKMcdJjP3t5HnPQtelx08xE1sXYHcf94mk3Y6vA_ZtdHPQocYKGs=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8vc4R3w5Ho1vQyooJzFTCCPUqDSEmh02j5t93vfjpeJoqqnVTOefI-2tXkEA17Rby38MVerwh0BnI3vZV70N95dQ2caFpTcu8W9bs6Rqt7CDNB4nYPzjCHvk6I6clpjVcgJ8pvadyeqigTzawDAksIUl2VYfEX7E_Gm7TxgSPXPoLP6RY",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhi4qyHokwfpcHODiNzXE2H1iExHV-9AblQWagKN9q4Um17linZpbCT-7I6fjS8fV3EcnaWe4Xzfd0G11_H8KkCWxBAuKVrjvUgdpEYoVtcFGMDXUa4585PFPVAAZGWdk5xCilC-k=",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGc8xgBWmZOvgBFesUBZISOrqDJZb5FlPdgL_g8BhZVFCdsqXfM1tRkCImKCIkvbzfBQ1CLVJGANOp8epdJ-nX1U6Kpmvtci4kvzhihoNQOXZIXSxIaw5oobG8jXD8o3pL48AqeEojTFjG5BoYO7vjDFtjP19S8LDoZUmj",
+            "title": "fleaflicker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyo473j-X6giCTKjfVF2SLcgRXPX0cFNpFRUBl3OoZcXNQzoAX6eEJLWlncgs64-Da-5MYD84NmflpRdC5F2QQ7ToUtVlsnOn0p2Ye8nLak_hS_eMguH4XaNU1NTH-a5I8bWXKtByez0PsclVd66lnHmMeAenaUdqbYVULqV5H4HU9Vb-XL0wpxyyFDEvgDWoXLHu2ghpCsiCxVseBYaRfzcxK4UQf3xCCKCiDHR8=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu7ZpokNLFWyUUaozWnETEYffZWcLWJEi9DeSvifwmK0KPvvR0ootDNIwf5Grp5EeYNoVlXW9VE22GDYYSHqP1raX7qLuWlbeua6aTHL5nYOENC1Y3sUH3Yf-8BNsiNc8fHY8Dusn8Xcb0NCvFQxHTPLjL5dITgU9ViRGIIPSFD4WLb6Yq_RdK",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXoa6Wqajd_jHZf-mHZ3CL5dxC2JNOb0bw2FSUo47d86ZoCiQjVWSuh-mxdZu3KCadITNg2cNRaX01MEmYF2ao0WVQ_OnvmM3S_tsjCubUnhn-BQqGswcija2BJNE5pD59J3CCLjjlSBna3akExSQ_nIpkoxtTAMy_Jvnp66SMrx0=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgigG19nHquaPg3JbH_Z6puS5ZTEDRxadG74CldVw8-Qa6xEUBYjiPJ-2-twN--yOmfFRuUze5j8VXqneTPuOP0aFoLNGf9DsJi0oWskypDYrWDoRdrXjXKNTRTjRvLAj-d2TFmkwrWUV_wKtq",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEviaCyZhBWF1XDbCSXuyC4XtRFZFTBxM0eK9vwKSniSq8PJEy9pCO0AGbbnNXtCFU1SQEX7njP7evBRxo3BDIklawRBj-j-JzTMtUaoZakkfLyh5fa2t7f1Uf9_cNRUwiOamZ1_93qKqw5ULluV5BNLtX0bzt0AE0DsA==",
+            "title": "cbssports.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "3c804509df8588aced6d94413105b8757336e2c4",
+        "aviCoreCommittedAt": "2026-10-28T18:21:45Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 92191,
+        "groundedMarketChars": 5057,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": true,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mvslqd43-6dc04e61",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "3c804509df8588aced6d94413105b8757336e2c4"
+      }
+    }
   },
   {
     "id": "mvslqd43-6dc04e61",
