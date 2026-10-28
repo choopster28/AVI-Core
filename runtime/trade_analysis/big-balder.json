@@ -1,5 +1,262 @@
 [
   {
+    "id": "mvs71nod-b4a4b14d",
+    "createdAt": 1793196762256,
+    "expiresAt": 1793628762256,
+    "mode": "shop_assets",
+    "title": "Final Shop Assets · Big Balder Brand ↔ Conquistadors",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Big Balder Brand",
+      "goal": "Rebuild",
+      "targetTeam": "Conquistadors",
+      "assetsToShop": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3,
+      "personalContext": "Trey McBride gives him a weekly positional advantage on a championship run. Sending something else alongside McBride to have him surrender a high end asset is realistic. Multi asset trade is on the table and he wants McBride"
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Incorporating the user's personal context—specifically that the Conquistadors manager is highly motivated to acquire Trey McBride (TE, C-AVI 94.8, D-AVI 92.9) to lock down a weekly positional advantage for a championship run, and is willing to send multiple assets alongside McBride to land a high-end return—unlocks a viable trade path despite the Conquistadors lacking 1st-round draft picks. While Big Balder Brand is rebuilding, combining McBride with a secondary asset allows them to pry away elite young receiving talent like George Pickens and upside contributors from a contending roster.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Rebuild",
+          "strengths": [
+            "Elite TE cornerstone in Trey McBride (C-AVI 94.8, D-AVI 92.9)",
+            "High-upside young QB anchor in Jayden Daniels (D-AVI 86.3)",
+            "Strong elite WR nucleus with Nico Collins (D-AVI 95.2) and Rashee Rice (D-AVI 87.8)"
+          ],
+          "priorityNeeds": [
+            "Young, high-ceiling WR/RB prospects",
+            "Roster flexibility and liquidity",
+            "Accumulating elite under-25 assets when draft picks are unavailable"
+          ],
+          "tradeableSurplus": [
+            "Elite, highly marketable tight end value (Trey McBride)",
+            "Secondary depth pieces to facilitate multi-player packages"
+          ],
+          "constraintsApplied": [
+            "Target team scope limited strictly to Conquistadors",
+            "User Goal: Rebuild (acquiring appreciating young assets and ceiling pieces)",
+            "Personal Context: User willing to package McBride with a secondary piece to extract major value from a highly motivated win-now manager"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 1,
+          "managersEliminated": 0,
+          "eliminationReasons": []
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Conquistadors",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "George Pickens",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "WR",
+                "age": 24,
+                "cavi": 88.5,
+                "davi": 90.1,
+                "publicMarket": 89,
+                "leagueMarket": 90
+              },
+              {
+                "name": "Isaiah Likely",
+                "assetType": "player",
+                "owner": "Conquistadors",
+                "position": "TE",
+                "age": 25,
+                "cavi": 81.2,
+                "davi": 83.5,
+                "publicMarket": 80,
+                "leagueMarket": 81.2
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Trey McBride",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "TE",
+                "age": 26,
+                "cavi": 94.8,
+                "davi": 92.9,
+                "publicMarket": 94,
+                "leagueMarket": 94.8
+              }
+            ],
+            "scenarioType": "Multi-Asset Star Package",
+            "strategicGoal": "Acquire elite young receiver depth and a developmental tight end to replace McBride while matching the Conquistadors' championship urgency.",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 23,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 75,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "You capitalize on the Conquistadors' high motivation for McBride to secure George Pickens—a premier young wide receiver who fits your rebuilding timeline—alongside Isaiah Likely to maintain tight end production.",
+            "whyOpponentMightAccept": "The Conquistadors secure a weekly positional advantage at tight end with McBride (C-AVI 94.8) to cement their championship run, leveraging surplus roster depth like Pickens and Likely.",
+            "championshipImpact": "Slightly hurts immediate title odds in exchange for long-term roster fortification, aligning perfectly with a Rebuild mandate.",
+            "dynastyImpact": "Adds a top-tier young wideout in Pickens (D-AVI 90.1) and a cost-controlled asset in Likely, diversifying your long-term assets.",
+            "rosterImpact": "Trades a premier tight end for a foundational starting wide receiver and a younger replacement tight end.",
+            "publicMarketContext": "The public market values elite tight ends heavily, but manager motivation in a championship race often supersedes standard pick-based valuations.",
+            "risks": [
+              "Parting with the TE1 overall (McBride) means relying on Isaiah Likely long-term.",
+              "George Pickens' weekly volatility compared to McBride's positional monopoly."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Pitch Trey McBride as the missing piece for their championship run, asking for George Pickens and Isaiah Likely in return.",
+              "acceptableConcession": "Accept slight adjustments in secondary depth pieces if needed to finalize the deal.",
+              "walkAwayPoint": "Do not trade McBride for package returns that lack at least one elite young asset like Pickens."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Applied the user's insight that the Conquistadors manager values McBride heavily for a championship run and is willing to send multi-asset packages. Shifted the analysis from a 'No Deal' veto due to lack of picks into a realistic trade opportunity featuring George Pickens and Isaiah Likely for Trey McBride."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Trey McBride news 2026",
+          "Breece Hall news 2026",
+          "Breece Hall dynasty value 2026",
+          "Trey McBride dynasty value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW3BI2_-k9bnAYpELrxMP1BQCs1rsb5yofYUoZc_rlQFmZ8HyyaJv-PRsTwRJt1DlZOLtjmXdfXquXtNOfGywI4GVFjtSzdBYueRUu0ZbbMcawfLVn3i8bxN7Dnq6DDawKmT6WCv5yq2NXbn91i9a2DEkeDthqVT6c1P4f1Q4HmRhF--MaTxLxQUiDzyQqpqdVh3ugmGukl1gvwly8LAyHALre0nwAFKDvkQ==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuzsStP8EzrhRhGOElkKOj2cQeNADj8IonQen5QE4GMGgNd0EpIqx8yWCGVzGctOWThpzvBkKPQW0PowAvsN5EZg8iet7QNvJlZKNcVeC-W-bJ3hNzsI_dwlg-D9L94GXW14HF12pIJDlKLq1hPydUwWugVd_WjXQ8qy_w-NNVMcmpt-rinp3fr5-bANsy4oHFWLdyHw==",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ6Ecj7-EGgLDMoKvWZpIWjkeCIEZypydZ_oE0SB58aaFVE1GC3XvSxRqFCF3rhxwvGXMlcqWFSOQMXKEb5B0awQATiaKVI3WJ4xwOrGSxyjjK_XtqG2CDGQWfi5uwOb1u5V6fz1X4ynJy17m0-pto",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK8SUbrJtNkz4V0xylaJHVoibjtR_3tEYyGmwx9NsilM5qSPpMhx3T4mP5ViILI-BfSp-BV2weIfo1Uk_FfcIlAK9f3nrO2NGa29DTgtVaBl2dDltwB_URX95PkfA5l485Uok-GwZBZ7YfAD7cYXjP_p9eJQ7YigGOyWr8wkdHIpN4vRnIjNLQPxFqcE2OzMaWrvw=",
+            "title": "jetsxfactor.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnRZAN_Uulyn969u0Hy6Eb996-yhMlpzEAQKHsA1K-hMNxQTJv3a7UE86iVY2SF6krsDu6zG3fLA4RTaOP4SApBJWfWVVFMQ2fgrU4BOlQAUlaDiwkKgfQtg5vIJuYhiPZFaM6qCW0jH_wgDqYRS0denCNTtbsWj9XImQj5DEZbW42aWjp98SuZ7Ql49HIp2JkqYvWlD1b4nWI7EKL6Q==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG30_bJLDanRy_JmFrMSp5_2O4XQwhHU77hN0v6L_9HcJTrVOtQZxiw79wKLTgXo-K9FefyCemPElUkAO4Fb6Wje4KWYORRHsUVSJikQkXfYihBADeFz1xVD-wT8fYbN3jHw9r-iTdDXdUK2ZI2aY8DaBz2z-p0AJZLOtmX9a10SX2PxnosNr-m",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv3FBiHdp8jn6QWKqTuXtiUOdrNoAN1hy9IJ1Ka-nEorDwjxCWFHvWfHunOlKC6DRX1QQVYYP6bg5X2wq9Fg4BAqy06GqG39VHqvOhdO3CRaLcZ2Jn4vaSG3xF9_DWvwqS2HGqzZm4wMpqqS3Rd38qX0p16Law6yMM9ARhc9ksmiRGiDjkvZejJDunUl6Pb_50KZT_6NcPHg==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLhObicUPKI2pJ_T7iUDOj2pU5_xQywvUVkvuPfcionDcIYR8EoZbALEzQ8lDuBuJPkxeu5hUpRh-fOkMlB9mu7ZEwJH8PKmSVFcLUH8FUUaAZEdGsKxvDWOXIHyW7u_g13ECefeUb",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDIaxM2nda5PPNCyHf8FHGvR-8BkcRJBjHdryAV5l6G6h12b4dEzoYH6nk3ERt0SI1ec1hCkEfda7Z6Tm8pZljVgiOIACHYTLUqgNT_a-dm4uuz80iprLgs5iUk5mAFIYZO-e3tFxVSu39FGPoePj0YI4v-pSbm_CJqiuqLpr8vBrRJqcwv9SUS9PkfAhWptKRrIwI",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfJBznog63d52R5bYQahm2T7g-IIACyGwJVG43HKGrY7i7aduEb2yyc-rx8iF3_3TXGw1GuoLXzXvHIkHF2vAtTMKBROyuYd-QhrkmsjyYTCaLyKNfzWD0BbnfKvcpr2-7ewr8_s4iFPq2iFW8y-cQJJjwZBo=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjUvhIy7UjM1m2nYmpFg3fpr_t48kJkZPbi8ceK_WRduFLk7yqZ0Xp-nRCwG3gqPlyPNsUlyufFHz3g3is9WWFuCkZHSOP3o1bFOZ9nvoaO41Z5IixLAJl70M7udTJpoN6b7owuOOkNslUapHv",
+            "title": "sportspyder.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdy3XAu0YjfBhUDP1qUTWcZHZTEjc1Ka49BDmsqIj8QtfhLGtURnvIbnvUQq0BG_Nv6qRp8Xvy389yJDU33Pi09Jh8z8wr0GdKJgZ15qrrK0sNuarFLST0tvZu9Hx9ive-L4kuknnb1u2AU2Q=",
+            "title": "fantasytradetarget.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiFtx-eT84uAV5OALwiWqoNo5iSzH5BXUhJhNRZFACvnkIInYAo1JijlPtMW4pXyoxZH7q5axfSiWw7HGzMLTB5gFjat4CAZn3lWJIsdCRtY27BoC236PkYVWMgsbJ9w578_lyr6m4Zxx8KuA_J4HLEzW5V7DRCFKm",
+            "title": "keeptradecut.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Breece Hall",
+          "Trey McBride"
+        ],
+        "aviCoreCommitSha": "ce56577dae56ae7ee1c521ef923b5e61e11bb032",
+        "aviCoreCommittedAt": "2026-10-28T11:51:20Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 542127,
+        "personalContextProvided": true,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 249,
+          "starterCaliberPoolSize": 128
+        },
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mvs6yxcs-b37bfe21",
+        "verifiedCandidateContext": false,
+        "refinementDataVersion": null
+      }
+    }
+  },
+  {
     "id": "mvs6yxcs-b37bfe21",
     "createdAt": 1793196679935,
     "expiresAt": 1793628679935,
