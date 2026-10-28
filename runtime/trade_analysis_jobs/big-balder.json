@@ -30,9 +30,317 @@
       "alternateAssets": []
     },
     "createdAt": 1793205535216,
-    "updatedAt": 1793205537073,
+    "updatedAt": 1793205620698,
     "expiresAt": 1793637535216,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "For Big Balder Brand, trading Trey McBride to acquire Jonathan Taylor and Isaiah Likely is a dominant move that directly advances the goal of increasing championship odds in this 16-team league. Inserting elite RB1 Jonathan Taylor (91.8 C-AVI) elevates Saquon Barkley and Jeremiyah Love into FLEX roles, displacing Omarion Hampton to the bench and increasing Big Balder Brand's starting lineup C-AVI sum by +19.9 points (from 576.5 to 596.4). While surrendering McBride (93.4 C-AVI) loses elite TE volume, acquiring Isaiah Likely (80.4 C-AVI) maintains startable TE production while dramatically strengthening overall roster ceiling and depth resilience. From the user's perspective, this deal is an immediate Accept, though Market Reality indicates the Conquistadors front office is unlikely to accept as constructed due to a -20.3 starting C-AVI net loss for a Champion Favorite.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 93.4,
+              "davi": 92.7,
+              "publicMarket": 94,
+              "leagueMarket": 93
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jonathan Taylor",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 27,
+              "cavi": 91.8,
+              "davi": 94.5,
+              "publicMarket": 92,
+              "leagueMarket": 91.5
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 26,
+              "cavi": 80.4,
+              "davi": 85.1,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A+",
+            "otherGrade": "D+",
+            "userShare": 78,
+            "otherShare": 22,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand achieves a massive starting-lineup upgrade in a deep 16-team format. Adding Jonathan Taylor elevates starting lineup C-AVI index by +19.9 points while converting Omarion Hampton into high-end bench depth. Isaiah Likely provides solid starting TE stability despite recent target variance."
+          },
+          "recommended": {
+            "userGrade": "A+",
+            "otherGrade": "D+",
+            "userShare": 78,
+            "otherShare": 22,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The submitted offer is heavily favorable for Big Balder Brand and should be accepted immediately if on the table, though sweetening the package with additional capital will likely be necessary to achieve partner acceptance."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 90,
+              "summary": "Starting lineup C-AVI index increases by +19.9 points, significantly boosting championship win probability."
+            },
+            "dynastyOutlook": {
+              "score": 75,
+              "summary": "Acquires prime 27-year-old elite RB1 and 26-year-old TE, maintaining strong multi-year value."
+            },
+            "lineupQuality": {
+              "score": 88,
+              "summary": "Upgrades starting FLEX2 slot from Omarion Hampton (58.9 C-AVI) to Saquon Barkley (62.9 C-AVI) while inserting Taylor (91.8 C-AVI) at RB1."
+            },
+            "depthResilience": {
+              "score": 82,
+              "summary": "Pushes Omarion Hampton to the bench, giving Big Balder Brand premier RB depth behind Taylor, Tuten, Love, and Barkley."
+            },
+            "flexibilityLiquidity": {
+              "score": 70,
+              "summary": "Gains blue-chip running back asset currency in Jonathan Taylor to maneuver in future trade markets."
+            },
+            "overall": {
+              "score": 56,
+              "summary": "Major roster upgrade capturing elite RB1 volume while maintaining starter-level TE output."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -55,
+              "summary": "Starting lineup C-AVI index drops by -20.3 points, creating a significant hole at RB2/FLEX2 for a Champion Favorite."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Secures elite cornerstone TE Trey McBride (26.0 years old) for long-term dynasty stability."
+            },
+            "lineupQuality": {
+              "score": -50,
+              "summary": "Forces Breece Hall (71.1 C-AVI) to mandatory RB2 and drops FLEX2 to Harold Fannin Jr. (58.5 C-AVI) or Devaughn Vele (55.7 C-AVI)."
+            },
+            "depthResilience": {
+              "score": -60,
+              "summary": "Leaves active RB depth precarious behind Bijan Robinson and Breece Hall with De'Von Achane inactive."
+            },
+            "flexibilityLiquidity": {
+              "score": -10,
+              "summary": "Transfers RB roster flexibility into a single concentrated TE asset."
+            },
+            "overall": {
+              "score": -56,
+              "summary": "Consolidates into overall TE1 Trey McBride, but severely depletes starting RB strength and overall lineup score."
+            }
+          },
+          "explanation": "This visualization reflects the stark contrast between two playoff contenders in a 16-team league: Big Balder Brand captures a +19.9 starting C-AVI boost by leveraging McBride's peak market value into multi-positional power, while Conquistadors takes a -20.3 starting C-AVI hit by gutting RB2 depth to acquire McBride."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand increases its starting lineup C-AVI sum from 576.5 to 596.4 (+19.9 index points). Jonathan Taylor enters as RB1, shifting Jeremiyah Love and Saquon Barkley down to FLEX1 and FLEX2, while Omarion Hampton moves to the bench.",
+          "sideADynastyImpact": "Trading 26-year-old TE McBride (92.7 D-AVI) for 27-year-old RB Taylor (94.5 D-AVI) and 26-year-old TE Likely (85.1 D-AVI) yields a net D-AVI gain of +86.9 points across total offensive roster assets.",
+          "sideARosterImpact": "Solves FLEX starter quality and transforms bench running back depth into one of the most resilient rooms in the 16-team league.",
+          "sideBChampionshipImpact": "Conquistadors sees its starting lineup C-AVI sum fall from 686.8 to 666.5 (-20.3 index points). Replacing Isaiah Likely with Trey McBride (+13.0 TE gain) is far outweighed by losing Jonathan Taylor (-33.3 loss as FLEX2 drops to Harold Fannin Jr.).",
+          "sideBDynastyImpact": "Secures the premier long-term dynasty TE asset in McBride, but creates immediate structural imbalance across its running back room.",
+          "sideBRosterImpact": "Depletes active RB starters down to Bijan Robinson and Breece Hall, forcing lower-tier options into mandatory weekly FLEX slots.",
+          "valueAssessment": "In raw C-AVI sums, Big Balder Brand sends 93.4 C-AVI and receives 172.2 C-AVI (+78.8 net portfolio C-AVI gain). Market math heavily favors Big Balder Brand."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus values Trey McBride as an untouchable Tier-1 dynasty tight end, highlighted by his historical target participation and clean health profile. Jonathan Taylor remains an elite RB1 anchored by heavy touch volume despite recent Colts offensive line trades. Isaiah Likely offers high ceiling flashes, though currently on a Week 8 Bye with minor lower-body concern and recent target variance following J.J. McCarthy's integration.",
+          "aviVsMarket": "AVI values Trey McBride (93.4 C-AVI) and Jonathan Taylor (91.8 C-AVI) in lockstep with public consensus (94.0 and 92.0). Isaiah Likely's 80.4 C-AVI reflects his high weekly ceiling while accounting for situational volatility.",
+          "relevantContext": [
+            "Trey McBride recorded 400 career receptions faster than any TE in NFL history and carries zero injury designation.",
+            "Jonathan Taylor has logged 140 carries for 587 yards and 8 TDs through 7 games in 2026.",
+            "Isaiah Likely is on a Week 8 Bye after battling a minor post-Week 7 limp and seeing target volume drop to 2 catches for 12 yards in J.J. McCarthy's debut start."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors GM seeks to create an unassailable positional advantage at TE with Trey McBride to pair with Josh Allen, Puka Nacua, and Bijan Robinson.",
+          "packageFit": "The package provides Conquistadors an elite centerpiece TE, but creates a major vacancy at RB2/FLEX that severely degrades overall weekly output.",
+          "lineupReplacement": "Conquistadors must promote Breece Hall to full-time RB2 and insert Harold Fannin Jr. (58.5 C-AVI) or Devaughn Vele (55.7 C-AVI) into FLEX2.",
+          "competitiveWindowFit": "Conquistadors is a Champion Favorite (HQ Status). Accepting a net starting lineup decline of -20.3 C-AVI runs counter to their immediate championship objective.",
+          "positionalScarcity": "Elite TE volume is scarce, but high-volume RB1 production in a 16-team league is equally scarce and vital for playoff progression."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 3,
+            "packageMatch": 3,
+            "lineupReplacement": 1,
+            "competitiveWindow": 1
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 38,
+          "classification": "Unlikely",
+          "explanation": "While Trey McBride is unlisted on the trade block, availability passes per league rules. However, because Conquistadors is a Champion Favorite whose starting lineup drops by -20.3 C-AVI upon losing Jonathan Taylor without receiving a starting-caliber RB in return, both lineup replacement and competitive window validations fail. The Conquistadors GM is unlikely to accept this offer as constructed."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "For Big Balder Brand, this trade is a huge strategic success. Acquiring Jonathan Taylor elevates starting lineup C-AVI by +19.9 index points by shifting Saquon Barkley to FLEX2 and Omarion Hampton to the bench, while Isaiah Likely provides startable TE production. It directly advances the user goal to 'Increase Championship Odds'. If offered or available, smash accept.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 93.4,
+              "davi": 92.7,
+              "publicMarket": 94,
+              "leagueMarket": 93
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jonathan Taylor",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 27,
+              "cavi": 91.8,
+              "davi": 94.5,
+              "publicMarket": 92,
+              "leagueMarket": 91.5
+            },
+            {
+              "name": "Isaiah Likely",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "TE",
+              "age": 26,
+              "cavi": 80.4,
+              "davi": 85.1,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ],
+          "whyUserShouldDoIt": "Big Balder Brand gains +19.9 index points in starting C-AVI, transforms FLEX2 into elite RB production, and strengthens bench depth resilience for the championship push.",
+          "whyOpponentMightAccept": "Conquistadors consolidates into dynasty TE1 Trey McBride, pairing him with Josh Allen and Puka Nacua if they believe Breece Hall and Harold Fannin Jr. can hold down RB2/FLEX."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Isaiah Likely NFL 2026 stats news injury",
+          "Trey McBride NFL 2026 stats news injury",
+          "Jonathan Taylor NFL 2026 stats news injury"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkBtgXYXSQTtsLF2d8-ifq9FAATSvZmNYCpsvNSiPFhlpkF48p_Xety60OnU3Ndv8nPS_juhX5yqsz9n-lT_gcMWTtHXHpwZBbMh2BTDee_vSmYcll4x987HdRPHsifSimJYGTL857MLbSjQl5MU3DGu15vOAUzgeRT76gOQhnMLVYMaOfiNaloQ_qMQo2OGnq-NZGlcetol4M3i0EfNraJ6kW1fZh",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKi41Occw71wb71uzUEbPzOXrX-gTSURge_Jdee6xYRo20u_KG7QUTYf1VkCIVLYguKaxX8ENPuP5h8OjIftFvKf0gSSMgwme4XaSofYZNKEFXyKz_zNDuvH-5w4iZEHIVpzbr53ZKwI3TArLwdw==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcTlCq0BJIVKzNwogezoaOzcs6rAdZg2y9IrAPWYyMb6EaP7CUKPjsrPhUjxwCPtlAh_JH0ilJdjyd2wB47YdSAG-8NMeakD616PG1ycNsS-fHDeO6qCgeT3KpjaUETMbFKuhpjIaKMwIcdJNtnV5VE8gKgWQm-Ue6XpM=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfx_arGeqgtCK6GoC9nnrQlsLUguXoJUoiVfKviZYU0lsd41EAMib9iHNzBvFGeyvw8_QdHpwPbLVtkVEuqDjNKm4V9rdLhKHxhBnLkRJU8JNpS5rCE6Z8n7VL5puqwF3mdiUPAMpJ2fkY",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJl65fsY0g7BbN4epz0OMn7HRXIZK4znmA7A1A8U371lwDCzfu2D9wAvvNv2cw4nl8fF-VAA8vznXmzRqL-go1H0FYX1iYB4ohZlEAn2QsOXH18AIqCjgey3mftiW5IRse9tnpkO63DRYdA3PSGpLi0U5-wuQKVn-XwcNiC6IGwy4mx0uYO8i9EoPIZuTrKREwbLJaVWQ=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzXLDizZ4Xw1BKFTJR0ShhGA1d0KSeC-an9MGEjiAkrYXzeq5lOAi_fLgvV5JnmOb28b1dzL9li9tx7DIIt31uuv6ZmBYXSO_rf9_wiJP83Ni2dOTlWrRK3a-_GmFO5wzRGNDgS1AZ_00w",
+            "title": "sleeper.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRf5PnBZbmZvLHnUOsFgumJ0lJynM9sAy3qHLcCmt3VBgK96FCFOKMk_NIzz30y27zLPXdXloelWmqnh5_CQzCVVy70K6wAedFgQyrWO9hHUIfJCFwzzoAlbHPbaIyPeNhMA7zDSmaI_E3NyLboSsH6g==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJmfonmoi5whSUkILFAH2dRsWdeCiD_4vTBXU3GaT5srNCWgh0wsn7tFbVI39950hl1tZiCKPs94gyZYclnQiudxS_0H8nUv8oqEFNTRo-b-u0ilfBXtBKa3YZ_pfVzJnQMtu3WRjXD4XCMB9MNJCV_1nv7tMMhdIrjF_WKbM=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvVjuiSTrbnm33ERXEieK3-BVvf5odmSEFkyay8DXaTwf_gI-tQJiePp2gDMQwT8wGBWgfoGIh3K_V_wx3z6QhWttdx_zm8aDYJ2UYWFFRkcnx_lTnCNf-z_BCmLBhSjydbS_QZt-P-n58S719xZQSyeQ9FSPdxr1EYIJRLOIikgfa_G89-DgvJBt5zsUYYO3zUppunu4x9Og770BUfDat",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0PQ_MjQ8JD5_zMiTC7O0VAllvlRVak3ER8FWP2W_Fx4p0GDaOxV9E4_idukjse31BXxMkgO_s0BB5zyPKTmQFUSaTZQ9JwZo0m9s0ZLNmDuwnG1Kse1QlNcZ1DjbX0CHMLU7aORuWmiv0WY32JwtYAZ1stD10emS0fG61gxjQuTFogdb_fXfCPrM-YzytGxocN9gMmNmNLUs=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8RhqF0VXU34fmVvxc4Cuo7AtesadLqNQ4njMyH56IKViHi8PEuR7j1-nBHLRt060-lwvm-nIdJ59q_-fIUOwp92Utaf6TVO8PErCurEFK0DfSHPS4QhaT9hLrt5ym9OHsTPCfudnJHlPu81Nz_aplpvCoDsff92rqDt3I",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW7rr5yEu42b7kMzIg2j29VtkytEE-Yma4hEc98TjLC9iMGYEfS6FJ9pSiSnFeuCpkyBaSExsF2mo-QHk_nvBDeMwX4KI48d_561InYB14G0LQ8OyxoA116HV9y7XiDnNg7MNx",
+            "title": "sicscore.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "7e63736bc0a5e753acfa8c79480c428a4f21b9a1",
+        "aviCoreCommittedAt": "2026-10-28T15:51:38Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 83921,
+        "groundedMarketChars": 4354,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": true
+      }
+    }
   },
   {
     "id": "mvsbggcl-180f2a6f",
