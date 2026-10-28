@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 596.7
-- championship_lineup_c_avi_avg: 74.59
-- offensive_roster_c_avi_sum: 867.6
+- championship_lineup_c_avi_sum: 596.8
+- championship_lineup_c_avi_avg: 74.60
+- offensive_roster_c_avi_sum: 867.7
 - offensive_roster_c_avi_avg: 54.23
 - offensive_roster_d_avi_sum: 1207.7
 - offensive_roster_d_avi_avg: 75.48
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Rhamondre Stevenson | C-AVI: 65.0 | D-AVI: 78.1
 - WR: Jaxon Smith-Njigba | C-AVI: 99.1 | D-AVI: 99.5
 - WR: Malik Nabers | C-AVI: 92.2 | D-AVI: 96.8
-- TE: Tyler Warren | C-AVI: 81.5 | D-AVI: 90.0
+- TE: Tyler Warren | C-AVI: 81.6 | D-AVI: 90.0
 - FLEX: DeVonta Smith | C-AVI: 84.9 | D-AVI: 92.5
 - FLEX: Cam Skattebo | C-AVI: 56.0 | D-AVI: 80.1
 
@@ -291,7 +291,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 81.5
+- Championship AVI (C-AVI, 0-100): 81.6
 - Dynasty AVI (D-AVI, 0-100): 90.0
 - Projected PPR points: 201.1
 - Category: offense

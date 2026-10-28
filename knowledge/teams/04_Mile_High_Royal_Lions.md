@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 532.0
-- championship_lineup_c_avi_avg: 66.50
-- offensive_roster_c_avi_sum: 820.2
-- offensive_roster_c_avi_avg: 51.26
-- offensive_roster_d_avi_sum: 1172.8
-- offensive_roster_d_avi_avg: 73.30
+- championship_lineup_c_avi_sum: 532.1
+- championship_lineup_c_avi_avg: 66.51
+- offensive_roster_c_avi_sum: 829.2
+- offensive_roster_c_avi_avg: 51.83
+- offensive_roster_d_avi_sum: 1174.3
+- offensive_roster_d_avi_avg: 73.39
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,10 +37,27 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Garrett Wilson | C-AVI: 75.5 | D-AVI: 91.6
 - TE: Travis Kelce | C-AVI: 74.0 | D-AVI: 77.3
 - FLEX: Dalton Schultz | C-AVI: 52.0 | D-AVI: 69.9
-- FLEX: Marvin Harrison Jr. | C-AVI: 43.6 | D-AVI: 79.3
+- FLEX: Marvin Harrison Jr. | C-AVI: 43.7 | D-AVI: 79.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
+
+### PLAYER: Jalen Hurts
+- Player name: Jalen Hurts
+- Player ID: 6904
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: PHI
+- Active: True
+- Status: Inactive
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): 60.0
+- Dynasty AVI (D-AVI, 0-100): 80.4
+- Projected PPR points: 310.5
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Matthew Stafford
 - Player name: Matthew Stafford
@@ -56,23 +73,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 52.6
 - Dynasty AVI (D-AVI, 0-100): 67.4
 - Projected PPR points: 280.2
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Jalen Hurts
-- Player name: Jalen Hurts
-- Player ID: 6904
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Position: QB
-- Fantasy positions: ['QB']
-- NFL team: PHI
-- Active: True
-- Status: Inactive
-- Age: 28.0
-- Championship AVI (C-AVI, 0-100): 51.2
-- Dynasty AVI (D-AVI, 0-100): 78.9
-- Projected PPR points: 310.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 17.8
+- Championship AVI (C-AVI, 0-100): 17.9
 - Dynasty AVI (D-AVI, 0-100): 36.2
 - Projected PPR points: 15.1
 - Category: offense
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 43.6
+- Championship AVI (C-AVI, 0-100): 43.7
 - Dynasty AVI (D-AVI, 0-100): 79.3
 - Projected PPR points: 186.2
 - Category: offense

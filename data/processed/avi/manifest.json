@@ -16,7 +16,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-10-28T15:17:11.541316+00:00",
+  "generated_at_utc": "2026-10-28T15:50:27.595066+00:00",
   "in_season_transition": {
     "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     "completed_through_week": 7,
@@ -39,7 +39,7 @@
   "injury_availability_adjustments": {
     "championship_horizon_end_week": 17,
     "current_week": 8,
-    "players_capped": 1,
+    "players_capped": 3,
     "players_evaluated": 479,
     "policy": "Projection-aware C-AVI ceiling. Updated projections/rankings get first chance to price the injury; the availability layer only caps residual overstatement and therefore does not multiply an already reduced projection.",
     "source_priority": [
@@ -52,6 +52,7 @@
     ],
     "status": "active"
   },
+  "injury_rebound_policy": "Bounded credit for verified current injuries with missed games and established healthy ceiling; never applied to healthy underperformers or unproven upside.",
   "league_id": "1312185568032997376",
   "methodology_status": "active_2026_3_in_season",
   "methodology_version": "2026.3",

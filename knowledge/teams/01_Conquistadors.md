@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 684.2
-- championship_lineup_c_avi_avg: 85.53
-- offensive_roster_c_avi_sum: 1042.2
-- offensive_roster_c_avi_avg: 57.90
-- offensive_roster_d_avi_sum: 1376.6
-- offensive_roster_d_avi_avg: 76.48
+- championship_lineup_c_avi_sum: 686.8
+- championship_lineup_c_avi_avg: 85.85
+- offensive_roster_c_avi_sum: 1053.5
+- offensive_roster_c_avi_avg: 58.53
+- offensive_roster_d_avi_sum: 1378.6
+- offensive_roster_d_avi_avg: 76.59
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: George Pickens | C-AVI: 84.8 | D-AVI: 94.1
 - TE: Isaiah Likely | C-AVI: 80.4 | D-AVI: 85.1
 - FLEX: Matthew Golden | C-AVI: 72.3 | D-AVI: 86.5
-- FLEX: Breece Hall | C-AVI: 68.5 | D-AVI: 89.0
+- FLEX: Breece Hall | C-AVI: 71.1 | D-AVI: 89.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 68.5
-- Dynasty AVI (D-AVI, 0-100): 89.0
+- Championship AVI (C-AVI, 0-100): 71.1
+- Dynasty AVI (D-AVI, 0-100): 89.5
 - Projected PPR points: 211.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 51.3
-- Dynasty AVI (D-AVI, 0-100): 87.2
+- Championship AVI (C-AVI, 0-100): 60.0
+- Dynasty AVI (D-AVI, 0-100): 88.7
 - Projected PPR points: 257.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

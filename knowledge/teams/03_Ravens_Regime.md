@@ -21,16 +21,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 537.8
-- championship_lineup_c_avi_avg: 67.22
-- offensive_roster_c_avi_sum: 815.9
-- offensive_roster_c_avi_avg: 47.99
-- offensive_roster_d_avi_sum: 1253.1
-- offensive_roster_d_avi_avg: 73.71
+- championship_lineup_c_avi_sum: 543.6
+- championship_lineup_c_avi_avg: 67.95
+- offensive_roster_c_avi_sum: 821.5
+- offensive_roster_c_avi_avg: 48.32
+- offensive_roster_d_avi_sum: 1254.0
+- offensive_roster_d_avi_avg: 73.76
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Lamar Jackson | C-AVI: 68.8 | D-AVI: 87.4
+- QB: Lamar Jackson | C-AVI: 74.6 | D-AVI: 88.4
 - RB: Derrick Henry | C-AVI: 80.8 | D-AVI: 85.8
 - RB: Tony Pollard | C-AVI: 65.2 | D-AVI: 75.8
 - WR: Zay Flowers | C-AVI: 90.9 | D-AVI: 95.3
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 68.8
-- Dynasty AVI (D-AVI, 0-100): 87.4
+- Championship AVI (C-AVI, 0-100): 74.6
+- Dynasty AVI (D-AVI, 0-100): 88.4
 - Projected PPR points: 326.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 34.1
-- Dynasty AVI (D-AVI, 0-100): 80.2
+- Championship AVI (C-AVI, 0-100): 33.9
+- Dynasty AVI (D-AVI, 0-100): 80.1
 - Projected PPR points: 111.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

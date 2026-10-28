@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 544.2
-- championship_lineup_c_avi_avg: 68.03
-- offensive_roster_c_avi_sum: 830.6
-- offensive_roster_c_avi_avg: 48.86
-- offensive_roster_d_avi_sum: 1231.1
-- offensive_roster_d_avi_avg: 72.42
+- championship_lineup_c_avi_sum: 576.5
+- championship_lineup_c_avi_avg: 72.06
+- offensive_roster_c_avi_sum: 862.8
+- offensive_roster_c_avi_avg: 50.75
+- offensive_roster_d_avi_sum: 1236.4
+- offensive_roster_d_avi_avg: 72.73
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jayden Daniels | C-AVI: 75.7 | D-AVI: 85.6
 - RB: Bhayshul Tuten | C-AVI: 70.3 | D-AVI: 84.8
-- RB: Omarion Hampton | C-AVI: 58.9 | D-AVI: 86.1
+- RB: Jeremiyah Love | C-AVI: 65.8 | D-AVI: 89.9
 - WR: Nico Collins | C-AVI: 82.9 | D-AVI: 94.1
-- WR: Rashee Rice | C-AVI: 55.2 | D-AVI: 85.9
+- WR: Rashee Rice | C-AVI: 66.6 | D-AVI: 87.8
 - TE: Trey McBride | C-AVI: 93.4 | D-AVI: 92.7
-- FLEX: Jeremiyah Love | C-AVI: 58.6 | D-AVI: 88.7
-- FLEX: Saquon Barkley | C-AVI: 49.2 | D-AVI: 82.8
+- FLEX: Saquon Barkley | C-AVI: 62.9 | D-AVI: 85.0
+- FLEX: Omarion Hampton | C-AVI: 58.9 | D-AVI: 86.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -93,23 +93,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Omarion Hampton
-- Player name: Omarion Hampton
-- Player ID: 12507
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: LAC
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 58.9
-- Dynasty AVI (D-AVI, 0-100): 86.1
-- Projected PPR points: 242.9
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Jeremiyah Love
 - Player name: Jeremiyah Love
 - Player ID: 13287
@@ -121,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 58.6
-- Dynasty AVI (D-AVI, 0-100): 88.7
+- Championship AVI (C-AVI, 0-100): 65.8
+- Dynasty AVI (D-AVI, 0-100): 89.9
 - Projected PPR points: 211.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -138,9 +121,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 49.2
-- Dynasty AVI (D-AVI, 0-100): 82.8
+- Championship AVI (C-AVI, 0-100): 62.9
+- Dynasty AVI (D-AVI, 0-100): 85.0
 - Projected PPR points: 246.7
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Omarion Hampton
+- Player name: Omarion Hampton
+- Player ID: 12507
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: LAC
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 58.9
+- Dynasty AVI (D-AVI, 0-100): 86.1
+- Projected PPR points: 242.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 55.2
-- Dynasty AVI (D-AVI, 0-100): 85.9
+- Championship AVI (C-AVI, 0-100): 66.6
+- Dynasty AVI (D-AVI, 0-100): 87.8
 - Projected PPR points: 229.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -291,7 +291,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 24.4
+- Championship AVI (C-AVI, 0-100): 24.3
 - Dynasty AVI (D-AVI, 0-100): 51.2
 - Projected PPR points: 41.7
 - Category: offense

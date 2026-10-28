@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 510.8
-- championship_lineup_c_avi_avg: 63.85
-- offensive_roster_c_avi_sum: 829.9
-- offensive_roster_c_avi_avg: 46.11
-- offensive_roster_d_avi_sum: 1245.3
-- offensive_roster_d_avi_avg: 69.18
+- championship_lineup_c_avi_sum: 524.2
+- championship_lineup_c_avi_avg: 65.53
+- offensive_roster_c_avi_sum: 843.3
+- offensive_roster_c_avi_avg: 46.85
+- offensive_roster_d_avi_sum: 1247.5
+- offensive_roster_d_avi_avg: 69.31
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,9 +34,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Javonte Williams | C-AVI: 83.9 | D-AVI: 89.4
 - RB: Chase Brown | C-AVI: 73.7 | D-AVI: 90.1
 - WR: Parker Washington | C-AVI: 77.4 | D-AVI: 91.4
-- WR: Keon Coleman | C-AVI: 50.1 | D-AVI: 66.8
+- WR: Ladd McConkey | C-AVI: 62.0 | D-AVI: 87.8
 - TE: Kyle Pitts Sr. | C-AVI: 59.8 | D-AVI: 80.9
-- FLEX: Ladd McConkey | C-AVI: 48.6 | D-AVI: 85.6
+- FLEX: Keon Coleman | C-AVI: 50.1 | D-AVI: 66.8
 - FLEX: Mike Gesicki | C-AVI: 45.4 | D-AVI: 58.8
 
 ## Current Roster — All Player Cards
@@ -161,6 +161,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Ladd McConkey
+- Player name: Ladd McConkey
+- Player ID: 11635
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: LAC
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 62.0
+- Dynasty AVI (D-AVI, 0-100): 87.8
+- Projected PPR points: 228.2
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Keon Coleman
 - Player name: Keon Coleman
 - Player ID: 11637
@@ -175,23 +192,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 50.1
 - Dynasty AVI (D-AVI, 0-100): 66.8
 - Projected PPR points: 85.8
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Ladd McConkey
-- Player name: Ladd McConkey
-- Player ID: 11635
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: LAC
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 48.6
-- Dynasty AVI (D-AVI, 0-100): 85.6
-- Projected PPR points: 228.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

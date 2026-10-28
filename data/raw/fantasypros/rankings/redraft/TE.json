@@ -2976,7 +2976,7 @@
     },
     {
       "cbs_player_id": "28873701",
-      "player_bye_week": null,
+      "player_bye_week": "11",
       "player_ecr_delta": null,
       "player_eligibility": "TE",
       "player_filename": "carsen-ryan.php",
@@ -2989,7 +2989,7 @@
       "player_position_id": "TE",
       "player_positions": "TE",
       "player_short_name": "C. Ryan",
-      "player_team_id": "FA",
+      "player_team_id": "CLE",
       "player_yahoo_id": "42870",
       "player_yahoo_positions": "TE",
       "pos_rank": "TE111",
