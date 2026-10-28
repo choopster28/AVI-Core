@@ -1,5 +1,395 @@
 [
   {
+    "id": "mvrnofu2-84afb501",
+    "createdAt": 1793164317527,
+    "expiresAt": 1793596317527,
+    "mode": "improve_team",
+    "title": "Initial Improve My Team · Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetPosition": "RB, WR, TE, QB",
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. enters this market analysis seeking immediate lineup improvements across RB, WR, TE, and QB to increase championship odds. Having previously traded away its 2027, 2028, and 2029 1st-round draft picks, Corgi Loaf must leverage its high-end wide receiver surplus (anchored by Jaxon Smith-Njigba and Malik Nabers) or running back depth alongside its remaining 2027 2nd-round pick. After evaluating all 15 rival franchises through the Market Reality Engine, candidate packages involving injured targets (such as De'Von Achane on IR) and elite contenders unwilling to sell cornerstones without 1st-round capital were eliminated. Three realistic trade opportunities were generated with retooling trade partners (Gringo's Goblins, Phalhala or Bust, and Southside Savages) that satisfy both front-office strategic goals.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Increase Championship Odds",
+          "strengths": [
+            "Elite young wide receiver duo in Jaxon Smith-Njigba (C-AVI: 99.3) and Malik Nabers (C-AVI: 92.1)",
+            "Proven QB1 anchor in Patrick Mahomes (C-AVI: 57.0, D-AVI: 79.9)",
+            "Solid running back depth with Chuba Hubbard (C-AVI: 69.1), Rhamondre Stevenson (C-AVI: 67.2), Cam Skattebo (C-AVI: 66.4), and David Montgomery (C-AVI: 65.5)"
+          ],
+          "priorityNeeds": [
+            "High-end RB1 starter upgrade to boost weekly lineup ceiling",
+            "FLEX slot production optimization"
+          ],
+          "tradeableSurplus": [
+            "Wide receiver depth (DeVonta Smith, DJ Moore)",
+            "Running back rotation depth (David Montgomery, Cam Skattebo)",
+            "2027 Round 2 draft capital (Badland Banditos)"
+          ],
+          "constraintsApplied": [
+            "Must advance Corgi Loaf Baking Co.'s Win Championship / Playoff Push goal",
+            "Must satisfy Target Team's verified organizational goal",
+            "No 1st-round picks available for trade",
+            "Hard-unavailable/injured players (e.g., De'Von Achane) excluded from incoming active lineup recommendations",
+            "All player trade components must meet league-relative starter/FLEX caliber"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "All Hail King Jesus (Win Championship): Amon-Ra St. Brown is publicly available on the trade block, but as a championship contender, All Hail King Jesus cannot surrender an S-tier cornerstone for WR2 depth without receiving 1st-round draft capital or immediate starter upgrades across multiple positions.",
+            "Conquistadors (Win Championship): De'Von Achane is listed on the trade block but is on IR with a torn ACL; hard injury rules prevent incoming IR assets from fulfilling immediate starter requirements for a contender.",
+            "Crimson Tide Pods, Northside Kings, DMV Fantasy (Rebuild): Rebuilding franchises demand premium 1st-round draft capital for top-tier starters, which Corgi Loaf cannot offer due to prior trades.",
+            "Elite Contenders (Badland Banditos, Smoky Valley Wheat Warriors): Unwilling to part with active starting pieces to a direct playoff rival without overwhelming overpays."
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Gringo’s Goblins",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Kyren Williams",
+                "assetType": "player",
+                "owner": "Gringo’s Goblins",
+                "position": "RB",
+                "age": 26,
+                "cavi": 86.2,
+                "davi": 91,
+                "publicMarket": 85,
+                "leagueMarket": 86.2
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "DeVonta Smith",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "WR",
+                "age": 27,
+                "cavi": 87,
+                "davi": 92.8,
+                "publicMarket": 88,
+                "leagueMarket": 87
+              }
+            ],
+            "scenarioType": "Peer Starter Swap",
+            "strategicGoal": "Acquire an elite RB1 anchor in Kyren Williams to elevate Corgi Loaf's starting lineup ceiling while trading from Corgi Loaf's wide receiver surplus.",
+            "scoring": {
+              "availability": 20,
+              "opposingGmMotivation": 20,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 79,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Kyren Williams (C-AVI: 86.2) immediately steps in as Corgi Loaf's RB1, providing high-volume touchdown upside. Corgi Loaf can comfortably afford sending DeVonta Smith thanks to starting anchors Jaxon Smith-Njigba (C-AVI: 99.3) and Malik Nabers (C-AVI: 92.1).",
+            "whyOpponentMightAccept": "Gringo's Goblins is in a Retooling window and secures an elite 27-year-old WR1 in DeVonta Smith (D-AVI: 92.8) to anchor their retooling wide receiver corps alongside Jameson Williams and Emeka Egbuka.",
+            "championshipImpact": "Significantly increases Corgi Loaf's championship odds by converting WR depth into a true RB1 workhorse.",
+            "dynastyImpact": "Maintains high dynasty value equity in a near-peer age 27 for 26 swap.",
+            "rosterImpact": "Kyren Williams becomes the primary RB1; DJ Moore moves up into the starting WR3/FLEX slot.",
+            "publicMarketContext": "Kyren Williams continues to command high redraft and dynasty touch volume in LA, while DeVonta Smith remains a prized dynasty WR1 despite Philadelphia's current offensive fluctuations.",
+            "risks": [
+              "Reduces wide receiver depth if a secondary WR suffers an injury",
+              "Kyren Williams carries typical running back workload injury risks"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer DeVonta Smith straight up for Kyren Williams, highlighting DeVonta's elite D-AVI (92.8) and long-term WR stability for a retooling roster.",
+              "acceptableConcession": "Throw in a 2027 3rd-round pick if Gringo's Goblins asks for a minor sweetener to finalize.",
+              "walkAwayPoint": "Walk away if Gringo's Goblins demands Jaxon Smith-Njigba or Malik Nabers."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Southside Savages",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "DK Metcalf",
+                "assetType": "player",
+                "owner": "Southside Savages",
+                "position": "WR",
+                "age": 28,
+                "cavi": 65.5,
+                "davi": 82.1,
+                "publicMarket": 75,
+                "leagueMarket": 65.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "David Montgomery",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 65.5,
+                "davi": 77.8,
+                "publicMarket": 70,
+                "leagueMarket": 65.5
+              },
+              {
+                "name": "2027 Round 2 (Badland Banditos)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 48.5,
+                "publicMarket": 50,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Positional Surplus Swap with Sweetener",
+            "strategicGoal": "Convert running back rotation depth into proven starting WR firepower to maximize FLEX scoring.",
+            "scoring": {
+              "availability": 20,
+              "opposingGmMotivation": 20,
+              "packageMatch": 17,
+              "lineupReplacement": 13,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 78,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Acquiring DK Metcalf gives Corgi Loaf three elite WRs (JSN, Nabers, Metcalf/DeVonta) to dominate starting FLEX slots, while utilizing Corgi Loaf's RB depth.",
+            "whyOpponentMightAccept": "Southside Savages needs starting RB production (currently relying on Emanuel Wilson and TreVeyon Henderson). David Montgomery provides immediate starter volume, and the 2027 2nd-round pick adds valuable retooling capital.",
+            "championshipImpact": "Upgrades weekly FLEX score ceiling for Corgi Loaf's title run.",
+            "dynastyImpact": "Slightly improves WR age profile while parting with a 29-year-old RB and a 2nd-round pick.",
+            "rosterImpact": "DK Metcalf enters the starting FLEX spot; Chuba Hubbard, Rhamondre Stevenson, and Cam Skattebo continue handling RB duties.",
+            "publicMarketContext": "Metcalf remains a target-hog perimeter WR1/2, while Montgomery is set to return from his groin injury to resume a heavy role in Houston's backfield.",
+            "risks": [
+              "Depletes Corgi Loaf's remaining top 2027 draft pick asset",
+              "Montgomery's departure reduces RB injury backup depth"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose David Montgomery + 2027 3rd for DK Metcalf, emphasizing Southside's urgent need for RB volume.",
+              "acceptableConcession": "Upgrade the pick to 2027 Round 2 (Badland Banditos) as offered in this package.",
+              "walkAwayPoint": "Walk away if Southside Savages demands DeVonta Smith instead of Montgomery."
+            }
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Phalhala or Bust",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Jaylen Warren",
+                "assetType": "player",
+                "owner": "Phalhala or Bust",
+                "position": "RB",
+                "age": 27,
+                "cavi": 76.1,
+                "davi": 82.6,
+                "publicMarket": 78,
+                "leagueMarket": 76.1
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Cam Skattebo",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 24,
+                "cavi": 66.4,
+                "davi": 81.9,
+                "publicMarket": 72,
+                "leagueMarket": 66.4
+              },
+              {
+                "name": "2027 Round 2 (Badland Banditos)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 48.5,
+                "publicMarket": 50,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Starter & Draft Capital Consolidation",
+            "strategicGoal": "Upgrade running back starter production (Jaylen Warren, C-AVI: 76.1) for Corgi Loaf's championship drive by sending a younger RB asset plus draft capital to a retooling team.",
+            "scoring": {
+              "availability": 20,
+              "opposingGmMotivation": 19,
+              "packageMatch": 16,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 75,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Jaylen Warren provides higher current C-AVI (76.1 vs 66.4) and proven touch volume in Pittsburgh's backfield to solidify Corgi Loaf's starting RB core.",
+            "whyOpponentMightAccept": "Phalhala or Bust (Retool) trades a 27-year-old RB for a promising 24-year-old rookie RB in Cam Skattebo plus an extra 2027 2nd-round pick to align with their retooling timeline.",
+            "championshipImpact": "Boosts starting RB scoring consistency for the 2026 playoff stretch.",
+            "dynastyImpact": "Trades 3 years of youth for immediate championship win-now production.",
+            "rosterImpact": "Jaylen Warren slots in as RB1/2 alongside Chuba Hubbard.",
+            "publicMarketContext": "Jaylen Warren maintains a strong PPR floor in Pittsburgh, while Skattebo's dynasty stock is rising due to early-career opportunity in NY.",
+            "risks": [
+              "Gives up 3 years of youth at running back",
+              "Uses up Corgi Loaf's best remaining draft pick"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Cam Skattebo + 2027 3rd-round pick for Jaylen Warren.",
+              "acceptableConcession": "Include 2027 Round 2 (Badland Banditos) as structured.",
+              "walkAwayPoint": "Walk away if Phalhala or Bust demands Rhamondre Stevenson or DeVonta Smith."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "DJ Moore 2026 NFL",
+          "Jaxon Smith Njigba 2026 season",
+          "Amon Ra St Brown news 2026",
+          "DeVonta Smith news 2026",
+          "Devon Achane 2026 fantasy news",
+          "David Montgomery 2026 NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgKPcZwGARNrH7grK0qvR9x5DrlZrgQxXmwJlQ7_HSJAb_SjyowdwMfZLT9OzLc9scjaQlNtc8vQj39WS44F9DBLM3n2tyqSuzszl99DQWDJM4Z7ZFaub5MU8V7oYjkqD1p9LWSrnfOyFkKqBscn4mtUCinFRKGaP-p6-C1U2U94LN5cfjINUiTCyXohQgOd_TVfcKXNJoMKDLcq036ns=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiU1BU8wLdYxz5j4qlf99zh6Ah6TewiAoKKhh32Uj9OCHZbr5hDEoZbYrQRCN1QgKzza_9XQsiCR2ANLSBTaA6TMY_YfwDHGz1YT8OJyT_04SUItlHlLdEB0Xu2T_5xuSK18eJ9iA2Gn7RAF8skBwBZKM2NNVbMBdHOyinHg==",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeOAk48-hl5XI7jsQR_eafVXUndbJxKOTt1DRXFBrD7UegK7DqVzAkGzYGu99-l3Mp64PscvHGwOtIKIobb07HVFWJ3MVF93V9kaZF30xiHFEBNWqtqaDoLQCJjGCQZIzZrLu2a2_pIUKrczSikuwml3w7K478rqQD46sgMduvyrcpTENNZ6LI92IwJDDGVqvX4cBsh0MhVx4RtuW1T1nUgAWB_w==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBotayTx5CkboNPX7D4zAE7O9jKV_R9Pc5WzBn6xLtukPiS1yirAygY5xAXvx21RqlMw-zKHa1I37j0Bd9tXTq8_cRpg8l1Uj7lgHIBdzZd2NJ1yiPmOE6nr0uYQMuvDmg-JJ-UTHYZrpD0HMOvqNXxEp3smvQ8KH4Yy7thU5cnW3GfjDRYjXR4Izu_lPZHew-gfowIa9hEjJ0n3HqGPV8sBE=",
+            "title": "insidetheiggles.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzkqRDXfIb40sWmdaJ6B9AiG_1kJZJBhPRSbtqKLwZTLfd_E7_nR8cWvuVu36bglCGHstUKcMio8MU0e3k9PCOGxWuB91UOlbpA4maqexDVHFyptDa_ieMG50QBFvK9p0slJPjw3nk5th5R6OhBS3YLg9P_zJaDkkquTwwYlk1uGOV9SYmw17ntfvhH8dcc8AOO44P2ND0vvCGseeCUtLUM9B-qKLJpRLevwEMOg==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERLCBOGU7v8OJRwT7j0x85ZTRqk6c0G6X7oSHgi-5Hx7RRI-ej6SreZadu6UTST_ICSM0QDF-IRFU8X1g-BcVIQO_i_OE2Vzl78sVIeI-vgMUqzg0AbplB22TQSqjFYkF3NMa6NoRTRB9Uf48Gpzja5qh5tfiFwFtOAoKLtxsO5C4Szau0WYJIfoS5DIDdODHaZgry3JOOZl5YbXCxftX28E-fAlpqpA==",
+            "title": "phlsportsnation.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCbjYzddYAbGPq5ITZ8ue0sb-tXcPoxn8uMLJ4yrptK3UNC-9tpAipL2KgXASuU2T0ma-E36I5SSUZH6FAQ4I4NV8CVPXmxA7QA_QV1JTk2KGX5jppqj4-vSJ6egdkEUUBrb7pmx0ebudECHjAchdnrIaKIIbbFMgNJvnPc-l9TF-5dnQkcv_rmJ0x0p0z7vI4t_byrjlMGwUHO556GPP7Wgs5g_PAqOOgx0Trg3yiiOVtJlF7QpPs_-M1DWMxR7YfIoLXIJ-ZI4hk9cfP6Zlq4Gbv5Q==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp9AjcNJt_JdzNidu5UAg3c83E-avJmB8Cb-l1-2kBnk3cDAbvqqPnU2ZhzFUwaFx0hOvhGUaKK6RzGlIEz_sLe831mjpds01qgiFmjNWXLgoG4Bg1KRUzu5q5prWoUyPBulz-hUgwXsdmAVkfrBQV4PzKLJu1ozpeHH0Ta8Q8L7YBH-CUsfR0sXudIjCBD-avI1FTmRQgUa65J4EyR2JfmlftYJbDAg==",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMl7J-iyuztak9EVnTUHQU_mCU90Gm7c00q2LRXUBwi-fVYBaK4EF-j-qCtVayz1CjcmMJJnYSwBHyUCVK_YVjSMWbgrZXlcLdw-zh6cJkwjU0qMN5ko1sJajNl8OndVL4xDgz--OYoT2QLBfCypI6VFgyIgg22UrLy8J1HgUBdKd9ET5mrM8xY2oBJvz2Dyyq5xe9spSRUCb_9c0-FeLOgphS2ORp",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPRbJSay_v7gKLvSM1guN2rstPAjshwwWv2TZbs1DoA1BLGNXxT4E1cRWTY3olyesoNfPx0g3PbCxhPRyaQAtAY9A91q-5EzgMqqW8A8CeBYtgkVbjBJZ9GZ8iCY7nNJzZMJCXXE10w2JmxiZzXaBeyoYo-C1l3fRoJgM4pcvBTk1dglz1CzQ=",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_0w6GLumgtmWKhwa-wZjwVfyjpDOhvVwsjLVOtx52160UZUOzDIYApkFnuugPxHF4geJks4EuAFCzRE8Eh2eo_4b8erKbTS4MKf2DHW7DDHwua_Gvl4SFaMZcQq7za3Wfcz__riePPjdHtg4=",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4MF53jAA1XqsPWAF379YBxxqxZ4fBgZt6GIps8287oKtPGPWZiuVFX-Y_F7iMy0AJZOVeNAfdv_W2x9kKARJ0gWHP-NIa-PAvt_mghxGcK-OCUxPsfw3ebVWecANAUphfo5hHWmKFSFxpplEFjom6eY0RvZYBZao8FLfkGpkF_1w05W0NzoIUMKZNZN4rqeQDQEyO21YSOyQDvalOIYhQYbvUf8Z7YuxJJaPefcY=",
+            "title": "rotoballer.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Amon-Ra St. Brown",
+          "DeVonta Smith",
+          "Jaxon Smith-Njigba",
+          "DJ Moore",
+          "De'Von Achane",
+          "David Montgomery"
+        ],
+        "aviCoreCommitSha": "60bd8a707eeea567134e2c87303d174cc1a68e85",
+        "aviCoreCommittedAt": "2026-10-28T03:06:27Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 542127,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 249,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mvqsrkb8-6a0624c4",
     "createdAt": 1793112317229,
     "expiresAt": 1793544317229,
