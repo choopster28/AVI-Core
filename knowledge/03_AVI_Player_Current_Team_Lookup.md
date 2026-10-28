@@ -1020,14 +1020,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
 
-## PLAYER LOOKUP: Jerry Jeudy
-- Player name: Jerry Jeudy
-- Player ID: 6783
-- Position: WR
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Team file: 06_Lightskin_Legends.md
-
 ## PLAYER LOOKUP: Joe Burrow
 - Player name: Joe Burrow
 - Player ID: 6770
@@ -1171,14 +1163,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
-
-## PLAYER LOOKUP: Kalif Raymond
-- Player name: Kalif Raymond
-- Player ID: 3634
-- Position: WR
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Team file: 08_All_Hail_King_Jesus.md
 
 ## PLAYER LOOKUP: Kayshon Boutte
 - Player name: Kayshon Boutte
@@ -2041,6 +2025,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 42.3
 - Availability: available
 
+## AVAILABLE PLAYER: Jerry Jeudy
+- Player name: Jerry Jeudy
+- Player ID: 6783
+- Position: WR
+- NFL team: CLE
+- Championship AVI (C-AVI, 0-100): 32.6
+- Dynasty AVI (D-AVI, 0-100): 61.7
+- Availability: available
+
 ## AVAILABLE PLAYER: Mack Hollins
 - Player name: Mack Hollins
 - Player ID: 4177
@@ -2093,6 +2086,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: TEN
 - Championship AVI (C-AVI, 0-100): 27.1
 - Dynasty AVI (D-AVI, 0-100): 59.6
+- Availability: available
+
+## AVAILABLE PLAYER: Kalif Raymond
+- Player name: Kalif Raymond
+- Player ID: 3634
+- Position: WR
+- NFL team: CHI
+- Championship AVI (C-AVI, 0-100): 27.1
+- Dynasty AVI (D-AVI, 0-100): 46.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Chimere Dike

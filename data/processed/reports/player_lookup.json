@@ -39,6 +39,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00006783",
+      "c_avi": 32.6,
+      "d_avi": 61.7,
+      "nfl_team": "CLE",
+      "player_name": "Jerry Jeudy",
+      "position": "WR",
+      "sleeper_id": "6783",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00004177",
       "c_avi": 31.4,
       "d_avi": 54.1,
@@ -106,6 +118,18 @@
       "player_name": "Calvin Ridley",
       "position": "WR",
       "sleeper_id": "4981",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00003634",
+      "c_avi": 27.1,
+      "d_avi": 46.2,
+      "nfl_team": "CHI",
+      "player_name": "Kalif Raymond",
+      "position": "WR",
+      "sleeper_id": "3634",
       "status": "Active"
     },
     {
@@ -2738,8 +2762,8 @@
     }
   ],
   "counts": {
-    "available_players": 228,
-    "rostered_players": 251
+    "available_players": 230,
+    "rostered_players": 249
   },
   "rostered_players": [
     {
@@ -4777,22 +4801,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00006783",
-      "c_avi": 32.6,
-      "d_avi": 61.7,
-      "nfl_team": "CLE",
-      "owner_id": "872509429436829696",
-      "player_name": "Jerry Jeudy",
-      "position": "WR",
-      "roster_id": 6,
-      "sleeper_id": "6783",
-      "status": "Active",
-      "team_file": "06_Lightskin_Legends.md",
-      "team_name": "Lightskin Legends ✊🏽"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00006770",
       "c_avi": 84.3,
       "d_avi": 88.2,
@@ -5077,22 +5085,6 @@
       "status": "Active",
       "team_file": "01_Conquistadors.md",
       "team_name": "Conquistadors"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00003634",
-      "c_avi": 27.1,
-      "d_avi": 46.2,
-      "nfl_team": "CHI",
-      "owner_id": "736994691492519936",
-      "player_name": "Kalif Raymond",
-      "position": "WR",
-      "roster_id": 8,
-      "sleeper_id": "3634",
-      "status": "Active",
-      "team_file": "08_All_Hail_King_Jesus.md",
-      "team_name": "All Hail King Jesus"
     },
     {
       "active": true,
