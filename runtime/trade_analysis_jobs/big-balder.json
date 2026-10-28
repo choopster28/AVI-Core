@@ -1,5 +1,49 @@
 [
   {
+    "id": "mvsnt0ic-da2cac07",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Increase Championship Odds",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          },
+          {
+            "name": "DeVonta Smith",
+            "assetType": "player"
+          },
+          {
+            "name": "Tyler Warren",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1793224900308,
+    "updatedAt": 1793224900308,
+    "expiresAt": 1793656900308,
+    "status": "queued"
+  },
+  {
     "id": "mvslvqkr-98770f47",
     "phase": "final",
     "mode": "analyze_trade",
