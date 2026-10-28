@@ -1,5 +1,354 @@
 [
   {
+    "id": "mvs7afvg-b1216cce",
+    "createdAt": 1793197248884,
+    "expiresAt": 1793629248884,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Big Balder Brand ↔ Mile High Royal Lions",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "Jahmyr Gibbs",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand targets elite RB cornerstone Jahmyr Gibbs (C-AVI: 99.0, D-AVI: 98.4) from Mile High Royal Lions, offering TE1 overall Trey McBride (C-AVI: 94.8, D-AVI: 92.9) as the baseline asset. While both teams hold active playoff-push goals in this 16-team league, a 1-for-1 swap creates a fatal RB starting hole for Mile High Royal Lions, dropping their RB1 slot to J.K. Dobbins and forcing Jonah Coleman into RB2. To achieve a high-probability trade completion, Big Balder Brand should revise the proposal into a balanced multi-asset transaction by including Saquon Barkley and a 2028 2nd-round pick while retrieving TE Dalton Schultz to plug its own TE vacancy.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.9,
+              "publicMarket": 94,
+              "leagueMarket": 93.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jahmyr Gibbs",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 24,
+              "cavi": 99,
+              "davi": 98.4,
+              "publicMarket": 99,
+              "leagueMarket": 99
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B-",
+            "otherGrade": "D+",
+            "userShare": 62,
+            "otherShare": 38,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The 1-for-1 baseline proposal heavily favors Big Balder Brand by securing the overall RB1 in dynasty (Jahmyr Gibbs). However, it decimates Mile High Royal Lions' mandatory RB position, leaving them with an unviable RB room for a championship contender and guaranteeing rejection."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "By expanding the offer to send Trey McBride, Saquon Barkley, and a 2028 2nd for Jahmyr Gibbs and Dalton Schultz, Big Balder Brand acquires Gibbs while giving Mile High Royal Lions a proven starting RB replacement and the elite TE1. Big Balder Brand receives Dalton Schultz to maintain starting TE stability."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 25,
+              "summary": "Net overall positive for Big Balder Brand in the baseline offer, acquiring an S-tier RB cornerstone but leaving an open starting hole at TE."
+            },
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Immediate boost at RB1 with Jahmyr Gibbs (+4.2 C-AVI over McBride), though starting TE drops to Greg Dulcich (38.4 C-AVI) without further moves."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Securing 24-year-old Jahmyr Gibbs locked into a major contract extension enhances peak asset longevity at fantasy's scarces position."
+            },
+            "lineupQuality": {
+              "score": -10,
+              "summary": "Upgrades RB1 significantly, but the severe downgrade from McBride to Dulcich creates a temporary starting lineup deficit."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Retains strong RB depth featuring Bhayshul Tuten, Omarion Hampton, Jeremiyah Love, and Saquon Barkley."
+            },
+            "flexibilityLiquidity": {
+              "score": 30,
+              "summary": "Jahmyr Gibbs represents maximum trade liquidity across the entire league."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -45,
+              "summary": "Material harm to Mile High Royal Lions' current roster construction by surrendering its premier backfield engine without an incoming RB replacement."
+            },
+            "championshipOutlook": {
+              "score": -55,
+              "summary": "Severely damages title contention in 2026 by dropping RB1 to J.K. Dobbins (51.1 C-AVI) and pushing bench pieces into mandatory starting slots."
+            },
+            "dynastyOutlook": {
+              "score": 10,
+              "summary": "Acquiring 26-year-old Trey McBride stabilizes TE1 for years, but forfeiting Jahmyr Gibbs negates overall dynasty value growth."
+            },
+            "lineupQuality": {
+              "score": -40,
+              "summary": "Net starting lineup C-AVI declines by 13.0 points as TE/FLEX gains fail to compensate for the major crash at RB1."
+            },
+            "depthResilience": {
+              "score": -60,
+              "summary": "Leaves backfield depth critically vulnerable in a 16-team format."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Exchanges maximum liquid RB capital for elite TE capital without addressing active roster balance."
+            }
+          },
+          "explanation": "The baseline 1-for-1 trade creates an unbalanced outcome: Big Balder Brand gains elite RB equity, but Mile High Royal Lions suffers an unmanageable void at running back that undermines its playoff push."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand elevates its RB room to elite status with Gibbs (99.0 C-AVI), though its active starting lineup score drops temporarily until TE is addressed.",
+          "sideADynastyImpact": "D-AVI increases slightly from 92.9 (McBride) to 98.4 (Gibbs), anchoring the backfield with a 24-year-old centerpiece.",
+          "sideARosterImpact": "Creates an immediate starter gap at TE (forcing Greg Dulcich into TE1) while expanding an already stacked RB unit.",
+          "sideBChampionshipImpact": "Mile High Royal Lions loses 47.9 C-AVI at RB1. Upgrading TE from Kelce (78.1) to McBride (94.8) and shifting Kelce to FLEX recovers ~34.9 points, leaving a net 13.0 point loss in active starting lineup score.",
+          "sideBDynastyImpact": "Secures long-term TE dominance with McBride (92.9 D-AVI), but surrenders top dynasty asset Jahmyr Gibbs (98.4 D-AVI).",
+          "sideBRosterImpact": "Creates an urgent starter crisis at RB2 (forcing Jonah Coleman into starting lineup) while stacking Travis Kelce, Trey McBride, and Dalton Schultz at TE.",
+          "valueAssessment": "On raw market value, McBride (94.8 C-AVI) for Gibbs (99.0 C-AVI) is close, but positional scarcity in a 16-team league makes pure RB1 production far harder to replace than TE production."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus ranks Jahmyr Gibbs as a top-2 overall dynasty RB alongside Bijan Robinson, backed by his August 2026 3-year extension and bell-cow volume in Detroit. Trey McBride is widely regarded as the TE1 overall in dynasty PPR formats.",
+          "aviVsMarket": "AVI model values align closely with public market sentiment: Gibbs (99.0 C-AVI / 98.4 D-AVI) commands peak league value, while McBride (94.8 C-AVI / 92.9 D-AVI) commands elite TE premium.",
+          "relevantContext": [
+            "Jahmyr Gibbs signed a 3-year, $75.75M extension in August 2026, solidifying his long-term role as Detroit's focal offensive weapon.",
+            "Gibbs cleared minor Week 7 injury concerns and is fully active for Week 8 with an 80%+ backfield touch share.",
+            "Trey McBride leads all TEs in target projection and high-leverage PPR opportunity in Arizona's offense."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions is actively pursuing a championship run (Playoff Push status). They have zero motivation to move Jahmyr Gibbs for a TE upgrade given that they already start Travis Kelce (78.1 C-AVI).",
+          "packageFit": "A 1-for-1 proposal fails package fit because it offers positional overlap at TE while depleting the target's most critical starting position.",
+          "lineupReplacement": "Mile High Royal Lions cannot internally replace Gibbs. Trading him forces J.K. Dobbins to RB1 and Jonah Coleman (39.3 C-AVI) into starting RB2.",
+          "competitiveWindowFit": "Directly undermines Mile High Royal Lions' 2026 playoff push by creating a weak starter slot at RB2.",
+          "positionalScarcity": "In a 16-team dynasty league, high-volume RB1s are significantly scarcer and harder to acquire than TEs."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 5,
+            "packageMatch": 10,
+            "lineupReplacement": 0,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 32,
+          "classification": "Unlikely",
+          "explanation": "Jahmyr Gibbs is unlisted on the trade block, yielding an Unknown availability status. Because Mile High Royal Lions is a championship contender with no internal RB depth, trading Gibbs without receiving a starting RB in return creates a catastrophic lineup hole. Acceptance probability for the 1-for-1 baseline proposal is only 32%."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Jahmyr Gibbs is unlisted on the trade block, yielding an Unknown availability status. Because Mile High Royal Lions is a championship contender with no internal RB depth, trading Gibbs without receiving a starting RB in return creates a catastrophic lineup hole. Acceptance probability for the 1-for-1 baseline proposal is only 32%.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.8,
+              "davi": 92.9,
+              "publicMarket": 94,
+              "leagueMarket": 93.5
+            },
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 72,
+              "davi": 85.1,
+              "publicMarket": 76,
+              "leagueMarket": 75
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jahmyr Gibbs",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 24,
+              "cavi": 99,
+              "davi": 98.4,
+              "publicMarket": 99,
+              "leagueMarket": 99
+            }
+          ],
+          "rationale": "If Mile High Royal Lions prefers a younger RB replacement, sending 23-year-old Bhayshul Tuten (72.0 C-AVI) alongside McBride gives them a high-upside young RB1 plus the TE1 overall, boosting their lineup net +17.2 points."
+        },
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Jahmyr Gibbs is unlisted on the trade block, yielding an Unknown availability status. Because Mile High Royal Lions is a championship contender with no internal RB depth, trading Gibbs without receiving a starting RB in return creates a catastrophic lineup hole. Acceptance probability for the 1-for-1 baseline proposal is only 32%.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Mile High Royal Lions is actively pursuing a championship run (Playoff Push status). They have zero motivation to move Jahmyr Gibbs for a TE upgrade given that they already start Travis Kelce (78.1 C-AVI)."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "A 1-for-1 proposal fails package fit because it offers positional overlap at TE while depleting the target's most critical starting position."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "Mile High Royal Lions cannot internally replace Gibbs. Trading him forces J.K. Dobbins to RB1 and Jonah Coleman (39.3 C-AVI) into starting RB2."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Directly undermines Mile High Royal Lions' 2026 playoff push by creating a weak starter slot at RB2."
+            }
+          ],
+          "opponentPerspective": "Mile High Royal Lions is actively pursuing a championship run (Playoff Push status). They have zero motivation to move Jahmyr Gibbs for a TE upgrade given that they already start Travis Kelce (78.1 C-AVI).",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "A 1-for-1 proposal fails package fit because it offers positional overlap at TE while depleting the target's most critical starting position.",
+          "whatWouldNeedToChange": [
+            "Mile High Royal Lions is actively pursuing a championship run (Playoff Push status). They have zero motivation to move Jahmyr Gibbs for a TE upgrade given that they already start Travis Kelce (78.1 C-AVI).",
+            "A 1-for-1 proposal fails package fit because it offers positional overlap at TE while depleting the target's most critical starting position.",
+            "Mile High Royal Lions cannot internally replace Gibbs. Trading him forces J.K. Dobbins to RB1 and Jonah Coleman (39.3 C-AVI) into starting RB2.",
+            "Directly undermines Mile High Royal Lions' 2026 playoff push by creating a weak starter slot at RB2."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jahmyr Gibbs stats contract fantasy 2026",
+          "Jahmyr Gibbs news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfq70hQdFXBlYg7HO-NF_ENU-qspdhH1kt6Vi410In6qD-w-63Dyjcrpd5lLakKbjamK2ADy7_taglwYHCUMxyxojM3vjDrSQ8RJEp23ZRQ_PUS_3ezOFa2HoeArLinOa-ufEk1tHF4wnx3W7ObHL-QoErFH3H0QRjZlth0tZKx4WdGuyEZ5VgKhwigdr-rLvO39TsH-WTXrxCjHfFcLsLoTo=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAlqmpBg9LiGAFbzDTa4w6_FkyUfSvsE9hDeI8l8qvKxoEKqFKwk2HFy851srkDwBJN7WighHs8EZ0dSLl1Mt5jNxqAiFzH9-YExgaXblMJfNzPeLw01QZtdmX0YZ0XA==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0zi_wguyJKCMBr9LQzAbZqcRLm3Z4J6QyCsni5MN0CvSN9M8yBlS9SF43XO8KHbCC11uKbtx7VzTui-1-1iuWrq1dQRNhtX4UWe6WVjGdxT91RpN1wVzHPdLqp0obsjuIap1nhu-s69Fg0ClvDawC5ObhljKcpuPdSwylUNIMoTZQWlcxtg3KJfjeSyjXcXCcw4vb5_OoNwVVHJ9eUpmPk5U=",
+            "title": "sidelionreport.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcAHSX353b2CnNMGyf7Msf09k0Ig-Z-yD9LGsYx8EWFshjthKOKEElwLvI21MFYqSQO2ospfjQBeF0jj_0kBw4CigvbRbQQ263feTdCzw3A0ZIFzArMl5PgSz8A3HtOptaOdyo6a5l",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFry0gSWKCeAMJc17kD8Nw6hm-Y6se63bFx6ggXCKZswGcFxZfWLceQXe-2ie0ToqFBn_miYBNRU0xY47LWwYT0Sqf9Trob5bYx5yx-CJxDL0uSOYqrK0P_r806z55XwtfBTaWB32Q2SvHsj_vvR-J4FWZdqb1F3DPivT6XZ4-2f1OT5LD2B2vS2Mhr1muLCGoTMvnbe-RzFYeL79SjkqRXPD7yfA==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGvN8k2-_5bpdOfyy5rrhql6hQVZhGSRCRYfgZnRX11aVuuHdaks30DPCUX3lwAKaZ0YOjkfnFFMkTLqFr-wYsqoNsZJrxugPEFQfFWCugzOiPL4j0hag-tcSkgNYgSP0F5AHEzAv9zDGyFtNytPeGsUvRJeKtbwFwv-k=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUcD-_Naa1QqyY-Awgoj4tdMwHNMmFtD4gI7yNx6vZZ42gjBd7k6fv0xwLa7mZfYwzh7euW8ejsK3IrTJE0ka_sedhQns8sBlnNAjhZ5C6eJ7qu5uB1IW1wUs8Jw635aitcQdtbroX2Da0f6a4-YltwqMtPcAO_qLeAsM8jyxGyEvi67-nyvhSXc2PzUcdfXbXB8jg_WU_r0iDv2DAwLcyZ0rw_RWaur9NP6PHRcUYVtz_7qqYI81mxCtJ8CGylmRDGxStgWIBdHSBSg==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQTgCSW_mPMZjiBYnHGnwj0zohurJcq2Sh_Zy6W-O4SwJzj9jWh84kXUaHac4piOgyoDDldH_2j9SAPv4w9BcbB0RaOg9M0RUUn_d45MKnwv1tTs9HTSjR7nMXhjkcDLfoKa6x3L_6G1hWa1w=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgJVp0wdn_ey1xycnvKPCqPFb5pam7jZqkN4xyB8wZGPWBdcDAf23Bra5eAYCZxGgpbp3Y1HIb1eWoeoxvijxW6Heixo_GjCaSGNMOknWAviV0UCIkJkdeLggHPtNgSoQtCNfWvHnsCQsRMY6To8Rd6-75OW7-M0zVpQ3S_x9JjvLWul0-j0sGcavndw==",
+            "title": "detroitlions.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5FJsRfOqU1P2YvdJrVO0Be2ASprqHY_Ih2F_hd9xUQ8vHvXLilXBFkxSgklAYG7aGFjftjQgqcb_qIzCcTmQe3VqehcPCgAyh0CHY1Z5X7N58VVfYF4yFUiO4QDi32ZJtcrffoAQ1zOtb60Pm0g==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuSJ8O_kyEYi1SGPSd6tDZkP8oLnU--rQi7EMi019_SGjrgrhCVh6avY-BGGqGrDe4mLI6RAKXgVjzf452Wh9Ob1o0OhAf9NBWss2qC1dwbVvXOFUhkOqEzZ3HmkeFe827_71NgvolCWMn-J_pYN5K9UcMy43wvzIzaV7UREMZ6JW17DKdQdoZ",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc33Ha5dug4_P9XtkuwwAU9iAL_XJMVtx96nR48xvTpW6IE7mixTVyuOKmRpjSD8Tu6DK39u4gDwHrBZ4SB1FyhiRxkJHRPWn68q26UmQxHVtaF9xMqrnpAWJ1uwL-memDfyP3L6cQfbbO9F8h_NYfmAZ9FJ3TMF5QZ8pGHyEbzGB7jkDsvIE=",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "b00b714347f95cbc639e8d14529100a9fefa50b9",
+        "aviCoreCommittedAt": "2026-10-28T14:12:09Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 82460,
+        "groundedMarketChars": 3843,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mvs75o83-a4add10f",
     "createdAt": 1793197047135,
     "expiresAt": 1793629047135,
