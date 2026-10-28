@@ -1,5 +1,44 @@
 [
   {
+    "id": "mvsatrg2-febef18b",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Bijan Robinson",
+            "assetType": "player"
+          },
+          {
+            "name": "Isaiah Likely",
+            "assetType": "player"
+          }
+        ]
+      },
+      "personalContext": "I think Likely had a great first 7 weeks but now Jj McCarthy is his qb and I don’t trust him or know how it’ll work for likely. I also think Saquon will be healthy for conquistadors playoff and championship push"
+    },
+    "createdAt": 1793203100507,
+    "updatedAt": 1793203100507,
+    "expiresAt": 1793635100507,
+    "status": "queued"
+  },
+  {
     "id": "mvsaq5r0-78df41e9",
     "phase": "initial",
     "mode": "analyze_trade",
