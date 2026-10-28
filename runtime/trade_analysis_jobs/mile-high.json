@@ -1,5 +1,27 @@
 [
   {
+    "id": "mvsjparh-275009de",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Big Balder Brand",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Trey McBride",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1793218008509,
+    "updatedAt": 1793218008509,
+    "expiresAt": 1793650008509,
+    "status": "queued"
+  },
+  {
     "id": "mvsjg4pf-9b8e4e7e",
     "phase": "initial",
     "mode": "propose_trade",
