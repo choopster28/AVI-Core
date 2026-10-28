@@ -109,3 +109,25 @@ def test_player_points_reward_relevant_production_without_depth_chart_inflation(
     assert values["A"] > values["B"] > values["C"]
     assert values["A"] == 100.0
     assert values["C"] == 0.0
+
+
+def test_consistent_weekly_production_beats_two_spike_weeks_when_totals_are_close():
+    values = _player_point_components({
+        "spikes": {
+            "position": "RB", "raw_points": 20.0, "season_points": 80.0,
+            "weeks": {1: 0.0, 2: 0.0, 3: 40.0, 4: 40.0},
+        },
+        "steady": {
+            "position": "RB", "raw_points": 19.5, "season_points": 78.0,
+            "weeks": {1: 19.5, 2: 19.5, 3: 19.5, 4: 19.5},
+        },
+        "depth": {
+            "position": "RB", "raw_points": 1.0, "season_points": 4.0,
+            "weeks": {1: 1.0, 2: 1.0, 3: 1.0, 4: 1.0},
+        },
+    })
+    # The bursty player may still outrank on raw PPG, but consistency must
+    # materially narrow that raw rank gap.
+    assert values["spikes"] < 100.0
+    assert values["steady"] > 50.0
+    assert values["spikes"] - values["steady"] < 25.0
