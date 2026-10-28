@@ -1,5 +1,50 @@
 [
   {
+    "id": "mvspz0g3-ee9064fc",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Increase Championship Odds",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "DeVonta Smith",
+            "assetType": "player"
+          },
+          {
+            "name": "Tyler Warren",
+            "assetType": "player"
+          },
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": [],
+      "personalContext": "Saquon is old and is hurt. Eagles suck. Smith long term value is higher than Saquon. I could potentially go 7-7 or 8-6 and make the playoffs still even though I’m 1-6. The drop from McBride to Warren is substantial, McBride puts up numbers equivalent to a top 5-7 wide receiver."
+    },
+    "createdAt": 1793228539654,
+    "updatedAt": 1793228539654,
+    "expiresAt": 1793660539654,
+    "status": "queued"
+  },
+  {
     "id": "mvspsg0r-ac9abab5",
     "phase": "initial",
     "mode": "analyze_trade",
