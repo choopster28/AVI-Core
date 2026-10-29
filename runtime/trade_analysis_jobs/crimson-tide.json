@@ -1,5 +1,27 @@
 [
   {
+    "id": "mvu03c8a-9d558aa1",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "assetsToShop": [
+        {
+          "name": "2027 1st · Mile High · Projected Late · original owner Mile High Royal Lions",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1793306003626,
+    "updatedAt": 1793306003626,
+    "expiresAt": 1793738003626,
+    "status": "queued"
+  },
+  {
     "id": "mvu006m8-b17e6744",
     "phase": "initial",
     "mode": "shop_assets",
