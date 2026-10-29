@@ -1028,6 +1028,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
 
+## PLAYER LOOKUP: John Metchie III
+- Player name: John Metchie III
+- Player ID: 8147
+- Position: WR
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
+
 ## PLAYER LOOKUP: Jonah Coleman
 - Player name: Jonah Coleman
 - Player ID: 13345
@@ -1707,14 +1715,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Northside Kings 
 - Current owner roster ID: 5
 - Team file: 05_Northside_Kings.md
-
-## PLAYER LOOKUP: Tai Felton
-- Player name: Tai Felton
-- Player ID: 12496
-- Position: WR
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Team file: 16_Crimson_Tide_Pods.md
 
 ## PLAYER LOOKUP: Tank Bigsby
 - Player name: Tank Bigsby
@@ -2646,15 +2646,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 52.0
 - Availability: available
 
-## AVAILABLE PLAYER: John Metchie III
-- Player name: John Metchie III
-- Player ID: 8147
-- Position: WR
-- NFL team: CAR
-- Championship AVI (C-AVI, 0-100): 21.4
-- Dynasty AVI (D-AVI, 0-100): 47.8
-- Availability: available
-
 ## AVAILABLE PLAYER: Audric Estime
 - Player name: Audric Estime
 - Player ID: 11579
@@ -2905,6 +2896,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NYG
 - Championship AVI (C-AVI, 0-100): 19.1
 - Dynasty AVI (D-AVI, 0-100): 43.9
+- Availability: available
+
+## AVAILABLE PLAYER: Tai Felton
+- Player name: Tai Felton
+- Player ID: 12496
+- Position: WR
+- NFL team: MIN
+- Championship AVI (C-AVI, 0-100): 19.1
+- Dynasty AVI (D-AVI, 0-100): 48.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Ben Sinnott

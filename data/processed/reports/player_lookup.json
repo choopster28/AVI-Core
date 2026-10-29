@@ -867,18 +867,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00008147",
-      "c_avi": 21.4,
-      "d_avi": 47.8,
-      "nfl_team": "CAR",
-      "player_name": "John Metchie III",
-      "position": "WR",
-      "sleeper_id": "8147",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00011579",
       "c_avi": 21.3,
       "d_avi": 39.9,
@@ -1210,6 +1198,18 @@
       "player_name": "Jameis Winston",
       "position": "QB",
       "sleeper_id": "2306",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00012496",
+      "c_avi": 19.1,
+      "d_avi": 48.5,
+      "nfl_team": "MIN",
+      "player_name": "Tai Felton",
+      "position": "WR",
+      "sleeper_id": "12496",
       "status": "Active"
     },
     {
@@ -4817,6 +4817,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00008147",
+      "c_avi": 21.4,
+      "d_avi": 47.8,
+      "nfl_team": "CAR",
+      "owner_id": "471824466389757952",
+      "player_name": "John Metchie III",
+      "position": "WR",
+      "roster_id": 16,
+      "sleeper_id": "8147",
+      "status": "Active",
+      "team_file": "16_Crimson_Tide_Pods.md",
+      "team_name": "Crimson Tide Pods"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00013345",
       "c_avi": 30.8,
       "d_avi": 72.0,
@@ -6173,22 +6189,6 @@
       "status": "Active",
       "team_file": "05_Northside_Kings.md",
       "team_name": "Northside Kings "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00012496",
-      "c_avi": 19.1,
-      "d_avi": 48.5,
-      "nfl_team": "MIN",
-      "owner_id": "471824466389757952",
-      "player_name": "Tai Felton",
-      "position": "WR",
-      "roster_id": 16,
-      "sleeper_id": "12496",
-      "status": "Active",
-      "team_file": "16_Crimson_Tide_Pods.md",
-      "team_name": "Crimson Tide Pods"
     },
     {
       "active": true,
