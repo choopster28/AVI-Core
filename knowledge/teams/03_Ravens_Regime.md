@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 543.6
 - championship_lineup_c_avi_avg: 67.95
-- offensive_roster_c_avi_sum: 821.6
-- offensive_roster_c_avi_avg: 48.33
-- offensive_roster_d_avi_sum: 1254.0
-- offensive_roster_d_avi_avg: 73.76
+- offensive_roster_c_avi_sum: 840.0
+- offensive_roster_c_avi_avg: 49.41
+- offensive_roster_d_avi_sum: 1277.3
+- offensive_roster_d_avi_avg: 75.14
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -178,23 +178,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Roschon Johnson
-- Player name: Roschon Johnson
-- Player ID: 10235
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: CHI
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 18.0
-- Dynasty AVI (D-AVI, 0-100): 40.5
-- Projected PPR points: 7.6
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Zay Flowers
 - Player name: Zay Flowers
 - Player ID: 9997
@@ -311,6 +294,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 50.1
 - Dynasty AVI (D-AVI, 0-100): 75.3
 - Projected PPR points: 140.9
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Mason Taylor
+- Player name: Mason Taylor
+- Player ID: 12498
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: NYJ
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 36.4
+- Dynasty AVI (D-AVI, 0-100): 63.8
+- Projected PPR points: 96.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

@@ -480,19 +480,19 @@
       }
     },
     {
-      "average": 6.2,
+      "average": 5.2,
       "filename": "demarvion-overshown.php",
       "games": 4,
       "player_id": 25314,
       "player_name": "DeMarvion Overshown",
-      "points": 24.75,
+      "points": 20.75,
       "position_id": "LB",
       "team_id": "DAL",
       "weeks": {
         "1": 6,
         "2": 0,
         "6": 0,
-        "7": 18.8
+        "7": 14.8
       }
     },
     {
@@ -1512,12 +1512,12 @@
       }
     },
     {
-      "average": 14.9,
+      "average": 15.5,
       "filename": "fred-warner.php",
       "games": 7,
       "player_id": 17526,
       "player_name": "Fred Warner",
-      "points": 104,
+      "points": 108.75,
       "position_id": "LB",
       "team_id": "SF",
       "weeks": {
@@ -1527,7 +1527,7 @@
         "4": 10.5,
         "5": 15.3,
         "6": 10.5,
-        "7": 19.3
+        "7": 24
       }
     },
     {
@@ -1998,12 +1998,12 @@
       }
     },
     {
-      "average": 3.7,
+      "average": 3.8,
       "filename": "rashan-gary.php",
       "games": 7,
       "player_id": 18209,
       "player_name": "Rashan Gary",
-      "points": 26,
+      "points": 26.75,
       "position_id": "LB",
       "team_id": "DAL",
       "weeks": {
@@ -2013,7 +2013,7 @@
         "4": 9.5,
         "5": 7.5,
         "6": 0.8,
-        "7": 0.8
+        "7": 1.5
       }
     },
     {

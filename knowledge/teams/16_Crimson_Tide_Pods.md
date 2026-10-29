@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 306.8
-- championship_lineup_c_avi_avg: 38.35
-- offensive_roster_c_avi_sum: 553.1
-- offensive_roster_c_avi_avg: 34.57
+- championship_lineup_c_avi_sum: 306.7
+- championship_lineup_c_avi_avg: 38.34
+- offensive_roster_c_avi_sum: 552.9
+- offensive_roster_c_avi_avg: 34.56
 - offensive_roster_d_avi_sum: 1079.2
 - offensive_roster_d_avi_avg: 67.45
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Aaron Rodgers | C-AVI: 38.3 | D-AVI: 57.9
 - RB: Chris Rodriguez Jr. | C-AVI: 30.3 | D-AVI: 63.9
-- RB: Dylan Sampson | C-AVI: 29.1 | D-AVI: 62.6
+- RB: Dylan Sampson | C-AVI: 29.0 | D-AVI: 62.6
 - WR: Jakobi Meyers | C-AVI: 52.6 | D-AVI: 76.3
 - WR: Germie Bernard | C-AVI: 40.0 | D-AVI: 70.7
 - TE: Dalton Kincaid | C-AVI: 56.3 | D-AVI: 81.9
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 29.1
+- Championship AVI (C-AVI, 0-100): 29.0
 - Dynasty AVI (D-AVI, 0-100): 62.6
 - Projected PPR points: 88.7
 - Category: offense
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 27.8
+- Championship AVI (C-AVI, 0-100): 27.7
 - Dynasty AVI (D-AVI, 0-100): 68.0
 - Projected PPR points: 65.2
 - Category: offense

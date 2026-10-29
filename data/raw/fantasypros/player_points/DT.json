@@ -1435,12 +1435,12 @@
       }
     },
     {
-      "average": 3.5,
+      "average": 3.6,
       "filename": "harrison-phillips.php",
       "games": 7,
       "player_id": 17343,
       "player_name": "Harrison Phillips",
-      "points": 24.25,
+      "points": 25,
       "position_id": "DT",
       "team_id": "NYJ",
       "weeks": {
@@ -1450,7 +1450,7 @@
         "4": 6.8,
         "5": 1.5,
         "6": 1.5,
-        "7": 6
+        "7": 6.8
       }
     },
     {
@@ -2503,7 +2503,7 @@
       "player_name": "Jeffery Simmons",
       "points": 88.5,
       "position_id": "DT",
-      "team_id": "TEN",
+      "team_id": "CHI",
       "weeks": {
         "1": 4.5,
         "2": 14.8,

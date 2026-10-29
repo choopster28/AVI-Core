@@ -13,8 +13,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 19
-- offense: 15
+- total_players: 20
+- offense: 16
 - kickers: 1
 - idp: 3
 - other: 0
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 563.6
 - championship_lineup_c_avi_avg: 70.45
-- offensive_roster_c_avi_sum: 787.5
-- offensive_roster_c_avi_avg: 52.50
-- offensive_roster_d_avi_sum: 1123.6
-- offensive_roster_d_avi_avg: 74.91
+- offensive_roster_c_avi_sum: 813.0
+- offensive_roster_c_avi_avg: 54.20
+- offensive_roster_d_avi_sum: 1141.8
+- offensive_roster_d_avi_avg: 76.12
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -161,6 +161,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Elijah Mitchell
+- Player name: Elijah Mitchell
+- Player ID: 7561
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: offense
+- Valuation status: NOT_IN_AVI_OUTPUT
+
 ### PLAYER: Jaxon Smith-Njigba
 - Player name: Jaxon Smith-Njigba
 - Player ID: 9488
@@ -229,6 +246,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Savion Williams
+- Player name: Savion Williams
+- Player ID: 12482
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: GB
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 25.5
+- Dynasty AVI (D-AVI, 0-100): 46.6
+- Projected PPR points: 32.0
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Tank Dell
 - Player name: Tank Dell
 - Player ID: 9502
@@ -245,23 +279,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 51.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Jordan Watkins
-- Player name: Jordan Watkins
-- Player ID: 12634
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: SF
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 28.4
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Trey McBride
 - Player name: Trey McBride

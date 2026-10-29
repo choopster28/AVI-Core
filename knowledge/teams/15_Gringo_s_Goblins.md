@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 502.9
-- championship_lineup_c_avi_avg: 62.86
-- offensive_roster_c_avi_sum: 800.2
+- championship_lineup_c_avi_sum: 502.8
+- championship_lineup_c_avi_avg: 62.85
+- offensive_roster_c_avi_sum: 800.1
 - offensive_roster_c_avi_avg: 50.01
 - offensive_roster_d_avi_sum: 1141.6
 - offensive_roster_d_avi_avg: 71.35
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Bo Nix | C-AVI: 40.7 | D-AVI: 74.2
 - RB: Kyren Williams | C-AVI: 86.1 | D-AVI: 91.0
-- RB: Aaron Jones Sr. | C-AVI: 56.1 | D-AVI: 68.6
+- RB: Aaron Jones Sr. | C-AVI: 56.0 | D-AVI: 68.6
 - WR: Christian Watson | C-AVI: 85.7 | D-AVI: 91.9
 - WR: Jameson Williams | C-AVI: 76.6 | D-AVI: 87.9
 - TE: Jake Ferguson | C-AVI: 38.3 | D-AVI: 74.5
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 56.1
+- Championship AVI (C-AVI, 0-100): 56.0
 - Dynasty AVI (D-AVI, 0-100): 68.6
 - Projected PPR points: 137.1
 - Category: offense

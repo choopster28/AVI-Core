@@ -3,6 +3,113 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-10-29 14:25:00",
+      "created_formated": "Thu, Oct 29th 2:25pm UTC",
+      "desc": "Jeffery Simmons has been traded to the Chicago Bears according to Tom Pelissero.",
+      "id": 616371,
+      "impact": "Simmons lands on a Chicago defense needing a disruptive interior option for head coach Ben Johnson, while the Titans build up their future draft capital by receiving two first-round picks and a fourth-round pick.",
+      "link": "https://www.fantasypros.com/nfl/news/616371/jeffery-simmons-traded-to-bears.php",
+      "player_id": 18207,
+      "sport_id": "NFL",
+      "team_id": "TEN",
+      "title": "Jeffery Simmons traded to Bears"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-29 01:56:16",
+      "created_formated": "Thu, Oct 29th 1:56am UTC",
+      "desc": "Carson Beck was limited in practice on Wednesday. ",
+      "id": 616340,
+      "impact": "Beck has been dealing with back spasms. He remains the current No. 3 quarterback for the Cardinals. ",
+      "link": "https://www.fantasypros.com/nfl/news/616340/carson-beck-back-limited-practice-wednesday.php",
+      "player_id": 22953,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Carson Beck (back) limited in practice Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-29 01:55:26",
+      "created_formated": "Thu, Oct 29th 1:55am UTC",
+      "desc": "Walter Nolen III did not practice on Wednesday. ",
+      "id": 616339,
+      "impact": "Nolen did not play in Week 7 against the Broncos. He could be on track to miss another game. ",
+      "link": "https://www.fantasypros.com/nfl/news/616339/walter-nolen-iii-ankle-misses-practice-wednesday.php",
+      "player_id": 27030,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Walter Nolen III (ankle) misses practice Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-29 01:54:29",
+      "created_formated": "Thu, Oct 29th 1:54am UTC",
+      "desc": "Jeremiyah Love was limited in practice on Wednesday. ",
+      "id": 616338,
+      "impact": "Love has missed the past couple weeks of action. His return to open the week gives him a chance to return on Sunday. ",
+      "link": "https://www.fantasypros.com/nfl/news/616338/jeremiyah-love-ankle-limited-practice-wednesday.php",
+      "player_id": 25403,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Jeremiyah Love (ankle) limited in practice Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-10-29 01:51:41",
+      "created_formated": "Thu, Oct 29th 1:51am UTC",
+      "desc": "The 49ers released Jack Jones.",
+      "id": 616337,
+      "impact": "Jones will figure to seek another opportunity. He was released to create room on the roster for DeForest Buckner. ",
+      "link": "https://www.fantasypros.com/nfl/news/616337/jack-jones-released-by-49ers.php",
+      "player_id": 22716,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Jack Jones released by 49ers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-10-29 01:50:40",
+      "created_formated": "Thu, Oct 29th 1:50am UTC",
+      "desc": "Rams coach Sean McVay said Myles Garrett will not be designated to return from injured reserve this week.",
+      "id": 616336,
+      "impact": "Garrett remains week-to-week. He has been sidelined since Week 1 with a knee injury. ",
+      "link": "https://www.fantasypros.com/nfl/news/616336/myles-garrett-knee-will-not-return-to-practice-this-week.php",
+      "player_id": 16370,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Myles Garrett (knee) will not return to practice this week"
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -342,112 +449,6 @@
       "sport_id": "NFL",
       "team_id": "PHI",
       "title": "Jihaad Campbell (hamstring/quad) misses practice Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-29 01:10:25",
-      "created_formated": "Thu, Oct 29th 1:10am UTC",
-      "desc": "Tyler Allgeier did not practice on Wednesday. ",
-      "id": 616316,
-      "impact": "Allgeier is dealing with a toe injury. Jeremiyah Love (ankle) returned to practice in a limited fashion on Wednesday. ",
-      "link": "https://www.fantasypros.com/nfl/news/616316/tyler-allgeier-toe-misses-practice-wednesday.php",
-      "player_id": 24172,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Tyler Allgeier (toe) misses practice Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-29 01:09:25",
-      "created_formated": "Thu, Oct 29th 1:09am UTC",
-      "desc": "Michael Wilson was limited in practice on Wednesday. ",
-      "id": 616315,
-      "impact": "Wilson was on the practice field wearing a non-contact jersey. He should still be on track to be good to go this week. ",
-      "link": "https://www.fantasypros.com/nfl/news/616315/michael-wilson-ribs-limited-practice-wednesday.php",
-      "player_id": 25333,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Michael Wilson (ribs) limited in practice Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-28 21:40:05",
-      "created_formated": "Wed, Oct 28th 9:40pm UTC",
-      "desc": "The Dolphins claimed OL Christian Haynes off waivers from the Seahawks. ",
-      "id": 616302,
-      "impact": "It was announced that the Ravens had claimed Haynes off waivers. The Dolphins had a higher claim and were awarded Haynes.",
-      "link": "https://www.fantasypros.com/nfl/news/616302/christian-haynes-claimed-off-waivers-by-dolphins.php",
-      "player_id": 26230,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Christian Haynes claimed off waivers by Dolphins "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-28 21:32:05",
-      "created_formated": "Wed, Oct 28th 9:32pm UTC",
-      "desc": "Ian Thomas was limited in practice on Wednesday. ",
-      "id": 616297,
-      "impact": "Thomas remains off the fantasy radar when he is healthy. ",
-      "link": "https://www.fantasypros.com/nfl/news/616297/ian-thomas-shoulder-limited-practice-wednesday.php",
-      "player_id": 17387,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Ian Thomas (shoulder) limited in practice Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-10-28 21:31:00",
-      "created_formated": "Wed, Oct 28th 9:31pm UTC",
-      "desc": "Brock Bowers was limited in practice on Wednesday. ",
-      "id": 616296,
-      "impact": "Warren notes that Bowers was also limited last Wednesday then was a full participant in practice the next two days.",
-      "link": "https://www.fantasypros.com/nfl/news/616296/brock-bowers-calf-limited-practice-wednesday.php",
-      "player_id": 22955,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Brock Bowers (calf) limited in practice Wednesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-10-28 21:25:35",
-      "created_formated": "Wed, Oct 28th 9:25pm UTC",
-      "desc": "The Eagles signed RB Jaydon Blue to their 53-man roster from the practice squad. ",
-      "id": 616295,
-      "impact": "Dameon Pierce was placed on the injured list as the corresponding move. Blue will remain off the fantasy radar. ",
-      "link": "https://www.fantasypros.com/nfl/news/616295/jaydon-blue-signs-with-eagles-53-man-roster.php",
-      "player_id": 24344,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jaydon Blue signs with Eagles' 53-man roster "
     }
   ],
   "public_api": true,

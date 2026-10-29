@@ -1112,12 +1112,12 @@
       }
     },
     {
-      "average": 7.4,
+      "average": 7.3,
       "filename": "azareyeh-thomas.php",
       "games": 7,
       "player_id": 27085,
       "player_name": "Azareye'h Thomas",
-      "points": 51.5,
+      "points": 50.75,
       "position_id": "CB",
       "team_id": "NYJ",
       "weeks": {
@@ -1127,7 +1127,7 @@
         "4": 8.3,
         "5": 5.3,
         "6": 6.8,
-        "7": 6.8
+        "7": 6
       }
     },
     {
@@ -3772,12 +3772,12 @@
       }
     },
     {
-      "average": 4.9,
+      "average": 5.4,
       "filename": "markquese-ball.php",
       "games": 7,
       "player_id": 24864,
       "player_name": "Markquese Bell",
-      "points": 34.5,
+      "points": 37.75,
       "position_id": "S",
       "team_id": "DAL",
       "weeks": {
@@ -3787,7 +3787,7 @@
         "4": 0,
         "5": 5.3,
         "6": 6.8,
-        "7": 5.3
+        "7": 8.5
       }
     },
     {

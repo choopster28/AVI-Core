@@ -13,20 +13,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 22
-- offense: 18
+- total_players: 21
+- offense: 17
 - kickers: 1
 - idp: 3
 - other: 0
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 598.0
-- championship_lineup_c_avi_avg: 74.75
-- offensive_roster_c_avi_sum: 943.4
-- offensive_roster_c_avi_avg: 52.41
-- offensive_roster_d_avi_sum: 1319.8
-- offensive_roster_d_avi_avg: 73.32
+- championship_lineup_c_avi_sum: 597.9
+- championship_lineup_c_avi_avg: 74.74
+- offensive_roster_c_avi_sum: 921.6
+- offensive_roster_c_avi_avg: 54.21
+- offensive_roster_d_avi_sum: 1277.4
+- offensive_roster_d_avi_avg: 75.14
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Nico Collins | C-AVI: 82.9 | D-AVI: 94.1
 - TE: Tyler Warren | C-AVI: 81.6 | D-AVI: 90.0
 - FLEX: Rashee Rice | C-AVI: 66.6 | D-AVI: 87.3
-- FLEX: Jeremiyah Love | C-AVI: 65.8 | D-AVI: 89.5
+- FLEX: Jeremiyah Love | C-AVI: 65.7 | D-AVI: 89.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 65.8
+- Championship AVI (C-AVI, 0-100): 65.7
 - Dynasty AVI (D-AVI, 0-100): 89.5
 - Projected PPR points: 211.8
 - Category: offense
@@ -178,23 +178,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Trevor Etienne
-- Player name: Trevor Etienne
-- Player ID: 12531
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: CAR
-- Active: True
-- Status: Active
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): 21.6
-- Dynasty AVI (D-AVI, 0-100): 42.4
-- Projected PPR points: 36.2
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Zonovan Knight
 - Player name: Zonovan Knight
 - Player ID: 8122
@@ -206,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 18.3
+- Championship AVI (C-AVI, 0-100): 18.2
 - Dynasty AVI (D-AVI, 0-100): 37.1
 - Projected PPR points: 10.5
 - Category: offense
