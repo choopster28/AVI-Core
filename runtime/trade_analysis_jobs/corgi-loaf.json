@@ -1,5 +1,45 @@
 [
   {
+    "id": "mvtr7e7c-70f2edc8",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "partnerGoal": "Rebuild",
+      "targetTeam": "Crimson Tide Pods",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Malachi Fields",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2027 1st · Mile High · Projected Late · original owner Mile High Royal Lions",
+            "assetType": "pick"
+          },
+          {
+            "name": "Jakobi Meyers",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1793291076265,
+    "updatedAt": 1793291076265,
+    "expiresAt": 1793723076265,
+    "status": "queued"
+  },
+  {
     "id": "mvtqm1nx-cb5e4b4f",
     "phase": "initial",
     "mode": "analyze_trade",
