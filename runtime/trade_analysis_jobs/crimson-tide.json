@@ -17,9 +17,342 @@
       "maxResults": 3
     },
     "createdAt": 1793305856384,
-    "updatedAt": 1793305858294,
+    "updatedAt": 1793305904628,
     "expiresAt": 1793737856384,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Crimson Tide Pods are actively shopping 29-year-old wide receiver Jakobi Meyers to advance their Rebuild timeline. Moving Meyers now capitalizes on his solid target share and recent contract extension with the Jaguars before age-curve depreciation impacts his trade value. Market analysis identifies strong interest from contenders and playoff-pushing franchises in need of reliable starting FLEX depth, yielding three viable deals returning 2027, 2028, and 2029 2nd-round draft capital.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Rebuild",
+          "strengths": [
+            "Accumulation of future high-end draft picks",
+            "Young developmental core at tight end and quarterback"
+          ],
+          "priorityNeeds": [
+            "Future rookie draft capital (2027-2029)",
+            "Young, high-upside dynasty cornerstones"
+          ],
+          "tradeableSurplus": [
+            "Aging veteran wide receivers (Jakobi Meyers)",
+            "Veteran QBs (Aaron Rodgers)"
+          ],
+          "constraintsApplied": [
+            "Strict Rebuild objective requires selling 29+ year old assets for appreciating future picks",
+            "Must obtain valid league-relative starter-caliber returns or premium draft picks",
+            "All trade partner ownership verified against official Sleeper roster/pick exports"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding teams (DMV Fantasy, Northside Kings) eliminated due to lack of interest in veteran WRs",
+            "Contenders with complete, stacked WR rooms had insufficient motivation to spend top-3 round capital",
+            "Teams lacking liquid 2nd-round draft capital in target years were filtered out"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Corgi Loaf Baking Co.",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "2027 Round 2 (Badland Banditos)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Jakobi Meyers",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 29,
+                "cavi": 52.6,
+                "davi": 76.3,
+                "publicMarket": 52.6,
+                "leagueMarket": 52.6
+              }
+            ],
+            "scenarioType": "Veteran Sell for Mid-Term Capital",
+            "strategicGoal": "Convert aging WR depth into a top-half 2027 2nd-round draft pick to support long-term rebuild.",
+            "scoring": {
+              "availability": 28,
+              "opposingGmMotivation": 22,
+              "packageMatch": 18,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 88,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Jakobi Meyers is 29 years old and does not fit the Crimson Tide Pods rebuild window. Acquiring a 2027 2nd-round pick (originally Badland Banditos) gives you liquid draft capital that gains value over time.",
+            "whyOpponentMightAccept": "Corgi Loaf Baking Co. is in a Playoff Push window (Increase Championship Odds). Adding Jakobi Meyers instantly upgrades their FLEX position with a steady, target-earning NFL starter without sacrificing 1st-round capital.",
+            "championshipImpact": "Neutral for user this season; significantly bolsters Corgi Loaf Baking Co.'s weekly starting floor and lineup resilience.",
+            "dynastyImpact": "Positive for Crimson Tide Pods by pivoting from a decaying age-curve asset into a flexible 2027 rookie selection.",
+            "rosterImpact": "Frees up WR starting snaps for younger wideouts like Germie Bernard and Zachariah Branch.",
+            "publicMarketContext": "Meyers holds strong redraft/contender value following his extension in Jacksonville, making him a prime candidate to trade to contender GMs.",
+            "risks": [
+              "Meyers continues to produce as a high-volume PPR WR3/FLEX over the next 1-2 seasons",
+              "2027 draft class depth turns out average"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Jakobi Meyers straight up for the 2027 2nd (Badland Banditos original), highlighting Meyers' 169.3 projected PPR points and steady target floor.",
+              "acceptableConcession": "Throw in a late future 4th-round pick if Corgi Loaf asks for a minor sweetener to finalize.",
+              "walkAwayPoint": "Do not accept anything lower than a top-tier 3rd-round pick or equivalent young player."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Big Balder Brand",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "2028 Round 2 (Big Balder Brand)",
+                "assetType": "pick",
+                "owner": "Big Balder Brand",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Jakobi Meyers",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 29,
+                "cavi": 52.6,
+                "davi": 76.3,
+                "publicMarket": 52.6,
+                "leagueMarket": 52.6
+              }
+            ],
+            "scenarioType": "Contender FLEX Upgrade",
+            "strategicGoal": "Secure a 2028 2nd-round pick from an Elite Contender looking for insurance and starter depth.",
+            "scoring": {
+              "availability": 27,
+              "opposingGmMotivation": 21,
+              "packageMatch": 17,
+              "lineupReplacement": 11,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 85,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Extracts full market value for Meyers from an Elite Contender while adding to your stock of future draft picks.",
+            "whyOpponentMightAccept": "Big Balder Brand is going all-in for a championship. Meyers gives them elite WR/FLEX depth for bye weeks and playoff matchups in exchange for a pick 2 years away.",
+            "championshipImpact": "User sacrifices current C-AVI for future flexibility; Big Balder Brand fortifies title odds.",
+            "dynastyImpact": "Extends the Crimson Tide Pods rebuild runway with high-value future draft capital.",
+            "rosterImpact": "Clears a WR roster spot to focus on youth development.",
+            "publicMarketContext": "Contenders routinely trade future Day 2 draft capital for established, reliable veteran starters mid-season.",
+            "risks": [
+              "2028 pick is two years out, delaying immediate draft realization"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Jakobi Meyers for Big Balder Brand's 2028 2nd-round pick directly.",
+              "acceptableConcession": "Include a 2027 3rd-round pick if Big Balder Brand adds a minor future asset.",
+              "walkAwayPoint": "Walk away if offered only 4th-round capital or non-projected backup roster clutter."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Ravens Regime",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "2029 Round 2 (Ravens Regime)",
+                "assetType": "pick",
+                "owner": "Ravens Regime",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Jakobi Meyers",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 29,
+                "cavi": 52.6,
+                "davi": 76.3,
+                "publicMarket": 52.6,
+                "leagueMarket": 52.6
+              }
+            ],
+            "scenarioType": "Long-Term Capital Accumulation",
+            "strategicGoal": "Acquire future 2nd-round draft capital from a playoff contender needing immediate receiving help.",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 20,
+              "packageMatch": 16,
+              "lineupReplacement": 11,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 80,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Ensures you do not lose Meyers for nothing as he ages, adding long-term liquidity to your rebuild stock.",
+            "whyOpponentMightAccept": "Ravens Regime (Playoff Push) gets a proven starting WR to boost immediate weekly scoring without giving up 2027 or 2028 capital.",
+            "championshipImpact": "Improves Ravens Regime's starting lineup depth while allowing user to focus on future draft assets.",
+            "dynastyImpact": "Adds 2029 draft flexibility to the user's asset pool.",
+            "rosterImpact": "Reduces offensive roster age average.",
+            "publicMarketContext": "Meyers' floor as a PPR WR3 makes him attractive to teams making a playoff push.",
+            "risks": [
+              "2029 draft capital is far in the future"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Meyers for the 2029 2nd-round pick.",
+              "acceptableConcession": "Accept a 2028 3rd + late pick conditional switch if 2nd-round pick is resisted.",
+              "walkAwayPoint": "Walk away if the return does not include top-100 pick equivalent value."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jakobi Meyers contract team 2026",
+          "Jakobi Meyers news 2026",
+          "Jakobi Meyers fantasy dynasty value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfgDgmBYBPgG8eEXj6BUF6H-mvss4CwLbqr7r5585v7i4aDGoHP6iRGYCLzySBFJNttPSBRENN9xSLSlnelxKgTFNe711hJ2BB7nnuDc0eE5zO0Iu9SbcCiaROOvA8uMLu_fgYPzoivMBE7dZH1I-m-v22-P9iP02bfq0fYHc7ExKPZsrESwu7TmKi6WwIT_frDHojcYc=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOawnrU0KKayQPNfimu3fFIJpk2ww2piqy710Xi6oqBa0fvBmt4omb24qZAHEcF1AvOyk5qY0uFj_H5rtuUxYHmUoBqB7bVRRsjMW9YSPnLStvjsiqzu6kS5fJvHR6TxCD0DyB6eQwUO8QvnT0yQuNf4DCc05So4K2B3yTVYTEHU0RW7k50WaVbxzzZlXo6QvpYL7FyYrOA_qm",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBlncZVN_XdL_yY6X7UtcNmPHa0oP9fkHjoD4Uy8houmytiqW50hwYCF108ojC0r4a9d9-5FYVvmKMHdkhIDHJqUAikExLO16U2tjLJJWOFGwr8hLipS00i36lqG0wSWa9ftAhI_izNcL-QEyvZAvefoGOLIDwhCsAzkwHq5uAiHghyaJVAHanItHcvcPna-6B8JHolwS7yA==",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7GFhY-7TwDOUNo39sLmLEW681-JS4WsPye-KZmj0U2LzoTpX89fNwCYW4uaCkmideXAK20rzlV_HeDOQHDcWMiElqI7oj_aTJbyH0UoGmoPrBHEM6_uzB8NanVMcX9tvgKLsME6IN7A==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl-b0ZIeyd0LX88kBMWi-ydKVoUcN3pCVHnruY7qGmFojtSJ99aLmlncOpYPFBpHZLFS5nEYheKJppNfyZVV7cfQsLfATU1_tCryW0QqbBp6IHul65ZSMggz0CMAbDCH5hP31kk6Ffm9b0JvwFE2F7PHbReTDcCvmjPbgvEIjC5jh6-I43oyrHt5jQpjGYs_ke2kURYDepZ4E7i255bEcCwv_gpP0uxha3fSFlycofo34=",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP6Vr8i9ph_he8M-daQSoSeU-pdeNvfxBSMmqM-DTXm8ul56_fUadZBFDo85CkpNHxNxbveBCbt8dBZoPEl8jDXTYNGq4U5j-p74xU39MqeUte_hYA2xln05ZjRaTSQzdbTTFgHKSk-GAY33vqf0PpabQ=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPntqd2iUHZWCzrn2aFb4N1surGraLfhP0jg1eFFo5InK9qDBEjL4TIS4C1VLgXyuu5i6fn6JDEJZX-nhmfWz7nOKnHonQG3CDNqVh5bneKf7M6Anh-ohrJU2k9De-5n7cR_Zd5HADwBk=",
+            "title": "plainstatsnfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_VHFHIsWrrFvOE6BEgevhjYN74LgUZHnK0qWPD3raX3NxxgfNpzDP_qZbv7vPpUgmh6e49hX8osaYsTIKMuiLhtsvCwpFyXZHXwXYhuwRU-ptNjeC1HVm-nky-5ZF9vBjWY-n0hu_5LG6lmupvcyBHCJcEd71sjY=",
+            "title": "keeptradecut.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7tFgtRoyrOPYSoxd-z5dBLMjA2yBgtZQYpmmDgVRmtCVtbKlBvzdco5xOk7RWJvEyFgfoN2dPkZSJiVmOzF_Oj27mEFj5rMHYrYBNBp_7G1e-KUA0qpu6c5BjiPwX50DHZvrnpHbBjfnOUJmcPCMoojt6Ko7o6wWkG4hSX--9MKIiuWyVdwTcR_JhVl_-ow==",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Jakobi Meyers"
+        ],
+        "aviCoreCommitSha": "ae18e87208363b7fcc55c261a8bd407dad1d5167",
+        "aviCoreCommittedAt": "2026-10-29T19:04:17Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 542677,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 249,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mvtwtb29-54cab277",
