@@ -1076,14 +1076,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 14
 - Team file: 14_Phalhala_or_Bust.md
 
-## PLAYER LOOKUP: Jordan Watkins
-- Player name: Jordan Watkins
-- Player ID: 12634
-- Position: WR
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
-
 ## PLAYER LOOKUP: Jordyn Tyson
 - Player name: Jordyn Tyson
 - Player ID: 13281
@@ -1388,6 +1380,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
 
+## PLAYER LOOKUP: Mason Taylor
+- Player name: Mason Taylor
+- Player ID: 12498
+- Position: TE
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
+
 ## PLAYER LOOKUP: Matthew Golden
 - Player name: Matthew Golden
 - Player ID: 12501
@@ -1635,14 +1635,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
-
-## PLAYER LOOKUP: Roschon Johnson
-- Player name: Roschon Johnson
-- Player ID: 10235
-- Position: RB
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Ryan Flournoy
 - Player name: Ryan Flournoy
@@ -2022,15 +2014,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: KC
 - Championship AVI (C-AVI, 0-100): 42.9
 - Dynasty AVI (D-AVI, 0-100): 56.4
-- Availability: available
-
-## AVAILABLE PLAYER: Mason Taylor
-- Player name: Mason Taylor
-- Player ID: 12498
-- Position: TE
-- NFL team: NYJ
-- Championship AVI (C-AVI, 0-100): 36.4
-- Dynasty AVI (D-AVI, 0-100): 63.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Demarcus Robinson
@@ -3077,6 +3060,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 42.5
 - Availability: available
 
+## AVAILABLE PLAYER: Roschon Johnson
+- Player name: Roschon Johnson
+- Player ID: 10235
+- Position: RB
+- NFL team: CHI
+- Championship AVI (C-AVI, 0-100): 18.0
+- Dynasty AVI (D-AVI, 0-100): 40.5
+- Availability: available
+
 ## AVAILABLE PLAYER: Jackson Hawes
 - Player name: Jackson Hawes
 - Player ID: 12658
@@ -3822,6 +3814,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 18.4
+- Availability: available
+
+## AVAILABLE PLAYER: Jordan Watkins
+- Player name: Jordan Watkins
+- Player ID: 12634
+- Position: WR
+- NFL team: SF
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 28.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Josh Williams
