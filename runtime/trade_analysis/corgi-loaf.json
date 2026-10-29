@@ -1,5 +1,559 @@
 [
   {
+    "id": "mvt3864y-58dd2ed2",
+    "createdAt": 1793250860565,
+    "expiresAt": 1793682860565,
+    "mode": "shop_assets",
+    "title": "Initial Shop Assets · Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Rhamondre Stevenson",
+          "assetType": "player"
+        },
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "Cam Skattebo",
+          "assetType": "player"
+        },
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        },
+        {
+          "name": "Tyler Shough",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (70% estimated).",
+        "teamDiagnosis": {
+          "competitiveWindow": "Playoff Push",
+          "strengths": [
+            "Elite WR corps anchored by Jaxon Smith-Njigba and Malik Nabers",
+            "Elite foundational tight end production via Trey McBride",
+            "Deep group of starting-caliber running backs available for package consolidation"
+          ],
+          "priorityNeeds": [
+            "Consolidate running back depth into elite single-position ceiling",
+            "Re-acquire premium 2027 1st-round draft capital",
+            "Upgrade FLEX production with young, high-upside offensive playmakers"
+          ],
+          "tradeableSurplus": [
+            "Rhamondre Stevenson",
+            "Saquon Barkley",
+            "Cam Skattebo",
+            "David Montgomery",
+            "Tyler Shough",
+            "2027 Round 2 (Badland Banditos)"
+          ],
+          "constraintsApplied": [
+            "Enforced strict league-relative starter/FLEX caliber gate across all proposed players",
+            "Satisfied two-organization goal constraints for both user and target trade partners",
+            "Verified complete ownership integrity for all players and draft picks in every proposal"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Eliminated 7 rebuilder/retool teams lacking matching high-leverage starter assets for trade",
+            "Eliminated 5 contender teams unwilling to surrender core starters without prohibitive overpays"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Rapid Valley Annihilation",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Quinshon Judkins",
+                "assetType": "player",
+                "owner": "Rapid Valley Annihilation",
+                "position": "RB",
+                "age": 23,
+                "cavi": 69.6,
+                "davi": 85.8,
+                "publicMarket": 85,
+                "leagueMarket": 85
+              },
+              {
+                "name": "2027 Round 1 (Corgi Loaf Baking Co.)",
+                "assetType": "pick",
+                "owner": "Rapid Valley Annihilation",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Rhamondre Stevenson",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 28,
+                "cavi": 65,
+                "davi": 78.1,
+                "publicMarket": 72,
+                "leagueMarket": 72
+              },
+              {
+                "name": "David Montgomery",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 54.2,
+                "davi": 75.9,
+                "publicMarket": 65,
+                "leagueMarket": 65
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Asset Consolidation & Draft Capital Recovery",
+            "strategicGoal": "Re-acquire 2027 1st-round pick and secure high-upside young RB Quinshon Judkins",
+            "scoring": {
+              "availability": 26,
+              "opposingGmMotivation": 22,
+              "packageMatch": 0,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 70,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Reclaims native 2027 1st-round pick while swapping two aging veteran RBs for elite 23-year-old centerpiece Quinshon Judkins to bolster long-term roster strength and playoff upside.",
+            "whyOpponentMightAccept": "Rapid Valley Annihilation is in a Retool window and gains two dependable starter/FLEX running backs to stabilize their weekly output without sacrificing long-term competitive balance.",
+            "championshipImpact": "High immediate impact by consolidating depth into a higher-ceiling young starting RB while securing premier draft liquidity.",
+            "dynastyImpact": "Massive long-term gain by acquiring a 23-year-old cornerstone RB (85.8 D-AVI) and recovering a 2027 1st-round pick.",
+            "rosterImpact": "Clears roster congestion at RB while keeping starter quality elite and rebuilding draft flexibility.",
+            "publicMarketContext": "Quinshon Judkins is surging following his 2-TD Week 7 return; Rhamondre Stevenson maintains strong pass-game redraft demand despite NE committee split.",
+            "risks": [
+              "David Montgomery groin injury creates minor short-term availability risk during recovery",
+              "Selected Shop Assets player Tyler Shough fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Does not meet the 70% Market Reality requirement (70% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Rhamondre Stevenson and David Montgomery for Quinshon Judkins and the 2027 1st-round pick.",
+              "acceptableConcession": "Include a late 3rd-round pick or FAB supplement if needed to close the deal.",
+              "walkAwayPoint": "Walk away if Rapid Valley demands Malik Nabers, Trey McBride, or additional 1st-round capital."
+            },
+            "deterministicRejectionReasons": [
+              "Selected Shop Assets player Tyler Shough fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Big Balder Brand",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Tyler Warren",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "TE",
+                "age": 24,
+                "cavi": 81.6,
+                "davi": 90,
+                "publicMarket": 88,
+                "leagueMarket": 88
+              },
+              {
+                "name": "DeVonta Smith",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "WR",
+                "age": 27,
+                "cavi": 84.9,
+                "davi": 91.9,
+                "publicMarket": 88,
+                "leagueMarket": 88
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 62.9,
+                "davi": 85,
+                "publicMarket": 82,
+                "leagueMarket": 82
+              },
+              {
+                "name": "Cam Skattebo",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 24,
+                "cavi": 56,
+                "davi": 80.6,
+                "publicMarket": 75,
+                "leagueMarket": 75
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Blockbuster Contender Swap",
+            "strategicGoal": "Acquire elite young positional anchors Tyler Warren and DeVonta Smith",
+            "scoring": {
+              "availability": 24,
+              "opposingGmMotivation": 21,
+              "packageMatch": 0,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 65,
+            "classification": "Stretch",
+            "whyUserShouldDoIt": "Upgrades pass-catching strength and positional flex resilience with two premier assets (DeVonta Smith 84.9 C-AVI, Tyler Warren 81.6 C-AVI) who fit both current title odds and future window.",
+            "whyOpponentMightAccept": "Big Balder Brand is an Elite Contender in a Win Championship window needing workhorse RB dominance; Saquon Barkley and surging rookie Cam Skattebo solve their RB starter shortage immediately.",
+            "championshipImpact": "Provides two high-floor, high-ceiling starters who boost weekly PPG and create elite double-TE flex flexibility alongside Trey McBride.",
+            "dynastyImpact": "Acquires two cornerstone assets under 28 years old with 90+ D-AVI ratings.",
+            "rosterImpact": "Transforms RB surplus into elite WR/TE starting caliber without compromising overall lineup competitiveness.",
+            "publicMarketContext": "Cam Skattebo is riding peak market momentum following Tyrone Tracy Jr.'s IR placement; DeVonta Smith represents a prime buy-low target during soft-tissue rehab.",
+            "risks": [
+              "DeVonta Smith hamstring injury requires short-term lineup management",
+              "Selected Shop Assets player Tyler Shough fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Does not meet the 70% Market Reality requirement (65% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Saquon Barkley and Cam Skattebo for Tyler Warren and DeVonta Smith.",
+              "acceptableConcession": "Add a 2027 3rd-round pick if Big Balder requests minor sweetener balance.",
+              "walkAwayPoint": "Walk away if Big Balder excludes either Tyler Warren or DeVonta Smith from the return."
+            },
+            "deterministicRejectionReasons": [
+              "Selected Shop Assets player Tyler Shough fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Badland Banditos",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Brian Thomas Jr.",
+                "assetType": "player",
+                "owner": "Badland Banditos",
+                "position": "WR",
+                "age": 24,
+                "cavi": 39.8,
+                "davi": 79.1,
+                "publicMarket": 75,
+                "leagueMarket": 75
+              },
+              {
+                "name": "2027 Round 1 (Badland Banditos)",
+                "assetType": "pick",
+                "owner": "Badland Banditos",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 62.9,
+                "davi": 85,
+                "publicMarket": 82,
+                "leagueMarket": 82
+              },
+              {
+                "name": "2027 Round 2 (Badland Banditos)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Star-for-Capital & Upside Pivot",
+            "strategicGoal": "Convert 29-year-old elite RB into high-upside WR Brian Thomas Jr. and 2027 1st-round draft pick",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 20,
+              "packageMatch": 0,
+              "lineupReplacement": 11,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 61,
+            "classification": "Stretch",
+            "whyUserShouldDoIt": "Secures a 2027 1st-round pick and a former elite WR prospect while returning Badland's 2027 2nd-round pick, maximizing asset liquidity and long-term flexibility.",
+            "whyOpponentMightAccept": "Badland Banditos is an Elite Contender in a Win Championship window needing an elite RB centerpiece to push for the title; Saquon Barkley provides instant championship-winning RB1 upside.",
+            "championshipImpact": "Maintains strong title contention while capturing a premium future 1st-round pick for mid-season flexibility.",
+            "dynastyImpact": "Insulates the franchise against Saquon Barkley's age curve by adding a 24-year-old WR and 2027 1st-round capital.",
+            "rosterImpact": "Rebalances RB depth while adding premium future draft capital and WR upside.",
+            "publicMarketContext": "Brian Thomas Jr. is generating heavy NFL trade deadline rumors that could instantly reboot his redraft target volume in a new scheme.",
+            "risks": [
+              "Brian Thomas Jr. short-term production remains dependent on potential NFL trade location",
+              "Selected Shop Assets player Tyler Shough fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Brian Thomas Jr. fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler.",
+              "Does not meet the 70% Market Reality requirement (61% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Saquon Barkley and 2027 2nd (Badland) for Brian Thomas Jr. and 2027 1st (Badland).",
+              "acceptableConcession": "Remove the 2027 2nd swap if Badland includes an additional 3rd-round pick.",
+              "walkAwayPoint": "Walk away if Badland refuses to include their 2027 1st-round pick."
+            },
+            "deterministicRejectionReasons": [
+              "Selected Shop Assets player Tyler Shough fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Brian Thomas Jr. fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": {
+          "summary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (70% estimated).",
+          "primaryObstacles": [
+            "Selected Shop Assets player Tyler Shough fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+            "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Brian Thomas Jr. fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler.",
+            "Seller acceptance remains uncertain; trade-block listing is not required to explore an offer."
+          ],
+          "userConstraintImpact": "The proposed offer respects verified ownership, but has not met every market/fit criterion.",
+          "closestPathToDeal": "Use the displayed verified construction as a negotiating starting point, not an accepted or 70%+ realistic trade."
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tyler Shough NFL 2026 news",
+          "Tyler Warren NFL 2026 news",
+          "Quinshon Judkins NFL 2026 news",
+          "Cam Skattebo NFL 2026 news",
+          "Saquon Barkley NFL 2026 news",
+          "DeVonta Smith NFL 2026 news",
+          "Rhamondre Stevenson NFL 2026 news",
+          "David Montgomery NFL 2026 news",
+          "Brian Thomas Jr NFL 2026 news"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnYqMM-kIXZwBJUxiN79sefnKostDkWBR1Af0RWhrfbtkhw6hgtthMXxwNOy4I5O7YERz66b46HiKreHYXZVldq5F8kA78BTHo6qbd9TeEo6BKp-Wd3MgjKeE9GuELC8xANuOoas-j4tOuZr7SY_hEVSgFBqTcpVBD0WQX34bLJ1E1ubs3-NM8STHKS8IT-7DB09JS0Kd4CNCM3K7TeAA2Hjkn8un3oWvRsdujkHRNOAZIlblcimG6FS1G-MRlKzdydTGV",
+            "title": "philadelphiaeagles.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_ABMg2qDfBpArKZZtPvnWGlRPKWWAEOgWDB-vQkMoMuY5LAOTlbO3EysQBIQ0pAJI2sjw4eBp1LzdKZx2WNST4r5JcUXxJE4sZZQdmiq1s6c7oilTOQ_irgWHX6kzrs38_-xJqrK8wLvVB5oS3HcQf0tH4zI1ahmQq2pOSvX7KEOqQI_UC4qnh-o=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjZrBlZPApuAv6fAsYE5V34yhp_YBTd59w9USq2OnOrZ-tZZY0FJ7gC24ygT2qy4sRAKd-gltFHUSHRVuciKbbpxIWNJdX4sC6lykRqZA4E8LEPTThohNjnX9HdM2_4pXa0BTFE18hFtlaajrLxdZ2y00vgcpRmpCglxt-_hSUbJX1DP-ABKCHsyBZ1kxvVQYXKW180ZpHLGcxG5EHyDhZ0383uvZBEkAC",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWrKW9EPlxqr4Vgymqxtro96RnemNDYcj1Bev-dMFPPFANJ0sCcoZZQj0e5pUIWpyPoShHrCKYtE987o8244oadDUe3KgTVAeZETC5qzMxhpFTXIH2guMbyQSvrEqBfqsviFJOpZwsQTtwJHqH4wqCcustGOFH3UmnkYXJsc8d19DElYoYmtbHMM7MQkHbCUbLkjENQVBvVg==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLsLbyYHvn_5wEVYQzLMLNELnaPF4Dx4-x9URVJjwFxuR4QaFxZnjCFjn8gk9gbUoxXdT5Jl4rNChDvESWGK6LznuC5X_VHUuzyfkSeGqSFmDfv5sSMWjfGoJ8sYEN6KbBJninEjTeo8Ba4l4W-IKxBXi1wNP0m0i-WtBgHCvSIeone7Zgc_8oPWKzkA==",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5XC3yIAvPafdMN2IkbYInDTDYKA6R5eUVWzEnQzBF5B_Qp_LfSBRuWHnml1Hb0C5fEQPv3m80zoX8Q1W7TvHC357dKaE6JxMj1fn7boCC3k9hQVIaXbq2bQMRcPldnpe3fdBTUBfxbLz7ajmAC67EyIVvHQmR_fA49AxNPW6LMejw75CxnlVGHt1IUJN4hzCfK3X9SWaAVLY1Vbw6",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZA2-0qFuntZ-NI81VY4jt5jmzcP0twblJa-5D_DgJTCO3QDRjic251Q_qrkpt_ZCpDqDFHyDskZ9Ws23GjpKFoV87uDCH6Pe72ou3dHcuZB2_-6WIRUk_0Im-BmJDlP4QX6SFiNPs8lRwI9kJP2jKnUuWkL7MeNoab8LtYaTx7bX2DUPGVsO-MLw12ZONLWAeQuGpUMEI83zW8TqGLT4lFEM=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5feR_P5qRCV4-6enDOeum4z_K4wYlwr9GAnGiv_7SRTKptz6lXpbUbSBPaxBiQoOTWFU80spso_wznK93gPOjFfx0zk5TWT5fMT-Zzjce_Xclbulm20YEAMy826p9YH5yex9mxAl_JgJE6YrpKlRZpumOjFeDU2bDncntVHCU8Sx__4ALmMbpx64OAKTQeA==",
+            "title": "patriots.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkmjqjxF0kruGYGoBR7D8vNrDStmhlfvFGEr68jwzckZQNbF04e0xQITWO3lsZFRMS8M-dbNCG6R7SgNjF_GYQ0X7q798rsJZRlnbv-AULwKrQXCtVG74r1nDh0tGjlin0-J6BzL6_037m2rCit0rdUvs6FSq0wTUiW44k",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELWr9wu34TaDJSQVDwl-GN8i-xesaN_qe06h4zILnOiaGeDnuRiZe-0Q_NrS2dhruItb20nsGWV5ubS5CdcEKYUMlqmETs7r4tzlTDrtRU67rokaV6nwq7vcfyM-atb2mB25fgCs6FI61OZqSjVQ==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRJb6aIGEfb-muzvbx-PU8b99krdiouphy1DlTOFpGbV4zlxniQPYNuN63b6hGIKL1AeRh7GTae0DJzB06MK5w55TwcsyIgMy6UtTehQqyKBONsq7IDRUuHJp9Yw83qh_K867SmfRArFmg0SqvA2M-9YscwwnQnmnBJWOKrVpguofHE73oXRciK00i6bzXXR3xtiwlxItZypARPBVoas8hTGIhTHOluIk=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEOELJGtoVa6MDxiz0FizCCB7xDFfv5wfsyaGja7r9dS_yOQZP9trjSznL_Q6VD_nox1H4T6_doxcZbQpvkPVFQvoqnFJiNrBTayLJ1HE6SVRL4kRi08unc-HWZYFTj_iocN77hgglfAcOFQpeUQst1yL2hNPDzr9wVVb0pWIaDUnqYUPsNNnj1lpsisKEhjmiwARvQEYCcHHObBTN5gDpRBLG-w==",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlpbqKvEKtioJGKfhdlFM7GhZ-UjLmMiw34zxI2UOCVDmKn6awxFzFCPF1366jAMYo7lDeRP5FZzcDaqndP3cm1YipUYGSmXbMaT65yliOnBnoRee8HuA25Okld8iNkaratHkiijxJF7WZf-1dFA==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbltqwyHajxk-MRJzKKQ2d3PgkM0li2Oojx33-y4lF8C-a0jbicPIHh10d03vLRZfbh-Hnr6E5zxTzQT9tz5N-JOBqxcHWLqWc_3Jq-VfatR2fqjU11GhbTOKW-qCk7Xttfqhyg09sd6_iCk9eN2deoZZZoken5tqrpEcl_Kmh0p6UeIkb1aE3i0KOSs_fnDu8Rg==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxExDNWIHCrWLfeNwrLBFtaREs8mwPKQaMSMUDcx3peiDXslyS0mgZsvdENKl4KwnVz5hFdnB5lajdnGUbvpe6CdjgoHeRaF-inQ-EXODyRFKcoZw0lZqIgAXjxpKvaG4sZ9ziSXLNGUl3ydROBW4az2Ga2ouQwpjIrjLZF7RUOr_cyN9slwTc9WqozhxRPQr5PfJiMbptf5TxwBdjJfh9kqsP",
+            "title": "insidetheiggles.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENBfa6Ylv_H6Ex5M_XLhQU7V707QBOr3Z8PGw7h1atcQ61GrQpiFN4CpWFkU2FY_kOnx1jwdmcX2mI_Nxvx4hosi4rAey0HsI7Wf7N5JuKfMREumMIGFwiz8jw9yPDtWZNTK8zkJeibV_Zsg6hJFnPeFA=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHidDzVuPta525C24mpkVrn0pTCLcyTbqZHybqr9aJHiyMBV2gXlWy2re2AsGHMF0ehQkBYyxVBGIw2jAzw_9WVttrIqpiDp6ElJRXdo7Yg6zXbqyKOF_CHYDSobb5CD0jK4KGom1SBZFYANuWgMtY77GdIYk3lvz0141nPjqYyQWeAjjNwwdP_wnMJQeDZge0tiUplV6KI5JyJy2hJz894ECRzyRKg",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAjMpQI99CD3c-Y234JTCTatWwW2VK4zf3Uwd7BKRam9X0JhrG3cMmD2a-JvTDbTGNYh3TdU1cshcxWO0DScjrarx-bYyBIoD26Rtk8a9oIueDHAkz59Hq1GELWpGe-l0aKfthKRhxbgdA0gTQbodes42TQrm8tzQrs-mKOaTZlVJvXL4DhIg3UEqIKyrWQqpw980vWUWINnvaJQijgm8_k7WT-hF4mmWtsgSEU5b3",
+            "title": "washingtonpost.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5Bn-VHbyNO29F4IfpzxXTYTuzTOgD88y6D-INQ6AnOsFRKIgEBSra4Wi3K6uSO3fugtiH5Z2zmJ689HRay_519QpFoyvE2wz4YNXpsfkaq-H46g3Oz83ghEVcUvvxmSgzT_DFCisn8eMrz8K2UFbKO589p5RFaxYc_7YIHm0lOeCtud9rWxVtF0eQJk0xd39HGBGCAw58bvd_gImWL8RhQsE6MF_D",
+            "title": "lindyssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEznLrLiIdLPsNI5Wx3Km9sSX73XG_j1DokZeVtimo66gstUmtnMoCtj14zlAk6Lfo8Iai96TtahX98fCk326LsjnzIxp0jLdh6btZWi26qX3exDiTtKyxbqS8vvurvSGcR1ujIJt1WL2gVNPfcpKOGK3VpNDiRbp3Jg_twJjkPWIEe2G3ok7ZP24SDz39aJHdhOCMQOXzXglnaYbeMKsBz",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf7ism3jlcO_IbfTTHlKQz-ERaeciGYasJo8u80uVtMimihU9k_AenZq0PCZEswgiVniwf56_bFjduaAZymizQeDpqFkdz8DIyg09RHfG1r9d6Jm3vVwgbeoMaVJpxfKHjL4x93W_qSw-8aH-aHJgXPtU_5Io5wbqaqpJQShUz1MTGzho=",
+            "title": "betmgm.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-yykHclg3rsBngqKVtyZmVWGlJjY-6s4aTQg60ms0cifiHuch-c1QXY2plOdq4sYbp4sdpNDCByLQFI4qWF_ONSoI1RJn_qraqL-ijMgeQrFT1C7S0nNkpfTKFj8zoeiNsA8503XmcpWJFSp2QhUsBRwrD_8WDX92hcnTDhLt8utXnFnZd5rkwN5L1VtTaFLZW05eheUUXxZy8QZ6BmOnCetAa0RRGHcbMA==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRvY7AtuJSM80fFxZk2yY-R69g_HCZrZR5QRk5v1pzl2HXT3el_bVFxg-EeOS7dtyKy1KABup-F9ANxxrwS8xLoeQczYhULUJu0gnktHhm-zI_1VMa8yTuIKm9tLOZa1p8VqzvkSGHPS7wPtIDaJkJmXiMmRoSL0F9Da--3GxqaPQDDueuNmnSGSb9CsORDxJjn4ksWSwoNK_TjI3MRAlmaLvpiVY96w==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7Nh51BHjiRLzc5GpI3l_hJsZA882hfsauavz2QAsygK0Cb-UHfncK-GDq7K_zbXknuQfkulrGSDYS-cT85i5DNH2kTNYYjPDTIfzVTs72kB8IpYGDK9QgXaK54Qr_17vB16LUzCFaBSagyy5ThjTK5aXYCj5xSdiOT_aGH-XpmHocui_6lA44gnrgAXY_yPLRVha-STVARAFAe3pyGcdpf3L9Rn1nPUtFwGRQ6zfmhp0IugThm_81nXin1EjVFGg=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvmNHZVY07HytwD_SPZ7cMbi6cGMy7P_xazD6vFq6RAWrID31lpWOkhTiR7b5fH22qCSF8Tdj26Is9rw0LNYYkhLPPJAJeyuZ-dxF_B7CFTV1tmsHo0V6kGMvyN4J0JruoYuKXiLskFatbHKb6Rlx1Xt-rQkSa4xxK8jTUDFRVq35M_kdCgYLR3Q85yw=",
+            "title": "louisianasports.net"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO5EZeIQ8SpqQkHhn2i-ETPQKroWUwtw3H3j9iueTJrmXYq0KjIsH8_NSKAqyKbatccpgcGXJNwOwZkmYw9jX9AtEeF1s-c3diA0oLdT-OeMSMtofMr2WxvZ1WQGGQ78_Yo8jc0r42my9HjvBzT4b1WbBIhJHbUjokEU8srkfKHR0NFnB3iaqY5CSClI-a5TpQpqLwKvQjgQ2J908-hcvZfsqNmh3Z4bXuPEosON-jwuv6yFP8zPfmuPZ1fVmk1N7zolucU3fqruKsNqCq0LUg1iTyq0BsdAmBl7wOJS8=",
+            "title": "essentiallysports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG31rF6smqEDjm0ECcKp0f8DzEE223idQAfNbqz4DtEv_csn0rFOB0Q5pDc7s6ODuA1uivSOTuXI4qSM3A9kji1moK--lLZT_Or3U1IWRwJPWNrEfIlCYdkQX5yrT1kvLbZXsfS3iCTUARXI6hQhLdLsbK3Sk8-0dOXlNzNJxezyyAktIZB2UFddRAZVXxUS79TAKbJHud8U8MSrTzKZa-eNStuVrKK",
+            "title": "draftsharks.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Quinshon Judkins",
+          "Rhamondre Stevenson",
+          "David Montgomery",
+          "Tyler Warren",
+          "DeVonta Smith",
+          "Saquon Barkley",
+          "Cam Skattebo",
+          "Brian Thomas Jr.",
+          "Tyler Shough"
+        ],
+        "aviCoreCommitSha": "2a9cc338369ae62697a250036bf2b5792f39b643",
+        "aviCoreCommittedAt": "2026-10-29T03:35:14Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 542671,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 250,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mvsvmhqd-f867b41f",
     "createdAt": 1793238121574,
     "expiresAt": 1793670121574,
