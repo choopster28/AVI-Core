@@ -1,5 +1,49 @@
 [
   {
+    "id": "mvt1k05y-0251d796",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Jakobi Meyers",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 3rd · Wheat Warriors · Projected Late · original owner Smoky Valley Wheat Warriors",
+            "assetType": "pick"
+          },
+          {
+            "name": "2027 4th · Crimson Tide · Projected Early · original owner Crimson Tide Pods",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Malachi Fields",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1793247994582,
+    "updatedAt": 1793247994582,
+    "expiresAt": 1793679994582,
+    "status": "queued"
+  },
+  {
     "id": "mvswfxt8-b8699d05",
     "phase": "initial",
     "mode": "shop_assets",
