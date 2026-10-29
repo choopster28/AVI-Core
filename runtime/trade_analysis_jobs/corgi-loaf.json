@@ -1,5 +1,41 @@
 [
   {
+    "id": "mvtruuo6-a9876a64",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "partnerGoal": "Retool",
+      "targetTeam": "All Hail King Jesus",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "D'Andre Swift",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1793292170694,
+    "updatedAt": 1793292170694,
+    "expiresAt": 1793724170694,
+    "status": "queued"
+  },
+  {
     "id": "mvtr7e7c-70f2edc8",
     "phase": "initial",
     "mode": "analyze_trade",
