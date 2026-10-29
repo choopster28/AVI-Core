@@ -31,9 +31,343 @@
       "alternateAssets": []
     },
     "createdAt": 1793300496705,
-    "updatedAt": 1793300498412,
+    "updatedAt": 1793300545649,
     "expiresAt": 1793732496705,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This trade represents an outstanding win-win transaction aligned perfectly with both organizations' strategic goals. Crimson Tide Pods leverages one of its five 2027 1st-round picks alongside 29-year-old WR Jakobi Meyers to acquire 25-year-old cornerstone RB De'Von Achane. While Achane's 2026 C-AVI is 0 following a season-ending Week 3 ACL injury, his 88.7 D-AVI provides Crimson Tide Pods with an elite RB1 anchor for its 2027+ competitive window without hurting its 2026 draft position. Conquistadors (Champion Favorite, Win Championship goal) convert an inactive IR player into immediate active WR/FLEX depth (Meyers, C-AVI 52.6) and a premium liquid 2027 1st-round pick to fuel their championship run.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 52.6,
+              "davi": 76.3,
+              "publicMarket": 35,
+              "leagueMarket": 52.6
+            },
+            {
+              "name": "2027 1st · Ravens · Projected Mid · original owner Ravens Regime",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "sideB": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 0,
+              "davi": 88.7,
+              "publicMarket": 75,
+              "leagueMarket": 88.7
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Crimson Tide Pods successfully executes a core rebuilding strategy: converting a 29-year-old veteran WR and one of their five 2027 1st-round picks into an S-tier 25-year-old RB asset (D-AVI 88.7). Conquistadors also benefit by turning 0 current-season production from an IR player into active lineup depth (Meyers) and a liquid 2027 1st pick for further in-season title moves."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "The submitted package is fully coherent and mutually beneficial. Accept as constructed."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Losing Jakobi Meyers reduces 2026 weekly scoring slightly, which aligns directly with a Rebuild goal and draft-position strategy."
+            },
+            "dynastyOutlook": {
+              "score": 60,
+              "summary": "Secures De'Von Achane (D-AVI 88.7), giving the franchise an explosive, high-ceiling RB1 for its future competitive window."
+            },
+            "lineupQuality": {
+              "score": -10,
+              "summary": "Temporarily drops active starting WR quality for 2026 while Achane remains on IR."
+            },
+            "depthResilience": {
+              "score": -5,
+              "summary": "Slight reduction in immediate WR depth, but offset by deep draft capital reserves."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Deploys one 2027 1st-round pick, leaving four 2027 1sts remaining in the asset chest."
+            },
+            "overall": {
+              "score": 6,
+              "summary": "Substantial long-term dynasty gain by adding an elite 25-year-old RB anchor in Achane while preserving four other 2027 1st-round picks."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 30,
+              "summary": "Gains Jakobi Meyers (C-AVI 52.6) for immediate 2026 lineup/FLEX insurance during the championship push."
+            },
+            "dynastyOutlook": {
+              "score": -20,
+              "summary": "Surrenders long-term dynasty ceiling of 25-year-old Achane."
+            },
+            "lineupQuality": {
+              "score": 15,
+              "summary": "Adds a startable WR3/FLEX option to active 2026 rotation."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Expands active, injury-proof depth for late-season playoff push."
+            },
+            "flexibilityLiquidity": {
+              "score": 40,
+              "summary": "Acquires a liquid 2027 1st-round pick (Ravens) to re-deploy before the trade deadline if needed."
+            },
+            "overall": {
+              "score": -6,
+              "summary": "Improves 2026 title contention probability by converting zero-production IR slot into usable active starter/FLEX depth and premium draft trade currency."
+            }
+          },
+          "explanation": "Visual scores reflect Crimson Tide Pods gaining significant multi-year dynasty value (Achane) while Conquistadors solve a 2026 roster bottleneck by turning an injured player into immediate starting depth and title-race liquidity."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Crimson Tide Pods sees 2026 C-AVI drop slightly by trading Jakobi Meyers (52.6 C-AVI), as Achane carries an effective 2026 C-AVI of 0.0 due to his season-ending Week 3 ACL injury. For a rebuilding team, lower 2026 point output is structurally advantageous for draft position.",
+          "sideADynastyImpact": "Crimson Tide Pods gains 88.7 D-AVI in De'Von Achane while sending 76.3 D-AVI in Meyers and 79.3 D-AVI in the 2027 1st. Gaining an S-tier 25-year-old RB anchor elevates long-term roster foundation.",
+          "sideARosterImpact": "Removes veteran WR Jakobi Meyers from active starting rotation; places De'Von Achane on IR until 2027 training camp.",
+          "sideBChampionshipImpact": "Conquistadors upgrade immediate 2026 title odds. Replacing Achane's 0.0 rest-of-season production with Jakobi Meyers (52.6 C-AVI) adds reliable WR/FLEX scoring, while the 2027 1st pick provides mid-season buying power.",
+          "sideBDynastyImpact": "Conquistadors trade long-term upside (Achane D-AVI 88.7) for immediate championship window needs and a liquid 2027 1st (79.3 D-AVI).",
+          "sideBRosterImpact": "Fills active roster slot with Jakobi Meyers while clearing an IR spot.",
+          "valueAssessment": "Net value transfer is highly balanced. The premium attached to Achane's dynasty ceiling is fairly matched by a 2027 1st and a proven, startable WR."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus (KTC/FantasyPros) ranks De'Von Achane as a top-8 dynasty running back (~RB8, ~6,000 KTC value) despite his season-ending ACL injury, given his 25-year-old age profile and elite per-touch explosive ceiling. Jakobi Meyers trades as a mid-to-late 2nd round rookie pick value (~2,200 KTC value), making a mid 2027 1st + Meyers a standard market-rate package for an injured young elite RB.",
+          "aviVsMarket": "AVI D-AVI aligns closely with public market valuation on Achane (88.7 D-AVI). AVI values Meyers higher than public consensus (76.3 D-AVI / 52.6 C-AVI) due to 16-team league starter scarcity and solid PPR target share.",
+          "relevantContext": [
+            "De'Von Achane suffered a torn left ACL in Week 3 vs Kansas City and is officially out for the remainder of the 2026 season; return expected for 2027 kickoff.",
+            "Jakobi Meyers signed a 3-year extension with Jacksonville and provides high-floor PPR WR3/FLEX production (10.7 PPG projection).",
+            "Crimson Tide Pods holds five 2027 1st-round picks, providing rare capital flexibility."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors are in Win Championship mode (Champion Favorite). Holding Achane on IR produces zero points toward their 2026 title push. Acquiring Meyers gives them immediate starting/FLEX depth, and the 2027 1st gives them liquid ammunition for further roster moves.",
+          "packageFit": "Strong fit for both teams. A rebuilder wants young elite assets on IR to facilitate a tank; a contender wants active weekly points and liquid capital.",
+          "lineupReplacement": "Conquistadors currently start Bijan Robinson and Jonathan Taylor at RB, with Breece Hall at FLEX. Achane was non-producing on IR. Meyers immediately enters their WR3/FLEX conversation.",
+          "competitiveWindowFit": "Perfect alignment. Crimson Tide Pods targets 2027+ contendability; Conquistadors maximizes 2026 championship odds.",
+          "positionalScarcity": "High. Elite RB1 upside at age 25 in a 16-team format is exceptionally scarce."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 23,
+            "packageMatch": 18,
+            "lineupReplacement": 13,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 93,
+          "classification": "Highly Realistic",
+          "explanation": "De'Von Achane is explicitly listed on the commissioner-confirmed Autobots trade block as Publicly Available (30/30). Conquistadors are a Champion Favorite seeking immediate 2026 production. Trading an injured IR player for a startable WR and a 2027 1st addresses their competitive window and provides high acceptance probability."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "Crimson Tide Pods successfully trades Jakobi Meyers and one of their five 2027 1st-round picks to acquire 25-year-old cornerstone RB De'Von Achane. Because Achane is out for 2026 with an ACL injury (C-AVI 0.0), this move helps secure higher 2027 draft positioning while anchoring the backfield with an S-tier dynasty piece (D-AVI 88.7) for the eventual championship push.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 52.6,
+              "davi": 76.3,
+              "publicMarket": 35,
+              "leagueMarket": 52.6
+            },
+            {
+              "name": "2027 1st · Ravens · Projected Mid · original owner Ravens Regime",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 0,
+              "davi": 88.7,
+              "publicMarket": 75,
+              "leagueMarket": 88.7
+            }
+          ],
+          "whyUserShouldDoIt": "You turn a 29-year-old WR and 1 of your 5 2027 1st-round picks into a 25-year-old elite RB anchor for 2027 without compromising your 2026 tank/draft spot.",
+          "whyOpponentMightAccept": "Conquistadors unlock zero-production IR space to add immediate active WR/FLEX starter points (Meyers) and a liquid 2027 1st pick for their 2026 title run."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "DeVon Achane dynasty value 2026",
+          "DeVon Achane news 2026",
+          "Jakobi Meyers news 2026",
+          "Jakobi Meyers dynasty value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3_PVNTkP5cWQsrWuoiiE_NYdnVQraJUrZU5lJOd3--hxInsLpocLu9KWiH6yRLyuEPOIiDhtHRAsnPN0hze6FN0f2eI9bhSxjiEa5aWgnflQhfnORWXayG1KjlPDpTQff",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh52HLqsQCYJuBz_V7ohsXfzAe8TrPqezSBUp2mqc83rDGw22Q8PHq3GbEhPk_02w6Hl6O6anHV0_7SzdbCuBRY2kjcadwG5r3Xx_TXS9KKoeAGpY1YBDFB26p_NGTlry2BVTC5NHiZTA6jSVHmrWhu7Hdx2KV",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDVcjlj9Y5OO_xqTgW_nnfR2P9rs7oxem-Qj3W4KrcrPYHPm7-qOHxBQi-96pWDgGwxqO9xeuF5o8VzTG1-4-AOTKZcHmUAe8mNVFSVU-LTB0mdGXryuvmJsaOtNYt6CzLYS6mOKzIESXIjIovzSXWE6U=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVJWlGVkw-9tV9E_PHoj6b-zP2D9k_tP4QXF1r3cqVjfqXrTg6lxQ2BQktJpR2UwJIG-A-CNn3R8jQ3WRmZpM7_c_FHZzSpimrt0iZbhO06DgRJXuJcV_wQuATYZWAzbSGXmi1v2WzHQ==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmBvLKO-RxurfLNLwgBwhXBDvSvgUBOIdwYp7g4F-qEDlrh9_6gcsPtRp9xgriUTAfmkiRQcJrniLmD_ikEVCos3zcGYb133LbB9E8p4eDF25LagNCRQvHcrwEOQ2D53SqqjU4TNNVxi01ZsHWewHSm7zOTYcp03rB6FChzYMAzic47GC7OBns-xHD-GoRxFi0YV_gDEMHlacmroobcM44VMcrOgoh",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy4KnJUgOVgXKpfQazSRL4_WheEXsoD3QGhqXvFc0p5y58s4AA2unfjpZj_Wu6nLtWDtV56uvltBHFBldv9rhPxza89eNW0eW8K1MdjJ8X_Ne0TCegRnc36_3m-kfkAaJs6KR0qJAH8qa9As5kNMj4fji_NbZ0tX3CYpsYr2Mdg3iWe7tcvtV9X0eqa4YAphSdZ4tiKGB36suS2fedBdEi4zrf59r0LLVe6NXwSBy4RIrDJcsifwSvTqAvDZZdGJU=",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0LQPoRyQ2_4ARaFopjUCokDp-Fnhjkhl_bZBt9lRyAW7H5oNX4D7XYrQuoES0J5VDH_hbRN-FEvp1GgBOOtuzyuGEu2mZLNhkKMLLt_8lXVrkC3nO0q6N88A-rBYks02BXn7NRw==",
+            "title": "dynastydealer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-1yQo3iy7mhnqOjxPPs2st2yGSJWE8szWrT_T_DyUxIC-Hi1Q8ogUedE09qJD4tGpH9XZ6PWpZ4WFzK3jMlc23oLVQXI-A17n8D_yv97RRaUT_1pN6gVvuDpEvJofJLGk2pAKv6zZdCijVyaVud3q1nNxRQCvWAA=",
+            "title": "keeptradecut.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe5ZZ4q_Ovs0uQ7W7KdwhIJrW4w1whNsD8mecUjPpr11Q5HdzpLHViTFUeWPdCEHXZXhQ7AiSy688zZl7uhwPClZPWzYs3RgWFWJaBl_vo1wUqu9whZXDWQOc2HTL_n1NucJCz57vlb0RimZ9Am67o0SqdNc_ltOvzyUNyB3S12fdtis_KVRf5cTk=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq5eYP0TtWLsrEkkg3hMOiLOkGLHdbRUgD9q9DPfN4BFeNPbsKhVs-i03wr3M_ZHla4C9HxLX7tA94UCvZzpvxwiN4M3b5UgM7LhGLPDQYwGrd-vYLMckyRF_rIZN9peYjLZMkk2vZpOZl85pUboN4zxac",
+            "title": "leaguelogs.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEABOgeP8d-3V_xwzNO_O3ffNkjo9c_n1f1RTgtuzhPSIOJPwv9XUxx3UU9NyYiXXqOlz7DjOftKvhtO6k3fuF-vkcKF1kqXu524uFEn3xA_pr3rSRIEkOKFocBNaJ7OLdlupF1nss9V7jM-5jxNB12uko9U-O0Sw6Ab2gpP9HaXklZ4EwQDnPcbGh771DqqmVzxDoCyIQb-rS_-J0VjaoIGRVFs0KhaFGb_yPF99K1G5KS2H76kxFJSRv7Xw==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsZboyM_owAt9BT435nnQV2BiAOHSIF2IdNI76cqmxLdWcHt3pfh5jqgLwZEckqHdWm1uh6w7sHasQlSnqR_RChxgHRZ75A6P1Zer0KHw0uChRiT-pQ033ko86p2uX29S6pC29i9gByWuAGj4lIWVzys0sEDrEmsQiIDfbGLVR-g37Tn153g7UqNJhOWnCDG-H",
+            "title": "dolphinstalk.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJgeiERyVAwVbxiBFw1nDR9u1KfmcF_lHR73lfuDHf5-kl27R8grHNkwa2xpcYDbGkLJTs2yULOo2CT4BfqbH4iojXV9FJmTXcank_GlUsmZcOLH1wVZj7Pxxi4_NUwM8TGtf9JgsUvGyhqwXyIKlUZ80EYY1v9fPscg==",
+            "title": "keeptradecut.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwA-LTDNvW8QrQnyZBqxjKSHbu6XkODWJKTEkkA3Bcc-0nwWJaQ5AtEZppjm3sujFii_enWIBP8UpO-t8BvC7lNbGc4-mNNmQyJ1rsVnDWyu7KgSTtu6YgaH6tayamQHwUqPUFqJF3m4lUTUJ5rmfui7s2p8f1Wukg8NyrnaYcDkUkcY2Xj4iHKcTHn2BnlbmJ6eY=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2biHDS-_QQ3u0CjWrFrfuPTi59OQmLCm-wz2lRpH0PlFz6ap9KSUAXNOyyjEVHEijnRdwKAw4rk54Daov9VFfnWF81SArDv6cI3XH7rAoVIwDnwwXtQrvB_bjYvFff3G7j3KiBWUX",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGArLQQCH0wvdqHN-rpGaurNrfJydpDL1GF-OCi5S6pJJbW3KAYZ2pBepNprJ9IXJhWiFvo1kN9LzUrKja-wI7mX2xGUwgo2hnjyC36uV61f7mafXqxDlcpEruRxDv3xwzgfOt1s35n5FPO0T55WNz52uOMWXOiPax34oD6Xw8KM49vC40avZjiXh2S2i76yTCWNROULKVjNsUupVevSTM0",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhw-m992fWJv6QA_7TL9eA1MZUFpFXG21_ofJ8qZEvv_lyW2x42jb3e_dvPJJspgIGXkSYyuGjEHJkHNQM4VI2cmxPlEHuVQrUfT0tiUOy7y24QJq-mSHcM7IBdRTjmTI5",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0x8rJr7vRDeUZ4VEcL7wTKtnk2lEHdS5EWs3YEcpd-xFyIzfHb1zUwdpp0MI4eQ5zfoAXYPtNsdT33ye24zIzyvzLF6gQdtscP-8JxTdZpqyZHkMMOjYGu_UCADDNuCio-MSp0lrjI78xrJC1pEO0PyVjf9jbsXbHYUTK7c2vxS3mcJaSW7JLxBc9Fng=",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "9761bdcab7b0e184c8a37b3d83b06243daddb874",
+        "aviCoreCommittedAt": "2026-10-29T18:27:34Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 91991,
+        "groundedMarketChars": 4214,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mvtwkiqw-b3a24a9c",
