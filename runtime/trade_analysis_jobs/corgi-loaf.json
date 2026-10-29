@@ -31,9 +31,357 @@
       "alternateAssets": []
     },
     "createdAt": 1793292170694,
-    "updatedAt": 1793292172651,
+    "updatedAt": 1793292217633,
     "expiresAt": 1793724170694,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. executes a high-impact championship move by trading Saquon Barkley and a 2027 2nd round pick for D'Andre Swift. Moving from Barkley (62.9 C-AVI) to Swift (81.3 C-AVI) yields an immediate +18.4 C-AVI upgrade in Corgi Loaf's starting RB1 slot, providing healthy, high-floor production for a title push. For All Hail King Jesus, who is executing a Retool, receiving Saquon Barkley alongside a 2027 2nd round draft pick adds valuable pick capital while maintaining starter-level talent. Market Reality scores this transaction at an 86% acceptance probability as a highly realistic win-win trade for both franchises.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 29,
+              "cavi": 62.9,
+              "davi": 85,
+              "publicMarket": 85,
+              "leagueMarket": 85
+            },
+            {
+              "name": "2027 2nd (Badland Banditos)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 81.3,
+              "davi": 86.7,
+              "publicMarket": 86.7,
+              "leagueMarket": 86.7
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Corgi Loaf Baking Co. achieves a net +18.4 C-AVI starting lineup boost at RB1 by acquiring D'Andre Swift (81.3 C-AVI) for Saquon Barkley (62.9 C-AVI) and a 2027 2nd pick. Swift provides immediate durability and passing-game volume for a championship push. All Hail King Jesus successfully advances its Retool goal by acquiring 2027 2nd draft capital plus Barkley's elite talent."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "AVI fully endorses the submitted trade structure as optimal for Corgi Loaf Baking Co.'s Win Championship objective."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 80,
+              "summary": "Dramatically boosts immediate championship odds with a +18.4 C-AVI gain in the starting lineup."
+            },
+            "dynastyOutlook": {
+              "score": 10,
+              "summary": "Youth advantage (Swift age 27 vs Barkley age 29) balances the loss of the 2027 2nd pick."
+            },
+            "lineupQuality": {
+              "score": 75,
+              "summary": "Replaces a compromised Saquon Barkley with a fully healthy D'Andre Swift at RB1."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Preserves robust RB depth with Rhamondre Stevenson, Cam Skattebo, and David Montgomery."
+            },
+            "flexibilityLiquidity": {
+              "score": -25,
+              "summary": "Surrenders a 2027 2nd round pick."
+            },
+            "overall": {
+              "score": 8,
+              "summary": "Major net gain for championship pursuit by upgrading starting RB stability and C-AVI."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -35,
+              "summary": "Lowers current-season starting RB C-AVI ceiling by 18.4 points."
+            },
+            "dynastyOutlook": {
+              "score": 55,
+              "summary": "Gains valuable 2027 2nd pick capital while maintaining an elite-upside RB in Saquon Barkley."
+            },
+            "lineupQuality": {
+              "score": -30,
+              "summary": "Saquon Barkley takes over RB1 at lower current-season projection due to health concerns."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Maintains strong starter-caliber RB presence."
+            },
+            "flexibilityLiquidity": {
+              "score": 65,
+              "summary": "Adds flexible 2027 2nd round pick capital to the asset portfolio."
+            },
+            "overall": {
+              "score": -8,
+              "summary": "Effective retooling transaction that acquires draft capital while retaining starter quality."
+            }
+          },
+          "explanation": "Corgi Loaf gains significant starting lineup strength for its title run while All Hail King Jesus adds draft equity tailored to a retooling window."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf's starting lineup C-AVI increases from 563.6 to 582.0 (+18.4), significantly improving weekly scoring stability and championship probability.",
+          "sideADynastyImpact": "D-AVI shifts marginally from 85.0 to 86.7 on the player swap, offset by the outlay of a 2027 2nd pick (48.5 Pick AVI).",
+          "sideARosterImpact": "Solidifies RB1 with a 27-year-old lead back under contract through 2029 in Chicago.",
+          "sideBChampionshipImpact": "All Hail King Jesus experiences a temporary 18.4 C-AVI decrease in starting lineup output at RB1.",
+          "sideBDynastyImpact": "Net positive dynasty trajectory by capturing 2027 2nd draft equity while acquiring a top-tier RB talent in Barkley (85.0 D-AVI).",
+          "sideBRosterImpact": "Maintains starter quality at RB1 while generating draft flexibility for future roster building.",
+          "valueAssessment": "Fair value package where the championship contender pays a 2nd-round pick premium to acquire immediate health, stability, and higher current-year production."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty markets view Barkley and Swift in similar value tiers, but Swift currently enjoys greater stability due to recent extension security and good health, whereas Barkley faces short-term injury and team volatility in Philadelphia.",
+          "aviVsMarket": "AVI rates Swift higher in current C-AVI (81.3 vs 62.9) due to Barkley's lingering hamstring and back issues, while D-AVI remains closely aligned (86.7 vs 85.0).",
+          "relevantContext": [
+            "Barkley returned in Week 8 but played through lingering hamstring/back issues on a 2-5 Eagles squad.",
+            "Swift signed a 3-year extension in Chicago and maintains high PPR floor in Ben Johnson's offense."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "All Hail King Jesus gains future draft capital (2027 2nd) to support a Retool strategy while receiving a star RB who can be held or re-traded upon health recovery.",
+          "packageFit": "The package directly addresses the Retooling partner's desire to accumulate pick capital without gutting roster baseline.",
+          "lineupReplacement": "Saquon Barkley directly replaces D'Andre Swift in All Hail King Jesus's active lineup at RB1.",
+          "competitiveWindowFit": "Fits a Retool window well by balancing current starter presence with future draft capital accumulation.",
+          "positionalScarcity": "Exchanging lead RBs maintains positional balance for both organizations in a 16-team league."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 20,
+            "packageMatch": 16,
+            "lineupReplacement": 12,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 86,
+          "classification": "Realistic",
+          "explanation": "The proposal aligns cleanly with All Hail King Jesus's Retool goal, offering a 2027 2nd pick plus Saquon Barkley in exchange for D'Andre Swift."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "For a team pursuing a championship, upgrading starting RB C-AVI by +18.4 points while getting two years younger at the position is a winning move worth the price of a 2027 2nd pick.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 29,
+              "cavi": 62.9,
+              "davi": 85,
+              "publicMarket": 85,
+              "leagueMarket": 85
+            },
+            {
+              "name": "2027 2nd (Badland Banditos)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 81.3,
+              "davi": 86.7,
+              "publicMarket": 86.7,
+              "leagueMarket": 86.7
+            }
+          ],
+          "whyUserShouldDoIt": "Upgrades starting RB1 by +18.4 C-AVI immediately and eliminates current injury volatility for your championship run.",
+          "whyOpponentMightAccept": "Provides a retooling front office with a 2027 2nd pick while keeping a star RB in Saquon Barkley."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "RB",
+              "age": 29,
+              "cavi": 62.9,
+              "davi": 85,
+              "publicMarket": 85,
+              "leagueMarket": 85
+            },
+            {
+              "name": "2028 3rd (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 81.3,
+              "davi": 86.7,
+              "publicMarket": 86.7,
+              "leagueMarket": 86.7
+            }
+          ],
+          "rationale": "If Corgi Loaf prefers to preserve its 2027 2nd pick, offering a 2028 3rd pick tests whether the partner accepts a smaller pick sweetener."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Saquon Barkley team 2026",
+          "Saquon Barkley news 2026",
+          "DAndre Swift news 2026",
+          "DAndre Swift team 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBkUJcTExr-tHF7_lbDaGHpb-MVaPWJ_IllUX74kG-qBR6XwKoAfYgZu0iHcm5JFIAMEAv6zJPRLeyzfKK7DmJ2HEb1EDfrclxHmxDQ3XIXGUONdi-fn-DVrnqOlOGIOs=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKra8SUq8s_vxVoiDV_BvySiw2B-o_zBX2Cg_K2GP3J2aV7mwEDq3ydnqq5MKHvYOe9XlG6jR09p6JXfvUw83pQCxhumsVXPUYyzvXOsrbJ44olLLm10fohuzu2YjjgGQ=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHttaUJv2-HxceYFJFeT9dCzPrkaId80huLhntqa8Vh0ZMc5OiktsHtFZ0oKd4s5MG-Qaaa33PWFjykUX6F4x5TZP4ltFiSNvpmbia1vYfBPIdyJxi-7w_IFW0R7AtEohFM-F5APO3MhfD3i6BKfwHQbvrgqMOb7qTmfgBcL_qLTqSB1F4fPI0S4NBUsfxW1ev2sLl2AW3GSYNAk-4yUdE=",
+            "title": "roundtable.io"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH67heUCEVWQmG_JOsewfoBqGlBXr8SqluoKfdPjbKwr7Mri6RhxbKWwz5xY5nh_Mp2UCtRGZDn2ROnShBjWVtQtFGvdUVfNWoMi8SmY3E2FQuf9yd1QPaz7A3HjMjV13JvOBW5vMXnssjbgb971V4YONeZ06IoA3TTN-KSHCZvYFXeIBDQAM19HJB2wnJHu0zxIgmvGfo=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCZzhZ5bT8iCrH90AvznYLY8UQDy00dLTv1m9iGdTYHSnVhGqdgnF2SPKgFkQ2tjNpxOyW3m923UElHD3Ox_MmlRsIfIb27-Z_-2MW9HHkQALBuWT1_Hgeuqa5zb_Ab5-xbYM_pU5bm7JM7UcNyKUGEPUxxf6XTYpMkgO0y0N3rzgUXnYS2GwBsTeGzS4FZ8ZCgkSF54EmSdwogdAOqlrx_Q==",
+            "title": "downbeach.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFosZuxcH7VlW9mNfyZnDvW6KCjahxL9G8G09VVNMn4xLPke07A-5dRFAnj0jpYycOwaqIkFQW6BsFwaKJo5QmDzlEvLfO1v2XwGspTRbcLXABkEKck2rjYqiQPt0XcdTjKFjDRX-gKNpLBfVkHaqqU7p2qJaeHpCAMl78PG2BG4dHZjvO_r1DUwOIBQwlbyLSIkiHVoepIX6GRz7g=",
+            "title": "phillyvoice.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEZPrwcJH46kmVDbHPe3QxKRnewaw_whEpigBTXAD43NC1LXyayqbgLmbsKKLcvxb2WIMj9bkDTbgxkevpbz7YibrUEbqqJvFGaGIFFNvplvS6vVqUO4tKYcOOgCnVcjnJOUEIlZnYNFu5rzKh3VSZ5wvQnedkKNP-xxM=",
+            "title": "philadelphiaeagles.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8h3m5yCgFQHYSvrDnpYq8tJkIwu4ZIeGellPw_43Ica0KGSkWpALC6dFEy0DtnaX2Is6vBDNXKjA-vkdgM_Kesh1pJXcosdtv_OYX50VUmbZZk2lt0lmFaepC3Vu-Zre9acGFzVzQyAt1i-kdv2o3sI00FgA0Zt_d_KSDhKiktdoepLyjCpuhQjFFaFk=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFybr-qmclVL3-U8Y2cuDLC_JWJPvRfvrpy62-XHTVenPMHwQ6CmcRymDdDdGZlCSRpuThl75BzzUdUpUKcTp7HWK1gfb2bV16sSJhhWLLSRyIfWQWNBW-rlPzt-uRSUTTSOvlKQBHNEeSD5WBGAlIws_8pCgD2Tfkng21KKJI19GII8rGUr7Sd3UwsYAoUD2zIBIA=",
+            "title": "dawindycity.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCCsT5wQtG9RJZYY19RRRRXeCiWBZB-jFX1LrEIV3cyjejMqqV6R_zLA8nPB0-K2N4PFx5WXbP4XFTeoSwPB_CTU5sDUH5FPRIWVNx3nZ_t6hm3YKFL1f12Q6aRyw6D9k=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7pcwApfcXTsifPjDhMHSKoeJcAPZBLlxQgSYYXK0j6BffBORqR7hfOpPo26Dt6f9SUMC3mqn1r6t0dxO1Q-7x0Pt88m5xBhE6s8rQHKwgIP66ZnVeKnKm-bW3ZpCzYM5jA0RxoW_W2i4htnZ7Wijm56kZKzIqZuUENYs5w1tMFgktvW4Z-Duww1baDjedWfw-gtw=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERRs8N_u20RlmuBh_PMAJLpr6gjfkX2EJ5LXxfTC61H8AOus3MVlci0R_9pgqlQR15xkTU_7If_UyHUu8V9kWDnJZHxe9QWBYpkVw-bE20tKLNKtBOIRDRaNrIRbcQD9tSKj7_fjOzUvToSrvrkcWUyzGZlw==",
+            "title": "chicagobears.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "a21099121cb711bd5f07598ce04e4225ab156be6",
+        "aviCoreCommittedAt": "2026-10-29T15:24:39Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 86920,
+        "groundedMarketChars": 3883,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mvtr7e7c-70f2edc8",
