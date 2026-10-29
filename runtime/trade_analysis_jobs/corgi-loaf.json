@@ -27,9 +27,335 @@
       "alternateAssets": []
     },
     "createdAt": 1793236156370,
-    "updatedAt": 1793236158704,
+    "updatedAt": 1793236225028,
     "expiresAt": 1793668156370,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "In this proposed 16-team Autobots transaction, contender Corgi Loaf Baking Co. offers a liquid 2027 2nd-round draft pick (Badland Banditos origin, 48.5 D-AVI) to rebuilder Northside Kings in exchange for wide receiver Ryan Flournoy (WR, DAL, 46.9 C-AVI / 68.4 D-AVI). While Northside Kings would readily accept this offer as a textbook rebuilding move that converts a 27-year-old WR3 into top-32 draft equity (83% acceptance probability), Corgi Loaf Baking Co. misallocates premium capital. Flournoy does not enter Corgi Loaf's top 8 starting lineup—sitting behind Jaxon Smith-Njigba, Malik Nabers, DeVonta Smith, DJ Moore, and FLEX options Cam Skattebo and David Montgomery. Corgi Loaf should revise the offer before sending to demand a pick return (e.g., receiving a 2027 3rd back) or pivot the 2027 2nd toward an active starting upgrade like RB RJ Harvey.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Ryan Flournoy",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "WR",
+              "age": 27,
+              "cavi": 46.9,
+              "davi": 68.4,
+              "publicMarket": 47,
+              "leagueMarket": 48
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "A-",
+            "userShare": 45,
+            "otherShare": 55,
+            "advantageFranchise": "Northside Kings",
+            "summary": "The submitted proposal significantly favors Northside Kings. For a rebuilding franchise, receiving a 2027 2nd-round pick (48.5 D-AVI) for a 27-year-old rotational wide receiver represents an outstanding return on asset value. Conversely, for Corgi Loaf Baking Co. ('Win Championship' goal), spending liquid top-32 draft capital on Ryan Flournoy (46.9 C-AVI) yields zero net improvement to the 8-man offensive starting lineup, as Flournoy sits behind Cam Skattebo (56.0 C-AVI), David Montgomery (54.2 C-AVI), and DJ Moore (47.1 C-AVI) on the bench."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "By revising the construction to request Northside Kings' 2027 3rd-round pick alongside Ryan Flournoy in exchange for the 2027 2nd (Badlands), Corgi Loaf preserves draft equity while adding WR depth. Alternatively, pivoting the 2027 2nd pick to acquire DEN RB RJ Harvey (54.5 C-AVI) gives Corgi Loaf an active FLEX contributor who directly boosts weekly championship scoring."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Depletes future trading assets that could be leveraged for a true starting upgrade later in the season."
+            },
+            "dynastyOutlook": {
+              "score": -25,
+              "summary": "Trades an appreciating top-32 pick (48.5 D-AVI) for a 27-year-old WR3 with capped long-term ceiling."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Flournoy's 46.9 C-AVI sits below Corgi Loaf's current starting FLEX threshold (Skattebo 56.0), leaving starting lineup unchanged."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Provides extra wide receiver bench depth behind JSN, Nabers, DeVonta Smith, and DJ Moore."
+            },
+            "flexibilityLiquidity": {
+              "score": -35,
+              "summary": "Expends Corgi Loaf's sole 2027 2nd-round selection, reducing in-season trade maneuverability."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Corgi Loaf surrenders a highly liquid 2nd-round pick without boosting active starting lineup C-AVI."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 0,
+              "summary": "Neutral impact for a rebuilding squad focused on future asset accumulation over 2026 wins."
+            },
+            "dynastyOutlook": {
+              "score": 30,
+              "summary": "Gains a 2027 2nd-round asset (48.5 D-AVI) to strengthen its multi-year core."
+            },
+            "lineupQuality": {
+              "score": -10,
+              "summary": "Minor drop in active starting C-AVI, which is fully acceptable for a non-contending team."
+            },
+            "depthResilience": {
+              "score": -5,
+              "summary": "Slight reduction in wide receiver roster depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 35,
+              "summary": "Acquires a liquid 2027 2nd pick that can be selected in the draft or packaged in future deals."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Northside Kings successfully converts a 27-year-old role player into a premium future draft pick during a rebuild."
+            }
+          },
+          "explanation": "The holistic visualization highlights a strategic discrepancy: while the deal accelerates Northside Kings' rebuild by netting a 2nd-round pick, it weakens Corgi Loaf's capital flexibility without enhancing its championship starting lineup."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf Baking Co. gains minimal immediate championship value. Ryan Flournoy's 46.9 C-AVI does not breach Corgi's 8-man starting lineup (QB Shough 47.8, RB Hubbard 70.2, RB Stevenson 65.0, WR JSN 99.2, WR Nabers 92.2, TE Warren 81.6, FLEX DeVonta Smith 84.9, FLEX Skattebo 56.0). Bench options Montgomery (54.2) and DJ Moore (47.1) also sit ahead of him.",
+          "sideADynastyImpact": "Dynasty portfolio value declines. Corgi surrenders a 2027 2nd-round pick (48.5 D-AVI) for Flournoy (68.4 D-AVI, age 27.0). In a 16-team league, liquid 2nd-round picks carry high flexibility, whereas Flournoy's long-term upside is capped as Dallas's WR3 behind CeeDee Lamb and George Pickens.",
+          "sideARosterImpact": "Exchanges future draft currency for bench wide receiver insurance. Roster composition becomes more top-heavy with fewer draft assets.",
+          "sideBChampionshipImpact": "Negligible effect on Northside Kings' 2026 title chances, as the franchise is explicitly rebuilding and Flournoy's departure frees up targets for younger receivers like Jordan Addison (78.5 D-AVI) and Xavier Worthy (75.0 D-AVI).",
+          "sideBDynastyImpact": "Strong positive dynasty outcome for Northside Kings. Turning a 27-year-old 6th-round NFL pick into a 2027 2nd-round asset accelerates their rebuilding timeline.",
+          "sideBRosterImpact": "Opens up a wide receiver roster slot and accumulates high-value future draft capital.",
+          "valueAssessment": "Market value strongly favors Northside Kings in the submitted 1-for-1 trade. A 2027 2nd-round pick is an overpayment for non-starting bench WR depth."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market research confirms Ryan Flournoy has established a consistent WR3 role with the Dallas Cowboys, earning a contract extension through 2027. He averages 9.1 PPR PPG in 2026 (WR37 overall) with a 74% snap share.",
+          "aviVsMarket": "AVI values Flournoy at 46.9 C-AVI / 68.4 D-AVI, closely aligning with consensus fantasy sentiment that views him as a late 2nd to early 3rd round trade asset.",
+          "relevantContext": [
+            "Contracted with Dallas through 2027 with a guaranteed role in a high-volume passing offense.",
+            "Operates as Dallas WR3 behind CeeDee Lamb and George Pickens, offering high contingent upside if injuries occur.",
+            "Averaged 13.3 PPR PPG over Weeks 5–7 (17 targets), displaying strong weekly flex capabilities when targets flow his way."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Northside Kings (srsmith95) is in an explicit Rebuild. Receiving a 2027 2nd-round pick for a 27-year-old WR3 perfectly fits their strategy of accumulating draft capital.",
+          "packageFit": "Package fits Northside Kings' rebuild goals exceptionally well, but represents an inefficient capital allocation for Corgi Loaf's championship push.",
+          "lineupReplacement": "Northside Kings easily absorbs Flournoy's departure using internal wide receivers Jordan Addison, Xavier Worthy, Khalil Shakir, and Malik Washington.",
+          "competitiveWindowFit": "Northside Kings gains long-term value aligned with its rebuild window; Corgi Loaf sacrifices liquid trade capital needed for its championship push.",
+          "positionalScarcity": "In 16-team fantasy leagues, liquid 2nd-round draft picks carry high trade leverage, making them too valuable to spend on bench depth."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 23,
+            "packageMatch": 18,
+            "lineupReplacement": 13,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 83,
+          "classification": "Realistic",
+          "explanation": "Northside Kings (srsmith95) would very likely accept this trade offer as submitted (83% acceptance probability). Getting a 2027 2nd-round pick for Ryan Flournoy aligns seamlessly with their rebuild strategy. However, high seller acceptance probability does not mean Corgi Loaf should submit an offer that overpays for bench depth."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "While Northside Kings would accept the offer as constructed, Corgi Loaf Baking Co. should not pay a full 2027 2nd-round pick for a player who does not enter its starting 8. Corgi Loaf should revise the trade to demand a 2027 3rd-round pick in return alongside Flournoy, or redirect the 2027 2nd pick toward acquiring a starting RB like DEN RJ Harvey (54.5 C-AVI).",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Ryan Flournoy",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "WR",
+              "age": 27,
+              "cavi": 46.9,
+              "davi": 68.4,
+              "publicMarket": 47,
+              "leagueMarket": 48
+            },
+            {
+              "name": "2027 3rd · Northside Kings · original owner Northside Kings",
+              "assetType": "pick",
+              "owner": "Northside Kings",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "whyUserShouldDoIt": "Recovers draft equity by receiving a 2027 3rd-round pick back, ensuring Corgi Loaf does not overpay for non-starting bench depth while still securing Flournoy's upside.",
+          "whyOpponentMightAccept": "Northside Kings still achieves a pick tier upgrade from Round 3 to Round 2 for a 27-year-old WR3, maintaining strong alignment with their rebuild goal."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "RJ Harvey",
+              "assetType": "player",
+              "owner": "Northside Kings",
+              "position": "RB",
+              "age": 25,
+              "cavi": 54.5,
+              "davi": 75.5,
+              "publicMarket": 55,
+              "leagueMarket": 55
+            }
+          ],
+          "rationale": "If Corgi Loaf is determined to spend its 2027 2nd-round pick, targeting DEN RB RJ Harvey (54.5 C-AVI) gives Corgi an active RB3/FLEX2 option who directly upgrades weekly championship scoring."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Ryan Flournoy fantasy profile news",
+          "Ryan Flournoy news 2026 NFL",
+          "Ryan Flournoy contract NFL team 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBEVKoD93ici8hvXU8_59BJpHqt4ULtkVvZei0kHiuFcuSSGHusywv5aehxFJ2SQHHvuDlSRtXw62RyXKtkmN6jeMFfx2G1tkBP-UJ0H8YoD00F_1wvLfv5SUn-SerpOilg_QUlzJdmladj8D4we33wg1j8xl9",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLRR-jGjNxA9jloA4pw0qRlh6Htz8umj-Ajj9iry5wM-XI_P53rcLDHzghb0twS47a_5RsCJiBlBaZdzTlfYEq-AHoMS976w7p30j7VrGPU7aO9Cu3HHy--9bNuvjV1CsG",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXgWdRiNpJfWr8aRVyXCRpwBsZ0299D6ZBzhw2E9BHRtJnXS1MXE10vOmQucG09vGDa2rDvxKjPPfeczQVEkPeG8rbwg3kvg87DHuIR_Eqz0nPUYw7hFlV1sr7AwhZMOykmFobpNxYbD1npXvck9o-7aH1SgaZpBEZiWB5bejbbOyNCAKhOfWmo4MZAduLEh42J5A=",
+            "title": "dallascowboys.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9ZT_8v2-jrYqKckl-WiNmAfgD2NSUkWoU7uyoFEsHSO00SZFlNSnBRNxXRLW2cdZYHerkniF8hgRxxwhfpIKw-ja8TlSBPh8X_kKROTA3HxeE538UFNFD1H-hDk55js4deU3VjBEtR9Zee7kYky0zdzYlZLXeoxqPU6Y36f2DmzLCviYNnsSbs7V9pLd57SPtZuHaxYxMAHZd1Dw6ljDIsNKhG-CPhGaWNuMLFg==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxcKjE3BNCvlMXotY3u4O4ms2KTXLLiasT3lF0Oof0RAM3Ch__BdkqF-tmHAqAdTKZEoRJVOGbMK4aJyEXAL5bv-aWynM9vlYfIVGBg5eky0WdYh1S8tWmA0cMW_dWbN1jqCpqrd3fUv6TtOpq1duA",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5jj7I_zhNPA3K44Ig-oyIsb9LsJXEKDjJkC40U9Tnx245qILJt3_NRASVksGHWIlRWZOdMg_UIqGFiwP__Q4zkvoUje_XVHQxfqPzWfyDviFr4-U3vgEyxjaJlJJhSoJTwKGFb0TpTvTlmZ0DNIarK181y5sxudKY32abf-giXMDgzRkWqym0AVrSptbqiCLZivbdnkPTcz0wh5Ng3c4b5hEliFgTCcbIsm-O51spI50ZbSwMW-s=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqakjK7_-1f6y2H2n6hPMbHo6yWz827r8EUxYidP9qONS3zI2usX-8DGx50jQhdWLO-p14rU_FcLdMXMws20zL8h_ZUIKvKbLikZ6bXhzkAELn0_lXypbffY4JD987zF__QBe0oGB5wQ==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUcpe0aa_MNZn4wVU5OFCDrirhjDJsRfbB8ucjbU2kw2r2Zm4gLY6ii71XbNjoaTuP3OFoHcJtAze0pmLosmX4S2UPO7gwRhtE1jD67j87GSw5Pi1fTmo6tYFnKDvlf3dSIXpC2a_jyR2Xf12_Xg==",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBmgrrB8nO2McZBEzeu4lfQBd3qKIHwdgxyUNS65gmgLvJlH4E4Vc5ia36HGRXcNYQ8QNqrHZQLEXHaAp6OABO8mEipbeifF-g7WmDFU49P2aEXBkELe-jHVE05W-Cu6Hi2eK9Fn-1nPKpMW0J3g==",
+            "title": "blitzsportsmedia.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPy5o07PJDPHz18yUhmqxX-P5iA8P0DyFPg-bWyaYal0B8Yaitx5ms5EURdTQwKZp4NwKxDOIAcSuve488WomYrWyI4hUPTNoTupOmay_mTEuasBMg2jn1QGX8NAyiW0jPuGy6b0uCQ8_0WzqDH8E=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2FiuNmCh8_tDTcBhp5wLpJtpxHg2u8ngOfwrWyZCwMGogf_mw2P2TPPICb0rY5F6nhSPd58Uh1-D2SzmePIRJq1dWCL5pTGk4ItoZXhw6rE167Zal3XyLZy2i_ZVTVqA=",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEeOwDul0iGWEgJC7D5LQgXtdIqYd0pgViwu024yC6gxOpPvVCPijByjf-SCaJXRinyu4JnUmAj_ioWsZwOFvFg3M5_jcFWdLlY-pCgPTCTtn3TZTpMWXkBtbOSbFx_bSSwsq6f7ulGZZIj18n",
+            "title": "fantasydata.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "d107c8bce8402f07417523a20ee421048d327cb0",
+        "aviCoreCommittedAt": "2026-10-28T22:01:15Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 91800,
+        "groundedMarketChars": 3770,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mvsqe3zm-e9724dae",
