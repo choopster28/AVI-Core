@@ -819,6 +819,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00012531",
+      "c_avi": 21.6,
+      "d_avi": 42.4,
+      "nfl_team": "CAR",
+      "player_name": "Trevor Etienne",
+      "position": "RB",
+      "sleeper_id": "12531",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00013434",
       "c_avi": 21.6,
       "d_avi": 27.5,
@@ -2738,8 +2750,8 @@
     }
   ],
   "counts": {
-    "available_players": 228,
-    "rostered_players": 251
+    "available_players": 229,
+    "rostered_players": 250
   },
   "rostered_players": [
     {
@@ -6405,22 +6417,6 @@
       "status": "Active",
       "team_file": "13_Southside_Savages.md",
       "team_name": "Southside Savages"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00012531",
-      "c_avi": 21.6,
-      "d_avi": 42.4,
-      "nfl_team": "CAR",
-      "owner_id": "863881053000011776",
-      "player_name": "Trevor Etienne",
-      "position": "RB",
-      "roster_id": 9,
-      "sleeper_id": "12531",
-      "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
