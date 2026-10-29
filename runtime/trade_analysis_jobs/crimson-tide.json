@@ -1,5 +1,49 @@
 [
   {
+    "id": "mvt29qix-64d57c27",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Jakobi Meyers",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Lightskin · Projected Mid · original owner Lightskin Legends",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2027 4th · King Jesus · Projected Mid · original owner All Hail King Jesus",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 4th · Corgi Loaf · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          },
+          {
+            "name": "Malachi Fields",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1793249195145,
+    "updatedAt": 1793249195145,
+    "expiresAt": 1793681195145,
+    "status": "queued"
+  },
+  {
     "id": "mvt1k05y-0251d796",
     "phase": "initial",
     "mode": "analyze_trade",
