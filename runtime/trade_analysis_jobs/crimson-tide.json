@@ -39,9 +39,345 @@
       "alternateAssets": []
     },
     "createdAt": 1793247994582,
-    "updatedAt": 1793247996228,
+    "updatedAt": 1793248041430,
     "expiresAt": 1793679994582,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Crimson Tide Pods executes a highly strategic rebuilding transaction, sending 29-year-old veteran receiver Jakobi Meyers and minor pick consolidation (2027 3rd and 4th) to Corgi Loaf Baking Co. in exchange for 23-year-old rookie wideout Malachi Fields and a 2027 2nd-round pick. The move advances Crimson Tide Pods' rebuild by shedding age and accumulating liquid draft assets, while providing Corgi Loaf Baking Co. with immediate starting-lineup FLEX insurance for its championship push.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 52.6,
+              "davi": 76.3,
+              "publicMarket": 55,
+              "leagueMarket": 55
+            },
+            {
+              "name": "2027 3rd · Wheat Warriors · Projected Late · original owner Smoky Valley Wheat Warriors",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            },
+            {
+              "name": "2027 4th · Crimson Tide · Projected Early · original owner Crimson Tide Pods",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 0,
+              "leagueMarket": 0
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Malachi Fields",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "WR",
+              "age": 23,
+              "cavi": 29.7,
+              "davi": 67.7,
+              "publicMarket": 35,
+              "leagueMarket": 35
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Crimson Tide Pods gains long-term value (+23.4 D-AVI net) and upgrades draft asset tiering by turning an aging receiver into a 2027 2nd-round pick and a young WR dart throw. Corgi Loaf Baking Co. successfully exchanges future pick liquidity for proven PPR floor points to fortify its championship push."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "The submitted offer is fully endorsed without modification as it perfectly fulfills the user's rebuild strategic objective while remaining highly appealing to the trade partner."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -15,
+              "summary": "Minor drop in immediate 2026 points by moving veteran starter Jakobi Meyers."
+            },
+            "dynastyOutlook": {
+              "score": 70,
+              "summary": "Increases overall D-AVI portfolio and youth profile with Malachi Fields and a 2027 2nd-round pick."
+            },
+            "lineupQuality": {
+              "score": -10,
+              "summary": "Exchanges a steady WR3/FLEX option for a developmental rookie receiver."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Consolidates late-round pick depth into a valuable second-round draft selection."
+            },
+            "flexibilityLiquidity": {
+              "score": 75,
+              "summary": "Substantially improves future trading power by acquiring a 2027 2nd-round pick."
+            },
+            "overall": {
+              "score": 8,
+              "summary": "Strong positive impact for a rebuilding portfolio by shedding age and gaining tier-1 draft liquidity."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 60,
+              "summary": "Adds Jakobi Meyers to raise starting FLEX floor and weekly lineup depth during the title run."
+            },
+            "dynastyOutlook": {
+              "score": -20,
+              "summary": "Gives up a young 23-year-old WR asset and a 2027 2nd-round pick."
+            },
+            "lineupQuality": {
+              "score": 45,
+              "summary": "Upgrades starting/FLEX depth over current bench options."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Adds established veteran insurance against receiver injuries during the stretch run."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Pledges 2027 2nd-round draft capital."
+            },
+            "overall": {
+              "score": -8,
+              "summary": "Net benefit for a championship contender seeking immediate lineup depth and scoring consistency."
+            }
+          },
+          "explanation": "Both franchises achieve their distinct strategic goals. Crimson Tide Pods optimizes for long-term dynasty value and draft capital during a rebuild, while Corgi Loaf Baking Co. converts draft capital into reliable starting depth for its championship push."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Crimson Tide Pods surrenders 52.6 C-AVI in Jakobi Meyers while receiving 29.7 C-AVI in Malachi Fields, representing a minor current-year C-AVI trade-off appropriate for a rebuilding team.",
+          "sideADynastyImpact": "Crimson Tide Pods acquires 116.2 total D-AVI while sending away 92.8 total D-AVI, yielding a net dynasty gain of +23.4 D-AVI.",
+          "sideARosterImpact": "Frees up a starting wide receiver slot for younger developmental targets while securing an extra 2027 2nd-round pick.",
+          "sideBChampionshipImpact": "Corgi Loaf Baking Co. upgrades its C-AVI at the FLEX position by acquiring Jakobi Meyers (52.6 C-AVI).",
+          "sideBDynastyImpact": "Corgi Loaf Baking Co. trades a portion of future capital (-48.5 D-AVI pick) to lock in immediate production.",
+          "sideBRosterImpact": "Protects starting roster integrity and bolsters wide receiver rotation without touching core foundational assets.",
+          "valueAssessment": "Fair market trade where C-AVI flows to the contender and D-AVI/draft liquidity flows to the rebuilder."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market dynasty consensus views Jakobi Meyers as a reliable WR3/FLEX veteran under multi-year contract in Jacksonville, while Malachi Fields is regarded as a 3rd-round rookie prospect with upside but unproven NFL volume.",
+          "aviVsMarket": "AVI and public market consensus are tightly aligned on Meyers (valued around WR35-WR40 range) and recognize a 2027 2nd-round pick as a premium return for a 29-year-old receiver.",
+          "relevantContext": [
+            "Meyers signed a 3-year extension in Jacksonville and maintains a stable PPR target share.",
+            "Fields was selected in the 3rd round (74th overall) by the NY Giants as a big-bodied perimeter target.",
+            "Consolidating 3rd and 4th round picks into a 2nd round pick is a standard value-building strategy in deep 16-team leagues."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. is actively pushing for a championship and needs dependable starting FLEX depth to safeguard against injuries during the stretch run.",
+          "packageFit": "Package delivers an established PPR veteran in exchange for a future draft pick and developmental bench asset.",
+          "lineupReplacement": "Malachi Fields occupies a bench spot for Corgi Loaf Baking Co., so departing with him does not create a starting lineup hole.",
+          "competitiveWindowFit": "Directly supports Corgi Loaf's championship window while perfectly matching Crimson Tide Pods' rebuild timeline.",
+          "positionalScarcity": "Wide receiver depth is vital in 16-team full PPR formats where startable FLEX depth carries high championship leverage."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 25,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 98,
+          "classification": "Highly Realistic",
+          "explanation": "The trade partner is in an active championship push and receives a proven starter in Meyers without sacrificing any core lineup assets, making acceptance virtually seamless."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "This transaction cleanly advances Crimson Tide Pods' rebuilding strategy. Trading 29-year-old Jakobi Meyers and low-tier picks for a 2027 2nd-round pick and 23-year-old WR Malachi Fields gains +23.4 net D-AVI, accumulates prime draft capital, and aligns roster timeline with future competitiveness.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 52.6,
+              "davi": 76.3,
+              "publicMarket": 55,
+              "leagueMarket": 55
+            },
+            {
+              "name": "2027 3rd · Wheat Warriors · Projected Late · original owner Smoky Valley Wheat Warriors",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            },
+            {
+              "name": "2027 4th · Crimson Tide · Projected Early · original owner Crimson Tide Pods",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 0,
+              "leagueMarket": 0
+            }
+          ],
+          "receive": [
+            {
+              "name": "Malachi Fields",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "WR",
+              "age": 23,
+              "cavi": 29.7,
+              "davi": 67.7,
+              "publicMarket": 35,
+              "leagueMarket": 35
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "whyUserShouldDoIt": "You exchange a 29-year-old receiver during a rebuild to secure a 2027 2nd-round draft pick and a 23-year-old wide receiver prospect, gaining +23.4 D-AVI in long-term value.",
+          "whyOpponentMightAccept": "Corgi Loaf Baking Co. gains immediate, trustworthy PPR starting depth in Jakobi Meyers to solidify their championship FLEX rotation."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Malachi Fields football player college NFL draft",
+          "Jakobi Meyers current team stats contract news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs14YkMiNc5HBfGE1w1LXXn_Ed_aKqY1Gx2H1kM6s4ZQ_Cbnu21w2RF1h3fkw8j4jENUUX1aCbHDi0HGWwfQT_4cxZkgTR3Uyc0AUgDOl7iAB7yYxLxGvnHEFvlp2LZ74GKcQWVZjBaf3I9hkenTrL",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo_5cJ31ZD2JHwEUiBXYJpu0kejv1vemhmk0YylV2ySJ24AdiixUTquHKkNalZSmP806HZroWifjzeEryT7xwQkB8DZzKRE50ANAhHmPMFcgXNX3gwckGGFyC7Wl8Ccw9vV71pCzWSirI=",
+            "title": "plainstatsnfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSmH-SKi-TLXkbMiESC0bv-lxikTYbx6TwX2x-h_PM0KFTZ-GnFxGAv9WlltXA5HmHtQzQMKBaAeIzPS70b9s04LyytgAdHAs-Y6buY48sAMTIQV4wA1XpwUEPzd1YRS9rhkvE4BvSlFhy3Qhn7Y_g-DsEe_jrOSSndV1HvXZXi8kaKc0=",
+            "title": "jaguars.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUongHwQj4WdqqzBYRPkr7VW1QFDjgDc9rN_tmZpMra8IRCETqEgKuk4F2YGe2vbLzZUexBk-DHcP1oEUb0-k9xRV2Q9kYtu7b6kd5VFTiGvdcE93KnlaThxfMWTUwvMn9SZwheGFnPYsw9ACLa9v2GwU=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0SR6hgduZ-HuprT8cVgd9cuDn4m9OW00a1YFikg8SnXOSSCj9BQpMaiYjCQ9IOOYN4XnU0MY29N9Go5af_MBT_TU9sOZukux47WLulQG1C6Dv4XP0CzMmh8v0C_YqzDQK0ZmUnK6RZw==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_Y-7gkmS5EeoaVq93rQy-Q8Oc5D1fojOvH524ZHGMdBZjCUr3m1zibJuTKYJr8COipBw1wv9N6SF2-rrQ3Sbj3RRiq6R4M7nzH9nEAwvKpi3SEhipRb_D6vVUPJ8VYH8kGQ==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjs-aSwrHclj60AOI4ZwKZknw24aZmDIfQf8u2Uxwe3ikBtAYf9ddHGQOTlfotWBFO4qftDaOVeqIoo6xeI9zsV-bLbSkuGvMVsTzsLI9w2Z1WAH8V5oLWM4ce5NLK7o-5jHIZYJr7AaqpfdUBgcQyMEvLNzOQKrI=",
+            "title": "sports-reference.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG06Bdv0z6mixByB7RgjcVKtWeWXgN5UWNuJolHlw-l4uimJckfpdasC-ajdEHjGzFjjr5ZCXhAoBhdjh8GUzK281qzCExbnHwvSmGJRQbYOCaZnof2Fq2eR7QtfZ15EZxJ27wCnchM-yEz91LtueKrhANT",
+            "title": "theringer.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "2a9cc338369ae62697a250036bf2b5792f39b643",
+        "aviCoreCommittedAt": "2026-10-29T03:35:14Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 94836,
+        "groundedMarketChars": 3438,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mvswfxt8-b8699d05",
