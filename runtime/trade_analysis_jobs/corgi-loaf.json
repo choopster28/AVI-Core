@@ -1,5 +1,47 @@
 [
   {
+    "id": "mvt3864y-58dd2ed2",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Rhamondre Stevenson",
+          "assetType": "player"
+        },
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "Cam Skattebo",
+          "assetType": "player"
+        },
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        },
+        {
+          "name": "Tyler Shough",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1793250801682,
+    "updatedAt": 1793250801682,
+    "expiresAt": 1793682801682,
+    "status": "queued"
+  },
+  {
     "id": "mvsvmhqd-f867b41f",
     "phase": "initial",
     "mode": "shop_assets",
