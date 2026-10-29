@@ -1,5 +1,27 @@
 [
   {
+    "id": "mvswfxt8-b8699d05",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "assetsToShop": [
+        {
+          "name": "Jakobi Meyers",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1793239406828,
+    "updatedAt": 1793239406828,
+    "expiresAt": 1793671406828,
+    "status": "queued"
+  },
+  {
     "id": "mvswe1oy-304d4ca0",
     "phase": "initial",
     "mode": "analyze_trade",
