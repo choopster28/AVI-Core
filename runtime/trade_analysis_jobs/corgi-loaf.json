@@ -33,9 +33,468 @@
       "maxResults": 3
     },
     "createdAt": 1793238032965,
-    "updatedAt": 1793238034886,
+    "updatedAt": 1793238120052,
     "expiresAt": 1793670032965,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (67% estimated).",
+        "teamDiagnosis": {
+          "competitiveWindow": "Playoff Push",
+          "strengths": [
+            "Elite cornerstone receiver trio (Jaxon Smith-Njigba, Malik Nabers, DeVonta Smith)",
+            "Top-tier TE1 anchor in Tyler Warren (C-AVI: 81.6, D-AVI: 90.0)",
+            "High-volume starting quarterback depth with Patrick Mahomes"
+          ],
+          "priorityNeeds": [
+            "Consolidate backfield rotation into upgraded starting power at WR or younger appreciating RB talent",
+            "Liquidate expiring or plateauing RB depth before age curves decline"
+          ],
+          "tradeableSurplus": [
+            "Rhamondre Stevenson (RB, C-AVI: 65.0, D-AVI: 78.1)",
+            "Cam Skattebo (RB, C-AVI: 56.0, D-AVI: 80.1)",
+            "2027 2nd · Badlands · Projected Late (AVI: 48.5)"
+          ],
+          "constraintsApplied": [
+            "Ownership Integrity Rule: Saquon Barkley is verified on Big Balder Brand's roster and excluded from Corgi Loaf's outgoing packages.",
+            "Starter-Caliber Rule: Mike Washington Jr. (projected 97.5 PPR points) is classified as true backup depth and filtered out of offer proposals.",
+            "Two-Organization Goal Constraint: All target GM goals applied directly from verified HQ organizational statuses."
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Eliminated Champion Favorites (Conquistadors, Big Balder Brand) due to unwillingness to surrender starting cornerstones for non-peer packages",
+            "Eliminated rebuilders lacking starting FLEX assets aligned with Corgi Loaf's championship timeline",
+            "Filtered out hard-unavailable/injured players who cannot contribute immediately to active lineups"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Southside Savages",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "DK Metcalf",
+                "assetType": "player",
+                "owner": "Southside Savages",
+                "position": "WR",
+                "age": 28,
+                "cavi": 60.9,
+                "davi": 81.3,
+                "publicMarket": 68,
+                "leagueMarket": 65
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Rhamondre Stevenson",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 28,
+                "cavi": 65,
+                "davi": 78.1,
+                "publicMarket": 62,
+                "leagueMarket": 64
+              },
+              {
+                "name": "Cam Skattebo",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 24,
+                "cavi": 56,
+                "davi": 80.1,
+                "publicMarket": 60,
+                "leagueMarket": 62
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Consolidation for Receiver Upgrade",
+            "strategicGoal": "Acquire a high-ceiling WR3/FLEX option in DK Metcalf by offering two legitimate starting RBs to a retooling manager.",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 22,
+              "packageMatch": 0,
+              "lineupReplacement": 14,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 67,
+            "classification": "Stretch",
+            "whyUserShouldDoIt": "DK Metcalf upgrades Corgi Loaf's FLEX scoring floor with a physical WR option while clearing out excess running back depth behind Chuba Hubbard and David Montgomery.",
+            "whyOpponentMightAccept": "Southside Savages is Retooling and needs immediate RB depth alongside Josh Jacobs. Acquiring 24-year-old Cam Skattebo (201 projected points) and Rhamondre Stevenson instantly stabilizes their backfield.",
+            "championshipImpact": "Increases weekly FLEX variance and upside for Corgi Loaf's playoff run.",
+            "dynastyImpact": "Neutral-to-positive dynasty trade, converting two volatile RBs into a locked-in WR anchor.",
+            "rosterImpact": "Consolidates 2 RB slots into 1 premium WR, freeing a bench spot for waiver flexibility.",
+            "publicMarketContext": "DK Metcalf remains a focal point in Pittsburgh's passing attack, while Skattebo's physical rushing profile in NYG makes him a popular young asset.",
+            "risks": [
+              "Metcalf experiencing target fluctuation depending on QB play",
+              "Skattebo continuing to break out and outscoring expectations",
+              "Selected Shop Assets player Mike Washington Jr. fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Does not meet the 70% Market Reality requirement (67% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Rhamondre Stevenson + Cam Skattebo for DK Metcalf straight up.",
+              "acceptableConcession": "Add a late 3rd round draft pick if Southside Savages requests draft sweetener.",
+              "walkAwayPoint": "Walk away if Southside Savages demands DeVonta Smith or a 1st round pick."
+            },
+            "deterministicRejectionReasons": [
+              "Selected Shop Assets player Mike Washington Jr. fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Phalhala or Bust",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Jaylen Warren",
+                "assetType": "player",
+                "owner": "Phalhala or Bust",
+                "position": "RB",
+                "age": 27,
+                "cavi": 76.2,
+                "davi": 82.6,
+                "publicMarket": 72,
+                "leagueMarket": 74
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Cam Skattebo",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 24,
+                "cavi": 56,
+                "davi": 80.1,
+                "publicMarket": 60,
+                "leagueMarket": 62
+              },
+              {
+                "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 50,
+                "leagueMarket": 50
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · RB Age Pivot for High C-AVI Starter",
+            "strategicGoal": "Upgrade immediate RB C-AVI from 56.0 to 76.2 with Jaylen Warren for Corgi Loaf's championship run.",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 22,
+              "packageMatch": 0,
+              "lineupReplacement": 12,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 65,
+            "classification": "Stretch",
+            "whyUserShouldDoIt": "Jaylen Warren provides immediate high-end RB2 production (C-AVI: 76.2) for a title push without surrendering elite core receivers.",
+            "whyOpponentMightAccept": "Phalhala or Bust is in Retool status. Exchanging 27-year-old Warren for 24-year-old Cam Skattebo plus a 2027 2nd round pick fits their retooling timeline perfectly.",
+            "championshipImpact": "Directly boosts Corgi Loaf's starting lineup C-AVI by +20.2 points in the RB/FLEX slot.",
+            "dynastyImpact": "Slight age concession (24 to 27) offset by acquiring a higher-tier current producer.",
+            "rosterImpact": "Maintains RB roster depth while significantly improving top-end starting score.",
+            "publicMarketContext": "Jaylen Warren holds a dominant PPR role in Pittsburgh's backfield, making him a prime target for contenders.",
+            "risks": [
+              "Warren sharing touches in a split backfield",
+              "Skattebo's long-term dynasty trajectory exceeding Warren's remaining window",
+              "Selected Shop Assets player Mike Washington Jr. fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Does not meet the 70% Market Reality requirement (65% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Cam Skattebo + 2027 Badlands 2nd for Jaylen Warren.",
+              "acceptableConcession": "Include a future FAAB or 4th-round pick supplement.",
+              "walkAwayPoint": "Walk away if Phalhala or Bust demands a 1st round pick or a major receiver."
+            },
+            "deterministicRejectionReasons": [
+              "Selected Shop Assets player Mike Washington Jr. fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Ravens Regime",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Jaylen Waddle",
+                "assetType": "player",
+                "owner": "Ravens Regime",
+                "position": "WR",
+                "age": 27,
+                "cavi": 61.2,
+                "davi": 86.4,
+                "publicMarket": 74,
+                "leagueMarket": 72
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Rhamondre Stevenson",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 28,
+                "cavi": 65,
+                "davi": 78.1,
+                "publicMarket": 62,
+                "leagueMarket": 64
+              },
+              {
+                "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 50,
+                "leagueMarket": 50
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Dynasty Upside Receiver Swap",
+            "strategicGoal": "Acquire high-upside WR Jaylen Waddle (D-AVI: 86.4) by supplying a contender with much-needed RB starter depth.",
+            "scoring": {
+              "availability": 20,
+              "opposingGmMotivation": 20,
+              "packageMatch": 0,
+              "lineupReplacement": 13,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 61,
+            "classification": "Stretch",
+            "whyUserShouldDoIt": "Waddle gives Corgi Loaf an elite dynasty asset (D-AVI 86.4) who can flex into the championship lineup immediately and insulate against long-term WR depth loss.",
+            "whyOpponentMightAccept": "Ravens Regime (Playoff Push) needs RB depth behind Derrick Henry and Tony Pollard. Stevenson provides immediate RB2 starts while the 2027 2nd adds draft capital.",
+            "championshipImpact": "Adds explosive WR depth with high single-game ceiling for the fantasy playoffs.",
+            "dynastyImpact": "Strong net positive (+8.3 D-AVI) by securing a 27-year-old broad-market WR staple.",
+            "rosterImpact": "Converts an expiring RB depth piece and future 2nd into a long-term starting receiver.",
+            "publicMarketContext": "Waddle's market sentiment remains high due to talent and long-term projection despite temporary target competition.",
+            "risks": [
+              "Waddle experiencing week-to-week target variance",
+              "Stevenson handling a heavy workload in New England",
+              "Selected Shop Assets player Mike Washington Jr. fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Does not meet the 70% Market Reality requirement (61% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Rhamondre Stevenson + 2027 2nd (Badlands) for Jaylen Waddle.",
+              "acceptableConcession": "Upgrade pick sweetener or swap in Cam Skattebo if preferred by opponent.",
+              "walkAwayPoint": "Walk away if opponent demands a 1st round pick or Jaxon Smith-Njigba."
+            },
+            "deterministicRejectionReasons": [
+              "Selected Shop Assets player Mike Washington Jr. fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": {
+          "summary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (67% estimated).",
+          "primaryObstacles": [
+            "Selected Shop Assets player Mike Washington Jr. fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+            "Seller acceptance remains uncertain; trade-block listing is not required to explore an offer."
+          ],
+          "userConstraintImpact": "User provided no additional personal context or explicit untouchable list. Personal context question included per standard protocol.",
+          "closestPathToDeal": "Use the displayed verified construction as a negotiating starting point, not an accepted or 70%+ realistic trade."
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Trey McBride 2026 season fantasy",
+          "Rhamondre Stevenson 2026 news",
+          "Josh Allen NFL 2026 stats news",
+          "Saquon Barkley 2026 news updates",
+          "Cam Skattebo football news 2025 2026",
+          "JaMarr Chase 2026 news fantasy",
+          "Mike Washington Jr football 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVd7rDouOhb5JxKugn_clcl5J5L1b6bMqjd0vx-rrHvp80aGLE1M886sy2tJm9qtChE09ED3ZwRZfPqc0ibkycwMEpSf2gUpZrtNpfcXVnvfXp52GETLw8vwdIvK8HHzYrqqRaOf9wQyqlTWL2zMhHLryr2sO7OM3W6nc1QCfnRqH_fU0Pl091llaR",
+            "title": "thebiglead.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2ReFm36Kckhldb8rbtbB3E49oV46XMuu3swPTZyzWkUq_Hpgklvx5F-Gm5pDIytBGQPdK7Jc72tYyNYAIWEK2nhXSO2tkeJb8EvwReWMeXrJ6M4rF4F8ZBBdoHRXTV9hUljOz7vxgzjtg2Dow_q4qsIzDaZqO2yz_f57ToZEFfmBlg_gvUbccgdvdaljuxuL18UHnnnOGGNXFZ1X1wdW4s6UJZw11BA6B6lv8U-g=",
+            "title": "wfmd.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP1tTw2OdHV74A9VrXw_HgWsL5seKPfClBes9daWP5c25i3P4qKbJPVLimczSP55oXym_5O5SvlTcScDYx0slP4ijZl65-hci5w-8rQd4GSoBfqWibE3KEwSM8KkGXE-8yQwTy-a76uyXisLxw7Nn032iO9z-n352UHYgVX06awkmHtm4_eckWTy_ZU_jvlh25Zel8KKw36BOgjzEqfg==",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsRkcQqsM6wyISICVoozy4n2WFoXCGTyoEKuIhv1xcARSQErPqi0pCGvd-qtODfrViv8NPTjY5mqTfCEpPjDzeM4x8FLztOqfo002xjYCay7VDICMD66qVMnb1PKKhXxS-Li4BmHtBTtRaMIqIO3rqPriSocby1n02r1GUjn3QdxnFF6llBYLQl4_Ohe0fegRXLHBziAi5QkfXzQ==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS5mLUGxTB_WcunWaYM-FwxvZrhpslEJJVThA4VjlVja_57oM8z9qWs1b1x9cViUsqc3WhJYe0fkhFUuAt8Dzb-D37lmbE3n8xYD9dxGt9ugw1bRR6GO5O4eORqdXX_LxPrDTu4H8DjWVW4mMUmNHgYcypNORtQfzKWdmGE6I=",
+            "title": "frontofficesports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7vBPdJwsP9o50ew45wBbEMQPvfyw_54caNM7j-beEaKs-S544WQylczZBcaCkoiyGxOGHqrjikaQnC7AJhI-sgTdr-BxPY7UDwgq77FbTpMbMTNW6wuweRTUuOw_YlLL7twlF_vZ4VJmQ5K23OC2tMkZoZX7ztw4q9L4bpYk6IgxaqulPgy0XDF0=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfXSG6pMPlHx37r38ogispqdEJgZusWEL8dtZuHURXLBLluVakjmziRZxfnsafgQ2YfJ8Xx2xiRIsAkLPqqCXFgA97USsStnyM6hsudKK7rQvjSQhKQxcAwEKEiUBibJ68-rUFDWxl22ts9miv2ZgC5T9H14HsdcZc9_auZMCKsTQbKXcmYvQZwKEcYYmPayaGdoSPZWuymDcDqYX7kOXtqy2eJjMcrfw=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzxymC-bEFP9L2FDcpqKQ69VKImN1qDy1ra9DPn067nJzI71wDFYJfyKXEIB6OmbVdaywix2aCk6qGohyy7RBIzpR8nFkQS7Uqe6E2Ej8xXcoaHQCR2RxgIRNhN_rNrZOTBiH10HRO3ihozWasnw==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv7oF7mdk5q7WaIP_yev2-S4Ggx5awagRWP986cpMW4qxpFZGTMWr-QJ2Heo5st-PoX-9cxRklqkNBfsxcqt_UNbMvSZhDS_PB7GemMXZxViGRB_UZc1Jj9-FFbOUbADQHNfst8392s4f3tw2aYNRVsKDnQVxsqnEHDebwfrE9M-y8QE2xUampt2cunduwEu27iyhPx52zUG4PHnyP3_XgnjLrcf8-TWM=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5Ia46qYo4d0_cs7T2DhHHllobm7iWhPoM88Lyf8v_outlicS9wHLsPvhBD9z0bceNjxDKYjew7R0hGw-6qf0MSh51C23p9EveHLGmvgsUGLiRpXQ0XVzqP6xb9hBb_FbsxOUVJSmJtb0iPoQ=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdTM-TOxZbtldZ4l47V-Yf6jDkJlk8VMPxz8Fm8Rg9mbThKFVjwje7y_l0PS19xbsWnx2h6XPolQ9vXQaa1wnCpPo1ap1OwoKrdoj9_sQvkGqIVzBsv0ze12iv9XAB4fPvAwbjkXbd1kZJOTgSaJb8fkKCqXp4rxYqWOuP9jWrdmN1yPaTI2BEfiujRurSSIPl3oDrs5GqtHKxjDoMpL7Qu2jOIUBTUfT7EnmJlTYdO2A=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKW2wUxME504CkeoR_JVIOtTLdPe8ygKMrbDb7l2-WiYaXKbiw7RHg7hxC9iP7nNHFAAVgXx1c8bykw5rJJi1s89IbXtpGpn6UK5frKLZqVtpY9Hk6g8MVPpEH88eFztXrn1hVNCn6rBKMAl-w0399sWA3OVnUvx3S9pYq-shswFZC85gHoY5Fc0nFfVH_eLTerXK82jh-KEiwJTmYW-Z8QiKh6rS48KeuTQ==",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6O3vinuijYUdqpPbs1ylXC6zZbv6qcXeb7jCcLOVpOk2llNkpQrzKviXHXk5XBfLCm6xYRlY21jMRRSeMg2XjHw30dbUYSuE3_XCIehAIgY6dqmf385RsmF0L9PM2LlkRmrRBWj5SPQkeAp6Xvs4XcWK6-Z7fjHkNYrF_gdKADyUoyj82jImyjQwV4VuahiexX49bhsjDQwrrjhuIxmiHEUui",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGizPiXkQOHNkzWGJcB0xF_dOLvxcwtZksk8i-tiaQjPR7Olb13YiH9dikMhFICsrezPUAA7IzcWPHnTuKfcVUojueNwnkunr7neSKc5F7I6QlMTMW-MtZIf7CSYP2jtd9cD_7MMjR5boeQ-TXLQwRwlHgTWed7a6LiXYNj4eAInE95_DK62EgJEec5aWFluw==",
+            "title": "larrybrownsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKoIYOni0Dw_6UkdMLBy09P-k9U9IKLyZNFeSiuZ8uQuolIIuWIJoy0B07lBBg0_7PwHVK-P4gLGWowzlcFEBjuZlhjjumtsZ-8NEJ5j8yrBHT4-5Jfiwhjp8Jze090Vzd5JXph1y517Z2k050JQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb09851yY-XbjKCM7kRvcIR0UMhPMEB86nKsqKQ2YyKTe4GEIyu3h5TaGueuY2F3IpTffgQNx82UMHQLnKYWUxZxrmzeRsvoAIKEUfFW9Opqw61vrPj8YoFwZ65exd-PnmgJFuyAOG8cagPB0fd8jE1bKezerTWCd1nfbs_P-js98sIC3DMf-y3A1k65pkF_9l97Ya28kvFGhXyIKW1RKgf-17aQB0",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvmDSEYMtpxExjO7k0wdKqeKHFvNN3n2MlnlH1QETSSV835PpUuh5VSe6QuYewrp7Gi93EVeZZTIZ4crQhXBqvYXl_VHGtsFmSQM4ySPEzZ-qBWf4AP9Apk6OOMXlV-TSkXQ7qsnrtEzSpV4W-Bvo46XUwc5Y6AE_YyqYNPtW8sGewuYKbooTsb6qtkElU4v-EvOCvzIavPSrqodvKr8NPM2_zAiurnacyaPOWm5G2CFnpng2nc6BzBhk0BROm3bXfIvPU4X20_IZbKw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOWHCEDW9AL2m6L3m4kcO85rdQcjzDiz5DTrwoMiXPcaA7W7uyDAxpKDDgkRDAJ-Krv2bLCwzKPQm205hc_jY6Yb5Q4NlfnaqADz6TJq5O-tDNxaCsCMfQCi0Ef-xQZF3nU4Dss3SvC2rCu4rAbKswua-W4wtR",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDl3u3CbWCmQs-LD2RUTxW0Et808UdHqcH8tia5-GcWHmin2bYkw1tkCjytclw5IYNd-cESIPM1byc0yZ2QUTqALLSGuRB8Ih574OEEvqy49w3JFkV-AcSx_6wjgjm0NWrE7fU3T8a",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAwKV-RyIGZjMlwjwZlbyxfciRg3TpjI5ipwHy7XM1VJlGlwPiVH29a0l1mFTP_hYBnbcOIO-FVfl4sWgTdsWLhze9gE6iPjveI6Xs6OFV6gWcWvoaDo-XbZKTIrYInLzMMNOIYDHslKe-N9pnp79118D9w4UrMDc6ui41nvjZv5Kd6cvjuQYULEROcuGTBf1F",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF60g8XL-HJprsZsIXbcrowUG5KQzoyX0ZVJEg5MSc1ciXW6ZN_Dvt1TeThXEBOebQa1ArNZK7hFLYI7RxWK9J7ko_-WXxyvpXeD3e_MXgq48krULgmqwm5VsBYII2VtPeQ9F47f6eD",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF-2CGxWE2S0RMGa0nAGObUSbVIbtmuKAu1c4ykzddeLmDo3cKhD4ehomfi3gih40swjW9wKzNQuvkWVbEd08Ou1vqxlWztIqnODUBTDPuEWA3WGWnOQOxhgemfj3JrFV9ITyhzyCM_oMS_2v5",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBq0VnFfj43UK74sO1X6WscQg8K9DyKS64OKUALsYmgPYDOvVImt5AFKvntlUJC6dc2wXroohNTDcf3nBDSTeMEyf9BM0D3ZH5mH9tr2x13b4kwVHw-SbiCj_WmqenJhO7dDBTnYCDBahYnW6ZbdfwUadYvr1Ib8u56dZsHDknxNGGQwG8SHvVsjmEPH3b",
+            "title": "raiders.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Josh Allen",
+          "Saquon Barkley",
+          "Rhamondre Stevenson",
+          "Trey McBride",
+          "Cam Skattebo",
+          "Ja'Marr Chase",
+          "Mike Washington Jr."
+        ],
+        "aviCoreCommitSha": "d107c8bce8402f07417523a20ee421048d327cb0",
+        "aviCoreCommittedAt": "2026-10-28T22:01:15Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 542172,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 251,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mvsui9qq-fad41bb0",
