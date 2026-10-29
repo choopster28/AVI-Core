@@ -17,9 +17,363 @@
       "maxResults": 3
     },
     "createdAt": 1793306003626,
-    "updatedAt": 1793306005319,
+    "updatedAt": 1793306050285,
     "expiresAt": 1793738003626,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (64% estimated).",
+        "teamDiagnosis": {
+          "competitiveWindow": "Rebuild",
+          "strengths": [
+            "Substantial future draft pick portfolio",
+            "High roster flexibility"
+          ],
+          "priorityNeeds": [
+            "Young foundational offensive cornerstone players",
+            "Elite WR upside for 2-4 year horizon"
+          ],
+          "tradeableSurplus": [
+            "2027 1st · Mile High · Projected Late · original owner Mile High Royal Lions"
+          ],
+          "constraintsApplied": [
+            "Rebuild organizational goal focus",
+            "League-relative starter/FLEX caliber standard for incoming players",
+            "Two-organization goal alignment for contenders"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding/Retooling franchises unwilling to send away premium young talent for a single late 1st",
+            "Contenders lacking eligible young starter/FLEX wideouts with matching dynasty valuations",
+            "Unmatched competitive window or package fit"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Mile High Royal Lions",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Marvin Harrison Jr.",
+                "assetType": "player",
+                "owner": "Mile High Royal Lions",
+                "position": "WR",
+                "age": 24,
+                "cavi": 43.7,
+                "davi": 78.8,
+                "publicMarket": 80.5,
+                "leagueMarket": 79
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "2027 1st · Mile High · Projected Late · original owner Mile High Royal Lions",
+                "assetType": "pick",
+                "owner": "Crimson Tide Pods",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Cornerstone Buying Opportunity",
+            "strategicGoal": "Acquire an elite high-ceiling young WR cornerstone while returning Mile High's own 1st-round pick.",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 22,
+              "packageMatch": 0,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 64,
+            "classification": "Stretch",
+            "whyUserShouldDoIt": "Marvin Harrison Jr. possesses elite draft capital and top-tier dynasty ceiling (D-AVI 78.8). His current mid-season trade to Houston resets his environment and secures his status as a multi-year building block for Crimson Tide Pods' rebuild.",
+            "whyOpponentMightAccept": "Mile High Royal Lions receives their own original 2027 1st pick back, regaining ultimate roster control and draft liquidity while reallocating an underperforming mid-season starter (C-AVI 43.7) to fuel their playoff push.",
+            "championshipImpact": "Neutral for current year C-AVI; massive multi-year ceiling boost.",
+            "dynastyImpact": "Secures an S-tier talent trajectory wide receiver at a slight discount relative to his career peak.",
+            "rosterImpact": "Instantly becomes the centerpiece of Crimson Tide Pods' core receiving room.",
+            "publicMarketContext": "Harrison's recent move to the Texans reunited him with C.J. Stroud, igniting dynasty enthusiasm despite lower 2026 redraft output.",
+            "risks": [
+              "Development trajectory in Houston's target-rich offense may take time to convert into weekly WR1 consistency.",
+              "Starting-caliber target Marvin Harrison Jr. requires a starting-caliber player centerpiece. Backup/handcuff players plus draft capital are not a credible foundation.",
+              "Does not meet the 70% Market Reality requirement (64% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer their 2027 1st straight up for Marvin Harrison Jr., highlighting the value of reclaiming their own draft pick control.",
+              "acceptableConcession": "Include a future 3rd round pick sweetener if requested.",
+              "walkAwayPoint": "Do not add any additional 2nd round picks or starting players."
+            },
+            "deterministicRejectionReasons": [
+              "Starting-caliber target Marvin Harrison Jr. requires a starting-caliber player centerpiece. Backup/handcuff players plus draft capital are not a credible foundation."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Ravens Regime",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "KC Concepcion Jr.",
+                "assetType": "player",
+                "owner": "Ravens Regime",
+                "position": "WR",
+                "age": 22,
+                "cavi": 47.4,
+                "davi": 81.7,
+                "publicMarket": 80,
+                "leagueMarket": 78
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "2027 1st · Mile High · Projected Late · original owner Mile High Royal Lions",
+                "assetType": "pick",
+                "owner": "Crimson Tide Pods",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Young Asset Pivot",
+            "strategicGoal": "Swap late 1st draft pick capital for an elite young WR2/3 with high D-AVI.",
+            "scoring": {
+              "availability": 21,
+              "opposingGmMotivation": 21,
+              "packageMatch": 0,
+              "lineupReplacement": 11,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 61,
+            "classification": "Stretch",
+            "whyUserShouldDoIt": "KC Concepcion Jr. is a 22-year-old receiver with an 81.7 D-AVI, offering immediate startability and long-term upside that fits Crimson Tide Pods' rebuild timeline.",
+            "whyOpponentMightAccept": "Ravens Regime gains a premium 1st round pick asset (AVI 79.3) to add flexibility or trade for immediate veteran upgrades in their Playoff Push.",
+            "championshipImpact": "Provides active FLEX depth in 2026 while locking down long-term starting talent.",
+            "dynastyImpact": "Converts draft capital into an established young weapon entering his prime.",
+            "rosterImpact": "Upgrades starting FLEX/WR depth immediately with a 22-year-old asset.",
+            "publicMarketContext": "Concepcion is widely viewed as a rising star wideout whose value continues to trend upward.",
+            "risks": [
+              "Passing volume in Cleveland's offense creates occasional weekly volatility.",
+              "Starting-caliber target KC Concepcion Jr. requires a starting-caliber player centerpiece. Backup/handcuff players plus draft capital are not a credible foundation.",
+              "Does not meet the 70% Market Reality requirement (61% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose 2027 1st (Mile High) for KC Concepcion Jr.",
+              "acceptableConcession": "Swap 2027 late 4th round pick in return if sweetener is needed.",
+              "walkAwayPoint": "Walk away if Ravens Regime demands additional 2nd-round draft capital."
+            },
+            "deterministicRejectionReasons": [
+              "Starting-caliber target KC Concepcion Jr. requires a starting-caliber player centerpiece. Backup/handcuff players plus draft capital are not a credible foundation."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Badland Banditos",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Brian Thomas Jr.",
+                "assetType": "player",
+                "owner": "Badland Banditos",
+                "position": "WR",
+                "age": 24,
+                "cavi": 39.8,
+                "davi": 79.1,
+                "publicMarket": 78,
+                "leagueMarket": 77
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "2027 1st · Mile High · Projected Late · original owner Mile High Royal Lions",
+                "assetType": "pick",
+                "owner": "Crimson Tide Pods",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Contender Liquidity Trade",
+            "strategicGoal": "Target an explosive 24-year-old WR whose current season target share has suppressed short-term C-AVI.",
+            "scoring": {
+              "availability": 20,
+              "opposingGmMotivation": 20,
+              "packageMatch": 0,
+              "lineupReplacement": 10,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 58,
+            "classification": "Stretch",
+            "whyUserShouldDoIt": "Brian Thomas Jr. possesses elite physical tools and high dynasty value (79.1 D-AVI). Acquisition gives Crimson Tide Pods a key wideout block for 2027 and beyond.",
+            "whyOpponentMightAccept": "Badland Banditos are Elite Contenders; trading a currently benched wideout (C-AVI 39.8) for a 2027 1st gives them elite trade currency to acquire immediate win-now veteran starters elsewhere.",
+            "championshipImpact": "Minimal short-term impact for 2026; major long-term upside.",
+            "dynastyImpact": "Adds a 24-year-old high-ceiling athletic wide receiver.",
+            "rosterImpact": "Slots directly into future core offensive strategy.",
+            "publicMarketContext": "Thomas remains a premier long-term target in Jacksonville's offensive blueprint.",
+            "risks": [
+              "Inconsistency in current target distribution.",
+              "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Brian Thomas Jr. fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler.",
+              "Does not meet the 70% Market Reality requirement (58% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer 2027 1st (Mile High) for Brian Thomas Jr. straight.",
+              "acceptableConcession": "Offer a minor late pick swap.",
+              "walkAwayPoint": "Walk away if Badland Banditos require additional top-100 pick capital."
+            },
+            "deterministicRejectionReasons": [
+              "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Brian Thomas Jr. fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": {
+          "summary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (64% estimated).",
+          "primaryObstacles": [
+            "Starting-caliber target Marvin Harrison Jr. requires a starting-caliber player centerpiece. Backup/handcuff players plus draft capital are not a credible foundation.",
+            "Starting-caliber target KC Concepcion Jr. requires a starting-caliber player centerpiece. Backup/handcuff players plus draft capital are not a credible foundation.",
+            "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Brian Thomas Jr. fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler.",
+            "Seller acceptance remains uncertain; trade-block listing is not required to explore an offer."
+          ],
+          "userConstraintImpact": "The proposed offer respects verified ownership, but has not met every market/fit criterion.",
+          "closestPathToDeal": "Use the displayed verified construction as a negotiating starting point, not an accepted or 70%+ realistic trade."
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "De Von Achane 2026 fantasy news",
+          "Marvin Harrison Jr news 2026",
+          "Jaxon Smith Njigba 2026 fantasy news"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9ruFuQelU7Hul-0yTh7Js5fl-XQuip8kmPZQCj95l9DR8KrzoxfCYkls4VciAFG-CgdkECHExkcrMM4Nn6raI2jC6tNWnWjCR2xOWuTTd5kNO1OXGT3CynkgMqC2X6vmADY2QM6U6erpw4WBfzpfwM16TxnAVr1w=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPI6t8bhY4g0V9elzFbaoGRQ8rjY90I21q-sX3Gq0ssmlI_tnWeu2fh1Ap16EBwHwFOC_0I7UvttPPRnQBl90sM7Pw_HTfUPy4bbC8P_GM2muugLrhi9zurnkGJVV7b14aM6TdigSRdNlNI8TyAehiFf2BwV3dTMICgueFhZFKCGNMptFjc-stBadWRX6TK4xAkQ==",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfMjjDp_KOnpFUUJYjyFb5TazQLj7fTJSPbZav35CEPe303Nn8qNnbmhEGOYCY1OWnwV-RidW7oTPD3bT88LPgZ2LwmtQF1M0EIfnHUkECH8NleF9S1bFHu29-8aGJfk-8cxEAQUAW_oYgw4V2pNnqs9BE98v7xFDOXg2drdbiJAkVCFQturynyOujBOqKLSBrYIVF4k2GUTKVQXXbGubPqv_J-8V8NbKP",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhfok7E0p1euw9WxqAuA0msv7bDB43t6W05svk97gR7V1KhnlsDfkXnfY2pL1LuTwXBJR5PSM4hOqtNWK3wReEp-PAn0rX7nUgezqW6ZfCB18TCBNkq4KcWIGBwLWn-hvJi0z0Qhz8ldtqbSxA0SUNw6yGsEUC0hktn4k2VMsfoqfzEfFlLKhyNAJ4mOsstg==",
+            "title": "footballguys.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW5AYEc3E7aqut-D_7qPuTzsxDF7gVpJzs3uYYehhfMDlwLyNhMyPobKhK-db_3JEyT4McUhssprJQ2QOuwdE1iim8GEeOJfzCQmsGGt7igbG1OeEHlmIhgJfTEkjotST28qaUuNfYfFalsFYoh5dO5v-i85C9i4hMcq5UC7I-iopiDP04XtuUh1WVirMGglbZjbdu0ZE=",
+            "title": "twsn.net"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4bZ4z_BMUC5fFT8EUYwAhRr5VGDDzKrO5P-2w3euRLgfd9NoQcRxYZHCF9ERzNlQfkCICkuWh7sVyKB-JM_VLkE_qCqFLMQEp1YMcHy6-LBgcOZslpSdxe20HDpre9e3jdATOZcblc9O8md2_I4WwGgmKwawvSnoxvjDmJCBAElC-zglp1y--7Wlxjmg3Y4zhZHPW_cT8onXpTl8unzfsWHPFvrbj0PU=",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuUljEch64YgyzJQVZYhRAsbTzZC6S75hHxrsfZ2I9ioPYpqgYobvazSQoQjUN7ex6I4Cih-2PO9e8UCQrhSglg6i7WC924DNl_Pfuftp8hDNcLXu7YSbQfBXUJpBBE_IxR9VtyYfFpLG6vhLH",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcedWrSnHtbSXYWpql34Kdf2uy96z_p0blG3vYc58fYbvW5dS9lZcagLa4LV-Q3TZrFnYk1PJWpu6-aI0nagTWQkLMmaxtxy1E6LdpPikpH-mjjtk7Nvuk6F8CTIojYbnlKYEt6gvfNIgh0ARa0TxNGGR6usjoTgbmBRMvHLvXoDwXMYnbgx4FfCZ7AtyBnL3umARuH9VcIRu81kpb",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Marvin Harrison Jr.",
+          "Jaxon Smith-Njigba",
+          "De'Von Achane"
+        ],
+        "aviCoreCommitSha": "ae18e87208363b7fcc55c261a8bd407dad1d5167",
+        "aviCoreCommittedAt": "2026-10-29T19:04:17Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 542677,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 249,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mvu006m8-b17e6744",
