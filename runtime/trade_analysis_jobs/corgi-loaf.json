@@ -31,9 +31,356 @@
       "alternateAssets": []
     },
     "createdAt": 1793290080237,
-    "updatedAt": 1793290082117,
+    "updatedAt": 1793290148348,
     "expiresAt": 1793722080237,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. proposes sending rookie receiver Malachi Fields and a 2027 2nd-round pick (Badlands) to Crimson Tide Pods in exchange for a 2027 1st-round pick (Mile High). While acquiring a 2027 1st is a strong strategic move for Corgi Loaf to build liquid trade capital for their championship push, Crimson Tide Pods (rebuilding franchise) is unlikely to surrender a premier 2027 1st-round pick for a 2nd-round pick and a bench receiver. AVI recommends revising the offer by adding young RB prospect Mike Washington Jr. to bridge the value gap and make the transaction realistic for the trade partner.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Malachi Fields",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 23,
+              "cavi": 29.7,
+              "davi": 67.7,
+              "publicMarket": 30,
+              "leagueMarket": 29.7
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "2027 1st · Mile High · Projected Late · original owner Mile High Royal Lions",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "D+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Corgi Loaf Baking Co. gains a premium 2027 1st round pick (79.3 AVI) while giving up bench receiver Malachi Fields (29.7 C-AVI) and a 2027 2nd round pick (48.5 AVI). This provides Corgi Loaf with liquid trade capital for their championship push without touching active starting lineup production. However, from Crimson Tide Pods' perspective, trading a 2027 1st for a 2nd-round pick and a developmental rookie receiver represents an unnecessary downgrade in draft capital tier during a rebuild."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "By adding young RB prospect Mike Washington Jr. (29.4 C-AVI / 65.8 D-AVI) to Malachi Fields and the 2027 2nd pick, Corgi Loaf offers Crimson Tide Pods a coherent package of two 23-year-old upside assets plus draft capital, bridging the valuation gap required to secure the 2027 1st round pick."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 35,
+              "summary": "Adds high-end draft capital that can be packaged in-season for a marquee starter to bolster title odds."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Consolidates a 2nd-round pick and bench receiver into a higher-tier 1st-round draft asset."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Starting lineup is completely untouched as Malachi Fields is currently on the bench."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Slight loss in WR depth, easily absorbed by existing roster baseline."
+            },
+            "flexibilityLiquidity": {
+              "score": 60,
+              "summary": "Significantly enhances trade flexibility with a premier 2027 1st round pick."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Gains a premium liquid 2027 1st round pick while giving up non-starting bench depth and a 2nd round pick."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Rebuilding franchise loses top-tier draft capital that could be used for premium talent acquisition."
+            },
+            "dynastyOutlook": {
+              "score": -40,
+              "summary": "Downgrades a premium 1st round asset into a 2nd round pick and a mid-tier prospect."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Malachi Fields adds young depth to a thin receiver room, but does not move the needle."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Gains two rosterable pieces in Fields and the 2027 2nd round pick."
+            },
+            "flexibilityLiquidity": {
+              "score": -45,
+              "summary": "Loses a highly liquid 1st round pick."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Surrenders a premium 2027 1st round pick in exchange for a 2nd round pick and a developmental receiver."
+            }
+          },
+          "explanation": "The submitted offer heavily favors Corgi Loaf Baking Co. by allowing them to convert bench depth and a 2nd-round pick into a top-tier 2027 1st-round pick. For Crimson Tide Pods, trading away a 2027 1st without receiving elite young talent or premium capital hinders their rebuilding plan."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Negligible immediate impact on active scoring since Malachi Fields sits on the bench behind JSN, Nabers, and DJ Moore.",
+          "sideADynastyImpact": "Gains a premium 2027 1st round pick (79.3 D-AVI), significantly bolstering long-term asset value and liquid trade currency.",
+          "sideARosterImpact": "Frees up a bench WR slot while upgrading future draft capital quality.",
+          "sideBChampionshipImpact": "Minimal current-season scoring impact for Crimson Tide Pods.",
+          "sideBDynastyImpact": "Downgrades a 2027 1st round pick (79.3 D-AVI) into a 2027 2nd round pick (48.5 D-AVI) and a developmental WR (67.7 D-AVI).",
+          "sideBRosterImpact": "Adds Malachi Fields to young WR depth.",
+          "valueAssessment": "The raw sum favors Corgi Loaf Baking Co., receiving 79.3 AVI for 78.2 combined AVI (29.7 + 48.5), but the quality-for-quantity exchange strongly favors Corgi Loaf."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus views 2027 1st-round picks as high-value liquid assets, while Malachi Fields is seen as a 3rd-round rookie developmental WR with modest current target volume.",
+          "aviVsMarket": "AVI and public market consensus are aligned: a 2027 1st pick holds significantly higher trade liquidity and ceiling than a 2nd pick plus a day-2 rookie WR.",
+          "relevantContext": [
+            "Malachi Fields was drafted in the 3rd round (74th overall) of the 2026 NFL Draft by the NY Giants.",
+            "Fields currently operates as a depth perimeter receiver and run-blocker with a low weekly target floor.",
+            "2027 1st round draft capital remains premium currency in 16-team dynasty formats."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Crimson Tide Pods is rebuilding and seeking young core pieces and draft capital, but trading away 1st-round picks for 2nd-round picks and depth players hinders their rebuild process.",
+          "packageFit": "Malachi Fields fits a rebuilding timeline, but the overall package lacks the high-end upside required to pry away a 2027 1st.",
+          "lineupReplacement": "Does not create a starting lineup hole for Crimson Tide Pods as draft picks do not occupy active starting slots.",
+          "competitiveWindowFit": "Surrendering a 2027 1st conflicts with Crimson Tide Pods' rebuild timeline unless rewarded with top-tier young talent.",
+          "positionalScarcity": "Wide receiver depth is accessible; premier 1st-round picks in 16-team leagues carry substantial scarcity value."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 5,
+            "packageMatch": 8,
+            "lineupReplacement": 12,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 49,
+          "classification": "Unlikely",
+          "explanation": "Crimson Tide Pods is in a designated Rebuild phase. While acquiring young players like Malachi Fields aligns with their long-term timeline, giving up a 2027 1st round pick for a 2027 2nd and a 3rd-round rookie WR represents a tier downgrade that a rebuilding manager will unlikely accept without additional incentive."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Acquiring a 2027 1st round pick (79.3 AVI) from Crimson Tide Pods is a fantastic strategic goal for Corgi Loaf Baking Co. to build liquid trade capital for their championship run. However, the submitted package of Malachi Fields and a 2027 2nd is an underpay that Crimson Tide Pods will almost certainly decline. Corgi Loaf should revise the offer by adding another young upside asset like Mike Washington Jr. to make the deal realistic for both sides.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Malachi Fields",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 23,
+              "cavi": 29.7,
+              "davi": 67.7,
+              "publicMarket": 30,
+              "leagueMarket": 29.7
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.4,
+              "davi": 65.8,
+              "publicMarket": 30,
+              "leagueMarket": 29.4
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "2027 1st · Mile High · Projected Late · original owner Mile High Royal Lions",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "whyUserShouldDoIt": "Corgi Loaf converts two bench assets (Fields and Washington Jr.) and a 2nd-round pick into a highly flexible 2027 1st-round pick, giving them premier ammunition to pursue starting upgrades as the trade deadline approaches.",
+          "whyOpponentMightAccept": "Crimson Tide Pods receives two 23-year-old high-upside prospects at RB and WR along with a 2027 2nd-round pick, giving their rebuild multiple lottery tickets without requiring current-year roster sacrifice."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Tank Dell",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 24.7,
+              "davi": 61.4,
+              "publicMarket": 30,
+              "leagueMarket": 24.7
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "2027 1st · Mile High · Projected Late · original owner Mile High Royal Lions",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "rationale": "Swapping Tank Dell into the package provides Crimson Tide Pods with an established NFL receiver alongside the 2027 2nd pick if they prefer established target share over raw developmental prospects."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Malachi Fields wide receiver",
+          "Malachi Fields football",
+          "Malachi Fields NFL draft"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd-2EdB6TYlwGO5ZEDml4tfMphz24lDGBSZ2s3N0L9KpfLDXS-SnOez0PtCB3azuHE7x2MwhKy2ACVFS4tkhvp7VMExLw20Bw4Jlln2g5BWC1ORE2zBMyXVqLbacVUzgv8fQ==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS2qOaciq84QDY777BfcKuUCM4xr-Bp0-AkFbVqkTrOFZABUbXDdY8SB0L6Jv64nXsE-WsQ9CEMUwcy9N_dP27Mcf8y8uR6JQUMqAuVM5VNrpGbrqdVZc9y1ve3wGLKSCyRdlXLjFIOAy9fntXTIW-",
+            "title": "giants.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFH8-BtaJm0utPkjCXVo8A0MuEUh9_ACoEoa6J-n3lOZqgSBJze_568GyUQq_ZHjrNgUMmRKWKMntULWvFcZq3rx19H9cixT3oZ2c4ofVa5YiXwru1Ci1mNou6ZJlC7fVhdZtMv4kMSQ1oXg==",
+            "title": "247sports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElrY6mExaKwdvaGGv3AKnNOu_-ZivIPFV447O6Hqu_hfXiahgX_Tb7A07AqWICArxjLuPiDBWxgyO_4K5xR11rQsp6pWy3QpDDaw4oKsB8CXpSxQ-q5QwS0DNu9KR8na8n",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlU2vhlD_ts94ifuiNLdlfG9FPnXZJt0tXGKhuQW9_2qu2YVN7z7uTyHIUNfRok5Gn3zR6jwIGiEmHBeViFnFn2_1na8_uG9r9AMxBieM56eip-dBQPSNSQeFFk7nFHNTqdUW9Yf3vmRKhWEnt-TohNgm6",
+            "title": "pro-football-reference.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFEC_oeEeT9EW5z67SNPVnRivmVSG0q472eQUt47AEGf0xs_mmtugukpFa_kuTCzvk_wUV6uv14wc1gTr7E8jdm2wNWVvUKe3rHRPhnoI6ccnFirZEwSUyhAstvF_wUEIiGGXn2ejCGQhzxdgjxTlG7xXgrr2PW-kLE9lx",
+            "title": "fightingirish.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtYH8brAlyo2p6COHAdn6y533A7q1I73mbMKM7zHQBH1O3YoeAlCVBD9IUz0gQurnmHt-zwjyPBhNqmj3X_E8DZ7Rz-YcXbCHY8tkKZa6AjUM-53x2J7SrZ4EcNPVfgCuU",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2vTqnwuM_bJCqxPiuxld1nHreAz3_IuLrDcId296r1Fg5cJk381bvl4h5RCse6_HTJOXKnhmLLFhS7m1efRqmZngZBRphHEIf38hXAepjXh30Nhr-1jTQT5atLO8vvtYsI5qXrNa9HeblV0_cSVidoIrnKNc75kUv0WaKx8cV1PISmvOCscMNz9WQ8gcPGKETZ6zrSKmUCff0",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoMncfrVaD_yCkWHuwtkDTq2iRnQUGM-YO9xi2A9-VBK9hT-y7DrACCL9Y7Xu8mnKj-iRiyUNKQCcPIfbr-GmZTnCHegNX0Nd7ffwwQTPPSluNFzZiJnU2yKSK0yotCrc0m-tR0WuakBqwSA==",
+            "title": "pff.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "a21099121cb711bd5f07598ce04e4225ab156be6",
+        "aviCoreCommittedAt": "2026-10-29T15:24:39Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 94718,
+        "groundedMarketChars": 2192,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mvtkd7cx-dcc2b888",
