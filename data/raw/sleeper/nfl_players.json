@@ -55570,7 +55570,7 @@
       "injury_override_regular_2025_9": "Out",
       "rookie_year": "2024"
     },
-    "news_updated": 1793295633085,
+    "news_updated": 1793296531696,
     "number": 7,
     "oddsjam_id": "A45A1C03F17B",
     "opta_id": null,
@@ -60985,7 +60985,7 @@
       "genius_id": "1463684",
       "rookie_year": "2024"
     },
-    "news_updated": 1793233825225,
+    "news_updated": 1793296832734,
     "number": 8,
     "oddsjam_id": "A94C2E63EFC5",
     "opta_id": null,
@@ -448639,7 +448639,7 @@
       "injury_override_regular_2026_6": "Out",
       "rookie_year": "2018"
     },
-    "news_updated": 1793295331489,
+    "news_updated": 1793297133431,
     "number": 8,
     "oddsjam_id": "1C18E878DAB7",
     "opta_id": null,
@@ -453790,7 +453790,7 @@
       "injury_override_regular_2024_12": "Out",
       "rookie_year": "2018"
     },
-    "news_updated": 1793236225407,
+    "news_updated": 1793296533301,
     "number": 0,
     "oddsjam_id": "E2C8AD920BA7",
     "opta_id": null,
@@ -543490,10 +543490,10 @@
     "hashtag": "#keiseannixon-NFL-GB-25",
     "height": "70",
     "high_school": "Salesian (CA)",
-    "injury_body_part": null,
+    "injury_body_part": "Shoulder",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "310c9479-2b2a-4fde-afec-2871c64d9079",
     "last_name": "Nixon",
     "metadata": {
@@ -590394,7 +590394,7 @@
       "genius_id": "1008775",
       "rookie_year": "2020"
     },
-    "news_updated": 1793209223451,
+    "news_updated": 1793296533316,
     "number": 21,
     "oddsjam_id": "F6D62F024EFF",
     "opta_id": null,
@@ -622544,7 +622544,7 @@
       "genius_id": "1078519",
       "rookie_year": "2021"
     },
-    "news_updated": 1793296232038,
+    "news_updated": 1793296533345,
     "number": 14,
     "oddsjam_id": "D8CD5325EF95",
     "opta_id": null,
@@ -623685,7 +623685,7 @@
       "genius_id": "1080256",
       "rookie_year": "2021"
     },
-    "news_updated": 1793295933253,
+    "news_updated": 1793296531848,
     "number": 1,
     "oddsjam_id": "6062BDCD0B61",
     "opta_id": null,
@@ -675057,7 +675057,7 @@
       "genius_id": "1343236",
       "rookie_year": "2022"
     },
-    "news_updated": 1793238026433,
+    "news_updated": 1793296533331,
     "number": 14,
     "oddsjam_id": "CABA76119F31",
     "opta_id": null,
@@ -695223,7 +695223,7 @@
     "first_name": "Timmy",
     "full_name": "Timmy Horne",
     "gsis_id": null,
-    "hashtag": "#timmyhorne-NFL-FA-94",
+    "hashtag": "#timmyhorne-NFL-TEN-94",
     "height": "76",
     "high_school": "Anson (NC)",
     "injury_body_part": null,
@@ -695258,7 +695258,7 @@
     "stats_id": null,
     "status": "Active",
     "swish_id": 946259,
-    "team": null,
+    "team": "TEN",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "312",
@@ -720319,7 +720319,7 @@
       "injury_override_regular_2025_1": "IR",
       "rookie_year": "2023"
     },
-    "news_updated": 1793295633069,
+    "news_updated": 1793297131568,
     "number": 2,
     "oddsjam_id": "69EE7B225AEF",
     "opta_id": null,

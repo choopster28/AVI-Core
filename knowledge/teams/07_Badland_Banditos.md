@@ -21,11 +21,11 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 611.1
-- championship_lineup_c_avi_avg: 76.39
-- offensive_roster_c_avi_sum: 913.3
-- offensive_roster_c_avi_avg: 53.72
-- offensive_roster_d_avi_sum: 1214.6
+- championship_lineup_c_avi_sum: 611.2
+- championship_lineup_c_avi_avg: 76.40
+- offensive_roster_c_avi_sum: 913.4
+- offensive_roster_c_avi_avg: 53.73
+- offensive_roster_d_avi_sum: 1214.7
 - offensive_roster_d_avi_avg: 71.45
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
@@ -34,7 +34,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Kenneth Walker III | C-AVI: 93.5 | D-AVI: 96.3
 - RB: Bucky Irving | C-AVI: 72.4 | D-AVI: 86.8
 - WR: Ja'Marr Chase | C-AVI: 88.5 | D-AVI: 97.8
-- WR: Tre Tucker | C-AVI: 66.1 | D-AVI: 72.7
+- WR: Tre Tucker | C-AVI: 66.2 | D-AVI: 72.8
 - TE: Brock Bowers | C-AVI: 94.2 | D-AVI: 93.4
 - FLEX: Stefon Diggs | C-AVI: 61.2 | D-AVI: 71.5
 - FLEX: Caleb Douglas | C-AVI: 50.9 | D-AVI: 72.8
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 66.1
-- Dynasty AVI (D-AVI, 0-100): 72.7
+- Championship AVI (C-AVI, 0-100): 66.2
+- Dynasty AVI (D-AVI, 0-100): 72.8
 - Projected PPR points: 125.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

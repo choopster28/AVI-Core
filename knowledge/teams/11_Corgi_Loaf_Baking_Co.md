@@ -23,8 +23,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 563.6
 - championship_lineup_c_avi_avg: 70.45
-- offensive_roster_c_avi_sum: 813.0
-- offensive_roster_c_avi_avg: 54.20
+- offensive_roster_c_avi_sum: 812.9
+- offensive_roster_c_avi_avg: 54.19
 - offensive_roster_d_avi_sum: 1141.8
 - offensive_roster_d_avi_avg: 76.12
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 29.4
+- Championship AVI (C-AVI, 0-100): 29.3
 - Dynasty AVI (D-AVI, 0-100): 65.8
 - Projected PPR points: 97.5
 - Category: offense
