@@ -1,5 +1,37 @@
 [
   {
+    "id": "mvsui9qq-fad41bb0",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "partnerGoal": "Rebuild",
+      "targetTeam": "Northside Kings",
+      "trade": {
+        "sideA": [
+          {
+            "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Ryan Flournoy",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1793236156370,
+    "updatedAt": 1793236156370,
+    "expiresAt": 1793668156370,
+    "status": "queued"
+  },
+  {
     "id": "mvsqe3zm-e9724dae",
     "phase": "final",
     "mode": "analyze_trade",
