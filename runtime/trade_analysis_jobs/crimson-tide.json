@@ -1,5 +1,22 @@
 [
   {
+    "id": "mvtwkiqw-b3a24a9c",
+    "phase": "initial",
+    "mode": "improve_team",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3
+    },
+    "createdAt": 1793300086760,
+    "updatedAt": 1793300086760,
+    "expiresAt": 1793732086760,
+    "status": "queued"
+  },
+  {
     "id": "mvtwj6hj-9434807b",
     "phase": "final",
     "mode": "improve_team",
