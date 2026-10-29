@@ -1,5 +1,23 @@
 [
   {
+    "id": "mvtwj6hj-9434807b",
+    "phase": "final",
+    "mode": "improve_team",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3,
+      "personalContext": "love young talent and favorite team is minnesota vikings and Alabama crimson tide"
+    },
+    "createdAt": 1793300024359,
+    "updatedAt": 1793300024359,
+    "expiresAt": 1793732024359,
+    "status": "queued"
+  },
+  {
     "id": "mvtwe3ba-44923fa5",
     "phase": "initial",
     "mode": "improve_team",
