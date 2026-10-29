@@ -148,7 +148,7 @@ def _expected_missed_weeks(state: dict[str, Any], current_week: int) -> tuple[fl
     comment = _comment_text(state)
     ir_weeks = _future_ir_weeks(state, current_week)
 
-    if any(phrase in comment for phrase in ("season ending", "season-ending", "out for season", "remainder of the season", "miss the rest of the season")):
+    if any(phrase in f"{status} {comment}" for phrase in ("season ending", "season-ending", "out for season", "out for the season", "remainder of the season", "miss the rest of the season", "will miss the season", "torn acl", "acl tear")):
         return float(remaining), "season_ending"
 
     status_tokens = set(status.split())
