@@ -9,35 +9,35 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 8
-- Last updated from Sleeper exports: 2026-10-28
+- Last updated from Sleeper exports: 2026-10-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 20
-- offense: 16
+- total_players: 19
+- offense: 15
 - kickers: 1
 - idp: 3
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 596.9
-- championship_lineup_c_avi_avg: 74.61
-- offensive_roster_c_avi_sum: 867.8
-- offensive_roster_c_avi_avg: 54.24
-- offensive_roster_d_avi_sum: 1208.1
-- offensive_roster_d_avi_avg: 75.51
+- championship_lineup_c_avi_sum: 563.6
+- championship_lineup_c_avi_avg: 70.45
+- offensive_roster_c_avi_sum: 787.5
+- offensive_roster_c_avi_avg: 52.50
+- offensive_roster_d_avi_sum: 1123.6
+- offensive_roster_d_avi_avg: 74.91
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Tyler Shough | C-AVI: 47.8 | D-AVI: 73.3
-- RB: Chuba Hubbard | C-AVI: 70.2 | D-AVI: 80.8
 - RB: Rhamondre Stevenson | C-AVI: 65.0 | D-AVI: 78.1
+- RB: Saquon Barkley | C-AVI: 62.9 | D-AVI: 85.0
 - WR: Jaxon Smith-Njigba | C-AVI: 99.2 | D-AVI: 99.8
 - WR: Malik Nabers | C-AVI: 92.2 | D-AVI: 96.8
-- TE: Tyler Warren | C-AVI: 81.6 | D-AVI: 90.0
-- FLEX: DeVonta Smith | C-AVI: 84.9 | D-AVI: 91.9
-- FLEX: Cam Skattebo | C-AVI: 56.0 | D-AVI: 80.1
+- TE: Trey McBride | C-AVI: 93.4 | D-AVI: 92.7
+- FLEX: Cam Skattebo | C-AVI: 56.0 | D-AVI: 80.6
+- FLEX: DJ Moore | C-AVI: 47.1 | D-AVI: 80.6
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -76,23 +76,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Chuba Hubbard
-- Player name: Chuba Hubbard
-- Player ID: 7594
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: CAR
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 70.2
-- Dynasty AVI (D-AVI, 0-100): 80.8
-- Projected PPR points: 147.9
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Rhamondre Stevenson
 - Player name: Rhamondre Stevenson
 - Player ID: 7611
@@ -110,6 +93,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Saquon Barkley
+- Player name: Saquon Barkley
+- Player ID: 4866
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 62.9
+- Dynasty AVI (D-AVI, 0-100): 85.0
+- Projected PPR points: 246.7
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Cam Skattebo
 - Player name: Cam Skattebo
 - Player ID: 12481
@@ -122,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 56.0
-- Dynasty AVI (D-AVI, 0-100): 80.1
+- Dynasty AVI (D-AVI, 0-100): 80.6
 - Projected PPR points: 201.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 29.3
+- Championship AVI (C-AVI, 0-100): 29.4
 - Dynasty AVI (D-AVI, 0-100): 65.8
 - Projected PPR points: 97.5
 - Category: offense
@@ -192,23 +192,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 92.2
 - Dynasty AVI (D-AVI, 0-100): 96.8
 - Projected PPR points: 236.7
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: DeVonta Smith
-- Player name: DeVonta Smith
-- Player ID: 7525
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: PHI
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 84.9
-- Dynasty AVI (D-AVI, 0-100): 91.9
-- Projected PPR points: 229.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -256,7 +239,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: HOU
 - Active: True
 - Status: Active
-- Age: 26.0
+- Age: 27.0
 - Championship AVI (C-AVI, 0-100): 24.7
 - Dynasty AVI (D-AVI, 0-100): 61.4
 - Projected PPR points: 51.9
@@ -280,20 +263,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
 
-### PLAYER: Tyler Warren
-- Player name: Tyler Warren
-- Player ID: 12518
+### PLAYER: Trey McBride
+- Player name: Trey McBride
+- Player ID: 8130
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Position: TE
 - Fantasy positions: ['TE']
-- NFL team: IND
+- NFL team: ARI
 - Active: True
 - Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 81.6
-- Dynasty AVI (D-AVI, 0-100): 90.0
-- Projected PPR points: 201.1
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 93.4
+- Dynasty AVI (D-AVI, 0-100): 92.7
+- Projected PPR points: 234.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

@@ -3191,7 +3191,7 @@
     },
     {
       "cbs_player_id": "2969206",
-      "player_bye_week": null,
+      "player_bye_week": "9",
       "player_ecr_delta": null,
       "player_eligibility": "DT",
       "player_filename": "jonah-laulu.php",
@@ -3204,7 +3204,7 @@
       "player_position_id": "DT",
       "player_positions": "DT",
       "player_short_name": "J. Laulu",
-      "player_team_id": "FA",
+      "player_team_id": "TEN",
       "player_yahoo_id": "41107",
       "player_yahoo_positions": "DL,DT",
       "pos_rank": "DT46",

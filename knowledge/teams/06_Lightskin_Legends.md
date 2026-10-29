@@ -9,24 +9,24 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872509429436829696
 - Division: 2
 - Waiver position: 16
-- Last updated from Sleeper exports: 2026-10-28
+- Last updated from Sleeper exports: 2026-10-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
 - total_players: 22
-- offense: 18
+- offense: 17
 - kickers: 1
-- idp: 3
+- idp: 4
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 524.2
 - championship_lineup_c_avi_avg: 65.53
-- offensive_roster_c_avi_sum: 842.8
-- offensive_roster_c_avi_avg: 46.82
-- offensive_roster_d_avi_sum: 1240.8
-- offensive_roster_d_avi_avg: 68.93
+- offensive_roster_c_avi_sum: 810.3
+- offensive_roster_c_avi_avg: 47.66
+- offensive_roster_d_avi_sum: 1178.6
+- offensive_roster_d_avi_avg: 69.33
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -122,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 54.7
-- Dynasty AVI (D-AVI, 0-100): 80.5
+- Dynasty AVI (D-AVI, 0-100): 80.0
 - Projected PPR points: 207.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -136,7 +136,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Fantasy positions: ['RB']
 - NFL team: PHI
 - Active: True
-- Status: Active
+- Status: Inactive
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 14.6
@@ -223,26 +223,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 34.8
+- Championship AVI (C-AVI, 0-100): 34.9
 - Dynasty AVI (D-AVI, 0-100): 62.5
 - Projected PPR points: 102.3
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Jerry Jeudy
-- Player name: Jerry Jeudy
-- Player ID: 6783
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: CLE
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 32.6
-- Dynasty AVI (D-AVI, 0-100): 61.7
-- Projected PPR points: 119.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -363,6 +346,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
 - Category: kicker
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Boye Mafe
+- Player name: Boye Mafe
+- Player ID: 8343
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Position: DL
+- Fantasy positions: ['DL', 'LB']
+- NFL team: CIN
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
 ### PLAYER: Arvell Reese

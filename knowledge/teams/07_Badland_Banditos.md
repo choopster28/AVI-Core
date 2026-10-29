@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 13
-- Last updated from Sleeper exports: 2026-10-28
+- Last updated from Sleeper exports: 2026-10-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 611.2
-- championship_lineup_c_avi_avg: 76.40
-- offensive_roster_c_avi_sum: 970.5
-- offensive_roster_c_avi_avg: 57.09
-- offensive_roster_d_avi_sum: 1288.1
-- offensive_roster_d_avi_avg: 75.77
+- championship_lineup_c_avi_sum: 611.1
+- championship_lineup_c_avi_avg: 76.39
+- offensive_roster_c_avi_sum: 913.3
+- offensive_roster_c_avi_avg: 53.72
+- offensive_roster_d_avi_sum: 1214.6
+- offensive_roster_d_avi_avg: 71.45
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,7 +34,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Kenneth Walker III | C-AVI: 93.5 | D-AVI: 96.3
 - RB: Bucky Irving | C-AVI: 72.4 | D-AVI: 86.8
 - WR: Ja'Marr Chase | C-AVI: 88.5 | D-AVI: 97.8
-- WR: Tre Tucker | C-AVI: 66.2 | D-AVI: 72.8
+- WR: Tre Tucker | C-AVI: 66.1 | D-AVI: 72.7
 - TE: Brock Bowers | C-AVI: 94.2 | D-AVI: 93.4
 - FLEX: Stefon Diggs | C-AVI: 61.2 | D-AVI: 71.5
 - FLEX: Caleb Douglas | C-AVI: 50.9 | D-AVI: 72.8
@@ -144,6 +144,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Austin Ekeler
+- Player name: Austin Ekeler
+- Player ID: 4663
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: WAS
+- Active: True
+- Status: Active
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 13.0
+- Projected PPR points: None
+- Category: offense
+- Valuation status: INACTIVE_UNRANKED
+
 ### PLAYER: Ja'Marr Chase
 - Player name: Ja'Marr Chase
 - Player ID: 7564
@@ -189,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 66.2
-- Dynasty AVI (D-AVI, 0-100): 72.8
+- Championship AVI (C-AVI, 0-100): 66.1
+- Dynasty AVI (D-AVI, 0-100): 72.7
 - Projected PPR points: 125.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -224,7 +241,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 60.0
-- Dynasty AVI (D-AVI, 0-100): 82.0
+- Dynasty AVI (D-AVI, 0-100): 82.3
 - Projected PPR points: 213.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -246,23 +263,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Jaylin Noel
-- Player name: Jaylin Noel
-- Player ID: 12536
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: HOU
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 48.4
-- Dynasty AVI (D-AVI, 0-100): 70.3
-- Projected PPR points: 85.2
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Brian Thomas Jr.
 - Player name: Brian Thomas Jr.
 - Player ID: 11631
@@ -275,25 +275,25 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 39.8
-- Dynasty AVI (D-AVI, 0-100): 79.4
+- Dynasty AVI (D-AVI, 0-100): 79.1
 - Projected PPR points: 195.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Jalen McMillan
-- Player name: Jalen McMillan
-- Player ID: 11618
+### PLAYER: Tez Johnson
+- Player name: Tez Johnson
+- Player ID: 12485
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Position: WR
 - Fantasy positions: ['WR']
 - NFL team: TB
 - Active: True
-- Status: Inactive
+- Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 30.9
-- Dynasty AVI (D-AVI, 0-100): 67.2
-- Projected PPR points: 127.4
+- Championship AVI (C-AVI, 0-100): 22.2
+- Dynasty AVI (D-AVI, 0-100): 51.1
+- Projected PPR points: 38.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

@@ -17,23 +17,23 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **95**
-- Owner trade participations: **192**
-- Two-team trades: **93**
+- Unique completed trades: **96**
+- Owner trade participations: **194**
+- Two-team trades: **94**
 - Three-team trades: **2**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **52**
+- 2026 completed trades: **53**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-10-21T13:55:16.608000+00:00**
+- Latest verified trade: **2026-10-28T22:55:55.047000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | Corgi Loaf Baking Co.  | awang1900 | **27** | 7 | 4 | 16 | 38 | 37 | 10 | 16 | 7 | 10 |
+| 1 | Corgi Loaf Baking Co.  | awang1900 | **28** | 7 | 4 | 17 | 40 | 40 | 10 | 16 | 7 | 10 |
 | 2 | Ravens Regime  | Mentomorii | **23** | 3 | 3 | 17 | 23 | 28 | 6 | 11 | 2 | 4 |
-| 3 | Big Balder Brand | Choopski | **21** | 7 | 2 | 12 | 31 | 33 | 3 | 8 | 1 | 4 |
+| 3 | Big Balder Brand | Choopski | **22** | 7 | 2 | 13 | 34 | 35 | 3 | 8 | 1 | 4 |
 | 4 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
 | 5 | Northside Kings  | srsmith95 | **18** | 6 | 5 | 7 | 19 | 15 | 12 | 5 | 5 | 3 |
 | 6 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
@@ -56,7 +56,7 @@
 | Badland Banditos  | DMV Fantasy | 3 |
 | Big Balder Brand | DMV Fantasy | 7 |
 | Conquistadors | Northside Kings  | 5 |
-| Corgi Loaf Baking Co.  | Rapid Valley Annihilation | 5 |
+| Corgi Loaf Baking Co.  | Rapid Valley Annihilation, Big Balder Brand | 5 |
 | Crimson Tide Pods | Corgi Loaf Baking Co.  | 3 |
 | DMV Fantasy | Big Balder Brand | 7 |
 | Gringo’s Goblins  | Ravens Regime , Big Balder Brand, Corgi Loaf Baking Co.  | 1 |
@@ -70,6 +70,24 @@
 | Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽 | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1421305533410873344
+- Season: 2026
+- Week: 8
+- Created at UTC: 2026-10-28T22:55:55.047000+00:00
+- Teams involved: 2
+
+#### Big Balder Brand (Choopski)
+- Players received: Tyler Warren, DeVonta Smith, Chuba Hubbard
+- Players sent: Saquon Barkley, Trey McBride
+- Picks received: None
+- Picks sent: None
+
+#### Corgi Loaf Baking Co.  (awang1900)
+- Players received: Saquon Barkley, Trey McBride
+- Players sent: Tyler Warren, DeVonta Smith, Chuba Hubbard
+- Picks received: None
+- Picks sent: None
 
 ### TRADE: 1418632761677299712
 - Season: 2026

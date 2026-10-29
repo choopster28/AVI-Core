@@ -713,7 +713,7 @@
       "player_name": "Jonah Laulu",
       "points": 6.5,
       "position_id": "DT",
-      "team_id": "FA",
+      "team_id": "TEN",
       "weeks": {
         "1": 0,
         "2": 1.5,
@@ -3522,7 +3522,7 @@
       "player_name": "Timmy Horne",
       "points": 4.5,
       "position_id": "DT",
-      "team_id": "TEN",
+      "team_id": "FA",
       "weeks": {
         "6": 2.3,
         "7": 2.3

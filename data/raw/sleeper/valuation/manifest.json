@@ -30,7 +30,7 @@
     },
     "stats_week_7": {
       "status": "sleeper",
-      "valid_players": 332
+      "valid_players": 331
     },
     "stats_week_8": {
       "reason": "ValueError",

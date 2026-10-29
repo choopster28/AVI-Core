@@ -9,30 +9,30 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-10-28
+- Last updated from Sleeper exports: 2026-10-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
 - total_players: 21
-- offense: 15
+- offense: 14
 - kickers: 1
-- idp: 5
+- idp: 6
 - other: 0
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 572.9
-- championship_lineup_c_avi_avg: 71.61
-- offensive_roster_c_avi_sum: 833.4
-- offensive_roster_c_avi_avg: 55.56
-- offensive_roster_d_avi_sum: 1084.7
-- offensive_roster_d_avi_avg: 72.31
+- championship_lineup_c_avi_sum: 573.0
+- championship_lineup_c_avi_avg: 71.62
+- offensive_roster_c_avi_sum: 806.4
+- offensive_roster_c_avi_avg: 57.60
+- offensive_roster_d_avi_sum: 1038.6
+- offensive_roster_d_avi_avg: 74.19
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 79.7 | D-AVI: 84.5
 - RB: D'Andre Swift | C-AVI: 81.3 | D-AVI: 86.7
-- RB: Zach Charbonnet | C-AVI: 28.8 | D-AVI: 69.5
+- RB: Zach Charbonnet | C-AVI: 28.9 | D-AVI: 69.6
 - WR: Amon-Ra St. Brown | C-AVI: 96.0 | D-AVI: 98.5
 - WR: Tee Higgins | C-AVI: 86.8 | D-AVI: 91.6
 - TE: Tucker Kraft | C-AVI: 68.1 | D-AVI: 86.0
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 28.8
-- Dynasty AVI (D-AVI, 0-100): 69.5
+- Championship AVI (C-AVI, 0-100): 28.9
+- Dynasty AVI (D-AVI, 0-100): 69.6
 - Projected PPR points: 67.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -229,23 +229,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Kalif Raymond
-- Player name: Kalif Raymond
-- Player ID: 3634
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: CHI
-- Active: True
-- Status: Active
-- Age: 32.0
-- Championship AVI (C-AVI, 0-100): 27.1
-- Dynasty AVI (D-AVI, 0-100): 46.2
-- Projected PPR points: 27.7
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Tucker Kraft
 - Player name: Tucker Kraft
 - Player ID: 9484
@@ -325,6 +308,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Derrick Barnes
+- Player name: Derrick Barnes
+- Player ID: 7726
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: LB
+- Fantasy positions: ['DL', 'LB']
+- NFL team: DET
+- Active: True
+- Status: Active
+- Age: 27.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

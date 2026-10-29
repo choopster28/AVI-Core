@@ -9,35 +9,35 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 10
-- Last updated from Sleeper exports: 2026-10-28
+- Last updated from Sleeper exports: 2026-10-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 21
-- offense: 17
+- total_players: 22
+- offense: 18
 - kickers: 1
 - idp: 3
 - other: 0
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 576.4
-- championship_lineup_c_avi_avg: 72.05
-- offensive_roster_c_avi_sum: 862.7
-- offensive_roster_c_avi_avg: 50.75
-- offensive_roster_d_avi_sum: 1235.3
-- offensive_roster_d_avi_avg: 72.66
+- championship_lineup_c_avi_sum: 598.0
+- championship_lineup_c_avi_avg: 74.75
+- offensive_roster_c_avi_sum: 943.4
+- offensive_roster_c_avi_avg: 52.41
+- offensive_roster_d_avi_sum: 1319.8
+- offensive_roster_d_avi_avg: 73.32
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jayden Daniels | C-AVI: 75.7 | D-AVI: 85.6
 - RB: Bhayshul Tuten | C-AVI: 70.3 | D-AVI: 84.8
-- RB: Jeremiyah Love | C-AVI: 65.7 | D-AVI: 89.5
+- RB: Chuba Hubbard | C-AVI: 70.2 | D-AVI: 80.8
+- WR: DeVonta Smith | C-AVI: 84.9 | D-AVI: 91.9
 - WR: Nico Collins | C-AVI: 82.9 | D-AVI: 94.1
-- WR: Rashee Rice | C-AVI: 66.6 | D-AVI: 87.8
-- TE: Trey McBride | C-AVI: 93.4 | D-AVI: 92.7
-- FLEX: Saquon Barkley | C-AVI: 62.9 | D-AVI: 85.0
-- FLEX: Omarion Hampton | C-AVI: 58.9 | D-AVI: 86.1
+- TE: Tyler Warren | C-AVI: 81.6 | D-AVI: 90.0
+- FLEX: Rashee Rice | C-AVI: 66.6 | D-AVI: 87.3
+- FLEX: Jeremiyah Love | C-AVI: 65.8 | D-AVI: 89.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -93,6 +93,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Chuba Hubbard
+- Player name: Chuba Hubbard
+- Player ID: 7594
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: CAR
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 70.2
+- Dynasty AVI (D-AVI, 0-100): 80.8
+- Projected PPR points: 147.9
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Jeremiyah Love
 - Player name: Jeremiyah Love
 - Player ID: 13287
@@ -104,26 +121,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 65.7
+- Championship AVI (C-AVI, 0-100): 65.8
 - Dynasty AVI (D-AVI, 0-100): 89.5
 - Projected PPR points: 211.8
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Saquon Barkley
-- Player name: Saquon Barkley
-- Player ID: 4866
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: PHI
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 62.9
-- Dynasty AVI (D-AVI, 0-100): 85.0
-- Projected PPR points: 246.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 21.5
+- Championship AVI (C-AVI, 0-100): 21.6
 - Dynasty AVI (D-AVI, 0-100): 42.4
 - Projected PPR points: 36.2
 - Category: offense
@@ -206,9 +206,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 18.2
+- Championship AVI (C-AVI, 0-100): 18.3
 - Dynasty AVI (D-AVI, 0-100): 37.1
 - Projected PPR points: 10.5
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: DeVonta Smith
+- Player name: DeVonta Smith
+- Player ID: 7525
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 84.9
+- Dynasty AVI (D-AVI, 0-100): 91.9
+- Projected PPR points: 229.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -241,7 +258,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 66.6
-- Dynasty AVI (D-AVI, 0-100): 87.8
+- Dynasty AVI (D-AVI, 0-100): 87.3
 - Projected PPR points: 229.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -297,20 +314,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Trey McBride
-- Player name: Trey McBride
-- Player ID: 8130
+### PLAYER: Tyler Warren
+- Player name: Tyler Warren
+- Player ID: 12518
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: TE
 - Fantasy positions: ['TE']
-- NFL team: ARI
+- NFL team: IND
 - Active: True
 - Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 93.4
-- Dynasty AVI (D-AVI, 0-100): 92.7
-- Projected PPR points: 234.9
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 81.6
+- Dynasty AVI (D-AVI, 0-100): 90.0
+- Projected PPR points: 201.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -348,6 +365,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
+### PLAYER: Josh Hines-Allen
+- Player name: Josh Hines-Allen
+- Player ID: 5840
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: DL
+- Fantasy positions: ['DL', 'LB']
+- NFL team: JAX
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
 ### PLAYER: Jack Campbell
 - Player name: Jack Campbell
 - Player ID: 10880
@@ -365,34 +399,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Nik Bonitto
-- Player name: Nik Bonitto
-- Player ID: 8280
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: LB
-- Fantasy positions: ['DL', 'LB']
-- NFL team: DEN
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Jordan Battle
-- Player name: Jordan Battle
-- Player ID: 10927
+### PLAYER: Cole Bishop
+- Player name: Cole Bishop
+- Player ID: 11682
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: DB
 - Fantasy positions: ['DB']
-- NFL team: CIN
+- NFL team: BUF
 - Active: True
 - Status: Active
-- Age: 25.0
+- Age: 24.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

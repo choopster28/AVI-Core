@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-28T22:01:11.967540+00:00",
+  "generated_at_utc": "2026-10-29T01:53:44.747928+00:00",
   "statistics": {
-    "owner_trade_participations": 192,
+    "owner_trade_participations": 194,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -38,7 +38,8 @@
       {
         "partner_count": 5,
         "partners": [
-          "Rapid Valley Annihilation"
+          "Rapid Valley Annihilation",
+          "Big Balder Brand"
         ],
         "roster_id": 11,
         "team_name": "Corgi Loaf Baking Co. "
@@ -142,18 +143,18 @@
         "by_season": {
           "2024": 7,
           "2025": 4,
-          "2026": 16
+          "2026": 17
         },
         "firsts_in": 7,
         "firsts_out": 10,
         "owner_display_name": "awang1900",
         "picks_in": 10,
         "picks_out": 16,
-        "players_in": 38,
-        "players_out": 37,
+        "players_in": 40,
+        "players_out": 40,
         "roster_id": 11,
         "team_name": "Corgi Loaf Baking Co. ",
-        "total": 27
+        "total": 28
       },
       {
         "by_season": {
@@ -176,18 +177,18 @@
         "by_season": {
           "2024": 7,
           "2025": 2,
-          "2026": 12
+          "2026": 13
         },
         "firsts_in": 1,
         "firsts_out": 4,
         "owner_display_name": "Choopski",
         "picks_in": 3,
         "picks_out": 8,
-        "players_in": 31,
-        "players_out": 33,
+        "players_in": 34,
+        "players_out": 35,
         "roster_id": 9,
         "team_name": "Big Balder Brand",
-        "total": 21
+        "total": 22
       },
       {
         "by_season": {
@@ -406,10 +407,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 52
+      "2026": 53
     },
-    "two_team_trades": 93,
-    "unique_completed_trades": 95
+    "two_team_trades": 94,
+    "unique_completed_trades": 96
   },
   "trades": [
     {
@@ -7117,6 +7118,86 @@
       ],
       "transaction_id": "1418632761677299712",
       "week": 7
+    },
+    {
+      "created_at_utc": "2026-10-28T22:55:55.047000+00:00",
+      "created_timestamp_ms": 1793228155047,
+      "roster_ids": [
+        9,
+        11
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "12518",
+              "player_name": "Tyler Warren"
+            },
+            {
+              "player_id": "7525",
+              "player_name": "DeVonta Smith"
+            },
+            {
+              "player_id": "7594",
+              "player_name": "Chuba Hubbard"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "4866",
+              "player_name": "Saquon Barkley"
+            },
+            {
+              "player_id": "8130",
+              "player_name": "Trey McBride"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2026,
+          "team_name": "Big Balder Brand"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "4866",
+              "player_name": "Saquon Barkley"
+            },
+            {
+              "player_id": "8130",
+              "player_name": "Trey McBride"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "12518",
+              "player_name": "Tyler Warren"
+            },
+            {
+              "player_id": "7525",
+              "player_name": "DeVonta Smith"
+            },
+            {
+              "player_id": "7594",
+              "player_name": "Chuba Hubbard"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        }
+      ],
+      "transaction_id": "1421305533410873344",
+      "week": 8
     }
   ]
 }

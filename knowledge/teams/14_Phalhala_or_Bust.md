@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1132141719354535936
 - Division: 3
 - Waiver position: 1
-- Last updated from Sleeper exports: 2026-10-28
+- Last updated from Sleeper exports: 2026-10-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 501.5
-- championship_lineup_c_avi_avg: 62.69
-- offensive_roster_c_avi_sum: 616.8
-- offensive_roster_c_avi_avg: 51.40
+- championship_lineup_c_avi_sum: 501.6
+- championship_lineup_c_avi_avg: 62.70
+- offensive_roster_c_avi_sum: 616.9
+- offensive_roster_c_avi_avg: 51.41
 - offensive_roster_d_avi_sum: 904.0
 - offensive_roster_d_avi_avg: 75.33
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -33,7 +33,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - QB: C.J. Stroud | C-AVI: 48.3 | D-AVI: 69.9
 - RB: Ashton Jeanty | C-AVI: 86.8 | D-AVI: 94.9
 - RB: Jaylen Warren | C-AVI: 76.2 | D-AVI: 82.6
-- WR: Michael Wilson | C-AVI: 63.3 | D-AVI: 83.5
+- WR: Michael Wilson | C-AVI: 63.4 | D-AVI: 83.5
 - WR: Rome Odunze | C-AVI: 51.2 | D-AVI: 82.6
 - TE: Sam LaPorta | C-AVI: 75.9 | D-AVI: 87.2
 - FLEX: Hunter Henry | C-AVI: 58.7 | D-AVI: 71.7
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 63.3
+- Championship AVI (C-AVI, 0-100): 63.4
 - Dynasty AVI (D-AVI, 0-100): 83.5
 - Projected PPR points: 166.0
 - Category: offense

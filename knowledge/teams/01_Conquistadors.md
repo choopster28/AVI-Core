@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 15
-- Last updated from Sleeper exports: 2026-10-28
+- Last updated from Sleeper exports: 2026-10-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -25,8 +25,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - championship_lineup_c_avi_avg: 85.86
 - offensive_roster_c_avi_sum: 1054.0
 - offensive_roster_c_avi_avg: 58.56
-- offensive_roster_d_avi_sum: 1386.3
-- offensive_roster_d_avi_avg: 77.02
+- offensive_roster_d_avi_sum: 1386.9
+- offensive_roster_d_avi_avg: 77.05
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Puka Nacua | C-AVI: 97.8 | D-AVI: 99.1
 - WR: George Pickens | C-AVI: 84.8 | D-AVI: 94.1
 - TE: Isaiah Likely | C-AVI: 80.4 | D-AVI: 85.1
-- FLEX: Matthew Golden | C-AVI: 72.4 | D-AVI: 87.0
+- FLEX: Matthew Golden | C-AVI: 72.4 | D-AVI: 87.6
 - FLEX: Breece Hall | C-AVI: 71.1 | D-AVI: 89.5
 
 ## Current Roster — All Player Cards
@@ -224,7 +224,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 72.4
-- Dynasty AVI (D-AVI, 0-100): 87.0
+- Dynasty AVI (D-AVI, 0-100): 87.6
 - Projected PPR points: 170.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

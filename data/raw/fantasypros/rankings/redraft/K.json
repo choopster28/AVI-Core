@@ -1059,7 +1059,7 @@
     },
     {
       "cbs_player_id": "3163734",
-      "player_bye_week": null,
+      "player_bye_week": "11",
       "player_ecr_delta": null,
       "player_eligibility": "K",
       "player_filename": "joshua-karty.php",
@@ -1072,7 +1072,7 @@
       "player_position_id": "K",
       "player_positions": "K",
       "player_short_name": "J. Karty",
-      "player_team_id": "FA",
+      "player_team_id": "LAR",
       "player_yahoo_id": "41081",
       "player_yahoo_positions": "K",
       "pos_rank": "K40",

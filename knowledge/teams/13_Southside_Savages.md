@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 998253660243054592
 - Division: 2
 - Waiver position: 6
-- Last updated from Sleeper exports: 2026-10-28
+- Last updated from Sleeper exports: 2026-10-29
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,17 +21,17 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 502.6
-- championship_lineup_c_avi_avg: 62.83
-- offensive_roster_c_avi_sum: 670.6
-- offensive_roster_c_avi_avg: 47.90
+- championship_lineup_c_avi_sum: 502.7
+- championship_lineup_c_avi_avg: 62.84
+- offensive_roster_c_avi_sum: 670.7
+- offensive_roster_c_avi_avg: 47.91
 - offensive_roster_d_avi_sum: 986.0
 - offensive_roster_d_avi_avg: 70.43
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Drake Maye | C-AVI: 88.4 | D-AVI: 90.0
-- RB: Josh Jacobs | C-AVI: 62.1 | D-AVI: 78.9
+- RB: Josh Jacobs | C-AVI: 62.2 | D-AVI: 78.9
 - RB: Emanuel Wilson | C-AVI: 51.4 | D-AVI: 59.9
 - WR: Tetairoa McMillan | C-AVI: 81.8 | D-AVI: 94.0
 - WR: Luther Burden III | C-AVI: 75.3 | D-AVI: 90.5
@@ -87,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 62.1
+- Championship AVI (C-AVI, 0-100): 62.2
 - Dynasty AVI (D-AVI, 0-100): 78.9
 - Projected PPR points: 139.4
 - Category: offense

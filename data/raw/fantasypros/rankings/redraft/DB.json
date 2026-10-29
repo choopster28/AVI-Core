@@ -7713,7 +7713,7 @@
     },
     {
       "cbs_player_id": "2242763",
-      "player_bye_week": "8",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "jack-jones.php",
@@ -7726,7 +7726,7 @@
       "player_position_id": "CB",
       "player_positions": "CB",
       "player_short_name": "J. Jones",
-      "player_team_id": "SF",
+      "player_team_id": "FA",
       "player_yahoo_id": "34077",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB137",
