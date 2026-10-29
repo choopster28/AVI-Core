@@ -1,5 +1,41 @@
 [
   {
+    "id": "mvtwtb29-54cab277",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Jakobi Meyers",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 1st · Ravens · Projected Mid · original owner Ravens Regime",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "De'Von Achane",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1793300496705,
+    "updatedAt": 1793300496705,
+    "expiresAt": 1793732496705,
+    "status": "queued"
+  },
+  {
     "id": "mvtwkiqw-b3a24a9c",
     "phase": "initial",
     "mode": "improve_team",
