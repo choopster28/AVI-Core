@@ -1,5 +1,41 @@
 [
   {
+    "id": "mvtkd7cx-dcc2b888",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "partnerGoal": "Increase Championship Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Garrett Wilson",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1793279590017,
+    "updatedAt": 1793279590017,
+    "expiresAt": 1793711590017,
+    "status": "queued"
+  },
+  {
     "id": "mvt3864y-58dd2ed2",
     "phase": "initial",
     "mode": "shop_assets",
