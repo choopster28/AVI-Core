@@ -13,9 +13,341 @@
       "personalContext": "I'd like to keep DJ, open to shopping any of the RBs + the 2027 2nd to either upgrade flex or RB1"
     },
     "createdAt": 1793379401344,
-    "updatedAt": 1793379403314,
+    "updatedAt": 1793379413639,
     "expiresAt": 1793811401344,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. possesses elite core assets at WR and TE (Jaxon Smith-Njigba, Malik Nabers, Trey McBride) and a deep bench of starting-caliber RB/WR pieces. Incorporating personal context to protect DJ Moore while offering alternative running back and draft capital packages, Corgi Loaf can consolidate depth into high-impact starting studs at RB to maximize immediate championship win probability.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Playoff Push",
+          "strengths": [
+            "Elite cornerstone pass-catchers with Jaxon Smith-Njigba, Malik Nabers, and Trey McBride",
+            "Deep pool of startable offensive skill players providing flexible trade packaging",
+            "Solid future pick inventory including 2027 2nd-round draft capital"
+          ],
+          "priorityNeeds": [
+            "Tier-1 elite WR score multiplier to solidify weekly ceiling",
+            "High-volume RB1 production to anchor playoff matchups",
+            "Lineup consolidation from surplus depth into targeted studs"
+          ],
+          "tradeableSurplus": [
+            "Starting-caliber QB capital in Patrick Mahomes",
+            "Quality startable RB depth (Saquon Barkley, David Montgomery, Rhamondre Stevenson)"
+          ],
+          "constraintsApplied": [
+            "Personal context constraint enforced: DJ Moore is protected and excluded from trade packages",
+            "Draft capital utilized: 2027 2nd-round draft pick included as sweetening asset",
+            "Strict ownership verification enforced against official roster files",
+            "Mandatory two-organization goal alignment enforced for every trade partner"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Conquistadors' top target De'Von Achane is out for the season with an ACL injury (C-AVI 0)",
+            "Rebuilding franchises lacking immediate elite C-AVI assets required for a championship run"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Ravens Regime ",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Derrick Henry",
+                "assetType": "player",
+                "owner": "Ravens Regime",
+                "position": "RB",
+                "age": 32,
+                "cavi": 80.8,
+                "davi": 85.7,
+                "publicMarket": 82,
+                "leagueMarket": 81
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 62.9,
+                "davi": 84.9,
+                "publicMarket": 80,
+                "leagueMarket": 82
+              },
+              {
+                "name": "2027 2nd Round Pick",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": null,
+                "publicMarket": null,
+                "leagueMarket": null
+              }
+            ],
+            "scenarioType": "In-Season Ceiling Upgrade",
+            "strategicGoal": "Upgrade immediate RB1 scoring for the championship playoff push using running backs and future draft capital",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 21,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 79,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Derrick Henry provides explosive touchdown and yardage ceiling at RB (C-AVI 80.8), immediately raising weekly RB floor for Corgi Loaf's title push while keeping DJ Moore.",
+            "whyOpponentMightAccept": "Ravens Regime receives Saquon Barkley as a direct backfield replacement while picking up a valuable 2027 2nd-round pick to offset value.",
+            "championshipImpact": "Immediate boost to starting RB production for crucial late-season matchups.",
+            "dynastyImpact": "Trades slight long-term age advantage and a future pick for maximum short-term championship ceiling.",
+            "rosterImpact": "Converts running back depth and future draft capital into high-volume RB1 firepower without touching WR depth.",
+            "publicMarketContext": "Henry continues to dominate goal-line work in Baltimore. Barkley remains an elite focal point in his backfield.",
+            "risks": [
+              "Age curve risk on 32-year-old running back",
+              "Loss of future 2nd-round draft capital"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Saquon Barkley for Derrick Henry straight up.",
+              "acceptableConcession": "Include the 2027 2nd-round pick to finalize the deal.",
+              "walkAwayPoint": "Walk away if additional prime assets are required."
+            }
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Gringo’s Goblins ",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Kyren Williams",
+                "assetType": "player",
+                "owner": "Gringo’s Goblins",
+                "position": "RB",
+                "age": 26,
+                "cavi": 86.1,
+                "davi": 90.5,
+                "publicMarket": 88,
+                "leagueMarket": 87
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Rhamondre Stevenson",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 28,
+                "cavi": 65,
+                "davi": 77.9,
+                "publicMarket": 72,
+                "leagueMarket": 74
+              },
+              {
+                "name": "2027 2nd Round Pick",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": null,
+                "publicMarket": null,
+                "leagueMarket": null
+              }
+            ],
+            "scenarioType": "Retool Target Exploitation",
+            "strategicGoal": "Acquire high-volume young RB1 for immediate and multi-year contention using RB depth and a 2027 2nd",
+            "scoring": {
+              "availability": 20,
+              "opposingGmMotivation": 20,
+              "packageMatch": 17,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 75,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Kyren Williams offers high-volume elite RB scoring (C-AVI 86.1, D-AVI 90.5) at 26 years old while keeping DJ Moore firmly on the roster.",
+            "whyOpponentMightAccept": "Gringo's Goblins are in Retool status and acquire a starting running back along with valuable draft capital.",
+            "championshipImpact": "Solidifies the RB spot with an elite weekly RB1 workload.",
+            "dynastyImpact": "Gains a 26-year-old top-tier dynasty RB with high role stability.",
+            "rosterImpact": "Upgrades starting RB tier while preserving all desired core receivers.",
+            "publicMarketContext": "Kyren Williams commands heavy touch share in Los Angeles.",
+            "risks": [
+              "Heavy touch load on Williams in Rams offense",
+              "Reduces draft pick inventory"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Rhamondre Stevenson and the 2027 2nd-round pick for Kyren Williams.",
+              "acceptableConcession": "Upgrade the secondary piece slightly if needed, while protecting DJ Moore.",
+              "walkAwayPoint": "Walk away if JSN, Nabers, or excessive extra picks are demanded."
+            }
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Applied user preference to keep DJ Moore out of all trade packages. Swapped DJ Moore out of the recommended proposals and replaced him with the 2027 2nd-round draft pick alongside running back assets to pursue upgrades at RB."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Patrick Mahomes news 2026 fantasy",
+          "Amon Ra St Brown news 2026 fantasy",
+          "Christian Watson news 2026 fantasy",
+          "DeVon Achane news 2026 fantasy",
+          "DJ Moore news 2026 fantasy",
+          "Jaxon Smith Njigba 2026 fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEonyEhMo7Dgu4rKh8thDnEaF4-euwDYnAfXOdN4glhxRk3yk4CxDgJdLCq8fE4PXhIh63SlEpFv0PF_XNjJKzg_K9btmWZ518_kKyltvlu8nCIloC2EzU3LjREgu6LWHQpC95ccIbuRa6qxNVivMui",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBTSLEBPlE4wMooznC7BUuKdWNozY-V5PCtGVVTycrleRFoZYIhhq0YlJXZDZl3r0UggJ_5WCFWWNUGKu_CTkeWeDHd3WeAEFhGh-yscwJc4tsZW9ntft_cA1OhDFi-N6Wy_aMzTNjEf-yv5d8PKlhXLI8foNoipH2_5IHE-OTHrRpt6E8089TDY2G0WMd0gV_GBK4_g==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk76JYQS-8EO_qhOzXegu3_lBX9EmESJ6nSmrfHFoyOVbxP8RZwrdbkhdmkdL1IXFXFTJbCGcFQced7Cqz8zVr1uNqE1Sj5jexUYo417yME4yDhmV7lJ9mvSzHvwirFQj4gQhHIUXP6LwFwwKRZkXFRDlhfCH5NR2X56aQHw-u8372u-6oEtNslM7GP5rwVH93",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm6u0GNRjcHgXLtmQkJL6tITKk4LfPaYqn6nUKdmRBYQ9F1rW18XhjFn-FdPEAQcwkfX8bQes3TBLdZLWM_lWzXp-VAlL9j5AmRsI6keTH1j9kzVChYOaaOqo4JEPf02VocThOyJ_f0yGteNE_uwyFiIu9TmaIaJIc3ZGZMFihBLaFx6BreJ9ibgPHNA==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuTPcCOF8EMae7zD12hfws3vMpH0HfDZCWjMR2JI1rDhb4E8ZJ1uWD5z2hv3iHUls8eViF5tM-ZoUsz0bF_WmFo5vqK9W-nzJhNQ899USEBhhRVHHevUPH79HdPBqbphmPa40_PY7pDFiAnn1UZYRATi2K8Ufi7VDRHxysVBv3rEVPRj1VEfssyDPIIpqTP_y7jIWWFwDerPesw5k=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu1B7w6k3XqDUbqN3BIR1Qqhcpe0NPjFNDk3qmu1QLxsTdLgoOL6LNKYKNazzro5NI6Km6KLjqBrHLh0bBDinaQl2V9egqpX9rWmi51509yK8UTLUe4dQid8eLUb4smsN7EgB84kcY_HXDW4EmxB94KsR0mRiRqoMaO4RpXNSfylqAMShkRYWZmI0PLJL3DVfjKEtB0dOWYm5UE8I8Ak4_2kvzTXu5mwyrXJXqvw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyW-Cw8Mtg1dKtu4zxb2lfpfhkQ5Tb7LuMhxEA5yJx0HoA_Zh2nSNd05XjP9WaTB8QTlmtHeZf0cfYm7Djff0cQMAXmuuO6i2XwFs1yFD55CzorMx9M6F6h9S--TJQGPp0xEV0Ef1bNSeBX88SNEb4X_LgvJghD1X_5Kr8-SdeSGR8tdIWTQZ2ZJSMt4Vit7KRDCp0hFvjXG7WMmjhpqioU7APh1Ls",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfQvZ7NPUnfbEDITrz8Pats5LoEqV0TsnLirtFaPq4VOKzKQdZ2OBsBMzFzK6gIFu3c2p2Mim3tFbsyVGut4-jpuNK3LFrBgMztaRn21yZqVm93zzpvtcA4RnV2mLEP9_gS7jbpRU8K6qKaWpATh92Ly5YNzCHIRvONRet1A==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjkPoftsz-du-lIDhQMdeCE8EimfCuq2d7E6QNCQfuKwYE4dqdF9BJavcGNCE3p82RMpw_ueLhoKMEdT2ocFym2iKNtS-pOka3Bb0SlV84gaTy3nSwT_hn9cmzcqIkuOU_x3XeFMkY5WD58PZWhS0KSu2f--tl4sw6wyHXO_t6VCQtRbWtLIvno9BHlYF3_uLBa3Ss-n8RNwSsGzorQNTFKTrhIQxEUSAQyUMtxQ==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7WRzRMgrteIj2ICRxxDSW2Aqmdy-eBp6Jd2gMyDKYlZKIa2nG4hpHc8uHMjV40O74Q4Fl5zl91T69fXHuAjvsZVvOqRru08e2rx7Loxw4kQe-KtryVuysBBaTXqL3WAs0Sz9WCDMH5YVt8kfSvwe0KAEp9w==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpWiwjjn3JiCsAa6jTJPh_Aj1MyinGHK0w1sV9rlykOUpB6cEQ5m93ofI4s9gRG6MvikdaVvGwOS7nqr2HsNgO0Dx1-GgRr6gDHst5Qbtp2p2FyD08hOWa1nZk-sQTWmWiFPd6YahEVOEj_Qo_qtgY3Qs=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaLUFR6Sl7tPBBKLTOCLS5HtWSO_4j9uXNYgeLM_yXrPDeWfaPEFgc7O9cvtabYtvYspqafrRZYMkXT3NqUlbtxvFdJKmNRMBx07qOH3yFBmYeMXoMnH0EJLEFc1lshHq9EXefAF_HFHpmV9rD",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPV591ZsfO-_RFH5xeab8lC55ciEK8in4Na-G73ZX-OpwXxEcKYFIYHNArxQKMJfBEwD5LWCtpBTvdgof_xl32cU0qIdOivs71gujtgNk-Z4CG7kouAm8hMR3Og3LExzQaNW16SZYpXl06klUxBteu-w==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG80dX6THSn81POssbEPnHTaWDhMLAfvJhkfDI0vy40vdLgcHRGRm00j6YFWpIc9trVXR_VZ3ivSiv9n5K8SHaBgAzgBz4-OY8EZjv4lBDbollzbX-tIYEr0lh3OlxT57C4NTdHzls8C4bYTqCjo1LgL53ZQAYtkExfzBEMb_HVvYIewPDhjMhv6Sb8AsJVdNpNZRx9W6N49MbRKme2Vv6SrQpnUGu1rg==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETLVZjsBK6koeo5pEMyREBZiXRelc3clCdycsee7MxQjXykwyPWL2cdk5kvhn-8zYQURK2DgPAFmGWjpyy3awGJSmLCbcdqpP7gSxGSE-iAK_biVW_suZiE0pq7eATQOGorCpv1n9GpaeK-BWdq7kEU33MM70m_qwzJAYXA8bVa9H_YqnY3Ca-Szu6E4NRXtNomQ0ZKmyVv1x0aAhSaxr7PtssBA==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVxBU6ax5IoshdlQkGBNW6732SLW6-0xpijOXwy2FWCmxt0cRwAKRW6rvh6b69UZwwQ6ctxF3tCe1fAzrToetoxX0M7dyFM74LzsqsObt_ihudX2h6TB9Hu_fA7Y5xryBmXpur4n3tX1QyV4bkHqZODg3LIP7j2PCMt2pFrSGagm2JgnmGqImrWcazNIY=",
+            "title": "thefantasyfootballers.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Amon-Ra St. Brown",
+          "Patrick Mahomes",
+          "Christian Watson",
+          "Jaxon Smith-Njigba",
+          "De'Von Achane",
+          "DJ Moore"
+        ],
+        "aviCoreCommitSha": "013beb0a3522d1a9eb819c006eebfe999629758a",
+        "aviCoreCommittedAt": "2026-10-30T14:24:11Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 542687,
+        "personalContextProvided": true,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 249,
+          "starterCaliberPoolSize": 128
+        },
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mvv7nz7t-bfba7b8c",
+        "verifiedCandidateContext": false,
+        "refinementDataVersion": "013beb0a3522d1a9eb819c006eebfe999629758a"
+      }
+    }
   },
   {
     "id": "mvv7nz7t-bfba7b8c",
