@@ -1,5 +1,344 @@
 [
   {
+    "id": "mvufzfrz-73614cae",
+    "createdAt": 1793332767302,
+    "expiresAt": 1793764767302,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Corgi Loaf Baking Co. ↔ Conquistadors",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Devaughn Vele",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. (pursuing a championship) sends a 2027 2nd-round draft pick (Badlands, 48.5 AVI) to Conquistadors (Champion Favorite) in exchange for WR Devaughn Vele (55.4 C-AVI / 65.0 D-AVI). In this deep 16-team format, Vele provides immediate starter/FLEX rotation value (91% snap share, 33 receptions through 7 games in 2026). Conquistadors convert bench WR depth into a liquid future 2nd-round asset without altering their core starting lineup of Allen, Robinson, Taylor, Nacua, Pickens, Likely, Golden, and Hall.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Devaughn Vele",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 28,
+              "cavi": 55.4,
+              "davi": 65,
+              "publicMarket": 52,
+              "leagueMarket": 55.4
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Corgi Loaf acquires Saints WR Devaughn Vele (55.4 C-AVI) for a 2027 2nd-round pick. Vele provides instant FLEX/WR depth that upgrades Corgi Loaf's starting rotation alongside Jaxon Smith-Njigba, Malik Nabers, and DJ Moore. Conquistadors acquire draft pick liquidity to enhance future in-season flexibility while preserving their top starting lineup."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The submitted offer is approved as-is. It efficiently exchanges future draft capital for active, high-snap starting FLEX depth in a 16-team league."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 28,
+              "summary": "Vele's 55.4 C-AVI provides a startable weekly floor during the playoff stretch."
+            },
+            "dynastyOutlook": {
+              "score": 10,
+              "summary": "Acquires a 28-year-old starting receiver with 65.0 D-AVI in exchange for a future 2nd."
+            },
+            "lineupQuality": {
+              "score": 25,
+              "summary": "Upgrades the active FLEX2 rotation over lower-projected bench assets."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Adds essential wide receiver insulation across a deep 16-team league roster."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Surrenders a 2027 2nd-round draft pick."
+            },
+            "overall": {
+              "score": 6,
+              "summary": "Strengthens immediate starting FLEX depth for a championship push at reasonable draft cost."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -5,
+              "summary": "Slightly reduces receiver depth behind Nacua and Pickens."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Adds a 2027 2nd-round pick to bolster future draft capital."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Top 8 championship starting lineup remains completely intact."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Transfers secondary receiver depth off the bench."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Gains a 2027 2nd-round pick for additional trading leverage."
+            },
+            "overall": {
+              "score": -6,
+              "summary": "Monetizes bench WR depth into liquid draft capital for future moves."
+            }
+          },
+          "explanation": "The deal offers a strong strategic balance: Corgi Loaf gets immediate FLEX scoring help for its title push, while Conquistadors add draft capital without disrupting their championship starting lineup."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf inserts Devaughn Vele (55.4 C-AVI) directly into their active FLEX/WR rotation, raising weekly baseline points.",
+          "sideADynastyImpact": "Surrenders a 2027 2nd (48.5 D-AVI) for a 28-year-old wideout holding a 65.0 D-AVI.",
+          "sideARosterImpact": "Provides crucial WR depth behind Jaxon Smith-Njigba and Malik Nabers.",
+          "sideBChampionshipImpact": "Zero impact on Conquistadors' starting 8 lineup, as Vele operates as a bench receiver behind Nacua, Pickens, and Golden.",
+          "sideBDynastyImpact": "Acquires a 2027 2nd-round pick (48.5 D-AVI) for a non-starting bench player.",
+          "sideBRosterImpact": "Opens a bench spot while converting depth into future pick flexibility.",
+          "valueAssessment": "Fair, market-aligned exchange that serves the competitive goals of both franchises."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Devaughn Vele has earned a 91% snap share in New Orleans with 33 receptions for 348 yards and 3 TDs through 7 games in 2026. Public market sentiment classifies him as a solid high-floor WR56-WR76 dynasty piece whose target volume faces potential competition as rookie WR Jordyn Tyson nears a return.",
+          "aviVsMarket": "AVI values Vele at 55.4 C-AVI / 65.0 D-AVI, aligning closely with public consensus as a startable WR3/FLEX in 16-team formats.",
+          "relevantContext": [
+            "Vele has recorded 33 catches for 348 yards and 3 TDs through 7 games in 2026.",
+            "Maintains a 91% offensive snap share under Saints QB Tyler Shough.",
+            "Rookie WR Jordyn Tyson is nearing return from injury, which may moderate Vele's ceiling.",
+            "In 16-team PPR formats, high-snap starting WRs routinely command late 2nd-round pick value."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors hold an elite starting lineup and can convert bench receiver depth into a 2027 2nd-round pick to rebuild draft capital.",
+          "packageFit": "Clean 1-for-1 pick-for-player package that directly supports Corgi Loaf's push to increase championship odds.",
+          "lineupReplacement": "Conquistadors' top starting lineup (Allen, Bijan, JT, Nacua, Pickens, Likely, Golden, Hall) is unaffected.",
+          "competitiveWindowFit": "Fits both franchises' championship goals by giving Corgi Loaf active production and Conquistadors trade liquidity.",
+          "positionalScarcity": "Starting receivers with secured snap volume are scarce and valuable in a 16-team league."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 25,
+            "opposingGmMotivation": 20,
+            "packageMatch": 17,
+            "lineupReplacement": 15,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 85,
+          "classification": "Realistic",
+          "explanation": "Conquistadors do not rely on Vele in their starting lineup. Acquiring a 2027 2nd-round pick for a bench receiver is a realistic offer that aligns with their front-office preferences."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "Trading a 2027 2nd-round pick for Devaughn Vele immediately improves Corgi Loaf's starting FLEX/WR depth without surrendering any current lineup assets. In a 16-team league, acquiring a receiver playing 91% of NFL snaps for future pick capital directly advances Corgi Loaf's goal to Win Championship.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Devaughn Vele",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 28,
+              "cavi": 55.4,
+              "davi": 65,
+              "publicMarket": 52,
+              "leagueMarket": 55.4
+            }
+          ],
+          "whyUserShouldDoIt": "Vele provides immediate starting FLEX points (55.4 C-AVI) for a pick that contributes zero fantasy points during the 2026 title run.",
+          "whyOpponentMightAccept": "Conquistadors convert a bench wideout into a liquid 2027 2nd-round pick while maintaining their elite starting lineup intact."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Devaughn Vele",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 28,
+              "cavi": 55.4,
+              "davi": 65,
+              "publicMarket": 52,
+              "leagueMarket": 55.4
+            },
+            {
+              "name": "2027 5th (Conquistadors)",
+              "assetType": "pick",
+              "owner": "Conquistadors",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 0,
+              "leagueMarket": 0
+            }
+          ],
+          "rationale": "If Corgi Loaf wishes to recoup a minor late-round draft asset, adding a 2027 5th balances the future draft capital exchange."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Devaughn Vele fantasy 2026",
+          "Devaughn Vele NFL stats contract news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPihX21VobqaSdXtc62TCpJnWnwDawkkZ-yeWFFa86RzBm6MlZNPkGnTEvx30zAYp80uCyrLrEhuihNfBmfVFhulUTT0aD0rY6tqUAm5biDccgpDSQ-WT847pnxh-jZj1bQTSrxYHbXuBA-RpWB679",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdk14kntIhvP1ioFEurnN9DFSE0Jepxmx1mafh8vOYsZXS_FOEPtCHaTnSBwjQ2n1_WE7Pj5K-RjjNvcTB8o5oOA1prN0Gp5SQEUIh1XVwa2SpewmE_XTdAynvl18X3SPnX_1Eruo2TuBGcKkdyrRBWxmiZ1yJTAF-",
+            "title": "neworleanssaints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnGlNvobvhuE8NKgB6wk6V6-Ka9MaDJlT2dpT8F6YXuoG7KIAF6Ui0XVixjSFkiPHmQa7sLlD0E4fSLblHaJbnK2D9Yvs4ET6S3Ifg3dVNj9Vi8yr_Nl924Ru_IO3mnAZqdFZaO7KtD__y_CA6IvMe",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGYHID_UXrSEvSeZ8dHebmbqTLxmLs2zGWvphXCebJzlYi1vcXTN4kiJbyEx7W34U_b7vazmmtySyN6-CZFgDfA6aBLjpBgQytl6OIJFc3bMq0HDYz1OFwOIT6NnrsgoulDfbBv2RQjmRrhJAn_FwsQMI=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA1t50NpRmhFeFl_eT6pUFmo8i3ZI0XuC3YajpzFUic1CJHcs0wFwX9JK54juUDXb89G-2svRc9jd-T0kVjWm8S99a9JVbq7o1bb9o7oKU0X0aIg5m5FKjPh6WvZLBf0iTo4b4ZrWsmZQVhLEW6Q==",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErDgJRY3wD6GCzjG8JEoD8CsJnZHqOki4uXYJ7Cv9-xs2J7Yvzjd8_j36NV1pAurpFPtyruUVKMJHU78EXl5YtDxlPbAJVANFWITRsRwGecp3o7apKhiLkDhtdP5yXNAimar7KRqtcbaIubSYBPAw=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE7vrlmHxELIpiAfCJT-9qPCEII2gkRF1ZZUjBPWhvGgA139UIb1AerSPv4ZYrBo1sEVaCJPStQxFUcMFODczjWjgFpgVy9Jr-yPrJ-fN_tKm_f2cquJSF09ywUGv-jJQzRna349KikKiggwHKOp4dYTpTctoNMDBfSdovJrclm7TWaXcLX129GqZJFZZ5QXe_LoLGDIMPwtSQU-yK9_cy",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYp4gFER1wN6ib1FVdIsFq9MJ9Pwfp5_jVXYni0jqdDXligYCqA9mFgQh0nzQCZmYu6EMykOvq4Tv5NfS04CXoh-EBvAH8pAF3udF29jA3dOJgaX9w-m5-5EYfUzsxq8ehRXJ42cliFcScmFIz5VQ5EGwxnwpJh-zNLwaiPO2wqmaId7MNY2ZDOtSzwBOLqSorfjbASfFqltVqONqz",
+            "title": "profootballnetwork.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "fe7025de6fa4aadb9d0a02152493e26fc1b7193e",
+        "aviCoreCommittedAt": "2026-10-30T02:02:51Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 92081,
+        "groundedMarketChars": 2671,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": true
+      }
+    }
+  },
+  {
     "id": "mvtruuo6-a9876a64",
     "createdAt": 1793292219087,
     "expiresAt": 1793724219087,
