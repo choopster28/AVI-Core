@@ -1,5 +1,35 @@
 [
   {
+    "id": "mvv5pvvi-a07e40f1",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "partnerGoal": "Increase Championship Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "Garrett Wilson",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "A.J. Brown",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "I really don’t want to move Hubbard, Tuten or Love"
+    },
+    "createdAt": 1793375919981,
+    "updatedAt": 1793375919981,
+    "expiresAt": 1793807919981,
+    "status": "queued"
+  },
+  {
     "id": "mvv5ktjb-76dca402",
     "phase": "initial",
     "mode": "propose_trade",
