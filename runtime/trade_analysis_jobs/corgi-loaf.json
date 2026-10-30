@@ -27,9 +27,319 @@
       "alternateAssets": []
     },
     "createdAt": 1793333073570,
-    "updatedAt": 1793333075250,
+    "updatedAt": 1793333156496,
     "expiresAt": 1793765073570,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. (Increase Championship Odds) proposes acquiring WR Tre Tucker from Badland Banditos (Win Championship) in exchange for a 2027 2nd-round draft pick. For Corgi Loaf, adding Tre Tucker provides an immediate +19.0 C-AVI boost to the FLEX slot over DJ Moore. However, Badland Banditos is an Elite Contender in a Win Championship window. Trading away an ascending 25-year-old receiver in the middle of a contract breakout year for a standalone future 2nd-round pick weakens Badland Banditos' active starting lineup and depth. Because the move damages Badland Banditos' title odds, the trade is unlikely to be accepted as constructed without immediate roster utility included.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Tre Tucker",
+              "assetType": "player",
+              "owner": "Badland Banditos",
+              "position": "WR",
+              "age": 25,
+              "cavi": 66,
+              "davi": 70.2,
+              "publicMarket": 68,
+              "leagueMarket": 66
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "D+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Corgi Loaf secures a significant starting FLEX upgrade (+19.0 C-AVI) by surrendering non-scoring future draft capital. Badland Banditos takes an immediate hit to their active lineup depth by surrendering a productive contract-year receiver for a future draft pick."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Adding WR Tank Dell to the 2027 2nd-round pick provides Badland Banditos with immediate receiving depth to cushion the loss of Tre Tucker while maintaining a clear net upgrade for Corgi Loaf's starting lineup."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 55,
+              "summary": "Tre Tucker (66.0 C-AVI) replaces DJ Moore (47.0 C-AVI) in the FLEX slot, raising starting C-AVI from 563.5 to 582.5."
+            },
+            "dynastyOutlook": {
+              "score": 25,
+              "summary": "Acquires a 25-year-old WR with rising target share and contract-year momentum."
+            },
+            "lineupQuality": {
+              "score": 50,
+              "summary": "Directly upgrades starting lineup scoring potential in a deep 16-team format."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Slight reduction in future draft capital, though bench depth remains intact."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Surrenders a liquid 2027 2nd-round draft pick."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Substantial overall benefit for Corgi Loaf by converting future capital into immediate starting lineup production."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -45,
+              "summary": "Removes a key active receiver (66.0 C-AVI) during a championship push."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Recovers their native 2027 2nd-round pick for future asset management."
+            },
+            "lineupQuality": {
+              "score": -40,
+              "summary": "Forces lower-projected options into regular starting or high-depth roles."
+            },
+            "depthResilience": {
+              "score": -30,
+              "summary": "Weakens receiving corps depth in high-volume game scripts."
+            },
+            "flexibilityLiquidity": {
+              "score": 35,
+              "summary": "Regains native 2027 2nd-round pick liquidity."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Net negative for an Elite Contender sacrificing active starting production for future pick capital."
+            }
+          },
+          "explanation": "The submitted deal strongly benefits Corgi Loaf's championship goal by turning draft capital into a +19.0 C-AVI FLEX upgrade. However, Badland Banditos suffers a net loss in active championship strength by surrendering a key contributor for future draft assets."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf gains +19.0 C-AVI in starting lineup strength by slotting Tre Tucker (66.0 C-AVI) into the FLEX slot over DJ Moore (47.0 C-AVI).",
+          "sideADynastyImpact": "Acquires a 25-year-old WR (70.2 D-AVI) experiencing a breakout contract season in Las Vegas.",
+          "sideARosterImpact": "Consolidates future draft capital into active starting lineup efficiency.",
+          "sideBChampionshipImpact": "Reduces active starting lineup output by surrendering a 66.0 C-AVI receiver for zero current-season fantasy points.",
+          "sideBDynastyImpact": "Reclaims a 2027 2nd-round pick (48.5 D-AVI) to add future liquidity.",
+          "sideBRosterImpact": "Creates an immediate depth gap at WR/FLEX for a contending roster.",
+          "valueAssessment": "Tre Tucker (66.0 C-AVI / 70.2 D-AVI) commands higher immediate lineup value than a single future 2nd-round pick (48.5 AVI) for a championship contender."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Tre Tucker is experiencing a contract-year breakout with the Raiders under Klint Kubiak, commanding heavy target volume and delivering WR2/3 fantasy performance.",
+          "aviVsMarket": "AVI's valuation of 66.0 C-AVI aligns with public market sentiment, treating Tucker as a legitimate fantasy starter due to high snap shares and target concentration.",
+          "relevantContext": [
+            "Tre Tucker is in his contract year with snap shares routinely exceeding 80%.",
+            "Averaging heavy target volume over recent weeks with high downfield involvement.",
+            "A 2027 2nd-round pick offers future liquidity but zero 2026 scoring contribution."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Badland Banditos is an Elite Contender focused on winning the championship; trading away a productive 25-year-old WR starter for a future pick conflicts with their title push.",
+          "packageFit": "A standalone 2nd-round pick is an incomplete return for a contender surrendering a starting receiver.",
+          "lineupReplacement": "Losing Tucker forces Badland Banditos to rely on lower-tier starters or inactive options.",
+          "competitiveWindowFit": "Does not align with Badland Banditos' current championship window, though fits Corgi Loaf's needs perfectly.",
+          "positionalScarcity": "In a 16-team PPR league, startable wide receivers with consistent target volume carry a distinct premium over future 2nd-round picks."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 8,
+            "packageMatch": 10,
+            "lineupReplacement": 5,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 45,
+          "classification": "Unlikely",
+          "explanation": "Badland Banditos is an Elite Contender striving to Win Championship. Moving a productive 25-year-old starter like Tre Tucker for a standalone 2027 2nd-round pick damages their starting lineup depth and current title odds."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Acquiring Tre Tucker provides Corgi Loaf a valuable +19.0 C-AVI FLEX boost for a single 2027 2nd pick. However, Badland Banditos has an acceptance probability of only 45% because the trade weakens their active lineup during a title push. Corgi Loaf should revise the offer by adding WR Tank Dell alongside the pick to provide Badland Banditos with immediate replacement depth.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "Tank Dell",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 24.5,
+              "davi": 56.6,
+              "publicMarket": 40,
+              "leagueMarket": 35
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tre Tucker",
+              "assetType": "player",
+              "owner": "Badland Banditos",
+              "position": "WR",
+              "age": 25,
+              "cavi": 66,
+              "davi": 70.2,
+              "publicMarket": 68,
+              "leagueMarket": 66
+            }
+          ],
+          "whyUserShouldDoIt": "Corgi Loaf secures Tre Tucker (66.0 C-AVI) to deliver a net +19.0 C-AVI boost to the starting FLEX slot while only giving up bench depth (Tank Dell) and a future 2nd-round pick.",
+          "whyOpponentMightAccept": "Badland Banditos reclaims their original 2027 2nd-round pick while adding Tank Dell to preserve WR depth, avoiding a complete vacuum in their receiving corps during a championship push."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 54.2,
+              "davi": 75.7,
+              "publicMarket": 60,
+              "leagueMarket": 58
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tre Tucker",
+              "assetType": "player",
+              "owner": "Badland Banditos",
+              "position": "WR",
+              "age": 25,
+              "cavi": 66,
+              "davi": 70.2,
+              "publicMarket": 68,
+              "leagueMarket": 66
+            }
+          ],
+          "rationale": "A player-for-player swap that addresses Badland Banditos' thin running back depth behind Kenneth Walker III and Bucky Irving, offering immediate starting RB utility in exchange for Tucker."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tre Tucker fantasy football 2026",
+          "Tre Tucker NFL news 2026",
+          "Tre Tucker contract Raiders"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPfk4Xao4dFnHI9w-e4l28XJZTM5sY08VkT9HuAYNZsY6-HNCHyuXy6o6PGfUE1cUiDoOXrStQX_xKgvTeh5YROXaZAwgAW3iHAs4oWa5890w9lgitIVr90Va2VI1OcqXqCJR8oMkEEIVlfg==",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGurx-rsbICx2BpkQ1jvNvSgzKm4XFUS8un-hhdwgmcjGYAevCdbJbBmikTuxCLmAwBGr5GQrETWXc6dYGi16Th7PSoFi4SHj2U_QHg-mTFhj9-JuseFca3ZRjvag1Yj0EQPJ-AnRTsBqoR4v3W",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNIBbmdXalDHLdu6Q2b-tSPSpbNpN4Dns0mmyEfomf1oYKrUdqneL9q1-NwfZCTMRyUdfYsdiDnMyWRwlueYYnq9naWUSKhBHFwIz9i13iGHSrYen79ZlaL0xLsui8rrBMKxeCpU2Cw2oBMjc52tnlU18MpAmKZKUuaBojF2BPELpUfHA_u2uYXM4iUaE4ny18AvpRhQ==",
+            "title": "elkodaily.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH01bgc2AOt4pgJyIaADRWrJcbo_ARO37x-KHhgv0r7gyVI-zcA5XNfEANXUgPvp_eOP341tKhnMEes889O0JNybdGK-_AbzguFPSGLOi8Mh00Ow0RTyObRPaPpJj7Ol8afOQDmNwKD9xmR-7uWTvdMR8og",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3Y4RGQ7Jzu8bZc0zBJpJH-VTUsWYO3P7py7Va7-VxnjMODZsYC4JFYkJiE25OlDsihzm9MInaKSwJ_YpS6ksSwc40jvUo_DUXuDf7yfjie4ZH6eqvl4Ltl1rHXY-pD9d9v4y2GkrCqEuIhSyqeU7LXGSE7Cc2z2vMN1ieoRwsp62VCya0txhvV-SX8LFDkEb4gseItYvlEpxHxIT0SKXD988=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYxn8jYmq2jfELc1GBZrqQtlpSK1LSm_1rwNPsYfa0_pcXhqGk2xZ6HXXtYB2zD3Y0fXi59_zysf6aHwSFrfoS7uE7NY0nj5stpZzafp3FiIDNX0zoQJ4vH5Dv5f4xm14IIUhnADvH6f7SeElBxztFxCc9waNZq2P4jMKr6LrL2q7WdHGnUtu3qpk6So9tyuYy7qw=",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbyZNSU0eseJb9ljUJE-zT8J6-jl7ae02rFKVxr0J4-PQoQnn_1wbBb3knT6tHhOh7YgHaIcv3H5d3KKzEzrOoVE3MKJ6IrQGki2vENB12hqEISHfUSuu8kgPKo8ao18_YaWtdupBXwD3t58r2V7gpaoeoJPvA229GkeJxh2YL4o9wIFTra8gx2qHS60b9ytcwChyosKnGx2Q=",
+            "title": "justblogbaby.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRbZu-gBEXGcLgPsU7zvsQ5m7lNsBjgkcv0WrUzSQT4lUycXBzMCrc3r1OvQ3x48hArGYd2l3dNQJT9M5JacvPT2zwLNiTdhN4o1bYR-BRuBlTUnW8qELgfx5jb0AhwUhh_DR9lDP77w1pOyDgjlKNpFv4FgmyL3mOJ88NW4WNXVXS3x4fk_zqSeSyAjBZXNeYFIgv4qM=",
+            "title": "fantasylife.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "fe7025de6fa4aadb9d0a02152493e26fc1b7193e",
+        "aviCoreCommittedAt": "2026-10-30T02:02:51Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 88843,
+        "groundedMarketChars": 2076,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": true
+      }
+    }
   },
   {
     "id": "mvufzfrz-73614cae",
