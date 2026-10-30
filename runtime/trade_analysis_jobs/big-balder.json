@@ -1,5 +1,34 @@
 [
   {
+    "id": "mvv5ktjb-76dca402",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "partnerGoal": "Increase Championship Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "Garrett Wilson",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "A.J. Brown",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1793375683464,
+    "updatedAt": 1793375683464,
+    "expiresAt": 1793807683464,
+    "status": "queued"
+  },
+  {
     "id": "mvspz0g3-ee9064fc",
     "phase": "final",
     "mode": "analyze_trade",
