@@ -1,5 +1,29 @@
 [
   {
+    "id": "mvvh56qs-6476687b",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "partnerGoal": "Retool",
+      "targetTeam": "All Hail King Jesus",
+      "targetAssets": [
+        {
+          "name": "Tee Higgins",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1793395109478,
+    "updatedAt": 1793395109478,
+    "expiresAt": 1793827109478,
+    "status": "queued"
+  },
+  {
     "id": "mvv5pvvi-a07e40f1",
     "phase": "final",
     "mode": "propose_trade",
