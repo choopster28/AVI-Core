@@ -1,5 +1,328 @@
 [
   {
+    "id": "mvv5pvvi-a07e40f1",
+    "createdAt": 1793375936114,
+    "expiresAt": 1793807936114,
+    "mode": "propose_trade",
+    "title": "Final Build Offer · Big Balder Brand ↔ Mile High Royal Lions",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "partnerGoal": "Increase Championship Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "Garrett Wilson",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "A.J. Brown",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "I really don’t want to move Hubbard, Tuten or Love"
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Applying the user's hard constraint to protect Chuba Hubbard, Bhayshul Tuten, and Jeremiyah Love makes a direct player package for Garrett Wilson extremely challenging. Because Mile High Royal Lions requires immediate championship-winning starting help to part with a cornerstone asset like Garrett Wilson (75.5 C-AVI / 90.7 D-AVI), offering A.J. Brown (38.7 C-AVI) alone fails to meet their goal to Increase Championship Odds. To bridge the gap without touching untouchable running backs, Big Balder Brand must leverage future draft capital instead.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "A.J. Brown",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 29,
+              "cavi": 38.7,
+              "davi": 80.1,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 75.5,
+              "davi": 90.7,
+              "publicMarket": 88,
+              "leagueMarket": 89
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A+",
+            "otherGrade": "F",
+            "userShare": 80,
+            "otherShare": 20,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The submitted 1-for-1 proposal heavily favors Big Balder Brand. Big Balder Brand upgrades age from 29 to 26, C-AVI from 38.7 to 75.5 (+36.8), and D-AVI from 80.1 to 90.7 (+10.6). For Mile High Royal Lions, trading a 75.5 C-AVI foundational starter for a 38.7 C-AVI veteran without additional assets severely hurts their championship push."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "By respecting the user's roster constraint to keep Hubbard, Tuten, and Love, the recommended package shifts to combining A.J. Brown with a future high-end draft pick. Big Balder Brand acquires 26-year-old centerpiece Garrett Wilson, while Mile High receives A.J. Brown plus high-value future draft capital to maintain long-term equity."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 60,
+              "summary": "Acquiring Garrett Wilson satisfies Big Balder Brand's retooling timeline while strictly honoring user constraints regarding running back depth."
+            },
+            "championshipOutlook": {
+              "score": 30,
+              "summary": "Garrett Wilson elevates starting wide receiver production over A.J. Brown."
+            },
+            "dynastyOutlook": {
+              "score": 80,
+              "summary": "Securing a 26-year-old elite receiver significantly strengthens long-term roster equity."
+            },
+            "lineupQuality": {
+              "score": 40,
+              "summary": "Upgrades the starting lineup at wide receiver."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "RB depth is fully protected per user preference."
+            },
+            "flexibilityLiquidity": {
+              "score": 15,
+              "summary": "Trading future draft picks slightly reduces capital flexibility."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -40,
+              "summary": "Mile High receives veteran production and draft capital, but surrendering Garrett Wilson still creates a challenge for an active contender."
+            },
+            "championshipOutlook": {
+              "score": -45,
+              "summary": "Losing Garrett Wilson's elite weekly output requires A.J. Brown to step up immediately."
+            },
+            "dynastyOutlook": {
+              "score": -30,
+              "summary": "Swapping a younger foundational receiver for an older veteran reduces long-term ceiling."
+            },
+            "lineupQuality": {
+              "score": -40,
+              "summary": "Slight net dip in immediate starting wide receiver scoring."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Draft pick compensation adds future roster flexibility."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Acquiring extra draft capital improves portfolio liquidity."
+            }
+          },
+          "explanation": "The revised package respects the user's hard constraint protecting Hubbard, Tuten, and Love, shifting the trade currency to draft picks to make the valuation work."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand boosts starting receiver output by swapping A.J. Brown for Garrett Wilson.",
+          "sideADynastyImpact": "Big Balder Brand gets significantly younger and adds elite dynasty upside.",
+          "sideARosterImpact": "Strengthens the top of the wide receiver room without sacrificing protected running backs.",
+          "sideBChampionshipImpact": "Mile High Royal Lions takes a minor immediate hit at wide receiver output in exchange for future draft assets.",
+          "sideBDynastyImpact": "Mile High acquires extra draft capital to offset losing a cornerstone asset.",
+          "sideBRosterImpact": "A.J. Brown steps into the starting lineup while draft picks provide future flexibility.",
+          "valueAssessment": "A 1-for-1 swap is heavily unbalanced, but utilizing draft capital while respecting user running-back untouchables creates a workable alternative."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Garrett Wilson remains a consensus elite dynasty asset, while A.J. Brown commands solid market value as a high-end veteran producer.",
+          "aviVsMarket": "AVI values Garrett Wilson at 75.5 C-AVI and 90.7 D-AVI, accurately reflecting his premier age-adjusted value relative to A.J. Brown.",
+          "relevantContext": [
+            "Garrett Wilson is 26 years old and locked into a high-volume role.",
+            "A.J. Brown is 29 years old and on a new team.",
+            "User explicitly protects Hubbard, Tuten, and Love from being traded."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions wants to increase championship odds, making them hesitant to downgrade at wide receiver unless compensated with premium picks.",
+          "packageFit": "Using future draft capital instead of running backs successfully bridges the value gap while adhering to user constraints.",
+          "lineupReplacement": "A.J. Brown provides stable starting production to help offset the loss of Wilson.",
+          "competitiveWindowFit": "Maintains Mile High's competitive window by adding startable veteran production plus future assets.",
+          "positionalScarcity": "Elite wide receiver prospects and cornerstones remain scarce commodities in a 16-team league."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 15,
+            "packageMatch": 12,
+            "lineupReplacement": 10,
+            "competitiveWindow": 6
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 58,
+          "classification": "Stretch",
+          "explanation": "With the user refusing to move Hubbard, Tuten, or Love, the offer relies on A.J. Brown and draft capital. While it requires negotiation, it represents a plausible path to a deal."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "The user's personal constraint to protect Chuba Hubbard, Bhayshul Tuten, and Jeremiyah Love prevents the initial running-back package. Shifting to a package centered around A.J. Brown and future draft capital aligns with user preferences while maintaining fair value.",
+          "confidence": "Medium"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "A.J. Brown",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 29,
+              "cavi": 38.7,
+              "davi": 80.1,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ],
+          "receive": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 75.5,
+              "davi": 90.7,
+              "publicMarket": 88,
+              "leagueMarket": 89
+            }
+          ],
+          "whyUserShouldDoIt": "Big Balder Brand acquires 26-year-old cornerstone Garrett Wilson while fully protecting all preferred running back assets (Hubbard, Tuten, and Love).",
+          "whyOpponentMightAccept": "Mile High Royal Lions receives proven veteran production in A.J. Brown alongside potential draft compensation to fuel their championship push."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "The user explicitly stated they do not want to trade Chuba Hubbard, Bhayshul Tuten, or Jeremiyah Love. This personal constraint was fully applied, removing those running backs from any proposed package and shifting the trade structure to rely on player-plus-draft-capital negotiations."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Garrett Wilson fantasy update 2026",
+          "Garrett Wilson news 2026",
+          "Garrett Wilson injury history contract"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOmvjVoASGAA2kbPqUe6mNTT5faBCOXU2_4mmCZZp-C_gck1h_0H71oeNP7JArTIRoLRKKKqFbOMeFLZyPwAg94ztra9A83no-l15GfL39PwR7YXqInPOgX0TLP_2WWwmQf2H81OPV4XKzjGinucebE7UfZa7tUf3UbOE4K6g-iWlErthfO31vVWHGoIuxjPV6UkFYQL2FT2b6c0g6n55p3zskls3HDK6U_Jwgiw==",
+            "title": "washingtonpost.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGXHgNlwYBYbI8CK11fEo8252J074QfL4olf_WgcQ0HrstYREoprmSJpCX_JxDf396A-DfHKnMbYC6TWCRwWbwhZ0zcqCb6RezkZNGIff7xiKJoHQZeZNw-BMLIwDr4ZhNJ9dXCHVAToJ-N2BlCjH90VDYT-RE_LOA",
+            "title": "jetsxfactor.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM4aw5FhGz7gE3dw8tjYtahH4Pys-Lp1nSbXP1gI8c7_LGW43JPaBr5pDPCV9Rl9INjwhxI4aD3bcGc22y-mTxq2sp-2wId_0m0ACxBfUFkRdFrUz0pdR-TN6YXQIght0jakJWapFqwoU9GdntWYz1rIlI7_uyG3sGoe_HY3Q4GhFN-g==",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwnYzKmizb-_XLK_FuA-dQndWUgTAzPbooce1xNJWvkW_OuI2Ynh77FJ9LQDDHfXXlc99se4alOMaoP0t-16GwMiUiyMqW54X5WkjUdzLSn1S9jZv-XLiVM1thQ9AkEAJco9C_bBjFyd1zI4BSXTO-y4uFupy4K1eHJ4CXUTdlMy_L",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPKHuHSS1HwgTkMH1oB2RBqC0QdNi5oly3DC_JE2DL2YbPamiBmCTlAJPWR5SWkL1alkccE5Ty-uC5QpjybAlE1vLZC1UN_2WsJe_Y456_5Q5zeOwAfzmtky0pCnSJubWc_t3uxnzeuH9iQRjKkcPuXBicJTFx7f5JsVvO",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf33JHjxhSt-xxT6gbKUXgbC4zvxq2_YImG0J5k9AdbWr4JlgTQIp45Fp8xt7mop8_7uqq4EVxqPo9rYJhYxdz9F8ymcqOUFfPFlBJxKZ43Be2ugBw0RocPrV4N2KX3xH5353oxvybEyKc6YjF5dCdPFG8pH4_-CSFlbHJlS-j_pX7dKGqmlUclCndJxlHMqz5h2XgdvJL4tM=",
+            "title": "lindyssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZtRUD0iNyM4uWM8g2AiO-c7kohfN6bX1utVHRET3eugOCtiWnCVjwGeHqeCBTR6_IK6a2di1FfY7TLZ5W3vqSxyygm2HJ2pb6j868aYit1irtsTR7u8rql0nFY7fUfJDuUBGK4jbwkg==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLooEAomRQReJ755xG672SbyE9TQbtQSeRTb-00SrdPmmwEEV-Ayvu3VEOMC0L9YexaSxDgL2pvwpLbMjV1IEQ9EVZjxwjCqqnrRMdFOudch8Ze80klGPb0PwzaD4vwoji1d0HwlFhi3OMZ5xNyFWzuzcn-wbaoZfRhRf-CGuG_Vif1zkhB3JY5WEoAadaQhUcTUcuNVpUKKLdFX8-1-VH6D03UXfICA==",
+            "title": "newyorkjets.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXeV6PQamxW1-7NA0BKv3k9RNBrHrODuandGfVVAspk58Om_zUUgALj65t8rBZlR74YYQ6QEKePUFZMwC_wm4oNhUaK78pNlvl82YNG-MVZWifFoKyIognNLp2GJDlS6juXw3aph0CsL-A5OUOYCmmNYIGh-4tPQEf6StVRPTrDMZeL_EgqLJwp6PP3biGHJI-XOfI2g8HEA5u",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRQvRAqp8alUIMZJQ7Frv3M2sjX-SBi3UJqC_gqUcDoIjZCH6O5gvikIT0rOS32ZCK8eFgydjEn1wBStz8o_q0u6UVmSfhQWCJFMILAw9RGi1nsgI8FGGmM4y9_6dJpCQEmrIQMhhVv0R9wGG5OfY=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBmv_3jwpba4dZwT9cs4qLomWOnVpvHDQM4TzKTKUhtuDJ0O0nIR2X1Z4FL09RaxuFnCnvNPtirfPg7GGWWDQh17rf1ybENwM9cgKOT6XZGBLW4hEGI10JRo3NlNLnC3yCQ461Nm-F-UP0gd_aTXwY_k1QFHShHGOSbO9wA63ZCi0gusRe24E=",
+            "title": "sny.tv"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGpwe6uT_cg19q626gF-pvnM-w1jqfhjTsln8g7eqFzEdn918hgspdYa__d_yMagzpMOi7cV4Y_kUfRWjwrqCi2wznWaECmKBkRASjsqQl97y9DYstlOlAB-f0OWzYso0=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUDNJnsRxQQ8Q9kDHgnJzUTKV0641rXIxHj_1I01uum6jAgOrMvzS8cQbysRDcMNKzok0mVcU_RzsxILEyDLU0w4n-p9wTn9l3kHuur1_k2f9SO4m3WjeEJKNPCvFdTjaGme3s1U4nqgSf60ZUEzzk_kN3LMYSSJ7Na8YO_2tyKpjbjYT8PM7E3DR7xfCyDJVdprN6TUgC2ohdabs=",
+            "title": "arrowheadaddict.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "013beb0a3522d1a9eb819c006eebfe999629758a",
+        "aviCoreCommittedAt": "2026-10-30T14:24:11Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 87144,
+        "groundedMarketChars": 3091,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mvv5ktjb-76dca402",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "013beb0a3522d1a9eb819c006eebfe999629758a"
+      }
+    }
+  },
+  {
     "id": "mvv5ktjb-76dca402",
     "createdAt": 1793375744196,
     "expiresAt": 1793807744196,
