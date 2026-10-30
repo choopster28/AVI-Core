@@ -1,5 +1,31 @@
 [
   {
+    "id": "mvv7w970-cb1b3f49",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1793379576204,
+    "updatedAt": 1793379576204,
+    "expiresAt": 1793811576204,
+    "status": "queued"
+  },
+  {
     "id": "mvv7si58-78ac788a",
     "phase": "final",
     "mode": "improve_team",
