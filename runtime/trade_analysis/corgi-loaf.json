@@ -1,5 +1,452 @@
 [
   {
+    "id": "mvv7w970-cb1b3f49",
+    "createdAt": 1793379639440,
+    "expiresAt": 1793811639440,
+    "mode": "shop_assets",
+    "title": "Initial Shop Assets · Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Shopping Saquon Barkley and your acquired 2027 2nd (Badland Banditos) yields strong market engagement among championship contenders and playoff contenders looking to bolster running back production. By targeting managers with deep wide receiver assets and immediate title windows, Corgi Loaf Baking Co. can re-align roster construction around premier passing options while maintaining championship competitiveness. Three realistic trade paths clear the 70% Market Reality threshold.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite young wide receiver foundation in Jaxon Smith-Njigba and Malik Nabers",
+            "Top-tier tight end positional advantage anchored by Trey McBride",
+            "Superstar quarterback stability with Patrick Mahomes"
+          ],
+          "priorityNeeds": [
+            "Diversifying offensive production into high-ceiling starting wide receiver depth",
+            "Capitalizing on veteran running back market value before age-curve depression"
+          ],
+          "tradeableSurplus": [
+            "Veteran running back depth (Saquon Barkley, David Montgomery)",
+            "Secondary draft capital (2027 2nd-round picks)"
+          ],
+          "constraintsApplied": [
+            "User organizational goal: Win Championship",
+            "Target organizational goal alignment mandatory for all proposals",
+            "Starter-for-starter realism enforced across 16-team league pool"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding franchises (Crimson Tide Pods, Northside Kings, DMV Fantasy) eliminated due to lack of strategic fit for acquiring a 29-year-old veteran running back.",
+            "Retooling franchises (Phalhala or Bust, Rapid Valley Annihilation, Southside Savages, Gringo's Goblins) eliminated as Saquon Barkley does not align with their timeline or asset surplus.",
+            "Contending franchises with established elite RB rooms or lack of WR surplus (Conquistadors, Mile High Royal Lions, Smoky Valley Wheat Warriors, All Hail King Jesus, Lightskin Legends) eliminated due to package match and lineup replacement friction."
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Big Balder Brand",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Rashee Rice",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "WR",
+                "age": 26,
+                "cavi": 66.6,
+                "davi": 87,
+                "publicMarket": 85,
+                "leagueMarket": 83
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 62.9,
+                "davi": 84.9,
+                "publicMarket": 82,
+                "leagueMarket": 80
+              }
+            ],
+            "scenarioType": "Near-Peer Starter Swap",
+            "strategicGoal": "Acquire explosive young WR1 depth while supplying an elite contender with crucial RB firepower.",
+            "scoring": {
+              "availability": 24,
+              "opposingGmMotivation": 21,
+              "packageMatch": 18,
+              "lineupReplacement": 12,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 84,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Rashee Rice gives you Patrick Mahomes' primary target in Kansas City, establishing an elite stack and securing a 26-year-old wide receiver cornerstone with higher Dynasty AVI (87.0 vs 84.9) and huge weekly ceiling for your championship run.",
+            "whyOpponentMightAccept": "Big Balder Brand is aiming to Win Championship but relies heavily on Bhayshul Tuten and Chuba Hubbard at RB. Acquiring Saquon Barkley provides them with a premier bellcow RB centerpiece while leveraging their wide receiver depth (Nico Collins, DeVonta Smith, A.J. Brown).",
+            "championshipImpact": "Immediate high-upside WR starter integration once fully cleared from minor knee/hamstring tweaks, creating a stack with Mahomes that raises weekly ceiling in playoff matchups.",
+            "dynastyImpact": "Extends your competitive window by exchanging a 29-year-old running back for a 26-year-old high-volume wide receiver on a long-term elite offense.",
+            "rosterImpact": "Slightly decreases current active RB depth (leaving Rhamondre Stevenson, Cam Skattebo, David Montgomery) while significantly elevating WR starting potency.",
+            "publicMarketContext": "Public consensus heavily favors high-volume wide receivers attached to elite quarterbacks. Rice is trending upward as he returns to practice, making this a prime buy window before full market re-inflation.",
+            "risks": [
+              "Short-term health tracking for Rice as he works back from knee/hamstring issues.",
+              "Reducing RB rotation depth if secondary injuries hit your backfield."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Saquon Barkley straight up for Rashee Rice, emphasizing Barkley's proven bellcow workload and Big Balder Brand's need for an RB centerpiece for their title push.",
+              "acceptableConcession": "Include a late-round future pick swap if Big Balder Brand demands minor sweetener value.",
+              "walkAwayPoint": "Walk away if Big Balder Brand demands Malik Nabers or your primary 2027 1st-round capital in addition to Barkley."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Badland Banditos",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Tre Tucker",
+                "assetType": "player",
+                "owner": "Badland Banditos",
+                "position": "WR",
+                "age": 25,
+                "cavi": 66,
+                "davi": 70.2,
+                "publicMarket": 68,
+                "leagueMarket": 65
+              },
+              {
+                "name": "2027 Round 1 (Badland Banditos)",
+                "assetType": "pick",
+                "owner": "Badland Banditos",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 62.9,
+                "davi": 84.9,
+                "publicMarket": 82,
+                "leagueMarket": 80
+              },
+              {
+                "name": "2027 Round 2 (Badland Banditos)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "scenarioType": "Starter + Draft Capital Upgrade",
+            "strategicGoal": "Convert veteran RB value into a rising WR3/FLEX producer plus premium 2027 1st-round draft flexibility.",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 20,
+              "packageMatch": 17,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 84,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "You return Badland Banditos' own 2nd-round pick to upgrade to their 2027 1st-round pick while adding Tre Tucker, who is thriving in Las Vegas with high target volume, giving you immediate startable depth and liquid draft assets.",
+            "whyOpponentMightAccept": "Badland Banditos are in Win Championship mode and need elite RB production alongside Kenneth Walker III and Bucky Irving. Re-acquiring their 2027 2nd while getting Saquon Barkley for a late 1st and depth WR fits their win-now mandate.",
+            "championshipImpact": "Provides immediate WR FLEX coverage with Tre Tucker's vertical role while storing premium 1st-round capital to make additional deadline moves.",
+            "dynastyImpact": "Gains a core 2027 1st-round pick (79.3 AVI) to keep your dynasty powerhouse supplied with elite rookie talent or trade capital.",
+            "rosterImpact": "Replaces veteran RB volume with a young receiver averaging strong target numbers, reclaiming draft asset dominance in 2027.",
+            "publicMarketContext": "Saquon Barkley maintains strong public name-value despite lingering minor back/hamstring tightness. Tre Tucker's recent 100-yard performances make him a popular rising target.",
+            "risks": [
+              "Tucker relies somewhat on game script and vertical efficiency.",
+              "Trading Barkley to a direct rival in the championship hunt."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Barkley and the 2027 Badlands 2nd for Tre Tucker and 2027 Badlands 1st, highlighting the immediate title upgrade Barkley provides their starting lineup.",
+              "acceptableConcession": "Remove the pick swap and ask for a secondary bench player if Badland Banditos refuse to move the 1st, or offer a minor 3rd-round pick addition.",
+              "walkAwayPoint": "Walk away if Badland Banditos refuse to include 1st-round draft capital or demand top-tier player assets in return."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Ravens Regime",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Jaylen Waddle",
+                "assetType": "player",
+                "owner": "Ravens Regime",
+                "position": "WR",
+                "age": 27,
+                "cavi": 61.1,
+                "davi": 83.5,
+                "publicMarket": 82,
+                "leagueMarket": 80
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 62.9,
+                "davi": 84.9,
+                "publicMarket": 82,
+                "leagueMarket": 80
+              }
+            ],
+            "scenarioType": "Near-Peer Starter Swap",
+            "strategicGoal": "Swap veteran running back volume for a 27-year-old high-ceiling WR starter to align with long-term title windows.",
+            "scoring": {
+              "availability": 23,
+              "opposingGmMotivation": 20,
+              "packageMatch": 17,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 80,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Jaylen Waddle gives you a 27-year-old elite wide receiver who fits perfectly into your starting WR/FLEX rotation alongside Jaxon Smith-Njigba and Malik Nabers, reducing age-curve vulnerability at RB.",
+            "whyOpponentMightAccept": "Ravens Regime is pushing to Increase Championship Odds and needs an impactful RB anchor to pair with Derrick Henry. Moving Waddle allows them to balance their starting offense while capitalizing on their wide receiver depth (Zay Flowers, Carnell Tate, KC Concepcion).",
+            "championshipImpact": "Maintains top-tier championship projection by adding an explosive WR starter capable of match-winning spike weeks.",
+            "dynastyImpact": "Improves long-term roster age and stability by shifting value from a 29-year-old RB to a premier 27-year-old WR.",
+            "rosterImpact": "Balances your roster by solidifying a pass-heavy starting core while relying on Stevenson, Skattebo, and Montgomery at RB.",
+            "publicMarketContext": "Waddle's market value remains strong due to his undeniable dynamic talent and age bracket, while Barkley's win-now profile matches Playoff Push priorities.",
+            "risks": [
+              "Waddle's weekly target volume can fluctuate based on game script.",
+              "Losing Barkley's touchdown upside in heavy-workload weeks."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Saquon Barkley directly for Jaylen Waddle, pitching the immediate RB starting power Barkley gives Ravens Regime for their playoff push.",
+              "acceptableConcession": "Offer to swap 3rd-round draft picks or add depth piece Savion Williams if required to close the deal.",
+              "walkAwayPoint": "Walk away if Ravens Regime asks for premium 2027 1st-round draft picks on top of Barkley."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tre Tucker 2026 news",
+          "Saquon Barkley 2026 news injury",
+          "George Pickens news 2026",
+          "Matthew Golden NFL draft 2026",
+          "Rashee Rice 2026 status"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw0q_P3htGctvpjtGXd2MUs1d7VTfRwqP-1k8X-iYgnayLa9tN-qNRoPQhuwM-R-Iyl7b3hBAbDgcsf24s0bcGzRrs4SaWPwZSnEv7XyctNHkMZL3Mn5bVrM_n_bubYlRz0RZXsvTVNF1dDBTqfWb3mAdhX1s7cqds9o8scinL5z1jmDG59BA9TlffG7p3gQ43bg==",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjn0rYhmj7x8q4fRxFRClxcvj9nGlphGLwrMCRUMFUkt7LffxmAn9qYzbG9DtUCEoD3WLOFWBMYPk20WWw17sMulvNWwFjnptnpoflkJ7bZCzgI24l9WAx7THcC_q15JKDxq8_pTO1mOtKXSWRtlYDQqz45WAaljp7cdZSHSTjNN5lgXFItrFTtlQ=",
+            "title": "insidethestar.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlR1H6UZro9S9dU7QHmMxejeERAB7g_GJY3A7dmVaVBAzDrdCcLVWDbizgbUH-loUn1HWmz68ID0zk1lZJD3uoJzO9t_5KdI7gN_YwMupLjcz3QNmSNefx5V-yRMrsQNAn",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrDOsCdac7p3KINgnG4AYK5m4MafrxRSJO08Fn-wY38dSWsg3f0BnlDSn8WWbODCmO_cN5u3Bh1Mmo4ZrZSYTIZKw_QHD_zD2yvKBDWjiWQX_dsmeIadWhfBb3EkzZo-OH",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnfc7rUGSH0LTFy8WQR6Gptsm2EHkWhL7ZqhtWXFgItr4td3yML0quFfp0_jW-U4aPsLBUbjmaO1cBznXO1kwouTn32LlCjttAtfnkH37wALSac2U7SNI1Leedo5KrXaatvhoTW0KbfeH7ygEWKcgAz6QhM-sYOBgrg09g7kHKSA6OAM7eYoFCt7JOEDnTQAs-SL-4lHMZuUmO",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJozaKKKDrIb325lkjh7w14s8CFT3H-ug8XppXpD1HAvrRkl3NXV5s1GJBSP1u4ICKiWDDeJ2VF69WZX7aLMUEv9avV34sc9rMKO7x41T5poCJhOAC6TLgmgky4amzp01i",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3pv9nkMgHFF59F9OYSGBG5jTs951xHV662BVOt5gCDcP2h1bcrGDqnqv9OqGOPM3FBmLaepST0lTgjUadcjsEKz1dRyXywEnP_jAVbhraZF3IPuMzQFUuCEvTxAdcl1nqySPwOtDGs7jcQCXexjlPPfi84sRZwK5Ra59Ne5OjVReqVTAVU6CyksW0KBm9wM5q6aQ-GBU=",
+            "title": "packers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMaqlysipxtEwvgkvV1-6HIBTKWINkocGkAQfbrUnlC8sYSQzbbEoeES03fAWmDuRiak-d_5kISFk-gD3Jqwh9XBX9DD4ANT2BnzacLoVw_z7Vvv1kAVd-GXJCr2JW3XIJQxGCHJYMieyQvp7vr9-qO35w3wSMH9JZLzf1m2E2YT5ZHywEOCVIv25K_7O8XHE2vT9U",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Uveu0_MyMTVKzvBq-E77y68Ca01ExfRSGUUZwMFQN1M7Xm9KLdzvvPKKWyQ5TUfi23TxWUz1r-JRej9P0MQ_JFbFshB2GDVPP2aLR-MGGcbDFPQL0StEpLQuwncskg6NPw==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDRSlv0Lg6Xpw3BgTO5ItaB9gFltDzUYDyrNJoSvZDVJ5zRARLmnu6ncy0YcS7lSEgrsnRhyyp-jUKTuxcOMxY8-JViWQ1rGsi4PhEPiTKZpBid0S5pcF3eRM3hxPhPAs3Uo4VKfhLLKVTfRCGqkZG49law3JPuQCHvcyHmBbcFaUhjLxOP8JAK2TNJqz6HF8cNeIJ7qw-rziJrger3ChSBXYqE-9OS8Z8lnCl-fpu5qTlDg==",
+            "title": "dairylandexpress.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8V0zEqpVQKIlB35qVp_6sKW217U7YvOfJyEyZ9NBfwIOPCGV0yNIvzBhnDIhgyvYU0WWnf3ca7C4bJJ0qBDGaZVIm9-C5mUgqu_REH1h1zb4yX9gXR2OAiC55LFlUMhRuLAeIlck6RhkOccgYDggOfie2gEvqFlOfQYulA2Nsg-iAncHUuuB4FMI6w_rZVLZMVgirc-Cf5MM=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtsUOepkrbM2Wiblo5xbHb5HscApUv_jeRANRM8v_duklp3uDgR5lNlBhH8FYSc9wsKLB392HOCtar6fYjGypJp32T7nFDAdlMQ2g2D8cEuSa8fkRSSoguvq9-s0TbuCHJ",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyzsKKLkNvMFey09X5Nu2ihiZ0oY47tfQ5jApl8_mfZbM3M9n2h2URJ1Cx18a6V-pelI6aHyqDkMpI8FWNM9k1jbPspgH3ya1Vw3n6c0Tq3jLIKbh6AHtQX2YAb_D2GMMDyK_XOb_vnmriVm7ea1MqOLQQRtRqlM2Jl2oUBzIdhLEO_U7_6YWu4AlH2YppbBEfn2GNAKPyHPJBPrb20RUNvQ==",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiuJ8tTn5XakusgIBIDCokEbqGaZm40BZRpaxpqrc_PT3cAPO-VLA883i8xXPGsaMc49mRRIKiUAI32PZxdgNpoYa8JyCYDYjFjNgmT3GGvhYAwchY-JpVSxb83bw3qhAndHiats6f8XdIR7kjsFsAGzp19OhoMzkhGEpKbVupSnMkqBo3HWXjAFRGwVy6jokBtxrH8wnY54hPKQ==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqIC9z1Kue_XX7bLMtQAf1UqLxRXLO_ne6WrZeIJvythwfEWqd27XcS1Z-nQezLBOCWbJnEBKRZWN6A50wq90W4-wa3MW6jkHp7FEKumOLlD_VD9dEqDmZl7etMGxqIHVESo6VAqLCmDe9iM5Lt4NAVO2mSZ83k3yy9mUSjRF_IxOCCxMhP-YNXjiwZhDyaeeZ3HNca7yiDGp7lt2mR-YIbzIMsRtp7yAEjvnYWXrZ51zEmqcxOCZ3VoYf55aaVjOXcJuS",
+            "title": "philadelphiaeagles.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEj2eUJLimsDSS09W1pgagzXUMLah8OV-N9W_dK_HrX9j7KyTntMLiF9KWNqnd9e0Ikz-A0YH5-tg8u4YJM8UWjmO1KLM0S9pJfDoSpxwo6txVZaZDIf1etIbvCRmdKyX2LC6dircGpkAjLAZGMKWtW1w0eY5gjzhmtdwsrYLJSjS77aIskciO3s4_wXwtcwMZR",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVkw1LgTbTG762QYQ9saoAKEIZHZjACFVl_BueVdbNsZDOxxTICkBZ0iOowr0-t6wT_4r-cscgAHvZcfZy-p0KnlojaKTsgsmk7nC7nX62qAsWp6FfYt_ExnqTXbPGBgK6i_c1QWchgSrZbjtChYL8PXOqr0EfLN49DNMrn9SB9dF6Gfwzpgaq10RWM2oT2oUYMbpJK78WcRBSrc2sAGKQNGM=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpThIlRG1duj8EU14TXp9ixSTZ0iPoO5MCwDN5_m375oL2_VYPvM0f26j6Jm8Y9L-6ZSzZPNJGpqVrGBnd-Qb34oRZc3617RgK9VVBbfTchz8dVHs8PWds3F69t-KvGqNlR66AtxzGhpVcmvwWz-OZhk0dyPk8Fs-0PBmcYyi4uzaAS6odKUPbemJA8188LEr1P50QsFKwOPU=",
+            "title": "justblogbaby.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgIu2rdk2wIKxuNBcVroNW0z7X0edNSS1e80SYuItrnTNb9U4TmA0CcwzAacTP4R8Np74N_mCWEHf7eSJNB_hSBNSVDVzJBr5mKf3s7V7T1xfJciOx1ozaRP2dFZA1VduFEBqZsfpA75wZviU_WiRjI65y1a8B87OzUN08sx0hJw-_SMvWzEm8Ng54Im775IDU3g==",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6nCZoDdQl-v_1xYa5FNdbtJWTinXn6Scdp5MUsCp6R3SeBrrQFcAT2JtsDh20j1vABpNuj4SAmq2jsv-hEvl1yZdy-Xs-OE9-CMH20P434Lp0kIwZITinXnSDF-SFYaOpbQ5wBjbtPZbPdTpDnYEMkYgc1HGT2VvhcCq6jO60JYGWCgnnvE5H2ACbxu1vTXYrLg8sFJZw9KZZ8gv0lX_pM_ROhF2VdumN90pp",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH0TDKYlqofSlCMzdxDSE7fJad2Qc0IffovVNak9u7S8NXaE3nqgoU72hLsLFsktFfOVSbHmLi1yCS0TqQFujJx8sf9jxuk9BZTRrpdcz_LHfUgllveiDFP0NOjWcbVfoz-CK7s1hwVOMNnFREFSX2M3-RmeicgVMoiKxW3wSh78u1-Au1Kdqju3GYsS6CiCPxbEhW",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaw-l7GTBHrzZOYaecKPBZvHkO-wjGIBuZIzGBlygmU4nF-YrpH7k_hBsrBrpEU-eEW8TYT3JQhHVgdYFUHEHsdbwBgKrLwfjctNUKZaSmJdPnKV533GieGKouraF3pGdBvll6SaQubfIcBI7x_EqFZLO7umLxJlf8dM1Hm6YRoKztJ_Ow341BON34UZFKrkIZ-6UCWQtD6ZXC6O9df6WG0q1H",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuHaecyz-dFwoVqc3dZnY8slbmTDAc2lZl0UxaYaFnKoDCPDCT1oEZDFkRmLZZWJgXLG7b4qvrHuMzARhFdtJAsLnWsAYoDBJ_29SstBLXg1zzqxTEpbgjYaTassxxpx2mKGx-U7ndEMWzc_LGBDsBb3tZFoGxLFl2Ia4sCQWMUmC-pUP7nEQQLqEB9G9gFF7gpv-MzICjHUwpD5CM0dGqclcYyZXd",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwbb-fZegdDtD4d7uE4Lh54b1-gVGtVRzrBjCEpSidUMpQXXcQie9f51dB9RxxXSuWfe0oznrWKlMdZ18apNrwBRSBcqmzvPlfMOJBhIUvYjAynDTLxXqHCIIOjtF0pT_GOhAdKdDLYSsV7mlcogiNbX46mkrtFW-SY3ne9JJ6nOGD1_sTGoRGWNSi7wUDzp1V5MjYDWBNOLs=",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "George Pickens",
+          "Matthew Golden",
+          "Saquon Barkley",
+          "Tre Tucker",
+          "Rashee Rice"
+        ],
+        "aviCoreCommitSha": "013beb0a3522d1a9eb819c006eebfe999629758a",
+        "aviCoreCommittedAt": "2026-10-30T14:24:11Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 542687,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 249,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mvv7si58-78ac788a",
     "createdAt": 1793379415032,
     "expiresAt": 1793811415032,
