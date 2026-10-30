@@ -35,9 +35,392 @@
       "alternateAssets": []
     },
     "createdAt": 1793394776288,
-    "updatedAt": 1793394778034,
+    "updatedAt": 1793394826427,
     "expiresAt": 1793826776288,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This trade represents an excellent strategic transaction for rebuilding Crimson Tide Pods, liquidating 29-year-old wide receiver Jakobi Meyers (52.4 C-AVI / 73.0 D-AVI) for a package of future draft assets (projected mid 2027 2nd and late 2027 3rd) plus 26-year-old depth WR Xavier Hutchinson. For contender Mile High Royal Lions, adding Meyers provides an immediate WR3/FLEX upgrade for their 2026 playoff run without surrendering any core starters or 2027 1st-round capital.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 52.4,
+              "davi": 73,
+              "publicMarket": 52,
+              "leagueMarket": 52.4
+            }
+          ],
+          "sideB": [
+            {
+              "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2027 3rd · Mile High · Projected Late · original owner Mile High Royal Lions",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            },
+            {
+              "name": "Xavier Hutchinson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 26,
+              "davi": 38.3,
+              "publicMarket": 25,
+              "leagueMarket": 26
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 56,
+            "otherShare": 44,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Crimson Tide Pods gains significant value and liquid capital perfectly matching their Rebuild goal by securing a 2027 2nd, 2027 3rd, and Xavier Hutchinson for 29-year-old Jakobi Meyers. Mile High Royal Lions also benefits by acquiring a proven starter for their championship push without touching their top-tier assets."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 56,
+            "otherShare": 44,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "The submitted deal is fully endorsed as-is because it accomplishes the strategic objectives of both franchises simultaneously."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -12,
+              "summary": "Modest short-term reduction in 2026 weekly scoring by departing 52.4 C-AVI Jakobi Meyers, which aligns with non-contending rebuilder status."
+            },
+            "dynastyOutlook": {
+              "score": 45,
+              "summary": "Strong multi-year dynasty gain through the acquisition of a projected mid 2027 2nd round pick and supporting assets."
+            },
+            "lineupQuality": {
+              "score": -10,
+              "summary": "Removes a current starting WR slot for 2026, opening up development snaps for younger receivers."
+            },
+            "depthResilience": {
+              "score": 5,
+              "summary": "Neutral to slight positive depth addition with Xavier Hutchinson filling a reserve WR role."
+            },
+            "flexibilityLiquidity": {
+              "score": 50,
+              "summary": "Significant upgrade in liquid trading assets with two future draft picks added to the portfolio."
+            },
+            "overall": {
+              "score": 12,
+              "summary": "Solid net-positive transaction for Crimson Tide Pods that advances their rebuilding timeline and enhances future capital flexibility."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 30,
+              "summary": "Immediate boost to 2026 championship odds by adding Jakobi Meyers into a starting WR3/FLEX role."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Minor expenditure of future draft picks, standard for a contending window push."
+            },
+            "lineupQuality": {
+              "score": 25,
+              "summary": "Upgrades starting lineup or primary FLEX slot over internal bench choices."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Adds strong injury protection across the wide receiver rotation for the playoff push."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Reduces 2027 draft pick inventory by sending away a 2nd and 3rd round selection."
+            },
+            "overall": {
+              "score": -12,
+              "summary": "Constructive move for Mile High Royal Lions that directly strengthens current-year championship contention."
+            }
+          },
+          "explanation": "Crimson Tide Pods gains long-term dynasty value and liquid draft pick assets suited for a rebuilder, while Mile High Royal Lions trades future picks to increase 2026 title contention probability."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Crimson Tide Pods trades away 52.4 C-AVI in Jakobi Meyers and receives 26.0 C-AVI in Xavier Hutchinson, resulting in a net -26.4 C-AVI current-season shift that is appropriate for a rebuilding goal.",
+          "sideADynastyImpact": "Crimson Tide Pods receives 103.3 total D-AVI (48.5 + 16.5 + 38.3) while sending 73.0 D-AVI in Meyers, netting +30.3 D-AVI in long-term portfolio growth.",
+          "sideARosterImpact": "Frees up starting WR targets for younger assets while acquiring valuable 2027 draft picks to execute the rebuild strategy.",
+          "sideBChampionshipImpact": "Mile High Royal Lions improves current weekly lineup quality by bringing in a 52.4 C-AVI possession WR in Jakobi Meyers, bolstering their Playoff Push.",
+          "sideBDynastyImpact": "Surrenders 103.3 D-AVI in secondary assets to acquire 73.0 D-AVI in an active veteran starter.",
+          "sideBRosterImpact": "Upgrades the WR/FLEX rotation without losing any core starting players.",
+          "valueAssessment": "The trade is balanced and mutually advantageous. The rebuilder captures appreciating pick equity, while the contender gets immediate scoring impact."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus views Jakobi Meyers as a solid veteran WR3/FLEX option under contract with Jacksonville through 2028. Market valuation on Meyers typically commands a mid-to-late 2nd round pick, making a package of a 2nd, 3rd, and depth WR a full and fair market price.",
+          "aviVsMarket": "AVI rates Jakobi Meyers highly (52.4 C-AVI / 73.0 D-AVI) due to high PPR targets and guaranteed contract status. Public consensus aligns closely with this valuation.",
+          "relevantContext": [
+            "Jakobi Meyers signed a 3-year extension in Jacksonville through 2028 and holds a stable target role.",
+            "Xavier Hutchinson operates as depth in Houston's wide receiver room.",
+            "2027 2nd (original King Jesus) is projected as a mid-round pick, representing strong draft equity in a 16-team format."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions seeks to Increase Championship Odds and needs reliable WR/FLEX scoring depth alongside Drake London and Garrett Wilson.",
+          "packageFit": "Sending a mid 2027 2nd, 3rd, and a non-starting WR for a verified starter fits their contender window perfectly.",
+          "lineupReplacement": "Mile High surrenders no starters, making internal lineup replacement a non-issue while gaining an immediate upgrade.",
+          "competitiveWindowFit": "Directly supports Mile High's 2026 title push while converting future draft depth into active points.",
+          "positionalScarcity": "In a 16-team PPR format, reliable 10+ PPG receivers like Meyers carry heightened starting and depth value."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 22,
+            "opposingGmMotivation": 23,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 88,
+          "classification": "Realistic",
+          "explanation": "Mile High Royal Lions is highly motivated to add starter-quality WR/FLEX depth for their championship effort without giving up core roster players or 1st-round capital."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "Crimson Tide Pods successfully converts a 29-year-old receiver into a projected mid 2027 2nd, a 2027 3rd, and Xavier Hutchinson. This deal directly furthers the Rebuild goal by securing appreciating draft capital and youth.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 52.4,
+              "davi": 73,
+              "publicMarket": 52,
+              "leagueMarket": 52.4
+            }
+          ],
+          "receive": [
+            {
+              "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2027 3rd · Mile High · Projected Late · original owner Mile High Royal Lions",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            },
+            {
+              "name": "Xavier Hutchinson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 26,
+              "davi": 38.3,
+              "publicMarket": 25,
+              "leagueMarket": 26
+            }
+          ],
+          "whyUserShouldDoIt": "You acquire a mid 2nd-round pick and additional draft assets for a 29-year-old wide receiver, perfectly advancing your rebuild.",
+          "whyOpponentMightAccept": "Mile High Royal Lions acquires a proven, high-floor WR3/FLEX starter to bolster their championship run without sacrificing 1st-round draft equity or active starters."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 52.4,
+              "davi": 73,
+              "publicMarket": 52,
+              "leagueMarket": 52.4
+            }
+          ],
+          "receive": [
+            {
+              "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2028 2nd · Mile High · original owner Mile High Royal Lions",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "rationale": "If you prefer pure draft pick liquidity over Xavier Hutchinson and the 2027 3rd, asking for two 2nd-round picks consolidates future value into higher-tier pick assets."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Xavier Hutchinson depth chart 2026",
+          "Xavier Hutchinson news 2026",
+          "Jakobi Meyers news 2026",
+          "Jakobi Meyers contract team 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQqceWAX_geTOi-Xw8u_Tw7LKd6hkwrIYZyGHTmD_yY7GLuzAUrbxJjdiai_vvt6Vl9RUc24l4UAbVPsGMPkxRbHZFMoCLfzVPzLwd_Mf4dvppyqVA8E6wjHTqy7vZH7VKJoUJGtBh37IRtNhBvB1NfWSiZYB-jKeKwXqRCPY2EumcAhs=",
+            "title": "jaguars.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE-QEhJ3lp6-HqOQGS9Niocr00FV3vbXFOrSnj3Sxky1jpGPvl6G4aYbircLYX4p3e9czxbbFh7Uc7kA4929T7XkU9D0Mn1enBszm4PvzMyMObOp_IjjtlUZ66o78FClR226ob_Cdxziw=",
+            "title": "plainstatsnfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_8zEG7nPxHuRVYRm1NPk1-UCkabYC-b9blo524_o5Fev9kH_gmtcf4rb24VfS-rWazNbeqJ1zagtOd_Lm7nH7RThoqnv1jGFrato9izu4PHWbaownEHaOu6fuO6iW_LvqyGtdO6O3XH_y2bN3AdEepkjlYOWUB0EGuAGrW2aaUb1teQ9bzgChEDavPJGCNLrRXO8=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5bIL4QqRnxWKp1iCe_Qb5c51bsy_VDuVIgHkWzuDzw2y56pMicO0EGDeMpFfOxA2Nsw7O1KHDyjPH1A0Ed5yb-NeDrLzAnFWiswO2HWRd_D3dKqUv8lYJ-urc_Pml_EKAwfUdfgdmeIjGfMo4JE4=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEScslbSkBagYsr6alNQtvu9In627TPEflcA_Z9NHNHbfIGvSPeZGvIYrU61gjcUeC0YwQCKw9xj68Wwo6M334tPcQPV22EEB0kAFoZbzNGVo_oskBQ7yz0Z07clcrFWHbb7yXsjecCoKvYdQHqh2j8dccqqspjLORxKTT_lw2b_hVEv-W0oC7vaNjS-Z5EkDQHOj_rAhhagcL9W2aP3617_jsrTIO82I47fqjlvAQ1Nzk=",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7vGP5nIP4tlGZz3vMUzpDtlkdowX2he7jkz8tiwtNeUKu7P4mzS-jNzh_bR-XhdxVn7uGyUkz83CTTOlpLMH7qWa_DeTm0StuIAEiL-5NvrIpJIWZhdLKx4IiJ8MNiCnU0GbnH2JrE-H3EEyc8r6jbdM=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEraf2rHfkxMvjORgwREjVkrxG4klxMqDxcpJiuwhFe3mu_mgbzVHQEMCCMioz9eApSIA5LRC2-Ymda6HuFKcnSOz6F3Wo9Iyl2GXMP9iT0JmglPpwjP2ZWBHq02qiXkhrMNvOfOwhM6zURffff-q5uRX1_NdJMlbAoXTxwWp9sJdL49RdXMIUhvuvP-BU=",
+            "title": "iheart.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPkcaQH8w1FWOpmA8WmaALXJsfeDd-bmoRtfe3X5-bJfV8i26YIk791jdzHz0wxGZZzZwCwMF5FBW2elUbBIg50pPgRxJWlQ7yjgaEJ4GbA5naHs5DoZVmuBaJMHdSeShv2o2K-u_M5B5masr7X5ppqes1sMlQ31Oh24uS32U06WEnmXNRQT3FAydMhm0TlWg3ED3M7PtfkPzwDtCNlTbb91bruj_RBA==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6bVrtJiNInO9VFylttrfpqytTg6UGCs38PeAfGh7Zh8W9ICu8L6-9NUQiaxqILRB9VT5XYVW6LftUuPjzJD16nvz6hRl0mUj5KpubFB3TK8l2ra6Mp5_KjIa62LwJIl63-a4Kh9AZbDWS5hnauCsIONQ5Sewz_ka20-gEHi8dN7a1eGVvKOKNRoCLTlTKOXGSrTCIpA==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcrYMqUAeuxGarO42be82p-kwoU1PrSg_9RecNOe11udk1LWaE253UOKflHPFHSXqPF5tNKa7EQ0O1n8igMQDUfWVlKvsKlRt7navsWYyT1vwKVteoFqriuN2AfTFJ5P_gl7zH-YPZnKAlaHjYiqaKFrU0Mfgc",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF_GdbU3nw9vupGvCL6Yn6GDSNA-HM6GhSJnvkHTGeB0e59lHODK0BWl1Vpl8hCL1_vVdcYjzMFu6TzwpUjSUxneJmQb41KEhHcQu6vSrRPzXnvcEKDec1YbqbwyPr_1YV7Yupmn-H3wBrfnHD4hjzKo9iN5QUXPrE2m7gR6lKkpjR3RJpw9ZSo3NjBbdiILY=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbCRe5dqAWLnNTl-OSXbB8eM7HJUIchxvT9yDdChfD4fHcXPw4GUrAz6iRL_cM8UtWuOxiIEmWVcR0p8qrOlavUicyt-Mi3Apr7DuZ34ZkA2ca4jQt4q-aNphsAyCjfKcmmAyyvhyjWsBAJHs=",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfdu_OdWSKDHp7SiHadTXOdS8KREwAyfByvZ9rvXep6TTCYfHNNj6FKUx5cz6x9ccB3TPMs7VYe1wUouZXyD0qgacxBe9JN4N39ZNin1QJcxt9akDOif6yvrNfOq26P3lj_uosmm3sS1sXyg8=",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErre3UYlPzY2WldMtl_o30pE8CjayAuIPzXMkHjaJOE1bvi8GDmxjYcRlT7q-1o-SmNwLimUlXw0chQYnUj0HKClry-w0jGYXmSSpOQFfowssl2CP5li7Q3ePYojSXQcEDtM_R6w==",
+            "title": "perthirtysix.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmxmxwk1DcggwnK8qdI40qcoldeA_CnEbek01c7ufmbypM92AsCWOwB-vBWWsv9iQiq109JnL7q5eHQWMUZXmdQ21UDccqBh_mSzt0BtgnVCB-KPWOMxvTVW-lLiQ3E47uTdLQmWNQ1K2aaKgHbWkqa3833ukCdf5DvCC-ol901abwLgf9dQ==",
+            "title": "usatoday.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "c1565d48077ba0baa26fcf6c67cee24d6c3dc748",
+        "aviCoreCommittedAt": "2026-10-30T20:56:36Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 91367,
+        "groundedMarketChars": 3954,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mvuf8j3t-e8f3284f",
