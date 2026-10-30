@@ -10913,7 +10913,7 @@
     },
     {
       "cbs_player_id": "2962602",
-      "player_bye_week": "10",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "DE,DT",
       "player_filename": "jamree-kromah.php",
@@ -10926,7 +10926,7 @@
       "player_position_id": "DT",
       "player_positions": "DT",
       "player_short_name": "J. Kromah",
-      "player_team_id": "CHI",
+      "player_team_id": "FA",
       "player_yahoo_id": "41321",
       "player_yahoo_positions": "DT",
       "pos_rank": "DT190",
