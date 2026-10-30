@@ -1,5 +1,366 @@
 [
   {
+    "id": "mvvh56qs-6476687b",
+    "createdAt": 1793395151691,
+    "expiresAt": 1793827151691,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Big Balder Brand ↔ All Hail King Jesus",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "partnerGoal": "Retool",
+      "targetTeam": "All Hail King Jesus",
+      "targetAssets": [
+        {
+          "name": "Tee Higgins",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (Choop) targets elite wide receiver Tee Higgins from All Hail King Jesus (Hofer51) in a mutually beneficial retool trade. All Hail King Jesus suffers from a glaring weakness at RB2 (currently starting Zach Charbonnet with a 28.8 C-AVI), while boasting wide receiver depth. By packaging young running back Bhayshul Tuten (23 years old, 70.3 C-AVI / 84.7 D-AVI) with dynamic wideout Rashee Rice (26 years old, 66.6 C-AVI / 87.0 D-AVI), Big Balder Brand provides an immediate starter fix at RB2 and high-upside WR talent, while acquiring a proven elite target-monster in Higgins (86.7 C-AVI / 89.9 D-AVI) to anchor their receiving corps.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 70.3,
+              "davi": 84.7,
+              "publicMarket": 75,
+              "leagueMarket": 74
+            },
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 66.6,
+              "davi": 87,
+              "publicMarket": 78,
+              "leagueMarket": 77
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 86.7,
+              "davi": 89.9,
+              "publicMarket": 88,
+              "leagueMarket": 87.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Sending Bhayshul Tuten and Rashee Rice for Tee Higgins consolidates depth into an elite WR1 for Big Balder Brand while solving All Hail King Jesus' major hole at RB2 without sacrificing long-term competitive window."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The proposed package leverages Big Balder Brand's RB surplus (Chuba Hubbard, Jeremiyah Love, Omarion Hampton remain) to acquire a tier-1 fantasy wide receiver, while perfectly meeting All Hail King Jesus' retool requirements."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 42,
+              "summary": "Consolidates two high-quality assets into an elite WR1 anchor, elevating starting lineup ceiling."
+            },
+            "championshipOutlook": {
+              "score": 35,
+              "summary": "Upgrades starting WR slot significantly with Tee Higgins' high weekly ceiling."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Locks in a 27-year-old high-end WR bound to Joe Burrow in a retool timeline."
+            },
+            "lineupQuality": {
+              "score": 48,
+              "summary": "Boosts top-tier starting lineup score across offensive slots."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Slight reduction in flex bench depth by sending two startable assets for one."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Maintains draft capital and young core assets for future moves."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 38,
+              "summary": "Fills a severe lineup hole at RB2 while adding youthful wide receiver production."
+            },
+            "championshipOutlook": {
+              "score": 30,
+              "summary": "Dramatically boosts RB2 output from 28.8 C-AVI to 70.3 C-AVI."
+            },
+            "dynastyOutlook": {
+              "score": 42,
+              "summary": "Acquires two cornerstone young players aged 23 and 26 to support retool."
+            },
+            "lineupQuality": {
+              "score": 35,
+              "summary": "Balances lineup score across mandatory starting roster positions."
+            },
+            "depthResilience": {
+              "score": 45,
+              "summary": "Gains roster depth by converting one elite piece into two startable pieces."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Enhances asset tradeability across multiple positions."
+            }
+          },
+          "explanation": "Big Balder Brand trades depth surplus for premium starting quality, while All Hail King Jesus fixes a major structural roster deficiency at RB2 while preserving young talent."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Adds 86.7 C-AVI in Tee Higgins while giving up 70.3 C-AVI (Tuten) and 66.6 C-AVI (Rice). Net lineup gain is positive because Big Balder Brand easily fills RB starting slots with Hubbard/Love/Hampton.",
+          "sideADynastyImpact": "Acquires a prime 27-year-old wide receiver with an elite long-term 89.9 D-AVI.",
+          "sideARosterImpact": "Slightly condenses roster depth but elevates starting lineup firepower.",
+          "sideBChampionshipImpact": "Solves the catastrophic 28.8 C-AVI hole at RB2 by adding Tuten (70.3 C-AVI), vastly improving overall starting score.",
+          "sideBDynastyImpact": "Receives two strong D-AVI assets (84.7 and 87.0) to solidify long-term retooling goals.",
+          "sideBRosterImpact": "Balances positional allocation between RB and WR.",
+          "valueAssessment": "Fair market exchange where package quality matches cornerstone WR value."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Tee Higgins is performing as an elite WR1 in Cincinnati's high-powered passing offense, healthy and fully cleared. Market sentiment rates him as a premium dynasty target.",
+          "aviVsMarket": "AVI aligns with public market consensus, rating Higgins as a tier-1 retool asset with an 89.9 D-AVI.",
+          "relevantContext": [
+            "Higgins is fully healthy and off injury reports, operating at peak production in Cincinnati.",
+            "All Hail King Jesus is starting Zach Charbonnet at RB2, creating an urgent strategic need for a reliable starting RB.",
+            "Big Balder Brand retains deep RB room including Chuba Hubbard, Jeremiyah Love, and Omarion Hampton."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "All Hail King Jesus needs to address a bottom-tier RB2 spot while retooling for sustained success.",
+          "packageFit": "Bhayshul Tuten provides immediate top-20 RB production while Rashee Rice keeps WR depth strong.",
+          "lineupReplacement": "Tuten immediately replaces Zach Charbonnet in the starting lineup, yielding a massive net gain at RB2.",
+          "competitiveWindowFit": "Fits a retooling window for both franchises, balancing age, current production, and future ceiling.",
+          "positionalScarcity": "In a 16-team league, secure starting RBs are extremely scarce, making Tuten a highly compelling target."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 14,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 83,
+          "classification": "Realistic",
+          "explanation": "The proposal directly solves All Hail King Jesus' glaring RB2 problem with a 23-year-old starter while providing a proven young WR in return."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Propose sending Bhayshul Tuten and Rashee Rice for Tee Higgins. This trade addresses both franchises' structural roster goals cleanly while advancing Big Balder Brand's retool strategy.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Bhayshul Tuten",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 70.3,
+              "davi": 84.7,
+              "publicMarket": 75,
+              "leagueMarket": 74
+            },
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 66.6,
+              "davi": 87,
+              "publicMarket": 78,
+              "leagueMarket": 77
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 86.7,
+              "davi": 89.9,
+              "publicMarket": 88,
+              "leagueMarket": 87.5
+            }
+          ],
+          "whyUserShouldDoIt": "It consolidates your RB depth into a true elite WR1 in Tee Higgins to build a dominant WR trio alongside DeVonta Smith and Nico Collins.",
+          "whyOpponentMightAccept": "It replaces their weak RB2 spot with a young 23-year-old starter in Tuten while adding a talented young WR in Rashee Rice."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 70.2,
+              "davi": 80.6,
+              "publicMarket": 73,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2028 Round 2 Pick",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 86.7,
+              "davi": 89.9,
+              "publicMarket": 88,
+              "leagueMarket": 87.5
+            }
+          ],
+          "rationale": "Alternate package if user prefers to keep Rashee Rice, sending proven RB Chuba Hubbard and a 2028 2nd draft pick instead."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tee Higgins injury update 2026",
+          "Tee Higgins current team 2026 contract news",
+          "Tee Higgins news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETXX4I3WWuP16gzNe9y5SUmM3rD8CmrzEtxDH7VUF1OhOR8YGgo1bgOicHtpS8AKD595Ep2upaLXzaCnfYANN07J5yhPtMTkv3IDLUH01tyZz-BeXpFFqeW7roAB-13r9awbaS5rBg4yk79Uw94H4rgKMomEuvbThnq-6qcVoNdf-x4tUQe9rBgzDAiwI=",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRtWRaCRoqnMAiUxcjny-Ow7m44wWcuMGMK0r-vC8Npl8x4sCso_LUBQmHxjprG2bXmaRLxKm8Ljm_XTZfqElxgofUF1oUbf7BKVrIHyMLXcsmuMi3OGj9GvBG9EMtARMGLoAD8qF1sJ5PZyQJJE6HJuMi8qn-Y-E-eMU7uG0m0csnUXvefHIZj-Je2KOTO2UUII4fGVqYjUFcOaHmxxAc3Sc=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyU-2wlnHDFt0q9rlyZp9VQPECzIDrVPI469CIkfc_MkndfScxwZsu5XoiJt5k2h02Mt9dpH7d78qenkEnGligD_Qz1R_qvL5rWlaM3vjlKns0ITGZAEvwQiTvKf-FlKHDa5Ps1DZBVYiqKdglaDsvGKHGbfLVZAwFj2kz0HND8g4fxD1jSh_kqS5Y5jkR9e9ljw==",
+            "title": "iheart.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlhI0kgoDOPL_2fxGRc2_5BllH3WpbUTRl4bhzCsnDG2zsZrrwxpYi-9aeGwlpKpQ2Wsvfyg8f-ZcG6s00Nha1DHO1PS5E1A5fz3WXWS-5cESFeLBp2AHkphmywnNoEVmmMH4yhmk=",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmR5NJI3qlCT5pLfIa_KhYFeO--BA26nuWrGAw4Gz77PvvjCu0woE-3JWjJIOHPxoD7CkZR4gkPHXZn6e5q6Be8Ct7a5mjEt_wQWmC50rtAFzYRtDCAnP66F9ifIyDvR6S_qSonNyyUCBS0lblQAl1zVn1ShqMkvMhuVbESf0Fsg7RVtma8zqI3GjVzoLHoVcvODRteKSNsy1c_-yc2l0j8qYCf0Wj_sHBMnGCxa2__d3N0NiCRbKZgF64t9sOUZ38AERmHwzmNMt8JQ==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmKfaibWC3CMXl0Ui8hVSwJb4OffbXpmYwKetzXWWUZZjy0lVVte9mrucjDlfObMgvHeG2XaL88h-G0FQtP2C9xtcAOZqVttAUbAV5xyuBuRus9dn3zWjP3qJd6VX03c0IILWFgcjAtP1sBT_6S_69sNqE1o_JioCNzIwN3T0sQrE9o3VKEaYq-uW28natliXFo_DLFCkl",
+            "title": "stripehype.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7f5szHuYeHkdTTfy5lI9-VInZp6WTsBoZIi-N4_NBZcCqUiUmEHqZ_lU-nM6WOLW6INLDEdxX7jeIfX6MmlJtl0-tAVMQGk0AceLC3_XK0QzIlwYs5dDS2-RDilCdWPYRNPCCGXHSRtvRsMd9gKuYqaWCtWLRHy0hL7O08ckMhrLu9jrBIXOmxEfQMrERnBioxbV0PQ==",
+            "title": "limaohio.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXNgI7MlHaPZB4jvwSIuYOBQB_7MATCIobbKE-sV0QmGUrSABuvLbDuJOc5aoYDKb2NT-vXlQm8k9Ti38VSMh8MmBfOS4F9b1yaIijU-KJd_e6fEg_8-Mm4W1adP2U28IsMwtW4R888E9lERJVPSMuDBCRPN6pn8IK_E_NOb-nDQQy",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmt7JMdKQQEdMJ_nJ8zPE9zLEkyvY0Hon3oS-VlaDIaKnka06Xiq9S-BBCpQWbbMTFEp6wrGeQNj-gQjdr1-H0DaMoIKKzYcTqUP1aDohIlB6kSOx44-jx13-YFbwCvU3KtjeBKDpfkAmYECbC_IKuXgdcGsw8dyQsgxsl3IbhZTjvA92YbQ==",
+            "title": "dynastyleaguefootball.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfJHym4w-osBo395dOrwxYFVBjk8k6tPbQaFoXrlCrEzGID3aAe0Xo4ahdCdUlPrOP-B6k13Se0rICJ5rn5CTen5a3EIpTs7o1pVhlbabtNxiAyWfvfRMdsJjpEjG9w-G_DVI5SaMpJ77ZqcOQ4JlxmKZ0xqKyr7AAgXWHxZxcarEX4rMt32pI0mhYmQrG_JpNcZNbItp8QKZywWx-Apzn",
+            "title": "rotoballer.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "c1565d48077ba0baa26fcf6c67cee24d6c3dc748",
+        "aviCoreCommittedAt": "2026-10-30T20:56:36Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 84090,
+        "groundedMarketChars": 2906,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mvv5pvvi-a07e40f1",
     "createdAt": 1793375936114,
     "expiresAt": 1793807936114,
