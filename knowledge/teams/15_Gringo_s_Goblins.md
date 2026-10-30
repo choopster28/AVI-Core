@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 503.0
-- championship_lineup_c_avi_avg: 62.88
-- offensive_roster_c_avi_sum: 799.4
-- offensive_roster_c_avi_avg: 49.96
+- championship_lineup_c_avi_sum: 485.4
+- championship_lineup_c_avi_avg: 60.67
+- offensive_roster_c_avi_sum: 799.2
+- offensive_roster_c_avi_avg: 49.95
 - offensive_roster_d_avi_sum: 1120.0
 - offensive_roster_d_avi_avg: 70.00
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -32,12 +32,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Bo Nix | C-AVI: 40.8 | D-AVI: 74.9
 - RB: Kyren Williams | C-AVI: 86.1 | D-AVI: 90.5
-- RB: Aaron Jones Sr. | C-AVI: 56.1 | D-AVI: 68.3
+- RB: Aaron Jones Sr. | C-AVI: 56.0 | D-AVI: 68.3
 - WR: Christian Watson | C-AVI: 85.7 | D-AVI: 90.1
 - WR: Jameson Williams | C-AVI: 76.5 | D-AVI: 86.5
 - TE: Jake Ferguson | C-AVI: 38.3 | D-AVI: 75.1
-- FLEX: Emeka Egbuka | C-AVI: 68.2 | D-AVI: 89.8
-- FLEX: Braelon Allen | C-AVI: 51.3 | D-AVI: 68.3
+- FLEX: Braelon Allen | C-AVI: 51.2 | D-AVI: 68.3
+- FLEX: Alvin Kamara | C-AVI: 50.8 | D-AVI: 63.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 56.1
+- Championship AVI (C-AVI, 0-100): 56.0
 - Dynasty AVI (D-AVI, 0-100): 68.3
 - Projected PPR points: 137.1
 - Category: offense
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 51.3
+- Championship AVI (C-AVI, 0-100): 51.2
 - Dynasty AVI (D-AVI, 0-100): 68.3
 - Projected PPR points: 52.2
 - Category: offense

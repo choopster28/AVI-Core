@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 532.0
-- championship_lineup_c_avi_avg: 66.50
-- offensive_roster_c_avi_sum: 828.2
-- offensive_roster_c_avi_avg: 51.76
+- championship_lineup_c_avi_sum: 532.1
+- championship_lineup_c_avi_avg: 66.51
+- offensive_roster_c_avi_sum: 828.3
+- offensive_roster_c_avi_avg: 51.77
 - offensive_roster_d_avi_sum: 1146.4
 - offensive_roster_d_avi_avg: 71.65
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Drake London | C-AVI: 90.1 | D-AVI: 95.9
 - WR: Garrett Wilson | C-AVI: 75.5 | D-AVI: 90.7
 - TE: Travis Kelce | C-AVI: 74.1 | D-AVI: 77.9
-- FLEX: Dalton Schultz | C-AVI: 52.0 | D-AVI: 69.9
+- FLEX: Dalton Schultz | C-AVI: 52.1 | D-AVI: 69.9
 - FLEX: Marvin Harrison Jr. | C-AVI: 43.5 | D-AVI: 76.3
 
 ## Current Roster — All Player Cards
@@ -325,7 +325,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 52.0
+- Championship AVI (C-AVI, 0-100): 52.1
 - Dynasty AVI (D-AVI, 0-100): 69.9
 - Projected PPR points: 150.9
 - Category: offense

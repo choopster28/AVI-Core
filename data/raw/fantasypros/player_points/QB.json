@@ -104,12 +104,12 @@
       }
     },
     {
-      "average": 20,
+      "average": 18.7,
       "filename": "bryce-young.php",
-      "games": 6,
+      "games": 7,
       "player_id": 22900,
       "player_name": "Bryce Young",
-      "points": 119.88000000000001,
+      "points": 131.24,
       "position_id": "QB",
       "team_id": "CAR",
       "weeks": {
@@ -118,7 +118,8 @@
         "3": 14.6,
         "4": 21.5,
         "6": 19.8,
-        "7": 7.4
+        "7": 7.4,
+        "8": 11.4
       }
     },
     {
@@ -518,12 +519,12 @@
       }
     },
     {
-      "average": 18.9,
+      "average": 19.4,
       "filename": "jordan-love.php",
-      "games": 7,
+      "games": 8,
       "player_id": 19246,
       "player_name": "Jordan Love",
-      "points": 132.32,
+      "points": 154.84,
       "position_id": "QB",
       "team_id": "GB",
       "weeks": {
@@ -533,7 +534,8 @@
         "4": 14.1,
         "5": 25.3,
         "6": 21.2,
-        "7": 18
+        "7": 18,
+        "8": 22.5
       }
     },
     {
