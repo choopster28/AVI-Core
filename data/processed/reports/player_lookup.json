@@ -351,18 +351,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00009494",
-      "c_avi": 24.8,
-      "d_avi": 50.1,
-      "nfl_team": "DEN",
-      "player_name": "Marvin Mims Jr.",
-      "position": "WR",
-      "sleeper_id": "9494",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00008205",
       "c_avi": 24.7,
       "d_avi": 56.8,
@@ -431,18 +419,6 @@
       "position": "RB",
       "sleeper_id": "11370",
       "status": "Inactive"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00012499",
-      "c_avi": 24.1,
-      "d_avi": 58.2,
-      "nfl_team": "TEN",
-      "player_name": "Elic Ayomanor",
-      "position": "WR",
-      "sleeper_id": "12499",
-      "status": "Active"
     },
     {
       "active": true,
@@ -2127,6 +2103,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00006803",
+      "c_avi": 0.0,
+      "d_avi": 29.6,
+      "nfl_team": "SF",
+      "player_name": "Brandon Aiyuk",
+      "position": "WR",
+      "sleeper_id": "6803",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00013270",
       "c_avi": 0.0,
       "d_avi": 18.9,
@@ -2762,8 +2750,8 @@
     }
   ],
   "counts": {
-    "available_players": 230,
-    "rostered_players": 249
+    "available_players": 229,
+    "rostered_players": 250
   },
   "rostered_players": [
     {
@@ -3069,22 +3057,6 @@
       "status": "Active",
       "team_file": "05_Northside_Kings.md",
       "team_name": "Northside Kings "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00006803",
-      "c_avi": 0.0,
-      "d_avi": 29.6,
-      "nfl_team": "SF",
-      "owner_id": "308805697879937024",
-      "player_name": "Brandon Aiyuk",
-      "position": "WR",
-      "roster_id": 10,
-      "sleeper_id": "6803",
-      "status": "Active",
-      "team_file": "10_SmokyValleyWheatWarriors.md",
-      "team_name": "SmokyValleyWheatWarriors"
     },
     {
       "active": true,
@@ -4093,6 +4065,22 @@
       "status": "Active",
       "team_file": "02_Rapid_Valley_Annihilation.md",
       "team_name": "Rapid Valley Annihilation"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00012499",
+      "c_avi": 24.1,
+      "d_avi": 58.2,
+      "nfl_team": "TEN",
+      "owner_id": "308805697879937024",
+      "player_name": "Elic Ayomanor",
+      "position": "WR",
+      "roster_id": 10,
+      "sleeper_id": "12499",
+      "status": "Active",
+      "team_file": "10_SmokyValleyWheatWarriors.md",
+      "team_name": "SmokyValleyWheatWarriors"
     },
     {
       "active": true,
@@ -5530,6 +5518,22 @@
       "position": "WR",
       "roster_id": 4,
       "sleeper_id": "11628",
+      "status": "Active",
+      "team_file": "04_Mile_High_Royal_Lions.md",
+      "team_name": "Mile High Royal Lions"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00009494",
+      "c_avi": 24.8,
+      "d_avi": 50.1,
+      "nfl_team": "DEN",
+      "owner_id": "736992907139158016",
+      "player_name": "Marvin Mims Jr.",
+      "position": "WR",
+      "roster_id": 4,
+      "sleeper_id": "9494",
       "status": "Active",
       "team_file": "04_Mile_High_Royal_Lions.md",
       "team_name": "Mile High Royal Lions"

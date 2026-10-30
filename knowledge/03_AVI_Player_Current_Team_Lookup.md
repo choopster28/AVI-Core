@@ -156,14 +156,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 5
 - Team file: 05_Northside_Kings.md
 
-## PLAYER LOOKUP: Brandon Aiyuk
-- Player name: Brandon Aiyuk
-- Player ID: 6803
-- Position: WR
-- Current owner team: SmokyValleyWheatWarriors
-- Current owner roster ID: 10
-- Team file: 10_SmokyValleyWheatWarriors.md
-
 ## PLAYER LOOKUP: Breece Hall
 - Player name: Breece Hall
 - Player ID: 8155
@@ -667,6 +659,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Rapid Valley Annihilation
 - Current owner roster ID: 2
 - Team file: 02_Rapid_Valley_Annihilation.md
+
+## PLAYER LOOKUP: Elic Ayomanor
+- Player name: Elic Ayomanor
+- Player ID: 12499
+- Position: WR
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Team file: 10_SmokyValleyWheatWarriors.md
 
 ## PLAYER LOOKUP: Emanuel Wilson
 - Player name: Emanuel Wilson
@@ -1383,6 +1383,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 ## PLAYER LOOKUP: Marvin Harrison Jr.
 - Player name: Marvin Harrison Jr.
 - Player ID: 11628
+- Position: WR
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Team file: 04_Mile_High_Royal_Lions.md
+
+## PLAYER LOOKUP: Marvin Mims Jr.
+- Player name: Marvin Mims Jr.
+- Player ID: 9494
 - Position: WR
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
@@ -2259,15 +2267,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 50.2
 - Availability: available
 
-## AVAILABLE PLAYER: Marvin Mims Jr.
-- Player name: Marvin Mims Jr.
-- Player ID: 9494
-- Position: WR
-- NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 24.8
-- Dynasty AVI (D-AVI, 0-100): 50.1
-- Availability: available
-
 ## AVAILABLE PLAYER: Isiah Pacheco
 - Player name: Isiah Pacheco
 - Player ID: 8205
@@ -2320,15 +2319,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: GB
 - Championship AVI (C-AVI, 0-100): 24.1
 - Dynasty AVI (D-AVI, 0-100): 44.2
-- Availability: available
-
-## AVAILABLE PLAYER: Elic Ayomanor
-- Player name: Elic Ayomanor
-- Player ID: 12499
-- Position: WR
-- NFL team: TEN
-- Championship AVI (C-AVI, 0-100): 24.1
-- Dynasty AVI (D-AVI, 0-100): 58.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Elijah Sarratt
@@ -3589,6 +3579,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 0.0
+- Availability: available
+
+## AVAILABLE PLAYER: Brandon Aiyuk
+- Player name: Brandon Aiyuk
+- Player ID: 6803
+- Position: WR
+- NFL team: SF
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 29.6
 - Availability: available
 
 ## AVAILABLE PLAYER: CJ Daniels
