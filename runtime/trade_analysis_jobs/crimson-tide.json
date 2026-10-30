@@ -1,5 +1,45 @@
 [
   {
+    "id": "mvvgy1nj-49e0ba0b",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "goal": "Rebuild",
+      "partnerGoal": "Increase Championship Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Jakobi Meyers",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+            "assetType": "pick"
+          },
+          {
+            "name": "2027 3rd · Mile High · Projected Late · original owner Mile High Royal Lions",
+            "assetType": "pick"
+          },
+          {
+            "name": "Xavier Hutchinson",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1793394776288,
+    "updatedAt": 1793394776288,
+    "expiresAt": 1793826776288,
+    "status": "queued"
+  },
+  {
     "id": "mvuf8j3t-e8f3284f",
     "phase": "initial",
     "mode": "analyze_trade",
