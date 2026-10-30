@@ -388,14 +388,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 10
 - Team file: 10_SmokyValleyWheatWarriors.md
 
-## PLAYER LOOKUP: Corey Kiner
-- Player name: Corey Kiner
-- Player ID: 12491
-- Position: RB
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Team file: 04_Mile_High_Royal_Lions.md
-
 ## PLAYER LOOKUP: Courtland Sutton
 - Player name: Courtland Sutton
 - Player ID: 5045
@@ -667,6 +659,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: SmokyValleyWheatWarriors
 - Current owner roster ID: 10
 - Team file: 10_SmokyValleyWheatWarriors.md
+
+## PLAYER LOOKUP: Elijah Moore
+- Player name: Elijah Moore
+- Player ID: 7596
+- Position: WR
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Team file: 04_Mile_High_Royal_Lions.md
 
 ## PLAYER LOOKUP: Emanuel Wilson
 - Player name: Emanuel Wilson
@@ -1019,6 +1019,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
+
+## PLAYER LOOKUP: Jerry Jeudy
+- Player name: Jerry Jeudy
+- Player ID: 6783
+- Position: WR
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Team file: 04_Mile_High_Royal_Lions.md
 
 ## PLAYER LOOKUP: Joe Burrow
 - Player name: Joe Burrow
@@ -2033,15 +2041,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 32.6
 - Availability: available
 
-## AVAILABLE PLAYER: Jerry Jeudy
-- Player name: Jerry Jeudy
-- Player ID: 6783
-- Position: WR
-- NFL team: CLE
-- Championship AVI (C-AVI, 0-100): 32.4
-- Dynasty AVI (D-AVI, 0-100): 56.8
-- Availability: available
-
 ## AVAILABLE PLAYER: Mack Hollins
 - Player name: Mack Hollins
 - Player ID: 4177
@@ -3032,6 +3031,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 39.9
 - Availability: available
 
+## AVAILABLE PLAYER: Corey Kiner
+- Player name: Corey Kiner
+- Player ID: 12491
+- Position: RB
+- NFL team: NE
+- Championship AVI (C-AVI, 0-100): 17.9
+- Dynasty AVI (D-AVI, 0-100): 36.4
+- Availability: available
+
 ## AVAILABLE PLAYER: Jaleel McLaughlin
 - Player name: Jaleel McLaughlin
 - Player ID: 11439
@@ -3687,15 +3695,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 0.0
-- Availability: available
-
-## AVAILABLE PLAYER: Elijah Moore
-- Player name: Elijah Moore
-- Player ID: 7596
-- Position: WR
-- NFL team: PHI
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 6.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Frank Gore Jr.

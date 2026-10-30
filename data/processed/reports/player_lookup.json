@@ -39,18 +39,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00006783",
-      "c_avi": 32.4,
-      "d_avi": 56.8,
-      "nfl_team": "CLE",
-      "player_name": "Jerry Jeudy",
-      "position": "WR",
-      "sleeper_id": "6783",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00004177",
       "c_avi": 31.0,
       "d_avi": 46.3,
@@ -1371,6 +1359,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00012491",
+      "c_avi": 17.9,
+      "d_avi": 36.4,
+      "nfl_team": "NE",
+      "player_name": "Corey Kiner",
+      "position": "RB",
+      "sleeper_id": "12491",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00011439",
       "c_avi": 17.9,
       "d_avi": 41.7,
@@ -2247,18 +2247,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00007596",
-      "c_avi": 0.0,
-      "d_avi": 6.2,
-      "nfl_team": "PHI",
-      "player_name": "Elijah Moore",
-      "position": "WR",
-      "sleeper_id": "7596",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00011573",
       "c_avi": 0.0,
       "d_avi": 0.0,
@@ -2750,8 +2738,8 @@
     }
   ],
   "counts": {
-    "available_players": 229,
-    "rostered_players": 250
+    "available_players": 228,
+    "rostered_players": 251
   },
   "rostered_players": [
     {
@@ -3525,22 +3513,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00012491",
-      "c_avi": 17.9,
-      "d_avi": 36.4,
-      "nfl_team": "NE",
-      "owner_id": "736992907139158016",
-      "player_name": "Corey Kiner",
-      "position": "RB",
-      "roster_id": 4,
-      "sleeper_id": "12491",
-      "status": "Active",
-      "team_file": "04_Mile_High_Royal_Lions.md",
-      "team_name": "Mile High Royal Lions"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00005045",
       "c_avi": 36.3,
       "d_avi": 68.8,
@@ -4081,6 +4053,22 @@
       "status": "Active",
       "team_file": "10_SmokyValleyWheatWarriors.md",
       "team_name": "SmokyValleyWheatWarriors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00007596",
+      "c_avi": 0.0,
+      "d_avi": 6.2,
+      "nfl_team": "PHI",
+      "owner_id": "736992907139158016",
+      "player_name": "Elijah Moore",
+      "position": "WR",
+      "roster_id": 4,
+      "sleeper_id": "7596",
+      "status": "Active",
+      "team_file": "04_Mile_High_Royal_Lions.md",
+      "team_name": "Mile High Royal Lions"
     },
     {
       "active": true,
@@ -4785,6 +4773,22 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00006783",
+      "c_avi": 32.4,
+      "d_avi": 56.8,
+      "nfl_team": "CLE",
+      "owner_id": "736992907139158016",
+      "player_name": "Jerry Jeudy",
+      "position": "WR",
+      "roster_id": 4,
+      "sleeper_id": "6783",
+      "status": "Active",
+      "team_file": "04_Mile_High_Royal_Lions.md",
+      "team_name": "Mile High Royal Lions"
     },
     {
       "active": true,
