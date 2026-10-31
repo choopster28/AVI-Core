@@ -17,25 +17,25 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **96**
-- Owner trade participations: **194**
-- Two-team trades: **94**
+- Unique completed trades: **97**
+- Owner trade participations: **196**
+- Two-team trades: **95**
 - Three-team trades: **2**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **53**
+- 2026 completed trades: **54**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-10-28T22:55:55.047000+00:00**
+- Latest verified trade: **2026-10-30T04:31:56.546000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | Corgi Loaf Baking Co.  | awang1900 | **28** | 7 | 4 | 17 | 40 | 40 | 10 | 16 | 7 | 10 |
+| 1 | Corgi Loaf Baking Co.  | awang1900 | **29** | 7 | 4 | 18 | 41 | 40 | 10 | 17 | 7 | 10 |
 | 2 | Ravens Regime  | Mentomorii | **23** | 3 | 3 | 17 | 23 | 28 | 6 | 11 | 2 | 4 |
 | 3 | Big Balder Brand | Choopski | **22** | 7 | 2 | 13 | 34 | 35 | 3 | 8 | 1 | 4 |
 | 4 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
-| 5 | Northside Kings  | srsmith95 | **18** | 6 | 5 | 7 | 19 | 15 | 12 | 5 | 5 | 3 |
+| 5 | Northside Kings  | srsmith95 | **19** | 6 | 5 | 8 | 19 | 16 | 13 | 5 | 5 | 3 |
 | 6 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
 | 7 | Badland Banditos  | IcebergSlim69 | **11** | 4 | 4 | 3 | 12 | 12 | 4 | 8 | 1 | 3 |
 | 8 | Mile High Royal Lions | shawnh56 | **10** | 0 | 8 | 2 | 10 | 13 | 5 | 4 | 1 | 2 |
@@ -70,6 +70,24 @@
 | Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽 | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1421752484732370944
+- Season: 2026
+- Week: 8
+- Created at UTC: 2026-10-30T04:31:56.546000+00:00
+- Teams involved: 2
+
+#### Northside Kings  (srsmith95)
+- Players received: None
+- Players sent: Ryan Flournoy
+- Picks received: 2027 Round 2 (original roster 7)
+- Picks sent: None
+
+#### Corgi Loaf Baking Co.  (awang1900)
+- Players received: Ryan Flournoy
+- Players sent: None
+- Picks received: None
+- Picks sent: 2027 Round 2 (original roster 7)
 
 ### TRADE: 1421305533410873344
 - Season: 2026

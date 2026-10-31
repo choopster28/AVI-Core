@@ -1664,9 +1664,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Ryan Flournoy
 - Player ID: 11783
 - Position: WR
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Team file: 05_Northside_Kings.md
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Sam Darnold
 - Player name: Sam Darnold

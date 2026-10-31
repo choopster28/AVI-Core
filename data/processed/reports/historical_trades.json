@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-31T17:16:05.851807+00:00",
+  "generated_at_utc": "2026-10-31T20:08:34.239581+00:00",
   "statistics": {
-    "owner_trade_participations": 194,
+    "owner_trade_participations": 196,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -143,18 +143,18 @@
         "by_season": {
           "2024": 7,
           "2025": 4,
-          "2026": 17
+          "2026": 18
         },
         "firsts_in": 7,
         "firsts_out": 10,
         "owner_display_name": "awang1900",
         "picks_in": 10,
-        "picks_out": 16,
-        "players_in": 40,
+        "picks_out": 17,
+        "players_in": 41,
         "players_out": 40,
         "roster_id": 11,
         "team_name": "Corgi Loaf Baking Co. ",
-        "total": 28
+        "total": 29
       },
       {
         "by_season": {
@@ -211,18 +211,18 @@
         "by_season": {
           "2024": 6,
           "2025": 5,
-          "2026": 7
+          "2026": 8
         },
         "firsts_in": 5,
         "firsts_out": 3,
         "owner_display_name": "srsmith95",
-        "picks_in": 12,
+        "picks_in": 13,
         "picks_out": 5,
         "players_in": 19,
-        "players_out": 15,
+        "players_out": 16,
         "roster_id": 5,
         "team_name": "Northside Kings ",
-        "total": 18
+        "total": 19
       },
       {
         "by_season": {
@@ -407,10 +407,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 53
+      "2026": 54
     },
-    "two_team_trades": 94,
-    "unique_completed_trades": 96
+    "two_team_trades": 95,
+    "unique_completed_trades": 97
   },
   "trades": [
     {
@@ -7197,6 +7197,64 @@
         }
       ],
       "transaction_id": "1421305533410873344",
+      "week": 8
+    },
+    {
+      "created_at_utc": "2026-10-30T04:31:56.546000+00:00",
+      "created_timestamp_ms": 1793334716546,
+      "roster_ids": [
+        5,
+        11
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "srsmith95",
+          "owner_id": "872351659366539264",
+          "picks_received": [
+            {
+              "original_roster_id": 7,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "11783",
+              "player_name": "Ryan Flournoy"
+            }
+          ],
+          "roster_id": 5,
+          "season": 2026,
+          "team_name": "Northside Kings "
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 7,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11783",
+              "player_name": "Ryan Flournoy"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        }
+      ],
+      "transaction_id": "1421752484732370944",
       "week": 8
     }
   ]

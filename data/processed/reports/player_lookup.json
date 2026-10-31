@@ -178,7 +178,7 @@
       "player_name": "Jack Bech",
       "position": "WR",
       "sleeper_id": "12483",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "active": true,
@@ -6061,14 +6061,14 @@
       "c_avi": 46.7,
       "d_avi": 62.9,
       "nfl_team": "DAL",
-      "owner_id": "872351659366539264",
+      "owner_id": "986498458162970624",
       "player_name": "Ryan Flournoy",
       "position": "WR",
-      "roster_id": 5,
+      "roster_id": 11,
       "sleeper_id": "11783",
       "status": "Active",
-      "team_file": "05_Northside_Kings.md",
-      "team_name": "Northside Kings "
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,
