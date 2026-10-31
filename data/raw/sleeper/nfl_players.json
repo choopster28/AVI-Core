@@ -44807,7 +44807,7 @@
       "genius_id": "1076954",
       "rookie_year": "2023"
     },
-    "news_updated": 1792453832894,
+    "news_updated": 1793478626572,
     "number": 11,
     "oddsjam_id": "926C384DD272",
     "opta_id": null,
@@ -62745,7 +62745,7 @@
       "genius_id": "1463721",
       "rookie_year": "2024"
     },
-    "news_updated": 1793398515453,
+    "news_updated": 1793477426784,
     "number": 99,
     "oddsjam_id": "4263436D24A3",
     "opta_id": null,
@@ -63233,7 +63233,7 @@
       "genius_id": "1463693",
       "rookie_year": "2024"
     },
-    "news_updated": 1793406616810,
+    "news_updated": 1793478626618,
     "number": 95,
     "oddsjam_id": "395A76D64B44",
     "opta_id": null,
@@ -64867,7 +64867,7 @@
       "genius_id": "1463909",
       "rookie_year": "2024"
     },
-    "news_updated": 1788110157666,
+    "news_updated": 1793479226541,
     "number": 50,
     "oddsjam_id": "B4E39A00DF50",
     "opta_id": null,
@@ -65404,7 +65404,7 @@
     "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": "18b55bed-9cd5-47b7-9992-8bfc093c0503",
     "last_name": "Tampa Jr.",
     "metadata": {
@@ -65412,7 +65412,7 @@
       "genius_id": "1463666",
       "rookie_year": "2024"
     },
-    "news_updated": 1793323807057,
+    "news_updated": 1793479226551,
     "number": 27,
     "oddsjam_id": "A984C5CF8BA9",
     "opta_id": null,
@@ -65431,7 +65431,7 @@
     "sport": "nfl",
     "sportradar_id": "1f02c2e7-da1f-4709-8bbc-82e6ffc6d400",
     "stats_id": null,
-    "status": "Inactive",
+    "status": "Active",
     "swish_id": 1223028,
     "team": "BAL",
     "team_abbr": null,
@@ -108820,10 +108820,10 @@
     "hashtag": "#tecorycouch-NFL-BUF-33",
     "height": "70",
     "high_school": "Chaminade-Madonna (FL)",
-    "injury_body_part": "Hamstring",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "4c5cd61b-9a52-44a3-a0e4-627909cfa292",
     "last_name": "Couch",
     "metadata": {
@@ -116043,7 +116043,7 @@
     "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "kalshi_id": "70e9f488-aae9-4335-99e6-82ff2c7b2fe8",
     "last_name": "Harvey",
     "metadata": {
@@ -116052,7 +116052,7 @@
       "rookie_year": "2025",
       "source_id": "94c3c50f-def5-4f33-9fca-807558d19c6e"
     },
-    "news_updated": 1793400915398,
+    "news_updated": 1793478626561,
     "number": 12,
     "oddsjam_id": "946284FA139C8D43",
     "opta_id": null,
@@ -116071,7 +116071,7 @@
     "sport": "nfl",
     "sportradar_id": "fc6dbb83-b2b1-4962-b793-e79b2378b525",
     "stats_id": null,
-    "status": "Active",
+    "status": "Inactive",
     "swish_id": null,
     "team": "DEN",
     "team_abbr": null,
@@ -126850,7 +126850,7 @@
     "injury_body_part": "Hamstring",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "84be6ef6-a891-47ee-9fc5-ab3ff6b8bf92",
     "last_name": "Bowman Jr.",
     "metadata": {
@@ -126858,7 +126858,7 @@
       "genius_id": "1500212",
       "rookie_year": "2025"
     },
-    "news_updated": 1793382014794,
+    "news_updated": 1793478027039,
     "number": 33,
     "oddsjam_id": "50D3055A655AA64C",
     "opta_id": null,
@@ -143076,7 +143076,7 @@
       "genius_id": "1499956",
       "rookie_year": "2025"
     },
-    "news_updated": 1793395515095,
+    "news_updated": 1793478027019,
     "number": 88,
     "oddsjam_id": "CC8F84DDD96D8681",
     "opta_id": null,
@@ -148446,7 +148446,7 @@
       "genius_id": "1488029",
       "rookie_year": "2025"
     },
-    "news_updated": 1789086929680,
+    "news_updated": 1793478626586,
     "number": 34,
     "oddsjam_id": "95515438F5363A92",
     "opta_id": null,
@@ -188688,7 +188688,7 @@
       "genius_id": "1492913",
       "rookie_year": "2026"
     },
-    "news_updated": 1788216313855,
+    "news_updated": 1793479226522,
     "number": 57,
     "oddsjam_id": null,
     "opta_id": null,
@@ -190809,7 +190809,7 @@
       "genius_id": "1495557",
       "rookie_year": "2026"
     },
-    "news_updated": 1788037849658,
+    "news_updated": 1793478626532,
     "number": 43,
     "oddsjam_id": null,
     "opta_id": null,
@@ -406516,7 +406516,7 @@
       "genius_id": "998603",
       "rookie_year": "2017"
     },
-    "news_updated": 1793057412143,
+    "news_updated": 1793479226531,
     "number": 31,
     "oddsjam_id": "5ACC7BBB5AC5D920",
     "opta_id": null,
@@ -454512,7 +454512,7 @@
     "injury_body_part": "Hamstring",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "kalshi_id": "541d685f-8bcb-411c-8738-1d930102ce76",
     "last_name": "James Jr.",
     "metadata": {
@@ -454539,7 +454539,7 @@
     "sport": "nfl",
     "sportradar_id": "01c52412-7257-4213-b8b3-effa7c5dd5c7",
     "stats_id": null,
-    "status": "Active",
+    "status": "Inactive",
     "swish_id": 867045,
     "team": "LAC",
     "team_abbr": null,
@@ -454824,7 +454824,7 @@
       "genius_id": "1068277",
       "rookie_year": "2018"
     },
-    "news_updated": 1793463323189,
+    "news_updated": 1793477426760,
     "number": 94,
     "oddsjam_id": "F41FEEDD0D51",
     "opta_id": null,
@@ -522799,7 +522799,7 @@
       "genius_id": "1014672",
       "rookie_year": "2019"
     },
-    "news_updated": 1786491644720,
+    "news_updated": 1793478626603,
     "number": 55,
     "oddsjam_id": "39EB413D2015",
     "opta_id": null,
@@ -549005,7 +549005,7 @@
       "genius_id": "1007147",
       "rookie_year": "2019"
     },
-    "news_updated": 1792953308482,
+    "news_updated": 1793477426771,
     "number": 1,
     "oddsjam_id": "05B1EC62F1F2",
     "opta_id": null,
@@ -623503,7 +623503,7 @@
       "genius_id": "1032314",
       "rookie_year": "2021"
     },
-    "news_updated": 1793395214883,
+    "news_updated": 1793478626550,
     "number": 38,
     "oddsjam_id": "B480027E53AC",
     "opta_id": null,
@@ -626336,7 +626336,7 @@
       "genius_id": "1014824",
       "rookie_year": "2021"
     },
-    "news_updated": 1793463323160,
+    "news_updated": 1793478626630,
     "number": 25,
     "oddsjam_id": "682B740727E1",
     "opta_id": null,
@@ -630932,7 +630932,7 @@
     "injury_body_part": "Forearm",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "8b9fe7a0-d3d0-418e-92dc-04749e50af69",
     "last_name": "Deablo",
     "metadata": {
@@ -630940,7 +630940,7 @@
       "genius_id": "1014403",
       "rookie_year": "2021"
     },
-    "news_updated": 1793395215157,
+    "news_updated": 1793478027003,
     "number": 0,
     "oddsjam_id": "8EFF41628803",
     "opta_id": null,
@@ -671310,7 +671310,7 @@
       "genius_id": "1076539",
       "rookie_year": "2022"
     },
-    "news_updated": 1790732711507,
+    "news_updated": 1793478626645,
     "number": 41,
     "oddsjam_id": "5E854A57CBCD",
     "opta_id": null,
