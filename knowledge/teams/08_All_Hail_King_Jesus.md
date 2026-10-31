@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 572.6
-- championship_lineup_c_avi_avg: 71.58
-- offensive_roster_c_avi_sum: 805.9
+- championship_lineup_c_avi_sum: 572.5
+- championship_lineup_c_avi_avg: 71.56
+- offensive_roster_c_avi_sum: 805.8
 - offensive_roster_c_avi_avg: 57.56
 - offensive_roster_d_avi_sum: 1034.3
 - offensive_roster_d_avi_avg: 73.88
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 79.6 | D-AVI: 83.9
 - RB: D'Andre Swift | C-AVI: 81.3 | D-AVI: 86.6
-- RB: Zach Charbonnet | C-AVI: 28.8 | D-AVI: 68.4
+- RB: Zach Charbonnet | C-AVI: 28.7 | D-AVI: 68.4
 - WR: Amon-Ra St. Brown | C-AVI: 95.9 | D-AVI: 98.3
 - WR: Tee Higgins | C-AVI: 86.7 | D-AVI: 89.6
 - TE: Tucker Kraft | C-AVI: 68.1 | D-AVI: 86.0
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 28.8
+- Championship AVI (C-AVI, 0-100): 28.7
 - Dynasty AVI (D-AVI, 0-100): 68.4
 - Projected PPR points: 67.2
 - Category: offense
