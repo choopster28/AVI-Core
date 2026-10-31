@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 308805697879937024
 - Division: 2
 - Waiver position: 5
-- Last updated from Sleeper exports: 2026-10-30
+- Last updated from Sleeper exports: 2026-10-31
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,21 +23,21 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 608.4
 - championship_lineup_c_avi_avg: 76.05
-- offensive_roster_c_avi_sum: 783.4
-- offensive_roster_c_avi_avg: 52.23
-- offensive_roster_d_avi_sum: 1074.3
-- offensive_roster_d_avi_avg: 71.62
+- offensive_roster_c_avi_sum: 807.5
+- offensive_roster_c_avi_avg: 53.83
+- offensive_roster_d_avi_sum: 1102.9
+- offensive_roster_d_avi_avg: 73.53
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Trevor Lawrence | C-AVI: 69.6 | D-AVI: 83.6
-- RB: Christian McCaffrey | C-AVI: 93.6 | D-AVI: 93.0
+- RB: Christian McCaffrey | C-AVI: 93.6 | D-AVI: 93.4
 - RB: James Cook III | C-AVI: 88.7 | D-AVI: 94.3
 - WR: CeeDee Lamb | C-AVI: 95.6 | D-AVI: 97.9
-- WR: Chris Olave | C-AVI: 90.4 | D-AVI: 95.5
+- WR: Chris Olave | C-AVI: 90.4 | D-AVI: 95.1
 - TE: George Kittle | C-AVI: 82.4 | D-AVI: 84.0
-- FLEX: Wan'Dale Robinson | C-AVI: 45.8 | D-AVI: 74.0
-- FLEX: Woody Marks | C-AVI: 42.3 | D-AVI: 71.2
+- FLEX: Wan'Dale Robinson | C-AVI: 45.8 | D-AVI: 74.3
+- FLEX: Woody Marks | C-AVI: 42.3 | D-AVI: 71.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 31.7
-- Dynasty AVI (D-AVI, 0-100): 65.3
+- Championship AVI (C-AVI, 0-100): 31.8
+- Dynasty AVI (D-AVI, 0-100): 66.0
 - Projected PPR points: 283.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -105,7 +105,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 30.0
 - Championship AVI (C-AVI, 0-100): 93.6
-- Dynasty AVI (D-AVI, 0-100): 93.0
+- Dynasty AVI (D-AVI, 0-100): 93.4
 - Projected PPR points: 291.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -139,7 +139,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 42.3
-- Dynasty AVI (D-AVI, 0-100): 71.2
+- Dynasty AVI (D-AVI, 0-100): 71.7
 - Projected PPR points: 83.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -156,7 +156,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 40.6
-- Dynasty AVI (D-AVI, 0-100): 63.3
+- Dynasty AVI (D-AVI, 0-100): 62.8
 - Projected PPR points: 69.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -207,7 +207,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 90.4
-- Dynasty AVI (D-AVI, 0-100): 95.5
+- Dynasty AVI (D-AVI, 0-100): 95.1
 - Projected PPR points: 235.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -224,7 +224,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 45.8
-- Dynasty AVI (D-AVI, 0-100): 74.0
+- Dynasty AVI (D-AVI, 0-100): 74.3
 - Projected PPR points: 170.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,28 +240,28 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 27.1
-- Dynasty AVI (D-AVI, 0-100): 49.7
+- Championship AVI (C-AVI, 0-100): 27.0
+- Dynasty AVI (D-AVI, 0-100): 46.9
 - Projected PPR points: 86.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Brandon Aiyuk
-- Player name: Brandon Aiyuk
-- Player ID: 6803
+### PLAYER: Elic Ayomanor
+- Player name: Elic Ayomanor
+- Player ID: 12499
 - Current owner team: SmokyValleyWheatWarriors
 - Current owner roster ID: 10
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: SF
+- NFL team: TEN
 - Active: True
 - Status: Active
-- Age: 28.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 29.6
-- Projected PPR points: None
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 24.1
+- Dynasty AVI (D-AVI, 0-100): 57.9
+- Projected PPR points: 56.7
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Tyreek Hill
 - Player name: Tyreek Hill
@@ -275,7 +275,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 30.0
+- Dynasty AVI (D-AVI, 0-100): 32.1
 - Projected PPR points: None
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED

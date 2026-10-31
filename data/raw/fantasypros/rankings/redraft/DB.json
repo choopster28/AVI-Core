@@ -7443,7 +7443,7 @@
     },
     {
       "cbs_player_id": "3171180",
-      "player_bye_week": null,
+      "player_bye_week": "5",
       "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "caelen-carson.php",
@@ -7456,7 +7456,7 @@
       "player_position_id": "CB",
       "player_positions": "CB",
       "player_short_name": "C. Carson",
-      "player_team_id": "FA",
+      "player_team_id": "CAR",
       "player_yahoo_id": "41023",
       "player_yahoo_positions": "DB,CB",
       "pos_rank": "CB134",
