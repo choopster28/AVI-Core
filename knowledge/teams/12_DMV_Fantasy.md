@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 308.9
-- championship_lineup_c_avi_avg: 38.61
+- championship_lineup_c_avi_sum: 308.8
+- championship_lineup_c_avi_avg: 38.60
 - offensive_roster_c_avi_sum: 459.2
 - offensive_roster_c_avi_avg: 35.32
 - offensive_roster_d_avi_sum: 826.3
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Keaton Mitchell | C-AVI: 29.7 | D-AVI: 59.8
 - WR: Jalen Coker | C-AVI: 61.8 | D-AVI: 80.2
 - WR: Jauan Jennings | C-AVI: 29.2 | D-AVI: 55.2
-- TE: Brenton Strange | C-AVI: 55.8 | D-AVI: 78.7
+- TE: Brenton Strange | C-AVI: 55.7 | D-AVI: 78.7
 - FLEX: Chig Okonkwo | C-AVI: 31.7 | D-AVI: 68.8
 - FLEX: Isaac TeSlaa | C-AVI: 27.5 | D-AVI: 60.2
 
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 18.8
+- Championship AVI (C-AVI, 0-100): 18.9
 - Dynasty AVI (D-AVI, 0-100): 31.0
 - Projected PPR points: 6.7
 - Category: offense
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 55.8
+- Championship AVI (C-AVI, 0-100): 55.7
 - Dynasty AVI (D-AVI, 0-100): 78.7
 - Projected PPR points: 161.0
 - Category: offense

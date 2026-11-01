@@ -14,17 +14,17 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Roster Counts
 - total_players: 20
-- offense: 12
+- offense: 13
 - kickers: 1
-- idp: 7
+- idp: 6
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 501.5
-- championship_lineup_c_avi_avg: 62.69
-- offensive_roster_c_avi_sum: 616.4
-- offensive_roster_c_avi_avg: 51.37
+- championship_lineup_c_avi_sum: 501.4
+- championship_lineup_c_avi_avg: 62.67
+- offensive_roster_c_avi_sum: 616.3
+- offensive_roster_c_avi_avg: 51.36
 - offensive_roster_d_avi_sum: 893.1
 - offensive_roster_d_avi_avg: 74.42
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -33,7 +33,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - QB: C.J. Stroud | C-AVI: 48.4 | D-AVI: 72.6
 - RB: Ashton Jeanty | C-AVI: 86.8 | D-AVI: 94.4
 - RB: Jaylen Warren | C-AVI: 76.2 | D-AVI: 82.5
-- WR: Michael Wilson | C-AVI: 63.3 | D-AVI: 81.5
+- WR: Michael Wilson | C-AVI: 63.2 | D-AVI: 81.5
 - WR: Rome Odunze | C-AVI: 51.1 | D-AVI: 82.0
 - TE: Sam LaPorta | C-AVI: 75.9 | D-AVI: 87.2
 - FLEX: Hunter Henry | C-AVI: 58.7 | D-AVI: 71.7
@@ -92,6 +92,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 13.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Tanner McKee
+- Player name: Tanner McKee
+- Player ID: 9230
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: offense
+- Valuation status: NOT_IN_AVI_OUTPUT
 
 ### PLAYER: Ashton Jeanty
 - Player name: Ashton Jeanty
@@ -155,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 63.3
+- Championship AVI (C-AVI, 0-100): 63.2
 - Dynasty AVI (D-AVI, 0-100): 81.5
 - Projected PPR points: 166.0
 - Category: offense
@@ -274,23 +291,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 35.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Jonathan Greenard
-- Player name: Jonathan Greenard
-- Player ID: 6900
-- Current owner team: Phalhala or Bust
-- Current owner roster ID: 14
-- Position: DL
-- Fantasy positions: ['DL', 'LB']
-- NFL team: PHI
-- Active: True
-- Status: Active
-- Age: 29.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

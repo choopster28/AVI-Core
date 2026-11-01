@@ -21,17 +21,17 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 421.3
-- championship_lineup_c_avi_avg: 52.66
-- offensive_roster_c_avi_sum: 659.5
+- championship_lineup_c_avi_sum: 421.2
+- championship_lineup_c_avi_avg: 52.65
+- offensive_roster_c_avi_sum: 659.4
 - offensive_roster_c_avi_avg: 38.79
-- offensive_roster_d_avi_sum: 1140.9
+- offensive_roster_d_avi_sum: 1140.8
 - offensive_roster_d_avi_avg: 67.11
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Caleb Williams | C-AVI: 67.3 | D-AVI: 85.0
-- RB: Quinshon Judkins | C-AVI: 69.7 | D-AVI: 86.7
+- RB: Quinshon Judkins | C-AVI: 69.6 | D-AVI: 86.6
 - RB: Ollie Gordon II | C-AVI: 46.6 | D-AVI: 64.1
 - WR: Omar Cooper Jr. | C-AVI: 62.8 | D-AVI: 78.4
 - WR: Denzel Boston | C-AVI: 50.8 | D-AVI: 81.5
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 69.7
-- Dynasty AVI (D-AVI, 0-100): 86.7
+- Championship AVI (C-AVI, 0-100): 69.6
+- Dynasty AVI (D-AVI, 0-100): 86.6
 - Projected PPR points: 196.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
