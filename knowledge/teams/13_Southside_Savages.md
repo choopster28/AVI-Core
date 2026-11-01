@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 998253660243054592
 - Division: 2
 - Waiver position: 6
-- Last updated from Sleeper exports: 2026-10-31
+- Last updated from Sleeper exports: 2026-11-01
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,8 +21,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 502.3
-- championship_lineup_c_avi_avg: 62.79
+- championship_lineup_c_avi_sum: 496.2
+- championship_lineup_c_avi_avg: 62.02
 - offensive_roster_c_avi_sum: 669.6
 - offensive_roster_c_avi_avg: 47.83
 - offensive_roster_d_avi_sum: 969.8
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Luther Burden III | C-AVI: 75.3 | D-AVI: 90.1
 - TE: Pat Freiermuth | C-AVI: 46.0 | D-AVI: 61.4
 - FLEX: DK Metcalf | C-AVI: 60.8 | D-AVI: 79.5
-- FLEX: TreVeyon Henderson | C-AVI: 36.5 | D-AVI: 78.1
+- FLEX: Kayshon Boutte | C-AVI: 30.4 | D-AVI: 61.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.

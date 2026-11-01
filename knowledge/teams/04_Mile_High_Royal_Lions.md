@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736992907139158016
 - Division: 4
 - Waiver position: 3
-- Last updated from Sleeper exports: 2026-10-31
+- Last updated from Sleeper exports: 2026-11-01
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 532.1
-- championship_lineup_c_avi_avg: 66.51
-- offensive_roster_c_avi_sum: 867.3
+- championship_lineup_c_avi_sum: 532.0
+- championship_lineup_c_avi_avg: 66.50
+- offensive_roster_c_avi_sum: 867.2
 - offensive_roster_c_avi_avg: 48.18
 - offensive_roster_d_avi_sum: 1220.8
 - offensive_roster_d_avi_avg: 67.82
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Drake London | C-AVI: 90.1 | D-AVI: 95.9
 - WR: Garrett Wilson | C-AVI: 75.5 | D-AVI: 90.7
 - TE: Travis Kelce | C-AVI: 74.1 | D-AVI: 78.5
-- FLEX: Dalton Schultz | C-AVI: 52.1 | D-AVI: 69.9
+- FLEX: Dalton Schultz | C-AVI: 52.0 | D-AVI: 69.9
 - FLEX: Marvin Harrison Jr. | C-AVI: 43.5 | D-AVI: 76.3
 
 ## Current Roster — All Player Cards
@@ -342,7 +342,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 52.1
+- Championship AVI (C-AVI, 0-100): 52.0
 - Dynasty AVI (D-AVI, 0-100): 69.9
 - Projected PPR points: 150.9
 - Category: offense

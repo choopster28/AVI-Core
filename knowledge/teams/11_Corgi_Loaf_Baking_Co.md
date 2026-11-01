@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 8
-- Last updated from Sleeper exports: 2026-10-31
+- Last updated from Sleeper exports: 2026-11-01
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 549.8
 - championship_lineup_c_avi_avg: 68.72
-- offensive_roster_c_avi_sum: 798.1
-- offensive_roster_c_avi_avg: 53.21
-- offensive_roster_d_avi_sum: 1116.4
-- offensive_roster_d_avi_avg: 74.43
+- offensive_roster_c_avi_sum: 844.8
+- offensive_roster_c_avi_avg: 52.80
+- offensive_roster_d_avi_sum: 1179.3
+- offensive_roster_d_avi_avg: 73.71
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -155,28 +155,11 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 29.2
+- Championship AVI (C-AVI, 0-100): 29.3
 - Dynasty AVI (D-AVI, 0-100): 63.7
 - Projected PPR points: 97.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Elijah Mitchell
-- Player name: Elijah Mitchell
-- Player ID: 7561
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: PHI
-- Active: True
-- Status: Active
-- Age: 28.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: offense
-- Valuation status: NOT_IN_AVI_OUTPUT
 
 ### PLAYER: Jaxon Smith-Njigba
 - Player name: Jaxon Smith-Njigba
@@ -229,6 +212,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Ryan Flournoy
+- Player name: Ryan Flournoy
+- Player ID: 11783
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: DAL
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 46.7
+- Dynasty AVI (D-AVI, 0-100): 62.9
+- Projected PPR points: 121.2
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Malachi Fields
 - Player name: Malachi Fields
 - Player ID: 13285
@@ -257,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 24.9
+- Championship AVI (C-AVI, 0-100): 24.8
 - Dynasty AVI (D-AVI, 0-100): 33.9
 - Projected PPR points: 32.0
 - Category: offense
