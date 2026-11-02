@@ -157,9 +157,9 @@
       }
     },
     {
-      "average": 2.7,
+      "average": 2.3,
       "filename": "dyami-brown.php",
-      "games": 6,
+      "games": 7,
       "player_id": 20113,
       "player_name": "Dyami Brown",
       "points": 16.4,
@@ -171,7 +171,8 @@
         "3": 0,
         "4": 9.5,
         "5": 1.2,
-        "6": 1.6
+        "6": 1.6,
+        "8": 0
       }
     },
     {
@@ -567,12 +568,12 @@
       }
     },
     {
-      "average": 6.9,
+      "average": 6.6,
       "filename": "darius-cooper.php",
-      "games": 7,
+      "games": 8,
       "player_id": 27866,
       "player_name": "Darius Cooper",
-      "points": 48.6,
+      "points": 52.5,
       "position_id": "WR",
       "team_id": "PHI",
       "weeks": {
@@ -582,7 +583,8 @@
         "4": 18.3,
         "5": 15.1,
         "6": 1.9,
-        "7": 2.7
+        "7": 2.7,
+        "8": 3.9
       }
     },
     {
@@ -1537,7 +1539,7 @@
       "player_name": "KhaDarel Hodge",
       "points": 2.8,
       "position_id": "WR",
-      "team_id": "FA",
+      "team_id": "SF",
       "weeks": {
         "1": 0,
         "2": 2.8,
@@ -2040,12 +2042,12 @@
       }
     },
     {
-      "average": 13.9,
+      "average": 13.7,
       "filename": "stefon-diggs.php",
-      "games": 5,
+      "games": 6,
       "player_id": 13981,
       "player_name": "Stefon Diggs",
-      "points": 69.4,
+      "points": 82.2,
       "position_id": "WR",
       "team_id": "WAS",
       "weeks": {
@@ -2053,7 +2055,8 @@
         "2": 21.7,
         "3": 7.3,
         "4": 8.5,
-        "6": 16.4
+        "6": 16.4,
+        "8": 12.8
       }
     },
     {
@@ -2108,12 +2111,12 @@
       }
     },
     {
-      "average": 7.1,
+      "average": 7.7,
       "filename": "makai-lemon.php",
-      "games": 7,
+      "games": 8,
       "player_id": 25420,
       "player_name": "Makai Lemon",
-      "points": 49.900000000000006,
+      "points": 61.60000000000001,
       "position_id": "WR",
       "team_id": "PHI",
       "weeks": {
@@ -2123,7 +2126,8 @@
         "4": 5.7,
         "5": 9.3,
         "6": 4.9,
-        "7": 19.7
+        "7": 19.7,
+        "8": 11.7
       }
     },
     {
@@ -2667,12 +2671,12 @@
       }
     },
     {
-      "average": 7.4,
+      "average": 7.8,
       "filename": "antonio-williams-wr.php",
-      "games": 6,
+      "games": 7,
       "player_id": 25418,
       "player_name": "Antonio Williams",
-      "points": 44.5,
+      "points": 54.9,
       "position_id": "WR",
       "team_id": "WAS",
       "weeks": {
@@ -2681,7 +2685,8 @@
         "3": 3.5,
         "4": 5.1,
         "5": 6.1,
-        "6": 8
+        "6": 8,
+        "8": 10.4
       }
     },
     {
@@ -3176,12 +3181,12 @@
       }
     },
     {
-      "average": 7.2,
+      "average": 7.9,
       "filename": "treylon-burks.php",
-      "games": 5,
+      "games": 6,
       "player_id": 22905,
       "player_name": "Treylon Burks",
-      "points": 36.2,
+      "points": 47.300000000000004,
       "position_id": "WR",
       "team_id": "WAS",
       "weeks": {
@@ -3189,7 +3194,8 @@
         "3": 9.3,
         "4": 11.7,
         "5": 4.6,
-        "6": 10.6
+        "6": 10.6,
+        "8": 11.1
       }
     },
     {
@@ -3353,17 +3359,18 @@
       }
     },
     {
-      "average": 3.1,
+      "average": 3.3,
       "filename": "marquise-brown.php",
-      "games": 2,
+      "games": 3,
       "player_id": 18226,
       "player_name": "Hollywood Brown",
-      "points": 6.2,
+      "points": 9.9,
       "position_id": "WR",
       "team_id": "PHI",
       "weeks": {
         "2": 1.2,
-        "7": 5
+        "7": 5,
+        "8": 3.7
       }
     },
     {
@@ -3426,7 +3433,7 @@
     {
       "average": 0,
       "filename": "luke-mccaffrey.php",
-      "games": 3,
+      "games": 4,
       "player_id": 26328,
       "player_name": "Luke McCaffrey",
       "points": 0,
@@ -3435,7 +3442,8 @@
       "weeks": {
         "3": 0,
         "5": 0,
-        "6": 0
+        "6": 0,
+        "8": 0
       }
     },
     {
@@ -3782,14 +3790,15 @@
     {
       "average": 0,
       "filename": "van-jefferson.php",
-      "games": 1,
+      "games": 2,
       "player_id": 19483,
       "player_name": "Van Jefferson",
       "points": 0,
       "position_id": "WR",
       "team_id": "WAS",
       "weeks": {
-        "5": 0
+        "5": 0,
+        "8": 0
       }
     },
     {

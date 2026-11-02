@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 532.0
-- championship_lineup_c_avi_avg: 66.50
-- offensive_roster_c_avi_sum: 867.2
-- offensive_roster_c_avi_avg: 48.18
-- offensive_roster_d_avi_sum: 1220.8
-- offensive_roster_d_avi_avg: 67.82
+- championship_lineup_c_avi_sum: 532.1
+- championship_lineup_c_avi_avg: 66.51
+- offensive_roster_c_avi_sum: 867.6
+- offensive_roster_c_avi_avg: 48.20
+- offensive_roster_d_avi_sum: 1225.6
+- offensive_roster_d_avi_avg: 68.09
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Matthew Stafford | C-AVI: 52.6 | D-AVI: 67.4
+- QB: Matthew Stafford | C-AVI: 52.6 | D-AVI: 68.1
 - RB: Jahmyr Gibbs | C-AVI: 98.6 | D-AVI: 98.3
-- RB: J.K. Dobbins | C-AVI: 45.6 | D-AVI: 68.3
-- WR: Drake London | C-AVI: 90.1 | D-AVI: 95.9
+- RB: J.K. Dobbins | C-AVI: 45.6 | D-AVI: 68.0
+- WR: Drake London | C-AVI: 90.1 | D-AVI: 96.2
 - WR: Garrett Wilson | C-AVI: 75.5 | D-AVI: 90.7
-- TE: Travis Kelce | C-AVI: 74.1 | D-AVI: 78.5
-- FLEX: Dalton Schultz | C-AVI: 52.0 | D-AVI: 69.9
-- FLEX: Marvin Harrison Jr. | C-AVI: 43.5 | D-AVI: 76.3
+- TE: Travis Kelce | C-AVI: 74.1 | D-AVI: 77.9
+- FLEX: Dalton Schultz | C-AVI: 52.1 | D-AVI: 69.9
+- FLEX: Marvin Harrison Jr. | C-AVI: 43.5 | D-AVI: 76.0
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -71,7 +71,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 38.0
 - Championship AVI (C-AVI, 0-100): 52.6
-- Dynasty AVI (D-AVI, 0-100): 67.4
+- Dynasty AVI (D-AVI, 0-100): 68.1
 - Projected PPR points: 280.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -122,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 45.6
-- Dynasty AVI (D-AVI, 0-100): 68.3
+- Dynasty AVI (D-AVI, 0-100): 68.0
 - Projected PPR points: 160.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -139,7 +139,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 30.8
-- Dynasty AVI (D-AVI, 0-100): 71.8
+- Dynasty AVI (D-AVI, 0-100): 72.4
 - Projected PPR points: 63.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -156,7 +156,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 90.1
-- Dynasty AVI (D-AVI, 0-100): 95.9
+- Dynasty AVI (D-AVI, 0-100): 96.2
 - Projected PPR points: 250.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -190,7 +190,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 33.0
 - Championship AVI (C-AVI, 0-100): 60.0
-- Dynasty AVI (D-AVI, 0-100): 78.5
+- Dynasty AVI (D-AVI, 0-100): 78.1
 - Projected PPR points: 192.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -207,7 +207,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 43.5
-- Dynasty AVI (D-AVI, 0-100): 76.3
+- Dynasty AVI (D-AVI, 0-100): 76.0
 - Projected PPR points: 186.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -224,7 +224,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 36.3
-- Dynasty AVI (D-AVI, 0-100): 69.1
+- Dynasty AVI (D-AVI, 0-100): 68.8
 - Projected PPR points: 174.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -241,7 +241,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 32.4
-- Dynasty AVI (D-AVI, 0-100): 57.1
+- Dynasty AVI (D-AVI, 0-100): 56.8
 - Projected PPR points: 119.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -258,7 +258,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 30.6
-- Dynasty AVI (D-AVI, 0-100): 62.8
+- Dynasty AVI (D-AVI, 0-100): 63.1
 - Projected PPR points: 96.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 26.0
-- Dynasty AVI (D-AVI, 0-100): 39.3
+- Championship AVI (C-AVI, 0-100): 26.1
+- Dynasty AVI (D-AVI, 0-100): 41.3
 - Projected PPR points: 36.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -291,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 24.6
-- Dynasty AVI (D-AVI, 0-100): 47.0
+- Championship AVI (C-AVI, 0-100): 24.8
+- Dynasty AVI (D-AVI, 0-100): 50.1
 - Projected PPR points: 69.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -326,7 +326,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 37.0
 - Championship AVI (C-AVI, 0-100): 74.1
-- Dynasty AVI (D-AVI, 0-100): 78.5
+- Dynasty AVI (D-AVI, 0-100): 77.9
 - Projected PPR points: 171.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -342,7 +342,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 52.0
+- Championship AVI (C-AVI, 0-100): 52.1
 - Dynasty AVI (D-AVI, 0-100): 69.9
 - Projected PPR points: 150.9
 - Category: offense

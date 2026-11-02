@@ -20,12 +20,12 @@
       }
     },
     {
-      "average": 7,
+      "average": 6.9,
       "filename": "andres-borregales.php",
-      "games": 7,
+      "games": 8,
       "player_id": 27291,
       "player_name": "Andy Borregales",
-      "points": 49,
+      "points": 55,
       "position_id": "K",
       "team_id": "NE",
       "weeks": {
@@ -35,7 +35,8 @@
         "4": 3,
         "5": 9,
         "6": 8,
-        "7": 7
+        "7": 7,
+        "8": 6
       }
     },
     {
@@ -387,12 +388,12 @@
       }
     },
     {
-      "average": 6.3,
+      "average": 7,
       "filename": "cameron-dicker.php",
-      "games": 6,
+      "games": 7,
       "player_id": 23901,
       "player_name": "Cameron Dicker",
-      "points": 38,
+      "points": 49,
       "position_id": "K",
       "team_id": "LAC",
       "weeks": {
@@ -401,7 +402,8 @@
         "3": 10,
         "4": 12,
         "5": 6,
-        "6": 6
+        "6": 6,
+        "8": 11
       }
     },
     {
@@ -486,10 +488,10 @@
     {
       "average": 5.1,
       "filename": "jake-elliott.php",
-      "games": 7,
+      "games": 8,
       "player_id": 16540,
       "player_name": "Jake Elliott",
-      "points": 36,
+      "points": 41,
       "position_id": "K",
       "team_id": "PHI",
       "weeks": {
@@ -499,16 +501,17 @@
         "4": 10,
         "5": 6,
         "6": 2,
-        "7": 3
+        "7": 3,
+        "8": 5
       }
     },
     {
-      "average": 8,
+      "average": 9.1,
       "filename": "drew-stevens.php",
-      "games": 6,
+      "games": 7,
       "player_id": 28175,
       "player_name": "Drew Stevens",
-      "points": 48,
+      "points": 64,
       "position_id": "K",
       "team_id": "WAS",
       "weeks": {
@@ -517,7 +520,8 @@
         "3": 11,
         "4": 7,
         "5": 8,
-        "6": 7
+        "6": 7,
+        "8": 16
       }
     },
     {
@@ -560,12 +564,12 @@
       }
     },
     {
-      "average": 9,
+      "average": 8.7,
       "filename": "harrison-butker.php",
-      "games": 6,
+      "games": 7,
       "player_id": 16712,
       "player_name": "Harrison Butker",
-      "points": 54,
+      "points": 61,
       "position_id": "K",
       "team_id": "KC",
       "weeks": {
@@ -574,16 +578,17 @@
         "3": 6,
         "4": 6,
         "6": 13,
-        "7": 5
+        "7": 5,
+        "8": 7
       }
     },
     {
-      "average": 8,
+      "average": 8.1,
       "filename": "wil-lutz.php",
-      "games": 7,
+      "games": 8,
       "player_id": 16026,
       "player_name": "Wil Lutz",
-      "points": 56,
+      "points": 65,
       "position_id": "K",
       "team_id": "DEN",
       "weeks": {
@@ -593,7 +598,8 @@
         "4": 9,
         "5": 11,
         "6": 7,
-        "7": 14
+        "7": 14,
+        "8": 9
       }
     },
     {
@@ -627,29 +633,44 @@
       }
     },
     {
-      "average": 4,
+      "average": 6.5,
       "filename": "zane-gonzalez.php",
-      "games": 1,
+      "games": 2,
       "player_id": 16548,
       "player_name": "Zane Gonzalez",
-      "points": 4,
+      "points": 13,
       "position_id": "K",
       "team_id": "MIA",
       "weeks": {
-        "7": 4
+        "7": 4,
+        "8": 9
       }
     },
     {
-      "average": 5,
+      "average": 5.5,
       "filename": "brandon-mcmanus.php",
-      "games": 1,
+      "games": 2,
       "player_id": 13274,
       "player_name": "Brandon McManus",
-      "points": 5,
+      "points": 11,
       "position_id": "K",
       "team_id": "LAR",
       "weeks": {
-        "7": 5
+        "7": 5,
+        "8": 6
+      }
+    },
+    {
+      "average": 0,
+      "filename": "joshua-karty.php",
+      "games": 1,
+      "player_id": 26478,
+      "player_name": "Joshua Karty",
+      "points": 0,
+      "position_id": "K",
+      "team_id": "LAR",
+      "weeks": {
+        "8": 0
       }
     }
   ],

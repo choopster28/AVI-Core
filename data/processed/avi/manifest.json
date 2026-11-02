@@ -16,7 +16,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-11-02T01:35:27.540772+00:00",
+  "generated_at_utc": "2026-11-02T21:43:42.627079+00:00",
   "in_season_transition": {
     "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     "completed_through_week": 7,
@@ -26,7 +26,7 @@
     ],
     "current_week_schedule_complete": false,
     "fantasypros_max_observed_week": 8,
-    "mapped_player_point_records": 420,
+    "mapped_player_point_records": 421,
     "nfl_season": "2026",
     "nfl_season_type": "regular",
     "nfl_week": 8,
