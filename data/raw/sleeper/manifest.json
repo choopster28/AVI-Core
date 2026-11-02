@@ -1,5 +1,5 @@
 {
-  "downloaded_at_utc": "2026-11-02T01:32:10.626392+00:00",
+  "downloaded_at_utc": "2026-11-02T07:50:44.258723+00:00",
   "record_counts": {
     "completed_trades": 77,
     "nfl_players": 12229
@@ -26,6 +26,6 @@
     2025,
     2026
   ],
-  "snapshot_id": "2026-11-02T01-32-10Z",
+  "snapshot_id": "2026-11-02T07-50-44Z",
   "status": "passed"
 }
