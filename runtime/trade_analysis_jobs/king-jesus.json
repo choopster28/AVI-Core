@@ -1,5 +1,38 @@
 [
   {
+    "id": "mvzsc686-63ad5e4c",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Retool",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "Cam Skattebo",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "D'Andre Swift",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1793655775878,
+    "updatedAt": 1793655775878,
+    "expiresAt": 1794087775878,
+    "status": "queued"
+  },
+  {
     "id": "mvzs6yd8-d93dae17",
     "phase": "initial",
     "mode": "propose_trade",
