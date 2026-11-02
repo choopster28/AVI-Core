@@ -28,8 +28,411 @@
       ]
     },
     "createdAt": 1793655532412,
-    "updatedAt": 1793655533974,
+    "updatedAt": 1793655587366,
     "expiresAt": 1794087532412,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "For All Hail King Jesus in Retool mode, acquiring Cam Skattebo and Saquon Barkley for D'Andre Swift creates immense long-term value and RB depth. However, Corgi Loaf Baking Co. is actively pursuing a Win Championship objective and cannot accept a 1-for-2 trade that guts their running back rotation. To execute a realistic transaction, All Hail King Jesus should revise the offer by adding a starting-caliber FLEX asset like Deebo Samuel Sr. to sweeten the deal for the contender.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 81.3,
+              "davi": 86.6,
+              "publicMarket": 82,
+              "leagueMarket": 85
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Cam Skattebo",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 56,
+              "davi": 81.3,
+              "publicMarket": 68,
+              "leagueMarket": 72
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 49.3,
+              "davi": 83.6,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "D+",
+            "userShare": 65,
+            "otherShare": 35,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "The submitted proposal heavily favors All Hail King Jesus in dynasty surplus, but leaves championship contender Corgi Loaf Baking Co. with an unaddressed starting lineup hole at FLEX after surrendering two key running backs."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "Including Deebo Samuel Sr. alongside D'Andre Swift gives Corgi Loaf an immediate starting WR/FLEX contributor while securing two high-upside RBs for All Hail King Jesus' retool strategy."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Significant dynasty and depth acquisition perfectly suited for a Retool strategy."
+            },
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Modest current-week C-AVI shift while bolstering total backfield stability."
+            },
+            "dynastyOutlook": {
+              "score": 55,
+              "summary": "Gains young RB baseline in Skattebo and elite upside in Barkley."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Expands weekly starting lineup permutations."
+            },
+            "depthResilience": {
+              "score": 60,
+              "summary": "Substantially improves running back depth in 16-team PPR format."
+            },
+            "flexibilityLiquidity": {
+              "score": 30,
+              "summary": "Acquires multiple tradable RB assets."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -25,
+              "summary": "Gutting two active RBs for one creates an immediate starting FLEX void."
+            },
+            "championshipOutlook": {
+              "score": -30,
+              "summary": "Reduces overall playoff depth during a title run."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Exchanges young RB Skattebo for Swift."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Swift upgrades RB1 C-AVI but leaves RB2/FLEX depleted."
+            },
+            "depthResilience": {
+              "score": -40,
+              "summary": "Severely erodes running back injury buffer."
+            },
+            "flexibilityLiquidity": {
+              "score": -10,
+              "summary": "Consolidates two productive assets into one."
+            }
+          },
+          "explanation": "The submitted 1-for-2 proposal forces Corgi Loaf Baking Co. to take on starting lineup risk during a championship push, making revision necessary."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Exchanges D'Andre Swift (81.3 C-AVI) for Cam Skattebo (56.0 C-AVI) and Saquon Barkley (49.3 C-AVI), generating a total C-AVI yield of 105.3.",
+          "sideADynastyImpact": "Trades 86.6 D-AVI in Swift to acquire 164.9 total D-AVI across Skattebo (81.3) and Barkley (83.6), delivering significant dynasty surplus.",
+          "sideARosterImpact": "Bolsters backfield volume and aligns with Retool objectives.",
+          "sideBChampionshipImpact": "Upgrades top-end RB C-AVI with Swift but creates an immediate hole at RB2/FLEX by surrendering both Skattebo and Barkley.",
+          "sideBDynastyImpact": "Net loss of 78.3 D-AVI equity.",
+          "sideBRosterImpact": "Leaves Corgi Loaf reliant on David Montgomery as their sole remaining RB depth.",
+          "valueAssessment": "While the raw asset total favors All Hail King Jesus, Corgi Loaf requires lineup balance to support their Win Championship goal."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views Saquon Barkley as an elite historical centerpiece undergoing temporary snap management, while Cam Skattebo is valued as a productive young dual-threat back under contract through 2028. D'Andre Swift is valued as a steady high-end RB2/RB1 fringe starter.",
+          "aviVsMarket": "AVI weights Swift's current weekly C-AVI heavily due to clear volume, whereas public consensus retains high dynasty value on Skattebo's youth and Barkley's ceiling.",
+          "relevantContext": [
+            "Saquon Barkley recently returned from a hamstring strain and back stiffness in Philadelphia, playing controlled snaps.",
+            "Cam Skattebo has logged 182 carries and 34 receptions over 14 career NFL games with NYG.",
+            "D'Andre Swift holds an 81.3 C-AVI as Chicago's primary backfield option."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. (@awang1900) seeks immediate championship production but cannot afford to deplete running back depth.",
+          "packageFit": "Swift provides an elite RB1, but losing two starters creates an unresolved FLEX gap.",
+          "lineupReplacement": "Surrendering both Skattebo and Barkley forces David Montgomery into mandatory active duty with no backup depth.",
+          "competitiveWindowFit": "Corgi Loaf is in an explicit Win Championship window; losing depth undermines playoff resilience.",
+          "positionalScarcity": "RB depth is exceptionally scarce in 16-team PPR leagues, magnifying the cost of trading two active backs."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 10,
+            "packageMatch": 10,
+            "lineupReplacement": 8,
+            "competitiveWindow": 6
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 49,
+          "classification": "Unlikely",
+          "explanation": "Corgi Loaf Baking Co. is competing for a championship and will not accept a 1-for-2 trade that leaves their starting FLEX slot depleted without adequate piece inclusion."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Best-effort offer (not validated as realistic; 49% estimated acceptance): Corgi Loaf Baking Co. is competing for a championship and will not accept a 1-for-2 trade that leaves their starting FLEX slot depleted without adequate piece inclusion.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 81.3,
+              "davi": 86.6,
+              "publicMarket": 82,
+              "leagueMarket": 85
+            },
+            {
+              "name": "Deebo Samuel Sr.",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 30,
+              "cavi": 48.3,
+              "davi": 68,
+              "publicMarket": 55,
+              "leagueMarket": 60
+            }
+          ],
+          "receive": [
+            {
+              "name": "Cam Skattebo",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 56,
+              "davi": 81.3,
+              "publicMarket": 68,
+              "leagueMarket": 72
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 49.3,
+              "davi": 83.6,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ],
+          "whyUserShouldDoIt": "All Hail King Jesus acquires young RB upside in 24-year-old Skattebo and elite talent in Barkley while reallocating surplus WR depth.",
+          "whyOpponentMightAccept": "Corgi Loaf Baking Co. receives an elite RB1 in Swift (81.3 C-AVI) plus an immediate starting FLEX receiver in Deebo Samuel Sr., preserving their championship starting lineup integrity."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 81.3,
+              "davi": 86.6,
+              "publicMarket": 82,
+              "leagueMarket": 85
+            },
+            {
+              "name": "2029 Round 2 Pick",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48
+            }
+          ],
+          "receive": [
+            {
+              "name": "Cam Skattebo",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 56,
+              "davi": 81.3,
+              "publicMarket": 68,
+              "leagueMarket": 72
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 49.3,
+              "davi": 83.6,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            }
+          ],
+          "rationale": "Provides future pick liquidity to Corgi Loaf Baking Co. if they prefer draft capital over player depth."
+        },
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Corgi Loaf Baking Co. is competing for a championship and will not accept a 1-for-2 trade that leaves their starting FLEX slot depleted without adequate piece inclusion.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Corgi Loaf Baking Co. (@awang1900) seeks immediate championship production but cannot afford to deplete running back depth."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "Swift provides an elite RB1, but losing two starters creates an unresolved FLEX gap."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "Surrendering both Skattebo and Barkley forces David Montgomery into mandatory active duty with no backup depth."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Corgi Loaf is in an explicit Win Championship window; losing depth undermines playoff resilience."
+            }
+          ],
+          "opponentPerspective": "Corgi Loaf Baking Co. (@awang1900) seeks immediate championship production but cannot afford to deplete running back depth.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Swift provides an elite RB1, but losing two starters creates an unresolved FLEX gap.",
+          "whatWouldNeedToChange": [
+            "Corgi Loaf Baking Co. (@awang1900) seeks immediate championship production but cannot afford to deplete running back depth.",
+            "Swift provides an elite RB1, but losing two starters creates an unresolved FLEX gap.",
+            "Surrendering both Skattebo and Barkley forces David Montgomery into mandatory active duty with no backup depth.",
+            "Corgi Loaf is in an explicit Win Championship window; losing depth undermines playoff resilience."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Cam Skattebo NFL draft 2025 2026 stats news",
+          "Saquon Barkley news 2026 injury contract stats"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Y1XHm-rD2tncCyY3UabKp4glB-DyrN7GyqdWy_qifsGOQ-3MWb6EgYRPwfgjF8ZQrE0Z3FdUO9ignvL5arb-mqkUOgGbTG6btOumALW0a0e-qlsa5DFIwrsOAJhmGi2JlUu5Xidc31_jsNFkCahtgIt9kMn3sbqFb9bkUMiHy3UWSxd_yoGuZGVPfBEjG6A=",
+            "title": "giants.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi0dW5Sj_zTIU2EIADcqaBMlpVvaV7zRpSmoYmWNUPztof6KB7z5sN57KNUBQBhs_vMlNUwclk6QPRFajqvoD5DRtHpsw5TAmHJ13ze9BK8GuIDG8qZXEO1Z3mgJNlvgDU",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWn7ZKGMY4I63eBMWz4j6g8UXsOLeEAryaDrmv4YTY8SS2SLwDgNYFfcmLE6_Cw8wZ8_1qlmmbIc-klT5LIoBsD-i-I5Fz3TYAjAaoyAKJfE-3WtyVkn_N22TLLXzF4FgwatJi0PIp8yqPwUjPGPb8WTVWda6i",
+            "title": "statmuse.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDnaS3jmt13gyA7W20QKvJDciTtnQFPbWhlgQqVcWH0P0BcIy78AZew5aHABVS9cIXNMr052nPV1HS_HgTUGWaI6AWDbajThyeVRpVX_ntnsIjtORZQu7XHO_m3nVctF4=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzF5tvhQqSi-Y_TFxDN0t3K4MheEPvS94azCis_0lqM6-qYZdKPgfSMylxPIHPCwqP2Nb9iMTvDS2d7S68_R5tebbHMJGXb92FfSCgdA2PNlxjW4Fc1r6XmPQFe7Ky8sguhqRA6ey03YnyZCc_g_IiRQ==",
+            "title": "sny.tv"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHNeeDxqaSMe6-xWnzNIa5a8vuRgror09BOGtQPGKp7tABAK2EotjLHNNlYXd7VZVN2U9q4LS2qJLyf9IUqCxJYPeJmvNm73RCVNt-OlsQo1WGK_9UwOtxrJZ1e98pJmbAgjBO7uG4V5S4WKRVYm4dumd4rvsnFFPgTDDGz_h4OupKGbmnDFEQ3D_ypAOna8AGjNhyGp__2fZ2EvY=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9IoVeYkAWV6-PNcjJ8vfEQ14aDzNijnpOX-8ccQKAHkQhqemxZMeoSyAxr_EP8fOW-MNFXMywXcjV7IFkyYWMRMQLyeMMQ1m4204w9bJ0Al5k3o7XkYNLtEBzoQYSQDNY7LIcuErIZiYSIHxqSpMRp1DZ",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2WM-GNr5y-osiHoxvzFWcdoyJkloD1dlOeypvGVCStIOWX6Qqr4VOyE4nm3IffAPocQG-NbjwPN0aBNjftGFmkJgkQ0zpt2U02vyyiWCtMt947RCXx8o3mJVr4qFLFRugw2dXRA9dQiIC0B_T1-VCCt3IRcLzImcs-2hWHAUCvg_jjPzmajFtKMvNQT85x54vaAazFbnBNwjkL15Ez-MgGg==",
+            "title": "drooid.social"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAAZ0zz1bIWgImDmgWIYcoeOieHl4-Or-MifgbYNWWCxId5dP3SPiqyP3U4K9x4wcW-JaJkSAtdINxIam_xEQkeN1oSBa0FYNNn0AwE8QmxlrrgoljzCrIkiaV_yXBGDUhEaOljzpDytGy_ZewbQtT",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCwrsF-CkpBJC5vXb32tP2Bx6HlLN0PCTlxo5snCcTUhnu2D-01Wfo437JdK3HwIldHe08t9l55VMhKtPDuBuT2uhQ8hiCWT8CWAdEqh00Hdi4ZWl8Aap5QaQvmylYQh7Jz7Fq-MRSKjs_nwii6sOtQLxxIBDuWmPrw57-",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF90huvcVva7yLj2mCDbfmJkfHZBk0_1Q7KI9WxFLZij9UzzdwqBlGVOzgz2VritTDtaBSI4LecQMVG-bLZ4kMl2JgyYFdU14UGES7WUIotQ-whxu30aKn2SsPxkqUjm3YHX9tdC7FbUih_bA==",
+            "title": "thesportswire.net"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsXmDtOeDuyAqdwKQ5rp7Gv0BdmbkRjfeDmdx0gfKMiWuys7YStEstgzLAmmFjG5WiknrHNw34t0MIRbpUg-TqXBFZYUy7WKz-W2WCvIuEekaZeVjfgs9irvdD0FqwdcqfSVFRV5sjGCyCHPlcbBt4LGEs-c168Uhz",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5iQ2lHKbU6TQE_jAt75qpf_CtOuEfR71Dxv2t_skPSB7xHP7Olc3Ja9tztOrUqSJtJHCErL4LCm_pU_k7U4w_Nspkc7hhDXWVy4c4CEPh2PteMo8H4iENi41x3T7qQ3XqKl0VwkscaTuYPjmR2SNWRx-qpEtZZtqPnUCaP2J65P0X",
+            "title": "nfldraftbuzz.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "3dc8bc8315cab62cf705def3af63f304eb49c9cd",
+        "aviCoreCommittedAt": "2026-11-02T21:06:16Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 86994,
+        "groundedMarketChars": 4966,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   }
 ]
