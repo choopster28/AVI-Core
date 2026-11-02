@@ -23,9 +23,398 @@
       "foundationAssets": []
     },
     "createdAt": 1793655884473,
-    "updatedAt": 1793655886211,
+    "updatedAt": 1793655941532,
     "expiresAt": 1794087884473,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "All Hail King Jesus enters this offer build with a clear objective: solve its glaring RB2 weakness (currently Kimani Vidal at 27.7 C-AVI) to maximize championship win probability. Corgi Loaf Baking Co. holds two attractive RB assets in Saquon Barkley and Cam Skattebo, but operates under a strict Win Championship mandate. To acquire both RBs without causing an immediate rejection, All Hail King Jesus must offer immediate starting-lineup impact. The recommended offer package sends Tee Higgins (WR, 86.7 C-AVI) and Dallas Goedert (TE, 57.8 C-AVI), giving Corgi Loaf a top-tier WR starter and TE flex depth while delivering All Hail King Jesus two high-ceiling starting running backs.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 86.7,
+              "davi": 89.9,
+              "publicMarket": 87,
+              "leagueMarket": 88
+            },
+            {
+              "name": "Dallas Goedert",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "TE",
+              "age": 31,
+              "cavi": 57.8,
+              "davi": 76,
+              "publicMarket": 62,
+              "leagueMarket": 65
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 49.2,
+              "davi": 82.7,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            },
+            {
+              "name": "Cam Skattebo",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 56,
+              "davi": 81,
+              "publicMarket": 72,
+              "leagueMarket": 75
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "B",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "The recommended trade addresses All Hail King Jesus's single biggest lineup vulnerability at RB2 while supplying Corgi Loaf Baking Co. with premium WR starting production in Tee Higgins and reliable TE depth in Dallas Goedert."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "This two-for-two construction balances immediate starting value across both contenders, filling All Hail King Jesus's RB void and bolstering Corgi Loaf's receiving corps."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 75,
+              "summary": "Transforms roster construction by turning excess WR depth into essential RB starting production."
+            },
+            "championshipOutlook": {
+              "score": 80,
+              "summary": "Massively upgrades RB2 slot from Kimani Vidal (27.7 C-AVI) to Saquon Barkley/Cam Skattebo, solidifying a championship-caliber lineup."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Maintains elite dynasty foundation with Amon-Ra St. Brown and Justin Jefferson still intact."
+            },
+            "lineupQuality": {
+              "score": 85,
+              "summary": "Eliminates the primary weakness in the starting 8-man lineup."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Slightly reduces WR bench depth but retains top-tier starters."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Preserves all future draft pick capital."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 25,
+              "summary": "Gains an elite WR starter in Tee Higgins but creates minor depth reliance at RB."
+            },
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Upgrades WR3/FLEX C-AVI significantly while relying on Rhamondre Stevenson and David Montgomery as core RBs."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Adds 27-year-old elite WR Tee Higgins (89.9 D-AVI) to a core featuring JSN and Malik Nabers."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Elevates starting FLEX C-AVI with Higgins taking over a primary receiving role."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Provides high-end WR and TE bench security."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Acquires highly tradeable premier WR assets."
+            }
+          },
+          "explanation": "All Hail King Jesus gains immense weekly lineup balance by reallocating WR depth into two starting RBs. Corgi Loaf receives a premier WR2 in Tee Higgins to solidify its pass-catching corps."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "All Hail King Jesus fixes its primary bottleneck at RB2. Replacing low-end starters with Saquon Barkley (49.2 C-AVI) and Cam Skattebo (56.0 C-AVI) creates a balanced, high-ceiling championship starting 8.",
+          "sideADynastyImpact": "Trading Tee Higgins (89.9 D-AVI) and Dallas Goedert (76.0 D-AVI) reallocates dynasty equity into two prime RB assets (Barkley 82.7 D-AVI, Skattebo 81.0 D-AVI), keeping long-term competitiveness intact.",
+          "sideARosterImpact": "Strengthens RB position group from a clear weakness into a major strength, while keeping Amon-Ra St. Brown and Justin Jefferson as the elite WR anchor.",
+          "sideBChampionshipImpact": "Corgi Loaf Baking Co. gains Tee Higgins (86.7 C-AVI) as a high-volume starter, boosting overall FLEX scoring potential.",
+          "sideBDynastyImpact": "Acquires 27-year-old Tee Higgins to form a long-term elite WR trio alongside Jaxon Smith-Njigba and Malik Nabers.",
+          "sideBRosterImpact": "Consolidates RB depth while dramatically strengthening pass-catching depth and TE contingency.",
+          "valueAssessment": "The transaction delivers balanced market value, with All Hail King Jesus surrendering premium WR/TE production to fix a critical positional emergency."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Saquon Barkley remains a premier RB1 name whose current C-AVI reflects recent managed snap counts and offense struggles in Philadelphia, while Cam Skattebo represents a high-volume young RB taking on significant workload for the Giants. Tee Higgins is viewed in public markets as an elite WR2 with WR1 upside.",
+          "aviVsMarket": "Public market perception views Saquon Barkley's name brand higher than his current-week C-AVI snapshot (49.2), making this package attractive for a manager acquiring his ceiling.",
+          "relevantContext": [
+            "Saquon Barkley is actively playing through minor back/hamstring management but retains elite red-zone role.",
+            "Cam Skattebo has assumed significant backfield volume for the Giants following backfield injuries.",
+            "Tee Higgins provides immediate top-15 WR weekly production."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. is competing to Win Championship and will only part with two starting RBs if given immediate high-end weekly starter points elsewhere.",
+          "packageFit": "Tee Higgins gives Corgi Loaf a top-tier WR to stack alongside JSN and Malik Nabers, while Goedert adds TE depth behind Trey McBride.",
+          "lineupReplacement": "Corgi Loaf retains Rhamondre Stevenson and David Montgomery at RB while slotting Higgins directly into starting FLEX.",
+          "competitiveWindowFit": "Both franchises are active championship pushers; the trade aligns immediate starting points with both roster structures.",
+          "positionalScarcity": "RB depth in a 16-team league is exceptionally scarce, justifying sending a proven elite WR in Tee Higgins."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 18,
+            "packageMatch": 15,
+            "lineupReplacement": 10,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 66,
+          "classification": "Stretch",
+          "explanation": "Corgi Loaf is competing to Win Championship, making the loss of two RBs a high bar. However, returning Tee Higgins and Dallas Goedert provides enough high-end starter production to make Corgi Loaf seriously evaluate the proposal."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Best-effort offer (not validated as realistic; 66% estimated acceptance): Corgi Loaf is competing to Win Championship, making the loss of two RBs a high bar. However, returning Tee Higgins and Dallas Goedert provides enough high-end starter production to make Corgi Loaf seriously evaluate the proposal.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 86.7,
+              "davi": 89.9,
+              "publicMarket": 87,
+              "leagueMarket": 88
+            },
+            {
+              "name": "Dallas Goedert",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "TE",
+              "age": 31,
+              "cavi": 57.8,
+              "davi": 76,
+              "publicMarket": 62,
+              "leagueMarket": 65
+            }
+          ],
+          "receive": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 49.2,
+              "davi": 82.7,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            },
+            {
+              "name": "Cam Skattebo",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 56,
+              "davi": 81,
+              "publicMarket": 72,
+              "leagueMarket": 75
+            }
+          ],
+          "whyUserShouldDoIt": "Eliminates the single biggest roster flaw at RB2 (Kimani Vidal 27.7 C-AVI) by securing two high-volume RBs, immediately raising championship equity.",
+          "whyOpponentMightAccept": "Acquires an elite 27-year-old WR2 in Tee Higgins to boost starting lineup ceiling alongside JSN and Malik Nabers."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Justin Jefferson",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 74.3,
+              "davi": 93.3,
+              "publicMarket": 95,
+              "leagueMarket": 96
+            },
+            {
+              "name": "2029 Round 2 Pick (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": null,
+              "publicMarket": 50,
+              "leagueMarket": 50
+            }
+          ],
+          "receive": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 49.2,
+              "davi": 82.7,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            },
+            {
+              "name": "Cam Skattebo",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 56,
+              "davi": 81,
+              "publicMarket": 72,
+              "leagueMarket": 75
+            }
+          ],
+          "rationale": "If Corgi Loaf rejects Tee Higgins, offering superstar WR Justin Jefferson provides an unmatched headline asset that can instantly close the deal while All Hail King Jesus relies on Amon-Ra St. Brown and Tee Higgins."
+        },
+        "noDealExplanation": {
+          "primaryObstacle": "insufficientValue",
+          "summary": "Corgi Loaf is competing to Win Championship, making the loss of two RBs a high bar. However, returning Tee Higgins and Dallas Goedert provides enough high-end starter production to make Corgi Loaf seriously evaluate the proposal.",
+          "failedFactors": [],
+          "opponentPerspective": "Corgi Loaf Baking Co. is competing to Win Championship and will only part with two starting RBs if given immediate high-end weekly starter points elsewhere.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Tee Higgins gives Corgi Loaf a top-tier WR to stack alongside JSN and Malik Nabers, while Goedert adds TE depth behind Trey McBride.",
+          "whatWouldNeedToChange": []
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Cam Skattebo football team",
+          "Saquon Barkley news 2026",
+          "Cam Skattebo NFL draft 2025 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2FzuMtsTD0MaEIQQSE40RWZCAC7qcsFUKtX7nxwjkurUvNrKNvhi-BeVZlCLUr5iNUkrcCyj5Axg5c8oWzn4PiOX3yiPkjpkYLguEbvi24Yv3Nk0wDTe3roKrvStvPG1H",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6_AyBjpZujMD1NPr-IXOW48Q5TJCtTJgmktcVGy6R66NT2iqd5k7F3rF039DEmsdfuwAdebQ_Wc0o19Yc8ljD1e6lTmRm-X9fmhjGExpP-UdXwD7xCyWok3ax2_g29ifkjzYg9GCC9vCJhuZoWx4_l3VDlwWlBj9z1pm8d6LFgkB0yDiXFJnu5OAvUVMNiq-gzPmDeseVuEWw-h_LBX29Nfxl_lGlEv52oVGKUy3-xA==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrW-Ng_DV5mo9kNj4az0FLaiASeKjVGW4FotXGmmQqE3YRgENSCafZrcd1df0cedDyZVAH55urneReWTQBg71elVEPRzYmtKjPNestWQNPqHKI3RUy23pbqWGndOFJLlOrC3pFhszFPuBJrZoMdg1hSlDHAylzsGNaEfogdquuJHJqlxfRMYqXLgwrltAjTF46H6ypOW2KPr28_6nspW3eRjpXaZCktwL0fw==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwR_KgtHr8McGj6RSuNP9cXdsEpkoUg4Ch6nYjE6_vTDrNWJNWVoxXPr4ftb_QHxpbXeOivc3m9yKPA2tM-qohSXA5s_hE-paqz_RNpBq_GggcJxsLLn0q5Yw-dFpyFXH7",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMa5uunnuG-1cmqOHGaRruocFsgsiG5PjkScy7EbACKw8qVA6J1_F358e6MJMyCoRKPlkufuqY0U-VEQfu9ZPxCyYhm98vkEYTgEwq4vtJRkPG39Knd_xz9xbbR2-ai2I=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEBaTsqYg_I1uyx6W9hLiYCb-lbPaHfbS_PFY5kqFGdiNHcyJSeBUBOi6nw5NtTqMYsQDlR2T8xehvEW0B1dIJ7UWg745QPvs-hDJf5FWwIz36ot1g-pKH2UP1Z8-U1dfrwqWHPrX9BKegp-f99CRyQRuO6-W8YTrU0y82OAxG18h9iCFQ7u8cV7is1L5DSL0=",
+            "title": "giants.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV4TPWqhyzxnsofypjXEx_nY-ca_d8Ee3UJt6zNrrQ8sYNbmf7sXYMOGAA-PyIBEM21LILSrDhtSN0YnuAD1Qpjd2ZQpUHnLLHUsxfRcEs-elX6S3_RZJC284-_PxvNRekELmUGJITg6GSv38WGWRAGkvG0D2zWB4iX9Kf081nPsjo1RKlw6E_B1q2LWEIp8ZiW0EImMIiNQ==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKG2EDqBCzFlgr9NMY4mT69D8Q9gIFGfv-vy09mxlIp09cQc2BpkROYBufvaspyvwbT_FdNadc80WO5ysq1qZ5XOmazLDr81sNVV1_hetmZKABQaoeGyO4fBTN7j6kVeyE7y9vz4L9A0mT_FTNMAlw9l98fKswwEPgt-C_AEILZnIurptxt0Kutui3oQ1x4wLpAEjGAqFDTvFPbxKlHg==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED88_dClkskMOjEsQ6KlzzxcPGna6KxSgnDZQBVqCHnklsQiH8SmgeAlN98ZaJaoEdEchfWnGaxSM_3WaEQR6mvLox4zwcND2S9QMBXWDhSE5eyiZv0MJCAzZoki7q8QkqguCUAp7t9FiBkjBB9C-yTf1DowE-vtkinY3azssmVKfGzJyW0e74keU7N3Z6XHx0Oq3zU9CKdmJf5A==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfJ4AKVS9Nkpl2JYrIyAtwrWhJFJ38X_UJ43ZKdHOr1CfbXOGvCxRPaGcel9HQrrtp1iSbtVToJ7Zm_wubrPxztQ__874a8w1sz7LwJH7M2YbrtQZriLOP0nRQ__a5xrhRrS6cchoVOXlTEegDcGEP5A==",
+            "title": "sny.tv"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoRv0ZKnQTohVULoA34CwWWzNrGEbcwlqIVfMPsgWBDkgu1hqdtZ6JGom0ZjpEzSn4JdjQUsRR0s_4z5T-SehFUjOKJzcDTiUb8g6ru24bNpMgMuk02JMftkrOR4mb7f0ijgPvLK416G2i2-QWdB83WVk73F42nFoM",
+            "title": "thesundevils.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHby1NCQbDmXBLBIgBNcgYLCyJRHar937N0oFF_w2lHYMZZu9xF20Ny_90ERba1xOHUawtRtbb3nHoA5JYs1S3FniZFMwDYI0XHJj71cJSfhMBM88uV-lL4s8jIW5u2kexcY4RCP8nb_ykAFrEMWwrby95v_JOvRZ7ws2PGlnww3BNkz0jMvy0z5DdDbzjGMuzpAZAZLxYIceggXRIl",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "eecbe1b731d3f96142d0f625701ecbc7ed41e961",
+        "aviCoreCommittedAt": "2026-11-02T21:43:46Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 86994,
+        "groundedMarketChars": 4319,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mvzsc686-63ad5e4c",
