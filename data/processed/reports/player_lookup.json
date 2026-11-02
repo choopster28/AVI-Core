@@ -1635,18 +1635,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00011256",
-      "c_avi": 16.4,
-      "d_avi": 48.1,
-      "nfl_team": "CHI",
-      "player_name": "Tyson Bagent",
-      "position": "QB",
-      "sleeper_id": "11256",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00007521",
       "c_avi": 16.3,
       "d_avi": 50.8,
@@ -2738,8 +2726,8 @@
     }
   ],
   "counts": {
-    "available_players": 228,
-    "rostered_players": 251
+    "available_players": 227,
+    "rostered_players": 252
   },
   "rostered_players": [
     {
@@ -6613,6 +6601,22 @@
       "status": "Inactive",
       "team_file": "05_Northside_Kings.md",
       "team_name": "Northside Kings "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00011256",
+      "c_avi": 16.4,
+      "d_avi": 48.1,
+      "nfl_team": "CHI",
+      "owner_id": "992908759074680832",
+      "player_name": "Tyson Bagent",
+      "position": "QB",
+      "roster_id": 3,
+      "sleeper_id": "11256",
+      "status": "Active",
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
