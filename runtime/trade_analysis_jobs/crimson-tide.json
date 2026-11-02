@@ -17,9 +17,423 @@
       "maxResults": 3
     },
     "createdAt": 1793655060691,
-    "updatedAt": 1793655062616,
+    "updatedAt": 1793655123227,
     "expiresAt": 1794087060691,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (72% estimated).",
+        "teamDiagnosis": {
+          "competitiveWindow": "Rebuild",
+          "strengths": [
+            "Extensive Future Draft Capital Reserves",
+            "Young Core Assets Pipeline"
+          ],
+          "priorityNeeds": [
+            "Accumulation of Premium Future Draft Picks",
+            "Consolidation into High-Ceiling Blue-Chip Prospects"
+          ],
+          "tradeableSurplus": [
+            "Developmental WR Depth (Zachariah Branch)"
+          ],
+          "constraintsApplied": [
+            "Mandatory Ownership Verification against Sleeper Rosters",
+            "Verified Draft Pick Ledger Validation",
+            "Two-Organization Goal Intersection Alignment"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Lack of verified tradeable draft capital or roster fit for a developmental receiver",
+            "Incompatible organizational goal alignment with rebuilder asset timeline",
+            "Inability to meet minimum 70% Market Reality threshold"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Corgi Loaf Baking Co.",
+            "targetGoal": "Increase Championship Odds",
+            "targetAssets": [
+              {
+                "name": "Ryan Flournoy",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "WR",
+                "age": 27,
+                "cavi": 46.7,
+                "davi": 62.9,
+                "publicMarket": 48,
+                "leagueMarket": 50
+              },
+              {
+                "name": "2029 Round 3 (Corgi Loaf Baking Co.)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 16.5,
+                "publicMarket": 16.5,
+                "leagueMarket": 16.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Zachariah Branch",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 22,
+                "cavi": 27,
+                "davi": 57,
+                "publicMarket": 45,
+                "leagueMarket": 48
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Youth-for-Production Swap + Capital Sweetener",
+            "strategicGoal": "Exchange raw upside for an established WR depth piece and additional draft asset.",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 22,
+              "packageMatch": 0,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 72,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Crimson Tide Pods nets a higher current producer in Ryan Flournoy along with draft asset accumulation without sacrificing long-term rebuild trajectory.",
+            "whyOpponentMightAccept": "Corgi Loaf Baking Co. is pushing for playoffs and acquires a 22-year-old dynamic weapon in Zachariah Branch with untapped dynasty upside for moderate bench capital.",
+            "championshipImpact": "Neutral for current season championship push; improves overall roster floor.",
+            "dynastyImpact": "Adds 2029 draft capital while maintaining wide receiver depth.",
+            "rosterImpact": "Replaces raw developmental WR depth with a startable rotational floor WR and a draft pick.",
+            "publicMarketContext": "Branch's consensus dynasty value remains supported by his age and draft capital, whereas Flournoy offers stable weekly involvement.",
+            "risks": [
+              "Branch breaks out into a high-end WR2 in future seasons",
+              "2029 3rd round pick carries distant time-value realization",
+              "Selected Shop Assets player Zachariah Branch fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Starting-caliber target Ryan Flournoy requires a starting-caliber player centerpiece. Backup/handcuff players plus draft capital are not a credible foundation.",
+              "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Zachariah Branch fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler.",
+              "Does not meet the 70% Market Reality requirement (72% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Zachariah Branch for Ryan Flournoy and 2029 3rd round pick.",
+              "acceptableConcession": "Accept a 2028 or 2029 4th round pick swap if opponent resists the 3rd.",
+              "walkAwayPoint": "Walk away if opponent refuses to attach any draft capital to Flournoy."
+            },
+            "deterministicRejectionReasons": [
+              "Selected Shop Assets player Zachariah Branch fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Starting-caliber target Ryan Flournoy requires a starting-caliber player centerpiece. Backup/handcuff players plus draft capital are not a credible foundation.",
+              "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Zachariah Branch fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "SmokyValleyWheatWarriors",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Wan'Dale Robinson",
+                "assetType": "player",
+                "owner": "SmokyValleyWheatWarriors",
+                "position": "WR",
+                "age": 25,
+                "cavi": 45.8,
+                "davi": 74.3,
+                "publicMarket": 55,
+                "leagueMarket": 58
+              },
+              {
+                "name": "2028 Round 3 (SmokyValleyWheatWarriors)",
+                "assetType": "pick",
+                "owner": "SmokyValleyWheatWarriors",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 16.5,
+                "publicMarket": 16.5,
+                "leagueMarket": 16.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Zachariah Branch",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 22,
+                "cavi": 27,
+                "davi": 57,
+                "publicMarket": 45,
+                "leagueMarket": 48
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Contender Depth Diversification",
+            "strategicGoal": "Acquire high PPR volume WR asset plus draft pick from a championship contender.",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 20,
+              "packageMatch": 0,
+              "lineupReplacement": 10,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 68,
+            "classification": "Stretch",
+            "whyUserShouldDoIt": "Nets Wan'Dale Robinson (D-AVI 74.3) who has proven high targeted volume, along with a 2028 3rd pick.",
+            "whyOpponentMightAccept": "SmokyValley operates as an Elite Contender looking to infuse youth and long-term explosiveness behind established starters.",
+            "championshipImpact": "Marginally boosts user's current C-AVI floor while maintaining complete focus on long-term value.",
+            "dynastyImpact": "Gains significant D-AVI value jump (+17.3 D-AVI) plus a draft asset.",
+            "rosterImpact": "Upgrades receiver rotation floor and secures future draft inventory.",
+            "publicMarketContext": "Wan'Dale Robinson holds consistent target share under Daboll, offering solid PPR value in dynasty formats.",
+            "risks": [
+              "Robinson's volume capped in unexplosive offense",
+              "Branch's age profile outpaces Robinson's multi-year ceiling",
+              "Selected Shop Assets player Zachariah Branch fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Starting-caliber target Wan'Dale Robinson requires a starting-caliber player centerpiece. Backup/handcuff players plus draft capital are not a credible foundation.",
+              "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Zachariah Branch fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler.",
+              "Does not meet the 70% Market Reality requirement (68% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Branch for Wan'Dale Robinson and 2028 3rd round pick.",
+              "acceptableConcession": "Accept Wan'Dale Robinson straight up if draft pick is firmly rejected.",
+              "walkAwayPoint": "Walk away if opponent demands additional pick capital from Crimson Tide Pods."
+            },
+            "deterministicRejectionReasons": [
+              "Selected Shop Assets player Zachariah Branch fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Starting-caliber target Wan'Dale Robinson requires a starting-caliber player centerpiece. Backup/handcuff players plus draft capital are not a credible foundation.",
+              "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Zachariah Branch fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Ravens Regime",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Kyle Monangai",
+                "assetType": "player",
+                "owner": "Ravens Regime",
+                "position": "RB",
+                "age": 24,
+                "cavi": 60,
+                "davi": 78.2,
+                "publicMarket": 58,
+                "leagueMarket": 60
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Zachariah Branch",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 22,
+                "cavi": 27,
+                "davi": 57,
+                "publicMarket": 45,
+                "leagueMarket": 48
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Positional Realignment Swap",
+            "strategicGoal": "Pivoting from WR depth into a 24-year-old starting/handcuff RB with high D-AVI.",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 18,
+              "packageMatch": 0,
+              "lineupReplacement": 11,
+              "competitiveWindow": 7
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 66,
+            "classification": "Stretch",
+            "whyUserShouldDoIt": "Secures a productive 24-year-old running back in Kyle Monangai (D-AVI 78.2) to address crucial RB roster construction for the rebuild.",
+            "whyOpponentMightAccept": "Ravens Regime is Retooling and possesses strong RB depth, making a trade for a 22-year-old dynamic wide receiver attractive.",
+            "championshipImpact": "Provides immediate usable running back C-AVI upgrade (60.0 vs 27.0).",
+            "dynastyImpact": "Nets +21.2 D-AVI increase by securing a young back with demonstrated high-volume capability.",
+            "rosterImpact": "Converts WR depth surplus into needed young RB depth.",
+            "publicMarketContext": "Monangai has shown RB1 upside in isolated starts, making him a prime retool candidate.",
+            "risks": [
+              "Monangai's workload sharing behind D'Andre Swift",
+              "Running back longevity risk relative to receiver longevity",
+              "Selected Shop Assets player Zachariah Branch fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Starting-caliber target Kyle Monangai requires a starting-caliber player centerpiece. Backup/handcuff players plus draft capital are not a credible foundation.",
+              "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Zachariah Branch fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler.",
+              "Does not meet the 70% Market Reality requirement (66% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Zachariah Branch straight up for Kyle Monangai.",
+              "acceptableConcession": "Throw in a late 2027 4th round pick if required to balance value.",
+              "walkAwayPoint": "Walk away if opponent demands a 2nd or 3rd round pick attachment."
+            },
+            "deterministicRejectionReasons": [
+              "Selected Shop Assets player Zachariah Branch fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Starting-caliber target Kyle Monangai requires a starting-caliber player centerpiece. Backup/handcuff players plus draft capital are not a credible foundation.",
+              "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Zachariah Branch fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": {
+          "summary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (72% estimated).",
+          "primaryObstacles": [
+            "Selected Shop Assets player Zachariah Branch fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+            "Starting-caliber target Ryan Flournoy requires a starting-caliber player centerpiece. Backup/handcuff players plus draft capital are not a credible foundation.",
+            "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Zachariah Branch fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler.",
+            "Starting-caliber target Wan'Dale Robinson requires a starting-caliber player centerpiece. Backup/handcuff players plus draft capital are not a credible foundation.",
+            "Seller acceptance remains uncertain; trade-block listing is not required to explore an offer."
+          ],
+          "userConstraintImpact": "The proposed offer respects verified ownership, but has not met every market/fit criterion.",
+          "closestPathToDeal": "Use the displayed verified construction as a negotiating starting point, not an accepted or 70%+ realistic trade."
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Kyle Monangai NFL draft 2026 fantasy",
+          "Zachariah Branch NFL draft 2026 2027",
+          "Ryan Flournoy news 2026 NFL",
+          "Wan Dale Robinson contract news 2026 fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7wxtOrmBAE-Y4sWwXwR9Gb99Mve45L98do6UK2AuTdjkr92zqFfpLnfnGojgQA6ynGM_OtW84ZFnmnF-FqeNbkcZTmJ_HnMkLJW8nGGI0qBKIEmz5HMvhN8ePi2lEEPwTpb2hy-1TTQ==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7rJx4Z4TVf3U0Nb6ho9yDZiTd91ZnFwYKFlnncSw4pYvus6Qm3o4xC5cNXx7TnoKiC7g9wqOowen5PRymGpyOuzWex0oCX0snxsDvA0kJHkRDrmBCuk-yzPqiuqE-4yLwVOuggfW6q81jXSeLxmnokXHaWILm",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcGjsOVRBL6v0i6eb2cg7zMtbGzbg7Aekwh7Pa2qynzdBHbTDKAq67Ci6rj0cUvA1zcsHB_Txkl_2gXwxH0W-gNd1gLlnVgL0lo__u_xxkMrlOio1JWAqszYxlz6fq_HTKGT2_2ina-oGc3V3rY50fdPmW5_Ed3YlgH7ZR8TDfWzWRd6GPMs0dLZnjA0rXPH0pKW7OcCJ44AIY23BKAi3kQTGrntDnSk_5FYF-Ng==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZQOchLnbH3SeCzAbzrU_pL4cF4kv6ln4kWR3xzQ7bwwUrgCz1Ge-y2y-GlNYBzg0kSjnnD6uR2E-7VjyR6iL8_r6yyeJqhKUFrmldvkyeMhm4tX_48iDc4zASjzpXyg6V3jn4dlA6QexECiMu8TauJiYqKRJGz9FKDfnTJQHN6edE2iBirwSDYBbkkjT0",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr8CUKOg7JPNuzRiQUpm_gG6JB0q6e-XEtR8N6jBbz2b_G2Ic9v24pw-Ir2Hs9upzSUF9Z74_gws-1fO6x5VZlWjK8IAlIDRkEd1nGbGJAUEWofq6ulvEm2EmEDUw753R21YYFvM4VhTPdGIx6T-geHPbWRAx6BA4DlCH6JbyCHvEk8N5xsGqTffE4NLdlGLEZuXo-",
+            "title": "atlantafalcons.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEbOeuac_Gv5d3NJg4hcueGPKMcnJeTkh1p0EcwyWBA13lCPlALw6TgeUCv1MwYV9SR8EfIUPiXilPZhU3fIy6jhku9iMFjdXnxxlZT7CWkUREMWFU6k8ic5VHo6JOkIt-l7kapU94B01F3VDzT7pQDA==",
+            "title": "nfldraftbuzz.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR02GZFOgSBA-VcBm-K9gyqLp5Oo0vWm2RY0qbylnkIKiQJhb0fD16dki-r4xtVeqzrB4mOV9eG5g422I1h4UlITpPOYoNlrSHsglK675xSWW08xfcfD3foh2wQMSB-Xx1sBSZU_CN3PORXBQYXuB_I2kqfCR3XOVLZv2VzbCtDkbih68WSQ==",
+            "title": "pff.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEFz149Sijtmt26qi6kP5Y46WyQO5qolVRaY_drGjqv4M2f49BDBD8JdbhPgNfVeLxtrvJybp0rqwP1vJy69OqzaxnqhdFLsFvvFkg_2oPCc__AmTgoi2AXxdjyBCmV6nN2pMu1dva9YOZ_DGSzaIIslBZ2PhT2Nwo3h61-EEWlCaQVQF06ax1NQ71i-nFn_EMv1EKATEpLDHv8vErdw1azQ==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqs1AsNDu_EtA0Qv4Y3g0rj8WoKaeNySfY8A5lhHYTNalb0zMtjfaf2PiuoE27w1XZgqVsKt8wO1Or3EZDKiOByiV9xE0-zDBoDB4K_VQzxbdik7jzZ9NwBau-yvvC4Gy4idLkAIR7hXLJlYtkHbOTYMMpN-RHFuKHBa_HAcuOPA-3AF50px1PGSvi7X1CpxK-wBU5cO-rN0AfEUrd4zBDjxw02bVxTahEt0C2MsAhuYU_HyxJBQHcgLs9TupRvM8OtRNvc5o4thmydIN6-sVMb7QiJdlaxZ2fqf5QM8iniQHQ1r42ZzY1POmFqPzfZuAbGcfg7TM=",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwahSFocdPTOEDrWdZDLhVlB3rzutb1VCC1BmnTlPS80-wl3VteQCVCqBC5ZsTo-st8iAf9ly_fh1CMpNpIidLUAo-cog6vky9jHdUvWAGvlbw8_-8F0MqoHUaPlHxVJiLQB6tSOHqOWrIyvkp99fB5uZPlENuCcD4srRdLnNPJcnFFjEPWJNwyFK4heb2PKZ0e1lqMFADEREm5uY80XGb5eGKD9h-MQZD3ORRIRg=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRRSM972NtxwBilVmfmoUZbHYwGHyIcMTpFe1ZBDLD4ST2DsnZrjgyA6ljWY086gT-WzZfHKKqzNDmCOPn1awpZpAVgYicplo97XpSK4URUw8ERiwMxWmdXXMGcdiVfVbv",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7pNW8PDBmR4fLDd-hn7kwC3_NiqqcKvImHVrHxQuQi0YU_wHcVHrph6hB0v5UmEkiUy5uJyW7tq-pfxsWF7FAeYkCGlF27-rVJnQGEhWT8igqphIhQ44n5DbpV6zW8jn1RtRwzfrIH1BgeYe0RyRKbiMQ_QSNSZq0Sejrf9x58kXSVv27475iXRw=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO0_Iwe-5FZqbEdht7EwJI7Bbqw0Ye_d14FsEczIxEjBYb6w6VEAU43gzOvBfTBm9lk9nJ_3sSSvvLpljb3Bbz-JaBbR4tsr4UWS2yPKMHCvZiIkN0WG0qFMc7IAoR8evJUtlkgKyd-BRe1MUcS0MKi_ed6efTiCuSz3u4h6r2lRPYkbzWt6XxmEoBljD3Sm4=",
+            "title": "profootballnetwork.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Ryan Flournoy",
+          "Zachariah Branch",
+          "Wan'Dale Robinson",
+          "Kyle Monangai"
+        ],
+        "aviCoreCommitSha": "3dc8bc8315cab62cf705def3af63f304eb49c9cd",
+        "aviCoreCommittedAt": "2026-11-02T21:06:16Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 543564,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 251,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mvvgy1nj-49e0ba0b",
