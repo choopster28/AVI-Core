@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 10
-- Last updated from Sleeper exports: 2026-11-01
+- Last updated from Sleeper exports: 2026-11-02
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 553.0
-- championship_lineup_c_avi_avg: 69.12
-- offensive_roster_c_avi_sum: 902.1
-- offensive_roster_c_avi_avg: 53.06
-- offensive_roster_d_avi_sum: 1259.0
-- offensive_roster_d_avi_avg: 74.06
+- championship_lineup_c_avi_sum: 537.6
+- championship_lineup_c_avi_avg: 67.20
+- offensive_roster_c_avi_sum: 909.4
+- offensive_roster_c_avi_avg: 53.49
+- offensive_roster_d_avi_sum: 1260.1
+- offensive_roster_d_avi_avg: 74.12
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Rashee Rice | C-AVI: 55.1 | D-AVI: 84.8
 - TE: Tyler Warren | C-AVI: 81.4 | D-AVI: 89.4
 - FLEX: Omarion Hampton | C-AVI: 58.8 | D-AVI: 84.2
-- FLEX: Jeremiyah Love | C-AVI: 58.6 | D-AVI: 88.3
+- FLEX: Chris Godwin Jr. | C-AVI: 43.2 | D-AVI: 69.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -110,6 +110,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Jeremiyah Love
+- Player name: Jeremiyah Love
+- Player ID: 13287
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: ARI
+- Active: True
+- Status: Active
+- Age: 21.0
+- Championship AVI (C-AVI, 0-100): 65.7
+- Dynasty AVI (D-AVI, 0-100): 89.4
+- Projected PPR points: 211.8
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Omarion Hampton
 - Player name: Omarion Hampton
 - Player ID: 12507
@@ -124,23 +141,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 58.8
 - Dynasty AVI (D-AVI, 0-100): 84.2
 - Projected PPR points: 242.9
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Jeremiyah Love
-- Player name: Jeremiyah Love
-- Player ID: 13287
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: ARI
-- Active: True
-- Status: Active
-- Age: 21.0
-- Championship AVI (C-AVI, 0-100): 58.6
-- Dynasty AVI (D-AVI, 0-100): 88.3
-- Projected PPR points: 211.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 27.5
+- Championship AVI (C-AVI, 0-100): 27.6
 - Dynasty AVI (D-AVI, 0-100): 58.4
 - Projected PPR points: 65.2
 - Category: offense
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 18.2
+- Championship AVI (C-AVI, 0-100): 18.3
 - Dynasty AVI (D-AVI, 0-100): 37.4
 - Projected PPR points: 10.5
 - Category: offense

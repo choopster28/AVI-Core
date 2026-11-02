@@ -1,398 +1,456 @@
 {
-  "count": 22,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Ari Koslow",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
-        "News"
+        "News",
+        "Results"
       ],
-      "created": "2026-11-01 17:34:22",
-      "created_formated": "Sun, Nov 1st 5:34pm UTC",
-      "desc": "Vikings WR Jauan Jennings reportedly declined a trade that would have sent him back to the San Francisco 49ers. ",
-      "id": 616963,
-      "impact": "Jennings spent the past five seasons in San Francisco before signing with Minnesota this past offseason. He will remain off the fantasy radar with the Vikings. ",
-      "link": "https://www.fantasypros.com/nfl/news/616963/jauan-jennings-declines-trade-to-49ers.php",
+      "created": "2026-11-02 01:29:01",
+      "created_formated": "Mon, Nov 2nd 1:29am UTC",
+      "desc": "Jahmyr Gibbs carried the ball 23 times for 153 yards and one touchdown while also catching two of his four targets for 15 yards in the Lions' 19-15 Week 8 win over the Vikings.",
+      "id": 617079,
+      "impact": "Gibbs has had a nose for the end zone of late, rushing for one or more touchdowns in four of his last five contests. The running back remains an explosive RB1 option entering a favorable Week 9 matchup against the Miami Dolphins.",
+      "link": "https://www.fantasypros.com/nfl/news/617079/jahmyr-gibbs-shreds-tough-vikings-defense-week-8-win.php",
+      "player_id": 22968,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Jahmyr Gibbs shreds tough Vikings defense in Week 8 win"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-02 01:25:17",
+      "created_formated": "Mon, Nov 2nd 1:25am UTC",
+      "desc": "Jared Goff completed 18-of-25 pass attempts for 176 yards, one touchdown, and one interception in the Lions' 19-15 Week 8 win over the Vikings.",
+      "id": 617078,
+      "impact": "Goff was mostly held in check by a stout Minnesota defense, finishing with under 200 passing yards for the first time this season. The quarterback will look to get back on track in a favorable matchup against the Miami Dolphins in Week 9.",
+      "link": "https://www.fantasypros.com/nfl/news/617078/jared-goff-held-check-week-8-win.php",
+      "player_id": 15501,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Jared Goff held in check in Week 8 win"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-02 01:21:52",
+      "created_formated": "Mon, Nov 2nd 1:21am UTC",
+      "desc": "Amon-Ra St. Brown hauled in seven of his team-leading eight targets for 46 yards while also rushing once for 10 yards in the Lions' 19-15 Week 8 win over the Vikings.",
+      "id": 617077,
+      "impact": "St. Brown was held in check by a stiff Minnesota defense, recording less than 50 receiving yards for the first time in his last four contests in the win. The wideout remains a stable WR1 option entering a favorable Week 9 matchup against the Miami Dolphins.",
+      "link": "https://www.fantasypros.com/nfl/news/617077/amon-ra-st-brown-hauls-seven-passes-week-8-win.php",
+      "player_id": 19799,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Amon-Ra St. Brown hauls in seven passes in Week 8 win"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-02 01:18:29",
+      "created_formated": "Mon, Nov 2nd 1:18am UTC",
+      "desc": "Jameson Williams hauled in four of his six targets for a team-high 70 yards and one touchdown in the Lions' 19-15 Week 8 win over the Vikings.",
+      "id": 617076,
+      "impact": "Williams has had a nose for the end zone of late, registering one or more receiving touchdowns in each of his last three games. The wideout remains one of the more explosive offensive options for head coach Dan Campbell entering a juicy Week 9 matchup against the Miami Dolphins.",
+      "link": "https://www.fantasypros.com/nfl/news/617076/jameson-williams-finds-end-zone-week-8-win-over-vikings.php",
+      "player_id": 23677,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Jameson Williams finds end zone in Week 8 win over Vikings"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-02 01:15:33",
+      "created_formated": "Mon, Nov 2nd 1:15am UTC",
+      "desc": "Sione Vaki rushed 11 times for 65 yards while also catching his only target for five yards in the Lions' 19-15 win over the Vikings in Week 8.",
+      "id": 617075,
+      "impact": "Vaki was impactful for the first time in a forgettable season, recording over 60 rushing yards for the first time in his seven contests. The running back remains best left off rosters in all formats ahead of a Week 9 contest against the Miami Dolphins.",
+      "link": "https://www.fantasypros.com/nfl/news/617075/sione-vaki-logs-12-touches-week-8-win.php",
+      "player_id": 26309,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Sione Vaki logs 12 touches in Week 8 win"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-02 01:11:48",
+      "created_formated": "Mon, Nov 2nd 1:11am UTC",
+      "desc": "Sam LaPorta caught three of his five targets for 33 yards while also rushing once for two yards in the Lions' 19-15 win over the Vikings in Week 8.",
+      "id": 617074,
+      "impact": "LaPorta has struggled to make an impact on offense of late, recording less than 35 receiving yards in each of his last two contests. The tight end will look to get back on track against an underwhelming Miami Dolphins defense in Week 9.",
+      "link": "https://www.fantasypros.com/nfl/news/617074/sam-laporta-quiet-week-8-win.php",
+      "player_id": 22978,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Sam LaPorta quiet in Week 8 win"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-02 01:09:12",
+      "created_formated": "Mon, Nov 2nd 1:09am UTC",
+      "desc": "Tyler Conklin caught his only target for seven yards in the Lions' 19-15 win over the Vikings in Week 8.",
+      "id": 617073,
+      "impact": "Conklin remains a non-factor in the Detroit offense, finishing with less than two targets in each of his five contests. The tight end can remain off rosters in all formats ahead of a Week 9 contest against the Miami Dolphins.",
+      "link": "https://www.fantasypros.com/nfl/news/617073/tyler-conklin-catches-pass-week-8.php",
+      "player_id": 17598,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Tyler Conklin catches pass in Week 8 "
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-02 00:50:45",
+      "created_formated": "Mon, Nov 2nd 12:50am UTC",
+      "desc": "Kyler Murray completed 17-of-29 pass attempts for 210 yards, two touchdowns, and one interception while also rushing four times for a team-high 35 yards in the Vikings' 19-15 Week 8 loss to the Lions.",
+      "id": 617072,
+      "impact": "Murray battled hamstring tightness late in Sunday's contest, recording less than 230 passing yards for the third consecutive contest. The athletic quarterback faces a stiff test in Week 9 against the Buffalo Bills.",
+      "link": "https://www.fantasypros.com/nfl/news/617072/kyler-murray-offers-mixed-results-week-8-loss-to-lions.php",
+      "player_id": 18600,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Kyler Murray offers mixed results in Week 8 loss to Lions"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-02 00:47:32",
+      "created_formated": "Mon, Nov 2nd 12:47am UTC",
+      "desc": "Justin Jefferson hauled in five of his nine targets for 33 yards and one touchdown in the Vikings' 19-15 Week 8 loss to the Lions.",
+      "id": 617071,
+      "impact": "Jefferson made the most of an otherwise forgettable performance, scoring a touchdown for the second time in four contests despite recording less than 45 receiving yards in three of his last four contests. The wideout has fallen victim to underwhelming quarterback play to this point ahead of a Week 9 matchup against the Buffalo Bills.",
+      "link": "https://www.fantasypros.com/nfl/news/617071/justin-jefferson-finds-end-zone-week-8-loss-to-lions.php",
+      "player_id": 19236,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Justin Jefferson finds end zone in Week 8 loss to Lions"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-02 00:44:26",
+      "created_formated": "Mon, Nov 2nd 12:44am UTC",
+      "desc": "Jordan Addison hauled in three of his eight targets for 66 yards in the Vikings' 19-15 Week 8 loss to the Lions.",
+      "id": 617070,
+      "impact": "Addison has battled inconsistent involvement in the Minnesota passing attack, finishing with under 70 receiving yards in two of his last three contests. The wideout remains difficult to trust ahead of a Week 9 matchup against the Buffalo Bills.",
+      "link": "https://www.fantasypros.com/nfl/news/617070/jordan-addison-leads-pass-catchers-week-8-loss.php",
+      "player_id": 23107,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Jordan Addison leads pass-catchers in Week 8 loss"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-02 00:37:11",
+      "created_formated": "Mon, Nov 2nd 12:37am UTC",
+      "desc": "Jordan Mason rushed eight times for 20 yards in the Vikings' 19-15 loss to the Lions in Week 8.",
+      "id": 617069,
+      "impact": "Mason struggled to find running room in a losing effort, finishing with under 50 rushing yards for the first time in three contests. The running back remains difficult to trust in all formats ahead of a Week 9 contest against the Buffalo Bills.",
+      "link": "https://www.fantasypros.com/nfl/news/617069/jordan-mason-bottled-up-week-8-loss.php",
+      "player_id": 22969,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Jordan Mason bottled up in Week 8 loss"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-02 00:33:26",
+      "created_formated": "Mon, Nov 2nd 12:33am UTC",
+      "desc": "T.J. Hockenson hauled in four of his five targets for 58 yards and one touchdown in the Vikings' 19-15 Week 8 loss to the Lions.",
+      "id": 617068,
+      "impact": "Hockenson has had a nose for the end zone of late, recording a receiving touchdown in each of his last two contests. The tight end will look to continue his impactful stretch against the Buffalo Bills in Week 9.",
+      "link": "https://www.fantasypros.com/nfl/news/617068/tj-hockenson-reaches-end-zone-week-8-loss.php",
+      "player_id": 18290,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "T.J. Hockenson reaches end zone in Week 8 loss"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-02 00:29:06",
+      "created_formated": "Mon, Nov 2nd 12:29am UTC",
+      "desc": "Aaron Jones Sr. rushed five times for 22 yards while also catching both of his targets for 18 yards in the Vikings' 19-15 Week 8 loss to the Lions.",
+      "id": 617067,
+      "impact": "Jones Sr. has struggled to make an impact out of the backfield of late, rushing for less than 30 yards in each of his last two contests. The running back faces another stiff test against the Buffalo Bills in Week 9.",
+      "link": "https://www.fantasypros.com/nfl/news/617067/aaron-jones-sr-held-check-week-8-loss.php",
+      "player_id": 16673,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Aaron Jones Sr. held in check in Week 8 loss"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-02 00:25:47",
+      "created_formated": "Mon, Nov 2nd 12:25am UTC",
+      "desc": "Jauan Jennings caught both of his targets for 11 yards in the Vikings' 19-15 loss to the Lions in Week 8.",
+      "id": 617066,
+      "impact": "Jennings has been minimally involved in the Minnesota passing attack to this point, finishing with under 35 receiving yards in each of his six contests. The wideout remains difficult to trust ahead of a Week 9 contest against the Buffalo Bills.",
+      "link": "https://www.fantasypros.com/nfl/news/617066/jauan-jennings-quiet-week-8.php",
       "player_id": 19590,
       "sport_id": "NFL",
       "team_id": "MIN",
-      "title": "Jauan Jennings declines trade to 49ers"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-01 17:12:28",
-      "created_formated": "Sun, Nov 1st 5:12pm UTC",
-      "desc": "ESPN's Adam Schefter reported that teams are showing interest in Cardinals OLB Josh Sweat. ",
-      "id": 616961,
-      "impact": "Schefter mentions the Cowboys as a team to watch for Sweat. This will remain a rumor to monitor heading into next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/616961/josh-sweat-drawing-trade-interest.php",
-      "player_id": 17363,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Josh Sweat drawing trade interest "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-01 17:00:18",
-      "created_formated": "Sun, Nov 1st 5:00pm UTC",
-      "desc": "Falcons WR Olamide Zaccheaus (shoulder) is officially active for Week 8.",
-      "id": 616960,
-      "impact": "Zaccheaus was limited in practice all week but will suit up against Tampa Bay. He will likely serve as the WR3, offering limited fantasy value. ",
-      "link": "https://www.fantasypros.com/nfl/news/616960/olamide-zaccheaus-shoulder-is-officially-active-week-8.php",
-      "player_id": 18864,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Olamide Zaccheaus (shoulder) is officially active for Week 8 "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-01 16:57:33",
-      "created_formated": "Sun, Nov 1st 4:57pm UTC",
-      "desc": "Falcons RB Brian Robinson Jr. (hamstring) is officially inactive for a Week 8 matchup with Tampa Bay.",
-      "id": 616958,
-      "impact": "Robinson was unable to practice in any capacity this week and will not suit up for the Falcons. Khalil Herbert will serve as the backup against Tampa Bay.  ",
-      "link": "https://www.fantasypros.com/nfl/news/616958/brian-robinson-jr.php",
-      "player_id": 20094,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Brian Robinson Jr. (hamstring) officially inactive for Week 8 "
+      "title": "Jauan Jennings quiet in Week 8"
     },
     {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-11-01 16:58:20",
-      "created_formated": "Sun, Nov 1st 4:58pm UTC",
-      "desc": "Kenny Gainwell (hip) is officially active for Week 8 for the Tampa Bay Buccaneers according to Brianna Dix.",
-      "id": 616959,
-      "impact": "Gainwell will suit up after entering the weekend carrying a questionable designation, boosting a Tampa Bay backfield that will utilize both Gainwell and Bucky Irving against the Falcons Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/616959/kenny-gainwell-hip-active-week-8.php",
-      "player_id": 23310,
+      "created": "2026-11-02 00:21:26",
+      "created_formated": "Mon, Nov 2nd 12:21am UTC",
+      "desc": "Ben Yurosek caught one of his two targets for 24 yards in the Vikings' 19-15 loss to the Lions in Week 8.",
+      "id": 617065,
+      "impact": "Yurosek has seen minimal involvement in the Minnesota offense, finishing with less than three targets in each of his three games. The tight end can be left off rosters in all formats ahead of a Week 9 contest against the Buffalo Bills.",
+      "link": "https://www.fantasypros.com/nfl/news/617065/ben-yurosek-sees-two-targets-week-8.php",
+      "player_id": 27843,
       "sport_id": "NFL",
-      "team_id": "TB",
-      "title": "Kenny Gainwell (hip) active for Week 8"
+      "team_id": "MIN",
+      "title": "Ben Yurosek sees two targets in Week 8"
     },
     {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury",
-        "Breaking"
+        "Results"
       ],
-      "created": "2026-11-01 16:44:40",
-      "created_formated": "Sun, Nov 1st 4:44pm UTC",
-      "desc": "Calvin Ridley (hip) is active for Week 8 for the Tennessee Titans according to Adam Schefter.",
-      "id": 616957,
-      "impact": "Ridley is good to go after carrying a questionable designation into the weekend for head coach Robert Saleh, offering an underwhelming Tennessee offense another explosive option Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/616957/calvin-ridley-hip-active-week-8.php",
-      "player_id": 17258,
+      "created": "2026-11-02 00:19:02",
+      "created_formated": "Mon, Nov 2nd 12:19am UTC",
+      "desc": "DeeJay Dallas rushed once for four yards in the Vikings' 19-15 loss to the Lions in Week 8.",
+      "id": 617064,
+      "impact": "Dallas has been a non-factor out of the backfield, finishing with less than 10 rushing yards in each of his seven contests. The running back can remain off rosters in all formats ahead of a Week 9 contest against the Buffalo Bills.",
+      "link": "https://www.fantasypros.com/nfl/news/617064/deejay-dallas-sees-one-touch-week-8.php",
+      "player_id": 19521,
       "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Calvin Ridley (hip) active for Week 8"
+      "team_id": "MIN",
+      "title": "DeeJay Dallas sees one touch in Week 8"
     },
     {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury",
-        "Breaking"
+        "Results"
       ],
-      "created": "2026-11-01 16:42:49",
-      "created_formated": "Sun, Nov 1st 4:42pm UTC",
-      "desc": "Jakobi Meyers (hamstring/ankle) is active for Week 8 for the Jacksonville Jaguars according to Adam Schefter.",
-      "id": 616956,
-      "impact": "Meyers will take the field after not suffering any setbacks during pregame warmups for head coach Liam Cohen, offering quarterback Trevor Lawrence another impactful pass-catcher Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/616956/jakobi-meyers-hamstringankle-active-week-8.php",
-      "player_id": 18598,
+      "created": "2026-11-02 00:14:15",
+      "created_formated": "Mon, Nov 2nd 12:14am UTC",
+      "desc": "Dak Prescott completed 19-of-29 pass attempts for 195 yards and one touchdown while also rushing seven times for 20 yards and one touchdown in the Cowboys' 33-30 loss to the Cardinals in Week 8.",
+      "id": 617063,
+      "impact": "Prescott was unable to find consistent success Sunday, finishing with under 200 passing yards for the first time in his last seven contests. The quarterback will look to get back on track against a leaky Indianapolis Colts defense in Week 9.",
+      "link": "https://www.fantasypros.com/nfl/news/617063/dak-prescott-records-two-touchdowns-week-8-loss-to-cardinals.php",
+      "player_id": 15600,
       "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Jakobi Meyers (hamstring/ankle) active for Week 8"
+      "team_id": "DAL",
+      "title": "Dak Prescott records two touchdowns in Week 8 loss to Cardinals"
     },
     {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury",
-        "Breaking"
+        "Results"
       ],
-      "created": "2026-11-01 16:40:54",
-      "created_formated": "Sun, Nov 1st 4:40pm UTC",
-      "desc": "Breece Hall (quad) is inactive for Week 8 for the New York Jets against the Las Vegas Raiders according to Adam Schefter.",
-      "id": 616955,
-      "impact": "Hall will remain sidelined once again for head coach Aaron Glenn, with Braelon Allen once again in line for a sizeable workload leading the Jets backfield Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/616955/breece-hall-quad-inactive-week-8.php",
-      "player_id": 22982,
+      "created": "2026-11-02 00:10:51",
+      "created_formated": "Mon, Nov 2nd 12:10am UTC",
+      "desc": "Javonte Williams carried the ball 24 times for 56 yards while also catching one of his two targets for one yard in the Cowboys' 33-30 Week 8 loss to the Cardinals.",
+      "id": 617062,
+      "impact": "Williams was held in check out of the backfield, failing to reach the end zone for the first time in his last six contests. The running back will look to get back on track against a generous Indianapolis Colts defense in Week 9.",
+      "link": "https://www.fantasypros.com/nfl/news/617062/javonte-williams-bottled-up-week-8-loss-to-cardinals.php",
+      "player_id": 22739,
       "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Breece Hall (quad) inactive for Week 8"
+      "team_id": "DAL",
+      "title": "Javonte Williams bottled up in Week 8 loss to Cardinals"
     },
     {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury",
-        "Breaking"
+        "Results"
       ],
-      "created": "2026-11-01 16:38:57",
-      "created_formated": "Sun, Nov 1st 4:38pm UTC",
-      "desc": "George Pickens (shoulder/hamstring) is officially active for Week 8 for the Dallas Cowboys against the Arizona Cardinals according to Adam Schefter.",
-      "id": 616954,
-      "impact": "Pickens is good to go after entering the weekend with a questionable designation for head coach Brian Schottenheimer, boosting a Dallas passing offense that will look to feast on the Cardinals defense Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/616954/george-pickens-shoulderhamstring-active-week-8.php",
+      "created": "2026-11-02 00:08:02",
+      "created_formated": "Mon, Nov 2nd 12:08am UTC",
+      "desc": "CeeDee Lamb hauled in seven of his team-high 11 targets for 58 yards in the Cowboys' 33-30 Week 8 loss to the Cardinals.",
+      "id": 617061,
+      "impact": "Lamb was held mostly in check Sunday, finishing under 60 receiving yards for the first time in his last three contests. The wideout remains locked in as an elite WR1 option against a generous Indianapolis Colts defense in Week 9.",
+      "link": "https://www.fantasypros.com/nfl/news/617061/ceedee-lamb-leads-pass-catchers-week-8-loss-to-cardinals.php",
+      "player_id": 19202,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "CeeDee Lamb leads pass-catchers in Week 8 loss to Cardinals"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-02 00:04:55",
+      "created_formated": "Mon, Nov 2nd 12:04am UTC",
+      "desc": "George Pickens caught two of his four targets for 48 yards in the Cowboys' 33-30 Week 8 loss to the Cardinals.",
+      "id": 617060,
+      "impact": "Pickens has fallen back to earth of late, finishing under 60 receiving yards in each of his last two contests. The wideout will look to take advantage of a generous Indianapolis Colts defense in Week 9.",
+      "link": "https://www.fantasypros.com/nfl/news/617060/george-pickens-quiet-week-8-loss-to-cardinals.php",
       "player_id": 22963,
       "sport_id": "NFL",
       "team_id": "DAL",
-      "title": "George Pickens (shoulder/hamstring) active for Week 8"
+      "title": "George Pickens quiet in Week 8 loss to Cardinals"
     },
     {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury",
-        "Breaking"
+        "Results"
       ],
-      "created": "2026-11-01 16:36:33",
-      "created_formated": "Sun, Nov 1st 4:36pm UTC",
-      "desc": "Dalton Kincaid (chest) is officially active for Week 8 for the Buffalo Bills against the Baltimore Ravens according to Adam Schefter.",
-      "id": 616953,
-      "impact": "Kincaid will take the field after passing through pregame warmups without any setbacks, offering quarterback Josh Allen one of his more impactful red zone weapons against the Ravens Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/616953/dalton-kincaid-chest-active-week-8.php",
-      "player_id": 25247,
+      "created": "2026-11-02 00:01:36",
+      "created_formated": "Mon, Nov 2nd 12:01am UTC",
+      "desc": "Ryan Flournoy caught three of his four targets for 38 yards and one touchdown while also rushing once for three yards in the Cowboys' 33-30 Week 8 loss to the Cardinals.",
+      "id": 617059,
+      "impact": "Flournoy has had a nose for the end zone of late, scoring a touchdown in two of his last three contests. The wideout remains a touchdown dependent option in all formats ahead of a favorable Week 9 contest against the Indianapolis Colts.",
+      "link": "https://www.fantasypros.com/nfl/news/617059/ryan-flournoy-finds-end-zone-week-8-loss.php",
+      "player_id": 26398,
       "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Dalton Kincaid (chest) active for Week 8"
+      "team_id": "DAL",
+      "title": "Ryan Flournoy finds end zone in Week 8 loss"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-01 20:06:57",
+      "created_formated": "Sun, Nov 1st 8:06pm UTC",
+      "desc": "The Ravens have ruled out QB Tyler Huntley with a toe injury. ",
+      "id": 616976,
+      "impact": "Huntley replaced the injured Lamar Jackson (thumb) after just one play. He was eventually replaced by rookie QB Joe Fagnano, who will now quarterback the team for the remainder of the day. Huntley finished the game 2-for-4 with no yardage gained prior to the injury. ",
+      "link": "https://www.fantasypros.com/nfl/news/616976/tyler-huntley-toe-ruled-out.php",
+      "player_id": 19297,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Tyler Huntley (toe) ruled out "
     },
     {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury",
-        "Breaking"
+        "Results"
       ],
-      "created": "2026-11-01 16:34:30",
-      "created_formated": "Sun, Nov 1st 4:34pm UTC",
-      "desc": "DJ Moore (shoulder) is officially active for Week 8 for the Buffalo Bills against the Baltimore Ravens according to Adam Schefter.",
-      "id": 616952,
-      "impact": "Moore is good to go after entering the weekend with a questionable designation, boosting a Buffalo passing attack for quarterback Josh Allen against the Ravens Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/616952/dj-moore-shoulder-active-week-8.php",
-      "player_id": 17265,
+      "created": "2026-11-01 23:54:19",
+      "created_formated": "Sun, Nov 1st 11:54pm UTC",
+      "desc": "Brevyn Spann-Ford caught four of his five targets for 31 yards in the Cowboys' 33-30 loss to the Cardinals in Week 8.",
+      "id": 617058,
+      "impact": "Spann-Ford remains an afterthought in the Dallas offense, finishing under 40 receiving yards in each of the first eight contests. The tight end's value remains tied to the health of No. 1 option Jake Ferguson ahead of a Week 9 contest against the Indianapolis Colts.",
+      "link": "https://www.fantasypros.com/nfl/news/617058/brevyn-spann-ford-catches-four-passes-week-8.php",
+      "player_id": 26003,
       "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "DJ Moore (shoulder) active for Week 8"
+      "team_id": "DAL",
+      "title": "Brevyn Spann-Ford catches four passes in Week 8"
     },
     {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-11-01 14:07:42",
-      "created_formated": "Sun, Nov 1st 2:07pm UTC",
-      "desc": "Jaylen Waddle (chest) is expected to play for the Denver Broncos against the Kansas City Chiefs according to Adam Schefter.",
-      "id": 616935,
-      "impact": "Waddle looks good to go barring any pregame issues for head coach Sean Payton, offering an inconsistent Denver offense another option against a shorthanded Kansas City secondary Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/616935/jaylen-waddle-chest-expected-to-play-sunday.php",
-      "player_id": 19790,
+      "created": "2026-11-01 23:51:03",
+      "created_formated": "Sun, Nov 1st 11:51pm UTC",
+      "desc": "Tyler Goodson rushed seven times for 14 yards while also catching both of his targets for 19 yards in the Cowboys' 33-30 loss to the Cardinals in Week 8.",
+      "id": 617057,
+      "impact": "Goodson remains minimally involved out of the backfield, rushing for less than 40 yards in each of his six contests. The running back can remain off rosters in all formats ahead of a Week 9 contest against the Indianapolis Colts.",
+      "link": "https://www.fantasypros.com/nfl/news/617057/tyler-goodson-quiet-week-8.php",
+      "player_id": 22976,
       "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Jaylen Waddle (chest) expected to play Sunday"
+      "team_id": "DAL",
+      "title": "Tyler Goodson quiet in Week 8"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
-        "Injury"
+        "Results"
       ],
-      "created": "2026-11-01 06:15:14",
-      "created_formated": "Sun, Nov 1st 6:15am UTC",
-      "desc": "R Mason Thomas is off the injury report for Sunday's game against the Chiefs. ",
-      "id": 616916,
-      "impact": "Thomas will be good to go on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/616916/r-mason-thomas-personal-off-injury-report-sunday.php",
-      "player_id": 28021,
+      "created": "2026-11-01 23:21:48",
+      "created_formated": "Sun, Nov 1st 11:21pm UTC",
+      "desc": "The Raiders D/ST allowed 290 passing yards, 166 rushing yards, and 33 points in a win over the Jets. ",
+      "id": 617032,
+      "impact": "The Raiders' defense tallied two sacks and one interception in the win. Neither defense really did anything of note in this game, with both teams scoring over 30 points. The Raiders did score on special teams, with Dylan Laube returning a 95-yard kickoff for a touchdown in the second quarter. The Raiders will take on the 49ers in Week 9. ",
+      "link": "https://www.fantasypros.com/nfl/news/617032/raiders-dst-allows-33-points-week-8-win.php",
+      "player_id": 8220,
       "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "R Mason Thomas (personal) off injury report Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-01 06:14:07",
-      "created_formated": "Sun, Nov 1st 6:14am UTC",
-      "desc": "The Broncos elevated OL Gavin Ortega to their active roster for Sunday's game against the Chiefs. ",
-      "id": 616915,
-      "impact": "Ortega will add depth on the offensive line for Denver. ",
-      "link": "https://www.fantasypros.com/nfl/news/616915/gavin-ortega-elevated-by-broncos.php",
-      "player_id": 28834,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Gavin Ortega elevated by Broncos"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-01 06:13:14",
-      "created_formated": "Sun, Nov 1st 6:13am UTC",
-      "desc": "The Broncos elevated RB Cody Schrader to their active roster for Sunday's game against the Chiefs. ",
-      "id": 616914,
-      "impact": "Schrader will add depth in the backfield for Denver. ",
-      "link": "https://www.fantasypros.com/nfl/news/616914/cody-schrader-elevated-by-broncos.php",
-      "player_id": 26216,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Cody Schrader elevated by Broncos "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-01 06:12:01",
-      "created_formated": "Sun, Nov 1st 6:12am UTC",
-      "desc": "Jakorian Bennett has been ruled out for Sunday's game against the Commanders. ",
-      "id": 616913,
-      "impact": "The Eagles secondary will be a little short-handed on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/616913/jakorian-bennett-ruled-out-sunday.php",
-      "player_id": 25266,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jakorian Bennett ruled out Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-01 06:10:30",
-      "created_formated": "Sun, Nov 1st 6:10am UTC",
-      "desc": "The Broncos signed Taylor Rapp from their practice squad to their 53-man roster. ",
-      "id": 616912,
-      "impact": "Rapp will add depth in the secondary for Denver. ",
-      "link": "https://www.fantasypros.com/nfl/news/616912/taylor-rapp-signs-with-broncos-53-man-roster.php",
-      "player_id": 18238,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Taylor Rapp signs with Broncos' 53-man roster "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-01 06:09:21",
-      "created_formated": "Sun, Nov 1st 6:09am UTC",
-      "desc": "The Panthers signed Caelen Carson to their practice squad. ",
-      "id": 616911,
-      "impact": "Carson will add depth for Carolina. ",
-      "link": "https://www.fantasypros.com/nfl/news/616911/caelen-carson-signs-with-panthers.php",
-      "player_id": 26228,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Caelen Carson signs with Panthers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-01 06:08:24",
-      "created_formated": "Sun, Nov 1st 6:08am UTC",
-      "desc": "The Dolphins released tackle Gottlieb Ayedze from the practice squad.",
-      "id": 616910,
-      "impact": "Ayedze will seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/616910/gottlieb-ayedze-released-by-dolphins.php",
-      "player_id": 26663,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Gottlieb Ayedze released by Dolphins "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-01 06:07:35",
-      "created_formated": "Sun, Nov 1st 6:07am UTC",
-      "desc": "The Dolphins guard DJ Campbell to the practice squad. ",
-      "id": 616909,
-      "impact": "Campbell will add depth on offensive line for Miami. ",
-      "link": "https://www.fantasypros.com/nfl/news/616909/dj-campbell-signs-with-dolphins.php",
-      "player_id": 27199,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "DJ Campbell signs with Dolphins "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-01 06:05:48",
-      "created_formated": "Sun, Nov 1st 6:05am UTC",
-      "desc": "The Dolphins waived EDGE Rob Beal Jr.",
-      "id": 616908,
-      "impact": "Beal will figure to seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/616908/rob-beal-jr-waived-by-dolphins.php",
-      "player_id": 24748,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Rob Beal Jr. waived by Dolphins "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-01 06:04:43",
-      "created_formated": "Sun, Nov 1st 6:04am UTC",
-      "desc": "The Colts signed DT Kevin Givens off the 49ers' practice squad. ",
-      "id": 616907,
-      "impact": "Givens will add depth on the defensive line for Indianapolis. ",
-      "link": "https://www.fantasypros.com/nfl/news/616907/kevin-givens-signed-by-colts.php",
-      "player_id": 18879,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Kevin Givens signed by Colts"
+      "team_id": "LV",
+      "title": "Raiders D/ST allows 33 points in Week 8 win "
     }
   ],
   "public_api": true,

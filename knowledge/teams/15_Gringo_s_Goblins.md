@@ -9,24 +9,24 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 990097041671892992
 - Division: 4
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-11-01
+- Last updated from Sleeper exports: 2026-11-02
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 22
-- offense: 16
+- total_players: 23
+- offense: 17
 - kickers: 1
 - idp: 5
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 485.5
-- championship_lineup_c_avi_avg: 60.69
-- offensive_roster_c_avi_sum: 799.1
-- offensive_roster_c_avi_avg: 49.94
-- offensive_roster_d_avi_sum: 1116.3
-- offensive_roster_d_avi_avg: 69.77
+- championship_lineup_c_avi_sum: 497.2
+- championship_lineup_c_avi_avg: 62.15
+- offensive_roster_c_avi_sum: 849.2
+- offensive_roster_c_avi_avg: 49.95
+- offensive_roster_d_avi_sum: 1189.2
+- offensive_roster_d_avi_avg: 69.95
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Aaron Jones Sr. | C-AVI: 56.1 | D-AVI: 68.8
 - WR: Christian Watson | C-AVI: 85.7 | D-AVI: 90.4
 - WR: Jameson Williams | C-AVI: 76.5 | D-AVI: 86.5
-- TE: Jake Ferguson | C-AVI: 38.3 | D-AVI: 75.1
+- TE: Juwan Johnson | C-AVI: 50.0 | D-AVI: 72.9
 - FLEX: Braelon Allen | C-AVI: 51.3 | D-AVI: 68.8
 - FLEX: Alvin Kamara | C-AVI: 50.8 | D-AVI: 63.5
 
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 29.1
+- Championship AVI (C-AVI, 0-100): 29.2
 - Dynasty AVI (D-AVI, 0-100): 42.1
 - Projected PPR points: 69.8
 - Category: offense
@@ -277,6 +277,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 33.3
 - Dynasty AVI (D-AVI, 0-100): 61.6
 - Projected PPR points: 70.4
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Juwan Johnson
+- Player name: Juwan Johnson
+- Player ID: 7002
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: NO
+- Active: True
+- Status: Active
+- Age: 30.0
+- Championship AVI (C-AVI, 0-100): 50.0
+- Dynasty AVI (D-AVI, 0-100): 72.9
+- Projected PPR points: 140.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

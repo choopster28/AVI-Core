@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-11-02T00:02:49.592792+00:00",
+  "generated_at_utc": "2026-11-02T01:35:28.327761+00:00",
   "statistics": {
-    "owner_trade_participations": 196,
+    "owner_trade_participations": 198,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -61,11 +61,9 @@
         "team_name": "DMV Fantasy"
       },
       {
-        "partner_count": 1,
+        "partner_count": 2,
         "partners": [
-          "Ravens Regime ",
-          "Big Balder Brand",
-          "Corgi Loaf Baking Co. "
+          "Ravens Regime "
         ],
         "roster_id": 15,
         "team_name": "Gringo’s Goblins "
@@ -160,18 +158,18 @@
         "by_season": {
           "2024": 3,
           "2025": 3,
-          "2026": 17
+          "2026": 18
         },
         "firsts_in": 2,
         "firsts_out": 4,
         "owner_display_name": "Mentomorii",
-        "picks_in": 6,
+        "picks_in": 7,
         "picks_out": 11,
         "players_in": 23,
-        "players_out": 28,
+        "players_out": 29,
         "roster_id": 3,
         "team_name": "Ravens Regime ",
-        "total": 23
+        "total": 24
       },
       {
         "by_season": {
@@ -358,18 +356,18 @@
       },
       {
         "by_season": {
-          "2026": 3
+          "2026": 4
         },
         "firsts_in": 2,
         "firsts_out": 0,
         "owner_display_name": "Burnfaze",
         "picks_in": 2,
-        "picks_out": 2,
-        "players_in": 7,
+        "picks_out": 3,
+        "players_in": 8,
         "players_out": 7,
         "roster_id": 15,
         "team_name": "Gringo’s Goblins ",
-        "total": 3
+        "total": 4
       },
       {
         "by_season": {
@@ -407,10 +405,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 54
+      "2026": 55
     },
-    "two_team_trades": 95,
-    "unique_completed_trades": 97
+    "two_team_trades": 96,
+    "unique_completed_trades": 98
   },
   "trades": [
     {
@@ -7255,6 +7253,64 @@
         }
       ],
       "transaction_id": "1421752484732370944",
+      "week": 8
+    },
+    {
+      "created_at_utc": "2026-11-02T01:16:34.626000+00:00",
+      "created_timestamp_ms": 1793582194626,
+      "roster_ids": [
+        3,
+        15
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [
+            {
+              "original_roster_id": 15,
+              "round": 2,
+              "season": "2029"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "7002",
+              "player_name": "Juwan Johnson"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        },
+        {
+          "owner_display_name": "Burnfaze",
+          "owner_id": "990097041671892992",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 15,
+              "round": 2,
+              "season": "2029"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "7002",
+              "player_name": "Juwan Johnson"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 15,
+          "season": 2026,
+          "team_name": "Gringo’s Goblins "
+        }
+      ],
+      "transaction_id": "1422790483037392896",
       "week": 8
     }
   ]
