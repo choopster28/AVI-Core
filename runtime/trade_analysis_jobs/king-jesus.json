@@ -1,5 +1,33 @@
 [
   {
+    "id": "mvzsei0p-b769281a",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Championship Odds",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "Cam Skattebo",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1793655884473,
+    "updatedAt": 1793655884473,
+    "expiresAt": 1794087884473,
+    "status": "queued"
+  },
+  {
     "id": "mvzsc686-63ad5e4c",
     "phase": "initial",
     "mode": "propose_trade",
