@@ -1,5 +1,46 @@
 [
   {
+    "id": "mw17odcs-3a371be4",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Add Dynasty Value",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Derrick Henry",
+          "assetType": "player"
+        },
+        {
+          "name": "Tony Pollard",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Tyler Shough",
+          "assetType": "player"
+        },
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        },
+        {
+          "name": "Mike Washington Jr.",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1793742005405,
+    "updatedAt": 1793742005405,
+    "expiresAt": 1794174005405,
+    "status": "queued"
+  },
+  {
     "id": "mw1521vb-ca80d724",
     "phase": "final",
     "mode": "propose_trade",
