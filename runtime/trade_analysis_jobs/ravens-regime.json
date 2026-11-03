@@ -1,5 +1,47 @@
 [
   {
+    "id": "mw17xzcq-48bbda3d",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Add Dynasty Value",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Derrick Henry",
+          "assetType": "player"
+        },
+        {
+          "name": "Tony Pollard",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Tyler Shough",
+          "assetType": "player"
+        },
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        },
+        {
+          "name": "Mike Washington Jr.",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "No Lamar Jackson derrixk henry is overvalued. Tony pollard is on a hot streak. Mike washington is beating jeanty on touches."
+    },
+    "createdAt": 1793742454000,
+    "updatedAt": 1793742454000,
+    "expiresAt": 1794174454000,
+    "status": "queued"
+  },
+  {
     "id": "mw17odcs-3a371be4",
     "phase": "initial",
     "mode": "propose_trade",
