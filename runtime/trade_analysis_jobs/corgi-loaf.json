@@ -1,5 +1,29 @@
 [
   {
+    "id": "mw18ak0n-1a35b2e8",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "partnerGoal": "Win Championship",
+      "targetAssets": [
+        {
+          "name": "Jonathan Taylor",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1793743040471,
+    "updatedAt": 1793743040471,
+    "expiresAt": 1794175040471,
+    "status": "queued"
+  },
+  {
     "id": "mw13yq7g-399d0e0f",
     "phase": "initial",
     "mode": "analyze_trade",
