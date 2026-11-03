@@ -510,7 +510,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "CLE",
+    "nfl_team": "NO",
     "normalized_name": "audric estime",
     "position": "RB",
     "source_ids": {
@@ -9617,7 +9617,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "SEA",
+    "nfl_team": "WAS",
     "normalized_name": "robert henry",
     "position": "RB",
     "source_ids": {

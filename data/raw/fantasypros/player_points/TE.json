@@ -242,9 +242,9 @@
       }
     },
     {
-      "average": 3,
+      "average": 2.5,
       "filename": "drew-sample.php",
-      "games": 6,
+      "games": 7,
       "player_id": 18561,
       "player_name": "Drew Sample",
       "points": 17.8,
@@ -256,7 +256,8 @@
         "3": 1,
         "4": 0,
         "5": 1.5,
-        "7": 10.4
+        "7": 10.4,
+        "8": 0
       }
     },
     {
@@ -318,9 +319,9 @@
       }
     },
     {
-      "average": 2.7,
+      "average": 2.4,
       "filename": "jeremy-ruckert.php",
-      "games": 7,
+      "games": 8,
       "player_id": 23742,
       "player_name": "Jeremy Ruckert",
       "points": 18.8,
@@ -333,7 +334,8 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -453,7 +455,7 @@
     {
       "average": 0,
       "filename": "cameron-latu.php",
-      "games": 7,
+      "games": 8,
       "player_id": 24331,
       "player_name": "Cameron Latu",
       "points": 0,
@@ -466,7 +468,8 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -679,9 +682,9 @@
       }
     },
     {
-      "average": 1.6,
+      "average": 1.4,
       "filename": "eric-saubert.php",
-      "games": 7,
+      "games": 8,
       "player_id": 16706,
       "player_name": "Eric Saubert",
       "points": 11,
@@ -694,7 +697,8 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "7": 2.7
+        "7": 2.7,
+        "8": 0
       }
     },
     {
@@ -739,7 +743,7 @@
     {
       "average": 0,
       "filename": "josh-whyle.php",
-      "games": 7,
+      "games": 8,
       "player_id": 22923,
       "player_name": "Josh Whyle",
       "points": 0,
@@ -752,13 +756,14 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
       "average": 0.4,
       "filename": "bauer-sharp.php",
-      "games": 7,
+      "games": 8,
       "player_id": 28165,
       "player_name": "Bauer Sharp",
       "points": 3.1,
@@ -771,7 +776,8 @@
         "4": 0,
         "5": 0,
         "6": 3.1,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -793,12 +799,12 @@
       }
     },
     {
-      "average": 8.9,
+      "average": 9.2,
       "filename": "colston-loveland.php",
-      "games": 7,
+      "games": 8,
       "player_id": 26006,
       "player_name": "Colston Loveland",
-      "points": 62.4,
+      "points": 73.9,
       "position_id": "TE",
       "team_id": "CHI",
       "weeks": {
@@ -808,7 +814,8 @@
         "4": 11.7,
         "5": 3.9,
         "6": 18.5,
-        "7": 19.9
+        "7": 19.9,
+        "8": 11.5
       }
     },
     {
@@ -832,9 +839,9 @@
       }
     },
     {
-      "average": 0.8,
+      "average": 0.7,
       "filename": "johnny-mundt.php",
-      "games": 7,
+      "games": 8,
       "player_id": 16743,
       "player_name": "Johnny Mundt",
       "points": 5.6,
@@ -847,7 +854,8 @@
         "4": 0,
         "5": 0,
         "6": 1.4,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -970,7 +978,7 @@
     {
       "average": 0,
       "filename": "feleipe-franks.php",
-      "games": 6,
+      "games": 7,
       "player_id": 20081,
       "player_name": "Feleipe Franks",
       "points": 0,
@@ -982,7 +990,8 @@
         "3": 0,
         "4": 0,
         "6": 0,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -1007,7 +1016,7 @@
     {
       "average": 0.2,
       "filename": "robert-tonyan.php",
-      "games": 7,
+      "games": 8,
       "player_id": 16502,
       "player_name": "Robert Tonyan",
       "points": 1.2,
@@ -1020,7 +1029,8 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -1097,9 +1107,9 @@
       }
     },
     {
-      "average": 1.9,
+      "average": 1.6,
       "filename": "mo-alie-cox.php",
-      "games": 7,
+      "games": 8,
       "player_id": 16579,
       "player_name": "Mo Alie-Cox",
       "points": 13.1,
@@ -1112,7 +1122,8 @@
         "4": 0,
         "5": 3.4,
         "6": 7.1,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -1206,9 +1217,9 @@
       }
     },
     {
-      "average": 1.3,
+      "average": 1.2,
       "filename": "brock-wright.php",
-      "games": 6,
+      "games": 7,
       "player_id": 23341,
       "player_name": "Brock Wright",
       "points": 8.1,
@@ -1220,7 +1231,8 @@
         "3": 2.7,
         "4": 1.8,
         "5": 2.1,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -1348,7 +1360,7 @@
     {
       "average": 0,
       "filename": "james-winchester.php",
-      "games": 6,
+      "games": 7,
       "player_id": 15246,
       "player_name": "James Winchester",
       "points": 0,
@@ -1360,7 +1372,8 @@
         "3": 0,
         "4": 0,
         "6": 0,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -1405,7 +1418,7 @@
     {
       "average": 0,
       "filename": "carsen-ryan.php",
-      "games": 6,
+      "games": 7,
       "player_id": 28399,
       "player_name": "Carsen Ryan",
       "points": 0,
@@ -1417,7 +1430,8 @@
         "3": 0,
         "4": 0,
         "6": 0,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -1496,9 +1510,9 @@
       }
     },
     {
-      "average": 0.3,
+      "average": 0.2,
       "filename": "ben-sinnott.php",
-      "games": 6,
+      "games": 7,
       "player_id": 26310,
       "player_name": "Ben Sinnott",
       "points": 1.6,
@@ -1510,13 +1524,14 @@
         "3": 0,
         "4": 0,
         "5": 0,
-        "6": 0
+        "6": 0,
+        "8": 0
       }
     },
     {
-      "average": 0.9,
+      "average": 0.8,
       "filename": "sam-roush.php",
-      "games": 7,
+      "games": 8,
       "player_id": 28161,
       "player_name": "Sam Roush",
       "points": 6.3,
@@ -1529,7 +1544,8 @@
         "4": 1.8,
         "5": 0,
         "6": 0,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -1659,9 +1675,9 @@
       }
     },
     {
-      "average": 2.1,
+      "average": 1.8,
       "filename": "gavin-bartholomew.php",
-      "games": 6,
+      "games": 7,
       "player_id": 26002,
       "player_name": "Gavin Bartholomew",
       "points": 12.400000000000002,
@@ -1673,7 +1689,8 @@
         "3": 0,
         "4": 1.4,
         "5": 8.3,
-        "7": 2.7
+        "7": 2.7,
+        "8": 0
       }
     },
     {
@@ -1696,9 +1713,9 @@
       }
     },
     {
-      "average": 1,
+      "average": 0.9,
       "filename": "brady-russell.php",
-      "games": 7,
+      "games": 8,
       "player_id": 25731,
       "player_name": "Brady Russell",
       "points": 7,
@@ -1711,13 +1728,14 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
       "average": 0.2,
       "filename": "payne-durham.php",
-      "games": 7,
+      "games": 8,
       "player_id": 25346,
       "player_name": "Payne Durham",
       "points": 1.5,
@@ -1730,7 +1748,8 @@
         "4": 0,
         "5": 1.5,
         "6": 0,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -1919,12 +1938,12 @@
       }
     },
     {
-      "average": 6.2,
+      "average": 6,
       "filename": "aj-barner.php",
-      "games": 7,
+      "games": 8,
       "player_id": 26335,
       "player_name": "AJ Barner",
-      "points": 43.5,
+      "points": 47.8,
       "position_id": "TE",
       "team_id": "SEA",
       "weeks": {
@@ -1934,7 +1953,8 @@
         "4": 2.2,
         "5": 5,
         "6": 4.6,
-        "7": 8.6
+        "7": 8.6,
+        "8": 4.3
       }
     },
     {
@@ -1973,9 +1993,9 @@
       }
     },
     {
-      "average": 2.4,
+      "average": 2.1,
       "filename": "ian-thomas.php",
-      "games": 7,
+      "games": 8,
       "player_id": 17387,
       "player_name": "Ian Thomas",
       "points": 17,
@@ -1988,7 +2008,8 @@
         "4": 11.2,
         "5": 1.9,
         "6": 0,
-        "7": 1.8
+        "7": 1.8,
+        "8": 0
       }
     },
     {
@@ -2029,9 +2050,9 @@
       }
     },
     {
-      "average": 5.4,
+      "average": 4.7,
       "filename": "cade-otton.php",
-      "games": 7,
+      "games": 8,
       "player_id": 23181,
       "player_name": "Cade Otton",
       "points": 37.6,
@@ -2044,13 +2065,14 @@
         "4": 7.7,
         "5": 5.5,
         "6": 1.4,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
-      "average": 6.4,
+      "average": 5.6,
       "filename": "jake-ferguson.php",
-      "games": 7,
+      "games": 8,
       "player_id": 22718,
       "player_name": "Jake Ferguson",
       "points": 44.5,
@@ -2063,7 +2085,8 @@
         "4": 4.1,
         "5": 4.9,
         "6": 3.3,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -2105,9 +2128,9 @@
       }
     },
     {
-      "average": 0.7,
+      "average": 0.6,
       "filename": "mark-redman.php",
-      "games": 7,
+      "games": 8,
       "player_id": 23182,
       "player_name": "Mark Redman",
       "points": 4.9,
@@ -2120,7 +2143,8 @@
         "4": 4.9,
         "5": 0,
         "6": 0,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -2157,7 +2181,7 @@
     {
       "average": 0,
       "filename": "max-klare.php",
-      "games": 4,
+      "games": 5,
       "player_id": 27993,
       "player_name": "Max Klare",
       "points": 0,
@@ -2167,7 +2191,8 @@
         "2": 0,
         "3": 0,
         "4": 0,
-        "6": 0
+        "6": 0,
+        "8": 0
       }
     },
     {
@@ -2191,7 +2216,7 @@
     {
       "average": 0,
       "filename": "nick-kallerup.php",
-      "games": 4,
+      "games": 5,
       "player_id": 27867,
       "player_name": "Nick Kallerup",
       "points": 0,
@@ -2201,7 +2226,8 @@
         "2": 0,
         "3": 0,
         "6": 0,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -2236,9 +2262,9 @@
       }
     },
     {
-      "average": 1.9,
+      "average": 1.5,
       "filename": "hayden-rucci.php",
-      "games": 4,
+      "games": 5,
       "player_id": 26946,
       "player_name": "Hayden Rucci",
       "points": 7.7,
@@ -2248,7 +2274,8 @@
         "3": 0,
         "4": 0,
         "5": 7.7,
-        "6": 0
+        "6": 0,
+        "8": 0
       }
     },
     {
@@ -2342,9 +2369,9 @@
       }
     },
     {
-      "average": 5.2,
+      "average": 3.9,
       "filename": "teagan-quitoriano.php",
-      "games": 3,
+      "games": 4,
       "player_id": 24182,
       "player_name": "Teagan Quitoriano",
       "points": 15.5,
@@ -2353,7 +2380,8 @@
       "weeks": {
         "5": 15.5,
         "6": 0,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -2389,7 +2417,7 @@
     {
       "average": 0,
       "filename": "nick-vannett.php",
-      "games": 3,
+      "games": 4,
       "player_id": 15645,
       "player_name": "Nick Vannett",
       "points": 0,
@@ -2398,13 +2426,14 @@
       "weeks": {
         "5": 0,
         "6": 0,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
-      "average": 2,
+      "average": 1.3,
       "filename": "will-mallory.php",
-      "games": 2,
+      "games": 3,
       "player_id": 23821,
       "player_name": "Will Mallory",
       "points": 4,
@@ -2412,7 +2441,8 @@
       "team_id": "IND",
       "weeks": {
         "6": 4,
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
@@ -2498,27 +2528,55 @@
     {
       "average": 0,
       "filename": "jared-wiley.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26343,
       "player_name": "Jared Wiley",
       "points": 0,
       "position_id": "TE",
       "team_id": "KC",
       "weeks": {
-        "7": 0
+        "7": 0,
+        "8": 0
       }
     },
     {
       "average": 0,
       "filename": "grant-calcaterra.php",
-      "games": 1,
+      "games": 2,
       "player_id": 24180,
       "player_name": "Grant Calcaterra",
       "points": 0,
       "position_id": "TE",
       "team_id": "PHI",
       "weeks": {
-        "7": 0
+        "7": 0,
+        "8": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "stephen-carlson.php",
+      "games": 1,
+      "player_id": 18757,
+      "player_name": "Stephen Carlson",
+      "points": 0,
+      "position_id": "TE",
+      "team_id": "CHI",
+      "weeks": {
+        "8": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "cam-grandy.php",
+      "games": 1,
+      "player_id": 26429,
+      "player_name": "Cam Grandy",
+      "points": 0,
+      "position_id": "TE",
+      "team_id": "CIN",
+      "weeks": {
+        "8": 0
       }
     },
     {

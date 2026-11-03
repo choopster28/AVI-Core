@@ -15,12 +15,12 @@
       }
     },
     {
-      "average": 13.8,
+      "average": 14.5,
       "filename": "sam-darnold.php",
-      "games": 6,
+      "games": 7,
       "player_id": 17236,
       "player_name": "Sam Darnold",
-      "points": 82.8,
+      "points": 101.32,
       "position_id": "QB",
       "team_id": "SEA",
       "weeks": {
@@ -29,7 +29,8 @@
         "4": 14.3,
         "5": 10.3,
         "6": 13,
-        "7": 15
+        "7": 15,
+        "8": 18.5
       }
     },
     {
@@ -140,19 +141,20 @@
       }
     },
     {
-      "average": 21.2,
+      "average": 19.7,
       "filename": "caleb-williams.php",
-      "games": 4,
+      "games": 5,
       "player_id": 23084,
       "player_name": "Caleb Williams",
-      "points": 84.6,
+      "points": 98.58,
       "position_id": "QB",
       "team_id": "CHI",
       "weeks": {
         "1": 37.3,
         "2": 8.7,
         "6": 16.5,
-        "7": 22.1
+        "7": 22.1,
+        "8": 14
       }
     },
     {
@@ -724,7 +726,7 @@
     {
       "average": 0,
       "filename": "mason-rudolph.php",
-      "games": 2,
+      "games": 3,
       "player_id": 17234,
       "player_name": "Mason Rudolph",
       "points": 0.09999999999999998,
@@ -732,7 +734,8 @@
       "team_id": "PIT",
       "weeks": {
         "2": 0.3,
-        "5": -0.2
+        "5": -0.2,
+        "8": 0
       }
     },
     {

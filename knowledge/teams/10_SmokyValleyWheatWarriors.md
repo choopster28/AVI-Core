@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 608.4
-- championship_lineup_c_avi_avg: 76.05
-- offensive_roster_c_avi_sum: 807.6
-- offensive_roster_c_avi_avg: 53.84
-- offensive_roster_d_avi_sum: 1100.9
-- offensive_roster_d_avi_avg: 73.39
+- championship_lineup_c_avi_sum: 612.7
+- championship_lineup_c_avi_avg: 76.59
+- offensive_roster_c_avi_sum: 817.3
+- offensive_roster_c_avi_avg: 54.49
+- offensive_roster_d_avi_sum: 1141.2
+- offensive_roster_d_avi_avg: 76.08
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Trevor Lawrence | C-AVI: 69.6 | D-AVI: 83.6
-- RB: Christian McCaffrey | C-AVI: 93.6 | D-AVI: 93.0
-- RB: James Cook III | C-AVI: 88.7 | D-AVI: 94.4
-- WR: CeeDee Lamb | C-AVI: 95.6 | D-AVI: 97.9
-- WR: Chris Olave | C-AVI: 90.4 | D-AVI: 95.5
-- TE: George Kittle | C-AVI: 82.4 | D-AVI: 84.0
-- FLEX: Wan'Dale Robinson | C-AVI: 45.8 | D-AVI: 74.0
-- FLEX: Woody Marks | C-AVI: 42.3 | D-AVI: 70.9
+- QB: Trevor Lawrence | C-AVI: 71.7 | D-AVI: 84.0
+- RB: Christian McCaffrey | C-AVI: 92.6 | D-AVI: 93.8
+- RB: James Cook III | C-AVI: 87.7 | D-AVI: 95.0
+- WR: CeeDee Lamb | C-AVI: 95.0 | D-AVI: 97.7
+- WR: Chris Olave | C-AVI: 89.4 | D-AVI: 95.5
+- TE: George Kittle | C-AVI: 83.0 | D-AVI: 84.9
+- FLEX: Wan'Dale Robinson | C-AVI: 49.5 | D-AVI: 77.5
+- FLEX: Rico Dowdle | C-AVI: 43.8 | D-AVI: 75.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 69.6
-- Dynasty AVI (D-AVI, 0-100): 83.6
+- Championship AVI (C-AVI, 0-100): 71.7
+- Dynasty AVI (D-AVI, 0-100): 84.0
 - Projected PPR points: 303.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 31.7
-- Dynasty AVI (D-AVI, 0-100): 65.3
+- Championship AVI (C-AVI, 0-100): 33.9
+- Dynasty AVI (D-AVI, 0-100): 65.8
 - Projected PPR points: 283.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 93.6
-- Dynasty AVI (D-AVI, 0-100): 93.0
+- Championship AVI (C-AVI, 0-100): 92.6
+- Dynasty AVI (D-AVI, 0-100): 93.8
 - Projected PPR points: 291.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -121,9 +121,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 88.7
-- Dynasty AVI (D-AVI, 0-100): 94.4
+- Championship AVI (C-AVI, 0-100): 87.7
+- Dynasty AVI (D-AVI, 0-100): 95.0
 - Projected PPR points: 260.8
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Rico Dowdle
+- Player name: Rico Dowdle
+- Player ID: 7021
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: PIT
+- Active: True
+- Status: Active
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): 43.8
+- Dynasty AVI (D-AVI, 0-100): 75.9
+- Projected PPR points: 161.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -138,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 42.3
-- Dynasty AVI (D-AVI, 0-100): 70.9
+- Championship AVI (C-AVI, 0-100): 43.1
+- Dynasty AVI (D-AVI, 0-100): 74.5
 - Projected PPR points: 83.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -155,26 +172,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 40.6
-- Dynasty AVI (D-AVI, 0-100): 63.0
-- Projected PPR points: 69.9
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Rico Dowdle
-- Player name: Rico Dowdle
-- Player ID: 7021
-- Current owner team: SmokyValleyWheatWarriors
-- Current owner roster ID: 10
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: PIT
-- Active: True
-- Status: Active
-- Age: 28.0
 - Championship AVI (C-AVI, 0-100): 39.0
-- Dynasty AVI (D-AVI, 0-100): 71.8
-- Projected PPR points: 161.1
+- Dynasty AVI (D-AVI, 0-100): 68.2
+- Projected PPR points: 69.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 95.6
-- Dynasty AVI (D-AVI, 0-100): 97.9
+- Championship AVI (C-AVI, 0-100): 95.0
+- Dynasty AVI (D-AVI, 0-100): 97.7
 - Projected PPR points: 270.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -206,7 +206,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 90.4
+- Championship AVI (C-AVI, 0-100): 89.4
 - Dynasty AVI (D-AVI, 0-100): 95.5
 - Projected PPR points: 235.9
 - Category: offense
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 45.8
-- Dynasty AVI (D-AVI, 0-100): 74.0
+- Championship AVI (C-AVI, 0-100): 49.5
+- Dynasty AVI (D-AVI, 0-100): 77.5
 - Projected PPR points: 170.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 27.2
-- Dynasty AVI (D-AVI, 0-100): 50.3
+- Championship AVI (C-AVI, 0-100): 27.7
+- Dynasty AVI (D-AVI, 0-100): 57.5
 - Projected PPR points: 86.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 24.1
-- Dynasty AVI (D-AVI, 0-100): 57.2
+- Championship AVI (C-AVI, 0-100): 24.2
+- Dynasty AVI (D-AVI, 0-100): 61.8
 - Projected PPR points: 56.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -275,7 +275,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 29.2
+- Dynasty AVI (D-AVI, 0-100): 37.9
 - Projected PPR points: None
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
@@ -308,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 82.4
-- Dynasty AVI (D-AVI, 0-100): 84.0
+- Championship AVI (C-AVI, 0-100): 83.0
+- Dynasty AVI (D-AVI, 0-100): 84.9
 - Projected PPR points: 169.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -325,8 +325,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 36.6
-- Dynasty AVI (D-AVI, 0-100): 70.8
+- Championship AVI (C-AVI, 0-100): 36.7
+- Dynasty AVI (D-AVI, 0-100): 71.2
 - Projected PPR points: 162.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

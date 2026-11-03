@@ -1,12 +1,12 @@
 {
   "players": [
     {
-      "average": 9.7,
+      "average": 8.9,
       "filename": "jason-myers.php",
-      "games": 7,
+      "games": 8,
       "player_id": 14003,
       "player_name": "Jason Myers",
-      "points": 68,
+      "points": 71,
       "position_id": "K",
       "team_id": "SEA",
       "weeks": {
@@ -16,7 +16,8 @@
         "4": 6,
         "5": 23,
         "6": 8,
-        "7": 8
+        "7": 8,
+        "8": 3
       }
     },
     {
@@ -95,12 +96,12 @@
       }
     },
     {
-      "average": 9,
+      "average": 9.3,
       "filename": "cairo-santos.php",
-      "games": 7,
+      "games": 8,
       "player_id": 13731,
       "player_name": "Cairo Santos",
-      "points": 63,
+      "points": 74,
       "position_id": "K",
       "team_id": "CHI",
       "weeks": {
@@ -110,7 +111,8 @@
         "4": 11,
         "5": 1,
         "6": 9,
-        "7": 15
+        "7": 15,
+        "8": 11
       }
     },
     {
