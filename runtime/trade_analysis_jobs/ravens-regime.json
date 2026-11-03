@@ -37,9 +37,321 @@
       "personalContext": "No Lamar Jackson derrixk henry is overvalued. Tony pollard is on a hot streak. Mike washington is beating jeanty on touches."
     },
     "createdAt": 1793742454000,
-    "updatedAt": 1793742455497,
+    "updatedAt": 1793742468079,
     "expiresAt": 1794174454000,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. refines its approach based on personal context viewing Derrick Henry as overvalued and Tony Pollard as a hot-streak sell-high candidate, while leveraging Mike Washington Jr.'s strong touch share. Instead of targeting both running backs, the recommended construction pivots to acquiring Tony Pollard individually while sending David Montgomery and Mike Washington Jr., fitting Ravens Regime's retooling profile and aligning with market reality.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 53.8,
+              "davi": 78.5,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.5,
+              "davi": 69.5,
+              "publicMarket": 30,
+              "leagueMarket": 35
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 79.3,
+              "publicMarket": 60,
+              "leagueMarket": 65
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "F",
+            "userShare": 73,
+            "otherShare": 27,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The original proposal was heavily weighted toward Corgi Loaf, failing to align with Ravens Regime's roster needs."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The revised package targets Tony Pollard while avoiding the overvalued Derrick Henry, sending David Montgomery and rising asset Mike Washington Jr. to a retooling Ravens Regime."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 40,
+              "summary": "Acquires Tony Pollard's explosive upside while retaining core depth."
+            },
+            "championshipOutlook": {
+              "score": 45,
+              "summary": "Adds immediate starting flexibility with Pollard."
+            },
+            "dynastyOutlook": {
+              "score": 30,
+              "summary": "Retains long-term stability by swapping Montgomery and adding upside in Washington Jr."
+            },
+            "lineupQuality": {
+              "score": 40,
+              "summary": "Upgrades FLEX production."
+            },
+            "depthResilience": {
+              "score": 25,
+              "summary": "Maintains solid roster equilibrium."
+            },
+            "flexibilityLiquidity": {
+              "score": 35,
+              "summary": "Capitalizes on Pollard's hot streak."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 25,
+              "summary": "Fits Ravens Regime's retooling goal by acquiring a reliable producer in Montgomery and a high-upside young back."
+            },
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Maintains reasonable production stability."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Adds Mike Washington Jr., who is commanding strong touch shares."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Minimizes drop-off at active RB."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Bolsters young backfield depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Cashes in on Pollard's peak valuation."
+            }
+          },
+          "explanation": "The revised trade balances both manager objectives and personal context preferences."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Strengthens active FLEX/RB options via Tony Pollard.",
+          "sideADynastyImpact": "Maintains balanced asset distribution while acquiring a productive asset.",
+          "sideARosterImpact": "Optimizes active backfield production.",
+          "sideBChampionshipImpact": "Retains competitive output while shifting toward retooling.",
+          "sideBDynastyImpact": "Adds younger upside with Mike Washington Jr.",
+          "sideBRosterImpact": "Ensures seamless replacement level output with David Montgomery.",
+          "valueAssessment": "Fair market exchange reflecting Pollard's hot streak and Montgomery's stability."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Tony Pollard is currently experiencing a high-volume hot streak while Tyjae Spears is sidelined, making him an ideal sell-high candidate. Derrick Henry is viewed as overvalued due to his age.",
+          "aviVsMarket": "Aligns with market consensus treating Pollard as a sell-high and avoiding aging asset premiums.",
+          "relevantContext": [
+            "Pollard's hot streak provides optimal trade leverage.",
+            "Mike Washington Jr. is outperforming expectations on touch share."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is shifting to a retooling window, making a pivot to younger assets like Mike Washington Jr. highly appealing.",
+          "packageFit": "Clean positional swap.",
+          "lineupReplacement": "David Montgomery directly replaces active production.",
+          "competitiveWindowFit": "Aligns with a retooling timeline.",
+          "positionalScarcity": "RB depth remains vital in a 16-team format."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 25,
+            "opposingGmMotivation": 20,
+            "packageMatch": 18,
+            "lineupReplacement": 14,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 82,
+          "classification": "Realistic",
+          "explanation": "With Ravens Regime positioned for a retool and Pollard enjoying a hot streak, this targeted offer has a high probability of acceptance."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Reflecting personal context that Derrick Henry is overvalued and Tony Pollard is a prime sell-high candidate, targeting Pollard alone with Montgomery and Washington Jr. creates a realistic, mutually beneficial deal.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 53.8,
+              "davi": 78.5,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.5,
+              "davi": 69.5,
+              "publicMarket": 30,
+              "leagueMarket": 35
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 79.3,
+              "publicMarket": 60,
+              "leagueMarket": 65
+            }
+          ],
+          "whyUserShouldDoIt": "Capitalizes on Tony Pollard's hot streak while avoiding Henry's age-related valuation risk.",
+          "whyOpponentMightAccept": "Provides a steady veteran starter in Montgomery and an ascending young asset in Mike Washington Jr. for a retooling roster."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "User noted that Derrick Henry is overvalued, Tony Pollard is on a hot streak, and Mike Washington Jr. is commanding strong touch share. This context shifted the focus away from Henry and onto a targeted acquisition of Pollard using Montgomery and Washington Jr."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tony Pollard contract NFL 2026 stats fantasy news",
+          "Derrick Henry contract NFL 2026 stats fantasy news"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFznAFoQW92KUYX-5M3rJgtHM_vfve1EJkPrhknS30ZzOtzSzqZJZzZbTNtd5PR994jDAV267TZJVGp0NMIV_Hl6tnFOLulKwFBJ2ccKb3h5O3RKxkga8IR-VFN_nPV48-vjyRaReV5ww==",
+            "title": "sleeper.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtzhwyIYkAKW6wSIXJRczBlcMbS0x6pt1Nnykc9I_dhzgB1v83uHxnZjckPqZzCVlG9ezAARaRGmpZDs9jaSE479lwpO5QmykUklo-ivkB89iG7yR7-DSVcSdVmamyD9mKhZKJNhMPiHdT__F4szOWREYFO7ZEFpRwkg==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwX3w6DUsEMlhW_54Eq1T1TvaTAcxhnSjDZ6l1JrCGxVt56xccWdxG5jbUgxR3B_B3EVHzUU76lCKeq8f9k94GQRXTrpILRc1Sy_6DuE8_9j6MX7UGBrAquAMW6vAP0RreFYs0fsTPw==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh3yOlu6jSZcY47FtxPeQvddcBoSYvTLzo7NcyXP8whTvT0uIj_XmEqKg1QErPD2vp3-ZY9FUSLGdeY2PNHaHgEC5EqOqVrc51ifERmTmzLuFlTlBWSB53oAk8vW3HEl0SJiJ7CPolhzarJrlwxLYrf_U_JAXypMJ59pq1CA==",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1U1jJYuBwbfzOrksiNWcVU65I3fPtT-9Nv41fr1ZMfvpXfB44Owwrb7LZD8zRYqRznAL9HxoAQqTHv20pr1wbNnn1--k7M__cFs95n3ypH_BvOcqAvWlE6dcxMLL34FOJhFq6yhV-kD-fud7j2AnhIO4dZvAc",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOKawUDG_xUtnVsBEEZycL1TZI_KYpIm-WJq9k2vfLT0kcMYIQS1acYHIlipKb8ejzLGMdJSHZUwlOlcdeSCGFR84CEbK0m1xdKqSmF9And41nmwANel4ZWbkK2M-hLjrFD07-MnO8gRGXfDHS4ikmtQ==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHImKCt13Zcd7GbiwgPx4fXucF2wCPXJTJxQ-0rOcfycuvl7CaV2qfsf4fMmnSq1YY2Jb511l6zPhD5gCjlK2HEptGrnxw-nMHoWe03iWHBAR-c5fCJImHcapeKIsWxrGCA40WWvOLFw54b15I8HbY9LH_8BsWGJfRMjF2PuwbBpbq2alhfT6OdlTFhFDsDwYhbTz7QXxfHm4D8gl9fHMEORWnTvhOiqkiUybz2sQ==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3EuaLGJry4Nhd8w7MMJqxsD8jwotviN1B1C1PybkMIg9bybn2-J9xWxCjt8BbgR3zz2f8SCOBKZgVK8hFrR-HPtHsjhi8pAziQO1IkjAgWjE-hxBL0gEPCxEN71gIGaxJOtgK1L1NAVgICm3EtbjckJ6WOvaL5HQppfI-PZyHbv_epb31K233THrchsSvZW3CWA==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF--EoW_ftlrxojp3j2GJnWoOkcZ860C0p9K3Ep3frod7g-JsLKHpmzROXhNeh1UZqCl9CUWZffXpLxQdGz263oZGGNBy85s2ohkG7s5cQnQAr_65rkogFz0luww-LgyeOnOclVYowPHasfkuseXr_HbZlHYzlmCdxv3NKzD1UEMZ_vcJTr3BCkb66TMe9XZp2Ib095e6i8W4WWbPp4godmu7ZpXDA=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9DIeecftMe4cOP89Rvx24h3FWtUJ71PZRh0Slid-5Xh9texYXJWkKowUUXB_c5gFLj6xkkCM61qVnTy81fhyJ6NHkHxCbIkJsWLOoaYexhWCQ1RDCRFnd0s_nwmeZvt1wXv7u",
+            "title": "ftnfantasy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS-VbXSrLeXgkcK8JN1ioFrPG_8cIPTgNEQjPpg3HJp9jHeHqC2498q3qLAQlHaHQo6vO9PSxhD8WXKChlEttO9KO92T0WPaKnHUHKv6W2wLoiVpNzzC5Spo815QORjGEdUDLbmNFAjP9Pj-m_B7iT",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6zvs33D1EWeCAKyan2vOAg1_68iZ65UzYi3u6nEu8B5VbLd-R1lHn-MccWPsBAUTPeBP4Y88ZFsbNgg_UY1uVZe1pnprWgXJ5un0VvmvxENhyi810WtLHxcbNJJvtOtSWHShSW5-c",
+            "title": "statchasers.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "737c1471613b62b4dddc64f4f75b9a8e625c0239",
+        "aviCoreCommittedAt": "2026-11-03T20:43:08Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 94651,
+        "groundedMarketChars": 4360,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mw17odcs-3a371be4",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "737c1471613b62b4dddc64f4f75b9a8e625c0239"
+      }
+    }
   },
   {
     "id": "mw17odcs-3a371be4",
