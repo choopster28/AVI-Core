@@ -36,9 +36,358 @@
       "personalContext": "Ravens regime just lost Lamar, and cam ward is on BYE. lamar being hurt also hurts Henry’s value and production. Mike Washington just out carried jeanty. The 2029 2nd has very little value in our league. We also play head to head this week, and without shough he has no starting QB."
     },
     "createdAt": 1793728681520,
-    "updatedAt": 1793728683387,
+    "updatedAt": 1793728697796,
     "expiresAt": 1794160681520,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Personal context indicates that Ravens Regime is facing an immediate starting QB crisis this week due to Lamar Jackson's injury and Cam Ward being on bye, combined with the fact that they play Corgi Loaf Baking Co. head-to-head. Furthermore, Lamar's absence suppresses Derrick Henry's output, and Mike Washington Jr. is coming off a major surge where he out-carried Ashton Jeanty. By leveraging Tyler Shough's extreme leverage as a plug-and-play starter for Ravens Regime this exact week, Corgi Loaf Baking Co. can bypass traditional resistance, successfully secure Derrick Henry, and capitalize on the opponent's urgent need for a starting quarterback.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Tyler Shough",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "QB",
+              "age": 27,
+              "cavi": 47.7,
+              "davi": 71.2,
+              "publicMarket": 65,
+              "leagueMarket": 58
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.3,
+              "davi": 64.3,
+              "publicMarket": 55,
+              "leagueMarket": 45
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 80.8,
+              "davi": 86.2,
+              "publicMarket": 82,
+              "leagueMarket": 85
+            },
+            {
+              "name": "2029 2nd · Ravens · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 60,
+              "publicMarket": 50,
+              "leagueMarket": 50
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A+",
+            "otherGrade": "C+",
+            "userShare": 78,
+            "otherShare": 22,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Corgi Loaf secures an elite win-now centerpiece in Derrick Henry while giving up surplus depth. With personal context revealing Ravens Regime's desperate current-week quarterback emergency (Lamar hurt, Ward on bye) and direct head-to-head implications, the trade partner's functional motivation to accept skyrockets despite their retool/contender status friction."
+          },
+          "recommended": {
+            "userGrade": "A+",
+            "otherGrade": "C+",
+            "userShare": 78,
+            "otherShare": 22,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The submitted package is highly favorable for Corgi Loaf and becomes realistically executable given the immediate week-specific leverage over Ravens Regime."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 65,
+              "summary": "Maximizes weekly championship potential by adding a dominant RB1 while Mahomes covers QB seamlessly."
+            },
+            "championshipOutlook": {
+              "score": 95,
+              "summary": "Derrick Henry elevates the active starting lineup ceiling significantly for the stretch run."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Trading young assets for a veteran rental is balanced by acquiring extra draft capital."
+            },
+            "lineupQuality": {
+              "score": 90,
+              "summary": "Massive starting lineup upgrade with zero downgrade at QB."
+            },
+            "depthResilience": {
+              "score": 60,
+              "summary": "Retains strong running back depth even after the consolidation."
+            },
+            "flexibilityLiquidity": {
+              "score": 75,
+              "summary": "Absorbs a future 2nd-round asset while streamlining roster space."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -25,
+              "summary": "Solves an acute single-week disaster at QB but sacrifices long-term starting RB production."
+            },
+            "championshipOutlook": {
+              "score": -40,
+              "summary": "Surrendering Henry hurts overall championship scoring, though mitigated if saving a zero-QB lineup loss this week."
+            },
+            "dynastyOutlook": {
+              "score": 45,
+              "summary": "Acquires young ascending players in Shough and Washington Jr."
+            },
+            "lineupQuality": {
+              "score": -30,
+              "summary": "Immediate fix for this week's starting quarterback crisis, but weakens overall weekly RB output."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Secures essential starting QB insurance during Lamar's absence and Ward's bye."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Parts with a future draft pick while shifting into win-now damage control."
+            }
+          },
+          "explanation": "Personal context radically improves acceptance probability because Ravens Regime faces a complete blank slot at QB this week against Corgi Loaf, converting a theoretical mismatch into a functional lifeline."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf Baking Co. loses 47.7 C-AVI (Shough) and 29.3 C-AVI (Washington Jr.), totaling 77.0 C-AVI sent out. However, Patrick Mahomes (46.9 C-AVI) replaces Shough with negligible drop-off (-0.8 C-AVI).",
+          "sideADynastyImpact": "Sends out 135.5 D-AVI total across two young assets (Shough 71.2 D-AVI, Washington Jr. 64.3 D-AVI).",
+          "sideARosterImpact": "Frees up a roster slot while shifting starting QB duties to Mahomes and elevating RB/FLEX tier.",
+          "sideBChampionshipImpact": "Acquires Derrick Henry (80.8 C-AVI) and 0.0 immediate C-AVI from the 2029 2nd pick, creating a net championship gain of +3.8 C-AVI in total asset value and +31.0 C-AVI in active lineup optimization.",
+          "sideBDynastyImpact": "Acquires 86.2 D-AVI (Henry) plus 60.0 D-AVI (2029 2nd pick), totaling 146.2 D-AVI acquired.",
+          "sideBRosterImpact": "Establishes Derrick Henry as the definitive RB1 alongside Rhamondre Stevenson, sliding Cam Skattebo and Saquon Barkley into high-end FLEX slots.",
+          "valueAssessment": "Corgi Loaf wins the asset exchange handily (+10.7 net D-AVI and +3.8 net C-AVI total asset delta, with massive starter efficiency gains)."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus views Tyler Shough as a fast-rising QB following strong 2026 early-season performances for New Orleans. Mike Washington Jr. is experiencing a market surge after taking over primary backfield duties in Las Vegas in Week 8. Derrick Henry remains a top-tier win-now engine, though Baltimore's offense faces near-term uncertainty with Lamar Jackson sidelined.",
+          "aviVsMarket": "AVI values Derrick Henry's win-now output (80.8 C-AVI) higher than public dynasty consensus due to 16-team starter scarcity. Public market overvalues Washington Jr.'s single-week breakout, whereas AVI maintains a grounded 29.3 C-AVI baseline.",
+          "relevantContext": [
+            "Tyler Shough has established a solid starting role in New Orleans with high early-2026 passing numbers.",
+            "Mike Washington Jr. saw 25 carries in Week 8 for Las Vegas, elevating his short-term intrigue.",
+            "Derrick Henry signed a 2-year extension through 2027 and continues to produce elite rushing touch equity.",
+            "Lamar Jackson is currently inactive for Baltimore, temporarily impacting overall Ravens offensive efficiency."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is forced to weigh long-term RB value against an active zero-QB disaster this week, especially since they play Corgi Loaf head-to-head.",
+          "packageFit": "Provides the exact starting QB required to field a valid lineup this week plus an explosive young RB in Washington Jr.",
+          "lineupReplacement": "Resolves an immediate emergency at quarterback while leaning on Tony Pollard and depth to absorb the loss of Henry.",
+          "competitiveWindowFit": "Forces a temporary compromise on their retooling/contending balance to survive an active roster emergency.",
+          "positionalScarcity": "Starting QBs in a 16-team league carry immense emergency value when byes and injuries align."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 12,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 75,
+          "classification": "Realistic",
+          "explanation": "While Ravens Regime's stated goal is Retool/Contend, the acute emergency of having zero starting QBs this week (Lamar hurt, Ward on bye) while playing Corgi Loaf head-to-head creates extreme motivation to accept Tyler Shough immediately."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "With the personal context establishing that Ravens Regime has zero active starting quarterbacks this week due to injuries and byes—and faces you head-to-head—they are highly incentivized to take Tyler Shough and Mike Washington Jr. Execute this trade immediately to lock in Derrick Henry for your championship push.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Tyler Shough",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "QB",
+              "age": 27,
+              "cavi": 47.7,
+              "davi": 71.2,
+              "publicMarket": 65,
+              "leagueMarket": 58
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.3,
+              "davi": 64.3,
+              "publicMarket": 55,
+              "leagueMarket": 45
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 80.8,
+              "davi": 86.2,
+              "publicMarket": 82,
+              "leagueMarket": 85
+            },
+            {
+              "name": "2029 2nd · Ravens · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 60,
+              "publicMarket": 50,
+              "leagueMarket": 50
+            }
+          ],
+          "whyUserShouldDoIt": "You secure Derrick Henry to complete a powerhouse starting lineup while giving up surplus depth and a backup QB.",
+          "whyOpponentMightAccept": "They desperately need a starting QB this week to avoid taking a zero in their matchup against you, making Shough an immediate lifesaver."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Considered that Ravens Regime lost Lamar Jackson and has Cam Ward on bye, leaving them with zero starting QBs this week for their head-to-head matchup against Corgi Loaf. Also factored in Lamar's injury depressing Henry's near-term output, and Mike Washington Jr.'s recent surge out-carrying Ashton Jeanty, making Shough an irresistible emergency acquisition for the trade partner."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Derrick Henry NFL stats 2025 2026 contract status",
+          "Tyler Shough NFL draft team 2025 2026",
+          "Mike Washington Jr NFL running back"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdmC_BSqt1vvBc4AjK5k9JTk22M0G7sgqPE49iBDsoeohewGVwo6YQbBMCjKZ0DtcVLgBssNUOa6rPmUMUNI2yuDZDX9_wg7LcqO87pudjykIt2TOOcn6AjtEuJz7pvTnNAo1TrqWrnLNuv1vqHV-zCI8iNioGpKU=",
+            "title": "neworleanssaints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXcqRqMB-lKGhhwvqI98utn8oB6mHLz8L41-BHrqkzGt4de72OzU6xZPPUogE8vT1aiB-gT3EujNfeVqPwJoDwYRc5D2YzgCsunxBiV86_zeVQihiKmcacW9KBHfQAJ-4KjXrl_bpDUBdiJ_i0fDWAVqRm",
+            "title": "pro-football-reference.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEki9AvbD9MzKG8HjGpxOUgpgwFiJ7atBH8OlXDaI57FwHOgvkt3Is0Jx9zqvNznWacD7mYYTbqQBp_sNJ_yYdVJ48vRrXm7tu9EnUMEGcq78328q3ITiQkrP2qTM9snomEDBiARRh8csq1PBbphTdkqIxkwSrsm0Da0PX5u8cgJ5s9D9c=",
+            "title": "fansided.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoif7T8N_1YRoaX564beWPbOUKEc_bLs0EnYmu7fPcKjmnAGPzG28wVZYRm9IYekzUOek_eFZQkwzTi8o8BkfOLZvk-BBrzMkrO5MFz7EpEEDQqGYU72Pjny8XLGeUfGoyAZ-fcgv8",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm9MWU-gxfspVPrxv91Xmuybg5uiUUvsrDoIaKFeMizM-kQLf6QJF87tiWjlycT2F8V350RwMlXkHpMYNs3UHfJSmB_STYFACLVOvCv8wz1A8D3DWJ8ECuN3m88gbke7sc4rBgdhFq0qjxGk09uPJiD9WmV6U=",
+            "title": "raiders.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwKn90WaWiRjL97t7iU_luKZUv-8JlnKHQmcF-jJ-HGSJcpcKFw6_ajsiBZMbpfsk4Ef-QGIUXBAD2tY85VoCXyimCJXAzXS5BYs8i4QU3qcAw-8pFf7ZfImuC9t-ZtTs8Z0Tjllv2XSW2cCJ9ePAFBIUgczcXa7nKP2zL4IxtWuTdFFrxIOQ=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHOKKlCjT-YrSgd-VPrTxeF1T4vlBLA7WAbBmdFD2Qbfsy0UGw2OPfNzZaG7kvKQj_56PRwNwiLlho6TXzRczB_rWG0KwMLpcPLFXfRcHHoHEMU6lVMEwKns8XZkPgBwc1",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBXZ5EeRCYxEKz5Mk_BRtI-1dNCEHEdDRKLjX4vETTbZPcItD24ebFToOMYTiqA0wBOO82QnwWAEc3FlK25Xbl1AVMlKET8I8aHxODLpI3oywCulBl5QxAjWlT16S8Nf211ZRfwC1RpTclFwc4UbA=",
+            "title": "arkansasrazorbacks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9sZgNl_q5L28tj7EDK849urht-c106O6reZZmzQEClHcej7-Bz3FgjOLOYWE-OwKQWMebz8REj3OI990c7O41lqoTgC3itGStBqsdl7m6krCJwzgNXIHVVfSlcUzamO74fTJEYUjz8yremSkTtFekBt1PfUzcUEe0VTQUzTOP1vhUsM50FiZp9_a2",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOfpqNab7RugA73x8ehl47bUlLhM7ImQL_A535A7cV4cWVqHRnduWob6C_HvOyT2zJAPguy0kT2aOe05o6-dzF_PdAKrCmp6SOcEio21pCsw40aFCPK8pa2_Ptcn_pOMQTs-KOBnbB1ze4B2F8QbGdCc8V6-4n8czXpKwaIgpzT3UGYwce",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUMC1MS0VrBmeKMpPH7hAX6uha4hQH5ld2_k22il1vSsy-3Kv0BKSITurvAtxutbq7x0HnABNo_UJcaRVhODuAP4ygkz6XRf2MGLbWNFvWfa9_zalzYU9E3hTOrlLxgqK6",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEobvD4JePRkvQqlF14DJXxS0QvWI5tqFnavvnbmkWPQ0s9fp-Bexz5Mt4hDfwlQvnoRz8LEq_HQids3TgJniItABAZus3Pys7yHs45hS75QGHUvOBcXo_hlSF0PVVsrW-NEG36F6JwHg9fVUjetnqd",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpuW-rp8pkp4QfwqR0j5IynDgmc2E14RiOUky_AKWDKNIXVydxXRtHabBGLT5yOguf_lHnSI1az9IQVicHxQUg-cANP050tL9DcbX9shm2aDw24Uy-UOm9VvIRQ1Oi_A7WUFiTkZALelMw5hqEhLGOMZ4=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6Kb1JP9b-Hba6KRX__owoTKAl1hXFmE4aapbJ6mrK0cosyxHk-1CHZmzMTerv8q1A9toGH6zHLyLtYlzw_T2eB0Y-iJf6cQovF50a-MjeV3slK9dLonh8T335_ezvCbJK5iBw4_OR-6KAsyUUcebX9mcP4bAOnPOUN1mE0-t-pFVvq2fUx0vpQS8=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfrXBCRGSVv5fQiLH_mja0_gaGa6trlruuLfV7PfJFSgu40J5N_ywnTaBgXcQQG7Cq_o954jdmcp6PPF7Zqz3E5M2Sz2xJHOhRBPdaovfi13pKXmizEu20Uj-7FrpdgsjQ8WdDO9_LBy0=",
+            "title": "plainstatsnfl.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "420a988212947a260f7ce40104d700c429fa21dc",
+        "aviCoreCommittedAt": "2026-11-03T13:17:08Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 95654,
+        "groundedMarketChars": 5075,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mw0znliz-9adae62f",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "420a988212947a260f7ce40104d700c429fa21dc"
+      }
+    }
   },
   {
     "id": "mw0znliz-9adae62f",
