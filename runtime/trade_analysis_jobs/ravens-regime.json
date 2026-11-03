@@ -1,5 +1,42 @@
 [
   {
+    "id": "mw189hqe-792e4fda",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "goal": "Win Championship",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        },
+        {
+          "name": "Mike Washington Jr.",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Tony Pollard",
+          "assetType": "player"
+        },
+        {
+          "name": "Tyjae Spears",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1793742990855,
+    "updatedAt": 1793742990855,
+    "expiresAt": 1794174990855,
+    "status": "queued"
+  },
+  {
     "id": "mw18703h-ce41d74c",
     "phase": "initial",
     "mode": "propose_trade",
