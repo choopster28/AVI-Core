@@ -1,5 +1,487 @@
 [
   {
+    "id": "mw13yq7g-399d0e0f",
+    "createdAt": 1793735882429,
+    "expiresAt": 1794167882429,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Corgi Loaf Baking Co. ↔ Ravens Regime",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "trade": {
+        "sideA": [
+          {
+            "name": "David Montgomery",
+            "assetType": "player"
+          },
+          {
+            "name": "Tyler Shough",
+            "assetType": "player"
+          },
+          {
+            "name": "Mike Washington Jr.",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Derrick Henry",
+            "assetType": "player"
+          },
+          {
+            "name": "Tony Pollard",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "The submitted trade proposal provides an overwhelming starting lineup boost for Corgi Loaf Baking Co. (+41.9 C-AVI gain by adding Derrick Henry and Tony Pollard), but it is currently unviable for Ravens Regime. Even though Ravens Regime is in a Retool window and acquires young assets in Tyler Shough (27) and Mike Washington Jr. (23), giving up both top-tier starting RBs creates a crippling void in their starting lineup. AVI advises revising the offer to target Derrick Henry alone for the three-player package, which satisfies both franchises' tactical goals.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 53.8,
+              "davi": 78.5,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            },
+            {
+              "name": "Tyler Shough",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "QB",
+              "age": 27,
+              "cavi": 48.3,
+              "davi": 71.5,
+              "publicMarket": 50,
+              "leagueMarket": 52
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.5,
+              "davi": 69.5,
+              "publicMarket": 35,
+              "leagueMarket": 40
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 80.1,
+              "davi": 88,
+              "publicMarket": 82,
+              "leagueMarket": 85
+            },
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 79.3,
+              "publicMarket": 68,
+              "leagueMarket": 70
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "F",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The submitted transaction heavily favors Corgi Loaf Baking Co. by converting depth assets into two high-end starting running backs in Derrick Henry and Tony Pollard, elevating Corgi Loaf's starting C-AVI from 556.1 to 598.0 (+41.9 C-AVI index points). Conversely, it completely strips Ravens Regime of their top two producing RBs, creating an unresolvable starting lineup deficit."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Revising the offer to send David Montgomery, Tyler Shough, and Mike Washington Jr. for Derrick Henry alone aligns both franchises' organizational goals. Corgi Loaf gains a true RB1 centerpiece for its championship push, while Ravens Regime gains active QB coverage in Shough with Lamar Jackson inactive, plus RB retooling assets in Montgomery and rookie Washington."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 85,
+              "summary": "Boosts starting lineup C-AVI from 556.1 to 598.0 (+41.9 points) by pairing Derrick Henry and Tony Pollard with Saquon Barkley and Rhamondre Stevenson."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Gives up young QB Tyler Shough (27) and rookie RB Mike Washington Jr. (23) for aging veteran contributors."
+            },
+            "lineupQuality": {
+              "score": 80,
+              "summary": "Replaces DJ Moore and Cam Skattebo in starting slots with high-ceiling RB1/RB2 options."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Consolidates bench assets into elite starting production while keeping DJ Moore and Skattebo as depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -10,
+              "summary": "Slightly reduces QB coverage behind Patrick Mahomes."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Substantially upgrades starting lineup ceiling for a championship run."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -75,
+              "summary": "Loses 146.9 C-AVI in top-tier rushing production, forcing low-tier backups into mandatory starting slots."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Acquires younger assets in Tyler Shough (71.5 D-AVI) and Mike Washington Jr. (69.5 D-AVI)."
+            },
+            "lineupQuality": {
+              "score": -70,
+              "summary": "Creates a severe starting lineup deficit at mandatory RB1 and RB2 positions."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Adds QB coverage with Shough while Lamar Jackson is inactive."
+            },
+            "flexibilityLiquidity": {
+              "score": 15,
+              "summary": "Spreads single-position veteran production into multi-position player depth."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Severely damages immediate starting lineup viability by surrendering both primary running backs."
+            }
+          },
+          "explanation": "The visual impact shows Corgi Loaf securing major immediate championship firepower (+41.9 C-AVI lineup gain) while Ravens Regime suffers severe starting lineup collapse (-75 C-AVI) that makes the trade unviable as constructed."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf gains +41.9 C-AVI in starting lineup production. Derrick Henry (80.1 C-AVI) and Tony Pollard (66.8 C-AVI) immediately form a dominant starting backfield.",
+          "sideADynastyImpact": "Minor long-term D-AVI sacrifice by acquiring age-32 Henry and age-29 Pollard, but fully aligned with Corgi Loaf's Win Championship mandate.",
+          "sideARosterImpact": "Elevates active starting lineup C-AVI to 598.0, shifting Saquon Barkley and Rhamondre Stevenson into high-end FLEX and depth roles.",
+          "sideBChampionshipImpact": "Devastating -75 C-AVI starting lineup impact for Ravens Regime, stripping both primary starting RBs.",
+          "sideBDynastyImpact": "Gains young QB upside in Tyler Shough (71.5 D-AVI) and rookie RB potential in Mike Washington Jr. (69.5 D-AVI) to fit their Retool objective.",
+          "sideBRosterImpact": "Leaves Kyle Monangai and Blake Corum as primary starting RBs while taking on an injured David Montgomery.",
+          "valueAssessment": "Although the total raw C-AVI sent (131.6) is reasonably close to received (146.9), the mandatory starting lineup collapse for Ravens Regime makes the proposal severely lopsided."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views Derrick Henry as an elite win-now RB1 anchor and Tony Pollard as a high-volume starter coming off back-to-back 100+ yard games. David Montgomery carries short-term health risk with a groin injury, while Tyler Shough is an emerging high-volume QB starter in New Orleans and Mike Washington Jr. is a promising rookie.",
+          "aviVsMarket": "AVI aligns with public market consensus by rating Derrick Henry (80.1 C-AVI) and Tony Pollard (66.8 C-AVI) as high-impact starters, while appropriately accounting for Montgomery's current groin injury timeline.",
+          "relevantContext": [
+            "Derrick Henry is averaging 17.5 PPR points per game as Baltimore's undisputed active workhorse.",
+            "Tony Pollard has rushed for 595 yards and 6 TDs through 8 games, peaking in recent weekly usage.",
+            "David Montgomery missed Weeks 6-7 with a groin injury and remains questionable/day-to-day for Week 9.",
+            "Tyler Shough is averaging roughly 39 pass attempts per game under Kellen Moore in New Orleans.",
+            "Mike Washington Jr. handled 25 carries for 83 yards in Week 8 as Las Vegas's starting back."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime's strategic status is Retool. While they are open to moving aging veterans, trading away BOTH starting RBs simultaneously creates an unmanageable starting lineup hole.",
+          "packageFit": "The package provides immediate QB starter relief in Tyler Shough while Lamar Jackson is inactive, plus young RB retooling assets, but over-demands by requesting Pollard in addition to Henry.",
+          "lineupReplacement": "Fails. Surrendering both Henry and Pollard leaves Ravens Regime relying on Kyle Monangai and Blake Corum alongside an injured Montgomery.",
+          "competitiveWindowFit": "Partially aligned with Retool goals for individual assets, but fails due to total roster imbalance.",
+          "positionalScarcity": "In a 16-team league, high-volume starting RBs are scarce; acquiring two proven starters without giving back a top-end starter is non-viable for the partner."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 5,
+            "packageMatch": 5,
+            "lineupReplacement": 0,
+            "competitiveWindow": 0
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 40,
+          "classification": "Unlikely",
+          "explanation": "Although default availability criteria pass (30/30), the submitted proposal fails all competitive lineup checks for Ravens Regime. They cannot accept losing both starting RBs simultaneously without adequate starting replacement."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "The submitted offer creates a massive starting lineup gain for Corgi Loaf (+41.9 C-AVI), but has a low acceptance probability (40%) because it strips Ravens Regime of both starting RBs. Corgi Loaf should revise the offer to target Derrick Henry alone for David Montgomery, Tyler Shough, and Mike Washington Jr.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 53.8,
+              "davi": 78.5,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            },
+            {
+              "name": "Tyler Shough",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "QB",
+              "age": 27,
+              "cavi": 48.3,
+              "davi": 71.5,
+              "publicMarket": 50,
+              "leagueMarket": 52
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.5,
+              "davi": 69.5,
+              "publicMarket": 35,
+              "leagueMarket": 40
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 80.1,
+              "davi": 88,
+              "publicMarket": 82,
+              "leagueMarket": 85
+            }
+          ],
+          "whyUserShouldDoIt": "Corgi Loaf acquires a premier RB1 centerpiece in Derrick Henry (80.1 C-AVI) to pair with Saquon Barkley and Rhamondre Stevenson, delivering maximum weekly ceiling for a championship run while maintaining bench flexibility.",
+          "whyOpponentMightAccept": "Ravens Regime secures active starting QB coverage in Tyler Shough (48.3 C-AVI) while Lamar Jackson is sidelined, adds retooling RB depth with Montgomery and rookie Washington, and retains Tony Pollard as their starting RB."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 53.3,
+              "davi": 84.6,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            },
+            {
+              "name": "Tyler Shough",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "QB",
+              "age": 27,
+              "cavi": 48.3,
+              "davi": 71.5,
+              "publicMarket": 50,
+              "leagueMarket": 52
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 80.1,
+              "davi": 88,
+              "publicMarket": 82,
+              "leagueMarket": 85
+            }
+          ],
+          "rationale": "Sending Saquon Barkley alongside Tyler Shough provides Ravens Regime with a direct high-end starting RB replacement and QB coverage, making a deal for Derrick Henry smooth and mutually beneficial."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Mike Washington Jr NFL 2026",
+          "Tyler Shough NFL 2026",
+          "David Montgomery fantasy outlook 2026",
+          "Derrick Henry fantasy outlook 2026",
+          "Tony Pollard fantasy outlook 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSBQXjJeGXwNM_MHux1DBitNxT-20fyGpeDMMqoZgNBNFVBWRo8n2suqh2NdQx8HanzoIfHUgB0Alr92K-WCGH1t86cA5VSgX_eu4iU79_cNiMJm-Uu4V22tcQ5-FhuhgTQjkw7fTkQYo8x0ykogshwT047Zx-YLjAB_YWb10e5nI=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkOPpg83_vpQ5t-l0nKzO4UXdMMphCmlhL4rxxTebu9h-4D0PFC_7qe6BuyyHQ_VLLLpU3RPcW8HwJRE_6xmZTh1JIHSobUCtAv59KocYLMVWPR22EnUcdaYzidenpjsmv32TUxpXjpoBQNUTVcnbDf6XrSgahgKKwoXd25w==",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBlhoDv-b-2kXRimwLW5ZO042xV0OIUDOZJcFo7qrvIiC1TUfdLXA4UMqeuTYyNAn3EZukLn5v76wDvln-SQ3FknaPBu3VRSbE5aYZQFpiFnP5rPoaUaNd1eTZ5yTmysrS",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRuESZZWDhWWucPnOTp-Dz5knL52xLvtB9JEqFRytPglgnVLAo0BVbWkj_Vmg65jjCg0TnNju6ZoLZEEaOqSgbyNSh5nHEyA8FUt_mnd2aUh5TkpVwW7FOc4oieVBboht5yLwp82jDCQ==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjScDP9RVZf6W9gaJMX_msNtQKQ70Yj9T8L54L_aWZVdOSSdECU34qk6nl6WZTDxflOK5yAqN5PuhA8oEasGR02JV5zD5NCbSFXfFEDQTDF-WdivD-BvRx_ZPNT5D1IYnlccU8CYC02hUzUosDKJoWu_xuFSvittisxSpUuCzdnUaqu307x4OJgYnZOHKxWxDQhkIWly6chqqZSSfE",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo11G2FmvEzz-nUs_dJWzE4BNt3ZwfM_pb5g7jlT1ds0UUtGFv5gIRw_ZnUTzAr3yiQNZrCKB0WfTyKzC88NcFX0fbXVrPEGcAPDNkwkhlTd-mhh9gf2N6xVWy6uPJSqNkTlbFMcyNwuj6WfTIzYPG7Xmy_3oiAQL68E0d",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI4tcxOUW7PvTkO29XgMU5sKjpSolxmdvZgRAIVFsGTSFIoBdbe5HgfbgRy-yE4pcZtNXNQ6NIV-6qpniWSpsGZxxJwHVX2L7oPueTNPb3qGp5cE6UPLuU1g6m8xlz9daFTurT1gUJxVAjYtrrKXpmvpKpF3puDMdnKOs6J53E73hpAB7a9dQujGLCzN_aBnajLDwAMNShED7zoVc=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_fSQIIBZzD1aCXa4oRCAp_Q2usegzp1imIJZwpI1iPidK_Bv7527c8ERYqcRCBpzTJu063EuozvtdYUUhKGYCzlCs_C1D9zzbaRxr43dL6r-rNu6lo9WR18tbjEk8deizoriwjXu1Ta0oFSS06Q==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ6u6lbpTsq5gtdORGSgEbSmBeHc4JCv_K6K-ZJa3XBxiv_i4Y-5kTrio39ZZN4532CfZ20j-G6IZqFCz4DcAH3adVwydP9ux-GMAo7zUJEvKcYYpU9UACOQmQdIJJ-6i00KnIJBAAvti7jTs06xN8",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzw2WZ-zFWqFCz2p4uDBWNKumD6j4ko2iLsYLEobHd70Ye63tw6ED0iAC-X3ITiGSR1bCXWEa464FRLiDyuYtEheIDBWIKypvx2BCAyifqWUDapLukYYLJOp5a3fCv88j2SQD8O_8it_rMJhKsnfsD0LnRY8-oyO4fHn3gfEujQ25A9FK9nWXkzD9V5sQhUkcHBA==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuCNMZFPYI7V4uFOEYLRRra3wBakgcRUTW72slkgzvapimmerbLqYGFs8CymsqymOskLEMlPh771Nn4QAIe06tDrHbe9pxWAOweQ1UIwWrob7bpFnRYfkhd7Vb03jUpdeej6oKogkciFnl7dwGOPzaQ8iTXOFaxHdEP38Zr_z92DYgXhw2sSw5Dth3DH8_xc24A0j2YrM6yd6o-ePzqoYWvRgzPQzpS4WQMJuVEw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcaX6J_DIEuAbp9q3h2E3n2KIlGwEyMZ5aMXZFVN3HFeT4R3qY6klWUPt3a4m1295zef2ZOgIprraUXuHhnG75TftYuZjI0ckz1-AeeeSfWjpravgbJyC3PkwJfWVSZssBMd4wfL2Cwh3uMSr41PsnnyrNxGKCwYMtTx26t5Vw0DEDjOg=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfagBYcbze9wb96P42lqwjLTXT1r9FBl-rCH_5CWUdjADsdJ6x1EjxQ2TOgO3vldq0YpkuyyXAnSFSCgP0JJZcr9XMBuRlcodFQxX-OxH8qgL_2VgSTm3VevUFUt7ND64AEq01jBJmAfI-gStjh8spQshVccNK0rZhe4xjNY7oJFFDrqDDyz_Cxhi2LnsZO-IlMJvfqYwfwm-mS8VrcHBT",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-EyEN-9d-LMstl1bXUv_2-OjYLxT9W_yvJMgSP8jxXdPn9fNjBRuERtdQhEQNXcaFtEmHUHef48Krmu0hfpjxe-clbgyjRPh7P0lJaTvtMU2Ws2IiAcVNXT_c_tNUpys0HLJeabFwxf1djBkYnVNvix1Cmj_N82304Euo6GAYPXmNETnZYInfO7p7PTNbOpYHYt0PumGxk01PhfAlwPU_APuijaRHz69R91LUoI4L",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-v1tzJsvLDEvj5kHCGoLgObK4eyLUl1Ev0loh1IaRm7ioyjtuysmIF9H1xm_PplXpK2eAW1nWSwcVTDUNXDAxb5GSGHzH0CQ-F96Vt644odOT15AEO0jyotptipYF61TcxCDKhVAxntTGvJDDp-kV",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE355jLFpPD4OfAjuq87pjnCFe9UYr9qSlt5aZ7bW-YGBpaaBOj7M69euOZwsPHYySNCtTheAQ42xyM23Q1Z9XCOjAFqbjXQq4sZuY5h3dSduwIlQSpoCSvM34I5SCFuqvNBF6w92kLG5KVO7WdcLrLCRBvCOPvSSYvIzeWcA==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfVK7KzfA4wuwanwZ61ILLbqPFaEOPxOTp8C9sSsaYFz8A7msWCdkKmGed5DOQEMhtAWAYf913uRRuuLZWBpi0esgJAiypMNpDorOb9G69M35rpusyxwybyt_O0Nm0O8wVlFSB8ew10PBcW4SdBWWsf6Aj",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFCwhkb5mn7nXdf4sKjSUWNcC1fjusu2jH4Pqm0aMEQRZurC8Q2uXzg-jsPSoSA3-JQsuGgfLv97tb55zaqiT8kfUKzDvhdWPHtHjBCw-RuBpAqCNgPqlBIwEsPlXHOFN4O9yelG8AAq-w7XeMS4xJDgveDaHfnaunBK7KLiSdcoZ5bGHc9SPU",
+            "title": "neworleanssaints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVgS9KyrkPkgVJxAUzP5R89-dyy7oZJVGLvFN4hNj9BE5Icg2aeSGE0DB-RflUr2GViKc0QWOOCCXfOBrrXyoF3J4cC3jxEXY3LOooNKhxqLDlYs9fw0r8l1ApqJ7ioKvSQc3Jki9A9bLM5c8eBGehewfUU2SxbbwcCQTL0Wvv3XSaqxzt9Hpz1AL74Vt_sYS70CgmIVIFntdij-yUeZo9Gg==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjctYyGdSOmse31llre3A1poB6s71fF7_MQD4UQyVecZroOdot321kqzNAMu89C2D1ZS9Bk7Y0StE5w7VAu4jQ2brVVK4_7Vut_DODy9aZV0fh1D4SoseyLTcaq9gAV9asMXrmN62I1Bs3JZIVQTOZH4vQsmPqhGiuTVIL_BSvULW3cEfgry2gQGL260JE",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi1hl9cCNpoovH0GTO5isGFakNN-Cd3LPJ97NM2vEnLMOaX8ELNw3g8j2ss5n03UTo1KYwBe-2H1E469FXTXuZLHeqHavfyC-b58-RGf45jrqGoLKKTtLQoMRy9wqjtXQCtWE4oE37lJpHUXyIX5BXHCHE-iPMRCmTX4dXTUmNo7Y_-5Y=",
+            "title": "fansided.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv6bCE6DjVoTZa4ZQEGJWKMEmQxDtUX1bwLZGmmdRrvbX-WaeBYhY6eL7LaWJn7yModP_AzQedaKduJlslHyF9kVC3HEKb1o49zfutbkaNbaIKsuLMYxO7sg28vydQ5kBN8Vxbzrh33q_Z-ld2NFu9_R7a8i7ZKPH1PUlaAO4xjM-msLgfT4NODl1md427y_uY",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjaE35-xnZPB6Wa17MNTHKDKynwjrsYj4wKI8Y4ccD_2p8EeUbeTsr1YILb_qMKHrJEtPmphfMf98GswzUXoecUf-M26pCZvZuF_4s7UWHi-9-_aTRxL5gDBpc-NbDt7uHuH3BOmsb",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6sWfOwiOouF6YJbI43dzm5QaihGvqsUTf8Ys1InPVek9HyXoVqP8lzd1S39KJoo2GXluH2g86DwghxSgXGjlhvPkBL2W9Id4Ie4izH2ysc_F3VuKD71njNC_McO_Na-mr",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy8lPI0Bw2uw8MQwXlpaKLP-XThfpVF5I5k5gGR3WYSI7idO-GLVLjc0l7mnK0rpCQjqiQZQ_B754Edlez2UpML6R0bliZgj7fP-BXy_3KQ268j--jIYJMjge5dVRsKJG1MAnAWYniSRvHpNm9u5-9um-gWdgtPFigEQDw86qDVwoXsnjAsR5bQfFmxVcNKFV-pQl_Om0zOdEIGP-qDV7lGJsBvpioAodN5Ba_CRtt_0ipLjMJHm2FfU39V2M8o9UU_OU=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLUswmLa_COGO40La6rk8rWiHJAO-VRiZnjSWR27Wr3g8u8w5dQmRAVai2e4vSvnpGDqlKaR9E7CwW7nahby5sBP1NJTfjIkRl5JU6XiU8-TryxCy9mePCCiUdGF1OXBx7g8tNRsCOHwKmGJRc3s-PDfdA1fBoffdXFsoqxorY5NX7IeBezbpHQem6VR-3boyqFWsSnfcyezSt",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "b732cfb8d16aa476df6e058170f112b8e72a2a90",
+        "aviCoreCommittedAt": "2026-11-03T19:30:10Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 96336,
+        "groundedMarketChars": 5943,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": true
+      }
+    }
+  },
+  {
     "id": "mw0zqsg9-3688f854",
     "createdAt": 1793728699035,
     "expiresAt": 1794160699035,
