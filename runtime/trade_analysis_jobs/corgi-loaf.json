@@ -1,5 +1,49 @@
 [
   {
+    "id": "mw13yq7g-399d0e0f",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "trade": {
+        "sideA": [
+          {
+            "name": "David Montgomery",
+            "assetType": "player"
+          },
+          {
+            "name": "Tyler Shough",
+            "assetType": "player"
+          },
+          {
+            "name": "Mike Washington Jr.",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Derrick Henry",
+            "assetType": "player"
+          },
+          {
+            "name": "Tony Pollard",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1793735770156,
+    "updatedAt": 1793735770156,
+    "expiresAt": 1794167770156,
+    "status": "queued"
+  },
+  {
     "id": "mw0zqsg9-3688f854",
     "phase": "final",
     "mode": "analyze_trade",
