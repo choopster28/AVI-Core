@@ -1,5 +1,46 @@
 [
   {
+    "id": "mw0zqsg9-3688f854",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Tyler Shough",
+            "assetType": "player"
+          },
+          {
+            "name": "Mike Washington Jr.",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Derrick Henry",
+            "assetType": "player"
+          },
+          {
+            "name": "2029 2nd · Ravens · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": [],
+      "personalContext": "Ravens regime just lost Lamar, and cam ward is on BYE. lamar being hurt also hurts Henry’s value and production. Mike Washington just out carried jeanty. The 2029 2nd has very little value in our league. We also play head to head this week, and without shough he has no starting QB."
+    },
+    "createdAt": 1793728681520,
+    "updatedAt": 1793728681520,
+    "expiresAt": 1794160681520,
+    "status": "queued"
+  },
+  {
     "id": "mw0znliz-9adae62f",
     "phase": "initial",
     "mode": "analyze_trade",
