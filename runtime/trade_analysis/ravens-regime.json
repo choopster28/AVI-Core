@@ -1,5 +1,420 @@
 [
   {
+    "id": "mw189hqe-792e4fda",
+    "createdAt": 1793743051346,
+    "expiresAt": 1794175051346,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Ravens Regime ↔ Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "goal": "Win Championship",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        },
+        {
+          "name": "Mike Washington Jr.",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Tony Pollard",
+          "assetType": "player"
+        },
+        {
+          "name": "Tyjae Spears",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Ravens Regime proposes sending Tony Pollard and Tyjae Spears to Corgi Loaf Baking Co. for David Montgomery and rookie Mike Washington Jr. Both franchises are operating as playoff contenders pursuing a championship window. While Corgi Loaf Baking Co. would eagerly accept this proposal to gain immediate healthy RB production in Pollard and secure the complete Titans backfield, Ravens Regime takes on short-term championship risk due to Montgomery's ongoing groin injury and 'not imminent' return status. AVI recommends revising the offer by requesting an added 2029 3rd-round pick from Corgi Loaf to offset the temporary starting lineup downgrade.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 79.3,
+              "publicMarket": 66.8,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "Tyjae Spears",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 25,
+              "cavi": 30,
+              "davi": 67.2,
+              "publicMarket": 30,
+              "leagueMarket": 67.2
+            }
+          ],
+          "sideB": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 53.8,
+              "davi": 78.5,
+              "publicMarket": 53.8,
+              "leagueMarket": 78.5
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.5,
+              "davi": 69.5,
+              "publicMarket": 29.5,
+              "leagueMarket": 69.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C+",
+            "otherGrade": "A-",
+            "userShare": 43,
+            "otherShare": 57,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "In the submitted 2-for-2 deal, Ravens Regime surrenders a healthy starting RB in Tony Pollard (66.8 C-AVI) along with his handcuff Tyjae Spears (30.0 C-AVI) for David Montgomery (53.8 C-AVI) and rookie Mike Washington Jr. (29.5 C-AVI). For a contender focused on winning the championship now, giving up healthy starter production for Montgomery—who has an active groin injury with an uncertain return timetable—creates an immediate starting slot deficit (-13.0 C-AVI net loss). Corgi Loaf Baking Co. gains a healthier starter and locks up the Tennessee backfield."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 49,
+            "otherShare": 51,
+            "advantageFranchise": "Balanced",
+            "summary": "Adding Corgi Loaf's 2029 3rd-round pick (16.5 C-AVI/D-AVI) balances the value equation, compensating Ravens Regime for absorbing Montgomery's short-term injury rehabilitation while providing Corgi Loaf with a prime immediate starter in Pollard plus Spears depth."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": -10,
+              "summary": "Slight net hit to immediate championship scoring while absorbing David Montgomery's injury recovery."
+            },
+            "championshipOutlook": {
+              "score": -15,
+              "summary": "Loses Tony Pollard's weekly RB2 starter output while Montgomery remains sidelined with a groin injury."
+            },
+            "dynastyOutlook": {
+              "score": 10,
+              "summary": "Gains explosive 23-year-old rookie Mike Washington Jr. following his 25-carry Week 8 surge."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Displaces a healthy starter for an inactive/rehab status player in the immediate active lineup."
+            },
+            "depthResilience": {
+              "score": 5,
+              "summary": "Maintains two rosterable RBs, but trades away a direct backfield handcuff lock."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Neutral draft-capital impact in the submitted 2-for-2 format."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 25,
+              "summary": "Strong roster improvement for a contender looking to maximize active weekly scoring."
+            },
+            "championshipOutlook": {
+              "score": 25,
+              "summary": "Acquires an immediate, healthy starting RB in Pollard and eliminates injury uncertainty."
+            },
+            "dynastyOutlook": {
+              "score": 5,
+              "summary": "Gains Pollard (29.0) and Spears (25.0), consolidating Tennessee's backfield."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Replaces an injured Montgomery with an active starter in Pollard."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Secures both Tennessee running backs, providing complete insurance for the backfield."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "No change to draft capital inventory."
+            }
+          },
+          "explanation": "Corgi Loaf Baking Co. gains immediate starting output and backfield security. Ravens Regime sacrifices short-term starting output for rookie upside in Washington Jr. and long-term depth once Montgomery recovers."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Ravens Regime experiences a short-term drop in weekly C-AVI sum from 96.8 outgoing to 83.3 incoming (-13.5 C-AVI). Tony Pollard is actively starting and producing, whereas David Montgomery is currently sidelined with a lingering groin injury with no imminent return report.",
+          "sideADynastyImpact": "Dynasty AVI is virtually even (146.5 outgoing vs. 148.0 incoming). Mike Washington Jr. (23.0 years old, 69.5 D-AVI) adds upside after demonstrating a 60% snap share and 25 carries in Week 8.",
+          "sideARosterImpact": "Removes the Titans backfield tandem and forces Blake Corum or Kyle Monangai into active lineup duty until Montgomery returns.",
+          "sideBChampionshipImpact": "Corgi Loaf Baking Co. secures an immediate C-AVI upgrade (+13.5) and replaces an inactive asset with an active RB2 starter for their playoff push.",
+          "sideBDynastyImpact": "Acquires Pollard and Spears to control the entire Titans backfield, maintaining solid long-term value.",
+          "sideBRosterImpact": "Upgrades starting RB slot while offloading injury uncertainty in Houston's backfield.",
+          "valueAssessment": "On raw market value, the 2-for-2 is close, but positional health and weekly startability favor Corgi Loaf Baking Co. significantly for current season pushes."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty markets view Tony Pollard as a solid veteran RB2 producer, while David Montgomery's stock has dipped due to inefficiency in Houston (2.7 YPC) and an ongoing groin injury. Mike Washington Jr.'s market value is rising sharply after taking over the Raiders' backfield in Week 8.",
+          "aviVsMarket": "AVI rates Pollard's current startability higher than Montgomery's due to active availability. Public market values Washington Jr. as a fast-rising rookie stash with high athletic upside (4.33 40-yard dash at 228 lbs).",
+          "relevantContext": [
+            "David Montgomery missed Weeks 6-7 and Week 8 bye; Houston coach DeMeco Ryans reported no significant update and return is not imminent.",
+            "Mike Washington Jr. broke out in Week 8 with 25 carries for 83 yards, outsnapping Ashton Jeanty 38-25.",
+            "Tony Pollard remains the lead back in Tennessee, while Tyjae Spears serves as his direct handcuff."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. (manager awang1900) is in a championship push and wants to convert an injured Montgomery and rookie depth into a reliable, active weekly starter.",
+          "packageFit": "Receiving Pollard and Spears gives Corgi Loaf complete control of Tennessee's rushing production and solves their RB starter health issue.",
+          "lineupReplacement": "Pollard immediately enters Corgi Loaf's active starting lineup over Skattebo/Montgomery.",
+          "competitiveWindowFit": "Directly supports Corgi Loaf's Win Championship goal by substituting active points for injured bench assets.",
+          "positionalScarcity": "In a 16-team league with 2 RB and 2 FLEX slots, healthy starting RBs carry premium championship value."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 23,
+            "packageMatch": 18,
+            "lineupReplacement": 13,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 93,
+          "classification": "Highly Realistic",
+          "explanation": "Corgi Loaf Baking Co. has a very high probability (93%) of accepting this proposal because it immediately boosts their starting lineup with Pollard and secures Spears while offloading an injured Montgomery."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "While Corgi Loaf Baking Co. will readily accept this proposal, sending a healthy starting RB in Pollard for an injured Montgomery hurts Ravens Regime's immediate championship push. AVI recommends revising the offer to request Corgi Loaf's 2029 3rd-round draft pick to balance value and compensate for Montgomery's recovery timeline.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 79.3,
+              "publicMarket": 66.8,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "Tyjae Spears",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 25,
+              "cavi": 30,
+              "davi": 67.2,
+              "publicMarket": 30,
+              "leagueMarket": 67.2
+            }
+          ],
+          "receive": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 53.8,
+              "davi": 78.5,
+              "publicMarket": 53.8,
+              "leagueMarket": 78.5
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.5,
+              "davi": 69.5,
+              "publicMarket": 29.5,
+              "leagueMarket": 69.5
+            },
+            {
+              "name": "2029 Round 3 (Corgi Loaf Baking Co.)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "whyUserShouldDoIt": "Adding the 2029 3rd-round pick balances the trade, granting extra draft capital and rookie upside in Mike Washington Jr. while absorbing Montgomery's short-term injury rehabilitation.",
+          "whyOpponentMightAccept": "Corgi Loaf Baking Co. still receives an active, healthy starting RB in Tony Pollard for their title push plus his direct backup Tyjae Spears, giving up only a late future pick to finalize the deal."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 79.3,
+              "publicMarket": 66.8,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 53.8,
+              "davi": 78.5,
+              "publicMarket": 53.8,
+              "leagueMarket": 78.5
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.5,
+              "davi": 69.5,
+              "publicMarket": 29.5,
+              "leagueMarket": 69.5
+            }
+          ],
+          "rationale": "A 1-for-2 swap where Ravens Regime retains Tyjae Spears as standalone depth, giving Corgi Loaf an active starter in Pollard in exchange for an injured Montgomery and rookie Washington."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Mike Washington football player",
+          "David Montgomery news 2026 NFL",
+          "Mike Washington Jr NFL rookie 2025 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOa8WOs811YBsVyJAJnPMGmEdpsI3FH4qge1Q-sMFOlDyRbbtqj2R6P6AoNqcWmSkr7Vwa5mFvve_970z4LDRav50ew7oYM_N8YFlhrRcgrQAmsNuMy7OzWKo6ud_0m27mVrRPAe5VNJ3XcQVvvvNItlJIfUqVv7qUQHVRoJQd3vhxUpYie4n5f5b4Qp1Rluza5AVfKlN5T97XvDeZVflUNJiDPW4=",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH802YSjzfmhHMb3FO120IpdAC3NtaTxQsXgvAJiXSPWCpGgIuo--dZOkAdp-eq8rhZ27GoBH4iyb5WtXvHzhe5uuw30iN2yH2hN-OMoxy2UtLztNschYVs9Ie3-CcwkAntFSD1xC6uSs9yVeqeoBwXfqeWLzubT4p2nfIGqX7FjNrWNPLvEFedKw_Q179Oonhp0usGuQn7x9G-GAlt16pREe2DeXRrENqQ",
+            "title": "clutchpoints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCsjCnoMY4EqGjg0menSLxplg6FJqtwUQQNqywGrNtsL2fzUX3n8QGlmjtIhzeeIu6fOMbouqavUrnYwwShPRyFfETeJIXOw91-RoEcABtvvxVMdI26AwSN3qaD51crIQ0AGbKRG0yQJ6xdL2IOORu1EGA9V3naZme1YHlLQmGTm5ZOHFwtedyyT6d7PtVzXImUoZKVwjXKhtXkpCvTjQuiA==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyFIGOGlRJGqir6vFrdFQG2k0-8EMMpYvTEVRcTrbj8tEhTxGf5oBQEhWrryj5ye6T2OSg-tw3cw9I0Ge1bgboe1-qrxMNjIb2qoH_T7miZLNa1ssrsam9HNqYYLKv59agY4omKGNpj0tASFjqasO605-wZrPv5R1rYXRlMVsNiAk2En-BY0kNwSNsY2G_NYrShi1cTW1Y_JeGfA==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ60ARfi6lDMevyr5FHVPtn9yaQ2oBCHDG-YWwBPSpTx4NpXYrOzLVKD_zOYAAKeDaqVISZCS7u45_3WUnaBJyBNqakFXQ3WRlP5RsUA7PN39-QhnQ47ykouJ9EpxJrBfEzht3BySqZktXWugB6b29d0Xau1Kw_07--mXe5mddKwWvg_DRdXzC_zRa3MhOsEnRbnKBDR28l-Ea5ogyPdvP2vrBtQ3oaZhFxiY=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQanFWjCwemBrwKEb8rr02L21E_7m88_PK_S5Aa4V8KDM2pvLa46IpHNbb2pa9h_tRY0sLU5pLwS4c2yMouZkquylzBcHqqFsMPtYgdc0kJWARpPL5PkoUZfGLoEnqU6CGYsOZhtuu5vVVRpBqR_TuPylMkiB1FBzpvH7um8bv-P7H3MKM0RzcReqcsX2D7chffvR54w==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiZdyGtka4immUB7HjvCEPxWoey14HIs8vjzViJLMIEY9CIF2F2vkx9Vq3E0qF6vxOmUCIoDNHMC9HTSRZMMfEvXdZVAWhvd-33gu_AVje6bKlQksPZTA0lKcGQu-gJhFQthM7Mww-",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW8kT0WxTw9cEa3IQcrmQ567pesqCnrJm6LnF49Hp2vk45sF64bys5LLlgHHroEqmHzZR1N2IaEl-q7WdI23O_vd2s_ugnjflrnOiXX2JyfRzf4J5RNo1cuDWGxjhEoX1y4AzG4rXBj5F0tI9NpxCtuHRb38YpNid2FlG4lgcTi9V-DaJ_k5icmxkseJ7K2z0=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF81Z98gftOCmh1tJ06SHa2LZdL2i_UOBRSEzq4vOmH0DsQIP5_te0NA5FRJjUxL0Ex_hpLvWbY0EyN9jTuLenhAKCnwBSwmn-7ka0GN4OJRLyymXWeP7wRxBBaTnssCnWZBgW1wkfgTXkCLeNbXDEbLCI=",
+            "title": "thetwodeep.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3Cp9XyNx80akUGzCJ82t_l1jN0JNAODBQzWBHSzjuX2ZmXnYGm3W5fw0qJ23ra3XjZgu78gZm-FdJJAjSo2-jW8iPyuo8JONT1TGhxvw8fXvUglM5ZZqCbiaBBR5d0i2d",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjLWQPjjpXUb7yWl488QZ9KPnimRkpJNEclEXfQ3bSMn4h1Epmqf_95OUhV9SToF0zUYPe2ieq0Gnx_Kp5KGZZp7Mn81IhqGNBmAvmOybxXturHEOcIo7-h9t6ZEmM_8l0HnOtTbHHg8HvP_Xm1oSzwjB9ke8pwzDy1frAiPre-m3sAiKbNLglNvBR",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3W9mTFyzIxxFtVFSpOhYFVCc-mpBEEXfaEKwnTOcCe_rjWCLwp5-zJKHa8LrNvryxn0Sj_IfO_Avf34ZLT2bdBi6OPghjeXYuCtu9TSzC6rrCi0oHfhcPA4HiWgLPZM2Wo_8Iu-MnIcPGMA==",
+            "title": "sleeper.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "737c1471613b62b4dddc64f4f75b9a8e625c0239",
+        "aviCoreCommittedAt": "2026-11-03T20:43:08Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 94714,
+        "groundedMarketChars": 4864,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mw18703h-ce41d74c",
     "createdAt": 1793742944787,
     "expiresAt": 1794174944787,
