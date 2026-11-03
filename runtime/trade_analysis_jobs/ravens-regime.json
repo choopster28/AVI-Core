@@ -28,9 +28,408 @@
       ]
     },
     "createdAt": 1793742874685,
-    "updatedAt": 1793742876310,
+    "updatedAt": 1793742943417,
     "expiresAt": 1794174874685,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Ravens Regime (Goal: Win Championship) is proposing to trade elite RB Derrick Henry (80.1 C-AVI) to Corgi Loaf Baking Co. (Goal: Win Championship) for RBs David Montgomery (53.8 C-AVI) and Mike Washington Jr. (29.5 C-AVI). While Corgi Loaf would eagerly accept this proposal to land a championship-vanguard RB1, the baseline trade severely weakens Ravens Regime's starting lineup by surrendering an 80.1 C-AVI centerpiece for an injured veteran (Montgomery, groin injury, return not imminent) and a committee rookie (Washington). AVI strongly advises revising the offer to include WR DJ Moore to ensure Ravens Regime maintains starting-lineup potency.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 80.1,
+              "davi": 88,
+              "publicMarket": 78,
+              "leagueMarket": 82
+            }
+          ],
+          "sideB": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 53.8,
+              "davi": 78.5,
+              "publicMarket": 52,
+              "leagueMarket": 55
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.5,
+              "davi": 69.5,
+              "publicMarket": 35,
+              "leagueMarket": 38
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "D+",
+            "otherGrade": "A",
+            "userShare": 30,
+            "otherShare": 70,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The submitted package heavily favors Corgi Loaf Baking Co. Giving up Derrick Henry (80.1 C-AVI) removes Ravens Regime's primary RB1 anchor during an active championship push in a 16-team league. David Montgomery is currently sidelined with a groin injury (return not imminent), and rookie Mike Washington Jr. operates in a volatile committee. The net effect is a severe drop in starting lineup ceiling for Ravens Regime."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "Adding WR DJ Moore (51.0 C-AVI) from Corgi Loaf balances the transaction. DJ Moore immediately enters Ravens Regime's starting FLEX lineup, helping offset the loss of Henry's RB1 points, while Corgi Loaf still secures the elite RB centerpiece needed for their title push."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": -35,
+              "summary": "Substantial negative overall impact due to surrendering an elite starting RB1 during a title run."
+            },
+            "championshipOutlook": {
+              "score": -45,
+              "summary": "Dramatically degrades 2026 title odds by removing Derrick Henry's 80.1 C-AVI production."
+            },
+            "dynastyOutlook": {
+              "score": 15,
+              "summary": "Slight positive dynasty gain by acquiring younger RBs (29 and 23) for a 32-year-old veteran."
+            },
+            "lineupQuality": {
+              "score": -50,
+              "summary": "Severe downgrade to the starting RB slot without an immediate equal replacement available."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Adds multi-player RB depth, though Montgomery is currently unavailable due to injury."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Splits a single asset into two tradable RB assets for future flexibility."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 40,
+              "summary": "Major positive acquisition, securing a premier RB1 for a championship push."
+            },
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Significantly increases 2026 championship odds by adding Derrick Henry to the starting lineup."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Slight long-term age inflation taking on 32-year-old Henry, but well worth the title leverage."
+            },
+            "lineupQuality": {
+              "score": 45,
+              "summary": "Huge immediate upgrade to starting RB/FLEX slots."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Consolidates two depth RBs into one elite starter, slightly lowering bench quantity."
+            },
+            "flexibilityLiquidity": {
+              "score": -5,
+              "summary": "Slight reduction in roster pieces, offset by acquiring elite single-asset market liquidity."
+            }
+          },
+          "explanation": "Visual impact reflects the clear disparity in current-season championship value between giving up an S-tier starter (Derrick Henry) versus receiving depth pieces (Montgomery, Washington)."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Losing Derrick Henry (80.1 C-AVI) creates a major hole in Ravens Regime's starting RB room, forcing reliance on Tony Pollard and Kyle Monangai/Blake Corum during a title push.",
+          "sideADynastyImpact": "Acquiring Montgomery (78.5 D-AVI) and Washington (69.5 D-AVI) adds younger dynasty assets, but does not justify sacrificing current championship expectation.",
+          "sideARosterImpact": "Leaves the roster over-indexed on committee and injured RBs while surrendering a proven elite producer.",
+          "sideBChampionshipImpact": "Corgi Loaf Baking Co. gains a dominant RB1 centerpiece in Derrick Henry, raising their starting lineup C-AVI average significantly.",
+          "sideBDynastyImpact": "Accepts mild age risk with Henry (32.0), but secures maximum short-term title odds.",
+          "sideBRosterImpact": "Clears bench clutter by converting two secondary RBs into a premium starter.",
+          "valueAssessment": "In 16-team leagues, single-slot elite production (80.1 C-AVI) carries a strong premium over the sum of depth pieces (53.8 + 29.5 C-AVI)."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus heavily favors Derrick Henry as a high-volume RB1 on Baltimore's potent offense. Conversely, David Montgomery is sidelined with a groin injury and struggling behind Houston's offensive line (2.65 YPC), while Mike Washington Jr. is a rookie in a volatile committee with Ashton Jeanty.",
+          "aviVsMarket": "AVI and public market data align: Henry's elite weekly ceiling far outvalues Montgomery's health uncertainty and Washington's unproven workload.",
+          "relevantContext": [
+            "David Montgomery suffered a groin injury in Week 5; Texans head coach DeMeco Ryans stated his return is not imminent ahead of Week 9.",
+            "Mike Washington Jr. had a Week 8 breakout (25 carries for 83 yards), but Raiders coach Klint Kubiak confirmed the backfield remains a moving target alongside Ashton Jeanty.",
+            "Derrick Henry remains fully healthy and commands elite high-value touch volume for Baltimore."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. (Goal: Win Championship) would be eager to acquire Derrick Henry to fortify their RB room alongside Saquon Barkley and Rhamondre Stevenson.",
+          "packageFit": "The submitted offer (Montgomery + Washington) is incomplete for Ravens Regime; adding WR DJ Moore makes the package strategically coherent for both contenders.",
+          "lineupReplacement": "Corgi Loaf easily replaces departing depth RBs with Henry in their starting lineup.",
+          "competitiveWindowFit": "Derrick Henry aligns directly with Corgi Loaf's title timeline, making them an ideal trade partner if properly compensated.",
+          "positionalScarcity": "Elite RB1 volume is extremely scarce in 16-team formats, requiring premium return compensation."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 25,
+            "packageMatch": 15,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 85,
+          "classification": "Realistic",
+          "explanation": "Corgi Loaf Baking Co. has an 85% probability of accepting this offer because receiving Derrick Henry greatly enhances their championship odds. However, Ravens Regime should revise the proposal before sending."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Sending Derrick Henry for David Montgomery and Mike Washington Jr. alone severely damages Ravens Regime's championship pursuit. To make the trade beneficial for both contenders, Ravens Regime must demand WR DJ Moore (51.0 C-AVI) from Corgi Loaf to preserve starting lineup strength.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 80.1,
+              "davi": 88,
+              "publicMarket": 78,
+              "leagueMarket": 82
+            }
+          ],
+          "receive": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 53.8,
+              "davi": 78.5,
+              "publicMarket": 52,
+              "leagueMarket": 55
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.5,
+              "davi": 69.5,
+              "publicMarket": 35,
+              "leagueMarket": 38
+            },
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 51,
+              "davi": 81.5,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            }
+          ],
+          "whyUserShouldDoIt": "Adding DJ Moore provides Ravens Regime with an immediate starting WR/FLEX option (51.0 C-AVI) to mitigate the loss of Derrick Henry, while acquiring depth and upside in Montgomery and Washington.",
+          "whyOpponentMightAccept": "Corgi Loaf Baking Co. acquires a league-winning RB1 in Derrick Henry to push for the championship while dealing from their deep WR room."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 80.1,
+              "davi": 88,
+              "publicMarket": 78,
+              "leagueMarket": 82
+            }
+          ],
+          "receive": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 53.8,
+              "davi": 78.5,
+              "publicMarket": 52,
+              "leagueMarket": 55
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.5,
+              "davi": 69.5,
+              "publicMarket": 35,
+              "leagueMarket": 38
+            },
+            {
+              "name": "Ryan Flournoy",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 49.2,
+              "davi": 67.6,
+              "publicMarket": 45,
+              "leagueMarket": 48
+            }
+          ],
+          "rationale": "If Corgi Loaf hesitates to include DJ Moore, adding Ryan Flournoy (49.2 C-AVI) provides a solid startable FLEX alternative alongside Montgomery and Washington."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Mike Washington Jr NFL running back draft news",
+          "Mike Washington Jr football",
+          "David Montgomery stats news 2026 NFL fantasy",
+          "David Montgomery current team 2026 injury status"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwug_TGFWuUwoeSGczK4ScCOVhIy-1tIt3byfa5g9WvTlJmVvoEe6FcOGUuvpl2_nfVEuETRLlFWleV0DLhXPbvActPnAwpQRiLfH_h7sJ5-zDd-hgRytQTPlAVkAw6T8094Cwyac0LAyXXtoJ0fk_Dg==",
+            "title": "fftoday.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyhX5MdNCUnK2XK_RG6CrqeTXXoVlH4McQ9snvyS43-ccoZqUnVmD2zeVfYIGZVX4NT7qbSvtGunayaxl_hOqXoA2e-N3l6NOmX-rd3q9cCNXH-9o5fY-BBpbtzPNihvGbxuX6W24QzwD7Icui2F04NQ==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiJd_gZFjmvhH8m6mvo1M25SNPioEnL6pSXnXwVEgtURao8MDpupakBxtEqYpRLjyhdYQLJcBO1Jhe_n6_GpveMnNEp7lNg5L-UFIo9FRBkNhBbTO_gg5Pi-NpcFPxjCjRVYbO6-bExYS0v4KJI9M=",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDHDKhIQO3jdT-u-P7qoda-3ENCTYrDqjZ4qOFYWGY69vPqeXR1S3dT8hUdOpymZvSu05ObxQrgdM4XHVZy8yhYj1BK1XVbVHS279xU6EIiQsChF6Vlh6q5-W8WyhMCLZNLMy6DlIbnHopLksnfiZPxgg=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmFfxZF-8NNAeCuRqpKLU88yI5w5EfGGLuiwjd-24-4MIFzRRmOd-m1VacBZ_Za8cmruDUu2ydTc5vwSQZwacVjTDfsApd1vH1otCFkiMYmmFzy1ssW5r8CY2b8Aen5YaSbPg_Q5T7NqlfV3C6SMfG1qJN78p1pbObLJ63hT8=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYD1PUMsJ9EvhjffB9g9N5WmLgcYQr1VPO4b1jO5WSQXTyCvWLgsdwBsy-UeaLqGAhf8qlCD2KmKqXyYGE_hzNmWITAR-rpGDvIrTCafNX2fSW-ht4MS7oJj-23PJvAuix6Cx5CwRYsm0c_cXq8qF2Y8fZU3uD8B67yAyo7bmEYp_dHkat7j-nSywF_odS9Jo=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUXJjgB5OvP4nO6s-U2ajftHM3_1yh_RI9s3_qAOGe6WWP4WZXi12M-6hHtJcJGMsjG9Y3kllot1AEMISFzOEKoNREMTXNToGzTB5QElrCnOvU0by8nXz48s4Vj7Dd4yTGNQCn",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLsBrXGoXzCPJeelbYFILaBsS6P3TFXXd51WyHeXUgm7w9em5dJuSwvZllfo6G340L0rMTzML8Rl0QqEbE_ANilovX4h7QcGg5D-ZNckRIvjH7FxmRrzW24gTCdi06CLrWp7u_YmY=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF99cS2K-Y9xPnsTnp4kbTikGW8R84jwK6KJVXxXoOfeLI4F6dk9UHoFTyxVw60i_SfUrk-JogcFBS__RbJKu-I1nqiTCa4feSp555SwA4IGvGcWaHXLD2hc70TsqLUPx2shdCfjd81m5FBYv78Q==",
+            "title": "arkansasrazorbacks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc7sqjVOXjUXal05PG20UbIJh57hWvIyGwEQZXTLvOrHwECaU_Q05x8j-TQWGW9RkDfvtNfi6Y4qTiWMRr3HBR3PTcWqjmhK_w8FtL_gzORj42dv0uAOeXNhTSZf301yuOytSfYw9zl-VMr1k3OA==",
+            "title": "247sports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDfx6SSCeuEihcw1NFM1bwQu3PUHml17_ojnMK6CZWtx37pYTnUA2R05HPDAUJxXglQCa3-aRrNd0ml-P0LEkJ-fHIPpR68SAg0wnG55mL6mObLCw7cUKIRVNBTmx8qO9mBjwxKgPuwjW09Q9GRYJ-lj4OmXq6Fa7UOA==",
+            "title": "nfldraftbuzz.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEukNa6I4cYgKrEXFPFFgnhcLhr1-XnnNyY1bTNVGtMAH3do_BGv3EwCcU9fHS3pI6VpeTr8DkD1f6J05cAhOeszX4V82LpI-i2pYs22losZDOzt63IBe3epw1OBYaACdbsVHymIIpCg_79fD5SfWCkWjAb8Lth5yyJRjzj0nKe3WLKa8h8OJ1cXZZ_tVtvl11D6GTuS5iKVq4hWbYYlibsS5v_mZiJkYrfLQg=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTdK9y_2LWVX704jXKec0-jc9SsidTitej4CVRQPVQ2T9HdpBwtwmF5lSVCvEqxcZHq2t7a0U044xlbPr8IOqx1sE9HZPdBW87Uw5ezr3R35DqPTUbT6EcqygpgkhHCP2Qoush38nSPZN6GIi1FH56IKY0M5kdeZlwDIC0MLKrn-K1JzUt-HByfJF6zvEI9Q==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl2XYtizc9szPvBN5aiWpqi-_bVGRpOLheeokgbCiki-APSxs0APRzQLngOzd23f54YQRtAfJbHKNHQKXyD3txI5GzcJTi5k-l2rAQUT5lFz5KHdn8_aJ_-Y3ViRBAQ2bxmxpIapxT32oSY0gN4j9Hf0wbWb1nGnsrziHMZEIJp-NniRRamnr5zOJHAOorKE54YT51uFvgqNqdO2R6QWPKeIiqewbu1kNi2g==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECFfVoCwENhvkrtJ9DWbo4tArjwhKjtCS5DErqen5OiS1oYc91p3WzrXYtR2W_N97IAYkGlAHjLtuI5bxVTlLWxYtqkCJNm9aEXLVPgay1MMRP2QODnuwSte_Z5QskuwN5QvqjYMboLi7GBdK6_LwKqwQGl827O-udBbKcvsOta_EfrCLqw7qidnnyZpJuj2AKoeVBB2ZxpfjBUA==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4YBXirwP7MGnxXAFrYVa8yyb8d3sUmbCOhHx_TM66A1u3OYPPMG4AeiYpOHUcc5XfEOu35FV0NCvXCfPezorCf8OOxJpKsN1edFVlrjXea1I2AII6ulnJfvzy37ZKDLbrDreL76hspT4eZVIEoBZ5_QBhWiVV1-eLgCR2RGVxrLcwhdFzyBX8jtDI2xblreu-ocgH2aeAQO4czvGjE-1E",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9DZaaz2dzwHsp4fasgAyskFgkUZDtEZfUfy22hvubZQINZhUU-sacTZPeJp0lM7YEnYnOMblijG9bqjoctPnRU_lmUZ5RuJprawd0VTdD4ifPy0oWQV7TKmECvJoHytzueSIqG-NdRn-cjYc_QPz_cgTV351kQ1I=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGWoDB0kn2V7DXvhC0Nm4bNsnEnUeuDB4vejb7Y0VVSUDmuW-zu0F_lzIenYTLxZXZJkpvSm3CZ7esCR4IUUXY97gxH4FtqsW5OogWk8x3vT4T6_7ajIJYnnIKU_RkE4bquaPzPck_-Esww75kYvqAgBqnTnG71QHtF-Bfk0Sx7I5Gj4k3dw==",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfAL3OTry2UtW30CTctXYUek01TO8gYFoUkel0QWJD0waPpYNMZ-Aiof7dl9JRKjdHAZaBoGMEzQYCOxI-yy2tiAPoUPHs34miCTJT57us1jR9tDq5Sg0otLUKjC8XuW2DfJWz_ru3eE7poAIAdLVtet9e75HgM-1L6UQlPH6hPlU2zUrsx3afBCYgjj3X7P1Z0PiZX9NPn8lFr9TP_kwYg0lj-yKAX0zXEcG5Xh3Scg==",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "737c1471613b62b4dddc64f4f75b9a8e625c0239",
+        "aviCoreCommittedAt": "2026-11-03T20:43:08Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 94714,
+        "groundedMarketChars": 4866,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mw17xzcq-48bbda3d",
