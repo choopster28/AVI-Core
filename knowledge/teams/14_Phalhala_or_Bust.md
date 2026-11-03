@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1132141719354535936
 - Division: 3
 - Waiver position: 1
-- Last updated from Sleeper exports: 2026-11-02
+- Last updated from Sleeper exports: 2026-11-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 482.7
-- championship_lineup_c_avi_avg: 60.34
-- offensive_roster_c_avi_sum: 616.3
-- offensive_roster_c_avi_avg: 51.36
+- championship_lineup_c_avi_sum: 482.8
+- championship_lineup_c_avi_avg: 60.35
+- offensive_roster_c_avi_sum: 616.4
+- offensive_roster_c_avi_avg: 51.37
 - offensive_roster_d_avi_sum: 892.9
 - offensive_roster_d_avi_avg: 74.41
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -33,7 +33,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - QB: C.J. Stroud | C-AVI: 48.4 | D-AVI: 72.6
 - RB: Ashton Jeanty | C-AVI: 86.8 | D-AVI: 94.9
 - RB: Jaylen Warren | C-AVI: 76.2 | D-AVI: 82.6
-- WR: Michael Wilson | C-AVI: 63.2 | D-AVI: 81.5
+- WR: Michael Wilson | C-AVI: 63.3 | D-AVI: 81.5
 - WR: Rome Odunze | C-AVI: 51.1 | D-AVI: 80.6
 - TE: Sam LaPorta | C-AVI: 75.9 | D-AVI: 87.2
 - FLEX: Makai Lemon | C-AVI: 41.1 | D-AVI: 78.8
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 63.2
+- Championship AVI (C-AVI, 0-100): 63.3
 - Dynasty AVI (D-AVI, 0-100): 81.5
 - Projected PPR points: 166.0
 - Category: offense

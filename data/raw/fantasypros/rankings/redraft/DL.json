@@ -11825,7 +11825,7 @@
     },
     {
       "cbs_player_id": "3162720",
-      "player_bye_week": "11",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "jared-ivey.php",
@@ -11838,7 +11838,7 @@
       "player_position_id": "DT",
       "player_positions": "DT",
       "player_short_name": "J. Ivey",
-      "player_team_id": "ATL",
+      "player_team_id": "FA",
       "player_yahoo_id": "42358",
       "player_yahoo_positions": "LB,DE",
       "pos_rank": "DT207",

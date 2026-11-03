@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1178861684281753600
 - Division: 2
 - Waiver position: 12
-- Last updated from Sleeper exports: 2026-11-02
+- Last updated from Sleeper exports: 2026-11-03
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 421.3
-- championship_lineup_c_avi_avg: 52.66
-- offensive_roster_c_avi_sum: 659.7
-- offensive_roster_c_avi_avg: 38.81
-- offensive_roster_d_avi_sum: 1142.9
-- offensive_roster_d_avi_avg: 67.23
+- championship_lineup_c_avi_sum: 421.2
+- championship_lineup_c_avi_avg: 52.65
+- offensive_roster_c_avi_sum: 659.5
+- offensive_roster_c_avi_avg: 38.79
+- offensive_roster_d_avi_sum: 1142.8
+- offensive_roster_d_avi_avg: 67.22
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Omar Cooper Jr. | C-AVI: 62.8 | D-AVI: 79.1
 - WR: Denzel Boston | C-AVI: 50.8 | D-AVI: 81.5
 - TE: Colston Loveland | C-AVI: 58.9 | D-AVI: 86.3
-- FLEX: Quentin Johnston | C-AVI: 33.8 | D-AVI: 69.1
+- FLEX: Quentin Johnston | C-AVI: 33.7 | D-AVI: 69.1
 - FLEX: Tre' Harris | C-AVI: 31.4 | D-AVI: 64.4
 
 ## Current Roster — All Player Cards
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 33.8
+- Championship AVI (C-AVI, 0-100): 33.7
 - Dynasty AVI (D-AVI, 0-100): 69.1
 - Projected PPR points: 163.9
 - Category: offense
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 20.3
-- Dynasty AVI (D-AVI, 0-100): 47.2
+- Championship AVI (C-AVI, 0-100): 20.2
+- Dynasty AVI (D-AVI, 0-100): 47.1
 - Projected PPR points: 26.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

@@ -893,7 +893,7 @@
       "player_name": "Jared Ivey",
       "points": 18,
       "position_id": "DT",
-      "team_id": "ATL",
+      "team_id": "FA",
       "weeks": {
         "1": 1.5,
         "2": 0,
@@ -3065,7 +3065,7 @@
       "player_name": "Josh Tupou",
       "points": 0,
       "position_id": "DT",
-      "team_id": "NYG",
+      "team_id": "FA",
       "weeks": {
         "2": 0
       }

@@ -3,6 +3,432 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-03 01:54:05",
+      "created_formated": "Tue, Nov 3rd 1:54am UTC",
+      "desc": "The Lions D/ST recorded three sacks while also forcing one turnover (one interception) in a 19-15 win over the Vikings in Week 8.",
+      "id": 617397,
+      "impact": "The defense made stops when it counted, allowing just 266 offensive yards in Sunday's win. The unit will look for another steady performance in a Week 9 contest against the Miami Dolphins.",
+      "link": "https://www.fantasypros.com/nfl/news/617397/lions-dst-solid-week-8.php",
+      "player_id": 8100,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Lions D/ST solid in Week 8"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-03 01:51:30",
+      "created_formated": "Tue, Nov 3rd 1:51am UTC",
+      "desc": "Jake Bates converted his only extra point attempt while also making two of three field goal attempts to record seven points in the Lions' 19-15 win over the Vikings in Week 8.",
+      "id": 617396,
+      "impact": "Bates has taken advantage of sizeable opportunities behind a high-powered offense, finishing with seven or more points in each of his seven contests. The kicker remains a reliable option for fantasy managers ahead of a Week 9 contest against the Miami Dolphins.",
+      "link": "https://www.fantasypros.com/nfl/news/617396/jake-bates-misses-field-goal-week-8.php",
+      "player_id": 26075,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Jake Bates misses field goal in Week 8"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-03 01:38:52",
+      "created_formated": "Tue, Nov 3rd 1:38am UTC",
+      "desc": "The Vikings D/ST recorded four sacks while also forcing one turnover in a 19-15 loss to the Lions in Week 8.",
+      "id": 617395,
+      "impact": "The defense was unable to contain a physical Detroit ground attack, allowing 230 rushing yards and 5.9 yards per carry in the loss. The unit faces another stiff test against a physical Buffalo Bills offense in Week 9.",
+      "link": "https://www.fantasypros.com/nfl/news/617395/vikings-dst-does-its-part-week-8.php",
+      "player_id": 8170,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Vikings D/ST does its part in Week 8"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-03 01:35:24",
+      "created_formated": "Tue, Nov 3rd 1:35am UTC",
+      "desc": "Will Reichard converted his only extra point attempt while also missing his lone field goal attempt in the Vikings' 19-15 loss to the Lions in Week 8.",
+      "id": 617394,
+      "impact": "Reichard struggled to make an impact Sunday, registering less than nine points for the first time in his last six contests. The kicker will look to get back on track against the Buffalo Bills in Week 9.",
+      "link": "https://www.fantasypros.com/nfl/news/617394/will-reichard-misses-field-goal-week-8.php",
+      "player_id": 26341,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Will Reichard misses field goal in Week 8"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-03 01:27:15",
+      "created_formated": "Tue, Nov 3rd 1:27am UTC",
+      "desc": "The Cowboys D/ST forced two turnovers (one interception, one fumble recovery) while also registering five sacks in a 33-30 loss to the Cardinals in Week 8.",
+      "id": 617393,
+      "impact": "The defense was unable to make stops consistently Sunday, allowing over 200 rushing yards in a losing effort. The unit will look to take advantage of an underperforming Indianapolis Colts offense in Week 9.",
+      "link": "https://www.fantasypros.com/nfl/news/617393/cowboys-dst-implodes-week-8.php",
+      "player_id": 8080,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Cowboys D/ST implodes in Week 8"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-03 01:23:38",
+      "created_formated": "Tue, Nov 3rd 1:23am UTC",
+      "desc": "Brandon Aubrey converted all three extra point attempts as well as three of his four field goal attempts to finish with 12 points in the Cowboys' 33-30 loss to the Cardinals in Week 8.",
+      "id": 617392,
+      "impact": "Aubrey has been impactful of late, recording 10 or more points in five of his last seven contests. The kicker will look to offer another explosive performance in a favorable Week 9 contest against the Indianapolis Colts.",
+      "link": "https://www.fantasypros.com/nfl/news/617392/brandon-aubrey-missed-field-goal-week-8.php",
+      "player_id": 26068,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Brandon Aubrey misses field goal in Week 8"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-03 01:20:18",
+      "created_formated": "Tue, Nov 3rd 1:20am UTC",
+      "desc": "The Cardinals D/ST recorded four sacks while failing to force a turnover in a 33-30 win over the Cowboys in Week 8.",
+      "id": 617391,
+      "impact": "The defense was able to stand tall when it counted Sunday, allowing just 288 offensive yards in the comeback win. The unit will be difficult to trust entering a tough Week 9 matchup against the Seattle Seahawks.",
+      "link": "https://www.fantasypros.com/nfl/news/617391/cardinals-dst-records-four-sacks-week-8.php",
+      "player_id": 8000,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Cardinals D/ST records four sacks in Week 8"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-03 01:16:23",
+      "created_formated": "Tue, Nov 3rd 1:16am UTC",
+      "desc": "Chad Ryland converted both of his field goal attempts while also converting three of his four extra point attempts to finish with nine points in the Cardinals' 33-30 win over the Cowboys in Week 8.",
+      "id": 617390,
+      "impact": "Ryland has caught fire of late, recording nine or more points in each of his last three contests. The kicker will look to stay hot behind an Arizona offense with newly named starting quarterback Gardner Minshew behind center in a tough Week 9 contest against the Seattle Seahawks.",
+      "link": "https://www.fantasypros.com/nfl/news/617390/chad-ryland-misses-extra-point-week-8.php",
+      "player_id": 25354,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Chad Ryland misses extra point in Week 8"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-02 22:41:45",
+      "created_formated": "Mon, Nov 2nd 10:41pm UTC",
+      "desc": "Cardinals coach Mike LaFleur told reporters RB Jeremiyah Love has a new ankle injury.",
+      "id": 617360,
+      "impact": "Love will be further evaluated throughout the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/617360/jeremiyah-love-has-new-ankle-injury.php",
+      "player_id": 25403,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Jeremiyah Love has new ankle injury"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-02 22:40:01",
+      "created_formated": "Mon, Nov 2nd 10:40pm UTC",
+      "desc": "De'Zhaun Stribling was seen walking in locker room without crutches or a brace on Monday.",
+      "id": 617359,
+      "impact": "Stribling has been on injured reserve since the season opener. He appears to be progressing, but remains without a clear timetable to return. ",
+      "link": "https://www.fantasypros.com/nfl/news/617359/dezhaun-stribling-ankle-seen-walking-without-crutches-or-brace.php",
+      "player_id": 28138,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "De'Zhaun Stribling (ankle) seen walking without crutches or brace"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-02 22:36:01",
+      "created_formated": "Mon, Nov 2nd 10:36pm UTC",
+      "desc": "Falcons DE James Pearce Jr. has completed his eight-game suspension.",
+      "id": 617358,
+      "impact": "Pearce is eligible to make his season debut in Week 9 against the Bengals. ",
+      "link": "https://www.fantasypros.com/nfl/news/617358/james-pearce-jr-completes-eight-game-suspension.php",
+      "player_id": 27018,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "James Pearce Jr. completes eight-game suspension"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-02 22:32:48",
+      "created_formated": "Mon, Nov 2nd 10:32pm UTC",
+      "desc": "Cardinals WR Kendrick Bourne's ankle injury could end his season.",
+      "id": 617357,
+      "impact": "Bourne had a non-contact injury with 21 seconds left in the first half of Sunday's game against the Cowboys. He is still undergoing tests. ",
+      "link": "https://www.fantasypros.com/nfl/news/617357/kendrick-bourne-ankle-could-be-out-season.php",
+      "player_id": 17066,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Kendrick Bourne (ankle) could be out for season"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-02 22:29:10",
+      "created_formated": "Mon, Nov 2nd 10:29pm UTC",
+      "desc": "Rams coach Sean McVay said \"it is looking more likely than not\" that Terrance Ferguson returns to practice this week.",
+      "id": 617356,
+      "impact": "Ferguson has been on injured reserve. He will have his 21-day practice window opened when he returns to the field. ",
+      "link": "https://www.fantasypros.com/nfl/news/617356/terrance-ferguson-ankle-could-practice-this-week.php",
+      "player_id": 23091,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Terrance Ferguson (ankle) could practice this week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-02 22:27:03",
+      "created_formated": "Mon, Nov 2nd 10:27pm UTC",
+      "desc": "Rams RB Dean Connors broke his hand and will require surgery.",
+      "id": 617355,
+      "impact": "Connors will be sidelined indefinitely. ",
+      "link": "https://www.fantasypros.com/nfl/news/617355/dean-connors-suffers-broken-hand-to-require-surgery.php",
+      "player_id": 28113,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Dean Connors suffers broken hand, to require surgery"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-02 22:25:42",
+      "created_formated": "Mon, Nov 2nd 10:25pm UTC",
+      "desc": "Grant Stuard is week-to-week with a hamstring injury.",
+      "id": 617354,
+      "impact": "Stuard hurt his hamstring in warmups prior to Sunday's game against the Chargers. ",
+      "link": "https://www.fantasypros.com/nfl/news/617354/grant-stuard-hamstring-week-to-week.php",
+      "player_id": 23316,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Grant Stuard (hamstring) week-to-week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-02 22:24:37",
+      "created_formated": "Mon, Nov 2nd 10:24pm UTC",
+      "desc": "Trent McDuffie showed improvement with his back injury on Monday.",
+      "id": 617353,
+      "impact": "McDuffie suffered the injury in Sunday's win over the Chargers. He will need to be monitored in practice throughout the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/617353/trent-mcduffie-back-improving.php",
+      "player_id": 23492,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Trent McDuffie (back) shows improvement"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-02 22:23:13",
+      "created_formated": "Mon, Nov 2nd 10:23pm UTC",
+      "desc": "Rams CB Jaylen Watson aggravated his shoulder injury.",
+      "id": 617352,
+      "impact": "Watson will be monitored in practice throughout the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/617352/jaylen-watson-aggravates-shoulder-injury.php",
+      "player_id": 24291,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Jaylen Watson aggravates shoulder injury"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-02 22:21:21",
+      "created_formated": "Mon, Nov 2nd 10:21pm UTC",
+      "desc": "Rams coach Sean McVay told reporters Matthew Stafford has been dealing with soreness in his right elbow.",
+      "id": 617351,
+      "impact": "McVay left the locker room on Sunday with a bag of ice wrapped to his right arm.  He will need to be monitored in practice this week. ",
+      "link": "https://www.fantasypros.com/nfl/news/617351/matthew-stafford-dealing-with-elbow-soreness.php",
+      "player_id": 9451,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Matthew Stafford dealing with elbow soreness"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-02 22:19:56",
+      "created_formated": "Mon, Nov 2nd 10:19pm UTC",
+      "desc": "Rams coach Sean McVay said Myles Garrett will practice this week.",
+      "id": 617350,
+      "impact": "Garrett will have his 21-day practice window opened when he makes his return to the field. ",
+      "link": "https://www.fantasypros.com/nfl/news/617350/myles-garrett-knee-will-practice-this-week.php",
+      "player_id": 16370,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Myles Garrett (knee) will practice this week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-02 22:17:40",
+      "created_formated": "Mon, Nov 2nd 10:17pm UTC",
+      "desc": "The Seahawks elevated OL Bobby Hart from their practice squad.",
+      "id": 617349,
+      "impact": "Hart will add depth for Monday's game against the Bears. ",
+      "link": "https://www.fantasypros.com/nfl/news/617349/bobby-hart-elevated-by-seahawks.php",
+      "player_id": 15299,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Bobby Hart elevated by Seahawks"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-02 22:16:47",
+      "created_formated": "Mon, Nov 2nd 10:16pm UTC",
+      "desc": "The Seahawks elevated WR Montorie Foster Jr. from their practice squad.",
+      "id": 617348,
+      "impact": "Foster will add depth in the wide receiver room for Seattle with Rashid Shaheed sidelined. ",
+      "link": "https://www.fantasypros.com/nfl/news/617348/montorie-foster-jr-elevated-by-seahawks.php",
+      "player_id": 27910,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Montorie Foster Jr. elevated by Seahawks"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-02 22:15:01",
+      "created_formated": "Mon, Nov 2nd 10:15pm UTC",
+      "desc": "The Seahawks waived Robert Henry Jr.",
+      "id": 617347,
+      "impact": "Henry was waived to make room for Jadarian Price getting activated from IR. ",
+      "link": "https://www.fantasypros.com/nfl/news/617347/robert-henry-jr-waived-by-seahawks.php",
+      "player_id": 28404,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Robert Henry Jr. waived by Seahawks"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-02 21:54:30",
+      "created_formated": "Mon, Nov 2nd 9:54pm UTC",
+      "desc": "Jacoby Brissett has officially been benched by the Cardinals. ",
+      "id": 617346,
+      "impact": "Gardner Minshew II was named the starter after leading Arizona to a comeback win on Sunday against the Cowboys. Minshew will start in Week 9 in Seattle. ",
+      "link": "https://www.fantasypros.com/nfl/news/617346/jacoby-brissett-officially-benched-by-cardinals.php",
+      "player_id": 15642,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Jacoby Brissett officially benched by Cardinals "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-02 21:53:22",
+      "created_formated": "Mon, Nov 2nd 9:53pm UTC",
+      "desc": "The Cardinals named Gardner Minshew as their starting quarterback. ",
+      "id": 617345,
+      "impact": "Minshew came into Sunday's game and led Arizona to a comeback win over the Cowboys. He draws a tough first start in Seattle in Week 9. ",
+      "link": "https://www.fantasypros.com/nfl/news/617345/gardner-minshew-ii-named-cardinals-starting-qb.php",
+      "player_id": 18562,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Gardner Minshew II named Cardinals starting QB"
+    },
+    {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
@@ -19,437 +445,6 @@
       "sport_id": "NFL",
       "team_id": "SEA",
       "title": "Jadarian Price (chest) to be activated from IR Monday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 20:30:40",
-      "created_formated": "Mon, Nov 2nd 8:30pm UTC",
-      "desc": "Jevon Holland practiced on Monday. ",
-      "id": 617337,
-      "impact": "Holland was in concussion protocol heading into the Giants bye week. His presence in practice to begin the week is a good sign for his status heading into Week 9. ",
-      "link": "https://www.fantasypros.com/nfl/news/617337/jevon-holland-concussion-practices-monday.php",
-      "player_id": 22690,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Jevon Holland (concussion) practices Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 20:29:20",
-      "created_formated": "Mon, Nov 2nd 8:29pm UTC",
-      "desc": "Greg Newsome II practiced on Monday. ",
-      "id": 617336,
-      "impact": "Newsome was in concussion protocol heading into the Giants bye week. His presence in practice to begin the week is a good sign for his status heading into Week 9. ",
-      "link": "https://www.fantasypros.com/nfl/news/617336/greg-newsome-ii-concussion-practices-monday.php",
-      "player_id": 23238,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Greg Newsome II (concussion) practices Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 20:28:26",
-      "created_formated": "Mon, Nov 2nd 8:28pm UTC",
-      "desc": "Theo Johnson practiced on Monday. ",
-      "id": 617335,
-      "impact": "Johnson was dealing with a neck injury heading into the Giants bye week. His presence in practice to begin the week is a good sign for his status heading into Week 9. ",
-      "link": "https://www.fantasypros.com/nfl/news/617335/theo-johnson-neck-practices-monday.php",
-      "player_id": 23104,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Theo Johnson (neck) practices Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 20:26:46",
-      "created_formated": "Mon, Nov 2nd 8:26pm UTC",
-      "desc": "Abdul Carter was not seen practicing on Monday. ",
-      "id": 617334,
-      "impact": "It is unclear what the reason is for Carter's absence. It's the first practice out of the bye week for the Giants. ",
-      "link": "https://www.fantasypros.com/nfl/news/617334/abdul-carter-not-practicing-monday.php",
-      "player_id": 27022,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Abdul Carter not practicing Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 20:23:31",
-      "created_formated": "Mon, Nov 2nd 8:23pm UTC",
-      "desc": "Cam Skattebo was practicing on a side field on Monday with trainers. ",
-      "id": 617333,
-      "impact": "Skattebo injured his hamstring on a long run against the Texans before the Giants bye week. He will need to be monitored in practice throughout the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/617333/cam-skattebo-hamstring-practices-on-side-field-monday.php",
-      "player_id": 27166,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "Cam Skattebo (hamstring) practices on side field Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 20:20:31",
-      "created_formated": "Mon, Nov 2nd 8:20pm UTC",
-      "desc": "Lions center Cade Mays suffered a low ankle sprain in Sunday's game against the Vikings. ",
-      "id": 617332,
-      "impact": "It is unclear how long Mays will be sidelined for. He will likely miss some time. ",
-      "link": "https://www.fantasypros.com/nfl/news/617332/cade-mays-suffers-low-ankle-sprain.php",
-      "player_id": 20138,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Cade Mays suffers low ankle sprain"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 20:18:21",
-      "created_formated": "Mon, Nov 2nd 8:18pm UTC",
-      "desc": "Lions coach Dan Campbell said rookie LB Jimmy Rolder will be out the rest of the season.",
-      "id": 617331,
-      "impact": "Rolder totaled one sack and 11 total tackles over five games as a rookie. ",
-      "link": "https://www.fantasypros.com/nfl/news/617331/jimmy-rolder-hamstring-out-season.php",
-      "player_id": 28355,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Jimmy Rolder (hamstring) out for season"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-02 20:15:40",
-      "created_formated": "Mon, Nov 2nd 8:15pm UTC",
-      "desc": "The Giants signed RB Eric Gray to their practice squad. ",
-      "id": 617330,
-      "impact": "Gray will add depth in the backfield for New York. ",
-      "link": "https://www.fantasypros.com/nfl/news/617330/eric-gray-signs-with-giants-practice-squad.php",
-      "player_id": 23075,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Eric Gray signs with Giants practice squad "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 19:54:56",
-      "created_formated": "Mon, Nov 2nd 7:54pm UTC",
-      "desc": "Packers coach Matt LaFleur confirmed that Micah Parsons is expected to practice later this week. ",
-      "id": 617329,
-      "impact": "Parsons did not participate in Monday's walkthrough. He is expected to have his practice window opened later in the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/617329/micah-parsons-knee-expected-to-practice-later-this-week.php",
-      "player_id": 19784,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Micah Parsons (knee) expected to practice later this week"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 19:52:48",
-      "created_formated": "Mon, Nov 2nd 7:52pm UTC",
-      "desc": "The Lions say LB Jack Campbell continues to rest and recover at a local hospital.",
-      "id": 617328,
-      "impact": "The Lions added that preliminary indications are positive for Campbell, a positive sign for the Lions linebacker. ",
-      "link": "https://www.fantasypros.com/nfl/news/617328/jack-campbell-neck-remains-hospital-monday.php",
-      "player_id": 25435,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Jack Campbell (neck) remains in hospital Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 19:50:57",
-      "created_formated": "Mon, Nov 2nd 7:50pm UTC",
-      "desc": "Dolphins coach Jeff Hafley said Kadyn Proctor is still in concussion protocol and progressing.",
-      "id": 617327,
-      "impact": "Proctor's status heading into Week 9 remains up in the air. ",
-      "link": "https://www.fantasypros.com/nfl/news/617327/kadyn-proctor-still-concussion-protocol.php",
-      "player_id": 27952,
-      "sport_id": "NFL",
-      "team_id": "MIA",
-      "title": "Kadyn Proctor still in concussion protocol "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 19:49:53",
-      "created_formated": "Mon, Nov 2nd 7:49pm UTC",
-      "desc": "Vikings S Theo Jackson has a quad injury. ",
-      "id": 617326,
-      "impact": "It is unclear how serious the injury is. Jackson is day-to-day for now. ",
-      "link": "https://www.fantasypros.com/nfl/news/617326/theo-jackson-has-quad-injury.php",
-      "player_id": 24001,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Theo Jackson has quad injury"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 19:49:10",
-      "created_formated": "Mon, Nov 2nd 7:49pm UTC",
-      "desc": "Vikings head coach Kevin O'Connell said LT Christian Darrisaw is dealing with shoulder soreness. ",
-      "id": 617325,
-      "impact": "Darrisaw will continue to be further evaluated. He is day-to-day to start the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/617325/christian-darrisaw-dealing-with-shoulder-injury.php",
-      "player_id": 22688,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Christian Darrisaw dealing with shoulder injury"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 19:47:56",
-      "created_formated": "Mon, Nov 2nd 7:47pm UTC",
-      "desc": "Vikings QB Kyler Murray is being evaluated for a sore hamstring. ",
-      "id": 617324,
-      "impact": "Murray is being fully evaluated to start the week. He is day-to-day for now. ",
-      "link": "https://www.fantasypros.com/nfl/news/617324/kyler-murray-dealing-with-sore-hamstring.php",
-      "player_id": 18600,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Kyler Murray dealing with sore hamstring "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 19:31:51",
-      "created_formated": "Mon, Nov 2nd 7:31pm UTC",
-      "desc": "Panthers coach Dave Canales said Brady Christensen will have his 21-day window opened this week. ",
-      "id": 617319,
-      "impact": "Christensen will have the next few weeks to officially be activated. ",
-      "link": "https://www.fantasypros.com/nfl/news/617319/brady-christensen-to-have-practice-window-opened-this-week.php",
-      "player_id": 22805,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Brady Christensen to have practice window opened this week"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 19:29:43",
-      "created_formated": "Mon, Nov 2nd 7:29pm UTC",
-      "desc": "Panthers coach Dave Canales said WR Xavier Legette could have his practice window opened this week. ",
-      "id": 617318,
-      "impact": "Canales added that Legette still has some things he needs to clear recovery-wise. His status will need to be monitored the rest of the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/617318/xavier-legette-knee-could-have-practice-window-opened-this-week.php",
-      "player_id": 26136,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Xavier Legette (knee) could have practice window opened this week"
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-02 19:29:27",
-      "created_formated": "Mon, Nov 2nd 7:29pm UTC",
-      "desc": "The Chiefs' defense allowed 28 points and 294 total yards. while recording one sack in Kansas City's Week 8 loss to the Broncos.",
-      "id": 617317,
-      "impact": "Kansas City held Denver to 294 yards, but the defense failed to force a turnover and allowed 15 points in the fourth quarter. Jonah Coleman scored the game-winning touchdown with two minutes remaining. One sack and zero takeaways resulted in a poor fantasy day for the Chiefs D/ST.",
-      "link": "https://www.fantasypros.com/nfl/news/617317/chiefs-dst-fails-to-force-turnover-week-8.php",
-      "player_id": 8150,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Chiefs D/ST fails to force turnover in Week 8"
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-02 19:28:39",
-      "created_formated": "Mon, Nov 2nd 7:28pm UTC",
-      "desc": "Harrison Butker made one of his two field-goal attempts and all three extra-point attempts in the Chiefs' 28-24 loss to the Broncos in Week 8 as well.",
-      "id": 617316,
-      "impact": "Butker connected from 45 yards before halftime before missing from 54 yards in the fourth quarter. The miss proved costly in a four-point loss. Still, Kansas City's offense continues to provide Butker with enough scoring opportunities to keep him in fantasy lineups.",
-      "link": "https://www.fantasypros.com/nfl/news/617316/harrison-butker-makes-one-field-goal-week-8.php",
-      "player_id": 16712,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Harrison Butker makes one field goal in Week 8"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 19:28:24",
-      "created_formated": "Mon, Nov 2nd 7:28pm UTC",
-      "desc": "Panthers coach Dave Canales said RB Jonathon Brooks could have his practice window opened this week. ",
-      "id": 617315,
-      "impact": "Canales added that Brooks still has some things he needs to clear recovery-wise. His status will need to be monitored the rest of the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/617315/jonathon-brooks-core-could-have-practice-window-opened-this-week.php",
-      "player_id": 26148,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Jonathon Brooks (core) could have practice window opened this week"
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-02 19:27:32",
-      "created_formated": "Mon, Nov 2nd 7:27pm UTC",
-      "desc": "Noah Gray caught both of his targets for 15 yards and one touchdown in the Chiefs' 28-24 loss to the Broncos in Week 8.",
-      "id": 617314,
-      "impact": "Gray caught a four-yard touchdown for Kansas City's final score of the game. That said, he had two targets compared to seven for Travis Kelce. Gray needs touchdowns to provide fantasy value as long as Kelce is healthy.",
-      "link": "https://www.fantasypros.com/nfl/news/617314/noah-gray-scores-touchdown-week-8.php",
-      "player_id": 19539,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Noah Gray scores touchdown in Week 8"
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-02 19:26:49",
-      "created_formated": "Mon, Nov 2nd 7:26pm UTC",
-      "desc": "Travis Kelce caught five of seven targets for 67 yards in the Chiefs' 28-24 loss to the Broncos in Week 8.",
-      "id": 617313,
-      "impact": "Kelce finished second on the Chiefs in targets and receiving yards, including a 32-yard reception. Noah Gray caught Kansas City's tight end touchdown, but Kelce had seven targets compared to two for Gray. Nothing changed here. Kelce remains a TE1.",
-      "link": "https://www.fantasypros.com/nfl/news/617313/travis-kelce-records-67-receiving-yards-week-8.php",
-      "player_id": 11594,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Travis Kelce records 67 receiving yards in Week 8"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-02 19:25:48",
-      "created_formated": "Mon, Nov 2nd 7:25pm UTC",
-      "desc": "Panthers head coach Dave Canales said OLB Jaelan Phillips is trending in the right direction. ",
-      "id": 617311,
-      "impact": "Phillips did not play in last Thursday's loss against the Packers. He is considered day-to-day. ",
-      "link": "https://www.fantasypros.com/nfl/news/617311/jaelan-phillips-hamstring-trending-right-direction.php",
-      "player_id": 22734,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Jaelan Phillips (hamstring) trending in the right direction "
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-02 19:25:59",
-      "created_formated": "Mon, Nov 2nd 7:25pm UTC",
-      "desc": "Xavier Worthy caught three of six targets for 13 yards in the Chiefs' 28-24 loss to the Broncos in Week 8.",
-      "id": 617312,
-      "impact": "Worthy had six targets but averaged 4.3 yards per reception. He has 13 targets over his last two games, so opportunities aren't necessarily the problem. The production is. Worthy has 86 receiving yards over that stretch and remains a volatile fantasy option.",
-      "link": "https://www.fantasypros.com/nfl/news/617312/xavier-worthy-held-to-13-yards-week-8.php",
-      "player_id": 23019,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Xavier Worthy held to 13 yards in Week 8"
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-02 19:25:00",
-      "created_formated": "Mon, Nov 2nd 7:25pm UTC",
-      "desc": "Rashee Rice caught seven of eight targets for 53 yards and one touchdown in the Chiefs' 28-24 loss to the Broncos in Week 8.",
-      "id": 617310,
-      "impact": "Rice led Kansas City with eight targets and seven receptions. He also caught an 11-yard touchdown in the first quarter. Rice averaged just 7.6 yards per reception, but that's secondary to the usage. He remains one of Patrick Mahomes' top options.",
-      "link": "https://www.fantasypros.com/nfl/news/617310/rashee-rice-scores-touchdown-week-8.php",
-      "player_id": 23113,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Rashee Rice scores touchdown in Week 8"
     }
   ],
   "public_api": true,
