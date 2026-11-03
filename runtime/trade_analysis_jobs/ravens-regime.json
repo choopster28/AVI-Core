@@ -36,9 +36,431 @@
       ]
     },
     "createdAt": 1793742005405,
-    "updatedAt": 1793742007026,
+    "updatedAt": 1793742071717,
     "expiresAt": 1794174005405,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. proposes sending Tyler Shough, David Montgomery, and Mike Washington Jr. to Ravens Regime in exchange for Derrick Henry and Tony Pollard. While this proposal heavily advances Corgi Loaf's roster ceiling by acquiring two top-producing starting running backs, it creates an irreconcilable conflict with Ravens Regime's primary goal to Win Championship. Surrendering both starting RBs (Derrick Henry 80.1 C-AVI and Tony Pollard 66.8 C-AVI) guts Ravens Regime's starting lineup and title odds in a 16-team league. As constructed, acceptance probability is extremely low (15%). Corgi Loaf should revise the proposal to target Tony Pollard individually in exchange for David Montgomery and developmental assets.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Tyler Shough",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "QB",
+              "age": 27,
+              "cavi": 48.3,
+              "davi": 71.5,
+              "publicMarket": 45,
+              "leagueMarket": 48
+            },
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 53.8,
+              "davi": 78.5,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.5,
+              "davi": 69.5,
+              "publicMarket": 30,
+              "leagueMarket": 35
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 80.1,
+              "davi": 88,
+              "publicMarket": 75,
+              "leagueMarket": 82
+            },
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 79.3,
+              "publicMarket": 60,
+              "leagueMarket": 65
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "F",
+            "userShare": 73,
+            "otherShare": 27,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The submitted offer is a massive win for Corgi Loaf Baking Co., capturing 146.9 C-AVI in elite RB scoring while giving up a backup QB (Tyler Shough), a solid RB2 (David Montgomery), and a developmental back (Mike Washington Jr.). However, for Ravens Regime, whose verified objective is Win Championship, giving up both Derrick Henry and Tony Pollard decimates their active backfield and destroys their 2026 title chances."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Pivoting the offer to target only Tony Pollard in exchange for David Montgomery and Mike Washington Jr. keeps Ravens Regime's RB1 anchor (Derrick Henry) intact for their title run while allowing Corgi Loaf to capture productive RB efficiency."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 65,
+              "summary": "Corgi Loaf gains two high-producing RBs, heavily boosting starting lineup power and total asset value."
+            },
+            "championshipOutlook": {
+              "score": 70,
+              "summary": "Derrick Henry and Tony Pollard significantly upgrade Corgi Loaf's active RB/FLEX slots for current-season scoring."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Henry (32.0) and Pollard (29.0) carry age risk, but Henry's 88.0 D-AVI maintains strong overall dynasty equity."
+            },
+            "lineupQuality": {
+              "score": 75,
+              "summary": "Derrick Henry immediately becomes a premiere RB1 starter, with Pollard slotting into RB2/FLEX."
+            },
+            "depthResilience": {
+              "score": 40,
+              "summary": "Consolidates three roster assets into two high-end starters without eroding essential bench depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 50,
+              "summary": "Acquires liquid, high-demand starting running backs while giving up secondary depth."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -65,
+              "summary": "Ravens Regime suffers a severe hit to its championship roster by surrendering both starting RBs."
+            },
+            "championshipOutlook": {
+              "score": -75,
+              "summary": "Trading away Derrick Henry (80.1 C-AVI) and Tony Pollard (66.8 C-AVI) cripples their 2026 championship push."
+            },
+            "dynastyOutlook": {
+              "score": 15,
+              "summary": "Acquires younger assets in Tyler Shough (27.0) and Mike Washington Jr. (23.0), but gains minimal top-tier dynasty ceiling."
+            },
+            "lineupQuality": {
+              "score": -70,
+              "summary": "Leaves a massive hole in their starting RB core, demoting RB2 production to replacement level."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Gains QB depth with Tyler Shough, but QB is already anchored by Lamar Jackson and Cam Ward."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Exchanges high-leverage fantasy starters for secondary bench pieces."
+            }
+          },
+          "explanation": "The trade heavily favors Corgi Loaf Baking Co. in raw value and starting production (+65 overall), while severely damaging Ravens Regime's championship contention (-65 overall) by gutting their starting backfield."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf gains +146.9 C-AVI in Henry and Pollard while sending out 131.6 C-AVI across three players, generating a net positive impact on starting RB/FLEX output.",
+          "sideADynastyImpact": "Adds 167.3 D-AVI in Henry (88.0) and Pollard (79.3) while sending out 219.5 D-AVI across Shough, Montgomery, and Washington, slightly reducing total multi-year horizon equity due to Henry's age (32.0).",
+          "sideARosterImpact": "Upgrades active starting lineup quality by replacing Montgomery with Derrick Henry as RB1 and inserting Pollard into a premium FLEX slot.",
+          "sideBChampionshipImpact": "Devastates Ravens Regime's championship pursuit by removing both starting running backs (Henry 80.1, Pollard 66.8 C-AVI) from an active title contender.",
+          "sideBDynastyImpact": "Gains younger pieces in Shough (27.0) and Washington (23.0) along with Montgomery (29.0), but fails to net an elite dynasty centerpiece.",
+          "sideBRosterImpact": "Creates an immediate crisis at starting RB, forcing Kyle Monangai or Blake Corum into mandatory starter duties alongside Montgomery.",
+          "valueAssessment": "The asset package sent by Corgi Loaf fails to provide equivalent elite production or draft compensation to justify Ravens Regime forfeiting its entire starting backfield during a championship push."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Derrick Henry continues to produce at an elite RB1 level (~17.5 PPR PPG, 9 TDs through Week 8) despite being 32.8 years old. Tony Pollard is coming off a massive two-game surge (5 TDs in Weeks 7-8) while Tyjae Spears was sidelined, making Pollard a widely recognized public market sell-high candidate ahead of his bye week and NFL trade deadline rumors.",
+          "aviVsMarket": "AVI values Henry's elite win-now C-AVI (80.1) and D-AVI (88.0) higher than public consensus due to his unique volume baseline in Baltimore. Market sentiment labels Pollard as a sell-high due to regression risks when Spears returns, aligning with Corgi Loaf's strategy to target him.",
+          "relevantContext": [
+            "Derrick Henry ranks as an elite PPR RB1 with 632 rushing yards and 9 total TDs through Week 8 in Baltimore's potent offense.",
+            "Tony Pollard's recent 5-TD explosion across Weeks 7 and 8 was driven by Tyjae Spears' knee injury; public analysts strongly view Pollard as a sell-high before backfield split resumes.",
+            "David Montgomery (29.0) provides steady RB2 production in Houston, but lacks the game-breaking ceiling of Henry.",
+            "Tyler Shough (27.0) is a starting QB option for NO, but holds minimal trade value for a Ravens Regime roster already holding Lamar Jackson and Cam Ward."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime's explicitly stated goal is Win Championship. Trading away both starting RBs for a QB backup and a secondary RB directly undermines their primary front-office goal.",
+          "packageFit": "The package offers QB depth and an RB2 in Montgomery, but fails to address Ravens Regime's need for high-end championship starters.",
+          "lineupReplacement": "David Montgomery (53.8 C-AVI) replaces one RB slot, but leaves the second RB slot severely degraded with Blake Corum (54.5) or Kyle Monangai (58.5) forced into a starting role.",
+          "competitiveWindowFit": "Direct conflict. Ravens Regime is in an active championship window, whereas the incoming assets lean toward retooling/depth.",
+          "positionalScarcity": "In a 16-team league, elite starting RBs like Derrick Henry are exceptionally scarce and command premium returns."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 5,
+            "packageMatch": 8,
+            "lineupReplacement": 2,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 37,
+          "classification": "Unlikely",
+          "explanation": "Ravens Regime cannot accept this package as constructed. Giving up Derrick Henry and Tony Pollard simultaneously removes 146.9 C-AVI from their starting lineup, leaving David Montgomery as their sole incoming starter and destroying their championship run."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Best-effort offer (not validated as realistic; 37% estimated acceptance): Ravens Regime cannot accept this package as constructed. Giving up Derrick Henry and Tony Pollard simultaneously removes 146.9 C-AVI from their starting lineup, leaving David Montgomery as their sole incoming starter and destroying their championship run.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Tyler Shough",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "QB",
+              "age": 27,
+              "cavi": 48.3,
+              "davi": 71.5,
+              "publicMarket": 45,
+              "leagueMarket": 48
+            },
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 53.8,
+              "davi": 78.5,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.5,
+              "davi": 69.5,
+              "publicMarket": 30,
+              "leagueMarket": 35
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 80.1,
+              "davi": 88,
+              "publicMarket": 75,
+              "leagueMarket": 82
+            },
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 79.3,
+              "publicMarket": 60,
+              "leagueMarket": 65
+            }
+          ],
+          "whyUserShouldDoIt": "Captures two legitimate starting running backs (including elite RB1 Derrick Henry) to strengthen starting lineup scoring and overall roster value.",
+          "whyOpponentMightAccept": "Provides QB depth with Tyler Shough and a durable starter in David Montgomery, though unlikely to be accepted without additional premium starter compensation or draft capital."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 53.8,
+              "davi": 78.5,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            },
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.5,
+              "davi": 69.5,
+              "publicMarket": 30,
+              "leagueMarket": 35
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 79.3,
+              "publicMarket": 60,
+              "leagueMarket": 65
+            }
+          ],
+          "rationale": "By targeting only Tony Pollard instead of both RBs, Ravens Regime keeps Derrick Henry as their championship anchor at RB1 while replacing Pollard with David Montgomery (53.8 C-AVI) and acquiring young backfield depth in Mike Washington Jr. (69.5 D-AVI)."
+        },
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Ravens Regime cannot accept this package as constructed. Giving up Derrick Henry and Tony Pollard simultaneously removes 146.9 C-AVI from their starting lineup, leaving David Montgomery as their sole incoming starter and destroying their championship run.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Ravens Regime's explicitly stated goal is Win Championship. Trading away both starting RBs for a QB backup and a secondary RB directly undermines their primary front-office goal."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "The package offers QB depth and an RB2 in Montgomery, but fails to address Ravens Regime's need for high-end championship starters."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "David Montgomery (53.8 C-AVI) replaces one RB slot, but leaves the second RB slot severely degraded with Blake Corum (54.5) or Kyle Monangai (58.5) forced into a starting role."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Direct conflict. Ravens Regime is in an active championship window, whereas the incoming assets lean toward retooling/depth."
+            }
+          ],
+          "opponentPerspective": "Ravens Regime's explicitly stated goal is Win Championship. Trading away both starting RBs for a QB backup and a secondary RB directly undermines their primary front-office goal.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "The package offers QB depth and an RB2 in Montgomery, but fails to address Ravens Regime's need for high-end championship starters.",
+          "whatWouldNeedToChange": [
+            "Ravens Regime's explicitly stated goal is Win Championship. Trading away both starting RBs for a QB backup and a secondary RB directly undermines their primary front-office goal.",
+            "The package offers QB depth and an RB2 in Montgomery, but fails to address Ravens Regime's need for high-end championship starters.",
+            "David Montgomery (53.8 C-AVI) replaces one RB slot, but leaves the second RB slot severely degraded with Blake Corum (54.5) or Kyle Monangai (58.5) forced into a starting role.",
+            "Direct conflict. Ravens Regime is in an active championship window, whereas the incoming assets lean toward retooling/depth."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tony Pollard contract NFL 2026 stats fantasy news",
+          "Derrick Henry contract NFL 2026 stats fantasy news"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFznAFoQW92KUYX-5M3rJgtHM_vfve1EJkPrhknS30ZzOtzSzqZJZzZbTNtd5PR994jDAV267TZJVGp0NMIV_Hl6tnFOLulKwFBJ2ccKb3h5O3RKxkga8IR-VFN_nPV48-vjyRaReV5ww==",
+            "title": "sleeper.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtzhwyIYkAKW6wSIXJRczBlcMbS0x6pt1Nnykc9I_dhzgB1v83uHxnZjckPqZzCVlG9ezAARaRGmpZDs9jaSE479lwpO5QmykUklo-ivkB89iG7yR7-DSVcSdVmamyD9mKhZKJNhMPiHdT__F4szOWREYFO7ZEFpRwkg==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwX3w6DUsEMlhW_54Eq1T1TvaTAcxhnSjDZ6l1JrCGxVt56xccWdxG5jbUgxR3B_B3EVHzUU76lCKeq8f9k94GQRXTrpILRc1Sy_6DuE8_9j6MX7UGBrAquAMW6vAP0RreFYs0fsTPw==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh3yOlu6jSZcY47FtxPeQvddcBoSYvTLzo7NcyXP8whTvT0uIj_XmEqKg1QErPD2vp3-ZY9FUSLGdeY2PNHaHgEC5EqOqVrc51ifERmTmzLuFlTlBWSB53oAk8vW3HEl0SJiJ7CPolhzarJrlwxLYrf_U_JAXypMJ59pq1CA==",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1U1jJYuBwbfzOrksiNWcVU65I3fPtT-9Nv41fr1ZMfvpXfB44Owwrb7LZD8zRYqRznAL9HxoAQqTHv20pr1wbNnn1--k7M__cFs95n3ypH_BvOcqAvWlE6dcxMLL34FOJhFq6yhV-kD-fud7j2AnhIO4dZvAc",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOKawUDG_xUtnVsBEEZycL1TZI_KYpIm-WJq9k2vfLT0kcMYIQS1acYHIlipKb8ejzLGMdJSHZUwlOlcdeSCGFR84CEbK0m1xdKqSmF9And41nmwANel4ZWbkK2M-hLjrFD07-MnO8gRGXfDHS4ikmtQ==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHImKCt13Zcd7GbiwgPx4fXucF2wCPXJTJxQ-0rOcfycuvl7CaV2qfsf4fMmnSq1YY2Jb511l6zPhD5gCjlK2HEptGrnxw-nMHoWe03iWHBAR-c5fCJImHcapeKIsWxrGCA40WWvOLFw54b15I8HbY9LH_8BsWGJfRMjF2PuwbBpbq2alhfT6OdlTFhFDsDwYhbTz7QXxfHm4D8gl9fHMEORWnTvhOiqkiUybz2sQ==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3EuaLGJry4Nhd8w7MMJqxsD8jwotviN1B1C1PybkMIg9bybn2-J9xWxCjt8BbgR3zz2f8SCOBKZgVK8hFrR-HPtHsjhi8pAziQO1IkjAgWjE-hxBL0gEPCxEN71gIGaxJOtgK1L1NAVgICm3EtbjckJ6WOvaL5HQppfI-PZyHbv_epb31K233THrchsSvZW3CWA==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF--EoW_ftlrxojp3j2GJnWoOkcZ860C0p9K3Ep3frod7g-JsLKHpmzROXhNeh1UZqCl9CUWZffXpLxQdGz263oZGGNBy85s2ohkG7s5cQnQAr_65rkogFz0luww-LgyeOnOclVYowPHasfkuseXr_HbZlHYzlmCdxv3NKzD1UEMZ_vcJTr3BCkb66TMe9XZp2Ib095e6i8W4WWbPp4godmu7ZpXDA=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9DIeecftMe4cOP89Rvx24h3FWtUJ71PZRh0Slid-5Xh9texYXJWkKowUUXB_c5gFLj6xkkCM61qVnTy81fhyJ6NHkHxCbIkJsWLOoaYexhWCQ1RDCRFnd0s_nwmeZvt1wXv7u",
+            "title": "ftnfantasy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS-VbXSrLeXgkcK8JN1ioFrPG_8cIPTgNEQjPpg3HJp9jHeHqC2498q3qLAQlHaHQo6vO9PSxhD8WXKChlEttO9KO92T0WPaKnHUHKv6W2wLoiVpNzzC5Spo815QORjGEdUDLbmNFAjP9Pj-m_B7iT",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6zvs33D1EWeCAKyan2vOAg1_68iZ65UzYi3u6nEu8B5VbLd-R1lHn-MccWPsBAUTPeBP4Y88ZFsbNgg_UY1uVZe1pnprWgXJ5un0VvmvxENhyi810WtLHxcbNJJvtOtSWHShSW5-c",
+            "title": "statchasers.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "737c1471613b62b4dddc64f4f75b9a8e625c0239",
+        "aviCoreCommittedAt": "2026-11-03T20:43:08Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 94651,
+        "groundedMarketChars": 4360,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mw1521vb-ca80d724",
