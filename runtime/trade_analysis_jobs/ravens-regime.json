@@ -1,5 +1,47 @@
 [
   {
+    "id": "mw1521vb-ca80d724",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "goal": "Win Championship",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        },
+        {
+          "name": "Mike Washington Jr.",
+          "assetType": "player"
+        },
+        {
+          "name": "Tyler Shough",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Derrick Henry",
+          "assetType": "player"
+        },
+        {
+          "name": "Tony Pollard",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "I think with the lamar jackson injury you are valuing henry too much and pollard might just be on a hot streak."
+    },
+    "createdAt": 1793737604978,
+    "updatedAt": 1793737604978,
+    "expiresAt": 1794169604978,
+    "status": "queued"
+  },
+  {
     "id": "mw14yeeb-f740f325",
     "phase": "initial",
     "mode": "propose_trade",
