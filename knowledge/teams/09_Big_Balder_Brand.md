@@ -8,36 +8,36 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Choopski
 - Owner ID: 863881053000011776
 - Division: 1
-- Waiver position: 10
+- Waiver position: 14
 - Last updated from Sleeper exports: 2026-11-04
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 21
-- offense: 17
+- total_players: 22
+- offense: 18
 - kickers: 1
 - idp: 3
 - other: 0
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 549.2
-- championship_lineup_c_avi_avg: 68.65
-- offensive_roster_c_avi_sum: 924.3
-- offensive_roster_c_avi_avg: 54.37
-- offensive_roster_d_avi_sum: 1305.5
-- offensive_roster_d_avi_avg: 76.79
+- championship_lineup_c_avi_sum: 579.3
+- championship_lineup_c_avi_avg: 72.41
+- offensive_roster_c_avi_sum: 940.2
+- offensive_roster_c_avi_avg: 52.23
+- offensive_roster_d_avi_sum: 1333.2
+- offensive_roster_d_avi_avg: 74.07
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Jayden Daniels | C-AVI: 73.1 | D-AVI: 85.2
-- RB: Bhayshul Tuten | C-AVI: 73.6 | D-AVI: 88.4
-- RB: Chuba Hubbard | C-AVI: 73.3 | D-AVI: 83.6
+- QB: Jayden Daniels | C-AVI: 73.1 | D-AVI: 85.1
+- RB: Bhayshul Tuten | C-AVI: 73.7 | D-AVI: 88.6
+- RB: Chuba Hubbard | C-AVI: 73.3 | D-AVI: 83.4
+- WR: DeVonta Smith | C-AVI: 82.9 | D-AVI: 91.3
 - WR: Nico Collins | C-AVI: 82.6 | D-AVI: 94.0
-- WR: Rashee Rice | C-AVI: 63.7 | D-AVI: 87.3
 - TE: Tyler Warren | C-AVI: 74.8 | D-AVI: 88.5
-- FLEX: Omarion Hampton | C-AVI: 55.2 | D-AVI: 85.2
-- FLEX: Tyler Allgeier | C-AVI: 52.9 | D-AVI: 74.4
+- FLEX: Rashee Rice | C-AVI: 63.7 | D-AVI: 87.3
+- FLEX: Omarion Hampton | C-AVI: 55.2 | D-AVI: 84.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -54,7 +54,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 73.1
-- Dynasty AVI (D-AVI, 0-100): 85.2
+- Dynasty AVI (D-AVI, 0-100): 85.1
 - Projected PPR points: 308.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -70,9 +70,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 38.0
-- Championship AVI (C-AVI, 0-100): 60.1
-- Dynasty AVI (D-AVI, 0-100): 61.5
+- Championship AVI (C-AVI, 0-100): 60.0
+- Dynasty AVI (D-AVI, 0-100): 61.0
 - Projected PPR points: 39.2
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Joe Milton
+- Player name: Joe Milton
+- Player ID: 11557
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 15.1
+- Dynasty AVI (D-AVI, 0-100): 33.2
+- Projected PPR points: 12.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -87,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 73.6
-- Dynasty AVI (D-AVI, 0-100): 88.4
+- Championship AVI (C-AVI, 0-100): 73.7
+- Dynasty AVI (D-AVI, 0-100): 88.6
 - Projected PPR points: 174.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -105,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 73.3
-- Dynasty AVI (D-AVI, 0-100): 83.6
+- Dynasty AVI (D-AVI, 0-100): 83.4
 - Projected PPR points: 147.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -122,7 +139,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 21.0
 - Championship AVI (C-AVI, 0-100): 55.6
-- Dynasty AVI (D-AVI, 0-100): 88.7
+- Dynasty AVI (D-AVI, 0-100): 89.0
 - Projected PPR points: 211.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -139,7 +156,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 55.2
-- Dynasty AVI (D-AVI, 0-100): 85.2
+- Dynasty AVI (D-AVI, 0-100): 84.7
 - Projected PPR points: 242.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -155,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 52.9
-- Dynasty AVI (D-AVI, 0-100): 74.4
+- Championship AVI (C-AVI, 0-100): 52.8
+- Dynasty AVI (D-AVI, 0-100): 74.0
 - Projected PPR points: 77.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -172,26 +189,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 27.9
-- Dynasty AVI (D-AVI, 0-100): 64.6
+- Championship AVI (C-AVI, 0-100): 27.8
+- Dynasty AVI (D-AVI, 0-100): 63.3
 - Projected PPR points: 65.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Zonovan Knight
-- Player name: Zonovan Knight
-- Player ID: 8122
+### PLAYER: Sione Vaki
+- Player name: Sione Vaki
+- Player ID: 11729
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: ARI
+- NFL team: DET
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 18.7
-- Dynasty AVI (D-AVI, 0-100): 46.1
-- Projected PPR points: 10.5
+- Championship AVI (C-AVI, 0-100): 16.0
+- Dynasty AVI (D-AVI, 0-100): 43.3
+- Projected PPR points: 4.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -257,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 38.5
-- Dynasty AVI (D-AVI, 0-100): 81.3
+- Championship AVI (C-AVI, 0-100): 38.4
+- Dynasty AVI (D-AVI, 0-100): 80.7
 - Projected PPR points: 167.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -280,20 +297,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Konata Mumpfield
-- Player name: Konata Mumpfield
-- Player ID: 12718
+### PLAYER: Treylon Burks
+- Player name: Treylon Burks
+- Player ID: 8135
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: LAR
+- NFL team: WAS
 - Active: True
 - Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 24.2
-- Dynasty AVI (D-AVI, 0-100): 50.8
-- Projected PPR points: 41.7
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 28.0
+- Dynasty AVI (D-AVI, 0-100): 51.9
+- Projected PPR points: 34.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -326,7 +343,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 29.9
-- Dynasty AVI (D-AVI, 0-100): 62.4
+- Dynasty AVI (D-AVI, 0-100): 61.7
 - Projected PPR points: 110.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

@@ -990,9 +990,9 @@
     "sleeper_id": "8225"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "17420",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "NO",
     "player_name": "Daniel Carlson",
     "position": "K",

@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Thecan
 - Owner ID: 736993578450030592
 - Division: 1
-- Waiver position: 15
+- Waiver position: 9
 - Last updated from Sleeper exports: 2026-11-04
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 675.9
-- championship_lineup_c_avi_avg: 84.49
-- offensive_roster_c_avi_sum: 1041.4
-- offensive_roster_c_avi_avg: 57.86
-- offensive_roster_d_avi_sum: 1406.9
-- offensive_roster_d_avi_avg: 78.16
+- championship_lineup_c_avi_sum: 676.0
+- championship_lineup_c_avi_avg: 84.50
+- offensive_roster_c_avi_sum: 1010.8
+- offensive_roster_c_avi_avg: 59.46
+- offensive_roster_d_avi_sum: 1353.0
+- offensive_roster_d_avi_avg: 79.59
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Josh Allen | C-AVI: 94.2 | D-AVI: 92.3
 - RB: Bijan Robinson | C-AVI: 89.8 | D-AVI: 96.5
-- RB: Jonathan Taylor | C-AVI: 86.6 | D-AVI: 94.2
+- RB: Jonathan Taylor | C-AVI: 86.6 | D-AVI: 94.1
 - WR: Puka Nacua | C-AVI: 97.9 | D-AVI: 99.1
 - WR: George Pickens | C-AVI: 83.1 | D-AVI: 93.5
 - TE: Isaiah Likely | C-AVI: 80.1 | D-AVI: 86.1
 - FLEX: Matthew Golden | C-AVI: 74.4 | D-AVI: 89.3
-- FLEX: Harold Fannin Jr. | C-AVI: 69.8 | D-AVI: 85.7
+- FLEX: Harold Fannin Jr. | C-AVI: 69.9 | D-AVI: 86.2
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -56,23 +56,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 94.2
 - Dynasty AVI (D-AVI, 0-100): 92.3
 - Projected PPR points: 361.5
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Jacoby Brissett
-- Player name: Jacoby Brissett
-- Player ID: 3257
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: QB
-- Fantasy positions: ['QB']
-- NFL team: ARI
-- Active: True
-- Status: Active
-- Age: 33.0
-- Championship AVI (C-AVI, 0-100): 30.8
-- Dynasty AVI (D-AVI, 0-100): 57.5
-- Projected PPR points: 160.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -105,7 +88,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 86.6
-- Dynasty AVI (D-AVI, 0-100): 94.2
+- Dynasty AVI (D-AVI, 0-100): 94.1
 - Projected PPR points: 272.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -122,7 +105,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 69.6
-- Dynasty AVI (D-AVI, 0-100): 90.0
+- Dynasty AVI (D-AVI, 0-100): 89.9
 - Projected PPR points: 211.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -139,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 55.6
-- Dynasty AVI (D-AVI, 0-100): 88.6
+- Dynasty AVI (D-AVI, 0-100): 88.5
 - Projected PPR points: 257.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -155,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 27.7
-- Dynasty AVI (D-AVI, 0-100): 61.2
+- Championship AVI (C-AVI, 0-100): 27.9
+- Dynasty AVI (D-AVI, 0-100): 65.9
 - Projected PPR points: 72.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -173,10 +156,27 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 23.1
-- Dynasty AVI (D-AVI, 0-100): 57.6
+- Dynasty AVI (D-AVI, 0-100): 56.8
 - Projected PPR points: 36.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Elijah Mitchell
+- Player name: Elijah Mitchell
+- Player ID: 7561
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: offense
+- Valuation status: NOT_IN_AVI_OUTPUT
 
 ### PLAYER: Puka Nacua
 - Player name: Puka Nacua
@@ -241,7 +241,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 28.0
 - Championship AVI (C-AVI, 0-100): 55.0
-- Dynasty AVI (D-AVI, 0-100): 68.8
+- Dynasty AVI (D-AVI, 0-100): 68.6
 - Projected PPR points: 110.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -274,7 +274,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 27.4
+- Championship AVI (C-AVI, 0-100): 27.3
 - Dynasty AVI (D-AVI, 0-100): 61.1
 - Projected PPR points: 94.5
 - Category: offense
@@ -309,7 +309,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 21.1
-- Dynasty AVI (D-AVI, 0-100): 50.9
+- Dynasty AVI (D-AVI, 0-100): 50.6
 - Projected PPR points: 59.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -342,8 +342,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 69.8
-- Dynasty AVI (D-AVI, 0-100): 85.7
+- Championship AVI (C-AVI, 0-100): 69.9
+- Dynasty AVI (D-AVI, 0-100): 86.2
 - Projected PPR points: 180.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Hofer51
 - Owner ID: 736994691492519936
 - Division: 4
-- Waiver position: 7
+- Waiver position: 16
 - Last updated from Sleeper exports: 2026-11-04
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 583.4
-- championship_lineup_c_avi_avg: 72.92
-- offensive_roster_c_avi_sum: 811.3
-- offensive_roster_c_avi_avg: 57.95
-- offensive_roster_d_avi_sum: 1068.6
-- offensive_roster_d_avi_avg: 76.33
+- championship_lineup_c_avi_sum: 583.3
+- championship_lineup_c_avi_avg: 72.91
+- offensive_roster_c_avi_sum: 811.2
+- offensive_roster_c_avi_avg: 57.94
+- offensive_roster_d_avi_sum: 1066.1
+- offensive_roster_d_avi_avg: 76.15
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Brock Purdy | C-AVI: 79.5 | D-AVI: 84.6
-- RB: D'Andre Swift | C-AVI: 86.1 | D-AVI: 89.2
-- RB: Kimani Vidal | C-AVI: 29.5 | D-AVI: 64.1
+- QB: Brock Purdy | C-AVI: 79.5 | D-AVI: 84.5
+- RB: D'Andre Swift | C-AVI: 86.1 | D-AVI: 89.0
+- RB: Kimani Vidal | C-AVI: 29.4 | D-AVI: 63.1
 - WR: Amon-Ra St. Brown | C-AVI: 96.0 | D-AVI: 98.5
 - WR: Tee Higgins | C-AVI: 91.7 | D-AVI: 92.4
 - TE: Tucker Kraft | C-AVI: 68.4 | D-AVI: 86.3
 - FLEX: Justin Jefferson | C-AVI: 75.8 | D-AVI: 94.0
-- FLEX: Dallas Goedert | C-AVI: 56.4 | D-AVI: 77.4
+- FLEX: Dallas Goedert | C-AVI: 56.4 | D-AVI: 76.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -54,7 +54,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 79.5
-- Dynasty AVI (D-AVI, 0-100): 84.6
+- Dynasty AVI (D-AVI, 0-100): 84.5
 - Projected PPR points: 303.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -71,7 +71,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 50.9
-- Dynasty AVI (D-AVI, 0-100): 70.4
+- Dynasty AVI (D-AVI, 0-100): 70.1
 - Projected PPR points: 235.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -88,7 +88,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 86.1
-- Dynasty AVI (D-AVI, 0-100): 89.2
+- Dynasty AVI (D-AVI, 0-100): 89.0
 - Projected PPR points: 208.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 29.5
-- Dynasty AVI (D-AVI, 0-100): 64.1
+- Championship AVI (C-AVI, 0-100): 29.4
+- Dynasty AVI (D-AVI, 0-100): 63.1
 - Projected PPR points: 60.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -122,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 29.0
-- Dynasty AVI (D-AVI, 0-100): 73.5
+- Dynasty AVI (D-AVI, 0-100): 73.2
 - Projected PPR points: 67.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -139,7 +139,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 22.3
-- Dynasty AVI (D-AVI, 0-100): 52.7
+- Dynasty AVI (D-AVI, 0-100): 51.9
 - Projected PPR points: 25.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -207,7 +207,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 34.0
 - Championship AVI (C-AVI, 0-100): 50.5
-- Dynasty AVI (D-AVI, 0-100): 62.9
+- Dynasty AVI (D-AVI, 0-100): 63.4
 - Projected PPR points: 106.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -224,7 +224,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 30.0
 - Championship AVI (C-AVI, 0-100): 46.2
-- Dynasty AVI (D-AVI, 0-100): 69.7
+- Dynasty AVI (D-AVI, 0-100): 69.2
 - Projected PPR points: 155.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -258,7 +258,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 56.4
-- Dynasty AVI (D-AVI, 0-100): 77.4
+- Dynasty AVI (D-AVI, 0-100): 76.8
 - Projected PPR points: 136.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -275,22 +275,22 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 34.0
 - Championship AVI (C-AVI, 0-100): 29.0
-- Dynasty AVI (D-AVI, 0-100): 52.9
+- Dynasty AVI (D-AVI, 0-100): 53.7
 - Projected PPR points: 122.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Tyler Loop
-- Player name: Tyler Loop
-- Player ID: 12711
+### PLAYER: Tyler Bass
+- Player name: Tyler Bass
+- Player ID: 7042
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8
 - Position: K
 - Fantasy positions: ['K']
-- NFL team: BAL
+- NFL team: BUF
 - Active: True
-- Status: Inactive
-- Age: 25.0
+- Status: Active
+- Age: 29.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-11-04T02:26:14.226957+00:00",
+  "fetched_at_utc": "2026-11-04T19:44:33.677792+00:00",
   "players": {
     "10210": {
       "gms_active": 1.0,
@@ -3898,6 +3898,7 @@
     },
     "11649": {
       "gms_active": 1.0,
+      "gp": 1.0,
       "pos_rank_half_ppr": 999.0,
       "pos_rank_ppr": 999.0,
       "pos_rank_std": 999.0
