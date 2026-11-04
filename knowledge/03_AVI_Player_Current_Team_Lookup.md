@@ -1932,14 +1932,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 5
 - Team file: 05_Northside_Kings.md
 
-## PLAYER LOOKUP: Tyson Bagent
-- Player name: Tyson Bagent
-- Player ID: 11256
-- Position: QB
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
-
 ## PLAYER LOOKUP: Wan'Dale Robinson
 - Player name: Wan'Dale Robinson
 - Player ID: 8126
@@ -3281,6 +3273,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CLE
 - Championship AVI (C-AVI, 0-100): 16.4
 - Dynasty AVI (D-AVI, 0-100): 47.2
+- Availability: available
+
+## AVAILABLE PLAYER: Tyson Bagent
+- Player name: Tyson Bagent
+- Player ID: 11256
+- Position: QB
+- NFL team: CHI
+- Championship AVI (C-AVI, 0-100): 16.4
+- Dynasty AVI (D-AVI, 0-100): 47.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Chris Blair
