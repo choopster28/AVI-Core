@@ -51,6 +51,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00003257",
+      "c_avi": 30.8,
+      "d_avi": 57.5,
+      "nfl_team": "ARI",
+      "player_name": "Jacoby Brissett",
+      "position": "QB",
+      "sleeper_id": "3257",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00004177",
       "c_avi": 30.7,
       "d_avi": 54.7,
@@ -466,6 +478,18 @@
       "player_name": "Elic Ayomanor",
       "position": "WR",
       "sleeper_id": "12499",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00012718",
+      "c_avi": 24.2,
+      "d_avi": 50.8,
+      "nfl_team": "LAR",
+      "player_name": "Konata Mumpfield",
+      "position": "WR",
+      "sleeper_id": "12718",
       "status": "Active"
     },
     {
@@ -1275,6 +1299,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00008122",
+      "c_avi": 18.7,
+      "d_avi": 46.1,
+      "nfl_team": "ARI",
+      "player_name": "Zonovan Knight",
+      "position": "RB",
+      "sleeper_id": "8122",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00011623",
       "c_avi": 18.6,
       "d_avi": 52.0,
@@ -1791,18 +1827,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00011729",
-      "c_avi": 16.0,
-      "d_avi": 43.3,
-      "nfl_team": "DET",
-      "player_name": "Sione Vaki",
-      "position": "RB",
-      "sleeper_id": "11729",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00002359",
       "c_avi": 15.7,
       "d_avi": 37.4,
@@ -2110,18 +2134,6 @@
       "player_name": "Antonio Williams",
       "position": "RB",
       "sleeper_id": "7203",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00006803",
-      "c_avi": 0.0,
-      "d_avi": 38.6,
-      "nfl_team": "SF",
-      "player_name": "Brandon Aiyuk",
-      "position": "WR",
-      "sleeper_id": "6803",
       "status": "Active"
     },
     {
@@ -2750,8 +2762,8 @@
     }
   ],
   "counts": {
-    "available_players": 229,
-    "rostered_players": 250
+    "available_players": 230,
+    "rostered_players": 249
   },
   "rostered_players": [
     {
@@ -3057,6 +3069,22 @@
       "status": "Active",
       "team_file": "05_Northside_Kings.md",
       "team_name": "Northside Kings "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00006803",
+      "c_avi": 0.0,
+      "d_avi": 38.6,
+      "nfl_team": "SF",
+      "owner_id": "863881053000011776",
+      "player_name": "Brandon Aiyuk",
+      "position": "WR",
+      "roster_id": 9,
+      "sleeper_id": "6803",
+      "status": "Active",
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
@@ -4405,22 +4433,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00003257",
-      "c_avi": 30.8,
-      "d_avi": 57.5,
-      "nfl_team": "ARI",
-      "owner_id": "736993578450030592",
-      "player_name": "Jacoby Brissett",
-      "position": "QB",
-      "roster_id": 1,
-      "sleeper_id": "3257",
-      "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00012533",
       "c_avi": 39.1,
       "d_avi": 72.9,
@@ -5262,22 +5274,6 @@
       "position": "QB",
       "roster_id": 9,
       "sleeper_id": "1166",
-      "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00012718",
-      "c_avi": 24.2,
-      "d_avi": 50.8,
-      "nfl_team": "LAR",
-      "owner_id": "863881053000011776",
-      "player_name": "Konata Mumpfield",
-      "position": "WR",
-      "roster_id": 9,
-      "sleeper_id": "12718",
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
@@ -6181,6 +6177,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00011729",
+      "c_avi": 16.0,
+      "d_avi": 43.3,
+      "nfl_team": "DET",
+      "owner_id": "863881053000011776",
+      "player_name": "Sione Vaki",
+      "position": "RB",
+      "roster_id": 9,
+      "sleeper_id": "11729",
+      "status": "Active",
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00002449",
       "c_avi": 63.9,
       "d_avi": 74.1,
@@ -6737,22 +6749,6 @@
       "status": "Active",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00008122",
-      "c_avi": 18.7,
-      "d_avi": 46.1,
-      "nfl_team": "ARI",
-      "owner_id": "863881053000011776",
-      "player_name": "Zonovan Knight",
-      "position": "RB",
-      "roster_id": 9,
-      "sleeper_id": "8122",
-      "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
     }
   ]
 }

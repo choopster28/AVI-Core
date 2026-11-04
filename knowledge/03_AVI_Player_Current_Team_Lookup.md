@@ -156,6 +156,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 5
 - Team file: 05_Northside_Kings.md
 
+## PLAYER LOOKUP: Brandon Aiyuk
+- Player name: Brandon Aiyuk
+- Player ID: 6803
+- Position: WR
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
+
 ## PLAYER LOOKUP: Breece Hall
 - Player name: Breece Hall
 - Player ID: 8155
@@ -828,14 +836,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
 
-## PLAYER LOOKUP: Jacoby Brissett
-- Player name: Jacoby Brissett
-- Player ID: 3257
-- Position: QB
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
-
 ## PLAYER LOOKUP: Jacory Croskey-Merritt
 - Player name: Jacory Croskey-Merritt
 - Player ID: 12533
@@ -1256,14 +1256,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Kirk Cousins
 - Player ID: 1166
 - Position: QB
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
-
-## PLAYER LOOKUP: Konata Mumpfield
-- Player name: Konata Mumpfield
-- Player ID: 12718
-- Position: WR
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
@@ -1716,6 +1708,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
 
+## PLAYER LOOKUP: Sione Vaki
+- Player name: Sione Vaki
+- Player ID: 11729
+- Position: RB
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
+
 ## PLAYER LOOKUP: Stefon Diggs
 - Player name: Stefon Diggs
 - Player ID: 2449
@@ -1996,14 +1996,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
 
-## PLAYER LOOKUP: Zonovan Knight
-- Player name: Zonovan Knight
-- Player ID: 8122
-- Position: RB
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
-
 ## Available Player Board
 
 ## AVAILABLE PLAYER: Jaylin Noel
@@ -2040,6 +2032,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: TB
 - Championship AVI (C-AVI, 0-100): 30.9
 - Dynasty AVI (D-AVI, 0-100): 68.2
+- Availability: available
+
+## AVAILABLE PLAYER: Jacoby Brissett
+- Player name: Jacoby Brissett
+- Player ID: 3257
+- Position: QB
+- NFL team: ARI
+- Championship AVI (C-AVI, 0-100): 30.8
+- Dynasty AVI (D-AVI, 0-100): 57.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Mack Hollins
@@ -2355,6 +2356,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: TEN
 - Championship AVI (C-AVI, 0-100): 24.3
 - Dynasty AVI (D-AVI, 0-100): 61.8
+- Availability: available
+
+## AVAILABLE PLAYER: Konata Mumpfield
+- Player name: Konata Mumpfield
+- Player ID: 12718
+- Position: WR
+- NFL team: LAR
+- Championship AVI (C-AVI, 0-100): 24.2
+- Dynasty AVI (D-AVI, 0-100): 50.8
 - Availability: available
 
 ## AVAILABLE PLAYER: LeQuint Allen Jr.
@@ -2960,6 +2970,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 37.9
 - Availability: available
 
+## AVAILABLE PLAYER: Zonovan Knight
+- Player name: Zonovan Knight
+- Player ID: 8122
+- Position: RB
+- NFL team: ARI
+- Championship AVI (C-AVI, 0-100): 18.7
+- Dynasty AVI (D-AVI, 0-100): 46.1
+- Availability: available
+
 ## AVAILABLE PLAYER: Jordan Whittington
 - Player name: Jordan Whittington
 - Player ID: 11623
@@ -3347,15 +3366,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 31.0
 - Availability: available
 
-## AVAILABLE PLAYER: Sione Vaki
-- Player name: Sione Vaki
-- Player ID: 11729
-- Position: RB
-- NFL team: DET
-- Championship AVI (C-AVI, 0-100): 16.0
-- Dynasty AVI (D-AVI, 0-100): 43.3
-- Availability: available
-
 ## AVAILABLE PLAYER: Ameer Abdullah
 - Player name: Ameer Abdullah
 - Player ID: 2359
@@ -3588,15 +3598,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 0.0
-- Availability: available
-
-## AVAILABLE PLAYER: Brandon Aiyuk
-- Player name: Brandon Aiyuk
-- Player ID: 6803
-- Position: WR
-- NFL team: SF
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 38.6
 - Availability: available
 
 ## AVAILABLE PLAYER: CJ Daniels
