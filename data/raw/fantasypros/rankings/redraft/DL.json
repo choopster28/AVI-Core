@@ -10367,7 +10367,7 @@
     },
     {
       "cbs_player_id": "2221830",
-      "player_bye_week": "7",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "chauncey-gardner-johnson.php",
@@ -10380,7 +10380,7 @@
       "player_position_id": "S",
       "player_positions": "S",
       "player_short_name": "C.J. Gardner-Johnson",
-      "player_team_id": "BUF",
+      "player_team_id": "FA",
       "player_yahoo_id": "31937",
       "player_yahoo_positions": "DB,S",
       "pos_rank": "S39",

@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1129546394534158336
 - Division: 4
 - Waiver position: 14
-- Last updated from Sleeper exports: 2026-11-03
+- Last updated from Sleeper exports: 2026-11-04
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -32,10 +32,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Baker Mayfield | C-AVI: 28.6 | D-AVI: 66.2
 - RB: Rachaad White | C-AVI: 47.7 | D-AVI: 74.0
-- RB: Keaton Mitchell | C-AVI: 29.3 | D-AVI: 66.0
+- RB: Keaton Mitchell | C-AVI: 29.2 | D-AVI: 66.0
 - WR: Jalen Coker | C-AVI: 61.4 | D-AVI: 82.6
 - WR: Antonio Williams | C-AVI: 31.0 | D-AVI: 73.8
-- TE: Brenton Strange | C-AVI: 52.4 | D-AVI: 79.0
+- TE: Brenton Strange | C-AVI: 52.5 | D-AVI: 79.0
 - FLEX: Chig Okonkwo | C-AVI: 31.9 | D-AVI: 71.4
 - FLEX: Jauan Jennings | C-AVI: 29.4 | D-AVI: 59.9
 
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 29.3
+- Championship AVI (C-AVI, 0-100): 29.2
 - Dynasty AVI (D-AVI, 0-100): 66.0
 - Projected PPR points: 96.9
 - Category: offense
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 52.4
+- Championship AVI (C-AVI, 0-100): 52.5
 - Dynasty AVI (D-AVI, 0-100): 79.0
 - Projected PPR points: 161.0
 - Category: offense

@@ -9,24 +9,24 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 992908759074680832
 - Division: 3
 - Waiver position: 4
-- Last updated from Sleeper exports: 2026-11-03
+- Last updated from Sleeper exports: 2026-11-04
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 22
-- offense: 17
+- total_players: 21
+- offense: 16
 - kickers: 1
 - idp: 4
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 460.9
-- championship_lineup_c_avi_avg: 57.61
-- offensive_roster_c_avi_sum: 796.6
-- offensive_roster_c_avi_avg: 46.86
-- offensive_roster_d_avi_sum: 1274.3
-- offensive_roster_d_avi_avg: 74.96
+- championship_lineup_c_avi_sum: 461.0
+- championship_lineup_c_avi_avg: 57.62
+- offensive_roster_c_avi_sum: 780.2
+- offensive_roster_c_avi_avg: 48.76
+- offensive_roster_d_avi_sum: 1224.4
+- offensive_roster_d_avi_avg: 76.53
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Tony Pollard | C-AVI: 66.8 | D-AVI: 79.3
 - WR: Zay Flowers | C-AVI: 83.4 | D-AVI: 94.1
 - WR: Jaylen Waddle | C-AVI: 63.6 | D-AVI: 86.2
-- TE: Mason Taylor | C-AVI: 38.6 | D-AVI: 65.9
+- TE: Mason Taylor | C-AVI: 38.7 | D-AVI: 66.9
 - FLEX: Blake Corum | C-AVI: 54.5 | D-AVI: 79.0
 - FLEX: KC Concepcion Jr. | C-AVI: 43.8 | D-AVI: 80.8
 
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 65.0
-- Dynasty AVI (D-AVI, 0-100): 85.4
+- Championship AVI (C-AVI, 0-100): 64.9
+- Dynasty AVI (D-AVI, 0-100): 84.8
 - Projected PPR points: 326.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -73,23 +73,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 30.1
 - Dynasty AVI (D-AVI, 0-100): 64.2
 - Projected PPR points: 227.8
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Tyson Bagent
-- Player name: Tyson Bagent
-- Player ID: 11256
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: QB
-- Fantasy positions: ['QB']
-- NFL team: CHI
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 16.4
-- Dynasty AVI (D-AVI, 0-100): 47.1
-- Projected PPR points: 12.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -274,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 33.8
+- Championship AVI (C-AVI, 0-100): 34.0
 - Dynasty AVI (D-AVI, 0-100): 79.3
 - Projected PPR points: 111.0
 - Category: offense
@@ -308,8 +291,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 38.6
-- Dynasty AVI (D-AVI, 0-100): 65.9
+- Championship AVI (C-AVI, 0-100): 38.7
+- Dynasty AVI (D-AVI, 0-100): 66.9
 - Projected PPR points: 96.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -325,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 21.9
-- Dynasty AVI (D-AVI, 0-100): 65.6
+- Championship AVI (C-AVI, 0-100): 21.7
+- Dynasty AVI (D-AVI, 0-100): 62.4
 - Projected PPR points: 33.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

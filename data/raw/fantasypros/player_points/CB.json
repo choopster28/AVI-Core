@@ -3443,7 +3443,7 @@
       "player_name": "Robert Rochell",
       "points": 0,
       "position_id": "CB",
-      "team_id": "CAR",
+      "team_id": "FA",
       "weeks": {
         "4": 0,
         "6": 0,
@@ -3548,7 +3548,7 @@
       "player_name": "Kindle Vildor",
       "points": 16.25,
       "position_id": "CB",
-      "team_id": "NE",
+      "team_id": "FA",
       "weeks": {
         "4": 5.5,
         "5": 10.8,
@@ -3776,7 +3776,7 @@
       "player_name": "Jakorian Bennett",
       "points": 0,
       "position_id": "CB",
-      "team_id": "PHI",
+      "team_id": "FA",
       "weeks": {
         "6": 0
       }

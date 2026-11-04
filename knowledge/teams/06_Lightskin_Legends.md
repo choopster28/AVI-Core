@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872509429436829696
 - Division: 2
 - Waiver position: 16
-- Last updated from Sleeper exports: 2026-11-03
+- Last updated from Sleeper exports: 2026-11-04
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 498.0
-- championship_lineup_c_avi_avg: 62.25
-- offensive_roster_c_avi_sum: 780.8
-- offensive_roster_c_avi_avg: 45.93
-- offensive_roster_d_avi_sum: 1198.2
-- offensive_roster_d_avi_avg: 70.48
+- championship_lineup_c_avi_sum: 497.9
+- championship_lineup_c_avi_avg: 62.24
+- offensive_roster_c_avi_sum: 780.7
+- offensive_roster_c_avi_avg: 45.92
+- offensive_roster_d_avi_sum: 1197.2
+- offensive_roster_d_avi_avg: 70.42
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Dak Prescott | C-AVI: 71.1 | D-AVI: 80.6
 - RB: Javonte Williams | C-AVI: 80.1 | D-AVI: 89.7
-- RB: Chase Brown | C-AVI: 74.9 | D-AVI: 90.4
+- RB: Chase Brown | C-AVI: 74.9 | D-AVI: 90.1
 - WR: Parker Washington | C-AVI: 71.1 | D-AVI: 89.8
 - WR: Ladd McConkey | C-AVI: 50.0 | D-AVI: 85.2
 - TE: Kyle Pitts Sr. | C-AVI: 56.1 | D-AVI: 81.6
-- FLEX: Mike Gesicki | C-AVI: 49.0 | D-AVI: 62.9
-- FLEX: Josh Downs | C-AVI: 45.7 | D-AVI: 77.7
+- FLEX: Mike Gesicki | C-AVI: 49.0 | D-AVI: 62.4
+- FLEX: Josh Downs | C-AVI: 45.6 | D-AVI: 77.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -105,7 +105,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 74.9
-- Dynasty AVI (D-AVI, 0-100): 90.4
+- Dynasty AVI (D-AVI, 0-100): 90.1
 - Projected PPR points: 255.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -122,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 53.3
-- Dynasty AVI (D-AVI, 0-100): 82.0
+- Dynasty AVI (D-AVI, 0-100): 82.3
 - Projected PPR points: 207.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 45.7
+- Championship AVI (C-AVI, 0-100): 45.6
 - Dynasty AVI (D-AVI, 0-100): 77.7
 - Projected PPR points: 172.3
 - Category: offense
@@ -238,7 +238,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Fantasy positions: ['WR']
 - NFL team: ARI
 - Active: True
-- Status: Active
+- Status: Inactive
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 25.2
 - Dynasty AVI (D-AVI, 0-100): 46.1
@@ -292,7 +292,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 49.0
-- Dynasty AVI (D-AVI, 0-100): 62.9
+- Dynasty AVI (D-AVI, 0-100): 62.4
 - Projected PPR points: 104.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -309,7 +309,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 32.9
-- Dynasty AVI (D-AVI, 0-100): 60.7
+- Dynasty AVI (D-AVI, 0-100): 60.2
 - Projected PPR points: 85.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

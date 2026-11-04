@@ -189,9 +189,9 @@
     "sleeper_id": "12527"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "23054",
-    "match_method": "exact_name_position",
+    "match_method": "exact_name_position_unique",
     "nfl_team": "NO",
     "player_name": "Audric Estime",
     "position": "RB",
@@ -3672,9 +3672,9 @@
     "sleeper_id": "12470"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "28404",
-    "match_method": "exact_name_position",
+    "match_method": "exact_name_position_unique",
     "nfl_team": "WAS",
     "player_name": "Robert Henry Jr.",
     "position": "RB",

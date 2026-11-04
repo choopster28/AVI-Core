@@ -507,8 +507,8 @@
     "avi_id": "AVI-00011579",
     "canonical_name": "Audric Estime",
     "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
     },
     "nfl_team": "NO",
     "normalized_name": "audric estime",
@@ -9614,8 +9614,8 @@
     "avi_id": "AVI-00013418",
     "canonical_name": "Robert Henry Jr.",
     "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
     },
     "nfl_team": "WAS",
     "normalized_name": "robert henry",
