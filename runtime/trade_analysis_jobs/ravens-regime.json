@@ -1,5 +1,46 @@
 [
   {
+    "id": "mw1gkdml-3cb4229d",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "goal": "Win Championship",
+      "partnerGoal": "Retool",
+      "targetTeam": "Northside Kings",
+      "targetAssets": [
+        {
+          "name": "T.J. Hockenson",
+          "assetType": "player"
+        },
+        {
+          "name": "Sam Darnold",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Tony Pollard",
+          "assetType": "player"
+        },
+        {
+          "name": "Tyjae Spears",
+          "assetType": "player"
+        },
+        {
+          "name": "Mason Taylor",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1793756935677,
+    "updatedAt": 1793756935677,
+    "expiresAt": 1794188935677,
+    "status": "queued"
+  },
+  {
     "id": "mw189hqe-792e4fda",
     "phase": "initial",
     "mode": "propose_trade",
