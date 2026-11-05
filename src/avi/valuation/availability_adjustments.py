@@ -208,6 +208,42 @@ def _apply_projection_aware_cap(current_cavi: float, ceiling: float) -> tuple[fl
     return final, round(final - float(current_cavi), 1)
 
 
+def _ongoing_injury_risk_points(
+    player: dict[str, Any], status_reason: str,
+) -> tuple[float, int]:
+    """Bounded current-season availability risk, not a permanent injury penalty.
+
+    Prior missed games provide evidence of disruption only while a CURRENT
+    actionable injury designation persists. One missing game is conservatively
+    reserved for the NFL bye. Fully cleared players receive no risk haircut.
+    This is separate from the hard expected-absence ceiling and makes a
+    recurring/questionable player less valuable than an equally productive
+    healthy weekly starter.
+    """
+    if status_reason not in {"questionable", "doubtful", "out", "injured_reserve"}:
+        return 0.0, 0
+
+    production = player.get("in_season_player_points")
+    if not isinstance(production, dict):
+        production = {}
+    completed = _float(production.get("completed_through_week"))
+    played = _float(production.get("games"))
+    if completed is None or played is None or completed < 1:
+        return 0.0, 0
+
+    missed_beyond_bye = max(0, int(completed) - int(played) - 1)
+    # Current status matters first; repeated missed games increase uncertainty.
+    # The entire risk is capped to prevent arbitrary season-long devaluation.
+    status_risk = {
+        "questionable": 1.5,
+        "doubtful": 2.5,
+        "out": 3.0,
+        "injured_reserve": 4.0,
+    }[status_reason]
+    adjustment = min(9.0, status_risk + 1.5 * min(4, missed_beyond_bye))
+    return round(adjustment, 1), missed_beyond_bye
+
+
 def apply_injury_availability_adjustments() -> dict[str, Any]:
     if not AVI_PLAYERS_PATH.exists() or not AVI_MANIFEST_PATH.exists() or not REGISTRY_PATH.exists():
         return {"status": "skipped", "reason": "required AVI files unavailable"}
@@ -259,7 +295,13 @@ def apply_injury_availability_adjustments() -> dict[str, Any]:
             continue
 
         ceiling = _availability_ceiling(current_week, expected_missed)
-        final_cavi, delta = _apply_projection_aware_cap(base_cavi, ceiling)
+        # A pure ceiling (e.g. 97.8 for a questionable player) can leave a
+        # materially unreliable starter entirely unadjusted. Apply a bounded
+        # current-injury/recent-absence risk discount, then enforce the ceiling.
+        ongoing_risk, missed_beyond_bye = _ongoing_injury_risk_points(player, reason_code)
+        risk_adjusted = max(0.0, base_cavi - ongoing_risk)
+        final_cavi, _ = _apply_projection_aware_cap(risk_adjusted, ceiling)
+        delta = round(final_cavi - base_cavi, 1)
         status_text = _status_text(state).strip()
 
         adjustment = {
@@ -268,13 +310,15 @@ def apply_injury_availability_adjustments() -> dict[str, Any]:
             "amount": delta,
             "adjusted_c_avi": final_cavi,
             "expected_missed_weeks": round(expected_missed, 2),
+            "missed_games_beyond_bye": missed_beyond_bye,
+            "ongoing_injury_risk_points": ongoing_risk,
             "current_week": current_week,
             "championship_horizon_end_week": FANTASY_CHAMPIONSHIP_END_WEEK,
             "reason_code": reason_code,
             "status": status_text,
             "status_source": _status_source(state),
             "projection_aware": True,
-            "policy": "C-AVI is capped only when it remains above the maximum contribution implied by verified availability. If updated projections/rankings already move C-AVI below the cap, no additional injury penalty is applied.",
+            "policy": "Current verified injury designations carry a bounded risk discount based on missed 2026 games beyond one possible bye; fully cleared players have zero risk discount. An additional hard future-availability ceiling remains in force.",
         }
         player["c_avi_availability_adjustment"] = adjustment
         if delta < 0:
@@ -284,6 +328,7 @@ def apply_injury_availability_adjustments() -> dict[str, Any]:
                 components["base_c_avi_before_availability_adjustment"] = round(base_cavi, 1)
                 components["c_avi_availability_adjustment"] = delta
                 components["c_avi_availability_ceiling"] = ceiling
+                components["ongoing_injury_risk_points"] = ongoing_risk
             applied.append({
                 "avi_id": avi_id,
                 "player_name": player.get("canonical_name"),
@@ -301,7 +346,7 @@ def apply_injury_availability_adjustments() -> dict[str, Any]:
         "championship_horizon_end_week": FANTASY_CHAMPIONSHIP_END_WEEK,
         "players_evaluated": evaluated,
         "players_capped": len(applied),
-        "policy": "Projection-aware C-AVI ceiling. Updated projections/rankings get first chance to price the injury; the availability layer only caps residual overstatement and therefore does not multiply an already reduced projection.",
+        "policy": "Bounded ongoing injury-risk deduction for currently designated players (including verified missed games beyond one bye), followed by a hard ceiling for expected missed future games; cleared players receive no historical-injury discount.",
         "sources": ["Sleeper NFL player injury status", "FantasyPros injuries"],
         "source_priority": ["sleeper_actionable_designation", "fantasypros_fallback"],
     }
