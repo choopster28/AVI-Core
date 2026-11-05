@@ -1,5 +1,380 @@
 [
   {
+    "id": "mw3aedom-bc2ae0cf",
+    "createdAt": 1793867561632,
+    "expiresAt": 1794299561632,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · All Hail King Jesus ↔ Conquistadors",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Playoff Odds",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "D'Andre Swift",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Bijan Robinson",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "The proposed 1-for-1 offer sending D'Andre Swift for Bijan Robinson strongly favors All Hail King Jesus in long-term dynasty stability and ceiling, but it lacks the premium value required to induce Conquistadors—a verified 'Win Championship' contender—to move a 24-year-old foundational superstar. While Swift's recent high-volume surge gives him strong current C-AVI (87.8), Bijan Robinson's generational profile, age advantage (24 vs. 27), and consensus top-tier market standing (95.8 D-AVI) demand additional assets. AVI recommends revising the offer by sweetening the package with premium depth or draft capital to create a realistic proposal.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 87.8,
+              "davi": 89.3,
+              "publicMarket": 68.5,
+              "leagueMarket": 87.8
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Bijan Robinson",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 85.9,
+              "davi": 95.8,
+              "publicMarket": 98,
+              "leagueMarket": 85.9
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "D+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "As constructed, All Hail King Jesus gains an elite 24-year-old cornerstone in Bijan Robinson while surrendering 27-year-old D'Andre Swift. While Swift's immediate C-AVI is strong, Conquistadors takes a severe long-term dynasty hit (95.8 vs 89.3 D-AVI) and loses a consensus top-2 dynasty running back without receiving any premium sweetener or secondary asset."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "By pairing D'Andre Swift with a 2029 2nd Round Pick (or startable WR depth like Deebo Samuel Sr.), All Hail King Jesus bridges the dynasty equity gap for Conquistadors while retaining core active starters to boost 2026 playoff qualification odds."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Slight lateral current-year C-AVI swap, but elevates high-ceiling RB floor for must-win regular season games."
+            },
+            "dynastyOutlook": {
+              "score": 75,
+              "summary": "Major upgrade in age lifecycle and foundational dynasty security at running back."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Replaces Swift directly in the starting lineup with an elite dual-threat focal point."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Neutral impact on bench depth in a 1-for-1 position swap."
+            },
+            "flexibilityLiquidity": {
+              "score": 35,
+              "summary": "Gains a prime liquid asset with maximum league-wide trading value."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Improves long-term dynasty foundation and weekly ceiling at RB1 while preserving existing WR/QB core."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 5,
+              "summary": "Preserves immediate RB production via Swift's strong 2026 touch volume, but fails to raise overall title odds."
+            },
+            "dynastyOutlook": {
+              "score": -65,
+              "summary": "Significant loss in dynasty asset value and multi-year championship window."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Direct RB replacement maintains starting slot quality for the 2026 run."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Does not add supplementary starters or bench insulation."
+            },
+            "flexibilityLiquidity": {
+              "score": -45,
+              "summary": "Exchanges a premier market asset for a older backfield lead."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Surrenders a generational 24-year-old cornerstone without receiving secondary capital or tier-1 premium return."
+            }
+          },
+          "explanation": "All Hail King Jesus materially improves dynasty profile and upside with minimal current C-AVI loss. Conquistadors incurs a substantial dynasty asset downgrade that conflicts with their long-term championship dominance goals unless additional compensation is attached."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "All Hail King Jesus exchanges C-AVI 87.8 (Swift) for C-AVI 85.9 (Bijan), a minimal current-season delta (-1.9 C-AVI) that is fully offset by Bijan's superior weekly ceiling and heavy touches in Atlanta's offense.",
+          "sideADynastyImpact": "Dynasty AVI leaps from 89.3 to 95.8, securing a 24-year-old premier RB anchor for the next 3-5 seasons.",
+          "sideARosterImpact": "Maintains 8 active starter slots without disrupting the Purdy/Amon-Ra/Jefferson/Higgins core.",
+          "sideBChampionshipImpact": "Conquistadors keeps a high-volume starter in Swift (C-AVI 87.8) to pair alongside Jonathan Taylor and Breece Hall for their title defense.",
+          "sideBDynastyImpact": "Sustains a heavy D-AVI drop (95.8 down to 89.3) and increases backfield age profile.",
+          "sideBRosterImpact": "Fills mandatory RB1 slot without adding complementary FLEX or bench depth.",
+          "valueAssessment": "In pure current C-AVI index terms, the transaction is virtually equal (87.8 vs 85.9). However, consensus public market value and D-AVI heavily favor Bijan Robinson due to age, draft capital, and elite tier-1 positional insulation."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus ranks Bijan Robinson as an elite top-2 dynasty running back across KeepTradeCut and FantasyPros, whereas D'Andre Swift is valued in the RB15-RB20 range following his Chicago extension.",
+          "aviVsMarket": "AVI model reflects Swift's strong 2026 volume with an 87.8 C-AVI score, closing the current-season gap. However, public market sentiment places a massive multi-first-round premium on Bijan over Swift.",
+          "relevantContext": [
+            "Bijan Robinson is 24 years old, averaging 5.4 YPC with 80%+ backfield snap share in Atlanta.",
+            "D'Andre Swift is 27 years old, signed to a multi-year deal in Chicago with heavy recent touchdown production.",
+            "Trading for Bijan in public markets universally requires a 1st-round pick or startable player addition alongside an RB2/1."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors is a 'Win Championship' favorite. While Swift provides strong 2026 starting points, moving Bijan Robinson straight up offers no strategic incentive or surplus value for their roster.",
+          "packageFit": "A 1-for-1 player swap at the same position gives Conquistadors no added depth, positional upgrade, or draft liquidity.",
+          "lineupReplacement": "Swift directly replaces Bijan in Conquistadors' starting lineup, maintaining competitive parity for 2026 but offering zero net upgrade.",
+          "competitiveWindowFit": "Conquistadors' championship window remains open, but trading a 24-year-old foundational back for a 27-year-old back shortens their sustained dominance.",
+          "positionalScarcity": "Elite Tier-1 bellcow running backs like Bijan Robinson are extremely scarce in 16-team formats and command a premium package."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 5,
+            "packageMatch": 5,
+            "lineupReplacement": 10,
+            "competitiveWindow": 5
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 45,
+          "classification": "Unlikely",
+          "explanation": "Conquistadors will not accept a 1-for-1 lateral swap sending away a 24-year-old dynasty cornerstone without receiving secondary compensation or lineup enhancement to justify the move."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Acquiring Bijan Robinson aligns perfectly with All Hail King Jesus' goals by providing an elite, high-floor weekly RB anchor to secure playoff qualification. However, submitting a 1-for-1 offer of D'Andre Swift will be rejected by Conquistadors. Sweetening the offer with a 2029 2nd Round Pick or complementary depth creates a realistic, win-win transaction.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 87.8,
+              "davi": 89.3,
+              "publicMarket": 68.5,
+              "leagueMarket": 87.8
+            },
+            {
+              "name": "2029 Round 2 (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Bijan Robinson",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 85.9,
+              "davi": 95.8,
+              "publicMarket": 98,
+              "leagueMarket": 85.9
+            }
+          ],
+          "whyUserShouldDoIt": "Secures a elite 24-year-old centerpiece running back to push for a playoff spot without sacrificing any active starting WRs or key 2027/2028 high-round picks.",
+          "whyOpponentMightAccept": "Provides Conquistadors with an immediate high-volume RB1 replacement in Swift for their 2026 title run, while giving them future pick liquidity to make further moves."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 87.8,
+              "davi": 89.3,
+              "publicMarket": 68.5,
+              "leagueMarket": 87.8
+            },
+            {
+              "name": "Deebo Samuel Sr.",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 30,
+              "cavi": 38.4,
+              "davi": 67.7,
+              "publicMarket": 52,
+              "leagueMarket": 38.4
+            }
+          ],
+          "receive": [
+            {
+              "name": "Bijan Robinson",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 24,
+              "cavi": 85.9,
+              "davi": 95.8,
+              "publicMarket": 98,
+              "leagueMarket": 85.9
+            }
+          ],
+          "rationale": "Gives Conquistadors a usable FLEX depth option in Deebo Samuel Sr. alongside Swift, giving them net starting point additions for their championship push while All Hail King Jesus consolidation upgrades the RB1 slot."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Bijan Robinson fantasy 2026",
+          "D Andre Swift fantasy 2026",
+          "D Andre Swift news 2026",
+          "Bijan Robinson news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-1kCytNDfPVkfkmPOEPSlR99UFeX6NZbcdD2V9DCpl0nmdsZSJkJPVWWp8NJxJWkykzdk_WCcclnJCFABoQ_0Es1OYblcNZbBnazs6ywErKwIQ-r6S5W9ZC_Eer2LmUbSrSVC7hBtvzbnaS80ZHPiWHG-gtZpijkE8_9Zksu3cm5_06KBUGWVdfoVXw-cRm2up8k0XCnzrhLo",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpPrC1584rD35Y_4c1wkG6xPJlHoODwug4TdXVPR7t-__tKn2jD3Qq8_3RXTSbncKtcpIQFVH1I4VyTu6B2Sy-H7y2DnfpWZased_58g389beuslHJZ-LmQAr16bKnHq-MTNq8Ip_5aPhcjKPTwlDaoURYGEm51cLcTckGOo4sGREOWXFuDlrB7qoMqAVE0f9NqKZYKbefr_me1N34Z0Zi89bU5Aq1AmguPSptig==",
+            "title": "bloggingdirty.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF38X6u6Lu3TXq6SVFFhHi_Ypxhdgt2eHuLVVys8WDPvRFejuIuL1WdhgDb9rGKhMlOMnaVhOML2WZ_P-vocv5p20CqPIwOc0CcSBIQgsD4bcHH95CmMFoQpErNY5bwt_DzGj9OqO9sZ-3U0VnD0SCSLiVF9IHRU15gIvG7p5EtBHx50H_Tws2IyFlDrUerecWwHOAham8=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_RE3I2OzriT0UYoM6dilb4d1NScpAaoPIycj3cUZgQThKdWMHRACuNwLLM1OCYGPgNA6E6Nyu7Riv3ZgMEI5m4SjGhCzCRkWMEr3EZXB--jFOdl-hW1i3K3UEO8wG8KS5LPfmdm_0gnRXWfApRT70koKHgB4wgqTrJtUx9aUmKuIG0cjo4IwgWHso5czrLpQkohfzgGnyqn9az1i4gShgeeAFmg==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0bdDt-IDK9_IhzxL3YbdvyRhbcF0ZT8ZAt92x5fu79KME7Y_8_exRB68CGWc9ZkqY5GYanDOmpmHBnGi4Uqu_dT9s8dUBZUrKt3JJ2Pg3-Dlp_dqcadcPPhZhle1yjcep3cNGYqh_0ozoaYGyiMiN6KTeq3etJ8jIJdFFnqMlxvBgt_DByNw-toDHBQzQjvf-g0AqyAX55RvhCBDNWZ8bFI4QzEOiTSEX",
+            "title": "buccaneers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYbMSLTh7AGz_WAlIU7a1_CuRotq2iVxGLleHnE5S3klLDSN5zvVrPZ6CQpL4ilzP41HU1fCWGi9zPf7oC0wxPGsIUJIyPIt7GKWeVAGKUKzNDNrus1Kap3brbxm5kFfqM3e00Z0u4bndn3qEVkrUHeXw68xkezg==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9mg-f4blvL_xMJlh9NUOojRAqpPn5ZQXY3uF7YAnagk--Q3W9hNnu05CwEq64mp4QYzozItYqk9cJpoFp34f-IvRDa-3hJ19d5bWdGCI0JSuBKcuYt2DVBcu6MHEdrj-puSYpMopc-DBhKI-s2j3r",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNaPvv4ttJcqtoKQRBGVbc9a6sMM2_-h8b1PDLKWsTyQ_C6ArhrQucTlJtKtcw4FnCEfwH2B8qOzLtRYiRWuC3ySIcDnMxpENfJ8-Fmz1i7ag5vnNHW0lgKXfsQJs9gBUXdFxvd4XuyaygvLcEWWNfPbLCEcV_BbXFuIMel9ieZ9ec8ZRpR4owdpfzjMWx",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcF_uRUOclqocXFMifu2x_UEKL_Ia1KrpOSZXxbaQuIW5WvstZ74IUpYI6_j_s3K0QmwpvW2TZ0lt-gcTc4KU2X2w8hMxoG9EKrk7_Kb9_BXnuVMfQ1YDOAtkJmdkY6JNGGef6gggVDf62wMM7DRdmTjD8IlrPklAFw3Tf2JtT6CMVGJnq",
+            "title": "allchgo.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2NKVXRckMdG83oLan8nZMT7hFQ2qMhJxKUnmKXrXmoX2tDoqts7pt48y_HiCLiYR-ADRKjEyMLea6QH65bN2pzOQCCAJXqo2jit1RThrN8BxrMiy4T2O83Nzio5Rp-qIKftfQ7VgYWcWF8oX9uY8khDtgsEWNiQ5qqOYS7jTNmjkwmxKcPwypsUgObPszG9_bZWE4I3ESgHYxaLtJT2yIyEqiwJvlj9g=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZipZ33FPRq8D6oDKeoRhQoTrfhz_Xhs8cMc5ybAaR5hUrMbL1tngPtDYrfYhHjVE2WlvVwHbSI7mPc_LPPUNPFsjujyU0XXXzXBct64ZLV_1l1_4S_Ci2XUPNlyjJZ5xsVsIg7aUy_RqBAk60ZYO6ylUVOLl0JIbG5mPZxJXecA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZvR3BYeQnjaA0TazB4TuLCvmVim2OWVKOq8jxs7_wET65FuucB1bUeh-tVqkTmW2YGsGs6lhNu4VqscSy8broupsUdAak_tCbwomGRIytfp3ppHkd9hYCVeMsb_sEu0Zts4mcUNTNM0SrS4Y27AtQQIz1-r-Omo9AdJ_eUseZLj--aOyswbZDSkDXGOx3PZR3_z7KtCTd",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoSzg25hvXaIO-hJdW1yJgSAZ_jhSaNmFL4c_DnPgCYxEI6wrRKpm4NAUHW8m0fLa4BCUHxW6B0WEU4B5IlD2_y9bxmIx4ni6nI_IVTE4Lc5RkiQYR9Z2KwJaIhbnSPGCDoW8Ia7VW57wqV6pbjbXjVr18nE5JItjcphrQZ-G0rZum8skS1es3J62X0r5U-w==",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF54EXO7aH5nPRIsq8fDxD3E_CCEs5kmkTZG84TZP-KNk8vC0tbecMPLT0QXsXgpkSctdGp3GQGXE2R1pgvI7rgTV58FLsGwkyU2s1s1TsF44X_FNilRdh-3pltq0FB0taosqYvDPF6k3EVCb7ASPBp2xpU0Y8rifYB5Xm7INkER3-eMb4ZSIA6-pphZPaHDdHYkxf31rzerfKioiDCSK7h",
+            "title": "rotoballer.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "39acda66833538a91ac912904045477647fed700",
+        "aviCoreCommittedAt": "2026-11-05T05:54:49Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 84339,
+        "groundedMarketChars": 4381,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mvzsei0p-b769281a",
     "createdAt": 1793655943037,
     "expiresAt": 1794087943037,
