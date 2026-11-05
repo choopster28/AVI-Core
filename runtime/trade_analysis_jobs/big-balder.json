@@ -31,9 +31,373 @@
       "alternateAssets": []
     },
     "createdAt": 1793858817896,
-    "updatedAt": 1793858819858,
+    "updatedAt": 1793858909134,
     "expiresAt": 1794290817896,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (Manager Choopski) captures a premier retooling transaction by trading 27-year-old Chuba Hubbard for 26-year-old Chase Brown and a projected mid 2027 1st-round pick from Lightskin Legends (Manager MadDawgMatt). Operating under a Retool goal, Big Balder Brand sacrifices a modest current-season starting RB delta (77.8 C-AVI down to 67.4 C-AVI, -10.4 points) while securing a net +83.1 D-AVI surge and vital draft capital liquidity. Lightskin Legends receives an immediate workhorse running back who elevates their weekly scoring floor for a playoff push, though paying a 2027 1st on top of Chase Brown makes this offer a stretch for the target manager to accept without minor negotiation.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 77.8,
+              "davi": 84.5,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 67.4,
+              "davi": 88.3,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2027 1st · Lightskin · Projected Mid · original owner Lightskin Legends",
+              "assetType": "pick",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "C+",
+            "userShare": 64,
+            "otherShare": 36,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand achieves a major victory for its Retool objective. Selling Chuba Hubbard at his peak 2026 workhorse valuation extracts maximum equity, acquiring a 2027 1st-round pick (79.3 D-AVI) alongside a younger, startable PPR running back in Chase Brown (88.3 D-AVI). Lightskin Legends improves its starting RB slot by +10.4 C-AVI for a playoff push, but surrenders significant future dynasty capital relative to the upgrade magnitude."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "C+",
+            "userShare": 64,
+            "otherShare": 36,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The submitted package is strongly recommended for Big Balder Brand to execute or pursue. It perfectly serves the user's Retool goals while keeping a weekly starter in the lineup."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Minor current lineup reduction at starting RB2 (-10.4 C-AVI) moving from Hubbard to Chase Brown."
+            },
+            "dynastyOutlook": {
+              "score": 68,
+              "summary": "Significant portfolio expansion (+83.1 net D-AVI gain) by adding a 2027 1st pick and a younger pass-catching RB."
+            },
+            "lineupQuality": {
+              "score": -8,
+              "summary": "RB2 slot transitions from 77.8 C-AVI (Hubbard) to 67.4 C-AVI (Brown), maintaining a solid starting baseline."
+            },
+            "depthResilience": {
+              "score": 5,
+              "summary": "Preserves core running back depth alongside Bhayshul Tuten and bench upside pieces."
+            },
+            "flexibilityLiquidity": {
+              "score": 85,
+              "summary": "Acquiring a projected mid 2027 1st-round pick dramatically expands trade-market flexibility and draft capital."
+            },
+            "overall": {
+              "score": 28,
+              "summary": "Major net positive overall outcome, adding premium 2027 1st draft capital and younger talent while retaining starting RB viability."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 28,
+              "summary": "Upgrades RB2 from Chase Brown (67.4 C-AVI) to Chuba Hubbard (77.8 C-AVI), raising weekly scoring consistency."
+            },
+            "dynastyOutlook": {
+              "score": -45,
+              "summary": "Parting with a 2027 1st (79.3 D-AVI) and Chase Brown (88.3 D-AVI) for Chuba Hubbard (84.5 D-AVI) creates a substantial long-term value deficit."
+            },
+            "lineupQuality": {
+              "score": 28,
+              "summary": "Directly boosts starting lineup production by +10.4 C-AVI in a key mandatory slot."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "1-for-1 player swap leaves overall roster depth and position counts unchanged."
+            },
+            "flexibilityLiquidity": {
+              "score": -50,
+              "summary": "Surrenders a premium 2027 1st-round pick, limiting future trade optionality."
+            },
+            "overall": {
+              "score": -28,
+              "summary": "Sacrifices long-term dynasty value to secure an immediate starting lineup upgrade for the postseason push."
+            }
+          },
+          "explanation": "Big Balder Brand secures substantial dynasty appreciation and draft flexibility aligned with a Retool goal, while Lightskin Legends exchanges future assets for an immediate starting lineup upgrade to boost playoff odds."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand experiences a minor C-AVI drop at RB2 from 77.8 to 67.4 (-10.4 points) moving from Hubbard to Chase Brown. However, Brown remains a dependable weekly starter alongside Bhayshul Tuten.",
+          "sideADynastyImpact": "Dynasty AVI expands significantly. Exchanging Hubbard (84.5 D-AVI) for Chase Brown (88.3 D-AVI) and a 2027 1st (79.3 D-AVI) yields a net gain of +83.1 D-AVI points.",
+          "sideARosterImpact": "Roster balance is maintained with 18 offensive assets retained, converting a 27-year-old workhorse back into a younger pass-catcher and premium draft capital.",
+          "sideBChampionshipImpact": "Lightskin Legends elevates starting RB2 from 67.4 C-AVI to 77.8 C-AVI (+10.4 points), raising weekly floor and touchdown potential for essential regular-season matchups.",
+          "sideBDynastyImpact": "Lightskin Legends absorbs a long-term dynasty hit by parting with a 2027 1st (79.3 D-AVI) and Chase Brown (88.3 D-AVI) to acquire Chuba Hubbard (84.5 D-AVI).",
+          "sideBRosterImpact": "Fills immediate starting RB urgency, consolidating future draft capital into proven 2026 weekly volume.",
+          "valueAssessment": "Transaction heavily favors Big Balder Brand on long-term dynasty balance (+83.1 net D-AVI) while delivering targeted current-season starter help for Lightskin Legends."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market sentiment views Chuba Hubbard as a high-volume RB1/RB2 operating under a lucrative contract extension, creating an ideal sell-high environment for retooling rosters. Chase Brown retains high PPR pass-game utility, and pairing him with a 2027 1st represents an advantageous return for Hubbard.",
+          "aviVsMarket": "AVI grades Chase Brown (88.3 D-AVI) slightly higher than Hubbard in long-term dynasty due to age and receiving role, whereas redraft and win-now market consensus favors Hubbard's 2026 touch share (77.8 C-AVI vs 67.4 C-AVI).",
+          "relevantContext": [
+            "Chuba Hubbard is under contract with Carolina through 2028 with ~$15M guaranteed, securing his volume.",
+            "Chase Brown maintains a strong pass-catching floor in Cincinnati's high-powered passing attack.",
+            "2027 1st-round picks hold premium liquidity and purchasing power in 16-team league structures."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Lightskin Legends is aiming to Increase Playoff Odds. Upgrading starting RB2 from Chase Brown (67.4 C-AVI) to Chuba Hubbard (77.8 C-AVI) provides the weekly scoring floor required to compete for a postseason spot.",
+          "packageFit": "The package addresses Lightskin Legends' need for a high-volume starting RB while delivering Big Balder Brand the exact assets required for a Retool (younger starter + premium draft pick).",
+          "lineupReplacement": "Lightskin Legends directly replaces Chase Brown with Chuba Hubbard in their starting RB2 slot.",
+          "competitiveWindowFit": "Matches Lightskin Legends' push to qualify for the 2026 playoffs while extending Big Balder Brand's multi-year retooling window.",
+          "positionalScarcity": "Workhorse running backs command premium value in 16-team formats, especially for teams battling on the playoff bubble."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 14,
+            "packageMatch": 8,
+            "lineupReplacement": 15,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 75,
+          "classification": "Realistic",
+          "explanation": "Lightskin Legends gains an immediate RB2 upgrade (+10.4 C-AVI) to aid their playoff push. However, surrendering both Chase Brown and a 2027 1st-round pick represents a steep price for Chuba Hubbard, making this deal a stretch to pass without minor concession."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "This deal is an outstanding strategic move for Big Balder Brand. Trading Chuba Hubbard for Chase Brown and a 2027 1st pick perfectly executes your Retool objective by securing a premium 1st-round asset and a younger RB while taking only a minimal starting lineup reduction.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 77.8,
+              "davi": 84.5,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            }
+          ],
+          "receive": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 67.4,
+              "davi": 88.3,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2027 1st · Lightskin · Projected Mid · original owner Lightskin Legends",
+              "assetType": "pick",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "whyUserShouldDoIt": "You capitalize on Chuba Hubbard's peak 2026 touch volume to acquire a 2027 1st-round pick while maintaining starting RB production in Chase Brown to advance your Retool.",
+          "whyOpponentMightAccept": "Lightskin Legends gains an immediate workhorse RB in Chuba Hubbard (+10.4 C-AVI upgrade) to elevate weekly floor and secure a 2026 playoff berth."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 77.8,
+              "davi": 84.5,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            },
+            {
+              "name": "2028 Round 3 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": "RB",
+              "age": 26,
+              "cavi": 67.4,
+              "davi": 88.3,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2027 1st · Lightskin · Projected Mid · original owner Lightskin Legends",
+              "assetType": "pick",
+              "owner": "Lightskin Legends ✊🏽",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "rationale": "Including a 2028 3rd-round pick provides Lightskin Legends minor draft feedback, smoothing over the 1st-round cost gap and raising trade completion probability."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Chase Brown stats contract NFL 2025 2026",
+          "Chuba Hubbard stats contract NFL 2025 2026",
+          "Chuba Hubbard news 2026 fantasy football",
+          "Chase Brown news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnXJzGvoBO76av7o3QwYGTbAW9JCcLYSSFzBo_XqOhS3OpgrZz_chfgelofOgvQ1o9L97jvaGZSI2QOLr4v5FELPQs9CnjmRmuB-QVUuKS0RFDk5ngBlgbIwW9o6eJdU8iRVNb7FJZfpAhw7tA-ab9cg2w_hcN",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn5ZcULhF0SUf4O5JF4WKL7XouKmimPtMGgbdosuHa7BWTMW-2mjeXpUjW17AYKEjLPplNsSX2VxEGeRp3x_zohpc59lddVeB2dzebvc40iAXsXdzNf1Vww781-b5bLpq6VvWYRbM0TSGSTcsiojd7jHyWQvycVQF2CmLTxYHgYJxPvMm0UeC6",
+            "title": "fieldlevelmedia.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFejO_ByPaDV5iqftUp5iU1K8EmsL0CGlD1Kye9S0LJ13oiJYKSFO9gVwaQeyLZj4rnXPAs7hBDlSJ_g46cpDcBBzJgHplr-elQm4DVKVssQNpaJdLz_EMfrstLd8849by",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVh0aD2oeR4CB5f-ePMJXSNPZlLh9le1pQQ3OEf1wJL9mrZDib-pjiM0BKsLvZ2Kfp31ELvYrJEhvQz-pDiD2HHTXA2voUQt5u8YndUU4nfkfryE-0T-UyhUCxAXXFwMfWBJgAvUOXpy7c4Q0UrxwPkculj9mKWg==",
+            "title": "panthers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIQz-aH-VsYuxV0sgRv5wZbkQNEb68jIAbAlfxbrIEX1PG0G74oLnYAaZ91lGrycOBsJnNLY9vFr671J353hv3diwtDcsVQMSZ4wPoljfMNGUaTMeCLpOvcsS04bbwnyGiSke58j4Ut2ZCjPD8",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0y-OS_onpbmT5y_OMLf9h6rV9_rxhuojLz-soMH-6ehrFmJmT2rRvk06izm3TL7qqEDkkC2TtiKPGCCRBiegFQQKAL3fvWMJSlZ3mzcZVHIzKRmifpqQgcg752-7PeSWQRXewji__tw==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh6OC5QmJOOee8PMdpPItZwrNx9q_I4nzpki7fv2g3VjRP1JxFnkEtr3N1Q9-iuYBRBpkxv4JrfDA0zQklpdQH4hz1gIF-v0DvkC9FZPW_A1jnQag9nkkQMorbFMMO3fJr00o4M92_GCZ8phaJVQhxs1o4c3YNbnydOsiOCDN-RXB-wELYpemk",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl6847yEpnG6DZNx1TTCvu2GDInAEHxo-pUKFxIE9BO7sRJz0pLNlo5vxLvw1_pH6aMIM2VGeKWLuC28Lso3JQcz6t6nw0hHkxewO5UPZBqPmDjH8f1oPEYRbVB0gTTV9IDWQLpdhFgbHMERRi1w==",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj_4qYJhjRS702rFJpT5e4f3Qchyo9mC9CO57UK7Z6GUwNS23tNmf1Dm4vrG1ufab-28ZvKkmyAReak79dOSzzhcCM_EldB3SNgwYbAUCcErHwvoLYSqzS5OAsfYrXYyLVTC1rpgkOj9uOJjuDL_86jrRS2WNbKk69plw3yUgZvCCN1oedvJOoembQ7Qg=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsnplxmT0lgfi5tPRqO0Cx9sqbnY8_UsNBybOY7TxuyGTc_um98znVvBiuj7hCJqVjdAa1wyd3jNCQ_k5XgKH5QY7g9fBKPDuz533a2zNjmEUoNNI9rmq0U3lvcs5Xycx-sycAqbOO56_8CRpR",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0EOkJApA-gpinLfSZvlUnQAXJex4UTDrKcCQQyOsvbpdoXLFhrHcdoUCUnyn6L6ddM_x26L55pd6tt_iNA8RYKtStVBfHDvHe0veZvUT-IfZ3Rk8P_C2OjzZH3tJ87nvIYMSMmLJcac8wyryejFWdccyQul8L2AAhgrtGvIG4wjKt-4zjH_2gMjRGo9pDGGFutk5h_cYuLBAzsk7U",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH62LG0OJTvFk8226VuoRh-n1EXBbvSItZNyyAaOHykZWLyYIanPRFl76-UwxNcoVTeNFiJ1UE-NfMm-0z5USQDI3PbTocl5vctFf6ZzlI2vebBIfSakiWfJgz1fDEaZzFtSETazKBxNftDDfWPNSim0YMmhQ==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGueABVN7H8ya3wo3xETS3tYSqWU4-0FREAz5PIoLl0tmaZ0DLyU11SdUomljQ5pGZy0E9lFDMLSp6zLvpyZ1_hyzL1RUziCGx3VTuHaHue19baP2knbxuYrfF3zWaT3fu7b-yhZXuglbm6XMNHYSt9",
+            "title": "rotowire.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "39acda66833538a91ac912904045477647fed700",
+        "aviCoreCommittedAt": "2026-11-05T05:54:49Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 89252,
+        "groundedMarketChars": 2928,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": true
+      }
+    }
   },
   {
     "id": "mw34zgk4-762d3f58",
