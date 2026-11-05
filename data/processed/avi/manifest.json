@@ -1,11 +1,11 @@
 {
-  "c_avi_weight_policy": "In-season production weight rises from 40% to 60% between weeks 2 and 8; full-season projections fade from 25% to 15% and market consensus from 15% to 5%. The phase-in is capped by each player's observed-game sample (plus one bye week); lineup availability adjusts separately.",
+  "c_avi_weight_policy": "Actual in-season production remains at 40% of C-AVI, forward projections at 25%, public market at 15%, league context at 10%, and demonstrated elite upside at 10%. Observed-game reliability and injury availability are applied separately.",
   "c_avi_weights": {
     "elite_upside": 0.1,
     "league_context": 0.1,
-    "player_points": 0.6,
-    "projections": 0.15,
-    "public_market": 0.05
+    "player_points": 0.4,
+    "projections": 0.25,
+    "public_market": 0.15
   },
   "d_avi_missing_component_policy": "Redistribute missing optional component weights proportionally across verified components.",
   "d_avi_weights": {
@@ -17,12 +17,13 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-11-05T05:53:56.349007+00:00",
+  "generated_at_utc": "2026-11-05T10:28:32.883826+00:00",
   "in_season_transition": {
     "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     "completed_through_week": 8,
     "completion_sources": [
-      "previous verified manifest (offline)"
+      "Sleeper NFL state",
+      "ESPN NFL scoreboard"
     ],
     "current_week_schedule_complete": null,
     "fantasypros_max_observed_week": 8,
