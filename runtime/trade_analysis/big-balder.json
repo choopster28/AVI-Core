@@ -1,5 +1,327 @@
 [
   {
+    "id": "mw34xs7w-ee704477",
+    "createdAt": 1793858352222,
+    "expiresAt": 1794290352222,
+    "mode": "propose_trade",
+    "title": "Final Build Offer · Big Balder Brand ↔ Lightskin Legends",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Lightskin Legends",
+      "targetAssets": [
+        {
+          "name": "Chase Brown",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [],
+      "personalContext": "Chase Brown is a bio candidate, his production. This year has been really bad. Hubbard has been an incredibly productive running back this year quarter any top 10 option at the position. Wide receiver is also something that light skin is struggling with and I am trying to buy low on Chase Brown going into next year because my season is over this year. I would prefer to hold onto Hubbard."
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand intends to retool for next year while preserving productive veteran assets like Chuba Hubbard. Based on personal context, the user wants to buy low on Chase Brown without giving up Hubbard, targeting a discount package that addresses Lightskin Legends' need for wide receiver depth.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Chris Godwin Jr.",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 23.7,
+              "davi": 69.7,
+              "publicMarket": 25,
+              "leagueMarket": 25
+            },
+            {
+              "name": "2028 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends",
+              "position": "RB",
+              "age": 26,
+              "cavi": 67.4,
+              "davi": 88.3,
+              "publicMarket": 75,
+              "leagueMarket": 75
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The user acquires buy-low target Chase Brown using a veteran WR and future draft capital, protecting Chuba Hubbard as requested."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Constructed to fulfill the user's personal preference to retain Chuba Hubbard while addressing Lightskin Legends' wide receiver needs."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 20,
+              "summary": "Successfully acquires a younger asset in Chase Brown while keeping Chuba Hubbard and moving surplus veteran WR depth."
+            },
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Sacrifices immediate redraft points since the user's season is already focused on next year."
+            },
+            "dynastyOutlook": {
+              "score": 25,
+              "summary": "Adds a high-upside young pass-catching back at a discount."
+            },
+            "lineupQuality": {
+              "score": -5,
+              "summary": "Minor short-term dip in depth."
+            },
+            "depthResilience": {
+              "score": 5,
+              "summary": "Retains core backfield pieces."
+            },
+            "flexibilityLiquidity": {
+              "score": 15,
+              "summary": "Preserves foundational assets while capitalizing on buy-low windows."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 5,
+              "summary": "Acquires immediate win-now veteran pass-catcher help to bolster their playoff push."
+            },
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Adds starting-caliber production at wide receiver to help qualification odds."
+            },
+            "dynastyOutlook": {
+              "score": -5,
+              "summary": "Trades away a young RB piece for a 30-year-old receiver and a distant pick."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Helps fill a depleted WR group."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Neutral impact on overall roster depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 5,
+              "summary": "Adds a 2028 2nd-round pick."
+            }
+          },
+          "explanation": "Reflects the user's personal context: keeping Chuba Hubbard, acquiring Chase Brown as a buy-low target, and utilizing a productive veteran wide receiver to help Lightskin Legends' playoff push."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Accepts a short-term hit to focus entirely on next year's retooling phase.",
+          "sideADynastyImpact": "Successfully secures Chase Brown (88.3 D-AVI) at a reduced cost without moving Chuba Hubbard.",
+          "sideARosterImpact": "Strengthens the long-term running back core while retaining veteran depth.",
+          "sideBChampionshipImpact": "Adds Chris Godwin Jr. to help solve their current wide receiver struggles during a playoff push.",
+          "sideBDynastyImpact": "Trades a young RB for a veteran piece and a future pick, aligning with a win-now posture.",
+          "sideBRosterImpact": "Fills an immediate lineup need at wide receiver.",
+          "valueAssessment": "The package balances Lightskin Legends' need for immediate WR help with Big Balder Brand's desire to buy low on Chase Brown."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Chase Brown's public market value has dipped slightly due to inconsistent production, creating a textbook buy-low window for rebuilding or retooling managers.",
+          "aviVsMarket": "Aligns with public sentiment that Brown is an ideal buy-low target for the upcoming season.",
+          "relevantContext": [
+            "User's season is effectively over, focusing asset acquisition on 2027 and beyond.",
+            "Lightskin Legends needs immediate receiving help."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Lightskin Legends needs wide receiver help for their playoff push and can cash in on Chase Brown's compressed value.",
+          "packageFit": "Exchanges a struggling RB asset for a win-now WR and draft capital.",
+          "lineupReplacement": "Godwin provides immediate starting production for Lightskin Legends.",
+          "competitiveWindowFit": "Fits Lightskin Legends' playoff push while servicing Big Balder Brand's retool window.",
+          "positionalScarcity": "High-volume pass-catching backs remain valuable in PPR formats."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 20,
+            "packageMatch": 16,
+            "lineupReplacement": 12,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 75,
+          "classification": "Realistic",
+          "explanation": "Offering Chris Godwin Jr. and a future pick gives Lightskin Legends immediate playoff-push production at a position of need while allowing Big Balder Brand to acquire Chase Brown cheaply."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Successfully implements the user's personal context by keeping Chuba Hubbard, exploiting Chase Brown's buy-low window, and targeting Lightskin Legends' need for a wide receiver.",
+          "confidence": "Medium"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Chris Godwin Jr.",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 23.7,
+              "davi": 69.7,
+              "publicMarket": 25,
+              "leagueMarket": 25
+            },
+            {
+              "name": "2028 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Chase Brown",
+              "assetType": "player",
+              "owner": "Lightskin Legends",
+              "position": "RB",
+              "age": 26,
+              "cavi": 67.4,
+              "davi": 88.3,
+              "publicMarket": 75,
+              "leagueMarket": 75
+            }
+          ],
+          "whyUserShouldDoIt": "You retain Chuba Hubbard and buy low on Chase Brown for next year by moving surplus veteran receiver depth and a future pick.",
+          "whyOpponentMightAccept": "Lightskin Legends gets much-needed veteran wide receiver help for their playoff push."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Considered the user's desire to hold onto Chuba Hubbard, target Chase Brown as a buy-low asset because of a down year, focus on next season since the current year is lost, and exploit Lightskin Legends' need for wide receiver help by offering Chris Godwin Jr. and a pick."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Chase Brown contract fantasy outlook 2026",
+          "Chase Brown NFL 2026 stats news injury"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLsX9flayrH2vXELgUuhiAAWlq-m38JgVHLdyd2yBTNWvBePVUso33Btqt_LRlkgsS_fDWkVjzLcC7zRbb_4cBrcHbOaqqgtQd99BpavkgP7dAKYDG6UhFNNMkSVR_Mkfk6QNQvS_e0xu7b0ecdCKB",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqNfzmOGy5ArE8Rsu7L-x9F3YeI4AZ6yhhDzmJahkbjBBVVlF8UEc8k-SO6qgIDD7bo5jtia3B-6djoBYkyMrJ6Hob8hV5bEfPsgX3thCBJVNZqrOCPtFaspxxyW3u5dxTRdrOT-g=",
+            "title": "sleeper.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyqqmZnH5xf7WHVYFfZwSwK2iB8tBte_zzs_hWWO9GUfgJA2LIPjLqKPI7t0nt5LrQQX6LuU26QQt3rbLWH6WrHHihopbBQ6WDUNu_y1taqpHTrntlK3mzoWiWjrcVXSUtbmfe8yvYdE-4XTaf82-ioR_Six4r",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvN_upIAOXVDfXq9Pi4NqX0Oac4AsNgWAktQFvd3fNWbMnH9DqzsLrnJsgutTYdngtKJcj0hRVLegAhmw98inLaNCO_KJx_bBKV4aL-yLDaCDbsVPLvYLszbWKSMQhxo0ppf_JYgP7AGguCg==",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Jd6aTKJNhdrXpcVrfilNkjUrZXgAYuMjMBMDqX9xHWhPpzrFCLMjzeLTrQNszbFh0QS3ciT-Dj9MWfahuw2Y1pB9lbkYIaPoynokxqpn7HDoJFokBe95BlVwqrjTgN2egq6EJJFbHdxOP6kKZg==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9-_MSCASwoe4lP4muUyN9eRK0tBmunijhbXtzUFsgwMbNAbK4f3T5EwDO2SaV3CSwOHlRw-B3wDMIsZ1pXUF6FN4aRyV-ABkWAaJz4QWcg2KIqhbHwjKxtyjy19wlLQeROwmxm7HcTQj5s4Ar",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAYCUkHDaGfxfceLiWQWwxwgNfzgUFkz4CQYfke7QwWMcewYntcU_At99qGBe2J5mEsbK7HThlfmKi97cNtvtPt1hg51lQtxnsWgvRlPrLkgfpNQOMbAnCjGgpui9JpB9lTQCqZL_faOwj6xZgWaA4yIYE7saJaQ2JYw==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTaM5uowx0CdcNv29NEYyffAvVREB6Bhwr5Be-kzlqELKzwCLs_8DWafp5J7jxKyuSwhWp-m2z4SKAzZTV9CCZrrpSWV7l-mA_tLHuSaEC1O3ptYoucVUkPYT0ZI_wb_b5A8Jz8wf88zxzKmhvt1htCY25VNOEog7tzIFMzxUwtLIlj9_wezY=",
+            "title": "bettoringreen.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Vo0ACHchE__orF34woJhWjuBbZmtiXF_yuNOrpdMe8nJpAz9s2SOAslytFjK5AG_Rl1QZjaQFSO3a4gZAzzuvAUTUXvk1rpC5Y46qzhvjop4IeOdQOCMXax-CpZyBWiH6hviVGMy-IqazQ9ceBfIDbUe40gLbHAarLsUrQ4ned9t8iJIgVWbCYQn-y44R4QnRajzja2gNWV9arkmz4Q0TRb4AQCPpTqFXfPV56VOjBGYUA==",
+            "title": "draftsharks.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "39acda66833538a91ac912904045477647fed700",
+        "aviCoreCommittedAt": "2026-11-05T05:54:49Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 88710,
+        "groundedMarketChars": 2098,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mw34tq0r-6700f288",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "39acda66833538a91ac912904045477647fed700"
+      }
+    }
+  },
+  {
     "id": "mw34tq0r-6700f288",
     "createdAt": 1793858199000,
     "expiresAt": 1794290199000,
