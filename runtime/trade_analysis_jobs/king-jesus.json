@@ -1,5 +1,42 @@
 [
   {
+    "id": "mw41q1gj-7103d3ab",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Playoff Odds",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Derrick Henry",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 4th · Ravens · Projected Mid · original owner Ravens Regime",
+          "assetType": "pick"
+        },
+        {
+          "name": "2029 2nd · Ravens · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Bryce Young",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1793913404131,
+    "updatedAt": 1793913404131,
+    "expiresAt": 1794345404131,
+    "status": "queued"
+  },
+  {
     "id": "mw3aedom-bc2ae0cf",
     "phase": "initial",
     "mode": "analyze_trade",
