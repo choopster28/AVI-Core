@@ -27,9 +27,10 @@
       "alternateAssets": []
     },
     "createdAt": 1793867367105,
-    "updatedAt": 1793867369056,
+    "updatedAt": 1793867370365,
     "expiresAt": 1794299367105,
-    "status": "running"
+    "status": "failed",
+    "error": "[object Object]"
   },
   {
     "id": "mw36x7a2-6681694c",
