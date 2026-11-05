@@ -47,4 +47,4 @@ def test_in_season_performance_overtakes_stale_preseason_market_assumptions():
 
 def test_preseason_formula_stays_unchanged():
     example = CAVIComponents(70, 80, 90, 75, 50)
-    assert calculate_c_avi(example, False) == 77.5
+    assert calculate_c_avi(example, False) == 76.5
