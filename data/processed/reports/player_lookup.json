@@ -747,6 +747,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00012482",
+      "c_avi": 22.2,
+      "d_avi": 44.3,
+      "nfl_team": "GB",
+      "player_name": "Savion Williams",
+      "position": "WR",
+      "sleeper_id": "12482",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00007694",
       "c_avi": 22.2,
       "d_avi": 45.8,
@@ -1366,18 +1378,6 @@
       "player_name": "Tutu Atwell",
       "position": "WR",
       "sleeper_id": "7562",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00012491",
-      "c_avi": 18.3,
-      "d_avi": 45.4,
-      "nfl_team": "NE",
-      "player_name": "Corey Kiner",
-      "position": "RB",
-      "sleeper_id": "12491",
       "status": "Active"
     },
     {
@@ -3533,6 +3533,22 @@
       "status": "Active",
       "team_file": "10_SmokyValleyWheatWarriors.md",
       "team_name": "SmokyValleyWheatWarriors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00012491",
+      "c_avi": 18.3,
+      "d_avi": 45.4,
+      "nfl_team": "NE",
+      "owner_id": "986498458162970624",
+      "player_name": "Corey Kiner",
+      "position": "RB",
+      "roster_id": 11,
+      "sleeper_id": "12491",
+      "status": "Active",
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,
@@ -6138,22 +6154,6 @@
       "position": "RB",
       "roster_id": 11,
       "sleeper_id": "4866",
-      "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00012482",
-      "c_avi": 22.2,
-      "d_avi": 44.3,
-      "nfl_team": "GB",
-      "owner_id": "986498458162970624",
-      "player_name": "Savion Williams",
-      "position": "WR",
-      "roster_id": 11,
-      "sleeper_id": "12482",
       "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
