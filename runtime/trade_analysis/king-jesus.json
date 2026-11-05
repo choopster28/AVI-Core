@@ -1,5 +1,435 @@
 [
   {
+    "id": "mw41q1gj-7103d3ab",
+    "createdAt": 1793913470683,
+    "expiresAt": 1794345470683,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · All Hail King Jesus ↔ Ravens Regime",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Playoff Odds",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Derrick Henry",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 4th · Ravens · Projected Mid · original owner Ravens Regime",
+          "assetType": "pick"
+        },
+        {
+          "name": "2029 2nd · Ravens · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Bryce Young",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "All Hail King Jesus seeks to Increase Playoff Odds by targeting Derrick Henry, a move that would immediately fix a major RB2 lineup weakness (upgrading from Kimani Vidal's 29.4 C-AVI to Henry's 80.0 C-AVI). However, offering Bryce Young alone while asking for Henry plus a 2029 2nd and 2027 4th is completely unviable for Ravens Regime, whose explicit goal is Win Championship. Trading away their top starting running back and draft capital for a backup quarterback severely damages Ravens Regime's title window. To make this deal realistic for both front offices, All Hail King Jesus must revise the proposal by adding a high-end starter such as Tee Higgins to provide Ravens Regime with crucial WR1 production for their championship push.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Bryce Young",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "QB",
+              "age": 25,
+              "cavi": 50.9,
+              "davi": 69.6,
+              "publicMarket": 55,
+              "leagueMarket": 50.9
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 80,
+              "davi": 87.8,
+              "publicMarket": 68,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2027 4th · Ravens · Projected Mid · original owner Ravens Regime",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 5,
+              "leagueMarket": 0
+            },
+            {
+              "name": "2029 2nd · Ravens · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A+",
+            "otherGrade": "F",
+            "userShare": 85,
+            "otherShare": 15,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "The submitted proposal of Bryce Young for Derrick Henry, a 2029 2nd, and a 2027 4th is an extreme win for All Hail King Jesus but completely non-viable for Ravens Regime. Ravens Regime, aiming to Win Championship, loses its premier starting running back while giving up draft capital for a backup quarterback who does not enter their starting lineup."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "By adding Tee Higgins to Bryce Young on the send side, All Hail King Jesus provides Ravens Regime with a premier WR1 upgrade (91.7 C-AVI) to replace lost offense while acquiring Derrick Henry to solve its own RB2 crisis and boosting immediate playoff odds."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 65,
+              "summary": "Substantially improves immediate starting lineup floor by securing elite RB production in Derrick Henry."
+            },
+            "championshipOutlook": {
+              "score": 60,
+              "summary": "Dramatically fixes RB2 slot, elevating weekly projection and playoff qualification chances."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Surrenders young wide receiver talent and quarterback depth for an aging elite running back."
+            },
+            "lineupQuality": {
+              "score": 75,
+              "summary": "Upgrades RB2 from Kimani Vidal (29.4 C-AVI) to Derrick Henry (80.0 C-AVI)."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Slight reduction in QB depth behind Brock Purdy."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Acquires future 2029 2nd round pick liquidity."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -70,
+              "summary": "In the submitted offer, loses core RB starter and draft capital for unneeded QB depth."
+            },
+            "championshipOutlook": {
+              "score": -80,
+              "summary": "Devastates current-season championship ceiling by removing RB1 Derrick Henry without adequate lineup replacement."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Acquires younger QB asset in Bryce Young."
+            },
+            "lineupQuality": {
+              "score": -75,
+              "summary": "Creates a massive hole at RB2/FLEX in starting lineup."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Depletes starting running back rotation."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Surrenders 2029 2nd and 2027 4th draft picks."
+            }
+          },
+          "explanation": "The submitted proposal heavily favors All Hail King Jesus at the severe expense of Ravens Regime's championship aspirations."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Derrick Henry brings 80.0 C-AVI to All Hail King Jesus, replacing Kimani Vidal (29.4 C-AVI) in the starting lineup and boosting weekly projection by +50.6 C-AVI points.",
+          "sideADynastyImpact": "Trading Bryce Young (69.6 D-AVI) for Derrick Henry (87.8 D-AVI) and a 2029 2nd (48.5 D-AVI) preserves dynasty equity while addressing immediate needs.",
+          "sideARosterImpact": "Converts backup QB depth into immediate RB1 starting output, perfectly matching the Increase Playoff Odds objective.",
+          "sideBChampionshipImpact": "Ravens Regime loses 80.0 C-AVI in Derrick Henry, forcing Blake Corum (54.5 C-AVI) or Kyle Monangai (52.5 C-AVI) into a starting role and severely weakening its title defense.",
+          "sideBDynastyImpact": "Gains Bryce Young (25yo QB, 69.6 D-AVI) but surrenders 2029 2nd round draft pick and top offensive weapon.",
+          "sideBRosterImpact": "Leaves Ravens Regime thin at running back while adding a backup QB behind Lamar Jackson in a 1QB format.",
+          "valueAssessment": "Total C-AVI transferred to All Hail King Jesus is 128.5 against 50.9 sent, creating a massive +77.6 C-AVI disparity."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Derrick Henry remains a high-end RB1/2 producer in 2026 averaging ~17.1 PPR PPG with elite red-zone volume, though Lamar Jackson's thumb injury presents temporary offensive headwinds. Bryce Young holds modest dynasty value as a 25-year-old starter in Carolina.",
+          "aviVsMarket": "Public market consensus views Henry as an elite win-now rental (RB12-16 ROS) and Young as a low-end QB2 in 1QB leagues, making a 1-for-1 or Young-for-Henry+picks swap completely unworkable in consensus market.",
+          "relevantContext": [
+            "Derrick Henry has 8 rushing touchdowns through 8 games in 2026 with 41 red-zone opportunities.",
+            "Lamar Jackson is currently sidelined with a thumb injury, impacting Baltimore's overall offensive volume.",
+            "1QB league dynamics make backup QBs like Bryce Young low-value assets relative to starting RB1s."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime has an explicit partnerGoal of Win Championship. They have zero incentive to surrender their top running back and draft capital for a backup quarterback.",
+          "packageFit": "Poor fit for Ravens Regime as submitted. Bryce Young does not solve any starting lineup problem for a championship contender in a 16-team 1QB format.",
+          "lineupReplacement": "Fails completely. Ravens Regime cannot replace Derrick Henry's 80.0 C-AVI internally without creating a substantial starting lineup deficit.",
+          "competitiveWindowFit": "Directly conflicts with Ravens Regime's championship window by weakening their active roster.",
+          "positionalScarcity": "Running back depth and elite weekly volume are scarce in a 16-team league, amplifying Henry's value to a contender."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 0,
+            "packageMatch": 5,
+            "lineupReplacement": 0,
+            "competitiveWindow": 0
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 20,
+          "classification": "Impossible",
+          "explanation": "The submitted offer fails 4 out of 5 Market Reality validations. Ravens Regime will not trade their starting RB1 and draft picks for a backup QB while competing for a championship."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Best-effort offer (not validated as realistic; 20% estimated acceptance): The submitted offer fails 4 out of 5 Market Reality validations. Ravens Regime will not trade their starting RB1 and draft picks for a backup QB while competing for a championship.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Bryce Young",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "QB",
+              "age": 25,
+              "cavi": 50.9,
+              "davi": 69.6,
+              "publicMarket": 55,
+              "leagueMarket": 50.9
+            },
+            {
+              "name": "Tee Higgins",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 27,
+              "cavi": 91.7,
+              "davi": 92.2,
+              "publicMarket": 88,
+              "leagueMarket": 91.7
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 80,
+              "davi": 87.8,
+              "publicMarket": 68,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2027 4th · Ravens · Projected Mid · original owner Ravens Regime",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 5,
+              "leagueMarket": 0
+            },
+            {
+              "name": "2029 2nd · Ravens · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "whyUserShouldDoIt": "Upgrades RB2 dramatically from Kimani Vidal (29.4 C-AVI) to Derrick Henry (80.0 C-AVI) while preserving elite WR starters in Amon-Ra St. Brown and Justin Jefferson, directly increasing weekly floor and playoff odds.",
+          "whyOpponentMightAccept": "Ravens Regime gains WR1 starter Tee Higgins (91.7 C-AVI) to elevate their receiving corps for a championship run, alongside young QB depth in Bryce Young, in exchange for aging RB Derrick Henry and minor draft capital."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Bryce Young",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "QB",
+              "age": 25,
+              "cavi": 50.9,
+              "davi": 69.6,
+              "publicMarket": 55,
+              "leagueMarket": 50.9
+            },
+            {
+              "name": "Deebo Samuel Sr.",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 30,
+              "cavi": 41.7,
+              "davi": 68.3,
+              "publicMarket": 45,
+              "leagueMarket": 41.7
+            },
+            {
+              "name": "2028 Round 3 (All Hail King Jesus)",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 20,
+              "leagueMarket": 16.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 80,
+              "davi": 87.8,
+              "publicMarket": 68,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2027 4th · Ravens · Projected Mid · original owner Ravens Regime",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 5,
+              "leagueMarket": 0
+            }
+          ],
+          "rationale": "A lower-tier adjustment sending Deebo Samuel Sr. and a 3rd round pick instead of Tee Higgins, keeping the user's core WR trio intact while offering Ravens Regime FLEX help and QB depth, though acceptance probability is lower."
+        },
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "The submitted offer fails 4 out of 5 Market Reality validations. Ravens Regime will not trade their starting RB1 and draft picks for a backup QB while competing for a championship.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Ravens Regime has an explicit partnerGoal of Win Championship. They have zero incentive to surrender their top running back and draft capital for a backup quarterback."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "Poor fit for Ravens Regime as submitted. Bryce Young does not solve any starting lineup problem for a championship contender in a 16-team 1QB format."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "Fails completely. Ravens Regime cannot replace Derrick Henry's 80.0 C-AVI internally without creating a substantial starting lineup deficit."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Directly conflicts with Ravens Regime's championship window by weakening their active roster."
+            }
+          ],
+          "opponentPerspective": "Ravens Regime has an explicit partnerGoal of Win Championship. They have zero incentive to surrender their top running back and draft capital for a backup quarterback.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Poor fit for Ravens Regime as submitted. Bryce Young does not solve any starting lineup problem for a championship contender in a 16-team 1QB format.",
+          "whatWouldNeedToChange": [
+            "Ravens Regime has an explicit partnerGoal of Win Championship. They have zero incentive to surrender their top running back and draft capital for a backup quarterback.",
+            "Poor fit for Ravens Regime as submitted. Bryce Young does not solve any starting lineup problem for a championship contender in a 16-team 1QB format.",
+            "Fails completely. Ravens Regime cannot replace Derrick Henry's 80.0 C-AVI internally without creating a substantial starting lineup deficit.",
+            "Directly conflicts with Ravens Regime's championship window by weakening their active roster."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Derrick Henry fantasy value 2026",
+          "Derrick Henry news stats 2026 NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHWRRIoy1vmUiHBraZ66eAzhKvnnBGBqYlLq1a05ZKGhMngtBkQDb9AGXTyAnr_fmcXMdCbjfG59AVOAwZzE9CofZisWMylkx08ydBiGRDK5-AmD3GWf61JopYfQUVS_0E9-C_-ULtPfp9g8PArQ==",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmc7kMeDG2R7b3a_jNIJs9iNs0WVqCRxrizv28CBq4YIBQark4qXZ8iQ1PT-LAwdnwvICclc4xxE0K8aIcX2rifI_-WB0Kr74V8GxTV4Fvi64zVXNJYK3ls4pbHUZVGX-ExWA240RxcA==",
+            "title": "sleeper.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOlZH0S8u6XOYhZMjRFEsBWmib-RODfhURxy6zaV3tgmdCzcqu05YJv0J36p2mU3gTaosTx9ntIhfJhjlOKxg1RPAZE_-CdLdvDjK-sVUkFg1eHN7K783qiSpB5KIgfBATyYBYBFaWIZzxXkEHjg0=",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "3f48e187c79e890fc99e363af730d4b7770134e9",
+        "aviCoreCommittedAt": "2026-11-05T20:45:25Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 86766,
+        "groundedMarketChars": 3072,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mw3aedom-bc2ae0cf",
     "createdAt": 1793867561632,
     "expiresAt": 1794299561632,
