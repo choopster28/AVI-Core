@@ -1,5 +1,49 @@
 [
   {
+    "id": "mw462vug-af94bf97",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Playoff Odds",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Bryce Young",
+            "assetType": "player"
+          },
+          {
+            "name": "Zach Charbonnet",
+            "assetType": "player"
+          },
+          {
+            "name": "Carson Wentz",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Derrick Henry",
+            "assetType": "player"
+          },
+          {
+            "name": "Tony Pollard",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1793920721848,
+    "updatedAt": 1793920721848,
+    "expiresAt": 1794352721848,
+    "status": "queued"
+  },
+  {
     "id": "mw41q1gj-7103d3ab",
     "phase": "initial",
     "mode": "propose_trade",
