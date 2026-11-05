@@ -1,5 +1,29 @@
 [
   {
+    "id": "mw34tq0r-6700f288",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Lightskin Legends",
+      "targetAssets": [
+        {
+          "name": "Chase Brown",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1793858148603,
+    "updatedAt": 1793858148603,
+    "expiresAt": 1794290148603,
+    "status": "queued"
+  },
+  {
     "id": "mw31znvg-235a4c14",
     "phase": "final",
     "mode": "propose_trade",
