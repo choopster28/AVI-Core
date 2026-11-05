@@ -450,7 +450,9 @@ def apply_in_season_transition(*, offline: bool = False) -> dict[str, Any]:
                 elite_upside=float(upside),
             ),
             player_points_active=True,
-            completed_weeks=completed_through,
+            # A midseason debut is not an eight-game production sample.
+            # Allow at most one bye week in the reliability window.
+            completed_weeks=min(completed_through, observed_games + 1),
         )
         player["c_avi"] = new_cavi
         components["player_points"] = actual_component
@@ -502,7 +504,8 @@ def apply_in_season_transition(*, offline: bool = False) -> dict[str, Any]:
     manifest["c_avi_weight_policy"] = (
         "In-season production weight rises from 40% to 60% between weeks 2 and 8; "
         "full-season projections fade from 25% to 15% and market consensus from 15% to 5%. "
-        "Weights are global, not player-specific. Lineup availability adjusts separately."
+        "The phase-in is capped by each player\'s observed-game sample (plus one bye week); "
+        "lineup availability adjusts separately."
     )
     manifest["injury_rebound_policy"] = "Bounded credit for verified current injuries with missed games and established healthy ceiling; never applied to healthy underperformers or unproven upside."
     manifest["production_component_policy"] = {
