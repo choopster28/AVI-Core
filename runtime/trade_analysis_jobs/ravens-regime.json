@@ -1,5 +1,50 @@
 [
   {
+    "id": "mw31fqbi-90bd2b0a",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Mile High Royal Lions",
+      "goal": "Increase Championship Odds",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Tony Pollard",
+          "assetType": "player"
+        },
+        {
+          "name": "Jaylen Waddle",
+          "assetType": "player"
+        },
+        {
+          "name": "Tyjae Spears",
+          "assetType": "player"
+        },
+        {
+          "name": "2029 2nd · Goblins · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Garrett Wilson",
+          "assetType": "player"
+        },
+        {
+          "name": "Michael Penix Jr.",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1793852456958,
+    "updatedAt": 1793852456958,
+    "expiresAt": 1794284456958,
+    "status": "queued"
+  },
+  {
     "id": "mw1gkdml-3cb4229d",
     "phase": "initial",
     "mode": "propose_trade",
