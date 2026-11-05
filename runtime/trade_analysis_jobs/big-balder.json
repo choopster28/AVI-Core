@@ -1,5 +1,34 @@
 [
   {
+    "id": "mw34zgk4-762d3f58",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Lightskin Legends",
+      "targetAssets": [
+        {
+          "name": "Chase Brown",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Chuba Hubbard",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1793858416276,
+    "updatedAt": 1793858416276,
+    "expiresAt": 1794290416276,
+    "status": "queued"
+  },
+  {
     "id": "mw34xs7w-ee704477",
     "phase": "final",
     "mode": "propose_trade",
