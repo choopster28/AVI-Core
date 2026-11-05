@@ -44,12 +44,22 @@ def in_season_cavi_weights(completed_weeks: int = 0) -> dict[str, float]:
     the championship score. All players use the same weekly methodology.
     """
     progress = max(0.0, min(1.0, (completed_weeks - 2) / 6.0))
+    # Round the first four weights, then assign the remainder to market.
+    # Independent 6-decimal rounding can otherwise leave the total at
+    # 0.999999 in intermediate weeks, breaking the 100% weight invariant.
+    player_points = round(0.40 + 0.20 * progress, 6)
+    projections = round(0.25 - 0.10 * progress, 6)
+    league_context = 0.10
+    elite_upside = 0.10
+    public_market = round(
+        1.0 - player_points - projections - league_context - elite_upside, 6
+    )
     return {
-        "player_points": round(0.40 + 0.20 * progress, 6),
-        "projections": round(0.25 - 0.10 * progress, 6),
-        "league_context": 0.10,
-        "public_market": round(0.15 - 0.10 * progress, 6),
-        "elite_upside": 0.10,
+        "player_points": player_points,
+        "projections": projections,
+        "league_context": league_context,
+        "public_market": public_market,
+        "elite_upside": elite_upside,
     }
 
 
