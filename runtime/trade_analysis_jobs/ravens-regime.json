@@ -1,5 +1,51 @@
 [
   {
+    "id": "mw31j0rr-1634c203",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Mile High Royal Lions",
+      "goal": "Increase Championship Odds",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Tony Pollard",
+          "assetType": "player"
+        },
+        {
+          "name": "Jaylen Waddle",
+          "assetType": "player"
+        },
+        {
+          "name": "Tyjae Spears",
+          "assetType": "player"
+        },
+        {
+          "name": "2029 2nd · Goblins · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Garrett Wilson",
+          "assetType": "player"
+        },
+        {
+          "name": "Michael Penix Jr.",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "Pollard is on a hot streak that wont last. Blake corum can replace pollard. Lamar jackson is injured and garrett wilson is the best player by far."
+    },
+    "createdAt": 1793852610695,
+    "updatedAt": 1793852610695,
+    "expiresAt": 1794284610695,
+    "status": "queued"
+  },
+  {
     "id": "mw31fqbi-90bd2b0a",
     "phase": "initial",
     "mode": "propose_trade",
