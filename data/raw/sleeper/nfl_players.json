@@ -3037,7 +3037,7 @@
       "genius_id": "1075269",
       "rookie_year": "2023"
     },
-    "news_updated": 1793832038413,
+    "news_updated": 1793845840079,
     "number": 14,
     "oddsjam_id": "C1EBDE7E9115",
     "opta_id": null,
@@ -36611,10 +36611,10 @@
     "hashtag": "#zavierscott-NFL-CHI-30",
     "height": "73",
     "high_school": "Vilseck (DEU)",
-    "injury_body_part": null,
+    "injury_body_part": "Wrist",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "1d6c200f-a445-4597-89bd-a2a4f6d22a02",
     "last_name": "Scott",
     "metadata": {
@@ -63705,10 +63705,10 @@
     "hashtag": "#tykeesmith-NFL-TB-23",
     "height": "70",
     "high_school": "Imhotep Institute Charter (PA)",
-    "injury_body_part": null,
+    "injury_body_part": "Ankle",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "d8096b41-90a5-480f-b062-2976cda75eaa",
     "last_name": "Smith",
     "metadata": {
@@ -97364,10 +97364,10 @@
     "hashtag": "#theobenedet-NFL-CHI-79",
     "height": "79",
     "high_school": null,
-    "injury_body_part": null,
+    "injury_body_part": "Shoulder",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "549c5a1f-87dc-452e-bdb9-d4036627f35f",
     "last_name": "Benedet",
     "metadata": {
@@ -512589,7 +512589,7 @@
       "genius_id": "1014418",
       "rookie_year": "2019"
     },
-    "news_updated": 1793819436991,
+    "news_updated": 1793845539929,
     "number": 2,
     "oddsjam_id": "8DAB15332582",
     "opta_id": null,
@@ -622307,7 +622307,7 @@
       "genius_id": "1006669",
       "rookie_year": "2021"
     },
-    "news_updated": 1793828738110,
+    "news_updated": 1793845539417,
     "number": 3,
     "oddsjam_id": "B26588814F61",
     "opta_id": null,
@@ -660574,7 +660574,7 @@
       "genius_id": "1344447",
       "rookie_year": "2022"
     },
-    "news_updated": 1793838939132,
+    "news_updated": 1793845542044,
     "number": 20,
     "oddsjam_id": "925F3F684F16",
     "opta_id": null,
@@ -665337,7 +665337,7 @@
       "genius_id": "1074825",
       "rookie_year": "2022"
     },
-    "news_updated": 1786180229486,
+    "news_updated": 1793845840081,
     "number": 30,
     "oddsjam_id": "E48539B2A357",
     "opta_id": null,
