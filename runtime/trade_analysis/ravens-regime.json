@@ -1,5 +1,435 @@
 [
   {
+    "id": "mw31j0rr-1634c203",
+    "createdAt": 1793852626494,
+    "expiresAt": 1794284626494,
+    "mode": "propose_trade",
+    "title": "Final Build Offer · Mile High Royal Lions ↔ Ravens Regime",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Mile High Royal Lions",
+      "goal": "Increase Championship Odds",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Tony Pollard",
+          "assetType": "player"
+        },
+        {
+          "name": "Jaylen Waddle",
+          "assetType": "player"
+        },
+        {
+          "name": "Tyjae Spears",
+          "assetType": "player"
+        },
+        {
+          "name": "2029 2nd · Goblins · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Garrett Wilson",
+          "assetType": "player"
+        },
+        {
+          "name": "Michael Penix Jr.",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "Pollard is on a hot streak that wont last. Blake corum can replace pollard. Lamar jackson is injured and garrett wilson is the best player by far."
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Mile High Royal Lions attempts to bolster its championship run by targeting Tony Pollard, Jaylen Waddle, Tyjae Spears, and future capital from Ravens Regime. Incorporating the user's personal context—that Pollard's hot streak is unsustainable, Blake Corum can adequately replace him, Lamar Jackson is injured, and Garrett Wilson is an elite individual asset—shifts the valuation balance. Ravens Regime is structured as a Retooling franchise, meaning acquiring an elite centerpiece like Garrett Wilson fits their strategic window, especially given current injuries to Lamar Jackson.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 78.7,
+              "davi": 91.6,
+              "publicMarket": 85,
+              "leagueMarket": 82
+            },
+            {
+              "name": "Michael Penix Jr.",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "QB",
+              "age": 26,
+              "cavi": 23.9,
+              "davi": 60.6,
+              "publicMarket": 55,
+              "leagueMarket": 52
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 78.6,
+              "publicMarket": 72,
+              "leagueMarket": 70
+            },
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 27,
+              "cavi": 63.6,
+              "davi": 85.7,
+              "publicMarket": 78,
+              "leagueMarket": 75
+            },
+            {
+              "name": "Tyjae Spears",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 25,
+              "cavi": 30,
+              "davi": 66.7,
+              "publicMarket": 50,
+              "leagueMarket": 48
+            },
+            {
+              "name": "2029 2nd · Goblins · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 60,
+            "otherShare": 40,
+            "advantageFranchise": "Mile High Royal Lions",
+            "summary": "The submitted package heavily acquires immediate target upside, leveraging Garrett Wilson's elite tier status against Ravens Regime's roster needs while accounting for the user's assessment of Pollard's sell-high window."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Mile High Royal Lions",
+            "summary": "The baseline submitted offer is viable because Ravens Regime's actual HQ status is Retooling rather than contending, making them receptive to securing elite long-term assets like Garrett Wilson during Lamar Jackson's injury absence."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 50,
+              "summary": "Capitalizes on Tony Pollard's peak sell-high production window while adding elite wide receiver depth via Jaylen Waddle."
+            },
+            "championshipOutlook": {
+              "score": 45,
+              "summary": "Provides immediate production pieces while preserving lineup integrity."
+            },
+            "dynastyOutlook": {
+              "score": 10,
+              "summary": "Retains strong long-term positional balance by acquiring Waddle alongside Pollard."
+            },
+            "lineupQuality": {
+              "score": 55,
+              "summary": "Solidifies weekly starting flexibility."
+            },
+            "depthResilience": {
+              "score": 40,
+              "summary": "Adds valuable running back depth with Spears."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Captures future draft liquidity via the 2029 2nd pick."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 35,
+              "summary": "Secures an elite cornerstone asset in Garrett Wilson that fits a retooling timeline."
+            },
+            "championshipOutlook": {
+              "score": -15,
+              "summary": "Sacrifices short-term volume production during Lamar Jackson's injury period."
+            },
+            "dynastyOutlook": {
+              "score": 60,
+              "summary": "Massively upgrades long-term roster core with Garrett Wilson."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Trades running back depth for elite wide receiver ceiling."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Reduces immediate backfield depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Consolidates assets into an elite focal point."
+            }
+          },
+          "explanation": "Personal context regarding Pollard's unsustainable hot streak and Blake Corum's internal replacement capability removes the structural lineup roadblock for Ravens Regime, making the trade mutually beneficial under a Retooling classification."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Secures high-volume starting assets to support Mile High Royal Lions' championship push.",
+          "sideADynastyImpact": "Maintains a strong asset base by balancing elite talent acquisition with roster depth.",
+          "sideARosterImpact": "Optimizes starting lineup configuration and bench resilience.",
+          "sideBChampionshipImpact": "Softens short-term contention capability while Lamar Jackson is injured, but aligns well with a retooling trajectory.",
+          "sideBDynastyImpact": "Acquires Garrett Wilson, providing a premier cornerstone piece for future seasons.",
+          "sideBRosterImpact": "Pivots production from declining RB assets to an elite wide receiver foundation.",
+          "valueAssessment": "Fair value exchange when factoring in Ravens Regime's retooling status and the user's evaluation of player market peaks."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Garrett Wilson remains a premier dynasty asset, while Tony Pollard's recent multi-touchdown explosion has created a prime sell-high window. Blake Corum stands ready to absorb backfield work.",
+          "aviVsMarket": "Market consensus values Garrett Wilson exceptionally high, matching AVI-Core's high D-AVI assessment.",
+          "relevantContext": [
+            "Tony Pollard is experiencing a peak scoring stretch that historical metrics suggest is unlikely to sustain indefinitely.",
+            "Garrett Wilson commands elite target share and represents the clear superior individual talent in the transaction."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is classified as Retooling, making them logical buyers for elite long-term assets like Garrett Wilson, especially with Lamar Jackson currently sidelined.",
+          "packageFit": "Garrett Wilson provides an elite foundation piece that outvalues short-term running back hot streaks.",
+          "lineupReplacement": "Blake Corum provides internal backfield insurance to mitigate the departure of Tony Pollard.",
+          "competitiveWindowFit": "Aligns with a retooling window rather than a strict championship-only constraint.",
+          "positionalScarcity": "Wide receiver tier-1 assets outweigh short-term running back production spikes."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 25,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 14,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 88,
+          "classification": "Realistic",
+          "explanation": "Because Ravens Regime's official organizational status is Retooling and Lamar Jackson is currently injured, acquiring an elite asset like Garrett Wilson matches their long-term timeline while Blake Corum covers backfield production."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "With personal context applied—noting Pollard's peak sell-high window, Blake Corum's ability to absorb touches, and Ravens Regime's retooling status during Lamar Jackson's injury—the submitted offer is fully viable and advantageous.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 78.7,
+              "davi": 91.6,
+              "publicMarket": 85,
+              "leagueMarket": 82
+            },
+            {
+              "name": "Michael Penix Jr.",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "QB",
+              "age": 26,
+              "cavi": 23.9,
+              "davi": 60.6,
+              "publicMarket": 55,
+              "leagueMarket": 52
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 78.6,
+              "publicMarket": 72,
+              "leagueMarket": 70
+            },
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 27,
+              "cavi": 63.6,
+              "davi": 85.7,
+              "publicMarket": 78,
+              "leagueMarket": 75
+            },
+            {
+              "name": "Tyjae Spears",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 25,
+              "cavi": 30,
+              "davi": 66.7,
+              "publicMarket": 50,
+              "leagueMarket": 48
+            },
+            {
+              "name": "2029 2nd · Goblins · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "whyUserShouldDoIt": "Capitalizes on Pollard's peak scoring stretch while securing productive depth and future capital, leveraging Garrett Wilson's elite value.",
+          "whyOpponentMightAccept": "Provides Ravens Regime with an elite retooling cornerstone in Garrett Wilson to anchor their roster while managing injuries."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Applied user context that Pollard is on an unsustainable hot streak, Blake Corum can provide internal replacement, Lamar Jackson is currently injured, and Garrett Wilson is the superior individual asset. Recognized Ravens Regime as a Retooling franchise to validate the original trade structure."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tyjae Spears news 2026 NFL",
+          "Tony Pollard news 2026 NFL",
+          "Jaylen Waddle news 2026 NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Ep0PLq_LPQW1roojJ2_VdFFDGrR3Ge5Jhxhe5zRqy9IINP7clb--I1HcUmCDWcIUQ8eHeIq1E0l9VTInnDtHYg5Nm1NNLoFl-8mKVOBdC5TtE2veFZXls298lLVo2n_zlpFC0oTHf7u0j9Ji5noQMResSajthsao6IwB6oEU6ySjijghV-nHil23keRvHQMAZ6rnBCTj_w==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqjcBQr8CoWyGRVTG6jf4Vj4RKjGrKozABrsLjrdgueOKtVv9FhPi-5ulepo9IU4Jpx_iXrKB0hWYFnQLvcehgAqpsveUFkO6a8rVeWlatZHGc3MluLe6a4ApIN26SKaQ0gLcrrffacIak",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNOXH3uauh676_wBGnakMX5iqxouuQMxCqHLxyjnGk2bgsR1GNQRJSAmql32gbYIph68hkQZjNXxswe1ob5hy6HK2FaTIGuOBMIxAV45ZjBzj1yQSnYBmuKhCo2_8ptZ2BN2SJEUfohQT1wGhdyJeJjmLFRHOJmXYNxlBSvI1J7hpAGayxSFp5-11v8EgDdVuI1358RNA96FCiZkW6I_R_VkE_TxqKbQFj1V-jf7HzgiF2KpqgUELtWqJMK7cQAY1tVQ==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBLjGrZh7MiSk4P0DrJXcJX9bpp6q-c-0dg2GrWGganw0JS-fKhRdEVftrPakyKVCkcOO-U9TxAG8XRHgJfibkzBk1vfHvHFCy4o2nIQr_Tr6NR87BI5BLvxz2h9tNGJYuMSef6OAbm1FdXZg35N77CZGDoj02tc-aWSR_0AEiSHUnhtsDj50x-o8xlUKCBHSP_Q3Ew7uPfPJk",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ-f4WpDElnJZOP4s6WLirZ3h95A076lWgONbyEH_gIDbUGKBKPBnYKnO1IMHrrY4mW0IxLHq--Bx2DgMlrikCvAHkxLY4dmwWblYZk9LVF7uf8dJ8GMPlOyU92nn56w_zGoDdmFNT1RQs-1AEn65jleTkX6UkyUGL3EHZ6EVFZzdUAJ-xXtcdCVWw0NOvW39yZTgFAqQEnYSAYMoKKBNn8_TEEp4mnc-EXgY02OikikPW1mjjL6cFINo9sEo3-Vwd",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEPWtWncU3IFSjI6bXWZXPtL02HMerDlgKd1sI42FZNv8k0z_8_JWUdR7EypllqC1mAHWmm9F0Oja3WZNnaMvj2PYLioCNG1MdeBVtWCRiq9ixlrsimnty0UFox805lS631jp1BEQDJg==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHigWqTkxCqvs5L40OtJhVECVe7Gnj7N6PkSiKbBKxnAU-7G7flU8KwW_xmVNUV2B2C_UqEpLzXGKXy2ud86WmuiB9SfaEhC3YGOkqLtquVWNE4pHyMzqosVzJf5ZD31rWkDYvtkzLrBPQtP27kGlR_j05ED0zs8I1yLnCDbme6kCbgfU0pMJw=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpRJ26kmmtJzCQECq6D64Lv-VqBK389gBMQbWRximCFQHE_cpNYApjgvbnGFRggvgbjBlCsV17EcdW8R102J_o8Olc28_7VeeKvexf1bSNa65hFiT3-Kw4Fp2smZyEdCggbM-j44xcO1Ur8F41rlwyzMHEenODzBWUNDdCngyySWoD6cuIXhzG-pxzfC36IP_QPG8eudlcJKAi6jllz-Rq6D079zCaddXKHFYrA8eG66viMOZZkp6j-2DvuJdHLin1UHXBLRWuFRu1RCs=",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgTkZCHbQQAi5TnTsqoeaR-OBnAHpFQQ2Yq-GVeixz7m4RHEjjpgj5IlwU_K_9Yb9z5ZNFCvclP_FC8WZYoltLOP2eji-SGRtma5mO4WEARh_dbs9_6xMUjSJfk3Y-i8JJws2_fS-MRFI8Q7C50kuTPKM2QZZ3yPGmnBuaSJ5WwpJIct4W4UQYbMEfEPPx0gdgh3CpjqRUqyZkHSNnyZyHibpnd2eRlw4=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwg3EL_EJWV9aB2m4qGEijQxiN1Q1d3WbZfCYY_gCOnzc00iG46TcL0YGHMDVvpj5AqoMEokG-5Vd7m6u7YsbuBlNoelgnrknegON94jVyLe70vDoL-kDKoF6dlhVfW29zQi5OxxSaUNq_PkwU1hnsM9K_MmDb",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwfbxeyRKnIGlFdJAShNwnGELKTR_7dpja0HcZdCm1oU9ACcVgWgyQuxQzZGgqMc60nU8nbfCgBlcGBX3_SxtjdMeh9h8HzVBLic_oCfSYzYpg24Zr9DqLeKnUu79B2wcc9R_XpiBRuIXydCwcKAmdg_c48inlygzxPGsiJwJl9M8KB5HDkt1_wTcY83RzVDyMqgihjN8STQvUHF2VsZOXmrU9Xg==",
+            "title": "tennesseetitans.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAv5uUW5CM0FwdsU12GdwmMRT071pWyixJO10Fu10TlC4zCmj9S1mZkfi7xvDTY-2cId5Sa6xP0wG3p_pxWKUzXjoR0An9gpwIGyYvIESq-AWOK9ECYt4u7tP3vmlk1oAD3xyqrg-j5oOLP4_zhXKWuB-SgKs8eTqLrG-lZ5CRFYAM09TYJ_Tf60wqX-GPmMpfwHFygrOjo0nF_16HAPEyNw3OFrgBbkZh0ixK2VxQoLyLyYBrOfEL9WzKAQ==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnF8aUuFN0YMjOQ94ZlV_a1QFpxhPEcAuiS452MR1yLs5m54zrwt9uYL4W6VLD-rG2aNU3dDK38c3ACx__H-7WmQkKxkSTkqzMVnV-8_DoJIzloUPtAn44yiXLuAV79b2GXKubzK8KZe9fCuhXkH41k0ErIoeTUyvpCEp85N_RKbAvU3up1qYcu1AnWOCPMX_kP5aj",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWwJ7oMj2apotJh8iyB-yRL5nhvmex3EfNW_VZLtUrYH5x72frN5T6xnc66B7wfCvKz0VCkIg9aIALeCq7BpvP9Y2hTE4pwy1L26BUPZTdx-8FwJ-LqegX_lt6c1_DnfWEo9yMF4JnwuYRLzRBncSF8_Pb38s=",
+            "title": "fantasyfootballcalculator.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "01da9ed338d8d8919bf4d980f4fc6e844e005271",
+        "aviCoreCommittedAt": "2026-11-05T02:37:55Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 90950,
+        "groundedMarketChars": 4947,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mw31fqbi-90bd2b0a",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "01da9ed338d8d8919bf4d980f4fc6e844e005271"
+      }
+    }
+  },
+  {
     "id": "mw31fqbi-90bd2b0a",
     "createdAt": 1793852524862,
     "expiresAt": 1794284524862,
