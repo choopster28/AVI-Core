@@ -836,6 +836,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
 
+## PLAYER LOOKUP: Jacoby Brissett
+- Player name: Jacoby Brissett
+- Player ID: 3257
+- Position: QB
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
+
 ## PLAYER LOOKUP: Jacory Croskey-Merritt
 - Player name: Jacory Croskey-Merritt
 - Player ID: 12533
@@ -2014,15 +2022,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: KC
 - Championship AVI (C-AVI, 0-100): 33.0
 - Dynasty AVI (D-AVI, 0-100): 53.1
-- Availability: available
-
-## AVAILABLE PLAYER: Jacoby Brissett
-- Player name: Jacoby Brissett
-- Player ID: 3257
-- Position: QB
-- NFL team: ARI
-- Championship AVI (C-AVI, 0-100): 30.7
-- Dynasty AVI (D-AVI, 0-100): 56.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Justice Hill
