@@ -16,15 +16,22 @@ C-AVI measures current-season championship value in the Autobots non-Superflex l
 
 ### In-season weighting
 
-After at least one complete 2026 regular-season week is verified in the current FantasyPros player-points feed, the model transitions globally to:
+After current-season completed-week results are verified, the engine applies the stable
+40% production policy to every player; it does not raise the production percentage
+to 60% at midseason. Forward projection and public market signals remain
+meaningful to championship utility, which is about the **remaining season**, not
+a ranking of points already scored.
 
 | Component | Weight |
 |---|---:|
-| Actual current-season production | 25% |
-| Refreshed current-season projection | 30% |
+| Actual current-season PPR production | 40% |
+| Refreshed forward PPR projection | 25% |
+| Current-season public market | 15% |
 | Autobots league context | 10% |
-| Public market | 25% |
-| Elite upside | 10% |
+| Demonstrated elite upside | 10% |
+
+Availability and limited observed-game reliability are applied separately
+from these component weights.
 
 ### Actual production
 

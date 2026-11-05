@@ -37,29 +37,20 @@ DAVI_WEIGHTS: dict[str, float] = {
 
 
 def in_season_cavi_weights(completed_weeks: int = 0) -> dict[str, float]:
-    """Fade stale season-long projection/consensus assumptions as 2026 games accumulate.
+    """The verified in-season 40% production policy.
 
-    Early weeks have too little observed production to discard projections.
-    By eight completed weeks, actual points and recent consistency must dominate
-    the championship score. All players use the same weekly methodology.
+    Actual PPR output gets the largest single component, but does not
+    displace forward projection and market information halfway through the
+    season. This is a uniform model-wide weight, not a player exception.
+    Individual observed-game reliability and injury availability remain
+    separate adjustments in the in-season valuation pipeline.
     """
-    progress = max(0.0, min(1.0, (completed_weeks - 2) / 6.0))
-    # Round the first four weights, then assign the remainder to market.
-    # Independent 6-decimal rounding can otherwise leave the total at
-    # 0.999999 in intermediate weeks, breaking the 100% weight invariant.
-    player_points = round(0.40 + 0.20 * progress, 6)
-    projections = round(0.25 - 0.10 * progress, 6)
-    league_context = 0.10
-    elite_upside = 0.10
-    public_market = round(
-        1.0 - player_points - projections - league_context - elite_upside, 6
-    )
     return {
-        "player_points": player_points,
-        "projections": projections,
-        "league_context": league_context,
-        "public_market": public_market,
-        "elite_upside": elite_upside,
+        "player_points": 0.40,
+        "projections": 0.25,
+        "league_context": 0.10,
+        "public_market": 0.15,
+        "elite_upside": 0.10,
     }
 
 
