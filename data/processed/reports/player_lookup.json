@@ -291,18 +291,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00003286",
-      "c_avi": 24.1,
-      "d_avi": 39.6,
-      "nfl_team": "SF",
-      "player_name": "Demarcus Robinson",
-      "position": "WR",
-      "sleeper_id": "3286",
-      "status": "Inactive"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00012544",
       "c_avi": 24.1,
       "d_avi": 54.1,
@@ -2750,8 +2738,8 @@
     }
   ],
   "counts": {
-    "available_players": 229,
-    "rostered_players": 250
+    "available_players": 228,
+    "rostered_players": 251
   },
   "rostered_players": [
     {
@@ -3873,6 +3861,22 @@
       "status": "Active",
       "team_file": "08_All_Hail_King_Jesus.md",
       "team_name": "All Hail King Jesus"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00003286",
+      "c_avi": 24.1,
+      "d_avi": 39.6,
+      "nfl_team": "SF",
+      "owner_id": "1132141719354535936",
+      "player_name": "Demarcus Robinson",
+      "position": "WR",
+      "roster_id": 14,
+      "sleeper_id": "3286",
+      "status": "Inactive",
+      "team_file": "14_Phalhala_or_Bust.md",
+      "team_name": "Phalhala or Bust"
     },
     {
       "active": true,

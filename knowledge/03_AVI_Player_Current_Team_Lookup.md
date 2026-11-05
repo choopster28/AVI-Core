@@ -564,6 +564,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 8
 - Team file: 08_All_Hail_King_Jesus.md
 
+## PLAYER LOOKUP: Demarcus Robinson
+- Player name: Demarcus Robinson
+- Player ID: 3286
+- Position: WR
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Team file: 14_Phalhala_or_Bust.md
+
 ## PLAYER LOOKUP: Denzel Boston
 - Player name: Denzel Boston
 - Player ID: 13346
@@ -2220,15 +2228,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: BAL
 - Championship AVI (C-AVI, 0-100): 24.3
 - Dynasty AVI (D-AVI, 0-100): 59.9
-- Availability: available
-
-## AVAILABLE PLAYER: Demarcus Robinson
-- Player name: Demarcus Robinson
-- Player ID: 3286
-- Position: WR
-- NFL team: SF
-- Championship AVI (C-AVI, 0-100): 24.1
-- Dynasty AVI (D-AVI, 0-100): 39.6
 - Availability: available
 
 ## AVAILABLE PLAYER: LeQuint Allen Jr.
