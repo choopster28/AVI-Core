@@ -1,5 +1,29 @@
 [
   {
+    "id": "mw3sd2ux-fb88aa50",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "goal": "Win Championship",
+      "partnerGoal": "Retool",
+      "targetTeam": "Southside Savages",
+      "targetAssets": [
+        {
+          "name": "Josh Jacobs",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1793897682873,
+    "updatedAt": 1793897682873,
+    "expiresAt": 1794329682873,
+    "status": "queued"
+  },
+  {
     "id": "mw36fnmk-60fd65bf",
     "phase": "initial",
     "mode": "analyze_trade",
