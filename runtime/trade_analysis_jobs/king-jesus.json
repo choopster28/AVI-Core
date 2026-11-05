@@ -1,5 +1,37 @@
 [
   {
+    "id": "mw3aedom-bc2ae0cf",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "All Hail King Jesus",
+      "goal": "Increase Playoff Odds",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "D'Andre Swift",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Bijan Robinson",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1793867510471,
+    "updatedAt": 1793867510471,
+    "expiresAt": 1794299510471,
+    "status": "queued"
+  },
+  {
     "id": "mvzsei0p-b769281a",
     "phase": "initial",
     "mode": "propose_trade",
