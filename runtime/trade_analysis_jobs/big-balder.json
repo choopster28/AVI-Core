@@ -1,5 +1,22 @@
 [
   {
+    "id": "mw35oxa0-54222b70",
+    "phase": "initial",
+    "mode": "improve_team",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "targetPosition": "RB, WR, TE, QB",
+      "maxResults": 3
+    },
+    "createdAt": 1793859604344,
+    "updatedAt": 1793859604344,
+    "expiresAt": 1794291604344,
+    "status": "queued"
+  },
+  {
     "id": "mw35hbe0-c9a0bc23",
     "phase": "initial",
     "mode": "analyze_trade",
