@@ -1,5 +1,521 @@
 [
   {
+    "id": "mw31fqbi-90bd2b0a",
+    "createdAt": 1793852524862,
+    "expiresAt": 1794284524862,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Mile High Royal Lions ↔ Ravens Regime",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Mile High Royal Lions",
+      "goal": "Increase Championship Odds",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Tony Pollard",
+          "assetType": "player"
+        },
+        {
+          "name": "Jaylen Waddle",
+          "assetType": "player"
+        },
+        {
+          "name": "Tyjae Spears",
+          "assetType": "player"
+        },
+        {
+          "name": "2029 2nd · Goblins · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Garrett Wilson",
+          "assetType": "player"
+        },
+        {
+          "name": "Michael Penix Jr.",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Mile High Royal Lions attempts to bolster its championship run by targeting dynamic starting assets Tony Pollard and Jaylen Waddle alongside Tyjae Spears and future capital from Ravens Regime. However, because Ravens Regime is also operating under a Win Championship objective, surrendering their primary RB2 in Pollard severely compromises their starting lineup integrity. To make this trade viable, Mile High Royal Lions must revise the offer by injecting premium draft capital to compensate for the significant positional downgrade imposed on the trade partner.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 78.7,
+              "davi": 91.6,
+              "publicMarket": 85,
+              "leagueMarket": 82
+            },
+            {
+              "name": "Michael Penix Jr.",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "QB",
+              "age": 26,
+              "cavi": 23.9,
+              "davi": 60.6,
+              "publicMarket": 55,
+              "leagueMarket": 52
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 78.6,
+              "publicMarket": 72,
+              "leagueMarket": 70
+            },
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 27,
+              "cavi": 63.6,
+              "davi": 85.7,
+              "publicMarket": 78,
+              "leagueMarket": 75
+            },
+            {
+              "name": "Tyjae Spears",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 25,
+              "cavi": 30,
+              "davi": 66.7,
+              "publicMarket": 50,
+              "leagueMarket": 48
+            },
+            {
+              "name": "2029 2nd · Goblins · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "D+",
+            "userShare": 65,
+            "otherShare": 35,
+            "advantageFranchise": "Mile High Royal Lions",
+            "summary": "The submitted offer heavily favors Mile High Royal Lions. By surrendering Garrett Wilson and developmental quarterback Michael Penix Jr., Mile High acquires two core starters (Pollard and Waddle), depth (Spears), and a 2029 2nd pick. While Garrett Wilson is the highest individual D-AVI asset in the deal, Ravens Regime sacrifices critical RB starting power (Pollard) during their own championship push without receiving immediate RB replacement."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Mile High Royal Lions",
+            "summary": "Adding Mile High's 2028 1st round pick to the outgoing package balances total equity while retaining all user-requested target assets. This provides Ravens Regime with elite future liquidity to re-tool their RB room while giving Mile High an immediate championship boost."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Materially strengthens current starting lineup depth and FLEX versatility for a championship run."
+            },
+            "championshipOutlook": {
+              "score": 55,
+              "summary": "Adds immediate starting RB points via Pollard and stable WR production via Waddle."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Surrenders the elite 26-year-old dynasty centerpiece in Garrett Wilson."
+            },
+            "lineupQuality": {
+              "score": 60,
+              "summary": "Upgrades starting RB2 slot and adds potent FLEX flexibility across 8 starting slots."
+            },
+            "depthResilience": {
+              "score": 40,
+              "summary": "Improves RB depth with Pollard and Spears."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Converts future pick equity and elite WR capital into current starting assets."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -35,
+              "summary": "Creates a severe mandatory starter hole at RB2 while surrendering key depth."
+            },
+            "championshipOutlook": {
+              "score": -45,
+              "summary": "Damages title odds by removing Tony Pollard without acquiring a starting-caliber RB replacement."
+            },
+            "dynastyOutlook": {
+              "score": 15,
+              "summary": "Acquires Garrett Wilson, an elite long-term dynasty WR asset."
+            },
+            "lineupQuality": {
+              "score": -50,
+              "summary": "Upgrades WR1 quality with Wilson but drastically downgrades RB2 to bench tier."
+            },
+            "depthResilience": {
+              "score": -30,
+              "summary": "Drains RB depth by sending both Pollard and Spears."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Gains high-value asset liquidity in Garrett Wilson."
+            }
+          },
+          "explanation": "While Mile High Royal Lions gains massive immediate starter value to drive a championship push, Ravens Regime suffers a severe hit to their RB starter slot that undermines their own stated Win Championship objective."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Mile High Royal Lions receives a net C-AVI boost by adding Tony Pollard (66.8 C-AVI) to solidify RB2 and Jaylen Waddle (63.6 C-AVI) to fit into FLEX, easily outstripping the loss of Garrett Wilson's 78.7 C-AVI.",
+          "sideADynastyImpact": "Trading Garrett Wilson (91.6 D-AVI) represents a minor long-term peak asset loss, but acquiring Waddle (85.7 D-AVI) and Pollard (78.6 D-AVI) maintains strong overall portfolio value.",
+          "sideARosterImpact": "Reconfigures the starting 8-man lineup by elevating RB reliability and bolstering bench depth with Tyjae Spears.",
+          "sideBChampionshipImpact": "Ravens Regime absorbs a net negative weekly impact for 2026 title contention as the upgrade from Waddle to Wilson (+15.1 C-AVI) fails to offset the complete removal of starting RB Pollard (66.8 C-AVI).",
+          "sideBDynastyImpact": "Gains an S-tier dynasty cornerstone in Garrett Wilson (91.6 D-AVI), raising overall wide receiver portfolio age profile and long-term ceiling.",
+          "sideBRosterImpact": "Forces backup options like Kyle Monangai into a mandatory RB2 starting role, leaving their backfield vulnerable.",
+          "valueAssessment": "The package sum favors Mile High Royal Lions heavily (208.9 C-AVI received vs 102.6 C-AVI sent), creating a valuation imbalance that requires structural enhancement before submission."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus views Garrett Wilson as a top-tier dynasty WR centerpiece, while Tony Pollard is currently enjoying peak 2026 redraft volume in Tennessee. Jaylen Waddle is fully cleared from his chest issue, while Tyjae Spears is recovering through a Week 9 bye.",
+          "aviVsMarket": "Market values Garrett Wilson slightly higher than his C-AVI due to long-term talent, whereas Tony Pollard's recent 5-TD stretch over two games has elevated his short-term trade market.",
+          "relevantContext": [
+            "Tony Pollard has produced 246 rushing yards and 5 TDs over his last two games.",
+            "Jaylen Waddle was a full practice participant following a chest injury and is expected to see expanding target share.",
+            "Tyjae Spears missed Weeks 7-8 with a knee injury and targets a Week 10 return after Tennessee's Week 9 bye."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is actively pursuing a championship. Trading away their primary RB2 Tony Pollard directly undermines their current-season starting lineup strength.",
+          "packageFit": "Receiving Garrett Wilson upgrades their WR group, but backup QB Michael Penix Jr. provides zero immediate starting utility behind Lamar Jackson/Cam Ward.",
+          "lineupReplacement": "Ravens Regime has no adequate internal replacement for Pollard; moving Kyle Monangai or Blake Corum into a full-time starting slot weakens FLEX depth.",
+          "competitiveWindowFit": "The proposed deal conflicts with Ravens Regime's stated 'Win Championship' goal by stripping starting RB production.",
+          "positionalScarcity": "Running back production is scarce in a 16-team league, making Pollard's loss particularly painful for a contender."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 8,
+            "packageMatch": 10,
+            "lineupReplacement": 5,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 42,
+          "classification": "Unlikely",
+          "explanation": "Because Ravens Regime is competing to Win Championship, trading starting RB Tony Pollard without receiving a starting RB back creates an unaddressed lineup hole. The submitted 2-for-4 proposal lacks sufficient total value to induce acceptance."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Best-effort offer (not validated as realistic; 42% estimated acceptance): Because Ravens Regime is competing to Win Championship, trading starting RB Tony Pollard without receiving a starting RB back creates an unaddressed lineup hole. The submitted 2-for-4 proposal lacks sufficient total value to induce acceptance.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 78.7,
+              "davi": 91.6,
+              "publicMarket": 85,
+              "leagueMarket": 82
+            },
+            {
+              "name": "Michael Penix Jr.",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "QB",
+              "age": 26,
+              "cavi": 23.9,
+              "davi": 60.6,
+              "publicMarket": 55,
+              "leagueMarket": 52
+            },
+            {
+              "name": "2028 Round 1 (Mile High Royal Lions)",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 80,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 78.6,
+              "publicMarket": 72,
+              "leagueMarket": 70
+            },
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 27,
+              "cavi": 63.6,
+              "davi": 85.7,
+              "publicMarket": 78,
+              "leagueMarket": 75
+            },
+            {
+              "name": "Tyjae Spears",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 25,
+              "cavi": 30,
+              "davi": 66.7,
+              "publicMarket": 50,
+              "leagueMarket": 48
+            },
+            {
+              "name": "2029 2nd · Goblins · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "whyUserShouldDoIt": "Secures all targeted championship-building blocks (Pollard, Waddle, Spears) to immediately lock down RB2 and elevate FLEX scoring.",
+          "whyOpponentMightAccept": "Gives Ravens Regime a top-tier dynasty WR in Garrett Wilson plus a premium 2028 1st round pick that can be flipped mid-season to acquire an immediate starting RB."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 78.7,
+              "davi": 91.6,
+              "publicMarket": 85,
+              "leagueMarket": 82
+            },
+            {
+              "name": "J.K. Dobbins",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 27,
+              "cavi": 39.6,
+              "davi": 70.5,
+              "publicMarket": 55,
+              "leagueMarket": 52
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 78.6,
+              "publicMarket": 72,
+              "leagueMarket": 70
+            },
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 27,
+              "cavi": 63.6,
+              "davi": 85.7,
+              "publicMarket": 78,
+              "leagueMarket": 75
+            }
+          ],
+          "rationale": "Trims secondary fluff (Spears, 2029 2nd, Penix) and directly solves Ravens Regime's lineup replacement issue by providing J.K. Dobbins alongside Garrett Wilson."
+        },
+        "noDealExplanation": {
+          "primaryObstacle": "managerMotivation",
+          "summary": "Because Ravens Regime is competing to Win Championship, trading starting RB Tony Pollard without receiving a starting RB back creates an unaddressed lineup hole. The submitted 2-for-4 proposal lacks sufficient total value to induce acceptance.",
+          "failedFactors": [
+            {
+              "factor": "managerMotivation",
+              "explanation": "Ravens Regime is actively pursuing a championship. Trading away their primary RB2 Tony Pollard directly undermines their current-season starting lineup strength."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "Receiving Garrett Wilson upgrades their WR group, but backup QB Michael Penix Jr. provides zero immediate starting utility behind Lamar Jackson/Cam Ward."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "Ravens Regime has no adequate internal replacement for Pollard; moving Kyle Monangai or Blake Corum into a full-time starting slot weakens FLEX depth."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "The proposed deal conflicts with Ravens Regime's stated 'Win Championship' goal by stripping starting RB production."
+            }
+          ],
+          "opponentPerspective": "Ravens Regime is actively pursuing a championship. Trading away their primary RB2 Tony Pollard directly undermines their current-season starting lineup strength.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Receiving Garrett Wilson upgrades their WR group, but backup QB Michael Penix Jr. provides zero immediate starting utility behind Lamar Jackson/Cam Ward.",
+          "whatWouldNeedToChange": [
+            "Ravens Regime is actively pursuing a championship. Trading away their primary RB2 Tony Pollard directly undermines their current-season starting lineup strength.",
+            "Receiving Garrett Wilson upgrades their WR group, but backup QB Michael Penix Jr. provides zero immediate starting utility behind Lamar Jackson/Cam Ward.",
+            "Ravens Regime has no adequate internal replacement for Pollard; moving Kyle Monangai or Blake Corum into a full-time starting slot weakens FLEX depth.",
+            "The proposed deal conflicts with Ravens Regime's stated 'Win Championship' goal by stripping starting RB production."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tyjae Spears news 2026 NFL",
+          "Tony Pollard news 2026 NFL",
+          "Jaylen Waddle news 2026 NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Ep0PLq_LPQW1roojJ2_VdFFDGrR3Ge5Jhxhe5zRqy9IINP7clb--I1HcUmCDWcIUQ8eHeIq1E0l9VTInnDtHYg5Nm1NNLoFl-8mKVOBdC5TtE2veFZXls298lLVo2n_zlpFC0oTHf7u0j9Ji5noQMResSajthsao6IwB6oEU6ySjijghV-nHil23keRvHQMAZ6rnBCTj_w==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqjcBQr8CoWyGRVTG6jf4Vj4RKjGrKozABrsLjrdgueOKtVv9FhPi-5ulepo9IU4Jpx_iXrKB0hWYFnQLvcehgAqpsveUFkO6a8rVeWlatZHGc3MluLe6a4ApIN26SKaQ0gLcrrffacIak",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNOXH3uauh676_wBGnakMX5iqxouuQMxCqHLxyjnGk2bgsR1GNQRJSAmql32gbYIph68hkQZjNXxswe1ob5hy6HK2FaTIGuOBMIxAV45ZjBzj1yQSnYBmuKhCo2_8ptZ2BN2SJEUfohQT1wGhdyJeJjmLFRHOJmXYNxlBSvI1J7hpAGayxSFp5-11v8EgDdVuI1358RNA96FCiZkW6I_R_VkE_TxqKbQFj1V-jf7HzgiF2KpqgUELtWqJMK7cQAY1tVQ==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBLjGrZh7MiSk4P0DrJXcJX9bpp6q-c-0dg2GrWGganw0JS-fKhRdEVftrPakyKVCkcOO-U9TxAG8XRHgJfibkzBk1vfHvHFCy4o2nIQr_Tr6NR87BI5BLvxz2h9tNGJYuMSef6OAbm1FdXZg35N77CZGDoj02tc-aWSR_0AEiSHUnhtsDj50x-o8xlUKCBHSP_Q3Ew7uPfPJk",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ-f4WpDElnJZOP4s6WLirZ3h95A076lWgONbyEH_gIDbUGKBKPBnYKnO1IMHrrY4mW0IxLHq--Bx2DgMlrikCvAHkxLY4dmwWblYZk9LVF7uf8dJ8GMPlOyU92nn56w_zGoDdmFNT1RQs-1AEn65jleTkX6UkyUGL3EHZ6EVFZzdUAJ-xXtcdCVWw0NOvW39yZTgFAqQEnYSAYMoKKBNn8_TEEp4mnc-EXgY02OikikPW1mjjL6cFINo9sEo3-Vwd",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEPWtWncU3IFSjI6bXWZXPtL02HMerDlgKd1sI42FZNv8k0z_8_JWUdR7EypllqC1mAHWmm9F0Oja3WZNnaMvj2PYLioCNG1MdeBVtWCRiq9ixlrsimnty0UFox805lS631jp1BEQDJg==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHigWqTkxCqvs5L40OtJhVECVe7Gnj7N6PkSiKbBKxnAU-7G7flU8KwW_xmVNUV2B2C_UqEpLzXGKXy2ud86WmuiB9SfaEhC3YGOkqLtquVWNE4pHyMzqosVzJf5ZD31rWkDYvtkzLrBPQtP27kGlR_j05ED0zs8I1yLnCDbme6kCbgfU0pMJw=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpRJ26kmmtJzCQECq6D64Lv-VqBK389gBMQbWRximCFQHE_cpNYApjgvbnGFRggvgbjBlCsV17EcdW8R102J_o8Olc28_7VeeKvexf1bSNa65hFiT3-Kw4Fp2smZyEdCggbM-j44xcO1Ur8F41rlwyzMHEenODzBWUNDdCngyySWoD6cuIXhzG-pxzfC36IP_QPG8eudlcJKAi6jllz-Rq6D079zCaddXKHFYrA8eG66viMOZZkp6j-2DvuJdHLin1UHXBLRWuFRu1RCs=",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgTkZCHbQQAi5TnTsqoeaR-OBnAHpFQQ2Yq-GVeixz7m4RHEjjpgj5IlwU_K_9Yb9z5ZNFCvclP_FC8WZYoltLOP2eji-SGRtma5mO4WEARh_dbs9_6xMUjSJfk3Y-i8JJws2_fS-MRFI8Q7C50kuTPKM2QZZ3yPGmnBuaSJ5WwpJIct4W4UQYbMEfEPPx0gdgh3CpjqRUqyZkHSNnyZyHibpnd2eRlw4=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwg3EL_EJWV9aB2m4qGEijQxiN1Q1d3WbZfCYY_gCOnzc00iG46TcL0YGHMDVvpj5AqoMEokG-5Vd7m6u7YsbuBlNoelgnrknegON94jVyLe70vDoL-kDKoF6dlhVfW29zQi5OxxSaUNq_PkwU1hnsM9K_MmDb",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwfbxeyRKnIGlFdJAShNwnGELKTR_7dpja0HcZdCm1oU9ACcVgWgyQuxQzZGgqMc60nU8nbfCgBlcGBX3_SxtjdMeh9h8HzVBLic_oCfSYzYpg24Zr9DqLeKnUu79B2wcc9R_XpiBRuIXydCwcKAmdg_c48inlygzxPGsiJwJl9M8KB5HDkt1_wTcY83RzVDyMqgihjN8STQvUHF2VsZOXmrU9Xg==",
+            "title": "tennesseetitans.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAv5uUW5CM0FwdsU12GdwmMRT071pWyixJO10Fu10TlC4zCmj9S1mZkfi7xvDTY-2cId5Sa6xP0wG3p_pxWKUzXjoR0An9gpwIGyYvIESq-AWOK9ECYt4u7tP3vmlk1oAD3xyqrg-j5oOLP4_zhXKWuB-SgKs8eTqLrG-lZ5CRFYAM09TYJ_Tf60wqX-GPmMpfwHFygrOjo0nF_16HAPEyNw3OFrgBbkZh0ixK2VxQoLyLyYBrOfEL9WzKAQ==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnF8aUuFN0YMjOQ94ZlV_a1QFpxhPEcAuiS452MR1yLs5m54zrwt9uYL4W6VLD-rG2aNU3dDK38c3ACx__H-7WmQkKxkSTkqzMVnV-8_DoJIzloUPtAn44yiXLuAV79b2GXKubzK8KZe9fCuhXkH41k0ErIoeTUyvpCEp85N_RKbAvU3up1qYcu1AnWOCPMX_kP5aj",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWwJ7oMj2apotJh8iyB-yRL5nhvmex3EfNW_VZLtUrYH5x72frN5T6xnc66B7wfCvKz0VCkIg9aIALeCq7BpvP9Y2hTE4pwy1L26BUPZTdx-8FwJ-LqegX_lt6c1_DnfWEo9yMF4JnwuYRLzRBncSF8_Pb38s=",
+            "title": "fantasyfootballcalculator.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "01da9ed338d8d8919bf4d980f4fc6e844e005271",
+        "aviCoreCommittedAt": "2026-11-05T02:37:55Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 90950,
+        "groundedMarketChars": 4947,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mw1gkdml-3cb4229d",
     "createdAt": 1793756987075,
     "expiresAt": 1794188987075,
