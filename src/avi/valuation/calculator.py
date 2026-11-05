@@ -36,17 +36,37 @@ DAVI_WEIGHTS: dict[str, float] = {
 }
 
 
+def in_season_cavi_weights(completed_weeks: int = 0) -> dict[str, float]:
+    """Fade stale season-long projection/consensus assumptions as 2026 games accumulate.
+
+    Early weeks have too little observed production to discard projections.
+    By eight completed weeks, actual points and recent consistency must dominate
+    the championship score. All players use the same weekly methodology.
+    """
+    progress = max(0.0, min(1.0, (completed_weeks - 2) / 6.0))
+    return {
+        "player_points": round(0.40 + 0.20 * progress, 6),
+        "projections": round(0.25 - 0.10 * progress, 6),
+        "league_context": 0.10,
+        "public_market": round(0.15 - 0.10 * progress, 6),
+        "elite_upside": 0.10,
+    }
+
+
 def calculate_c_avi(
     components: CAVIComponents,
     player_points_active: bool,
+    *,
+    completed_weeks: int = 0,
 ) -> float:
     if player_points_active:
+        weights = in_season_cavi_weights(completed_weeks)
         value = (
-            0.40 * components.player_points
-            + 0.25 * components.projections
-            + 0.10 * components.league_context
-            + 0.15 * components.public_market
-            + 0.10 * components.elite_upside
+            weights["player_points"] * components.player_points
+            + weights["projections"] * components.projections
+            + weights["league_context"] * components.league_context
+            + weights["public_market"] * components.public_market
+            + weights["elite_upside"] * components.elite_upside
         )
     else:
         value = (
