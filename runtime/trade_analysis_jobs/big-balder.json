@@ -12,9 +12,380 @@
       "maxResults": 3
     },
     "createdAt": 1793859604344,
-    "updatedAt": 1793859606161,
+    "updatedAt": 1793859661700,
     "expiresAt": 1794291604344,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (74% estimated).",
+        "teamDiagnosis": {
+          "competitiveWindow": "Playoff Push",
+          "strengths": [
+            "QB depth with Jayden Daniels and Kirk Cousins",
+            "Solid RB volume with Chuba Hubbard and Omarion Hampton",
+            "Elite WR nucleus featuring Nico Collins, DeVonta Smith, and Rashee Rice"
+          ],
+          "priorityNeeds": [
+            "Consolidate depth into elite cornerstone talent",
+            "Improve top-end scoring ceiling for playoff push",
+            "Maintain high long-term D-AVI horizon during retool"
+          ],
+          "tradeableSurplus": [
+            "Starting WR depth (Nico Collins, DeVonta Smith, Rashee Rice)",
+            "Starting RB depth (Chuba Hubbard, Omarion Hampton)",
+            "High-end young QB capital (Jayden Daniels)"
+          ],
+          "constraintsApplied": [
+            "League-relative starter-for-starter filter strictly enforced",
+            "Verified target team organizational goals applied as binding constraints",
+            "Confirmed trade-block assets given full 30/30 availability credit"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding franchises unwilling to surrender top youth for current retool packages",
+            "Contending sellers requiring unmatched elite position replacements",
+            "Lack of confirmed trade-block availability or strategic alignment"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "All Hail King Jesus",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Amon-Ra St. Brown",
+                "assetType": "player",
+                "owner": "All Hail King Jesus",
+                "position": "WR",
+                "age": 27,
+                "cavi": 93.5,
+                "davi": 98,
+                "publicMarket": 94,
+                "leagueMarket": 95
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Nico Collins",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "WR",
+                "age": 27,
+                "cavi": 78.1,
+                "davi": 93.2,
+                "publicMarket": 88,
+                "leagueMarket": 89
+              },
+              {
+                "name": "Omarion Hampton",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 23,
+                "cavi": 40.3,
+                "davi": 82.5,
+                "publicMarket": 75,
+                "leagueMarket": 76
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Cornerstone Acquisition / Contender Consolidation",
+            "strategicGoal": "Acquire S-Tier PPR WR Cornerstone",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 22,
+              "packageMatch": 0,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 74,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Amon-Ra St. Brown is a verified trade-block target who gives Big Balder Brand a premier WR1 anchor with elite weekly floor and ceiling to propel both current playoff odds and long-term retool status.",
+            "whyOpponentMightAccept": "All Hail King Jesus is in Win Championship mode and receives WR1 replacement Nico Collins plus starting RB upside in Omarion Hampton, instantly filling a lineup hole and increasing total championship scoring depth.",
+            "championshipImpact": "Increases weekly WR scoring ceiling and floor significantly for the current playoff push.",
+            "dynastyImpact": "Secures an iconic 27-year-old dynasty WR cornerstone (D-AVI 98.0).",
+            "rosterImpact": "Consolidates WR/RB depth into a single elite weekly starter slot.",
+            "publicMarketContext": "Amon-Ra St. Brown remains a top-5 PPR dynasty receiver; Nico Collins and Omarion Hampton represent high-value current starters.",
+            "risks": [
+              "Slight reduction in overall RB depth post-trade",
+              "Nico Collins explosive week potential surrendered to a contender",
+              "Elite target Amon-Ra St. Brown requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets.",
+              "Does not meet the 70% Market Reality requirement (74% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Nico Collins and Omarion Hampton straight up, highlighting St. Brown's public trade-block status.",
+              "acceptableConcession": "Add a 2027 3rd round pick if competitor bids emerge.",
+              "walkAwayPoint": "Do not add 2027 1st round draft capital or top-tier starters."
+            },
+            "deterministicRejectionReasons": [
+              "Elite target Amon-Ra St. Brown requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Corgi Loaf Baking Co.",
+            "targetGoal": "Increase Playoff Odds",
+            "targetAssets": [
+              {
+                "name": "Patrick Mahomes",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "QB",
+                "age": 31,
+                "cavi": 43.2,
+                "davi": 76.6,
+                "publicMarket": 80,
+                "leagueMarket": 81
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Jayden Daniels",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "QB",
+                "age": 25,
+                "cavi": 68.2,
+                "davi": 84.1,
+                "publicMarket": 89,
+                "leagueMarket": 88
+              },
+              {
+                "name": "Chuba Hubbard",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 27,
+                "cavi": 77.8,
+                "davi": 84.5,
+                "publicMarket": 79,
+                "leagueMarket": 80
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Elite QB Pivot / Playoff Push Floor Upgrade",
+            "strategicGoal": "Secure Long-term Elite QB Floor",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 20,
+              "packageMatch": 0,
+              "lineupReplacement": 11,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 69,
+            "classification": "Stretch",
+            "whyUserShouldDoIt": "Provides proven multi-year QB stability with Patrick Mahomes while retooling depth into elite QB assets.",
+            "whyOpponentMightAccept": "Corgi Loaf Baking Co. needs immediate scoring output to Increase Playoff Odds; Jayden Daniels provides elite current C-AVI plus starting RB volume in Chuba Hubbard for upcoming must-win matchups.",
+            "championshipImpact": "Stabilizes weekly QB production with elite NFL passing talent.",
+            "dynastyImpact": "Gains a lifetime elite franchise quarterback asset.",
+            "rosterImpact": "Exchanges surplus RB depth and young QB for elite established QB tier.",
+            "publicMarketContext": "Mahomes is publicly available on the Autobots trade block; Daniels and Hubbard are performing as top-tier weekly starters.",
+            "risks": [
+              "Daniels outscoring Mahomes in short-term rushing floor",
+              "Parting with dependable RB starting volume in Hubbard",
+              "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Patrick Mahomes fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler.",
+              "Does not meet the 70% Market Reality requirement (69% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Jayden Daniels and Chuba Hubbard for Patrick Mahomes, pointing to immediate PPR lineup upgrades for Corgi's playoff push.",
+              "acceptableConcession": "Swap Hubbard for Omarion Hampton if preferred by trade partner.",
+              "walkAwayPoint": "Reject if additional premium wide receivers are requested."
+            },
+            "deterministicRejectionReasons": [
+              "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Patrick Mahomes fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": {
+          "summary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (74% estimated).",
+          "primaryObstacles": [
+            "Elite target Amon-Ra St. Brown requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets.",
+            "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Patrick Mahomes fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler.",
+            "Seller acceptance remains uncertain; trade-block listing is not required to explore an offer."
+          ],
+          "userConstraintImpact": "The proposed offer respects verified ownership, but has not met every market/fit criterion.",
+          "closestPathToDeal": "Use the displayed verified construction as a negotiating starting point, not an accepted or 70%+ realistic trade."
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jaxon Smith Njigba 2026 fantasy",
+          "Omarion Hampton NFL draft 2026 running back",
+          "Amon Ra St Brown news 2026",
+          "Nico Collins news 2026",
+          "DeVonta Smith 2026 fantasy",
+          "Rashee Rice 2026 fantasy",
+          "Jayden Daniels news 2026 fantasy",
+          "Patrick Mahomes news 2026 fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwg05SslyVAOAfmQFB1KzBWImvmLJCJJ5KKfYcrPWj3kEdNuEne7gWiD9Mk8Sx-qxVUcq1tesVpuKFdceP-ycfVNAKx4OxwNS6Osegz81Ht0ltFcjjVetswLYq1PHW2ulEJIsmyClt5mdXsqgrrR5jl1LvrJIdzNdYri6tuu0M40m5_zddvJlZpArjKglNXz0KevZ2j7R4RUxBP1e8A9xIR38U9D0C79BxJdyfqtOXs-RNwA==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZy5am-t3hyv-YXTdNtfn-vpZUvOAE2pPcqddXAMK8iMJTLrCW0k5YMcGkHPieknoaAhv6BVfF1-cRLD0iGycm6zR3O-7X3PtnOyiEWUZsmBY74eSrYFEkV5X5g_JCWpNCmvd-0NB7LXKStXVSQ8dpQHSWMlGfsNjXyeV9eMqPMYcmGnmnd5xW1yZHE95EZkjV",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhNPyaAVXOlxX-YwG2C5Q0ztc3sSanns0tAFKJ07hb9HV4_L-xiR6RWsast0Gu8YS-X2JiJ9joFpGDVHb9osaND2JM9Fo5PGh3MGlKgVed2m6--U4ooRVH8Mot_c9sR2KZ61ECE61eq561a_WiWWxNxfCDPZhdJmB-LTI0T2jiVyE67oXa-BU-cUbSWBWWKiji-rrAQAky0f9JDPtcbtGE2WOtXyaLkupnW1yCzNpuP_okaq5V8jBorLNER6cuokj6vjiFmEV9Jg==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0_noIgIzbtQ6iExWGFIqmVJE7Jjvqj3992zL7J4z6xqtqg9nSGkmHkAlOHnAKJepZGjcYhQrWZniwi2w1tywHccWmlF4hNDKlGymZRoYFu7X1J6dhd0zsFLZ5Ys22WXxzQ9e8DepNJTCv0YS_qdsd5s1dowK1YBGiR5DV0NBhidH05uff0Nqr8BZkta4n7O3_E1KMjhASgXCeTLRl4IZsb3Fd",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAnwAz7fTP3nMVqIhhBxfz6H8ylK-0i41Wkn0IU6W6apQEkx5jO426he2QmO1kzYtkCSvEgCzsdY6MG7eYuXoojqmboAZfiZZRJvUUiiBKFG0ACNH_-IIv25cakHEltsP3_GG-sJb8Cw5vjYYaMQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_84FraBC5Sg8A-ayYdn39rDLyjScxDVYn2GpkXwZOaBeuw1P2T9LUbs9R70UgHFumSRvBOeSjwcD0ysimOREn5I-8vpl5SIlzVep21E94-pBjVVGbWEwor74S8EpR9E9eBZVCellWXeEuOSkxWFNdWW_VTBcbX9MlXGWBXqU8AX9xQbXx2W9LcqgFAJs=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv399kejW_Fpk_bED8SMhNzMqfjSHx9WOW3WSZ9gJv8mzYTvaj-l83EFrUQALbd9pohd2gj8vjjYph5Lw6LyYGC-7VmtvfD-QhA07dhrNZYr4GA4oFOHmmVAHZTMNm1fVpUVNQ7bjS",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHovtxVdKTuRbDljbOOGrWtw70BsIZB_JzlT3V0VwGPOGbR2ZeswJnNcW_ZXsxiyr3OOchqTNXwINEmRlTcSY51cgUPAb_DUqxbVHpvVddWtrkKEw_w03a6_5EXDmqZvvWjfxUJYgi-p4KiEzrb7AkcsQwMdk6UEnJLOHpNyCEJPkEwynrUDonoB-mymNXYWvCFT10IKsWGSXntLoxbmqo=",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgtqOtzcKAqYe7WRN93kUM4cMfvUhBD2uf_TBRgrC_mKX7_Z2JFIxYNsm1zWG8MA4ufJJr4a-2k59HVdHo06Dxbk2qQILCDWiAgAi7_JHds7AvhB4q5FDPibRJkd5dGks2fhvlMX9I39vHtrDYXpcSGMMphbhf1kVUS1XsrFGVs3nDv2pQNGmTW_NeMsOY2JPW1AT-Gd4=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbzY70-BQQ93nMQKMvNtnG-d44z30cgfDOPWJxlgOACZ-Ui5csrZ1ah7YgYzDjVBMrCO8lqaxY53KEaxMFIHzSToRt6f_7wh0_BkUPTatHBun90HIb5XfO1NKwUSDDFogv9EuP-6ajqKtlnVPWLxKxn6RyrKqkMEq-CQ==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvzIFbqnGtzdl0NogjX3vhac0A-9_UsuwJvxpDVO36pY5gVX3lghx9y9snIW7E-j_Hj1oI8dZrY9ePF0vUCCqaEtfjQHx1ru-AYlO-wZ5hh6zAgbniRrH8EgZUQ4B6XCd_",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZXP5G-VJZ-ik9O6LNotkM7JJbH3nvjk9zCAKNAanh61uv_ENBaD9CT7dR32UWKUzANB1gNhnsWcHkbvcgxxbiPAEcnLeIVUE1SOZ8ClI5jQAPd9llb--Nhbt293Y6h_sYBqnxaLGAX-y95zf1hjGUcEfQdTDZf9_5HV997zoyJkKR783aLysDRC-3368HDnmOnKpRvj2GAiXhwjdM0zikCOg=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQzh18hJlvOoO4yiJF8rBg2FahJni5A-6WYvsy8NragRN4pFfkOZHAXsWfnXGKmFZfVzVTq_Z8yF_C5HVjXuJarwfS1zqS-lBkVzgDvHDAPbdI77qsr52IK_Dm8qsPtQOTeWniMo_p4uJe7XYZ57uKlIjiNu0urcDmcw==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPGgPOCriCNmlBHqnzkU5erK_LlbukyWUosBiDyoDPAZMDe47QG2nUEEzBGLT0zWnjFYWN8aFUDqAK2mwWFUEfNWBd9zbrL1LTN_s-HWE2WGGcuU_njpf8Yyi-Oi1X4kt1PISa346xrmmVgjd63oU=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ33th3NESebyr4-P7jlD1JZdTPpQYgTklurVaP33uruFFNvjrxxA7ejb_0VEG60YDOXYcKeTBfbOrteCpAimYXzo2eESW-VmHldVMcOhW0E0azsMGU30QKdm3dLhyQ8QDFlqgpsidqiL35LBYHVmqTsBZKKtv-L8=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuRdUoYPkV2GLKsjAEppEYx0dC_O5lJfKWIhNniE2j4p49F0g8XB9fkmgPyopLuhKzzdLqW0vOVcWBR-PDjHauHekUp1TX89Gg4g1sj28__Zrd-GSfAMksdelSENgafVZ8DkjPBfQJ15Pm5kz1VQ1kz3-vIX8vxNAMU8WrIEvXUZmKOw==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmmM96wPx9uaMuObZ8ylLPOKfPiUgcAOpUUgzQek2sIZrQgk53ZICyGYBXXyPQppshV0F3D6BzFEkRByOnmjT4AuRYxa8s570ZSm4PC2VZx9cahFlsCtjOvuErPmYOeNqmM704BiyulziuQD1ZgmR3GHROeR9LHRJ4Pp0NRBtRjoMRhoPxk0uhJbDRHplil7yDcQ3e2wA6ZoEC-Og7wplW",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk-0k06afcC_DYjFbcpJdYxU-2NYQwytcX6nIyauuTa3K08MBCn3dSOm4E9k7lrruVwI3D1j2vZEqHpqbNPkN1l8p-HmzA3OJ1W0ZoAYDH6FzqKpDONdOMiu5H5gwlJPPviwsXYjSB9R9_wj8Lcb-6XTiZ09a8UnLoAwU2YcpszQ29fU3HWvxCnp97AcLYrrq0pvRsjPqevNbNVJh3",
+            "title": "roundtable.io"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC2e-Ldt5o7owwYjegQI42mGRQt4wRbduKxsZl3xr8ggUeQJDXjEppLLnAjM9kxxtIH8frK6y9zIjCSG3GGUsXfsHILeuXz2HU6FBIhZ-2KOMJi4HZ9CcPxiFxPYHQmhELro--KaHqO3G6Qkrg_0h3MTpeEf9IEcXMBNzQh7cA2DCPdZRVXPvcDEQnoAjzNVawDbkAbu2J3HKF8-JK1dZ2pCh-zBJPZv__MSfJp7a1djAqN7vOj5MxDw==",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdgs49CpEI9uyF69fQkPTNrLVR8UJPaTY_y04i3B5fMGojBWCmRxIlL1IxqxlgP2jtYWw4y9whTKN7SbxX_JwgXRNuhcI21Vf4PHY-UifGAtzXfg7hF8TMCp_NMcDpdJ3sX6xzoo8ptK7Uag9V1dYClPMWguGFRdxXOS0qmJisKPVcUkQCPdaj-MAD-B-zJcWUhpXjFsM7nZXnG5Pie6iB1WqfhjpvWwXKbq4mGLz4XQ==",
+            "title": "draftsharks.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Amon-Ra St. Brown",
+          "Nico Collins",
+          "Omarion Hampton",
+          "Jaxon Smith-Njigba",
+          "DeVonta Smith",
+          "Rashee Rice",
+          "Patrick Mahomes",
+          "Jayden Daniels",
+          "Chuba Hubbard"
+        ],
+        "aviCoreCommitSha": "39acda66833538a91ac912904045477647fed700",
+        "aviCoreCommittedAt": "2026-11-05T05:54:49Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 544647,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 249,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mw35hbe0-c9a0bc23",
