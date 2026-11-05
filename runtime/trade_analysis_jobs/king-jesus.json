@@ -39,9 +39,463 @@
       "alternateAssets": []
     },
     "createdAt": 1793920721848,
-    "updatedAt": 1793920724132,
+    "updatedAt": 1793920784146,
     "expiresAt": 1794352721848,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": false,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": [
+            "Carson Wentz is not listed on the current roster export file for All Hail King Jesus; evaluated as a low-tier QB spot-starter baseline."
+          ]
+        },
+        "executiveSummary": "All Hail King Jesus proposes sending Bryce Young, Zach Charbonnet, and Carson Wentz to Ravens Regime in exchange for Derrick Henry and Tony Pollard. From the perspective of All Hail King Jesus (goal: Increase Playoff Odds), this transaction would be a massive triumph, immediately erasing a glaring RB2 weakness (Kimani Vidal, 29.4 C-AVI) by slotting in Derrick Henry (80.0 C-AVI) and upgrading FLEX2 with Tony Pollard (66.8 C-AVI). However, from the perspective of Ravens Regime (explicit partner goal: Win Championship), trading away both starting RBs for a QB package and bench RB depth completely strips their championship lineup of high-volume rushing production, creating an irreparable starting RB hole. Consequently, Ravens Regime will reject this 3-for-2 proposal as constructed. AVI recommends revising the offer to target a single RB anchor (Tony Pollard) with a realistic multi-position package that preserves Ravens Regime's lineup integrity.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Bryce Young",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "QB",
+              "age": 25,
+              "cavi": 50.9,
+              "davi": 69.6,
+              "publicMarket": 58,
+              "leagueMarket": 55
+            },
+            {
+              "name": "Zach Charbonnet",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 25,
+              "cavi": 20,
+              "davi": 71.6,
+              "publicMarket": 45,
+              "leagueMarket": 42
+            },
+            {
+              "name": "Carson Wentz",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "QB",
+              "age": 33,
+              "cavi": 15,
+              "davi": 20,
+              "publicMarket": 15,
+              "leagueMarket": 10
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 80,
+              "davi": 87.8,
+              "publicMarket": 82,
+              "leagueMarket": 84
+            },
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 79.3,
+              "publicMarket": 68,
+              "leagueMarket": 70
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "F",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "Submitted trade heavily favors All Hail King Jesus (+60.9 net C-AVI gain), giving them two immediate high-end starting RBs (Derrick Henry and Tony Pollard) while giving up QB depth and an active-depth RB (Zach Charbonnet). For Ravens Regime, giving up both starting RBs decimates their current-season championship aspirations, leaving them with severe lineup replacement holes."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "Revised trade focuses on acquiring Tony Pollard for Bryce Young and Deebo Samuel Sr., providing All Hail King Jesus with a direct RB2 starting upgrade while giving Ravens Regime starting QB stabilization during Lamar Jackson's injury plus usable WR depth without stripping Derrick Henry."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 90,
+              "summary": "Immediate surge in weekly scoring projection and lineup ceiling for remaining regular season games."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Trades away 25-year-old QB Bryce Young and 25-year-old RB Zach Charbonnet for older, high-volume RB starters."
+            },
+            "lineupQuality": {
+              "score": 95,
+              "summary": "Replaces Kimani Vidal (29.4 C-AVI) at RB2 with Derrick Henry (80.0 C-AVI) and Dallas Goedert (56.4 C-AVI) at FLEX2 with Tony Pollard (66.8 C-AVI)."
+            },
+            "depthResilience": {
+              "score": 60,
+              "summary": "Slightly reduces QB depth behind Brock Purdy, but vastly strengthens active starting RB flexibility."
+            },
+            "flexibilityLiquidity": {
+              "score": 50,
+              "summary": "Absorbs short-term aging RBs, converting young upside into immediate weekly PPR wins."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Substantial net positive across all weekly scoring and playoff qualification dimensions for All Hail King Jesus."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -90,
+              "summary": "Removes both starting RBs (146.8 combined C-AVI) from an active title contender."
+            },
+            "dynastyOutlook": {
+              "score": 25,
+              "summary": "Acquires 25-year-old Bryce Young and 25-year-old Zach Charbonnet, slightly improving long-term age profile."
+            },
+            "lineupQuality": {
+              "score": -85,
+              "summary": "Forces unproven/committee options (Blake Corum 54.5 C-AVI and Kyle Monangai 52.5 C-AVI) into mandatory starting RB roles."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Adds QB insurance during Lamar Jackson's temporary injury, but leaves zero starting-tier RB depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Exchanges high-liquidity starting RBs for volatile QB asset and backup RB."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Devastating roster hit for a franchise explicitly operating under a Win Championship objective."
+            }
+          },
+          "explanation": "Visual impact reflects the massive asymmetry of this construction. While All Hail King Jesus achieves a championship-level starting lineup upgrade, Ravens Regime experiences severe degradation in its primary objective to Win Championship."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "All Hail King Jesus gains +60.9 C-AVI in total incoming asset value (146.8 vs 85.9), boosting their starting lineup from 581.8 total C-AVI to over 640 C-AVI.",
+          "sideADynastyImpact": "All Hail King Jesus surrenders 161.2 D-AVI (Bryce Young 69.6, Charbonnet 71.6, Wentz 20.0) while receiving 167.1 D-AVI (Henry 87.8, Pollard 79.3), keeping dynasty equity balanced despite aging profiles.",
+          "sideARosterImpact": "Solves the mandatory RB2 starter deficit instantly while preserving top WR trio (St. Brown, Higgins, Jefferson) and QB Brock Purdy.",
+          "sideBChampionshipImpact": "Ravens Regime surrenders 146.8 C-AVI in starting RB production, dropping their active starting lineup score significantly.",
+          "sideBDynastyImpact": "Ravens Regime gains young assets in Young (69.6 D-AVI) and Charbonnet (71.6 D-AVI), but the cost to immediate contention is prohibitive.",
+          "sideBRosterImpact": "Creates an immediate emergency at both RB1 and RB2 positions for a championship-window team.",
+          "valueAssessment": "The package offers significant market value surplus to All Hail King Jesus, making it an ideal win for the user but strategically unviable for the receiving trade partner."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views Derrick Henry and Tony Pollard as elite short-term win-now RB assets. Bryce Young's market stock has stabilized following confirmed contract extension talks in Carolina, while Zach Charbonnet recently returned to full active status in Seattle. Carson Wentz represents a temporary spot-starter in Minnesota.",
+          "aviVsMarket": "AVI rates Derrick Henry's short-term C-AVI (80.0) in line with public redraft value, while D-AVI (87.8) reflects his elite volume despite age 32. Public market values Young higher in Superflex, but in 1QB Autobots format, QB value is compressed relative to starting RBs.",
+          "relevantContext": [
+            "Bryce Young is fully active and reported down the road on a major Panthers extension.",
+            "Zach Charbonnet returned to active duty in Seattle Week 8 following ACL rehabilitation.",
+            "Carson Wentz is starting Week 9 for Minnesota replacing Kyler Murray (hamstring strain).",
+            "Derrick Henry leads NFL in carries (158 for 632 yards, 8 TDs through 8 weeks).",
+            "Tony Pollard has posted consecutive strong rushing performances (246 yards, 5 TDs over last two games)."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is actively pursuing a Win Championship objective. Moving their top two producing running backs for a quarterback and backup RB contradicts their win-now campaign.",
+          "packageFit": "The package provides QB cover while Lamar Jackson recovers from a thumb injury, but creates a catastrophic deficit in mandatory RB starting slots.",
+          "lineupReplacement": "Ravens Regime cannot internally replace Henry and Pollard without dropping to low-tier committee backs (Corum 54.5 C-AVI, Monangai 52.5 C-AVI).",
+          "competitiveWindowFit": "Fails competitive window fit for a championship contender by transferring prime current-year points to a conference rival.",
+          "positionalScarcity": "In a 16-team league, high-volume starting RBs like Henry and Pollard command an extreme premium over spot-starter QBs and secondary RBs."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 5,
+            "packageMatch": 8,
+            "lineupReplacement": 2,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 32,
+          "classification": "Unlikely",
+          "explanation": "Ravens Regime will not accept this offer because it strips both starting RB slots from a squad whose explicit goal is to Win Championship, returning assets that do not replace the lost starting PPR points."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "The goal of acquiring RB help to Increase Playoff Odds is completely correct, but requesting both Derrick Henry and Tony Pollard for Bryce Young, Zach Charbonnet, and Carson Wentz will trigger an immediate rejection. AVI recommends restructuring the offer to target a single RB centerpiece (Tony Pollard) with a balanced package.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Bryce Young",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "QB",
+              "age": 25,
+              "cavi": 50.9,
+              "davi": 69.6,
+              "publicMarket": 58,
+              "leagueMarket": 55
+            },
+            {
+              "name": "Deebo Samuel Sr.",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "WR",
+              "age": 30,
+              "cavi": 41.7,
+              "davi": 68.3,
+              "publicMarket": 50,
+              "leagueMarket": 48
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 79.3,
+              "publicMarket": 68,
+              "leagueMarket": 70
+            },
+            {
+              "name": "2027 Round 4 Pick",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 5,
+              "publicMarket": 5,
+              "leagueMarket": 5
+            }
+          ],
+          "whyUserShouldDoIt": "Acquiring Tony Pollard (66.8 C-AVI) immediately upgrades your RB2 slot over Kimani Vidal (29.4 C-AVI) by +37.4 C-AVI, directly achieving your objective to Increase Playoff Odds without giving up top WR assets.",
+          "whyOpponentMightAccept": "Ravens Regime obtains young QB stability in Bryce Young while Lamar Jackson recovers, plus a startable WR in Deebo Samuel, while retaining Derrick Henry to keep their championship push intact."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Bryce Young",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "QB",
+              "age": 25,
+              "cavi": 50.9,
+              "davi": 69.6,
+              "publicMarket": 58,
+              "leagueMarket": 55
+            },
+            {
+              "name": "Zach Charbonnet",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 25,
+              "cavi": 20,
+              "davi": 71.6,
+              "publicMarket": 45,
+              "leagueMarket": 42
+            },
+            {
+              "name": "2029 Round 2 Pick",
+              "assetType": "pick",
+              "owner": "All Hail King Jesus",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tony Pollard",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 29,
+              "cavi": 66.8,
+              "davi": 79.3,
+              "publicMarket": 68,
+              "leagueMarket": 70
+            }
+          ],
+          "rationale": "Offers Ravens Regime a young quarterback, a young handcuff/flex RB in Charbonnet, and future draft capital for Pollard, protecting their Henry-led title run."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Derrick Henry news 2026",
+          "Zach Charbonnet news 2026",
+          "Bryce Young news 2026",
+          "Carson Wentz news 2026",
+          "Tony Pollard news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTAjxCsHHXy5gaiF31NwHbZM3z42gIZu3246B8sjIuwoKGPql8vI_0tX2bqjQtfyXgYFhm70Wq27RC6_s4r_w2AARw9PNEMMRRrzjX4DtzOURf8r4nbVQoypxeWe6JjuTz",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGClEFnXD-Jn9ouBVGlgwfyU3n82zep_X__mvdN3ySqtRMBVkFSmjQrzCVBwcy2nFxG0St9qNh3GTnFXNXCQ8eS0p4JQGI8jTra1ugyNfYDJN9EpuIWaajxC95LXsb4QrEePmxORSs2fmX3wlcqE-Gpbv_RhD28j4MX2iz85A2aKCgAahhTaCy6rKqVeoyjVQ==",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKr4uWV6chXChm_OuwZwxzeSLS-Me_G6yEGM1L0xNzi8IPF-wPm2_Ka2em0qQO5tGGQNth6nJvOu3WsWOtWcJ8CG8pC2CWXs-1KlvLTQZ4x4tiMkVjjxuZjlRQNz0cX9Lti8mRNhf4mVNUsX59uFvviJR2027U0okQTDEg4JUqgzjTFNLDEmvHIrUhBivPqQRDJw==",
+            "title": "nfltraderumors.co"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwRSqwPGrJQFVKMIIgx7uvU3av67escIbdqY0gXggcOKTwpU5bgkn4P5zgBYYnUlGbUmY42xl6_riV9qXjhGXLbrk9813n_GS-aL_kt0Rg2Gdy8Kii916tjWNat0N4dnro9nGLdSCQWHB47444OxuJw-fWlQtrRg==",
+            "title": "panthers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvno-4B_jSjjh5mrCDWv-OUwFvAMtCxbk0sOd1FL8HZop1n3HBfJqAnlGt4g8yJWrebxHaejdkXJ6CqXGO6FXokYhGzcE5hWCtH5gJY7lKtxSa6qZ_2fLuz50A7yyR6m4Yax_cN4skrxXBRZFacHpGbnAhzdvfbS-uUQuEsfIiLjDvFmI7C3aqcbZbgATE",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGtZ90qp8rrOKh-sTmXYO8cbONbVcdxfro1n2joSq6DytuomO6ns8Dtbo5WRGjiy9Z0NRWu3872Mv5gFD_NsKPm-8h3fWbAhQujNG-fw94KMsKy6oSPYuIRYgJGZLLnhldV3uT8c2Lg7qVgAxizsmwFsLzl50Qz8PeoS2q6lNkjkEn-v80_rScK8QJ5nProAx3Bh9KF_koqhJ9Xg==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv1Qoy39qbRwdVv-I6_07OO_IdQATHWsEZjUtE_sQetnG3AfY84vu_LQR0_mzCqdSEVsdQnC90kozoty-be02JXLJ7MWoLHA8D3TLz1aWlIuOgULekIpfjptRFv_i2LQP5_rkxgbYDKkk-GySYvbqXcvR_Xlp-MVzgYeLfEV9jmiexOs_9jwM3NOa46-YQq84pmC46g7ilumHNjnoza_MqdO74WAllcDcoxFrS",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSULAoR8Dq9fnx8-bA5Q2FcahXk90_ff5opHb2wTXB3Zib06rH6-mMy-qQY4haRFK6wRbV4MfIxV_cIXF4NvHD5YDHyaxqn3P2z4H9ZlrnBanZjmSu-_kNhPhuXv1nbcKuxtkkL0Ya3tDFOzp8wY5rc_8hGKEttJsVM8NuXdpaQ3zMFsw_yu3oXRsYuTsmxY6fyqLy_tyWXHMfEU5w55lLhlsLHta5dQ==",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0GQofMCy5xUXLxA75y0_Iv166waMUMOCxdmr5TR9IYqBq8AxRLzt7KxkAZdP2xQJ2DcCTwuhiJXR-b5VRE5fi3G-8JtG0KrnbdK1b_D26NjhvEXoU84eQIFVVhlLUF4H0DTggHAduw_wq9KfdV7rghRKg53LtnNeqdhGQQZ2zuWQaTSUr-VObx268VJZx7n3gbATOtvFBWk1t0n1OHycR5w==",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE55sI97LMRwvF4kwWN6khVwOw-nyzuCwDecI0yn4daC1zivhAuOWml70NOxSU4GrjNhmI2CD96zEdD38IQOc8OjLE26AXb8v_z2reHcduZZ2DnNxVv_Wr4o0Gz_sFoZ61AzD-D4Ai58OqToI29vHM6zsfD5JlVPrmb_urQcHsvXlix_9rVZkK9Mo1MtfLY6Eqbh9Yo7AtWngdk0KjmAbesurAy1_SB72FZ8sei5M-6CIXnyAxvHkFzUs4WC_glFnC5k2vDa7zA3CuG",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs5qnf2FT3gfwOd_Vz41YBQgVc4Q_tFf8WSx38bbyzlrV9TLI5UeowEVUPdGjfD2g17ZKJYqSHc0WNA-0kX8l39kGmoEPYpBHkL8GoarrWgf1U4jbB6KMw1ItygmOoVOX9ABjA8zgmFM-f07WXT--z8DIbx18mFHcDx7O1dUtEfdJFkPzIfkTKxQ==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqgHa_3iCvAtlrzRcc8RFCaf_gRnQ20QzuG-WvxRcA-P6Cmrdk4Fo9O-tlNQEhnZoWAuxuvTIU1EIgR4hFDxJ4USEBknZHgYayjgX7Q-fXcXvJEzKoUcbxgWyK78qjN6vt",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBEeqjaqpAUSvn_F9cFE_P5o3WjxbBfrGSzAURctnLgsKMRYo8gesMVjte0h6IeFe54cdVVLo9MlU66ePe9ruOujxdabu7028rf9OQ3rwchJ00EETCkcAgfiHxHs_HMCMrbtI8PigJfzFzU6HAmlbsJhjhEj_GvDESMgkmSVJP8Xmi1GnD7VzRb3E=",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt2eDzRqYhK5AuMGgaypaDK7Ji_Aopls1cakcdqJXBHuaYVo_PUqzExx-1mPNm_OXH1KX-_Cs7t2eQ0vKJaK-oMZEvHLD8hF8r--ninG6isZXpkgB8TiC0mEcuYc5GMjXNh0VJXJbkWxolA0pzf2wqItt130ngiDFkOui_P0m914Y-ZoyHmcgi64Bg",
+            "title": "nfltraderumors.co"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbniz9dVg746SSZTRMr_T6UODJ5pRhiCo-HYeanorYfJYgGIn0_UpFUjoWGDKrFhSfU8loOILNkdW3HDsl-_59E0m_9QvpTd_KwUPrpwIT3s0cGemCE-DhOMMtC-NRdmvm-nxf3M-CQ1ASQWLugok6Gqe0GY05JZabnJhVoWQCoeCGEw79VtKetg==",
+            "title": "fox9.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfoPIMAVpCnDRcjlwmhDBzJ5SFkcWz3uA4Y2KoqIclLrYTphQTrTRP7J5bAql64prGhtYN2b-tH-9H1iWeWeF1XfmNkvrgaIPMUAWTQTrXdWbME92CcU0rwimmQybmE2N-rt736Je_mTJZWd8yKNNnkF9xp5fBg_-iscPN8bDH0Ja-c2wlkwKvRr37RZ6F1bBj",
+            "title": "wdayradionow.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBx2XYO65hbYRqzqSNa8Fl22icsocXrwKk95D97-bwb4LOnoSnMxspQR3isW1-OsYOc_iXVGW1UFD_u-yvV3O1NYR-tkInGHR4F1Pq95tdWLzSGteDFtj5zjai9FvCBK0xaDFEfBKny5k-iSxpqKxrSvF_k28D23qenAv9DMTOl6JDPvOhikFvzQLAY5fGL6ChyE4-Jeo-UUk6",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeW_6LegPU1gOEZ2eD-k3h1bfyyNPhWBXOnicSfrmoP9eiS0YozQXx4a-1JM-9A8MDO354splcj8tNxJ719m2R63tUYWkUxaRDpDgNDaOFbs410yX6o8CL5pQmDysLvPE1LTTu7lEcg8cxQFfVT2uFldX2XIITRJl-712rNahRPMYm8EcuWzKLmAG5VCBWT2s19gty_kaC9DPNvqtZOw_8FlFNNgTc",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU1OmxdFwrlgNOV-0-Nu23HAwr8_1mH9QgjYQxov0MJRkhX-PCX1uWJKVyfcVDzfwzT8OOwOvIsg7yWa4dpiYMfaGXdCdnDsup7j9IZiIqQUUpgHfX6J9C_Ea93Ba4LoRJ6lcFm2vub4Iz22KTcZlr3gLRhx5HbmnL2LttcqxbiNLEshAjmkrD3o1p",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYCp_jnd3kQUM6qUQw9qvEnD_Km8p4r5FBqrk-RaBF-RVCkXlRGW6zjhn1yiUU0KuYhY5SASaJ9GEeWr21cR0uSwMgTF6ioDqWbHcHEenIaQa_A_xEi433b5u6wi0iuOd973j64DRvi4NcvG1PCgNrb5kPGH0kNKjZ24dI0qHD",
+            "title": "nfltraderumors.co"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX8777zXmuYQEWcZclJ38RlYDUIWE1MvC_NWMte_LQ4n2_CrA9LF1At4b4QQKzgHafCUVZomtchZLEo9Et29xxszoE388dBiz3Yh2JLUEKbJi_LMDoBLwfbytd8xhuF6hhNfBZwyUpcmtEJVEZOgKBuSFb1C2zyPnuD06ezNWZeZWYEc08-2YxQGXHZEyP4JXNABnMbxhGjwaNRHVgKYugscN6lOe0ntIFTYfBeDiS8B9teR2Oz6MJ5YECa8_qN6bBJQjPb1JFEOMFa_awz6fuxcqrfEffZSAXZOsM4reK62QlR_kmcZyAIqR8MNog5EGqLNwly90MZrpAILBOsfGc6vjsDap1PbgBisnvIiTBdgn7o8L_MRZK0HDqurW9S8JRUcm1hD-bJryA9IQnfnvrR0uJIrcEutg0Fw==",
+            "title": "indiatimes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzlchbTSAi3PdEALCXr8Vfi82EjgKsZ-4Mj56lMD59mxPGPp5BAbaDWLQFXjMvQXv0fcyJItP_AjdGO39fBG1YgPFjgYGJtqmMv7CzVwWDSVyiP9uqcRLrgPAmF51OHm6jvktes6CVo5OM15cayPwofMj1u6ABIab83Oymh_ZYGTZH5n6ilxfmIDZ8AtCH6W3ul0saPSzvdlA=",
+            "title": "riggosrag.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxZaZtniEWdfOD-C3fW7FGeS8o2HjzJAbQCGhlYbpNqUNOz4R2GaHs6hlUtPvsHpuqClRmI041vNALu8LeJ0I_BvLB7D_71_diLRE4H3ucB5M8T6FCRkpefnTeXFCnNFL6ddXhvALgXCYvKZpUqhvIMdyW70EfzNQ-w6E_2P7Oa6MImTjOtq3mSLYoWBKufAnIF4ovo7DvTA==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdvvyRDbooLhnQ4jQMJZodsK6u45tjtrM9dBJHColsFdgklLnRxKAZOWCBdYi_aMecys9vEKhljXsTyVqRP6uye63p-lBAphpp5IqHgVrtwFaFYXkllJhA4sBpEIqW9aJEsA4hUr46nuWh4zSZG5zrg85sn_WJcY43Y3UavG1O_nZvzmneGKDnV4R9F2KBkohkS_et_tdj6_cHI1O2Z-TXrua3x0asdHJgJvy44bk3QcGkeL2D9nWpRxpVcMUMHE_71Q==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxi0hXRCjrJePwSQFvH6HEcRyuwIQi3dJFuyvnC_fbYg4n5s_29sU6WAak2zbN-BFDFwfj2jJ6YidrIvW0_PYBtfigyS5M5htdI7waOnwDvhlJNR0tB3NiuSMnvuBpOxsYLAYOzTHEwouWjGrtKVQcekjvFjoQnc1k128bPIbItdCtrIHDn4SwnCHTqAFofJaBTuKAtTjdNqIP",
+            "title": "titansized.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKgar4sVW6Aeb0FD7D5RyCGug5htMFJTeeMbUIsKVkmbdoCjpHE78t2zdC7isY231cRXq894kS0frCXgB1M4oyQ3ONV_dSNpj-e4BHRtFPvPxaM-JKhl9yuE3IAnm2_Tc77lZMDS0T9B1umc5zs9J7Qjek6LHDTG7OBZ9WbZppnjkJWX55UDr-5ntV",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "3f48e187c79e890fc99e363af730d4b7770134e9",
+        "aviCoreCommittedAt": "2026-11-05T20:45:25Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 88321,
+        "groundedMarketChars": 7893,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mw41q1gj-7103d3ab",
