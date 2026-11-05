@@ -8,7 +8,7 @@ import json
 
 from avi.io import read_json, write_json
 from avi.sleeper.valuation_sources import load_sleeper_weekly_points
-from avi.valuation.calculator import CAVIComponents, DAVIComponents, calculate_c_avi, calculate_d_avi
+from avi.valuation.calculator import CAVIComponents, DAVIComponents, calculate_c_avi, calculate_d_avi, in_season_cavi_weights
 
 
 AVI_PLAYERS_PATH = Path("data/processed/avi/avi_players.json")
@@ -450,6 +450,7 @@ def apply_in_season_transition(*, offline: bool = False) -> dict[str, Any]:
                 elite_upside=float(upside),
             ),
             player_points_active=True,
+            completed_weeks=completed_through,
         )
         player["c_avi"] = new_cavi
         components["player_points"] = actual_component
@@ -497,13 +498,12 @@ def apply_in_season_transition(*, offline: bool = False) -> dict[str, Any]:
     manifest["player_points_active"] = True
     manifest["methodology_status"] = "active_2026_3_in_season"
     manifest["methodology_version"] = "2026.3"
-    manifest["c_avi_weights"] = {
-        "player_points": 0.40,
-        "projections": 0.25,
-        "league_context": 0.10,
-        "public_market": 0.15,
-        "elite_upside": 0.10,
-    }
+    manifest["c_avi_weights"] = in_season_cavi_weights(completed_through)
+    manifest["c_avi_weight_policy"] = (
+        "In-season production weight rises from 40% to 60% between weeks 2 and 8; "
+        "full-season projections fade from 25% to 15% and market consensus from 15% to 5%. "
+        "Weights are global, not player-specific. Lineup availability adjusts separately."
+    )
     manifest["injury_rebound_policy"] = "Bounded credit for verified current injuries with missed games and established healthy ceiling; never applied to healthy underperformers or unproven upside."
     manifest["production_component_policy"] = {
         "player_points": "Ranked PPR points/game and season points, with up to 25% recent-four-game lower-half consistency adjustment; small samples receive reduced consistency weight",
