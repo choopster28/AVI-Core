@@ -1,5 +1,42 @@
 [
   {
+    "id": "mw36x7a2-6681694c",
+    "phase": "initial",
+    "mode": "counter_trade",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "counter_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Cam Skattebo",
+            "assetType": "player"
+          },
+          {
+            "name": "Rhamondre Stevenson",
+            "assetType": "player"
+          }
+        ]
+      },
+      "sharedTradeContext": "{\"source\":\"Counterparty shared Trade Intelligence report (historical, non-authoritative)\",\"originalPerspective\":\"Corgi Loaf Baking Co.\",\"originalTradePartner\":\"Big Balder Brand\",\"originalGoal\":\"Win Championship\",\"originalPartnerGoal\":\"Retool\",\"priorVerdict\":{\"decision\":\"Accept\",\"rationale\":\"For Corgi Loaf Baking Co., whose goal is Win Championship, consolidating Cam Skattebo (hamstring risk / 41.7 C-AVI) and Rhamondre Stevenson into Chuba Hubbard (77.8 C-AVI) directly upgrades the starting lineup for the stretch run. The net starting C-AVI improvement (+16.7) and high RB floor make this trade a strong win-now move.\",\"confidence\":\"High\"},\"priorExecutiveSummary\":\"Corgi Loaf Baking Co. consolidates two solid RB assets—Cam Skattebo and Rhamondre Stevenson—to acquire high-volume focal point Chuba Hubbard (C-AVI 77.8) from Big Balder Brand. For Corgi Loaf's stated Win Championship objective, trading bench/FLEX depth to secure an elite RB1 elevates their starting lineup C-AVI sum by +16.7 points after DJ Moore enters FLEX2. For Big Balder Brand manager Choopski, operating under a Retool goal, receiving 24-year-old high-upside back Cam Skattebo alongside veteran volume runner Rhamondre Stevenson diversifies backfield depth and lowers average age while maintaining startable lineup pieces.\",\"priorMarketReality\":{\"availabilityStatus\":\"Unknown\",\"scoring\":{\"availability\":30,\"opposingGmMotivation\":20,\"packageMatch\":17,\"lineupReplacement\":13,\"competitiveWindow\":8},\"validations\":{\"availabilityPassed\":true,\"managerMotivationPassed\":true,\"packageMatchPassed\":true,\"lineupReplacementPassed\":true,\"competitiveWindowPassed\":true},\"acceptanceProbability\":88,\"classification\":\"Realistic\",\"explanation\":\"The package addresses Big Balder Brand's retooling timeline by offering a 24-year-old RB with high dynasty valuation alongside a dependable veteran, making acceptance highly likely (88%).\"},\"priorTradeAssessment\":{\"userGrade\":\"B+\",\"otherGrade\":\"B\",\"userShare\":54,\"otherShare\":46,\"advantageFranchise\":\"Corgi Loaf Baking Co.\",\"summary\":\"Corgi Loaf Baking Co. wins the deal by securing the single best starting asset in Chuba Hubbard, raising top-end weekly starting C-AVI. Corgi Loaf surrenders dynasty depth (D-AVI 159.1 vs 84.5), but for a Win Championship franchise, converting two secondary pieces into an elite starter is textbook win-now execution.\"},\"priorNegotiation\":{\"send\":[{\"name\":\"Cam Skattebo\",\"assetType\":\"player\",\"owner\":\"Corgi Loaf Baking Co. \",\"position\":\"RB\",\"age\":24,\"cavi\":41.7,\"davi\":79.6,\"publicMarket\":201.2,\"leagueMarket\":null},{\"name\":\"Rhamondre Stevenson\",\"assetType\":\"player\",\"owner\":\"Corgi Loaf Baking Co. \",\"position\":\"RB\",\"age\":28,\"cavi\":59,\"davi\":79.5,\"publicMarket\":169,\"leagueMarket\":null}],\"receive\":[{\"name\":\"Chuba Hubbard\",\"assetType\":\"player\",\"owner\":\"Big Balder Brand\",\"position\":\"RB\",\"age\":27,\"cavi\":77.8,\"davi\":84.5,\"publicMarket\":147.9,\"leagueMarket\":null}],\"whyUserShouldDoIt\":\"You acquire a true RB1 with 77.8 C-AVI who immediately elevates your starting lineup for a championship push.\",\"whyOpponentMightAccept\":\"Choopski receives a 24-year-old dynasty back in Skattebo plus starter insulation in Stevenson, satisfying his Retool strategy.\"},\"instruction\":\"Use the shared report as the other party's prior position and negotiation context, not as proof of current ownership, injury status, or valuations. Recheck against fresh AVI-Core roster and market data.\"}",
+      "maxResults": 3
+    },
+    "createdAt": 1793861670171,
+    "updatedAt": 1793861670171,
+    "expiresAt": 1794293670171,
+    "status": "queued"
+  },
+  {
     "id": "mw36k8cl-6ece0a0e",
     "phase": "initial",
     "mode": "counter_trade",
