@@ -8,29 +8,29 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Mentomorii
 - Owner ID: 992908759074680832
 - Division: 3
-- Waiver position: 13
+- Waiver position: 16
 - Last updated from Sleeper exports: 2026-11-05
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
 - total_players: 22
-- offense: 17
+- offense: 18
 - kickers: 1
-- idp: 4
+- idp: 3
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 466.5
-- championship_lineup_c_avi_avg: 58.31
-- offensive_roster_c_avi_sum: 739.5
-- offensive_roster_c_avi_avg: 46.22
-- offensive_roster_d_avi_sum: 1212.4
-- offensive_roster_d_avi_avg: 75.78
+- championship_lineup_c_avi_sum: 467.2
+- championship_lineup_c_avi_avg: 58.40
+- offensive_roster_c_avi_sum: 770.1
+- offensive_roster_c_avi_avg: 45.30
+- offensive_roster_d_avi_sum: 1268.4
+- offensive_roster_d_avi_avg: 74.61
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Cam Ward | C-AVI: 30.0 | D-AVI: 62.5
+- QB: Jacoby Brissett | C-AVI: 30.7 | D-AVI: 56.0
 - RB: Derrick Henry | C-AVI: 80.0 | D-AVI: 87.8
 - RB: Tony Pollard | C-AVI: 66.8 | D-AVI: 79.3
 - WR: Zay Flowers | C-AVI: 83.4 | D-AVI: 94.0
@@ -56,6 +56,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 58.9
 - Dynasty AVI (D-AVI, 0-100): 83.6
 - Projected PPR points: 326.0
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Jacoby Brissett
+- Player name: Jacoby Brissett
+- Player ID: 3257
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: ARI
+- Active: True
+- Status: Active
+- Age: 33.0
+- Championship AVI (C-AVI, 0-100): 30.7
+- Dynasty AVI (D-AVI, 0-100): 56.0
+- Projected PPR points: 160.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -291,7 +308,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 25.0
+- Championship AVI (C-AVI, 0-100): 24.9
 - Dynasty AVI (D-AVI, 0-100): 78.4
 - Projected PPR points: 111.0
 - Category: offense
@@ -359,23 +376,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Alex Singleton
-- Player name: Alex Singleton
-- Player ID: 2617
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: LB
-- Fantasy positions: ['LB']
-- NFL team: DEN
-- Active: True
-- Status: Active
-- Age: 32.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

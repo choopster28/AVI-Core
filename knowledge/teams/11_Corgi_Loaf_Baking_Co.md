@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 561.3
-- championship_lineup_c_avi_avg: 70.16
-- offensive_roster_c_avi_sum: 834.8
-- offensive_roster_c_avi_avg: 52.17
-- offensive_roster_d_avi_sum: 1215.3
-- offensive_roster_d_avi_avg: 75.96
+- championship_lineup_c_avi_sum: 559.8
+- championship_lineup_c_avi_avg: 69.97
+- offensive_roster_c_avi_sum: 833.3
+- offensive_roster_c_avi_avg: 52.08
+- offensive_roster_d_avi_sum: 1215.0
+- offensive_roster_d_avi_avg: 75.94
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,7 +34,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Rhamondre Stevenson | C-AVI: 62.3 | D-AVI: 80.1
 - RB: Saquon Barkley | C-AVI: 61.8 | D-AVI: 85.8
 - WR: Jaxon Smith-Njigba | C-AVI: 99.5 | D-AVI: 99.9
-- WR: Malik Nabers | C-AVI: 90.6 | D-AVI: 97.1
+- WR: Malik Nabers | C-AVI: 89.1 | D-AVI: 96.8
 - TE: Trey McBride | C-AVI: 94.7 | D-AVI: 92.9
 - FLEX: Cam Skattebo | C-AVI: 52.5 | D-AVI: 81.4
 - FLEX: Ryan Flournoy | C-AVI: 49.2 | D-AVI: 67.1
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 90.6
-- Dynasty AVI (D-AVI, 0-100): 97.1
+- Championship AVI (C-AVI, 0-100): 89.1
+- Dynasty AVI (D-AVI, 0-100): 96.8
 - Projected PPR points: 236.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

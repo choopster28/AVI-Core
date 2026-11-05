@@ -1,5 +1,5 @@
 {
-  "count": 25,
+  "count": 23,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
@@ -9,203 +9,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-05 05:13:50",
-      "created_formated": "Thu, Nov 5th 5:13am UTC",
-      "desc": "The Jets opened the 21-day practice window for rookie S V.J. Payne. ",
-      "id": 617952,
-      "impact": "Payne will have the next few weeks to officially be activated. ",
-      "link": "https://www.fantasypros.com/nfl/news/617952/vj-payne-has-practice-window-opened.php",
-      "player_id": 28221,
+      "created": "2026-11-05 19:40:44",
+      "created_formated": "Thu, Nov 5th 7:40pm UTC",
+      "desc": "Caleb Downs practiced on Thursday. ",
+      "id": 618025,
+      "impact": "Downs missed practice to begin the week on Wednesday. He'll likely be listed as a limited participant on Thursday. ",
+      "link": "https://www.fantasypros.com/nfl/news/618025/caleb-downs-concussionankle-practices-thursday.php",
+      "player_id": 27950,
       "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "VJ Payne has practice window opened "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 05:12:46",
-      "created_formated": "Thu, Nov 5th 5:12am UTC",
-      "desc": "The Texans signed Jaden Crumedy to their practice squad. ",
-      "id": 617951,
-      "impact": "Crumedy was brought back by Houston after he cleared waivers. ",
-      "link": "https://www.fantasypros.com/nfl/news/617951/jaden-crumedy-signs-with-texans.php",
-      "player_id": 23918,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Jaden Crumedy signs with Texans "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 05:11:56",
-      "created_formated": "Thu, Nov 5th 5:11am UTC",
-      "desc": "The Texans released Zaire Mitchell-Paden. ",
-      "id": 617950,
-      "impact": "Mitchell-Paden will figure to seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/617950/zaire-mitchell-paden-released-by-texans.php",
-      "player_id": 24853,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Zaire Mitchell-Paden released by Texans"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 05:11:21",
-      "created_formated": "Thu, Nov 5th 5:11am UTC",
-      "desc": "The Texans released Kyonte Hamilton. ",
-      "id": 617949,
-      "impact": "Hamilton will figure to seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/617949/kyonte-hamilton-released-by-texans.php",
-      "player_id": 27542,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Kyonte Hamilton released by Texans "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 05:10:43",
-      "created_formated": "Thu, Nov 5th 5:10am UTC",
-      "desc": "The Texans signed Daniel Sobkowicz. ",
-      "id": 617948,
-      "impact": "Sobkowicz will add depth for Houston. ",
-      "link": "https://www.fantasypros.com/nfl/news/617948/daniel-sobkowicz-signs-with-texans.php",
-      "player_id": 28711,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Daniel Sobkowicz signs with Texans "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 05:09:02",
-      "created_formated": "Thu, Nov 5th 5:09am UTC",
-      "desc": "The Browns signed Hassan Haskins to their practice squad. ",
-      "id": 617947,
-      "impact": "Haskins will add depth in the backfield for Cleveland. ",
-      "link": "https://www.fantasypros.com/nfl/news/617947/hassan-haskins-signs-with-browns.php",
-      "player_id": 23798,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Hassan Haskins signs with Browns"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 05:08:26",
-      "created_formated": "Thu, Nov 5th 5:08am UTC",
-      "desc": "The Browns signed Carsen Ryan to the active roster from the practice squad.",
-      "id": 617946,
-      "impact": "Ryan gets a spot on the 53-man roster for Cleveland. ",
-      "link": "https://www.fantasypros.com/nfl/news/617946/carsen-ryan-signs-with-browns-active-roster.php",
-      "player_id": 28399,
-      "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Carsen Ryan signs with Browns' active roster "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 05:07:41",
-      "created_formated": "Thu, Nov 5th 5:07am UTC",
-      "desc": "The Commanders signed DT Daniel Ekuale to their practice squad. ",
-      "id": 617945,
-      "impact": "Ekuale will add depth to a banged up Commanders defensive line. ",
-      "link": "https://www.fantasypros.com/nfl/news/617945/daniel-ekuale-signs-with-commanders.php",
-      "player_id": 17669,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Daniel Ekuale signs with Commanders "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 05:07:04",
-      "created_formated": "Thu, Nov 5th 5:07am UTC",
-      "desc": "The Commanders signed DT Ricky Barber to their practice squad. ",
-      "id": 617944,
-      "impact": "Barber will add depth to a banged up Commanders defensive line. ",
-      "link": "https://www.fantasypros.com/nfl/news/617944/ricky-barber-signs-with-commanders.php",
-      "player_id": 27636,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Ricky Barber signs with Commanders "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 05:06:05",
-      "created_formated": "Thu, Nov 5th 5:06am UTC",
-      "desc": "The Jets signed WR Joseph Manjack to their practice squad. ",
-      "id": 617943,
-      "impact": "Manjack will add depth in the wide receiver room for the Jets. ",
-      "link": "https://www.fantasypros.com/nfl/news/617943/joseph-manjack-signs-with-jets.php",
-      "player_id": 28618,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Joseph Manjack signs with Jets"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 05:05:18",
-      "created_formated": "Thu, Nov 5th 5:05am UTC",
-      "desc": "The Cardinals signed WR James Proche II to their practice squad. ",
-      "id": 617942,
-      "impact": "Proche will add depth for Arizona with Kendrick Bourne on IR. ",
-      "link": "https://www.fantasypros.com/nfl/news/617942/james-proche-ii-signs-with-cardinals.php",
-      "player_id": 19359,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "James Proche II signs with Cardinals "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 05:04:32",
-      "created_formated": "Thu, Nov 5th 5:04am UTC",
-      "desc": "The Cardinals signed RB Jermar Jefferson to their practice squad. ",
-      "id": 617941,
-      "impact": "Jefferson will add depth for Arizona with Jeremiyah Love on IR. ",
-      "link": "https://www.fantasypros.com/nfl/news/617941/jermar-jefferson-signs-with-cardinals.php",
-      "player_id": 20088,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Jermar Jefferson signs with Cardinals "
+      "team_id": "DAL",
+      "title": "Caleb Downs (concussion/ankle) practices Thursday "
     },
     {
       "author": "Ari Koslow",
@@ -214,33 +27,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-05 05:03:42",
-      "created_formated": "Thu, Nov 5th 5:03am UTC",
-      "desc": "The Cardinals designated G Isaiah Adams to return from IR. ",
-      "id": 617940,
-      "impact": "Adams returned to practice on Wednesday. He will have 21 days to be activated. ",
-      "link": "https://www.fantasypros.com/nfl/news/617940/isaiah-adams-designated-to-return-from-ir.php",
-      "player_id": 26161,
+      "created": "2026-11-05 19:39:38",
+      "created_formated": "Thu, Nov 5th 7:39pm UTC",
+      "desc": "P.J. Locke got in some work in practice on Thursday. ",
+      "id": 618024,
+      "impact": "Locke remains in concussion protocol. He will likely be limited in practice. ",
+      "link": "https://www.fantasypros.com/nfl/news/618024/pj-locke-concussion-practices-thursday.php",
+      "player_id": 18781,
       "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Isaiah Adams designated to return from IR "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 05:02:43",
-      "created_formated": "Thu, Nov 5th 5:02am UTC",
-      "desc": "The Patriots signed S Elliott Davison to the practice squad.",
-      "id": 617939,
-      "impact": "Davison will add depth in the secondary for New England. ",
-      "link": "https://www.fantasypros.com/nfl/news/617939/elliott-davison-signs-with-patriots.php",
-      "player_id": 27784,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Elliott Davison signs with Patriots "
+      "team_id": "DAL",
+      "title": "P.J. Locke (concussion) practices Thursday "
     },
     {
       "author": "Ari Koslow",
@@ -249,188 +45,374 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-05 05:01:52",
-      "created_formated": "Thu, Nov 5th 5:01am UTC",
-      "desc": "The Raiders activated TE Carter Runyon. ",
-      "id": 617938,
-      "impact": "Runyon will return to a depth role for the Raiders. ",
-      "link": "https://www.fantasypros.com/nfl/news/617938/carter-runyon-activated-by-raiders.php",
-      "player_id": 27470,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Carter Runyon activated by Raiders"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 05:01:03",
-      "created_formated": "Thu, Nov 5th 5:01am UTC",
-      "desc": "The Buccaneers waived Luke Haggard. ",
-      "id": 617937,
-      "impact": "Haggard will figure to seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/617937/luke-haggard-waived-by-buccaneers.php",
-      "player_id": 25862,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Luke Haggard waived by Buccaneers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 05:00:13",
-      "created_formated": "Thu, Nov 5th 5:00am UTC",
-      "desc": "The Eagles signed CB Christian Braswell to their practice squad. ",
-      "id": 617936,
-      "impact": "Braswell will add depth in the secondary for Philadelphia. ",
-      "link": "https://www.fantasypros.com/nfl/news/617936/christian-braswell-signs-with-eagles.php",
-      "player_id": 25502,
+      "created": "2026-11-05 19:36:21",
+      "created_formated": "Thu, Nov 5th 7:36pm UTC",
+      "desc": "Jihaad Campbell did not practice on Thursday. ",
+      "id": 618023,
+      "impact": "Campbell continues to battle multiple injuries. His status for Sunday's game against the Giants is up in the air. ",
+      "link": "https://www.fantasypros.com/nfl/news/618023/jihaad-campbell-hamstringquad-not-practicing-thursday.php",
+      "player_id": 27051,
       "sport_id": "NFL",
       "team_id": "PHI",
-      "title": "Christian Braswell signs with Eagles "
+      "title": "Jihaad Campbell (hamstring/quad) not practicing Thursday "
     },
     {
       "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 04:59:27",
-      "created_formated": "Thu, Nov 5th 4:59am UTC",
-      "desc": "The Minnesota Vikings signed Corey Robinson II. ",
-      "id": 617935,
-      "impact": "Robinson will add depth on the practice squad for Minnesota. ",
-      "link": "https://www.fantasypros.com/nfl/news/617935/corey-robinson-ii-signs-with-vikings.php",
-      "player_id": 28612,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Corey Robinson II signs with Vikings"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 04:58:42",
-      "created_formated": "Thu, Nov 5th 4:58am UTC",
-      "desc": "The Vikings signed RB DeeJay Dallas to their 53-man roster. ",
-      "id": 617934,
-      "impact": "Dallas will add depth in the backfield for Minnesota. ",
-      "link": "https://www.fantasypros.com/nfl/news/617934/deejay-dallas-signs-with-vikings.php",
-      "player_id": 19521,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "DeeJay Dallas signs with Vikings"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 04:57:52",
-      "created_formated": "Thu, Nov 5th 4:57am UTC",
-      "desc": "The Seahawks released Malick Meiga from their practice squad. ",
-      "id": 617933,
-      "impact": "Seattle needed to make room for QB Adrian Martinez. Meiga will seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/617933/malick-meiga-released-by-seahawks.php",
-      "player_id": 29330,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Malick Meiga released by Seahawks "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 04:57:09",
-      "created_formated": "Thu, Nov 5th 4:57am UTC",
-      "desc": "The Seahawks released LB Jimmy Ciarlo from their practice squad. ",
-      "id": 617932,
-      "impact": "Ciarlo will seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/617932/jimmy-ciarlo-released-by-seahawks.php",
-      "player_id": 26672,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Jimmy Ciarlo released by Seahawks "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 04:56:23",
-      "created_formated": "Thu, Nov 5th 4:56am UTC",
-      "desc": "The Seahawks signed Jamie Sheriff to their practice squad. ",
-      "id": 617931,
-      "impact": "Sheriff will add depth in the Seahawks linebacker room. ",
-      "link": "https://www.fantasypros.com/nfl/news/617931/jamie-sheriff-signs-with-seahawks.php",
-      "player_id": 26987,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Jamie Sheriff signs with Seahawks "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-05 04:55:38",
-      "created_formated": "Thu, Nov 5th 4:55am UTC",
-      "desc": "The Seahawks signed QB Adrian Martinez to their practice squad. ",
-      "id": 617930,
-      "impact": "Martinez will add depth for Seattle with Sam Darnold sidelined and Drew Lock also banged up. ",
-      "link": "https://www.fantasypros.com/nfl/news/617930/adrian-martinez-signs-with-seahawks.php",
-      "player_id": 23040,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Adrian Martinez signs with Seahawks "
-    },
-    {
-      "author": "Leo Sells",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-11-05 02:41:18",
-      "created_formated": "Thu, Nov 5th 2:41am UTC",
-      "desc": "Quenton Nelson (knee) was listed as a limited participant on Wednesday.",
-      "id": 617929,
-      "impact": "Nelson is still dealing with a nagging knee issue, but it is unlikely to affect his availability for Week 9. He should play and continue to be a difference maker for Seattle's offensive front moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/617929/quenton-nelson-knee-listed-limited-wednesday.php",
-      "player_id": 17275,
+      "created": "2026-11-05 19:34:54",
+      "created_formated": "Thu, Nov 5th 7:34pm UTC",
+      "desc": "Britain Covey is not practicing on Thursday. ",
+      "id": 618022,
+      "impact": "Covey's status is up in the air for Sunday's game against the Giants. ",
+      "link": "https://www.fantasypros.com/nfl/news/618022/britain-covey-not-practicing-thursday.php",
+      "player_id": 24234,
       "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Quenton Nelson (knee) listed as limited Wednesday"
+      "team_id": "PHI",
+      "title": "Britain Covey not practicing Thursday "
     },
     {
-      "author": "Leo Sells",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-11-05 02:39:54",
-      "created_formated": "Thu, Nov 5th 2:39am UTC",
-      "desc": "Rashid Shaheed (knee) missed Seattle's\r\npractice on Wednesday.",
-      "id": 617928,
-      "impact": "The veteran wideout missed Seattle's last game due to a knee issue, and it prevented him from practicing on Wednesday as well. His participation at practice on Thursday and Friday will be much more telling for his outlook for Week 9, however.",
-      "link": "https://www.fantasypros.com/nfl/news/617928/rashid-shaheed-knee-misses-practice-wednesday.php",
-      "player_id": 24687,
+      "created": "2026-11-05 19:33:37",
+      "created_formated": "Thu, Nov 5th 7:33pm UTC",
+      "desc": "Dontayvion Wicks remained absent from practice on Thursday. ",
+      "id": 618021,
+      "impact": "Wicks is continuing to trend in the wrong direction to return for Sunday's game against the Giants. ",
+      "link": "https://www.fantasypros.com/nfl/news/618021/dontayvion-wicks-ankle-not-practicing-thursday.php",
+      "player_id": 24354,
       "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Rashid Shaheed (knee) misses practice Wednesday"
+      "team_id": "PHI",
+      "title": "Dontayvion Wicks (ankle) not practicing Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 19:32:56",
+      "created_formated": "Thu, Nov 5th 7:32pm UTC",
+      "desc": "DeVonta Smith is not practicing on Thursday. ",
+      "id": 618020,
+      "impact": "Smith is continuing to trend in the wrong direction to return for Sunday's game against the Giants. ",
+      "link": "https://www.fantasypros.com/nfl/news/618020/devonta-smith-hamstring-not-practicing-thursday.php",
+      "player_id": 19222,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "DeVonta Smith (hamstring) not practicing Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 19:31:37",
+      "created_formated": "Thu, Nov 5th 7:31pm UTC",
+      "desc": "Saquon Barkley is practicing on Thursday. ",
+      "id": 618019,
+      "impact": "Barkley is on track to be good to go for Sunday's game against his former team in the Giants. He'll remain on the RB2 radar for fantasy managers. ",
+      "link": "https://www.fantasypros.com/nfl/news/618019/saquon-barkley-practicing-thursday.php",
+      "player_id": 17240,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Saquon Barkley practicing Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 19:30:05",
+      "created_formated": "Thu, Nov 5th 7:30pm UTC",
+      "desc": "The Bears placed RB Zavier Scott on injured reserve. ",
+      "id": 618018,
+      "impact": "Scott has been playing a role on special teams. He'll miss at least the next four weeks. ",
+      "link": "https://www.fantasypros.com/nfl/news/618018/zavier-scott-thumb-placed-on-ir.php",
+      "player_id": 25748,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Zavier Scott (thumb) placed on IR"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 19:28:50",
+      "created_formated": "Thu, Nov 5th 7:28pm UTC",
+      "desc": "Cam Skattebo was working with trainers on the side during practice again on Thursday. ",
+      "id": 618017,
+      "impact": "Skattebo will likely be listed as a non-participant in practice again on Thursday. His status for Week 9 is uncertain. ",
+      "link": "https://www.fantasypros.com/nfl/news/618017/cam-skattebo-hamstring-working-on-side-with-trainer-practice-thursday.php",
+      "player_id": 27166,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "Cam Skattebo (hamstring) working on side with trainer in practice Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 19:26:34",
+      "created_formated": "Thu, Nov 5th 7:26pm UTC",
+      "desc": "Deshaun Watson remained absent from practice on Thursday. ",
+      "id": 618016,
+      "impact": "Watson remains in concussion protocol. He is continuing to trend in the wrong direction for Sunday's game against the Saints. ",
+      "link": "https://www.fantasypros.com/nfl/news/618016/deshaun-watson-concussion-not-practicing-thursday.php",
+      "player_id": 16398,
+      "sport_id": "NFL",
+      "team_id": "CLE",
+      "title": "Deshaun Watson (concussion) not practicing Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 19:25:11",
+      "created_formated": "Thu, Nov 5th 7:25pm UTC",
+      "desc": "Kyler Murray is considered week-to-week with his hamstring injury. ",
+      "id": 618015,
+      "impact": "Carson Wentz was named the Vikings starter for Monday's game against the Bills. Murray could become the backup for Minnesota if Wentz plays well. ",
+      "link": "https://www.fantasypros.com/nfl/news/618015/kyler-murray-hamstring-week-to-week.php",
+      "player_id": 18600,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Kyler Murray (hamstring) week-to-week "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 19:23:28",
+      "created_formated": "Thu, Nov 5th 7:23pm UTC",
+      "desc": "Malik Nabers was seen working off to the side with trainers on Thursday.",
+      "id": 618014,
+      "impact": "It is unclear what Nabers is dealing with. He will need to be monitored when the injury report for Thursday is released. ",
+      "link": "https://www.fantasypros.com/nfl/news/618014/malik-nabers-works-off-to-side-with-trainers-during-practice-thursday.php",
+      "player_id": 25409,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "Malik Nabers works off to side with trainers during practice Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 19:21:48",
+      "created_formated": "Thu, Nov 5th 7:21pm UTC",
+      "desc": "Jaylen Wright was back at practice on Thursday. ",
+      "id": 618013,
+      "impact": "Wright remains off the fantasy radar in his current role. ",
+      "link": "https://www.fantasypros.com/nfl/news/618013/jaylen-wright-quad-returns-to-practice-thursday.php",
+      "player_id": 25987,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Jaylen Wright (quad) returns to practice Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 18:29:22",
+      "created_formated": "Thu, Nov 5th 6:29pm UTC",
+      "desc": "Garrett Wilson was not seen practicing on Thursday. ",
+      "id": 618012,
+      "impact": "Wilson continues to trend in the wrong direction to play this week as he remains in concussion protocol. ",
+      "link": "https://www.fantasypros.com/nfl/news/618012/garrett-wilson-concussion-not-practicing-thursday.php",
+      "player_id": 23072,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Garrett Wilson (concussion) not practicing Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 18:28:34",
+      "created_formated": "Thu, Nov 5th 6:28pm UTC",
+      "desc": "Breece Hall was practicing on Thursday. ",
+      "id": 618011,
+      "impact": "Hall was limited to begin the week on Wednesday. He continues to trend towards making his return for Sunday's game against the Chiefs. ",
+      "link": "https://www.fantasypros.com/nfl/news/618011/breece-hall-quad-practicing-thursday.php",
+      "player_id": 22982,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Breece Hall (quad) practicing Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-11-05 18:27:00",
+      "created_formated": "Thu, Nov 5th 6:27pm UTC",
+      "desc": "Carson Wentz will start Monday's game against the Bills. ",
+      "id": 618010,
+      "impact": "Kyler Murray is continuing to battle a sore hamstring. Wentz will be a QB2 for fantasy managers in 2-QB and superflex leagues. ",
+      "link": "https://www.fantasypros.com/nfl/news/618010/carson-wentz-will-start-week-9-vikings.php",
+      "player_id": 15520,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Carson Wentz will start in Week 9 for Vikings "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-05 17:48:45",
+      "created_formated": "Thu, Nov 5th 5:48pm UTC",
+      "desc": "The Bills signed CB Kader Kohou to their practice squad. ",
+      "id": 618009,
+      "impact": "Kohou previously spent time with the Dolphins. He'll remain in the AFC East. ",
+      "link": "https://www.fantasypros.com/nfl/news/618009/kader-kohou-signs-with-bills.php",
+      "player_id": 24898,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Kader Kohou signs with Bills "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-05 17:46:39",
+      "created_formated": "Thu, Nov 5th 5:46pm UTC",
+      "desc": "KhaDarel Hodge is expected to be available for Sunday's game against the Raiders. ",
+      "id": 618008,
+      "impact": "The 49ers are still expected to be without Mike Evans and Deebo Samuel. It will be Hodge, Demarcus Robinson, Christian Kirk, Jordan Watkins, and Brandin Cooks leading the wide receiver room for San Francisco. ",
+      "link": "https://www.fantasypros.com/nfl/news/618008/khadarel-hodge-expected-to-be-available-sunday.php",
+      "player_id": 18166,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "KhaDarel Hodge expected to be available Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 17:45:21",
+      "created_formated": "Thu, Nov 5th 5:45pm UTC",
+      "desc": "Demarcus Robinson is expected to be available for Sunday's game against the Raiders. ",
+      "id": 618007,
+      "impact": "The 49ers are still expected to be without Mike Evans and Deebo Samuel. Robinson, Christian Kirk, Jordan Watkins, and Brandin Cooks will lead the 49ers wide receiver room. ",
+      "link": "https://www.fantasypros.com/nfl/news/618007/demarcus-robinson-ankle-expected-to-play-sunday.php",
+      "player_id": 15665,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Demarcus Robinson (ankle) expected to play Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 17:38:23",
+      "created_formated": "Thu, Nov 5th 5:38pm UTC",
+      "desc": "DJ Turner II was a full participant in practice on Thursday. ",
+      "id": 618006,
+      "impact": "Turner will be good to go for Sunday's game against the Falcons. ",
+      "link": "https://www.fantasypros.com/nfl/news/618006/dj-turner-ii-heel-logs-full-practice-thursday.php",
+      "player_id": 25262,
+      "sport_id": "NFL",
+      "team_id": "CIN",
+      "title": "DJ Turner II (heel) logs full practice Thursday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 17:30:35",
+      "created_formated": "Thu, Nov 5th 5:30pm UTC",
+      "desc": "49ers GM John Lynch said it's unlikely that Deebo Samuel Sr. will play in Week 9 against the Raiders.",
+      "id": 618005,
+      "impact": "Mike Evans is also not expected to play. Demarcus Robinson, Christian Kirk, Jordan Watkins, and Brandin Cooks will lead the 49ers wide receiver room. ",
+      "link": "https://www.fantasypros.com/nfl/news/618005/deebo-samuel-sr-hamstring-not-expected-to-return-week-9.php",
+      "player_id": 18244,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Deebo Samuel Sr. (hamstring) not expected to return in Week 9"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 17:29:53",
+      "created_formated": "Thu, Nov 5th 5:29pm UTC",
+      "desc": "49ers GM John Lynch said it's unlikely that Mike Evans will play in Week 9 against the Raiders.",
+      "id": 618004,
+      "impact": "Deebo Samuel is also not expected to play. Demarcus Robinson, Christian Kirk, Jordan Watkins, and Brandin Cooks will lead the 49ers wide receiver room. ",
+      "link": "https://www.fantasypros.com/nfl/news/618004/mike-evans-achilles-not-expected-to-return-week-9.php",
+      "player_id": 12119,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Mike Evans (Achilles) not expected to return in Week 9"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 17:25:06",
+      "created_formated": "Thu, Nov 5th 5:25pm UTC",
+      "desc": "Brian Robinson Jr. remained limited in practice on Thursday. ",
+      "id": 618003,
+      "impact": "Robinson was also limited on Wednesday. He is trending towards having a chance to return this week for the Falcons. ",
+      "link": "https://www.fantasypros.com/nfl/news/618003/brian-robinson-jr-hamstring-limited-practice-thursday.php",
+      "player_id": 20094,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Brian Robinson Jr. (hamstring) limited in practice Thursday "
     }
   ],
   "public_api": true,

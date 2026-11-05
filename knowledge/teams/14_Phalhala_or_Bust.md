@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 498.9
 - championship_lineup_c_avi_avg: 62.36
-- offensive_roster_c_avi_sum: 607.1
-- offensive_roster_c_avi_avg: 50.59
-- offensive_roster_d_avi_sum: 910.7
-- offensive_roster_d_avi_avg: 75.89
+- offensive_roster_c_avi_sum: 631.2
+- offensive_roster_c_avi_avg: 48.55
+- offensive_roster_d_avi_sum: 950.3
+- offensive_roster_d_avi_avg: 73.10
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -92,23 +92,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 13.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Tanner McKee
-- Player name: Tanner McKee
-- Player ID: 9230
-- Current owner team: Phalhala or Bust
-- Current owner roster ID: 14
-- Position: QB
-- Fantasy positions: ['QB']
-- NFL team: PHI
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: offense
-- Valuation status: NOT_IN_AVI_OUTPUT
 
 ### PLAYER: Ashton Jeanty
 - Player name: Ashton Jeanty
@@ -226,6 +209,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 30.6
 - Dynasty AVI (D-AVI, 0-100): 59.3
 - Projected PPR points: 130.6
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Demarcus Robinson
+- Player name: Demarcus Robinson
+- Player ID: 3286
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: SF
+- Active: True
+- Status: Inactive
+- Age: 32.0
+- Championship AVI (C-AVI, 0-100): 24.1
+- Dynasty AVI (D-AVI, 0-100): 39.6
+- Projected PPR points: 73.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

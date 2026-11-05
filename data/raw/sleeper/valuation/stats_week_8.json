@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-11-05T10:28:31.872747+00:00",
+  "fetched_at_utc": "2026-11-05T19:54:42.552992+00:00",
   "players": {
     "10210": {
       "gms_active": 1.0,
@@ -3898,7 +3898,6 @@
     },
     "11649": {
       "gms_active": 1.0,
-      "gp": 1.0,
       "pos_rank_half_ppr": 999.0,
       "pos_rank_ppr": 999.0,
       "pos_rank_std": 999.0
@@ -4453,13 +4452,13 @@
       "gp": 1.0,
       "idp_qb_hit": 1.0,
       "idp_tkl": 1.0,
-      "idp_tkl_ast": 1.0,
+      "idp_tkl_solo": 1.0,
       "penalty": 1.0,
       "penalty_yd": 15.0,
       "pos_rank_half_ppr": 999.0,
       "pos_rank_ppr": 999.0,
       "pos_rank_std": 999.0,
-      "pts_idp": 2.0,
+      "pts_idp": 3.0,
       "st_snp": 2.0,
       "tm_def_snp": 61.0,
       "tm_off_snp": 54.0,
@@ -19007,12 +19006,12 @@
       "gms_active": 1.0,
       "gp": 1.0,
       "idp_tkl": 4.0,
-      "idp_tkl_ast": 1.0,
-      "idp_tkl_solo": 3.0,
+      "idp_tkl_ast": 2.0,
+      "idp_tkl_solo": 2.0,
       "pos_rank_half_ppr": 999.0,
       "pos_rank_ppr": 999.0,
       "pos_rank_std": 999.0,
-      "pts_idp": 7.0,
+      "pts_idp": 6.0,
       "st_snp": 8.0,
       "tm_def_snp": 61.0,
       "tm_off_snp": 54.0,

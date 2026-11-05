@@ -662,12 +662,12 @@
       }
     },
     {
-      "average": 9.4,
+      "average": 9.3,
       "filename": "josh-metellus.php",
       "games": 7,
       "player_id": 19580,
       "player_name": "Joshua Metellus",
-      "points": 65.75,
+      "points": 65,
       "position_id": "S",
       "team_id": "MIN",
       "weeks": {
@@ -677,7 +677,7 @@
         "4": 7.5,
         "5": 6.8,
         "7": 7.5,
-        "8": 15.8
+        "8": 15
       }
     },
     {
@@ -1001,12 +1001,12 @@
       }
     },
     {
-      "average": 11.7,
+      "average": 11.6,
       "filename": "dane-belton.php",
       "games": 8,
       "player_id": 23914,
       "player_name": "Dane Belton",
-      "points": 93.75,
+      "points": 93,
       "position_id": "S",
       "team_id": "NYJ",
       "weeks": {
@@ -1017,7 +1017,7 @@
         "5": 14,
         "6": 11.3,
         "7": 11.3,
-        "8": 19.8
+        "8": 19
       }
     },
     {

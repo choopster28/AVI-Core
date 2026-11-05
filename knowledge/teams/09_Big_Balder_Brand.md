@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Choopski
 - Owner ID: 863881053000011776
 - Division: 1
-- Waiver position: 14
+- Waiver position: 13
 - Last updated from Sleeper exports: 2026-11-05
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 574.5
 - championship_lineup_c_avi_avg: 71.81
-- offensive_roster_c_avi_sum: 915.8
-- offensive_roster_c_avi_avg: 50.88
-- offensive_roster_d_avi_sum: 1320.7
-- offensive_roster_d_avi_avg: 73.37
+- offensive_roster_c_avi_sum: 916.0
+- offensive_roster_c_avi_avg: 50.89
+- offensive_roster_d_avi_sum: 1320.8
+- offensive_roster_d_avi_avg: 73.38
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 14.8
-- Dynasty AVI (D-AVI, 0-100): 29.7
+- Championship AVI (C-AVI, 0-100): 14.9
+- Dynasty AVI (D-AVI, 0-100): 29.8
 - Projected PPR points: 12.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -206,7 +206,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 15.9
+- Championship AVI (C-AVI, 0-100): 16.0
 - Dynasty AVI (D-AVI, 0-100): 42.3
 - Projected PPR points: 4.0
 - Category: offense
