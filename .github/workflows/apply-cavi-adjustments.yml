@@ -8,6 +8,7 @@ on:
     paths:
       - "data/manual/cavi_risk_adjustments.json"
       - "src/avi/valuation/in_season.py"
+      - "src/avi/valuation/calculator.py"
       - "src/avi/valuation/availability_adjustments.py"
       - "src/avi/valuation/risk_adjustments.py"
       - ".github/workflows/apply-cavi-adjustments.yml"
