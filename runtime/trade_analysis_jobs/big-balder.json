@@ -1,5 +1,30 @@
 [
   {
+    "id": "mw34xs7w-ee704477",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Lightskin Legends",
+      "targetAssets": [
+        {
+          "name": "Chase Brown",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [],
+      "personalContext": "Chase Brown is a bio candidate, his production. This year has been really bad. Hubbard has been an incredibly productive running back this year quarter any top 10 option at the position. Wide receiver is also something that light skin is struggling with and I am trying to buy low on Chase Brown going into next year because my season is over this year. I would prefer to hold onto Hubbard."
+    },
+    "createdAt": 1793858338223,
+    "updatedAt": 1793858338223,
+    "expiresAt": 1794290338223,
+    "status": "queued"
+  },
+  {
     "id": "mw34tq0r-6700f288",
     "phase": "initial",
     "mode": "propose_trade",
