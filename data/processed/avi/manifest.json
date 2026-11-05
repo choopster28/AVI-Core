@@ -1,10 +1,11 @@
 {
+  "c_avi_weight_policy": "In-season production weight rises from 40% to 60% between weeks 2 and 8; full-season projections fade from 25% to 15% and market consensus from 15% to 5%. Weights are global, not player-specific. Lineup availability adjusts separately.",
   "c_avi_weights": {
     "elite_upside": 0.1,
     "league_context": 0.1,
-    "player_points": 0.4,
-    "projections": 0.25,
-    "public_market": 0.15
+    "player_points": 0.6,
+    "projections": 0.15,
+    "public_market": 0.05
   },
   "d_avi_missing_component_policy": "Redistribute missing optional component weights proportionally across verified components.",
   "d_avi_weights": {
@@ -16,7 +17,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-11-05T02:33:58.355649+00:00",
+  "generated_at_utc": "2026-11-05T04:45:01.367015+00:00",
   "in_season_transition": {
     "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     "completed_through_week": 8,
@@ -39,7 +40,7 @@
   "injury_availability_adjustments": {
     "championship_horizon_end_week": 17,
     "current_week": 9,
-    "players_capped": 4,
+    "players_capped": 3,
     "players_evaluated": 479,
     "policy": "Projection-aware C-AVI ceiling. Updated projections/rankings get first chance to price the injury; the availability layer only caps residual overstatement and therefore does not multiply an already reduced projection.",
     "source_priority": [

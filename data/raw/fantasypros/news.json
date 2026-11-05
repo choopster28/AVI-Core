@@ -9,6 +9,96 @@
         "News",
         "Injury"
       ],
+      "created": "2026-11-05 02:41:18",
+      "created_formated": "Thu, Nov 5th 2:41am UTC",
+      "desc": "Quenton Nelson (knee) was listed as a limited participant on Wednesday.",
+      "id": 617929,
+      "impact": "Nelson is still dealing with a nagging knee issue, but it is unlikely to affect his availability for Week 9. He should play and continue to be a difference maker for Seattle's offensive front moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/617929/quenton-nelson-knee-listed-limited-wednesday.php",
+      "player_id": 17275,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Quenton Nelson (knee) listed as limited Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 02:39:54",
+      "created_formated": "Thu, Nov 5th 2:39am UTC",
+      "desc": "Rashid Shaheed (knee) missed Seattle's\r\npractice on Wednesday.",
+      "id": 617928,
+      "impact": "The veteran wideout missed Seattle's last game due to a knee issue, and it prevented him from practicing on Wednesday as well. His participation at practice on Thursday and Friday will be much more telling for his outlook for Week 9, however.",
+      "link": "https://www.fantasypros.com/nfl/news/617928/rashid-shaheed-knee-misses-practice-wednesday.php",
+      "player_id": 24687,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Rashid Shaheed (knee) misses practice Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 02:38:16",
+      "created_formated": "Thu, Nov 5th 2:38am UTC",
+      "desc": "Drew Lock (elbow) was limited at practice on Wednesday.",
+      "id": 617927,
+      "impact": "Lock wasn't able to log a full practice session to start the week on Wednesday. He was limited due to an elbow injury that he's dealing with, which is less than ideal given that he is set to start in place of Sam Darnold (quad/ribs) this week. This is a situation worth keeping tabs on throughout the rest of the week.",
+      "link": "https://www.fantasypros.com/nfl/news/617927/drew-lock-elbow-limited-practice-wednesday.php",
+      "player_id": 18225,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Drew Lock (elbow) limited at practice Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 02:36:25",
+      "created_formated": "Thu, Nov 5th 2:36am UTC",
+      "desc": "Charles Cross (ankle) did not take part in Seattle's practice on Wednesday.",
+      "id": 617926,
+      "impact": "Cross has been out for over a week while dealing with an ankle injury, and it left him sidelined for another practice on Wednesday. He may miss Sunday's game because of it, but we won't know for sure until later on in the week.",
+      "link": "https://www.fantasypros.com/nfl/news/617926/charles-cross-ankle-doesnt-practice-wednesday.php",
+      "player_id": 23482,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Charles Cross (ankle) doesn't practice Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-05 02:34:55",
+      "created_formated": "Thu, Nov 5th 2:34am UTC",
+      "desc": "Velus Jones Jr. (hamstring) was a limited participant at practice on Wednesday.",
+      "id": 617925,
+      "impact": "Jones was sidelined by a hamstring issue last week, but he was able to practice in a limited fashion on Wednesday and seems to have a chance to play in Week 9. He remains off of the fantasy radar for the foreseeable future regardless of his health, however.",
+      "link": "https://www.fantasypros.com/nfl/news/617925/velus-jones-jr-hamstring-limited-participant-wednesday.php",
+      "player_id": 24214,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Velus Jones Jr. (hamstring) limited participant Wednesday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
       "created": "2026-11-05 02:24:52",
       "created_formated": "Thu, Nov 5th 2:24am UTC",
       "desc": "Bam Knight (concussion) was absent from Arizona's practice on Wednesday.",
@@ -360,96 +450,6 @@
       "sport_id": "NFL",
       "team_id": "LAR",
       "title": "Grant Stuard (hamstring) practicing Wednesday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-04 22:38:20",
-      "created_formated": "Wed, Nov 4th 10:38pm UTC",
-      "desc": "Joe Cardona is not practicing on Wednesday. ",
-      "id": 617868,
-      "impact": "Cardona is working his way through an ankle injury. His status will need to be monitored in practice the rest of the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/617868/joe-cardona-ankle-not-practicing-wednesday.php",
-      "player_id": 15093,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Joe Cardona (ankle) not practicing Wednesday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-04 22:36:20",
-      "created_formated": "Wed, Nov 4th 10:36pm UTC",
-      "desc": "Kam Curl is not practicing on Wednesday.",
-      "id": 617867,
-      "impact": "Curl is working his way through a foot injury. His status will need to be monitored in practice the rest of the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/617867/kam-curl-foot-not-practicing-wednesday.php",
-      "player_id": 19459,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Kam Curl (foot) not practicing Wednesday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-04 22:34:44",
-      "created_formated": "Wed, Nov 4th 10:34pm UTC",
-      "desc": "Colby Parkinson is not practicing on Wednesday.",
-      "id": 617866,
-      "impact": "Parkinson did not play in last Sunday's win over the Chargers. His status for Week 9 remains up in the air. ",
-      "link": "https://www.fantasypros.com/nfl/news/617866/colby-parkinson-ribs-not-practicing-wednesday.php",
-      "player_id": 19372,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Colby Parkinson (ribs) not practicing Wednesday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-04 22:33:44",
-      "created_formated": "Wed, Nov 4th 10:33pm UTC",
-      "desc": "Trent McDuffie is not practicing on Wednesday.",
-      "id": 617865,
-      "impact": "McDuffie is continuing to work his way through a back injury. His status heading into Week 9 is uncertain. ",
-      "link": "https://www.fantasypros.com/nfl/news/617865/trent-mcduffie-back-not-practicing-wednesday.php",
-      "player_id": 23492,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Trent McDuffie (back) not practicing Wednesday"
-    },
-    {
-      "author": "Leo Sells",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-04 22:31:53",
-      "created_formated": "Wed, Nov 4th 10:31pm UTC",
-      "desc": "Morgan Moses (foot) was limited at practice on Wednesday.",
-      "id": 617864,
-      "impact": "Unsurprisingly, the veteran was limited at practice on Wednesday due to the same foot issue that has been bothering him for a while. He's likely to play through it in Week 9, however, which is good news for New England's offensive front.",
-      "link": "https://www.fantasypros.com/nfl/news/617864/morgan-moses-foot-limited-wednesday.php",
-      "player_id": 15324,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Morgan Moses (foot) limited Wednesday"
     }
   ],
   "public_api": true,
