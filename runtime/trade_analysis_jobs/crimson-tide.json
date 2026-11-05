@@ -19,9 +19,319 @@
       "foundationAssets": []
     },
     "createdAt": 1793910684657,
-    "updatedAt": 1793910687310,
+    "updatedAt": 1793910753879,
     "expiresAt": 1794342684657,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Crimson Tide Pods executes a textbook rebuilding move by liquidating 29-year-old WR Jakobi Meyers (C-AVI 45.6, D-AVI 74.6) and 27-year-old RB Chris Rodriguez Jr. (C-AVI 31.0, D-AVI 67.2) to acquire Mile High Royal Lions' 2028 1st Round Pick (D-AVI 79.3). For Crimson Tide Pods, this trade converts short-window starting production into high-ceiling future draft capital aligned with a multi-year rebuild. For Mile High Royal Lions, whose verified goal is to Increase Playoff Odds, adding Meyers provides an immediate starting WR/FLEX floor upgrade (169.3 projected PPR points) over volatile options like Marvin Harrison Jr. (43.8 C-AVI) or Courtland Sutton (39.4 C-AVI), while Rodriguez adds critical RB depth behind Jahmyr Gibbs and Jonah Coleman without sacrificing present lineup integrity.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 45.6,
+              "davi": 74.6,
+              "publicMarket": 74.6,
+              "leagueMarket": 74.6
+            },
+            {
+              "name": "Chris Rodriguez Jr.",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 27,
+              "cavi": 31,
+              "davi": 67.2,
+              "publicMarket": 67.2,
+              "leagueMarket": 67.2
+            }
+          ],
+          "sideB": [
+            {
+              "name": "2028 1st (Mile High Royal Lions)",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Crimson Tide Pods capitalizes on a playoff-pushing partner by turning aging veteran starters into a 2028 1st round pick. Mile High Royal Lions receives immediate weekly starting production to boost playoff qualification odds."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "The proposed package balances near-term weekly points for Mile High Royal Lions with long-term dynasty appreciating capital for Crimson Tide Pods."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Material net benefit to dynasty trajectory by converting 27-29 year old starters into a premium future 1st round pick."
+            },
+            "championshipOutlook": {
+              "score": -15,
+              "summary": "Slight reduction in current-year C-AVI, fully acceptable for a rebuilding team."
+            },
+            "dynastyOutlook": {
+              "score": 65,
+              "summary": "Adds high-ceiling future draft asset while liquidating depreciating veteran assets."
+            },
+            "lineupQuality": {
+              "score": -10,
+              "summary": "Removes Jakobi Meyers from active FLEX rotation."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Reduces veteran RB/WR depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 70,
+              "summary": "Significantly enhances trade liquidity with an unslotted future 1st."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 35,
+              "summary": "Improves immediate weekly starting floor and FLEX depth to increase playoff odds."
+            },
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Adds 169.3 projected PPR points in Jakobi Meyers to bolster must-win matchups."
+            },
+            "dynastyOutlook": {
+              "score": -25,
+              "summary": "Surrenders distant 2028 1st capital in exchange for win-now production."
+            },
+            "lineupQuality": {
+              "score": 40,
+              "summary": "Meyers immediately upgrades FLEX over lower C-AVI options."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Chris Rodriguez Jr. provides viable starting RB insurance behind Gibbs and Coleman."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Commits future draft capital to secure immediate postseason qualification."
+            }
+          },
+          "explanation": "Crimson Tide Pods gains long-term value and liquidity, while Mile High Royal Lions gains immediate weekly floor and starting lineup depth for their playoff push."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Crimson Tide Pods lowers current C-AVI sum by trading active starters Meyers (45.6 C-AVI) and Rodriguez (31.0 C-AVI), directly matching their Rebuild goal.",
+          "sideADynastyImpact": "Gains a 2028 1st (79.3 D-AVI), replacing older assets (74.6 and 67.2 D-AVI) with a liquid, appreciating core dynasty asset.",
+          "sideARosterImpact": "Frees up starting slots for younger upside pieces like Germie Bernard and Jadarian Price.",
+          "sideBChampionshipImpact": "Mile High Royal Lions boosts active C-AVI floor, bolstering mandatory FLEX/WR slots for their playoff push.",
+          "sideBDynastyImpact": "Trades a 2028 1st pick (79.3 D-AVI) to address pressing 2026 starting needs.",
+          "sideBRosterImpact": "Solidifies WR3/FLEX positions and expands RB depth resilience.",
+          "valueAssessment": "A win-win trade construction aligned with both franchises' verified strategic goals."
+        },
+        "publicMarketAnalysis": {
+          "summary": "In the public market, midseason contenders pushing for playoffs routinely trade distant 1st round picks (2+ years out) for multiple reliable veteran starters who provide immediate weekly PPR output.",
+          "aviVsMarket": "Market values distant 1st round picks slightly below current-year 1sts, making a veteran starter plus depth package a realistic price point for a 2028 1st.",
+          "relevantContext": [
+            "Jakobi Meyers projects for 169.3 PPR points and maintains consistent target share.",
+            "Chris Rodriguez Jr. offers active RB depth in a 16-team league where RB depth is scarce.",
+            "Distant 2028 capital allows Mile High Royal Lions to make a playoff push without surrendering 2027 draft capital."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "shawnh56 needs immediate starting production to secure a playoff spot; acquiring Meyers and Rodriguez directly boosts weekly floor.",
+          "packageFit": "Solves Mile High's FLEX volatility by providing established veteran starter volume.",
+          "lineupReplacement": "Mile High retains all top starters (Jahmyr Gibbs, Drake London, Garrett Wilson) while upgrading FLEX2.",
+          "competitiveWindowFit": "Directly supports Mile High's 'Increase Playoff Odds' goal without stripping current active starters.",
+          "positionalScarcity": "16-team PPR format places a heavy premium on startable WRs and active RBs."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 22,
+            "packageMatch": 17,
+            "lineupReplacement": 14,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 82,
+          "classification": "Realistic",
+          "explanation": "Mile High Royal Lions is in an explicit Playoff Push window needing immediate weekly points. Sending a distant 2028 1st for two immediate startable contributors (Meyers and Rodriguez) aligns with their goal to Increase Playoff Odds."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "This offer directly advances Crimson Tide Pods' Rebuild goal by securing a 2028 1st round pick while giving Mile High Royal Lions the immediate starting help required for their playoff push.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 45.6,
+              "davi": 74.6,
+              "publicMarket": 74.6,
+              "leagueMarket": 74.6
+            },
+            {
+              "name": "Chris Rodriguez Jr.",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 27,
+              "cavi": 31,
+              "davi": 67.2,
+              "publicMarket": 67.2,
+              "leagueMarket": 67.2
+            }
+          ],
+          "receive": [
+            {
+              "name": "2028 1st (Mile High Royal Lions)",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "whyUserShouldDoIt": "Liquidates age-depreciating veterans to acquire a premium future 1st round pick, perfectly accelerating your rebuild timeline.",
+          "whyOpponentMightAccept": "Gains immediate weekly starter quality and depth to win must-win matchups and increase playoff qualification odds, costing only distant draft capital."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 29,
+              "cavi": 45.6,
+              "davi": 74.6,
+              "publicMarket": 74.6,
+              "leagueMarket": 74.6
+            },
+            {
+              "name": "2027 Round 3 (SmokyValleyWheatWarriors)",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "2028 1st (Mile High Royal Lions)",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "rationale": "If Mile High prefers a pick swap component instead of extra RB depth, pairing Jakobi Meyers with a 2027 3rd round pick offers a streamlined alternative."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "nfl injuries november 2026 fantasy football",
+          "fantasy football dynasty market November 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDA98j7LQD8XviMMj-fsMwFTDRTz0LmvBtHOghGsWmqyqyqfi1Z8GUqfMB4vvLiv74ztLVN2pqYDExNV6q8_EU8O1lBZDpYr7wciuShWeR4veiqfhVBEJ4d8Rg9vlqNqq4ohp0-sfqa5VcZbOrLQFqcS8dB5ww2EjmSiIdQdTlea8=",
+            "title": "footballguys.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEbn01d8OXIFVR1DUnNSO94lFepIlChBXJB_MwxulSCNnWGstwdPYM3kCGP2Sy0AjEO5dQS-TyNxSx1Cxp_TX13Kxh4KBFS6AJhWTSvcd8QvYQCKtEUwXEmDnHGcfD2MFk-qY9P1cgxwHoPgq5Nuj33rxNy_tf6c4x_paVHrCzMvCeSoeuvSr4a2DF2yY_TddiZadLVv3S2OsT8Qo=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELgwfEnn_fgepj2BABYxjhCVvhz4C-PbehFjia0ca_ONPXYJHsQ3joXDhrX_3NO9q4_j4qXO_qp-2dC5AN6YPfXKVrw8Lb77B30eFBHYImcZFaZioL9hzsxNSBKW4B6M6lZrXvUWW6mL3x7y_J7iwD8JOaReTvP6TyrI55Mq5coKzeN3PkIYb4j3RlrA==",
+            "title": "dynastynerds.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "69ae49f7e41bf8f0e878738e32561a8d79e6a189",
+        "aviCoreCommittedAt": "2026-11-05T19:54:46Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md"
+        ],
+        "contextChars": 90972,
+        "groundedMarketChars": 1268,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mvzrwudv-851610d7",
