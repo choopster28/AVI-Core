@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736992907139158016
 - Division: 4
 - Waiver position: 3
-- Last updated from Sleeper exports: 2026-11-04
+- Last updated from Sleeper exports: 2026-11-05
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 523.4
-- championship_lineup_c_avi_avg: 65.42
-- offensive_roster_c_avi_sum: 848.5
+- championship_lineup_c_avi_sum: 523.5
+- championship_lineup_c_avi_avg: 65.44
+- offensive_roster_c_avi_sum: 848.6
 - offensive_roster_c_avi_avg: 47.14
 - offensive_roster_d_avi_sum: 1276.6
 - offensive_roster_d_avi_avg: 70.92
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Matthew Stafford | C-AVI: 51.7 | D-AVI: 67.8
 - RB: Jahmyr Gibbs | C-AVI: 98.6 | D-AVI: 98.3
-- RB: Jonah Coleman | C-AVI: 42.9 | D-AVI: 77.6
+- RB: Jonah Coleman | C-AVI: 43.0 | D-AVI: 77.6
 - WR: Drake London | C-AVI: 84.2 | D-AVI: 95.6
 - WR: Garrett Wilson | C-AVI: 78.7 | D-AVI: 91.6
 - TE: Travis Kelce | C-AVI: 72.8 | D-AVI: 77.9
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 42.9
+- Championship AVI (C-AVI, 0-100): 43.0
 - Dynasty AVI (D-AVI, 0-100): 77.6
 - Projected PPR points: 63.9
 - Category: offense

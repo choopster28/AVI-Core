@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 5
-- Last updated from Sleeper exports: 2026-11-04
+- Last updated from Sleeper exports: 2026-11-05
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 558.9
-- championship_lineup_c_avi_avg: 69.86
-- offensive_roster_c_avi_sum: 851.5
-- offensive_roster_c_avi_avg: 53.22
-- offensive_roster_d_avi_sum: 1221.1
-- offensive_roster_d_avi_avg: 76.32
+- championship_lineup_c_avi_sum: 567.7
+- championship_lineup_c_avi_avg: 70.96
+- offensive_roster_c_avi_sum: 859.4
+- offensive_roster_c_avi_avg: 53.71
+- offensive_roster_d_avi_sum: 1224.1
+- offensive_roster_d_avi_avg: 76.51
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Patrick Mahomes | C-AVI: 50.7 | D-AVI: 78.1
+- RB: Saquon Barkley | C-AVI: 64.9 | D-AVI: 86.7
 - RB: Rhamondre Stevenson | C-AVI: 62.3 | D-AVI: 80.2
-- RB: Cam Skattebo | C-AVI: 54.0 | D-AVI: 81.7
 - WR: Jaxon Smith-Njigba | C-AVI: 99.5 | D-AVI: 99.9
 - WR: Malik Nabers | C-AVI: 90.6 | D-AVI: 97.1
 - TE: Trey McBride | C-AVI: 94.7 | D-AVI: 92.9
-- FLEX: David Montgomery | C-AVI: 53.8 | D-AVI: 78.2
-- FLEX: Saquon Barkley | C-AVI: 53.3 | D-AVI: 84.8
+- FLEX: Cam Skattebo | C-AVI: 54.0 | D-AVI: 81.7
+- FLEX: DJ Moore | C-AVI: 51.0 | D-AVI: 81.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -73,6 +73,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 48.3
 - Dynasty AVI (D-AVI, 0-100): 70.5
 - Projected PPR points: 270.9
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Saquon Barkley
+- Player name: Saquon Barkley
+- Player ID: 4866
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: PHI
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 64.9
+- Dynasty AVI (D-AVI, 0-100): 86.7
+- Projected PPR points: 246.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -127,23 +144,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Saquon Barkley
-- Player name: Saquon Barkley
-- Player ID: 4866
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: PHI
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 53.3
-- Dynasty AVI (D-AVI, 0-100): 84.8
-- Projected PPR points: 246.7
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Mike Washington Jr.
 - Player name: Mike Washington Jr.
 - Player ID: 13305
@@ -155,9 +155,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 29.5
+- Championship AVI (C-AVI, 0-100): 29.6
 - Dynasty AVI (D-AVI, 0-100): 69.5
 - Projected PPR points: 97.5
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Corey Kiner
+- Player name: Corey Kiner
+- Player ID: 12491
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: NE
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 18.3
+- Dynasty AVI (D-AVI, 0-100): 45.4
+- Projected PPR points: 15.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -257,26 +274,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 24.6
+- Championship AVI (C-AVI, 0-100): 24.7
 - Dynasty AVI (D-AVI, 0-100): 61.3
 - Projected PPR points: 51.9
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Savion Williams
-- Player name: Savion Williams
-- Player ID: 12482
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: GB
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 22.2
-- Dynasty AVI (D-AVI, 0-100): 44.3
-- Projected PPR points: 32.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

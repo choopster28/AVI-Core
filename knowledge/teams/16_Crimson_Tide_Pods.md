@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 471824466389757952
 - Division: 1
 - Waiver position: 2
-- Last updated from Sleeper exports: 2026-11-04
+- Last updated from Sleeper exports: 2026-11-05
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,8 +23,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 324.6
 - championship_lineup_c_avi_avg: 40.58
-- offensive_roster_c_avi_sum: 567.4
-- offensive_roster_c_avi_avg: 35.46
+- offensive_roster_c_avi_sum: 567.5
+- offensive_roster_c_avi_avg: 35.47
 - offensive_roster_d_avi_sum: 1099.0
 - offensive_roster_d_avi_avg: 68.69
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Germie Bernard | C-AVI: 44.8 | D-AVI: 72.0
 - TE: Dalton Kincaid | C-AVI: 62.6 | D-AVI: 82.9
 - FLEX: Chris Rodriguez Jr. | C-AVI: 31.0 | D-AVI: 67.3
-- FLEX: Oronde Gadsden | C-AVI: 30.6 | D-AVI: 73.1
+- FLEX: Dylan Sampson | C-AVI: 30.6 | D-AVI: 67.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 30.5
+- Championship AVI (C-AVI, 0-100): 30.6
 - Dynasty AVI (D-AVI, 0-100): 67.5
 - Projected PPR points: 88.7
 - Category: offense

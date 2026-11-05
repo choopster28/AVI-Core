@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 12
-- Last updated from Sleeper exports: 2026-11-04
+- Last updated from Sleeper exports: 2026-11-05
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 648.7
-- championship_lineup_c_avi_avg: 81.09
-- offensive_roster_c_avi_sum: 884.3
-- offensive_roster_c_avi_avg: 55.27
+- championship_lineup_c_avi_sum: 648.6
+- championship_lineup_c_avi_avg: 81.08
+- offensive_roster_c_avi_sum: 884.2
+- offensive_roster_c_avi_avg: 55.26
 - offensive_roster_d_avi_sum: 1194.7
 - offensive_roster_d_avi_avg: 74.67
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Mike Evans | C-AVI: 80.7 | D-AVI: 85.0
 - TE: Brock Bowers | C-AVI: 95.0 | D-AVI: 93.5
 - FLEX: Stefon Diggs | C-AVI: 63.9 | D-AVI: 74.1
-- FLEX: Tre Tucker | C-AVI: 56.3 | D-AVI: 72.1
+- FLEX: Tre Tucker | C-AVI: 56.2 | D-AVI: 72.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 56.3
+- Championship AVI (C-AVI, 0-100): 56.2
 - Dynasty AVI (D-AVI, 0-100): 72.1
 - Projected PPR points: 125.9
 - Category: offense

@@ -622,7 +622,7 @@
     },
     {
       "cbs_player_id": "3163962",
-      "player_age": "24",
+      "player_age": "25",
       "player_bye_week": "7",
       "player_ecr_delta": null,
       "player_eligibility": "WR",
@@ -4319,7 +4319,7 @@
     {
       "cbs_player_id": "2865884",
       "player_age": "27",
-      "player_bye_week": "13",
+      "player_bye_week": null,
       "player_ecr_delta": 20,
       "player_eligibility": "WR",
       "player_filename": "cody-white-wr.php",
@@ -4332,7 +4332,7 @@
       "player_position_id": "WR",
       "player_positions": "WR",
       "player_short_name": "C. White",
-      "player_team_id": "LV",
+      "player_team_id": "FA",
       "player_yahoo_id": "32948",
       "player_yahoo_positions": "WR",
       "pos_rank": "WR155",
