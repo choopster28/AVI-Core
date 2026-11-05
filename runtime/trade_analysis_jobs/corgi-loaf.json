@@ -19,9 +19,344 @@
       "foundationAssets": []
     },
     "createdAt": 1793897682873,
-    "updatedAt": 1793897684793,
+    "updatedAt": 1793897740399,
     "expiresAt": 1794329682873,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. (managed by awang1900) seeks to land veteran volume RB Josh Jacobs from Southside Savages (managed by GGEZGoNext) to strengthen its championship push. Southside Savages is operating under a Retool objective, making 28-year-old Jacobs a prime trade candidate if Southside receives younger, startable assets in return. AVI recommends constructing a package around 24-year-old RB Cam Skattebo and WR Ryan Flournoy. This offer gives Southside a 4-year age reset at RB with high dynasty stability (Skattebo D-AVI: 81.4 vs. Jacobs D-AVI: 80.5) plus immediate FLEX help, while boosting Corgi Loaf's championship starting lineup C-AVI sum by +11.1 points.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Cam Skattebo",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 52.5,
+              "davi": 81.4,
+              "publicMarket": 62,
+              "leagueMarket": 65
+            },
+            {
+              "name": "Ryan Flournoy",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 49.2,
+              "davi": 67.1,
+              "publicMarket": 45,
+              "leagueMarket": 48
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Josh Jacobs",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "RB",
+              "age": 28,
+              "cavi": 65,
+              "davi": 80.5,
+              "publicMarket": 68,
+              "leagueMarket": 72
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The proposed package sends 24-year-old RB Cam Skattebo and WR Ryan Flournoy to Southside Savages for Josh Jacobs. Corgi Loaf upgrades its active starting lineup by pairing Jacobs with Saquon Barkley and Rhamondre Stevenson (+11.1 C-AVI net gain), advancing its Win Championship goal. Southside Savages advances its Retool objective by securing a 24-year-old starting RB with an elite 81.4 D-AVI profile and adding a reliable FLEX option in Flournoy without collapsing weekly scoring."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Sending Cam Skattebo and Ryan Flournoy represents the optimal 2-for-1 proposal for Corgi Loaf Baking Co. to acquire Josh Jacobs. It satisfies Southside's Retool objective by delivering a 24-year-old RB replacement and immediate FLEX starter while providing Corgi Loaf the RB1 production needed for a title run."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 68,
+              "summary": "Corgi Loaf Baking Co. elevates its overall championship profile by consolidating two sub-53 C-AVI depth pieces into an established high-touch RB1."
+            },
+            "championshipOutlook": {
+              "score": 75,
+              "summary": "Adds 65.0 C-AVI starter Josh Jacobs, elevating projected weekly starting lineup C-AVI from 561.3 to 572.4."
+            },
+            "dynastyOutlook": {
+              "score": 50,
+              "summary": "Trades away 24-year-old Skattebo, incurring a slight age increase at RB in exchange for immediate championship ceiling."
+            },
+            "lineupQuality": {
+              "score": 72,
+              "summary": "Forms a powerful starting RB/FLEX trio of Saquon Barkley, Rhamondre Stevenson, and Josh Jacobs."
+            },
+            "depthResilience": {
+              "score": 55,
+              "summary": "Slightly reduces bench WR depth by surrendering Flournoy, but David Montgomery and DJ Moore remain available active reserves."
+            },
+            "flexibilityLiquidity": {
+              "score": 52,
+              "summary": "Preserves core future draft capital while converting rosterable assets into high-end production."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 62,
+              "summary": "Southside Savages successfully retools by pivoting from a 28-year-old RB to a 24-year-old RB starter plus a starting WR/FLEX piece."
+            },
+            "championshipOutlook": {
+              "score": 55,
+              "summary": "Lineup C-AVI remains stable (497.2 to 500.3) as Flournoy enters FLEX to offset the minor C-AVI drop from Jacobs to Skattebo."
+            },
+            "dynastyOutlook": {
+              "score": 75,
+              "summary": "Acquires 24-year-old Cam Skattebo (81.4 D-AVI), extending the franchise's RB window by four years."
+            },
+            "lineupQuality": {
+              "score": 60,
+              "summary": "Skattebo steps directly into the starting RB1 slot alongside Emanuel Wilson, avoiding an empty position hole."
+            },
+            "depthResilience": {
+              "score": 68,
+              "summary": "Adds dual startable depth pieces to reinforce a top-heavy offense."
+            },
+            "flexibilityLiquidity": {
+              "score": 64,
+              "summary": "Gains a younger, highly liquid RB asset in Skattebo who can be held long-term or flipped in future retool moves."
+            }
+          },
+          "explanation": "Visual impact reflects a mutually beneficial trade tailored to both teams' verified strategic goals. Corgi Loaf gains significant immediate championship strength (+11.1 C-AVI lineup boost), while Southside Savages successfully executes a retool by youth-ing its RB room without sacrificing current lineup viability."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Adding Josh Jacobs (65.0 C-AVI) increases Corgi Loaf's starting lineup C-AVI from 561.3 to 572.4. Jacobs fills a critical high-volume RB slot, sliding Rhamondre Stevenson to RB2 and David Montgomery/DJ Moore to FLEX.",
+          "sideADynastyImpact": "D-AVI impact is balanced. Corgi Loaf surrenders Skattebo (81.4 D-AVI) and Flournoy (67.1 D-AVI) to receive Jacobs (80.5 D-AVI), trading four years of age for immediate RB1 volume.",
+          "sideARosterImpact": "Clears a roster slot while elevating the floor and ceiling of the active starting lineup.",
+          "sideBChampionshipImpact": "Southside's starting lineup C-AVI moves from 497.2 to 500.3. Skattebo (52.5 C-AVI) replaces Jacobs at RB1, while Ryan Flournoy (49.2 C-AVI) replaces TreVeyon Henderson (33.6 C-AVI) at FLEX2.",
+          "sideBDynastyImpact": "Southside gains long-term dynasty stability by replacing a 28-year-old RB with 24-year-old Skattebo (81.4 D-AVI) while picking up 27-year-old Flournoy.",
+          "sideBRosterImpact": "Fills a potential RB starter vacuum and upgrades WR/FLEX depth.",
+          "valueAssessment": "Fair market trade under Autobots 16-team PPR scoring. Total outgoing C-AVI is 101.7 across two starters for 65.0 C-AVI in a concentrated RB1 asset, matching the typical 2-for-1 premium required to dislodge a high-volume back."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Josh Jacobs commands RB1 volume in Green Bay (32 carries, 13 targets in his first two games back) propping up high-end fantasy utility despite low rushing efficiency. However, an active open NFL personal conduct investigation introduces tail-risk volatility.",
+          "aviVsMarket": "Public market rates Jacobs as a mid-to-high RB1 for contenders, but discounts his long-term dynasty value due to age (28) and legal uncertainty. AVI captures this with a 65.0 C-AVI and 80.5 D-AVI.",
+          "relevantContext": [
+            "Jacobs logged a 71% snap share and 46% route participation upon returning.",
+            "Green Bay offensive scheme guarantees high-value goal-line and passing-down usage.",
+            "NFL conduct investigation remains officially open, creating minor volatility for dynasty managers."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Southside Savages is in a Retool phase. Moving 28-year-old Jacobs for 24-year-old Cam Skattebo aligns perfectly with building a younger core around Drake Maye (24), Tetairoa McMillan (23), and Luther Burden III (22).",
+          "packageFit": "The 2-for-1 offer provides an immediate RB replacement (Skattebo) so Southside does not collapse at RB, plus a usable FLEX starter in Ryan Flournoy.",
+          "lineupReplacement": "Skattebo directly fills Southside's RB1 slot, minimizing the starting lineup drop-off from Jacobs.",
+          "competitiveWindowFit": "Fits Southside's Retool timeline by securing an 81.4 D-AVI running back who is four years younger than Jacobs.",
+          "positionalScarcity": "Starting RBs in a 16-team PPR format carry significant premium value. Delivering a 24-year-old starting RB back to Southside is essential for deal completion."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 20,
+            "packageMatch": 16,
+            "lineupReplacement": 12,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 71,
+          "classification": "Realistic",
+          "explanation": "Jacobs is not officially listed on the public trade block, but Southside's Retool goal creates strong manager motivation to swap a 28-year-old veteran back for a 24-year-old starting RB (Skattebo) and extra lineup depth (Flournoy). All market reality validations pass."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Proposing Cam Skattebo and Ryan Flournoy for Josh Jacobs provides a compelling, goal-aligned offer for both franchises. Corgi Loaf gains +11.1 C-AVI in starting lineup strength for a championship run, while Southside Savages gets four years younger at RB with an elite 81.4 D-AVI asset in Skattebo.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Cam Skattebo",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 52.5,
+              "davi": 81.4,
+              "publicMarket": 62,
+              "leagueMarket": 65
+            },
+            {
+              "name": "Ryan Flournoy",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 49.2,
+              "davi": 67.1,
+              "publicMarket": 45,
+              "leagueMarket": 48
+            }
+          ],
+          "receive": [
+            {
+              "name": "Josh Jacobs",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "RB",
+              "age": 28,
+              "cavi": 65,
+              "davi": 80.5,
+              "publicMarket": 68,
+              "leagueMarket": 72
+            }
+          ],
+          "whyUserShouldDoIt": "Secures an established RB1 with heavy weekly touch volume, raising Corgi Loaf's starting lineup C-AVI sum to 572.4 and forming an elite RB core of Saquon Barkley, Rhamondre Stevenson, and Josh Jacobs.",
+          "whyOpponentMightAccept": "Southside Savages accomplishes its Retool goal by acquiring 24-year-old RB Cam Skattebo (81.4 D-AVI) to reset its RB timeline alongside young core pieces Maye, McMillan, and Burden, while adding Flournoy to upgrade FLEX2."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 47.8,
+              "davi": 77.1,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            },
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 46.5,
+              "davi": 80.7,
+              "publicMarket": 60,
+              "leagueMarket": 64
+            }
+          ],
+          "receive": [
+            {
+              "name": "Josh Jacobs",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "RB",
+              "age": 28,
+              "cavi": 65,
+              "davi": 80.5,
+              "publicMarket": 68,
+              "leagueMarket": 72
+            }
+          ],
+          "rationale": "If Southside prefers established veteran production and higher WR upside over youth, sending David Montgomery and DJ Moore offers high overall C-AVI/D-AVI utility (94.3 C-AVI / 157.8 D-AVI total), though it is less aligned with a strict youth-based retool."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Josh Jacobs news 2026 NFL fantasy",
+          "Josh Jacobs current team NFL 2026 contract injury"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPvzi7uoog6xit-enMjVH2C2GggJs9MmxI46sVy_kUy2laV_KNUZI-z8ZqBU5ez_vOrRFoTD88lfGyLCVEWzTOmlodKeZVrB9rshpGlpGRQvS_z0kr8a_sMa0KuPH3nDrgZ8gzTdRpQxa2Id6vFQ33t8F6",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7s9VcLIBlGkMEsHXZEVzjq-pEfCCUySvHb6ikSbGPvpZXvDr0CXxJf30Xb4Udl11ov079BC4GGsqzYgryDEYgTIzDQy3jpaqCbGswxVVlV_2mXKtBfZQ2ovuTU-RjIkLHj4i-CuWk6QUpWNyjW2P8EDah_TnLM0p2iIinI0Rc711KXM4UBdBhej4UN8ApFGD4",
+            "title": "zonecoverage.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxujLoEtaovBhjxQm6MIbHS9dTP9TcODqMJgUFc4m578vEWPVNiOkCmuSIMzMR_aR904IlfaCd0mGs4uFHDI9U_7JRyLp1NaOeMoXlAv4XjkMlVlkrX0pF_BuUgLDx_YRYWt3AE-ck3FKzjdOdooUTldBwS6U_Bh4Bm1IEzh7owPoL8w72Ip-GgrKf21NQquISk3rNatDA8rdc",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGMVjHL0VcLy1RhJYnh6lSnq85bxKFGmM4xoRRvGfye-QHNkRYRXjr49h9wpoip4ZjRD4aSxCUNpZVtzYipgD4gHBdxf7kXM74_X1EmB1O1rDnO_TpuG6EL5b8WPP5KQa_0sWZ57pVTaERCeo=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE619QfIkQUJnO2I7namjOC53Oln3b4RVK9bPK-Rvxx4TKdZCfhA4R7b43Yi_UD5A-0VyKfrNqa-cspfGYJgWoIOtyGu2Auyz9Mq6SKkeBYywGhqEIP83BdNgoiOrN59ihIu17drslcfEMMYO3G_xKw0SHbiJ5KsU-SFvFWZQ4WCmK9sBcETNM1Z62fh4NK-W6icbaCZndP6nO",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoY2svzWtINwkRmNVPP20h-YkIBeIdT7tgZ8KMnrRrxKMpNmjZQkiBRJX3YGxGZVr_FXk1xrmUK_rbxisK8r8mroyjwcqWBHBhEjjF6xQf-bPat_3cwxX9qPK81L24xswTcIxBoRYVBnfU7NvPBrHwpsYMDMTHXVCsPhlkvC_OWlo-X8_Ee_smk2i1H_Jy7QOjW6r2klavCC_YBSHqn2uenAWs0OkMuQbNsQ1D",
+            "title": "fantasyguru.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERTmUoUTcP4alO7Lq-yEUGSpKwcnAAoZ30KPwAo-jwEezwljb88Iiq6w_oZSERbuqf82h0cTdKeL7qu-97WAYSJ8ODCAGyNiXHQooX_Ne8Il9UaniWHwp0TQrP4-j7GW41GfbmLzbB7QDifd4ORIxehpbJbaEFqSszju2paQQw4Aac98B7iS5U66E92QXLGx2tTjA4cu9PC9vqCzeFVQC7J6eNFSbXakHZUQ==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH4oMdhMUFom88_TYomguIezTouBbTQc4HuayV1ZgFLxma8XqegaiE6sK7eTddk_V1Wh_ZXlq2fUmWC_TM9Yd5soFAmvwpmMjOGaB_0-K6Ka92d1lumBjGlCYnqYyQEByynoJa_NlHlGlOSJhx9auPYI1K1fM0Og4qxg8IP5hL6vZLGqP1fWTFi3NpjVrjsg4UccqHTyOoNgX4EZvTfaZpgqGyaUL4ngp5I51RL_omWuU9g1t-JmMRv4beai_HmKA-cXa0Ure0MEA=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7T1IPO0f-5dR0msfou0Run2H3fvBQj1izabxiGoC_icsodgORjpN78w8MmHS0UtLHT70gdx7jBR3Zq4eG3x1ivI-1Equ7bUPbWWMbF6uS-Vz38KhNcv0k_9duXUyR1Eqjn4aUP3SHY-D75LW8fzr58CAmTfyoGw2qalEyQq7Wvku65XgIlJZWo9pYIXTIVM3-_ag=",
+            "title": "draftsharks.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "6b5f24639791637bdfd54c344c261b10569d6c8d",
+        "aviCoreCommittedAt": "2026-11-05T12:35:31Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 91741,
+        "groundedMarketChars": 3406,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mw36fnmk-60fd65bf",
