@@ -276,6 +276,17 @@ def apply_injury_availability_adjustments() -> dict[str, Any]:
     for player in players:
         if not isinstance(player, dict):
             continue
+        # In-season recalculation restores the pre-availability score each run.
+        # Also remove stale audit fields before applying today's current status.
+        components = player.get("components")
+        if isinstance(components, dict):
+            for key in (
+                "base_c_avi_before_availability_adjustment",
+                "c_avi_availability_adjustment",
+                "c_avi_availability_ceiling",
+                "ongoing_injury_risk_points",
+            ):
+                components.pop(key, None)
         avi_id = str(player.get("avi_id") or "")
         state = states.get(avi_id)
         if not state:
