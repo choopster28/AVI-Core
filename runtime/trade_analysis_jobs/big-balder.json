@@ -32,9 +32,442 @@
       "maxResults": 3
     },
     "createdAt": 1793861670171,
-    "updatedAt": 1793861672014,
+    "updatedAt": 1793861729602,
     "expiresAt": 1794293670171,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "counter_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Counteroffers constructed for Big Balder Brand in response to Corgi Loaf Baking Co.'s original proposal. Each displayed package changes the submitted assets and retains at least one negotiation anchor. Compare the send/receive changes and the two teams' objectives before negotiating.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Retool",
+          "strengths": [
+            "High-volume RB focal point in Chuba Hubbard",
+            "Strong young core with Jayden Daniels and Rashee Rice",
+            "Intact future draft capital starting in 2028"
+          ],
+          "priorityNeeds": [
+            "Lower overall backfield age profile",
+            "Accumulate secondary starter depth and picks",
+            "Consolidate roster liquidity for long-term championship contention"
+          ],
+          "tradeableSurplus": [
+            "Peak-value veteran RB production"
+          ],
+          "constraintsApplied": [
+            "Preserve Retool timeline",
+            "Must return verified starter-caliber assets",
+            "Satisfy Corgi Loaf's Win Championship requirement"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 1,
+          "managersEliminated": 0,
+          "eliminationReasons": []
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Corgi Loaf Baking Co.",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Cam Skattebo",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 24,
+                "cavi": 41.7,
+                "davi": 79.6,
+                "publicMarket": 201.2,
+                "leagueMarket": null
+              },
+              {
+                "name": "David Montgomery",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 39.2,
+                "davi": 75.7,
+                "publicMarket": 155,
+                "leagueMarket": null
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Chuba Hubbard",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 27,
+                "cavi": 77.8,
+                "davi": 84.5,
+                "publicMarket": 147.9,
+                "leagueMarket": null
+              }
+            ],
+            "scenarioType": "Counteroffer · Depth Preservation Counter",
+            "strategicGoal": "Retool",
+            "scoring": {
+              "availability": 28,
+              "opposingGmMotivation": 23,
+              "packageMatch": 18,
+              "lineupReplacement": 14,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 92,
+            "classification": "Highly Realistic",
+            "whyUserShouldDoIt": "Acquiring 24-year-old Cam Skattebo alongside veteran volume back David Montgomery diversifies your RB room, lowers team age, and gives you two usable starter/FLEX assets while selling Chuba Hubbard at peak market value.",
+            "whyOpponentMightAccept": "Corgi Loaf Baking Co. keeps Rhamondre Stevenson (59.0 C-AVI) in their starting lineup while upgrading Montgomery/Skattebo into workhorse RB Chuba Hubbard (77.8 C-AVI), creating a massive net upgrade for their championship push.",
+            "championshipImpact": "Corgi Loaf gains +38.6 net C-AVI in their RB1 slot, directly boosting weekly title-race projection.",
+            "dynastyImpact": "Big Balder Brand exchanges 27-year-old Hubbard for 24-year-old Skattebo (79.6 D-AVI) and dependable depth in Montgomery.",
+            "rosterImpact": "Big Balder Brand splits one RB into two startable backs, boosting positional resilience.",
+            "publicMarketContext": "Skattebo is dealing with a temporary hamstring issue but holds immense dynasty upside, making him a prime retool acquire.",
+            "risks": [
+              "Skattebo missed Wednesday practice with a hamstring injury and carries short-term availability uncertainty."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Hubbard for Skattebo and Montgomery, emphasizing that Corgi Loaf preserves Rhamondre Stevenson's high scoring floor for their championship lineup.",
+              "acceptableConcession": "Throw in a late future 3rd-round pick if Corgi Loaf demands minor draft sweetening.",
+              "walkAwayPoint": "Walk away if Corgi Loaf insists on receiving additional startable WR depth without adding draft capital."
+            },
+            "counterChanges": {
+              "changed": true,
+              "anchorRetained": true,
+              "addedSend": [],
+              "removedSend": [],
+              "addedReceive": [
+                "david montgomery"
+              ],
+              "removedReceive": [
+                "rhamondre stevenson"
+              ]
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Corgi Loaf Baking Co.",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Cam Skattebo",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 24,
+                "cavi": 41.7,
+                "davi": 79.6,
+                "publicMarket": 201.2,
+                "leagueMarket": null
+              },
+              {
+                "name": "Rhamondre Stevenson",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 28,
+                "cavi": 59,
+                "davi": 79.5,
+                "publicMarket": 169,
+                "leagueMarket": null
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Chuba Hubbard",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 27,
+                "cavi": 77.8,
+                "davi": 84.5,
+                "publicMarket": 147.9,
+                "leagueMarket": null
+              },
+              {
+                "name": "2028 Round 2 (Big Balder Brand)",
+                "assetType": "pick",
+                "owner": "Big Balder Brand",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 48.5,
+                "publicMarket": 110,
+                "leagueMarket": null
+              }
+            ],
+            "scenarioType": "Counteroffer · Draft Capital Balanced Counter",
+            "strategicGoal": "Retool",
+            "scoring": {
+              "availability": 27,
+              "opposingGmMotivation": 22,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 88,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "You secure the exact two-RB return from the original offer (Skattebo and Stevenson) while adding a 2028 2nd-round pick to make the transaction irresistible for the contender.",
+            "whyOpponentMightAccept": "Corgi Loaf receives an elite win-now centerpiece in Chuba Hubbard PLUS an attractive 2028 2nd-round pick to replenish draft liquidity surrendered in prior trades.",
+            "championshipImpact": "Corgi Loaf consolidates depth into an RB1 workhorse averaging near 20 touches per game.",
+            "dynastyImpact": "Big Balder Brand gains two top-80 D-AVI running backs to accelerate retooling backfield flexibility.",
+            "rosterImpact": "Fills two active RB/FLEX slots on Big Balder Brand while leveraging future pick surplus.",
+            "publicMarketContext": "Hubbard ranks as a top-15 PPR back this season, commandingly driving contender market interest.",
+            "risks": [
+              "Surrendering a 2028 2nd pick reduces future draft capital slightly during retool phase."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Hubbard and the 2028 2nd for Skattebo and Stevenson as a decisive closing counter.",
+              "acceptableConcession": "Downgrade the pick to a 2028 3rd if Corgi Loaf shows strong eagerness to secure Hubbard.",
+              "walkAwayPoint": "Refuse to include any 1st-round draft capital."
+            },
+            "counterChanges": {
+              "changed": true,
+              "anchorRetained": true,
+              "addedSend": [
+                "2028 round 2 (big balder brand)"
+              ],
+              "removedSend": [],
+              "addedReceive": [],
+              "removedReceive": []
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Corgi Loaf Baking Co.",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Cam Skattebo",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 24,
+                "cavi": 41.7,
+                "davi": 79.6,
+                "publicMarket": 201.2,
+                "leagueMarket": null
+              },
+              {
+                "name": "DJ Moore",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "WR",
+                "age": 29,
+                "cavi": 39.6,
+                "davi": 79.5,
+                "publicMarket": 160,
+                "leagueMarket": null
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Chuba Hubbard",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 27,
+                "cavi": 77.8,
+                "davi": 84.5,
+                "publicMarket": 147.9,
+                "leagueMarket": null
+              }
+            ],
+            "scenarioType": "Counteroffer · Cross-Positional Retool Counter",
+            "strategicGoal": "Retool",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 20,
+              "packageMatch": 17,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 82,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Pivoting from Rhamondre Stevenson to DJ Moore brings in an established WR with a solid 79.5 D-AVI alongside high-upside rookie back Skattebo.",
+            "whyOpponentMightAccept": "Corgi Loaf Baking Co. holds deep WR availability and can afford to trade DJ Moore to lock in an elite RB1 in Chuba Hubbard without weakening their backfield rotation.",
+            "championshipImpact": "Corgi Loaf converts surplus WR depth into immediate RB1 scoring firepower.",
+            "dynastyImpact": "Big Balder Brand acquires proven WR starting equity alongside young RB upside.",
+            "rosterImpact": "Balances Big Balder Brand's roster across WR and RB positions.",
+            "publicMarketContext": "DJ Moore retains strong dynasty brand value as a dependable target earner.",
+            "risks": [
+              "DJ Moore's current C-AVI (39.6) reflects QB/offense variance in Buffalo."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Hubbard for Skattebo and DJ Moore, highlighting Corgi Loaf's need for RB consolidation.",
+              "acceptableConcession": "Include a late future pick swap to complete the agreement.",
+              "walkAwayPoint": "Reject if Corgi Loaf demands additional starting WRs back."
+            },
+            "counterChanges": {
+              "changed": true,
+              "anchorRetained": true,
+              "addedSend": [],
+              "removedSend": [],
+              "addedReceive": [
+                "dj moore"
+              ],
+              "removedReceive": [
+                "rhamondre stevenson"
+              ]
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "originalTrade": {
+          "sideA": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player"
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Cam Skattebo",
+              "assetType": "player"
+            },
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player"
+            }
+          ],
+          "userTeam": "Big Balder Brand",
+          "targetTeam": "Corgi Loaf Baking Co."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Chuba Hubbard news 2026 NFL fantasy",
+          "Cam Skattebo news 2026 NFL fantasy",
+          "Rhamondre Stevenson news 2026 NFL fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCmVIByFSHukSV6xnvtyiSCeYyl0NqWJQSKTSSFtmsiv0jZ2KyLML4vj1BLBnrsXnwJd-UN8Y_rDljMfSZJkQu9ZvRi9V3IcCK8XlcQpui5hMzXUyqFUA7jVr-vrqHE6UanwTgJBxhtAVM-B0ebNGM5gZusOjRKqlcgspUu1l9C0iiGpVycbELwOuxPX9sv1sSs-g6dfomvOCQKERj9o9ty4VsF95r6Ls=",
+            "title": "draftkings.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYW_I7cs3hvQEMNoihfv2CibSMR-uCs-0IFYReVs3XFDW7aditVgBWUbqWowDsdJ83ONVZHhuXL3L-Gm8DrPoq95qazsvdS-eGQFxxHvQOnH1-yxbkUdSdw6qGPAiKX2BVu2RnY_CWx-bKCPplwtJkhD34PWiuqLCddW7S_ma8tzVcyVJWBvfydQrlAhZFddEuh-Tb5wGLSkgTsF6Z9Wf5goIR",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwbDJhQLkpEFqRgWLW2QlhgmynyJp6GEYFPa0MTiVroRINDRmfIkuYonFTYkTb-N3c5fPs8Nq7XM3s-OB2zXZlmUX22CUb2SVaJHc4rJjZPYOGgmDgYeays7-jzr_FfDHTO340PUH9YcGzj_FQLzRcRmmyM7auPknbL3DMX5r6o4oV_dDGbU7i2nQzr0hL",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqoCyz70nbr7LC1SxVzfXQ44IZqe3dv4zlGmwzvvyEmxFIziEAO-iIekDPcz_uNq-nZMXvsJhcUZpKLy0FTy3jLIrNz1GtthN5v0grc2agBsTu1-0BR7OC-8rU0647hlcGPk7_gmZ0K5_sz3BYwY0YWWu-9oPZQKUEAkSFz82xpw5xhBQuYY_bwlnPmvAAGJwzod441onNpGaxWq5I",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0v9zZANfX1Tjni4rmsL28Q9JLfEXaWIhuWxXHrZu-yCsK_nrteTjo_DG8WUheH8WAMscia9UrPJMOuQ23bFTPRC3sLYx52F8bpOWflos-PYXKpPM1VeKyKSfg7-ZHCfDc7zVgy4A4ardcJW0R5yd2ztpmrk4R",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAH0kBHEgiwmAbdjNI9r0CvojLISOl3QDEt0--8_1tvc_GVmYUySbkutVBeaNj6ZRForrXh7uTTVkdIvVjsf92Mo90jgQAGJrnhHqyt2lODPJ0z57k9L8g1-GoKtHQ8dh8Z9Uun47-nHfVmjEb",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcmGkf6gR8kndo1Dpdld4fCNvAlq9XZsjG6cqnPYL9kZu-Cyqjq9_-ZABoPZliN0gKzSELBLGMDt_Amvtc6ahzF-UqWzUfeIiprReRPg0HOtebxfqNZNXwKjLMyDmKKfxJUEStqhsG8arnARfJNpKTgHzenqdzwbFlI0DPiNhaIwDjZK-lK8txRJhEsdM-Y6gRlh1_UuAbjNAhZxI=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBnER0FGnU7K6F6ZrMP3VQBHWnQoa2Udap_Sd8x0X9UTE56SgGnXhiFAFboDqb8KM6KgPajOsynjCRrgtp4Kl-ZRHUNc4hQ_eVtuTIqi30TcVRj672fLVUC8Tfh6B1xYy6dcQu4DOlAUmEVuU0-02BuoZjf-75I20WMdKGF5mrw0MkIAo=",
+            "title": "fantasysp.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNeCURSFV2HwepfJkOb812gT2DcsPtG7JAocPg7SkFCtIY71DXEQtDvof5-NPgQbHlqOP7bLpzJzUxh31Ovk0KsWZq1vpeJWJaoUtvdArvDJgKxX5I6Xwo2n5RFdxDSnRKMQQmPgP28aLuVs7S3JYy7xGu",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8f1IcEzLfIgtHoWRd0rTQ1-LCTVRL0ihiz_aI8uk3rD1Q_H7dFYT1rCg104xsLEJw9Si6MFBGSrclNvI-okYYr9d1btsHH35uf9zLQJzbY1N5XqVosf0ejxFyA37dUVyuspjsSDh2Kt0ZOh45isDfIRB0raR_-S40Esfr",
+            "title": "fantasyfootballcalculator.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Cam Skattebo",
+          "Chuba Hubbard",
+          "Rhamondre Stevenson"
+        ],
+        "aviCoreCommitSha": "39acda66833538a91ac912904045477647fed700",
+        "aviCoreCommittedAt": "2026-11-05T05:54:49Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 544647,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 249,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mw36k8cl-6ece0a0e",
