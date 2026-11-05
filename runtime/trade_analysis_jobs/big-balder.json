@@ -1,5 +1,41 @@
 [
   {
+    "id": "mw3582g8-f0209bb3",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Lightskin Legends",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Chase Brown",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 1st · Lightskin · Projected Mid · original owner Lightskin Legends",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1793858817896,
+    "updatedAt": 1793858817896,
+    "expiresAt": 1794290817896,
+    "status": "queued"
+  },
+  {
     "id": "mw34zgk4-762d3f58",
     "phase": "initial",
     "mode": "propose_trade",
