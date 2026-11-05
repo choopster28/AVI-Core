@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 324.1
-- championship_lineup_c_avi_avg: 40.51
-- offensive_roster_c_avi_sum: 478.6
-- offensive_roster_c_avi_avg: 34.19
-- offensive_roster_d_avi_sum: 955.9
-- offensive_roster_d_avi_avg: 68.28
+- championship_lineup_c_avi_sum: 324.3
+- championship_lineup_c_avi_avg: 40.54
+- offensive_roster_c_avi_sum: 467.1
+- offensive_roster_c_avi_avg: 33.36
+- offensive_roster_d_avi_sum: 953.9
+- offensive_roster_d_avi_avg: 68.14
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jordan Love | C-AVI: 61.0 | D-AVI: 77.9
 - RB: MarShawn Lloyd | C-AVI: 24.8 | D-AVI: 63.1
-- RB: Kenny Gainwell | C-AVI: 24.2 | D-AVI: 69.5
+- RB: Kenny Gainwell | C-AVI: 22.7 | D-AVI: 69.2
 - WR: Malik Washington | C-AVI: 48.0 | D-AVI: 68.7
 - WR: Khalil Shakir | C-AVI: 45.2 | D-AVI: 74.9
 - TE: T.J. Hockenson | C-AVI: 61.9 | D-AVI: 76.0
-- FLEX: Jordan Addison | C-AVI: 34.5 | D-AVI: 76.5
+- FLEX: Jordan Addison | C-AVI: 36.2 | D-AVI: 76.8
 - FLEX: Xavier Worthy | C-AVI: 24.5 | D-AVI: 72.1
 
 ## Current Roster — All Player Cards
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 28.8
-- Dynasty AVI (D-AVI, 0-100): 64.5
+- Championship AVI (C-AVI, 0-100): 25.8
+- Dynasty AVI (D-AVI, 0-100): 64.0
 - Projected PPR points: 262.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 50.0
-- Dynasty AVI (D-AVI, 0-100): 77.3
+- Championship AVI (C-AVI, 0-100): 45.1
+- Dynasty AVI (D-AVI, 0-100): 76.4
 - Projected PPR points: 144.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 24.2
-- Dynasty AVI (D-AVI, 0-100): 69.5
+- Championship AVI (C-AVI, 0-100): 22.7
+- Dynasty AVI (D-AVI, 0-100): 69.2
 - Projected PPR points: 152.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 21.1
-- Dynasty AVI (D-AVI, 0-100): 64.4
+- Championship AVI (C-AVI, 0-100): 17.0
+- Dynasty AVI (D-AVI, 0-100): 63.7
 - Projected PPR points: 111.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 34.5
-- Dynasty AVI (D-AVI, 0-100): 76.5
+- Championship AVI (C-AVI, 0-100): 36.2
+- Dynasty AVI (D-AVI, 0-100): 76.8
 - Projected PPR points: 171.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 19.8
-- Dynasty AVI (D-AVI, 0-100): 64.3
+- Championship AVI (C-AVI, 0-100): 18.3
+- Dynasty AVI (D-AVI, 0-100): 64.1
 - Projected PPR points: 138.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 12.6
-- Dynasty AVI (D-AVI, 0-100): 32.6
+- Championship AVI (C-AVI, 0-100): 14.4
+- Dynasty AVI (D-AVI, 0-100): 32.9
 - Projected PPR points: 28.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

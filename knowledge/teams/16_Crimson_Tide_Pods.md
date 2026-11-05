@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 248.9
-- championship_lineup_c_avi_avg: 31.11
-- offensive_roster_c_avi_sum: 404.2
-- offensive_roster_c_avi_avg: 25.26
-- offensive_roster_d_avi_sum: 1064.1
-- offensive_roster_d_avi_avg: 66.51
+- championship_lineup_c_avi_sum: 263.1
+- championship_lineup_c_avi_avg: 32.89
+- offensive_roster_c_avi_sum: 419.4
+- offensive_roster_c_avi_avg: 26.21
+- offensive_roster_d_avi_sum: 1066.7
+- offensive_roster_d_avi_avg: 66.67
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Aaron Rodgers | C-AVI: 27.0 | D-AVI: 54.0
-- RB: Emmett Johnson | C-AVI: 26.1 | D-AVI: 70.4
-- RB: Jadarian Price | C-AVI: 22.0 | D-AVI: 76.3
+- RB: Jadarian Price | C-AVI: 29.2 | D-AVI: 77.5
+- RB: Dylan Sampson | C-AVI: 27.1 | D-AVI: 66.8
 - WR: Germie Bernard | C-AVI: 39.6 | D-AVI: 70.2
 - WR: Jakobi Meyers | C-AVI: 36.7 | D-AVI: 73.1
 - TE: Dalton Kincaid | C-AVI: 56.6 | D-AVI: 82.4
+- FLEX: Emmett Johnson | C-AVI: 26.1 | D-AVI: 70.4
 - FLEX: Jahan Dotson | C-AVI: 20.8 | D-AVI: 50.7
-- FLEX: Dylan Sampson | C-AVI: 20.1 | D-AVI: 65.6
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -76,23 +76,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Emmett Johnson
-- Player name: Emmett Johnson
-- Player ID: 13337
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: KC
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 26.1
-- Dynasty AVI (D-AVI, 0-100): 70.4
-- Projected PPR points: 65.2
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Jadarian Price
 - Player name: Jadarian Price
 - Player ID: 13286
@@ -104,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 22.0
-- Dynasty AVI (D-AVI, 0-100): 76.3
+- Championship AVI (C-AVI, 0-100): 29.2
+- Dynasty AVI (D-AVI, 0-100): 77.5
 - Projected PPR points: 170.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -121,9 +104,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 20.1
-- Dynasty AVI (D-AVI, 0-100): 65.6
+- Championship AVI (C-AVI, 0-100): 27.1
+- Dynasty AVI (D-AVI, 0-100): 66.8
 - Projected PPR points: 88.7
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Emmett Johnson
+- Player name: Emmett Johnson
+- Player ID: 13337
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: KC
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 26.1
+- Dynasty AVI (D-AVI, 0-100): 70.4
+- Projected PPR points: 65.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 22.8
-- Dynasty AVI (D-AVI, 0-100): 75.0
+- Championship AVI (C-AVI, 0-100): 25.6
+- Dynasty AVI (D-AVI, 0-100): 75.5
 - Projected PPR points: 177.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -206,7 +206,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 22.1
+- Championship AVI (C-AVI, 0-100): 22.2
 - Dynasty AVI (D-AVI, 0-100): 69.9
 - Projected PPR points: 170.9
 - Category: offense
@@ -229,23 +229,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Zachariah Branch
-- Player name: Zachariah Branch
-- Player ID: 13320
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: ATL
-- Active: True
-- Status: Active
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): 17.5
-- Dynasty AVI (D-AVI, 0-100): 59.9
-- Projected PPR points: 78.5
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: John Metchie III
 - Player name: John Metchie III
 - Player ID: 8147
@@ -257,9 +240,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 15.0
-- Dynasty AVI (D-AVI, 0-100): 45.2
+- Championship AVI (C-AVI, 0-100): 16.1
+- Dynasty AVI (D-AVI, 0-100): 45.4
 - Projected PPR points: 48.8
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Zachariah Branch
+- Player name: Zachariah Branch
+- Player ID: 13320
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: ATL
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 14.5
+- Dynasty AVI (D-AVI, 0-100): 59.4
+- Projected PPR points: 78.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

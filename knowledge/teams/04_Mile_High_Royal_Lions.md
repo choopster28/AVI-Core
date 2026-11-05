@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 477.9
-- championship_lineup_c_avi_avg: 59.74
-- offensive_roster_c_avi_sum: 734.9
-- offensive_roster_c_avi_avg: 40.83
-- offensive_roster_d_avi_sum: 1249.1
-- offensive_roster_d_avi_avg: 69.39
+- championship_lineup_c_avi_sum: 479.8
+- championship_lineup_c_avi_avg: 59.98
+- offensive_roster_c_avi_sum: 733.3
+- offensive_roster_c_avi_avg: 40.74
+- offensive_roster_d_avi_sum: 1248.8
+- offensive_roster_d_avi_avg: 69.38
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Matthew Stafford | C-AVI: 47.9 | D-AVI: 66.4
 - RB: Jahmyr Gibbs | C-AVI: 98.4 | D-AVI: 98.3
-- RB: Jonah Coleman | C-AVI: 37.4 | D-AVI: 76.6
+- RB: Jonah Coleman | C-AVI: 40.2 | D-AVI: 77.1
 - WR: Drake London | C-AVI: 78.5 | D-AVI: 94.6
-- WR: Garrett Wilson | C-AVI: 74.2 | D-AVI: 90.7
-- TE: Travis Kelce | C-AVI: 69.1 | D-AVI: 77.2
+- WR: Garrett Wilson | C-AVI: 72.7 | D-AVI: 90.4
+- TE: Travis Kelce | C-AVI: 67.6 | D-AVI: 77.0
 - FLEX: Dalton Schultz | C-AVI: 41.1 | D-AVI: 69.7
-- FLEX: Marvin Harrison Jr. | C-AVI: 31.3 | D-AVI: 77.2
+- FLEX: Marvin Harrison Jr. | C-AVI: 33.4 | D-AVI: 77.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 55.6
-- Dynasty AVI (D-AVI, 0-100): 79.3
+- Championship AVI (C-AVI, 0-100): 52.8
+- Dynasty AVI (D-AVI, 0-100): 78.8
 - Projected PPR points: 310.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 13.8
-- Dynasty AVI (D-AVI, 0-100): 58.2
+- Championship AVI (C-AVI, 0-100): 15.5
+- Dynasty AVI (D-AVI, 0-100): 58.4
 - Projected PPR points: 143.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 37.4
-- Dynasty AVI (D-AVI, 0-100): 76.6
+- Championship AVI (C-AVI, 0-100): 40.2
+- Dynasty AVI (D-AVI, 0-100): 77.1
 - Projected PPR points: 63.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 74.2
-- Dynasty AVI (D-AVI, 0-100): 90.7
+- Championship AVI (C-AVI, 0-100): 72.7
+- Dynasty AVI (D-AVI, 0-100): 90.4
 - Projected PPR points: 224.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 31.3
-- Dynasty AVI (D-AVI, 0-100): 77.2
+- Championship AVI (C-AVI, 0-100): 33.4
+- Dynasty AVI (D-AVI, 0-100): 77.5
 - Projected PPR points: 186.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -226,23 +226,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 27.0
 - Dynasty AVI (D-AVI, 0-100): 70.5
 - Projected PPR points: 174.3
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Pat Bryant
-- Player name: Pat Bryant
-- Player ID: 12492
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: DEN
-- Active: True
-- Status: Inactive
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 21.1
-- Dynasty AVI (D-AVI, 0-100): 63.7
-- Projected PPR points: 96.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -291,9 +274,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 16.6
-- Dynasty AVI (D-AVI, 0-100): 55.3
+- Championship AVI (C-AVI, 0-100): 18.0
+- Dynasty AVI (D-AVI, 0-100): 55.6
 - Projected PPR points: 69.9
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Pat Bryant
+- Player name: Pat Bryant
+- Player ID: 12492
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: DEN
+- Active: True
+- Status: Inactive
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 17.3
+- Dynasty AVI (D-AVI, 0-100): 63.1
+- Projected PPR points: 96.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -325,8 +325,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 37.0
-- Championship AVI (C-AVI, 0-100): 69.1
-- Dynasty AVI (D-AVI, 0-100): 77.2
+- Championship AVI (C-AVI, 0-100): 67.6
+- Dynasty AVI (D-AVI, 0-100): 77.0
 - Projected PPR points: 171.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
