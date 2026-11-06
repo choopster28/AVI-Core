@@ -1,11 +1,12 @@
 {
-  "generated_at_utc": "2026-11-05T20:45:23.022505+00:00",
+  "generated_at_utc": "2026-11-06T01:17:17.106148+00:00",
   "statistics": {
-    "owner_trade_participations": 198,
+    "owner_trade_participations": 200,
     "partner_matrix": [
       {
         "partner_count": 2,
         "partners": [
+          "Ravens Regime ",
           "Mile High Royal Lions"
         ],
         "roster_id": 8,
@@ -158,18 +159,18 @@
         "by_season": {
           "2024": 3,
           "2025": 3,
-          "2026": 18
+          "2026": 19
         },
         "firsts_in": 2,
         "firsts_out": 4,
         "owner_display_name": "Mentomorii",
         "picks_in": 7,
-        "picks_out": 11,
-        "players_in": 23,
-        "players_out": 29,
+        "picks_out": 12,
+        "players_in": 25,
+        "players_out": 30,
         "roster_id": 3,
         "team_name": "Ravens Regime ",
-        "total": 24
+        "total": 25
       },
       {
         "by_season": {
@@ -323,6 +324,22 @@
       },
       {
         "by_season": {
+          "2025": 4,
+          "2026": 3
+        },
+        "firsts_in": 0,
+        "firsts_out": 3,
+        "owner_display_name": "Hofer51",
+        "picks_in": 1,
+        "picks_out": 8,
+        "players_in": 9,
+        "players_out": 7,
+        "roster_id": 8,
+        "team_name": "All Hail King Jesus",
+        "total": 7
+      },
+      {
+        "by_season": {
           "2024": 2,
           "2025": 2,
           "2026": 3
@@ -337,22 +354,6 @@
         "roster_id": 10,
         "team_name": "SmokyValleyWheatWarriors",
         "total": 7
-      },
-      {
-        "by_season": {
-          "2025": 4,
-          "2026": 2
-        },
-        "firsts_in": 0,
-        "firsts_out": 3,
-        "owner_display_name": "Hofer51",
-        "picks_in": 0,
-        "picks_out": 8,
-        "players_in": 8,
-        "players_out": 5,
-        "roster_id": 8,
-        "team_name": "All Hail King Jesus",
-        "total": 6
       },
       {
         "by_season": {
@@ -405,10 +406,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 55
+      "2026": 56
     },
-    "two_team_trades": 96,
-    "unique_completed_trades": 98
+    "two_team_trades": 97,
+    "unique_completed_trades": 99
   },
   "trades": [
     {
@@ -7312,6 +7313,82 @@
       ],
       "transaction_id": "1422790483037392896",
       "week": 8
+    },
+    {
+      "created_at_utc": "2026-11-05T23:23:59.146000+00:00",
+      "created_timestamp_ms": 1793921039146,
+      "roster_ids": [
+        3,
+        8
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Mentomorii",
+          "owner_id": "992908759074680832",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 3,
+              "round": 4,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "5872",
+              "player_name": "Deebo Samuel Sr."
+            },
+            {
+              "player_id": "9228",
+              "player_name": "Bryce Young"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "5967",
+              "player_name": "Tony Pollard"
+            }
+          ],
+          "roster_id": 3,
+          "season": 2026,
+          "team_name": "Ravens Regime "
+        },
+        {
+          "owner_display_name": "Hofer51",
+          "owner_id": "736994691492519936",
+          "picks_received": [
+            {
+              "original_roster_id": 3,
+              "round": 4,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "5967",
+              "player_name": "Tony Pollard"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "5872",
+              "player_name": "Deebo Samuel Sr."
+            },
+            {
+              "player_id": "9228",
+              "player_name": "Bryce Young"
+            }
+          ],
+          "roster_id": 8,
+          "season": 2026,
+          "team_name": "All Hail King Jesus"
+        }
+      ],
+      "transaction_id": "1424211699958878208",
+      "week": 9
     }
   ]
 }

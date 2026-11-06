@@ -208,9 +208,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Bryce Young
 - Player ID: 9228
 - Position: QB
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Team file: 08_All_Hail_King_Jesus.md
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Bucky Irving
 - Player name: Bucky Irving
@@ -275,6 +275,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Ravens Regime 
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
+
+## PLAYER LOOKUP: Carson Wentz
+- Player name: Carson Wentz
+- Player ID: 3161
+- Position: QB
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Team file: 08_All_Hail_King_Jesus.md
 
 ## PLAYER LOOKUP: CeeDee Lamb
 - Player name: CeeDee Lamb
@@ -560,9 +568,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Deebo Samuel Sr.
 - Player ID: 5872
 - Position: WR
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Team file: 08_All_Hail_King_Jesus.md
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Demarcus Robinson
 - Player name: Demarcus Robinson
@@ -1808,9 +1816,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Tony Pollard
 - Player ID: 5967
 - Position: RB
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Team file: 08_All_Hail_King_Jesus.md
 
 ## PLAYER LOOKUP: Travis Etienne Jr.
 - Player name: Travis Etienne Jr.
@@ -3614,15 +3622,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NO
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 32.1
-- Availability: available
-
-## AVAILABLE PLAYER: Carson Wentz
-- Player name: Carson Wentz
-- Player ID: 3161
-- Position: QB
-- NFL team: MIN
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 26.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Cash Jones

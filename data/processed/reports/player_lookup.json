@@ -2139,18 +2139,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00003161",
-      "c_avi": 0.0,
-      "d_avi": 26.2,
-      "nfl_team": "MIN",
-      "player_name": "Carson Wentz",
-      "position": "QB",
-      "sleeper_id": "3161",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00013595",
       "c_avi": 0.0,
       "d_avi": 0.0,
@@ -2738,8 +2726,8 @@
     }
   ],
   "counts": {
-    "available_players": 228,
-    "rostered_players": 251
+    "available_players": 227,
+    "rostered_players": 252
   },
   "rostered_players": [
     {
@@ -3149,14 +3137,14 @@
       "c_avi": 50.9,
       "d_avi": 69.6,
       "nfl_team": "CAR",
-      "owner_id": "736994691492519936",
+      "owner_id": "992908759074680832",
       "player_name": "Bryce Young",
       "position": "QB",
-      "roster_id": 8,
+      "roster_id": 3,
       "sleeper_id": "9228",
       "status": "Active",
-      "team_file": "08_All_Hail_King_Jesus.md",
-      "team_name": "All Hail King Jesus"
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
@@ -3285,6 +3273,22 @@
       "status": "Active",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00003161",
+      "c_avi": 0.0,
+      "d_avi": 26.2,
+      "nfl_team": "MIN",
+      "owner_id": "736994691492519936",
+      "player_name": "Carson Wentz",
+      "position": "QB",
+      "roster_id": 8,
+      "sleeper_id": "3161",
+      "status": "Active",
+      "team_file": "08_All_Hail_King_Jesus.md",
+      "team_name": "All Hail King Jesus"
     },
     {
       "active": true,
@@ -3853,14 +3857,14 @@
       "c_avi": 41.7,
       "d_avi": 68.3,
       "nfl_team": "SF",
-      "owner_id": "736994691492519936",
+      "owner_id": "992908759074680832",
       "player_name": "Deebo Samuel Sr.",
       "position": "WR",
-      "roster_id": 8,
+      "roster_id": 3,
       "sleeper_id": "5872",
       "status": "Active",
-      "team_file": "08_All_Hail_King_Jesus.md",
-      "team_name": "All Hail King Jesus"
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
@@ -6349,14 +6353,14 @@
       "c_avi": 66.8,
       "d_avi": 79.3,
       "nfl_team": "TEN",
-      "owner_id": "992908759074680832",
+      "owner_id": "736994691492519936",
       "player_name": "Tony Pollard",
       "position": "RB",
-      "roster_id": 3,
+      "roster_id": 8,
       "sleeper_id": "5967",
       "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
+      "team_file": "08_All_Hail_King_Jesus.md",
+      "team_name": "All Hail King Jesus"
     },
     {
       "active": true,

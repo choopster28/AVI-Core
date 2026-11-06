@@ -614,8 +614,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Ravens Regime
 - Original roster ID: 3
-- Current owner team: Ravens Regime
-- Current owner roster ID: 3
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
