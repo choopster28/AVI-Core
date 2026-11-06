@@ -19,12 +19,12 @@
       }
     },
     {
-      "average": 1.1,
+      "average": 1.4,
       "filename": "ameer-abdullah.php",
-      "games": 7,
+      "games": 8,
       "player_id": 13924,
       "player_name": "Ameer Abdullah",
-      "points": 8,
+      "points": 11,
       "position_id": "RB",
       "team_id": "JAC",
       "weeks": {
@@ -34,7 +34,8 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "8": 1.3
+        "8": 1.3,
+        "9": 3
       }
     },
     {
@@ -58,12 +59,12 @@
       }
     },
     {
-      "average": 17.1,
+      "average": 15.8,
       "filename": "derrick-henry.php",
-      "games": 8,
+      "games": 9,
       "player_id": 15514,
       "player_name": "Derrick Henry",
-      "points": 136.70000000000002,
+      "points": 142.28000000000003,
       "position_id": "RB",
       "team_id": "BAL",
       "weeks": {
@@ -74,7 +75,8 @@
         "5": 21,
         "6": 5,
         "7": 5.9,
-        "8": 14
+        "8": 14,
+        "9": 5.6
       }
     },
     {
@@ -189,12 +191,12 @@
       }
     },
     {
-      "average": 5.4,
+      "average": 6.8,
       "filename": "justice-hill.php",
-      "games": 8,
+      "games": 9,
       "player_id": 18256,
       "player_name": "Justice Hill",
-      "points": 42.9,
+      "points": 61.099999999999994,
       "position_id": "RB",
       "team_id": "BAL",
       "weeks": {
@@ -205,7 +207,8 @@
         "5": 9.8,
         "6": 3.9,
         "7": 6.3,
-        "8": 7.5
+        "8": 7.5,
+        "9": 18.2
       }
     },
     {
@@ -661,12 +664,12 @@
       }
     },
     {
-      "average": 6.2,
+      "average": 6.8,
       "filename": "chris-rodriguez-jr.php",
-      "games": 7,
+      "games": 8,
       "player_id": 22986,
       "player_name": "Chris Rodriguez Jr.",
-      "points": 43.2,
+      "points": 54.400000000000006,
       "position_id": "RB",
       "team_id": "JAC",
       "weeks": {
@@ -676,7 +679,8 @@
         "4": 9.5,
         "5": 2.1,
         "6": 5.5,
-        "8": 12.8
+        "8": 12.8,
+        "9": 11.2
       }
     },
     {
@@ -1355,7 +1359,7 @@
     {
       "average": 0.3,
       "filename": "rasheen-ali.php",
-      "games": 8,
+      "games": 9,
       "player_id": 25983,
       "player_name": "Rasheen Ali",
       "points": 2.4,
@@ -1369,7 +1373,8 @@
         "5": 0,
         "6": 0,
         "7": 1.9,
-        "8": 0.5
+        "8": 0.5,
+        "9": 0
       }
     },
     {
@@ -1660,7 +1665,7 @@
     {
       "average": 0.4,
       "filename": "lequint-allen-jr.php",
-      "games": 7,
+      "games": 8,
       "player_id": 27285,
       "player_name": "LeQuint Allen Jr.",
       "points": 3,
@@ -1673,16 +1678,17 @@
         "4": 0,
         "5": 0,
         "6": 0.1,
-        "8": 0
+        "8": 0,
+        "9": 0
       }
     },
     {
-      "average": 16.9,
+      "average": 15.9,
       "filename": "bhayshul-tuten.php",
-      "games": 7,
+      "games": 8,
       "player_id": 27297,
       "player_name": "Bhayshul Tuten",
-      "points": 118.30000000000001,
+      "points": 127.20000000000002,
       "position_id": "RB",
       "team_id": "JAC",
       "weeks": {
@@ -1692,7 +1698,8 @@
         "4": 11.1,
         "5": 11.6,
         "6": 24.7,
-        "8": 29.9
+        "8": 29.9,
+        "9": 8.9
       }
     },
     {

@@ -23,10 +23,10 @@
     {
       "average": 1.3,
       "filename": "john-jenkins.php",
-      "games": 8,
+      "games": 9,
       "player_id": 11728,
       "player_name": "John Jenkins",
-      "points": 10.5,
+      "points": 12,
       "position_id": "DT",
       "team_id": "BAL",
       "weeks": {
@@ -37,7 +37,8 @@
         "5": 0,
         "6": 0.8,
         "7": 2.3,
-        "8": 2.3
+        "8": 2.3,
+        "9": 1.5
       }
     },
     {
@@ -61,12 +62,12 @@
       }
     },
     {
-      "average": 3.7,
+      "average": 3.4,
       "filename": "arik-armstead.php",
-      "games": 7,
+      "games": 8,
       "player_id": 13918,
       "player_name": "Arik Armstead",
-      "points": 26,
+      "points": 27.5,
       "position_id": "DT",
       "team_id": "JAC",
       "weeks": {
@@ -76,7 +77,8 @@
         "4": 9.5,
         "5": 0,
         "6": 3,
-        "8": 5
+        "8": 5,
+        "9": 1.5
       }
     },
     {
@@ -917,10 +919,10 @@
     {
       "average": 2.6,
       "filename": "broderick-washington.php",
-      "games": 6,
+      "games": 7,
       "player_id": 19503,
       "player_name": "Broderick Washington Jr.",
-      "points": 15.5,
+      "points": 18.5,
       "position_id": "DT",
       "team_id": "BAL",
       "weeks": {
@@ -929,7 +931,8 @@
         "3": 0,
         "4": 0.8,
         "5": 1.5,
-        "8": 7.3
+        "8": 7.3,
+        "9": 3
       }
     },
     {
@@ -1317,12 +1320,12 @@
       }
     },
     {
-      "average": 5.2,
+      "average": 5.3,
       "filename": "travis-jones.php",
-      "games": 8,
+      "games": 9,
       "player_id": 23799,
       "player_name": "Travis Jones",
-      "points": 41.25,
+      "points": 47.5,
       "position_id": "DT",
       "team_id": "BAL",
       "weeks": {
@@ -1333,7 +1336,8 @@
         "5": 2.3,
         "6": 5.3,
         "7": 4.8,
-        "8": 3
+        "8": 3,
+        "9": 6.3
       }
     },
     {
@@ -2720,12 +2724,12 @@
       }
     },
     {
-      "average": 3.4,
+      "average": 3.3,
       "filename": "danny-striggow.php",
-      "games": 7,
+      "games": 8,
       "player_id": 27671,
       "player_name": "Danny Striggow",
-      "points": 23.5,
+      "points": 26.5,
       "position_id": "DT",
       "team_id": "JAC",
       "weeks": {
@@ -2735,7 +2739,8 @@
         "4": 9.5,
         "5": 5.5,
         "6": 0,
-        "8": 4
+        "8": 4,
+        "9": 3
       }
     },
     {
@@ -2846,18 +2851,19 @@
       }
     },
     {
-      "average": 0.5,
+      "average": 1.1,
       "filename": "albert-regis.php",
-      "games": 3,
+      "games": 4,
       "player_id": 28230,
       "player_name": "Albert Regis",
-      "points": 1.5,
+      "points": 4.5,
       "position_id": "DT",
       "team_id": "JAC",
       "weeks": {
         "1": 0.8,
         "2": 0.8,
-        "4": 0
+        "4": 0,
+        "9": 3
       }
     },
     {
@@ -3209,12 +3215,12 @@
       }
     },
     {
-      "average": 4.5,
+      "average": 4.4,
       "filename": "justin-madubuike.php",
-      "games": 6,
+      "games": 7,
       "player_id": 19272,
       "player_name": "Nnamdi Madubuike",
-      "points": 27.25,
+      "points": 31,
       "position_id": "DT",
       "team_id": "BAL",
       "weeks": {
@@ -3223,7 +3229,8 @@
         "5": 2.3,
         "6": 8.8,
         "7": 2.3,
-        "8": 5.8
+        "8": 5.8,
+        "9": 3.8
       }
     },
     {

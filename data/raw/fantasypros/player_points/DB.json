@@ -78,12 +78,12 @@
       }
     },
     {
-      "average": 6.6,
+      "average": 6.7,
       "filename": "marlon-humphrey.php",
-      "games": 8,
+      "games": 9,
       "player_id": 16390,
       "player_name": "Marlon Humphrey",
-      "points": 53,
+      "points": 60.5,
       "position_id": "CB",
       "team_id": "BAL",
       "weeks": {
@@ -94,16 +94,17 @@
         "5": 4.5,
         "6": 4.5,
         "7": 5.3,
-        "8": 4.5
+        "8": 4.5,
+        "9": 7.5
       }
     },
     {
-      "average": 5.6,
+      "average": 5.9,
       "filename": "jourdan-lewis.php",
-      "games": 7,
+      "games": 8,
       "player_id": 16632,
       "player_name": "Jourdan Lewis",
-      "points": 39.25,
+      "points": 47.25,
       "position_id": "CB",
       "team_id": "JAC",
       "weeks": {
@@ -113,16 +114,17 @@
         "4": 12.5,
         "5": 5.3,
         "6": 4.5,
-        "8": 1.5
+        "8": 1.5,
+        "9": 8
       }
     },
     {
       "average": 1.8,
       "filename": "chidobe-awuzie.php",
-      "games": 8,
+      "games": 9,
       "player_id": 16635,
       "player_name": "Chidobe Awuzie",
-      "points": 14.25,
+      "points": 15.75,
       "position_id": "CB",
       "team_id": "BAL",
       "weeks": {
@@ -133,7 +135,8 @@
         "5": 0,
         "6": 0,
         "7": 0,
-        "8": 3.8
+        "8": 3.8,
+        "9": 1.5
       }
     },
     {
@@ -1156,12 +1159,12 @@
       }
     },
     {
-      "average": 4.4,
+      "average": 5.6,
       "filename": "montaric-brown.php",
-      "games": 5,
+      "games": 6,
       "player_id": 23932,
       "player_name": "Montaric Brown",
-      "points": 22,
+      "points": 33.75,
       "position_id": "CB",
       "team_id": "JAC",
       "weeks": {
@@ -1169,7 +1172,8 @@
         "2": 6,
         "3": 3,
         "5": 1.5,
-        "8": 6
+        "8": 6,
+        "9": 11.8
       }
     },
     {
@@ -1932,15 +1936,16 @@
     {
       "average": 4.3,
       "filename": "tj-tampa.php",
-      "games": 2,
+      "games": 3,
       "player_id": 26147,
       "player_name": "T.J. Tampa Jr.",
-      "points": 8.5,
+      "points": 13,
       "position_id": "CB",
       "team_id": "BAL",
       "weeks": {
         "1": 0,
-        "8": 8.5
+        "8": 8.5,
+        "9": 4.5
       }
     },
     {
@@ -2093,12 +2098,12 @@
       }
     },
     {
-      "average": 7,
+      "average": 6.3,
       "filename": "jarrian-jones.php",
-      "games": 7,
+      "games": 8,
       "player_id": 26334,
       "player_name": "Jarrian Jones",
-      "points": 48.75,
+      "points": 50.25,
       "position_id": "CB",
       "team_id": "JAC",
       "weeks": {
@@ -2108,7 +2113,8 @@
         "4": 17.5,
         "5": 4.5,
         "6": 9,
-        "8": 2.3
+        "8": 2.3,
+        "9": 1.5
       }
     },
     {
@@ -2702,12 +2708,12 @@
       }
     },
     {
-      "average": 2.2,
+      "average": 2.6,
       "filename": "keyon-martin.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27888,
       "player_name": "Keyon Martin",
-      "points": 17.75,
+      "points": 23,
       "position_id": "CB",
       "team_id": "BAL",
       "weeks": {
@@ -2718,7 +2724,8 @@
         "5": 0,
         "6": 12.5,
         "7": 0.8,
-        "8": 1.5
+        "8": 1.5,
+        "9": 5.3
       }
     },
     {
@@ -3941,12 +3948,12 @@
       }
     },
     {
-      "average": 13.5,
+      "average": 12.9,
       "filename": "kyle-hamilton.php",
-      "games": 8,
+      "games": 9,
       "player_id": 23494,
       "player_name": "Kyle Hamilton",
-      "points": 107.75,
+      "points": 116.25,
       "position_id": "S",
       "team_id": "BAL",
       "weeks": {
@@ -3957,7 +3964,8 @@
         "5": 15.5,
         "6": 17.3,
         "7": 7.8,
-        "8": 11.5
+        "8": 11.5,
+        "9": 8.5
       }
     },
     {
@@ -4220,12 +4228,12 @@
       }
     },
     {
-      "average": 7.2,
+      "average": 6.8,
       "filename": "antonio-johnson-cb.php",
-      "games": 6,
+      "games": 7,
       "player_id": 24719,
       "player_name": "Antonio Johnson",
-      "points": 43,
+      "points": 47.5,
       "position_id": "S",
       "team_id": "JAC",
       "weeks": {
@@ -4234,7 +4242,8 @@
         "3": 5.3,
         "4": 7.8,
         "5": 6.5,
-        "6": 10.8
+        "6": 10.8,
+        "9": 4.5
       }
     },
     {
@@ -4745,12 +4754,12 @@
       }
     },
     {
-      "average": 9.1,
+      "average": 9.4,
       "filename": "malaki-starks.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27017,
       "player_name": "Malaki Starks",
-      "points": 72.75,
+      "points": 84.5,
       "position_id": "S",
       "team_id": "BAL",
       "weeks": {
@@ -4761,7 +4770,8 @@
         "5": 14.8,
         "6": 6.8,
         "7": 2.3,
-        "8": 12.3
+        "8": 12.3,
+        "9": 11.8
       }
     },
     {
@@ -4974,12 +4984,12 @@
       }
     },
     {
-      "average": 5,
+      "average": 4.6,
       "filename": "rayuan-lane-iii.php",
-      "games": 7,
+      "games": 8,
       "player_id": 27475,
       "player_name": "Rayuan Lane III",
-      "points": 35,
+      "points": 36.5,
       "position_id": "S",
       "team_id": "JAC",
       "weeks": {
@@ -4989,7 +4999,8 @@
         "4": 11.3,
         "5": 4.5,
         "6": 0,
-        "8": 18.5
+        "8": 18.5,
+        "9": 1.5
       }
     },
     {
@@ -5479,9 +5490,9 @@
       }
     },
     {
-      "average": 2.7,
+      "average": 2.3,
       "filename": "chandler-rivers.php",
-      "games": 6,
+      "games": 7,
       "player_id": 28020,
       "player_name": "Chandler Rivers",
       "points": 16.25,
@@ -5493,7 +5504,8 @@
         "4": 5.5,
         "5": 3,
         "6": 0,
-        "7": 0
+        "7": 0,
+        "9": 0
       }
     },
     {
@@ -6109,19 +6121,20 @@
       }
     },
     {
-      "average": 3.2,
+      "average": 3.8,
       "filename": "kvon-wallace.php",
-      "games": 4,
+      "games": 5,
       "player_id": 19319,
       "player_name": "K'Von Wallace",
-      "points": 12.75,
+      "points": 18.75,
       "position_id": "S",
       "team_id": "BAL",
       "weeks": {
         "4": 0,
         "5": 0,
         "7": 4.5,
-        "8": 8.3
+        "8": 8.3,
+        "9": 6
       }
     },
     {
@@ -6390,18 +6403,19 @@
       }
     },
     {
-      "average": 3.8,
+      "average": 3.9,
       "filename": "kaevon-merriweather.php",
-      "games": 3,
+      "games": 4,
       "player_id": 25869,
       "player_name": "Kaevon Merriweather",
-      "points": 11.25,
+      "points": 15.75,
       "position_id": "S",
       "team_id": "JAC",
       "weeks": {
         "5": 1.5,
         "6": 8.3,
-        "8": 1.5
+        "8": 1.5,
+        "9": 4.5
       }
     },
     {
@@ -6539,7 +6553,7 @@
       "player_name": "Jakorian Bennett",
       "points": 0,
       "position_id": "CB",
-      "team_id": "FA",
+      "team_id": "CAR",
       "weeks": {
         "6": 0
       }
@@ -6723,16 +6737,17 @@
       }
     },
     {
-      "average": 0.8,
+      "average": 0.4,
       "filename": "jaylon-jones.php",
-      "games": 1,
+      "games": 2,
       "player_id": 24736,
       "player_name": "Jaylon Jones",
       "points": 0.75,
       "position_id": "CB",
       "team_id": "JAC",
       "weeks": {
-        "8": 0.8
+        "8": 0.8,
+        "9": 0
       }
     },
     {
@@ -6753,7 +6768,7 @@
       "filename": "aj-woods.php",
       "games": 1,
       "player_id": 26569,
-      "player_name": "A.J. Woods",
+      "player_name": "AJ Woods",
       "points": 0,
       "position_id": "CB",
       "team_id": "BUF",

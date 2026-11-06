@@ -271,12 +271,12 @@
       }
     },
     {
-      "average": 9,
+      "average": 10,
       "filename": "cam-little.php",
-      "games": 7,
+      "games": 8,
       "player_id": 26475,
       "player_name": "Cam Little",
-      "points": 63,
+      "points": 80,
       "position_id": "K",
       "team_id": "JAC",
       "weeks": {
@@ -286,7 +286,8 @@
         "4": 14,
         "5": 9,
         "6": 9,
-        "8": 6
+        "8": 6,
+        "9": 17
       }
     },
     {
@@ -673,6 +674,19 @@
       "team_id": "LAR",
       "weeks": {
         "8": 0
+      }
+    },
+    {
+      "average": 6,
+      "filename": "jake-moody.php",
+      "games": 1,
+      "player_id": 24009,
+      "player_name": "Jake Moody",
+      "points": 6,
+      "position_id": "K",
+      "team_id": "BAL",
+      "weeks": {
+        "9": 6
       }
     }
   ],

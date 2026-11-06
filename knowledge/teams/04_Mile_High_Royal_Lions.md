@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 521.9
-- championship_lineup_c_avi_avg: 65.24
-- offensive_roster_c_avi_sum: 838.4
-- offensive_roster_c_avi_avg: 46.58
-- offensive_roster_d_avi_sum: 1266.6
-- offensive_roster_d_avi_avg: 70.37
+- championship_lineup_c_avi_sum: 484.3
+- championship_lineup_c_avi_avg: 60.54
+- offensive_roster_c_avi_sum: 836.9
+- offensive_roster_c_avi_avg: 46.49
+- offensive_roster_d_avi_sum: 1266.3
+- offensive_roster_d_avi_avg: 70.35
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Jahmyr Gibbs | C-AVI: 98.6 | D-AVI: 98.3
 - RB: Jonah Coleman | C-AVI: 43.0 | D-AVI: 78.2
 - WR: Drake London | C-AVI: 84.2 | D-AVI: 95.6
-- WR: Garrett Wilson | C-AVI: 77.2 | D-AVI: 91.2
+- WR: Marvin Harrison Jr. | C-AVI: 43.8 | D-AVI: 79.2
 - TE: Travis Kelce | C-AVI: 72.8 | D-AVI: 77.8
 - FLEX: Dalton Schultz | C-AVI: 50.7 | D-AVI: 71.3
-- FLEX: Marvin Harrison Jr. | C-AVI: 43.8 | D-AVI: 79.2
+- FLEX: J.K. Dobbins | C-AVI: 39.6 | D-AVI: 70.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 77.2
-- Dynasty AVI (D-AVI, 0-100): 91.2
+- Championship AVI (C-AVI, 0-100): 75.7
+- Dynasty AVI (D-AVI, 0-100): 90.9
 - Projected PPR points: 224.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 497.2
-- championship_lineup_c_avi_avg: 62.15
-- offensive_roster_c_avi_sum: 651.4
-- offensive_roster_c_avi_avg: 46.53
-- offensive_roster_d_avi_sum: 1004.1
-- offensive_roster_d_avi_avg: 71.72
+- championship_lineup_c_avi_sum: 494.2
+- championship_lineup_c_avi_avg: 61.77
+- offensive_roster_c_avi_sum: 649.9
+- offensive_roster_c_avi_avg: 46.42
+- offensive_roster_d_avi_sum: 1003.9
+- offensive_roster_d_avi_avg: 71.71
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Luther Burden III | C-AVI: 80.3 | D-AVI: 92.0
 - TE: Pat Freiermuth | C-AVI: 47.6 | D-AVI: 68.3
 - FLEX: DK Metcalf | C-AVI: 53.2 | D-AVI: 79.6
-- FLEX: TreVeyon Henderson | C-AVI: 33.6 | D-AVI: 79.3
+- FLEX: Kayshon Boutte | C-AVI: 30.6 | D-AVI: 64.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 33.6
-- Dynasty AVI (D-AVI, 0-100): 79.3
+- Championship AVI (C-AVI, 0-100): 32.1
+- Dynasty AVI (D-AVI, 0-100): 79.1
 - Projected PPR points: 171.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

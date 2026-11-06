@@ -446,12 +446,12 @@
       }
     },
     {
-      "average": 12.7,
+      "average": 12.1,
       "filename": "roquan-smith.php",
-      "games": 8,
+      "games": 9,
       "player_id": 17311,
       "player_name": "Roquan Smith",
-      "points": 101.5,
+      "points": 109,
       "position_id": "LB",
       "team_id": "BAL",
       "weeks": {
@@ -462,7 +462,8 @@
         "5": 9.8,
         "6": 10,
         "7": 9.8,
-        "8": 19.8
+        "8": 19.8,
+        "9": 7.5
       }
     },
     {
@@ -579,12 +580,12 @@
       }
     },
     {
-      "average": 12.9,
+      "average": 13.3,
       "filename": "foyesade-oluokun.php",
-      "games": 7,
+      "games": 8,
       "player_id": 17607,
       "player_name": "Foyesade Oluokun",
-      "points": 90,
+      "points": 106.25,
       "position_id": "LB",
       "team_id": "JAC",
       "weeks": {
@@ -594,7 +595,8 @@
         "4": 20.3,
         "5": 14.5,
         "6": 9,
-        "8": 19.5
+        "8": 19.5,
+        "9": 16.3
       }
     },
     {
@@ -657,12 +659,12 @@
       }
     },
     {
-      "average": 2.9,
+      "average": 2.8,
       "filename": "dennis-gardeck.php",
-      "games": 7,
+      "games": 8,
       "player_id": 17906,
       "player_name": "Dennis Gardeck",
-      "points": 20.5,
+      "points": 22,
       "position_id": "LB",
       "team_id": "JAC",
       "weeks": {
@@ -672,7 +674,8 @@
         "4": 1.5,
         "5": 2.3,
         "6": 1.5,
-        "8": 2.3
+        "8": 2.3,
+        "9": 1.5
       }
     },
     {
@@ -862,12 +865,12 @@
       }
     },
     {
-      "average": 0.8,
+      "average": 1.5,
       "filename": "jahlani-tavai.php",
-      "games": 7,
+      "games": 8,
       "player_id": 18373,
       "player_name": "Jahlani Tavai",
-      "points": 5.25,
+      "points": 12.25,
       "position_id": "LB",
       "team_id": "JAC",
       "weeks": {
@@ -877,7 +880,8 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "8": 2.3
+        "8": 2.3,
+        "9": 7
       }
     },
     {
@@ -1093,7 +1097,7 @@
     {
       "average": 0,
       "filename": "nick-moore.php",
-      "games": 8,
+      "games": 9,
       "player_id": 18872,
       "player_name": "Nick Moore",
       "points": 0,
@@ -1107,7 +1111,8 @@
         "5": 0,
         "6": 0,
         "7": 0,
-        "8": 0
+        "8": 0,
+        "9": 0
       }
     },
     {
@@ -1791,12 +1796,12 @@
       }
     },
     {
-      "average": 9.3,
+      "average": 9.2,
       "filename": "ventrell-miller.php",
-      "games": 7,
+      "games": 8,
       "player_id": 23477,
       "player_name": "Ventrell Miller",
-      "points": 65,
+      "points": 73.25,
       "position_id": "LB",
       "team_id": "JAC",
       "weeks": {
@@ -1806,7 +1811,8 @@
         "4": 9.3,
         "5": 4.5,
         "6": 6.8,
-        "8": 3
+        "8": 3,
+        "9": 8.3
       }
     },
     {
@@ -2175,12 +2181,12 @@
       }
     },
     {
-      "average": 10.9,
+      "average": 10.4,
       "filename": "trenton-simpson.php",
-      "games": 8,
+      "games": 9,
       "player_id": 24716,
       "player_name": "Trenton Simpson",
-      "points": 87.25,
+      "points": 93.25,
       "position_id": "LB",
       "team_id": "BAL",
       "weeks": {
@@ -2191,7 +2197,8 @@
         "5": 15.5,
         "6": 9,
         "7": 4.5,
-        "8": 4.5
+        "8": 4.5,
+        "9": 6
       }
     },
     {
@@ -2935,12 +2942,12 @@
       }
     },
     {
-      "average": 6.1,
+      "average": 5.7,
       "filename": "mike-green-dt.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27042,
       "player_name": "Mike Green",
-      "points": 49,
+      "points": 51.25,
       "position_id": "LB",
       "team_id": "BAL",
       "weeks": {
@@ -2951,7 +2958,8 @@
         "5": 12,
         "6": 3,
         "7": 9.5,
-        "8": 7.3
+        "8": 7.3,
+        "9": 2.3
       }
     },
     {
@@ -3015,7 +3023,7 @@
     {
       "average": 0,
       "filename": "jay-higgins.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27121,
       "player_name": "Jay Higgins IV",
       "points": 0,
@@ -3029,7 +3037,8 @@
         "5": 0,
         "6": 0,
         "7": 0,
-        "8": 0
+        "8": 0,
+        "9": 0
       }
     },
     {
@@ -3268,12 +3277,12 @@
       }
     },
     {
-      "average": 3.7,
+      "average": 3.9,
       "filename": "branson-combs.php",
-      "games": 7,
+      "games": 8,
       "player_id": 27685,
       "player_name": "Branson Combs",
-      "points": 25.75,
+      "points": 31,
       "position_id": "LB",
       "team_id": "JAC",
       "weeks": {
@@ -3283,7 +3292,8 @@
         "4": 1.5,
         "5": 0,
         "6": 5.3,
-        "8": 8
+        "8": 8,
+        "9": 5.3
       }
     },
     {
@@ -3993,12 +4003,12 @@
       }
     },
     {
-      "average": 1.7,
+      "average": 2.4,
       "filename": "teddye-buchanan.php",
-      "games": 7,
+      "games": 8,
       "player_id": 27146,
       "player_name": "Teddye Buchanan",
-      "points": 12,
+      "points": 19,
       "position_id": "LB",
       "team_id": "BAL",
       "weeks": {
@@ -4008,7 +4018,8 @@
         "5": 2.3,
         "6": 0.8,
         "7": 1.5,
-        "8": 6
+        "8": 6,
+        "9": 7
       }
     },
     {

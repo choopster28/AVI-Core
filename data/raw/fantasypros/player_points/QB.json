@@ -321,12 +321,12 @@
       }
     },
     {
-      "average": 19.7,
+      "average": 18.9,
       "filename": "trevor-lawrence.php",
-      "games": 7,
+      "games": 8,
       "player_id": 19780,
       "player_name": "Trevor Lawrence",
-      "points": 137.6,
+      "points": 151.18,
       "position_id": "QB",
       "team_id": "JAC",
       "weeks": {
@@ -336,7 +336,8 @@
         "4": 13.1,
         "5": 22.7,
         "6": 28.3,
-        "8": 19.4
+        "8": 19.4,
+        "9": 13.6
       }
     },
     {
@@ -473,7 +474,7 @@
       "player_name": "Jacoby Brissett",
       "points": 118.16,
       "position_id": "QB",
-      "team_id": "ARI",
+      "team_id": "BAL",
       "weeks": {
         "1": 16.5,
         "2": 7.5,
@@ -1108,16 +1109,17 @@
       }
     },
     {
-      "average": 0.9,
+      "average": 1.3,
       "filename": "joe-fagnano.php",
-      "games": 1,
+      "games": 2,
       "player_id": 28400,
       "player_name": "Joe Fagnano",
-      "points": 0.94,
+      "points": 2.6399999999999997,
       "position_id": "QB",
       "team_id": "BAL",
       "weeks": {
-        "8": 0.9
+        "8": 0.9,
+        "9": 1.7
       }
     },
     {

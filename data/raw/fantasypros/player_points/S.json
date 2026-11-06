@@ -906,12 +906,12 @@
       }
     },
     {
-      "average": 13.5,
+      "average": 12.9,
       "filename": "kyle-hamilton.php",
-      "games": 8,
+      "games": 9,
       "player_id": 23494,
       "player_name": "Kyle Hamilton",
-      "points": 107.75,
+      "points": 116.25,
       "position_id": "S",
       "team_id": "BAL",
       "weeks": {
@@ -922,7 +922,8 @@
         "5": 15.5,
         "6": 17.3,
         "7": 7.8,
-        "8": 11.5
+        "8": 11.5,
+        "9": 8.5
       }
     },
     {
@@ -1185,12 +1186,12 @@
       }
     },
     {
-      "average": 7.2,
+      "average": 6.8,
       "filename": "antonio-johnson-cb.php",
-      "games": 6,
+      "games": 7,
       "player_id": 24719,
       "player_name": "Antonio Johnson",
-      "points": 43,
+      "points": 47.5,
       "position_id": "S",
       "team_id": "JAC",
       "weeks": {
@@ -1199,7 +1200,8 @@
         "3": 5.3,
         "4": 7.8,
         "5": 6.5,
-        "6": 10.8
+        "6": 10.8,
+        "9": 4.5
       }
     },
     {
@@ -1710,12 +1712,12 @@
       }
     },
     {
-      "average": 9.1,
+      "average": 9.4,
       "filename": "malaki-starks.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27017,
       "player_name": "Malaki Starks",
-      "points": 72.75,
+      "points": 84.5,
       "position_id": "S",
       "team_id": "BAL",
       "weeks": {
@@ -1726,7 +1728,8 @@
         "5": 14.8,
         "6": 6.8,
         "7": 2.3,
-        "8": 12.3
+        "8": 12.3,
+        "9": 11.8
       }
     },
     {
@@ -1939,12 +1942,12 @@
       }
     },
     {
-      "average": 5,
+      "average": 4.6,
       "filename": "rayuan-lane-iii.php",
-      "games": 7,
+      "games": 8,
       "player_id": 27475,
       "player_name": "Rayuan Lane III",
-      "points": 35,
+      "points": 36.5,
       "position_id": "S",
       "team_id": "JAC",
       "weeks": {
@@ -1954,7 +1957,8 @@
         "4": 11.3,
         "5": 4.5,
         "6": 0,
-        "8": 18.5
+        "8": 18.5,
+        "9": 1.5
       }
     },
     {
@@ -2496,19 +2500,20 @@
       }
     },
     {
-      "average": 3.2,
+      "average": 3.8,
       "filename": "kvon-wallace.php",
-      "games": 4,
+      "games": 5,
       "player_id": 19319,
       "player_name": "K'Von Wallace",
-      "points": 12.75,
+      "points": 18.75,
       "position_id": "S",
       "team_id": "BAL",
       "weeks": {
         "4": 0,
         "5": 0,
         "7": 4.5,
-        "8": 8.3
+        "8": 8.3,
+        "9": 6
       }
     },
     {
@@ -2635,18 +2640,19 @@
       }
     },
     {
-      "average": 3.8,
+      "average": 3.9,
       "filename": "kaevon-merriweather.php",
-      "games": 3,
+      "games": 4,
       "player_id": 25869,
       "player_name": "Kaevon Merriweather",
-      "points": 11.25,
+      "points": 15.75,
       "position_id": "S",
       "team_id": "JAC",
       "weeks": {
         "5": 1.5,
         "6": 8.3,
-        "8": 1.5
+        "8": 1.5,
+        "9": 4.5
       }
     },
     {

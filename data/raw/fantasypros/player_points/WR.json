@@ -428,12 +428,12 @@
       }
     },
     {
-      "average": 9.3,
+      "average": 9.5,
       "filename": "jakobi-meyers.php",
-      "games": 7,
+      "games": 8,
       "player_id": 18598,
       "player_name": "Jakobi Meyers",
-      "points": 65.10000000000001,
+      "points": 75.60000000000001,
       "position_id": "WR",
       "team_id": "JAC",
       "weeks": {
@@ -443,7 +443,8 @@
         "4": 6.3,
         "5": 5.7,
         "6": 13.3,
-        "8": 4.4
+        "8": 4.4,
+        "9": 10.5
       }
     },
     {
@@ -705,12 +706,12 @@
       }
     },
     {
-      "average": 6.7,
+      "average": 6.2,
       "filename": "rashod-bateman.php",
-      "games": 8,
+      "games": 9,
       "player_id": 19794,
       "player_name": "Rashod Bateman",
-      "points": 53.8,
+      "points": 55.4,
       "position_id": "WR",
       "team_id": "BAL",
       "weeks": {
@@ -721,7 +722,8 @@
         "5": 11.2,
         "6": 0,
         "7": 5.3,
-        "8": 3.2
+        "8": 3.2,
+        "9": 1.6
       }
     },
     {
@@ -907,12 +909,12 @@
       }
     },
     {
-      "average": 17.5,
+      "average": 15.9,
       "filename": "zay-flowers.php",
-      "games": 7,
+      "games": 8,
       "player_id": 22916,
       "player_name": "Zay Flowers",
-      "points": 122.2,
+      "points": 127.5,
       "position_id": "WR",
       "team_id": "BAL",
       "weeks": {
@@ -922,7 +924,8 @@
         "5": 14.6,
         "6": 12.7,
         "7": 27.7,
-        "8": 0
+        "8": 0,
+        "9": 5.3
       }
     },
     {
@@ -1221,12 +1224,12 @@
       }
     },
     {
-      "average": 13.6,
+      "average": 13.7,
       "filename": "parker-washington.php",
-      "games": 7,
+      "games": 8,
       "player_id": 23106,
       "player_name": "Parker Washington",
-      "points": 95.5,
+      "points": 109.6,
       "position_id": "WR",
       "team_id": "JAC",
       "weeks": {
@@ -1236,7 +1239,8 @@
         "4": 2,
         "5": 30.4,
         "6": 10.4,
-        "8": 3.6
+        "8": 3.6,
+        "9": 14.1
       }
     },
     {
@@ -2197,12 +2201,12 @@
       }
     },
     {
-      "average": 2.9,
+      "average": 2.4,
       "filename": "travis-hunter.php",
-      "games": 7,
+      "games": 8,
       "player_id": 26034,
       "player_name": "Travis Hunter",
-      "points": 20.4,
+      "points": 19.299999999999997,
       "position_id": "WR",
       "team_id": "JAC",
       "weeks": {
@@ -2212,7 +2216,8 @@
         "4": 0,
         "5": 1.9,
         "6": 15.9,
-        "8": 0.5
+        "8": 0.5,
+        "9": -1.1
       }
     },
     {
@@ -2660,9 +2665,9 @@
       }
     },
     {
-      "average": 4.5,
+      "average": 3.6,
       "filename": "jakobi-lane.php",
-      "games": 4,
+      "games": 5,
       "player_id": 27337,
       "player_name": "Ja'Kobi Lane",
       "points": 17.9,
@@ -2672,7 +2677,8 @@
         "1": 2.1,
         "6": 8,
         "7": 5.5,
-        "8": 2.3
+        "8": 2.3,
+        "9": 0
       }
     },
     {
@@ -2715,12 +2721,12 @@
       }
     },
     {
-      "average": 1.1,
+      "average": 1,
       "filename": "lajohntay-wester.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27447,
       "player_name": "LaJohntay Wester",
-      "points": 8.4,
+      "points": 8.8,
       "position_id": "WR",
       "team_id": "BAL",
       "weeks": {
@@ -2731,7 +2737,8 @@
         "5": 0,
         "6": 0,
         "7": 2.5,
-        "8": 0
+        "8": 0,
+        "9": 0.4
       }
     },
     {
@@ -3038,12 +3045,12 @@
       }
     },
     {
-      "average": 4.5,
+      "average": 4.2,
       "filename": "josh-cameron.php",
-      "games": 7,
+      "games": 8,
       "player_id": 28137,
       "player_name": "Josh Cameron",
-      "points": 31.7,
+      "points": 33.3,
       "position_id": "WR",
       "team_id": "JAC",
       "weeks": {
@@ -3053,7 +3060,8 @@
         "4": 6.2,
         "5": 7.3,
         "6": 0,
-        "8": 0
+        "8": 0,
+        "9": 1.6
       }
     },
     {

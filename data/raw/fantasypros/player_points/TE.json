@@ -304,12 +304,12 @@
       }
     },
     {
-      "average": 6.9,
+      "average": 6.5,
       "filename": "mark-andrews.php",
-      "games": 8,
+      "games": 9,
       "player_id": 17269,
       "player_name": "Mark Andrews",
-      "points": 54.8,
+      "points": 58.699999999999996,
       "position_id": "TE",
       "team_id": "BAL",
       "weeks": {
@@ -320,7 +320,8 @@
         "5": 4.8,
         "6": 1.4,
         "7": 5.3,
-        "8": 4.4
+        "8": 4.4,
+        "9": 3.9
       }
     },
     {
@@ -857,7 +858,7 @@
     {
       "average": 0.2,
       "filename": "quintin-morris.php",
-      "games": 7,
+      "games": 8,
       "player_id": 22820,
       "player_name": "Quintin Morris",
       "points": 1.7,
@@ -870,7 +871,8 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "8": 0
+        "8": 0,
+        "9": 0
       }
     },
     {
@@ -1496,12 +1498,12 @@
       }
     },
     {
-      "average": 9.6,
+      "average": 9,
       "filename": "brenton-strange.php",
-      "games": 7,
+      "games": 8,
       "player_id": 25345,
       "player_name": "Brenton Strange",
-      "points": 67.4,
+      "points": 71.60000000000001,
       "position_id": "TE",
       "team_id": "JAC",
       "weeks": {
@@ -1511,7 +1513,8 @@
         "4": 16.5,
         "5": 13.8,
         "6": 9.4,
-        "8": 7.5
+        "8": 7.5,
+        "9": 4.2
       }
     },
     {
@@ -1957,9 +1960,9 @@
       }
     },
     {
-      "average": 3.7,
+      "average": 3.3,
       "filename": "josh-cuevas.php",
-      "games": 8,
+      "games": 9,
       "player_id": 28155,
       "player_name": "Josh Cuevas",
       "points": 29.4,
@@ -1973,7 +1976,8 @@
         "5": 4.6,
         "6": 14.4,
         "7": 5.5,
-        "8": 2.5
+        "8": 2.5,
+        "9": 0
       }
     },
     {
@@ -2067,12 +2071,12 @@
       }
     },
     {
-      "average": 2.6,
+      "average": 2.4,
       "filename": "matthew-hibner.php",
-      "games": 7,
+      "games": 8,
       "player_id": 28168,
       "player_name": "Matt Hibner",
-      "points": 18,
+      "points": 19.5,
       "position_id": "TE",
       "team_id": "BAL",
       "weeks": {
@@ -2082,7 +2086,8 @@
         "4": 5.4,
         "5": 0,
         "7": 0,
-        "8": 0
+        "8": 0,
+        "9": 1.5
       }
     },
     {
@@ -2124,12 +2129,12 @@
       }
     },
     {
-      "average": 3.9,
+      "average": 4.4,
       "filename": "nate-boerkircher.php",
-      "games": 7,
+      "games": 8,
       "player_id": 28427,
       "player_name": "Nate Boerkircher",
-      "points": 27.300000000000004,
+      "points": 35.400000000000006,
       "position_id": "TE",
       "team_id": "JAC",
       "weeks": {
@@ -2139,7 +2144,8 @@
         "4": 2.5,
         "5": 4,
         "6": 8.8,
-        "8": 10.1
+        "8": 10.1,
+        "9": 8.1
       }
     },
     {
@@ -2299,12 +2305,12 @@
       }
     },
     {
-      "average": 0.4,
+      "average": 0.9,
       "filename": "tanner-koziol.php",
-      "games": 5,
+      "games": 6,
       "player_id": 27499,
       "player_name": "Tanner Koziol",
-      "points": 1.8,
+      "points": 5.3,
       "position_id": "TE",
       "team_id": "JAC",
       "weeks": {
@@ -2312,7 +2318,8 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "8": 1.8
+        "8": 1.8,
+        "9": 3.5
       }
     },
     {
