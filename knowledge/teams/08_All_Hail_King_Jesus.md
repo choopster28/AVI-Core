@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 15
-- Last updated from Sleeper exports: 2026-11-05
+- Last updated from Sleeper exports: 2026-11-06
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 581.8
-- championship_lineup_c_avi_avg: 72.72
-- offensive_roster_c_avi_sum: 796.1
-- offensive_roster_c_avi_avg: 56.86
-- offensive_roster_d_avi_sum: 1059.0
-- offensive_roster_d_avi_avg: 75.64
+- championship_lineup_c_avi_sum: 619.3
+- championship_lineup_c_avi_avg: 77.41
+- offensive_roster_c_avi_sum: 770.5
+- offensive_roster_c_avi_avg: 55.04
+- offensive_roster_d_avi_sum: 1028.5
+- offensive_roster_d_avi_avg: 73.46
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 79.5 | D-AVI: 84.2
 - RB: D'Andre Swift | C-AVI: 86.1 | D-AVI: 89.0
-- RB: Kimani Vidal | C-AVI: 29.4 | D-AVI: 62.6
+- RB: Tony Pollard | C-AVI: 66.9 | D-AVI: 79.6
 - WR: Amon-Ra St. Brown | C-AVI: 94.5 | D-AVI: 98.2
 - WR: Tee Higgins | C-AVI: 91.7 | D-AVI: 92.2
 - TE: Tucker Kraft | C-AVI: 68.4 | D-AVI: 86.3
 - FLEX: Justin Jefferson | C-AVI: 75.8 | D-AVI: 93.9
-- FLEX: Dallas Goedert | C-AVI: 56.4 | D-AVI: 76.8
+- FLEX: Dallas Goedert | C-AVI: 56.4 | D-AVI: 77.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -59,22 +59,22 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Bryce Young
-- Player name: Bryce Young
-- Player ID: 9228
+### PLAYER: Carson Wentz
+- Player name: Carson Wentz
+- Player ID: 3161
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8
 - Position: QB
 - Fantasy positions: ['QB']
-- NFL team: CAR
+- NFL team: MIN
 - Active: True
 - Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 50.9
-- Dynasty AVI (D-AVI, 0-100): 69.6
-- Projected PPR points: 235.6
+- Age: 33.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 26.2
+- Projected PPR points: None
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: D'Andre Swift
 - Player name: D'Andre Swift
@@ -90,6 +90,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 86.1
 - Dynasty AVI (D-AVI, 0-100): 89.0
 - Projected PPR points: 208.0
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Tony Pollard
+- Player name: Tony Pollard
+- Player ID: 5967
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 66.9
+- Dynasty AVI (D-AVI, 0-100): 79.6
+- Projected PPR points: 160.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -121,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 22.2
-- Dynasty AVI (D-AVI, 0-100): 50.6
+- Championship AVI (C-AVI, 0-100): 22.3
+- Dynasty AVI (D-AVI, 0-100): 51.7
 - Projected PPR points: 25.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -212,23 +229,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Deebo Samuel Sr.
-- Player name: Deebo Samuel Sr.
-- Player ID: 5872
-- Current owner team: All Hail King Jesus
-- Current owner roster ID: 8
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: SF
-- Active: True
-- Status: Active
-- Age: 30.0
-- Championship AVI (C-AVI, 0-100): 41.7
-- Dynasty AVI (D-AVI, 0-100): 68.3
-- Projected PPR points: 155.7
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Tucker Kraft
 - Player name: Tucker Kraft
 - Player ID: 9484
@@ -258,7 +258,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 56.4
-- Dynasty AVI (D-AVI, 0-100): 76.8
+- Dynasty AVI (D-AVI, 0-100): 77.3
 - Projected PPR points: 136.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -314,17 +314,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Derrick Barnes
-- Player name: Derrick Barnes
-- Player ID: 7726
+### PLAYER: Demetrius Knight Jr.
+- Player name: Demetrius Knight Jr.
+- Player ID: 12617
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8
 - Position: LB
-- Fantasy positions: ['DL', 'LB']
-- NFL team: DET
+- Fantasy positions: ['LB']
+- NFL team: CIN
 - Active: True
 - Status: Active
-- Age: 27.0
+- Age: 26.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

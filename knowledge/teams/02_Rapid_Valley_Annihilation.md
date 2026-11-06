@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1178861684281753600
 - Division: 2
 - Waiver position: 8
-- Last updated from Sleeper exports: 2026-11-05
+- Last updated from Sleeper exports: 2026-11-06
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -25,14 +25,14 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - championship_lineup_c_avi_avg: 52.17
 - offensive_roster_c_avi_sum: 650.6
 - offensive_roster_c_avi_avg: 38.27
-- offensive_roster_d_avi_sum: 1188.4
-- offensive_roster_d_avi_avg: 69.91
+- offensive_roster_d_avi_sum: 1188.3
+- offensive_roster_d_avi_avg: 69.90
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Caleb Williams | C-AVI: 64.7 | D-AVI: 85.1
 - RB: Quinshon Judkins | C-AVI: 66.3 | D-AVI: 86.9
-- RB: Ollie Gordon II | C-AVI: 42.9 | D-AVI: 69.5
+- RB: Ollie Gordon II | C-AVI: 42.9 | D-AVI: 69.8
 - WR: Denzel Boston | C-AVI: 48.8 | D-AVI: 81.6
 - WR: Adonai Mitchell | C-AVI: 48.3 | D-AVI: 72.8
 - TE: Colston Loveland | C-AVI: 61.5 | D-AVI: 86.8
@@ -105,7 +105,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 42.9
-- Dynasty AVI (D-AVI, 0-100): 69.5
+- Dynasty AVI (D-AVI, 0-100): 69.8
 - Projected PPR points: 23.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -122,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 21.4
-- Dynasty AVI (D-AVI, 0-100): 60.4
+- Dynasty AVI (D-AVI, 0-100): 60.0
 - Projected PPR points: 44.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

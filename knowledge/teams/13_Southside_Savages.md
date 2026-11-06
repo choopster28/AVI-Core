@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 998253660243054592
 - Division: 2
 - Waiver position: 4
-- Last updated from Sleeper exports: 2026-11-05
+- Last updated from Sleeper exports: 2026-11-06
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,16 +23,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 497.2
 - championship_lineup_c_avi_avg: 62.15
-- offensive_roster_c_avi_sum: 655.8
-- offensive_roster_c_avi_avg: 46.84
-- offensive_roster_d_avi_sum: 1003.8
-- offensive_roster_d_avi_avg: 71.70
+- offensive_roster_c_avi_sum: 651.4
+- offensive_roster_c_avi_avg: 46.53
+- offensive_roster_d_avi_sum: 1004.1
+- offensive_roster_d_avi_avg: 71.72
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Drake Maye | C-AVI: 90.3 | D-AVI: 90.9
 - RB: Josh Jacobs | C-AVI: 65.0 | D-AVI: 80.5
-- RB: Emanuel Wilson | C-AVI: 41.4 | D-AVI: 62.8
+- RB: Emanuel Wilson | C-AVI: 41.4 | D-AVI: 62.4
 - WR: Tetairoa McMillan | C-AVI: 85.8 | D-AVI: 94.5
 - WR: Luther Burden III | C-AVI: 80.3 | D-AVI: 92.0
 - TE: Pat Freiermuth | C-AVI: 47.6 | D-AVI: 68.3
@@ -105,7 +105,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 41.4
-- Dynasty AVI (D-AVI, 0-100): 62.8
+- Dynasty AVI (D-AVI, 0-100): 62.4
 - Projected PPR points: 56.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 23.9
-- Dynasty AVI (D-AVI, 0-100): 50.5
+- Championship AVI (C-AVI, 0-100): 19.5
+- Dynasty AVI (D-AVI, 0-100): 51.2
 - Projected PPR points: 55.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
