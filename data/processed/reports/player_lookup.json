@@ -1618,7 +1618,7 @@
       "player_name": "Ronnie Rivers",
       "position": "RB",
       "sleeper_id": "8195",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "active": true,
@@ -4966,7 +4966,7 @@
       "position": "WR",
       "roster_id": 3,
       "sleeper_id": "13281",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
     },
