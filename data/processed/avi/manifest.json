@@ -22,8 +22,7 @@
     "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     "completed_through_week": 8,
     "completion_sources": [
-      "Sleeper NFL state",
-      "ESPN NFL scoreboard"
+      "previous verified manifest (offline)"
     ],
     "current_week_schedule_complete": false,
     "fantasypros_max_observed_week": 9,
@@ -40,7 +39,7 @@
   "injury_availability_adjustments": {
     "championship_horizon_end_week": 17,
     "current_week": 9,
-    "players_capped": 107,
+    "players_capped": 106,
     "players_evaluated": 479,
     "policy": "Bounded ongoing injury-risk deduction for currently designated players (including verified missed games beyond one bye), followed by a hard ceiling for expected missed future games; cleared players receive no historical-injury discount.",
     "source_priority": [

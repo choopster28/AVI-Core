@@ -1611,6 +1611,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00008195",
+      "c_avi": 15.2,
+      "d_avi": 21.9,
+      "nfl_team": "LAR",
+      "player_name": "Ronnie Rivers",
+      "position": "RB",
+      "sleeper_id": "8195",
+      "status": "Inactive"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00007585",
       "c_avi": 15.1,
       "d_avi": 31.9,
@@ -2038,18 +2050,6 @@
       "player_name": "Reggie Gilliam",
       "position": "RB",
       "sleeper_id": "7204",
-      "status": "Inactive"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00008195",
-      "c_avi": 6.2,
-      "d_avi": 20.4,
-      "nfl_team": "LAR",
-      "player_name": "Ronnie Rivers",
-      "position": "RB",
-      "sleeper_id": "8195",
       "status": "Inactive"
     },
     {

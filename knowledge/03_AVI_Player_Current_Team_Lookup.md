@@ -3228,6 +3228,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 58.4
 - Availability: available
 
+## AVAILABLE PLAYER: Ronnie Rivers
+- Player name: Ronnie Rivers
+- Player ID: 8195
+- Position: RB
+- NFL team: LAR
+- Championship AVI (C-AVI, 0-100): 15.2
+- Dynasty AVI (D-AVI, 0-100): 21.9
+- Availability: available
+
 ## AVAILABLE PLAYER: Davis Mills
 - Player name: Davis Mills
 - Player ID: 7585
@@ -3550,15 +3559,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NE
 - Championship AVI (C-AVI, 0-100): 6.2
 - Dynasty AVI (D-AVI, 0-100): 43.3
-- Availability: available
-
-## AVAILABLE PLAYER: Ronnie Rivers
-- Player name: Ronnie Rivers
-- Player ID: 8195
-- Position: RB
-- NFL team: LAR
-- Championship AVI (C-AVI, 0-100): 6.2
-- Dynasty AVI (D-AVI, 0-100): 20.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Zavier Scott

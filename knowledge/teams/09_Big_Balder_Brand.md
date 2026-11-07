@@ -382,17 +382,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Jack Campbell
-- Player name: Jack Campbell
-- Player ID: 10880
+### PLAYER: Nate Landman
+- Player name: Nate Landman
+- Player ID: 8659
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Position: LB
 - Fantasy positions: ['LB']
-- NFL team: DET
+- NFL team: LAR
 - Active: True
 - Status: Active
-- Age: 26.0
+- Age: 27.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

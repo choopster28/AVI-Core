@@ -134,7 +134,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Current owner roster ID: 6
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: PHI
+- NFL team: None
 - Active: True
 - Status: Inactive
 - Age: 26.0
