@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 863881053000011776
 - Division: 1
 - Waiver position: 13
-- Last updated from Sleeper exports: 2026-11-06
+- Last updated from Sleeper exports: 2026-11-07
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 573.3
-- championship_lineup_c_avi_avg: 71.66
-- offensive_roster_c_avi_sum: 913.3
-- offensive_roster_c_avi_avg: 50.74
-- offensive_roster_d_avi_sum: 1319.7
-- offensive_roster_d_avi_avg: 73.32
+- championship_lineup_c_avi_sum: 549.2
+- championship_lineup_c_avi_avg: 68.65
+- offensive_roster_c_avi_sum: 908.7
+- offensive_roster_c_avi_avg: 50.48
+- offensive_roster_d_avi_sum: 1318.9
+- offensive_roster_d_avi_avg: 73.27
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Bhayshul Tuten | C-AVI: 73.7 | D-AVI: 88.9
 - RB: Chuba Hubbard | C-AVI: 73.3 | D-AVI: 83.3
 - WR: Nico Collins | C-AVI: 82.6 | D-AVI: 93.9
-- WR: DeVonta Smith | C-AVI: 76.9 | D-AVI: 90.1
+- WR: Rashee Rice | C-AVI: 63.7 | D-AVI: 87.1
 - TE: Tyler Warren | C-AVI: 74.8 | D-AVI: 88.5
-- FLEX: Rashee Rice | C-AVI: 63.7 | D-AVI: 87.1
 - FLEX: Omarion Hampton | C-AVI: 55.2 | D-AVI: 85.0
+- FLEX: Tyler Allgeier | C-AVI: 52.8 | D-AVI: 73.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 14.9
-- Dynasty AVI (D-AVI, 0-100): 29.8
+- Championship AVI (C-AVI, 0-100): 14.7
+- Dynasty AVI (D-AVI, 0-100): 29.7
 - Projected PPR points: 12.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 16.0
-- Dynasty AVI (D-AVI, 0-100): 42.3
+- Championship AVI (C-AVI, 0-100): 14.5
+- Dynasty AVI (D-AVI, 0-100): 42.1
 - Projected PPR points: 4.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 76.9
-- Dynasty AVI (D-AVI, 0-100): 90.1
+- Championship AVI (C-AVI, 0-100): 75.4
+- Dynasty AVI (D-AVI, 0-100): 89.8
 - Projected PPR points: 229.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -308,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 24.8
-- Dynasty AVI (D-AVI, 0-100): 49.0
+- Championship AVI (C-AVI, 0-100): 23.4
+- Dynasty AVI (D-AVI, 0-100): 48.8
 - Projected PPR points: 34.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
