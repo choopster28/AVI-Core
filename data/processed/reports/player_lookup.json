@@ -574,7 +574,7 @@
       "player_name": "Mack Hollins",
       "position": "WR",
       "sleeper_id": "4177",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "active": true,
@@ -1714,7 +1714,7 @@
       "player_name": "Christian Kirk",
       "position": "WR",
       "sleeper_id": "4950",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -1726,7 +1726,7 @@
       "player_name": "Dyami Brown",
       "position": "WR",
       "sleeper_id": "7587",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -3078,7 +3078,7 @@
       "position": "RB",
       "roster_id": 10,
       "sleeper_id": "8154",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "10_SmokyValleyWheatWarriors.md",
       "team_name": "SmokyValleyWheatWarriors"
     },
@@ -3878,7 +3878,7 @@
       "position": "WR",
       "roster_id": 14,
       "sleeper_id": "3286",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "14_Phalhala_or_Bust.md",
       "team_name": "Phalhala or Bust"
     },
@@ -5846,7 +5846,7 @@
       "position": "WR",
       "roster_id": 4,
       "sleeper_id": "12492",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "04_Mile_High_Royal_Lions.md",
       "team_name": "Mile High Royal Lions"
     },
