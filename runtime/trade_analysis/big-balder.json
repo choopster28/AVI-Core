@@ -1,5 +1,391 @@
 [
   {
+    "id": "mw8g7ed1-5b07e9e9",
+    "createdAt": 1794179660041,
+    "expiresAt": 1794611660041,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Big Balder Brand ↔ Southside Savages",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Rebuild",
+      "partnerGoal": "Retool",
+      "targetTeam": "Southside Savages",
+      "targetAssets": [
+        {
+          "name": "Drake Maye",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Jayden Daniels",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand seeks to acquire elite starting quarterback Drake Maye (C-AVI: 90.3, D-AVI: 90.9) from Southside Savages using Jayden Daniels (C-AVI: 73.1, D-AVI: 85.0) as the foundation asset. In a 16-team 1QB format, Maye represents a premier dynasty cornerstone who earned October 2026 AFC Offensive Player of the Month honors. However, a straight 1-for-1 swap fails to motivate Southside Savages, whose stated Retool objective requires addressable starting lineup depth—specifically at RB2 where Emanuel Wilson is currently starting. Expanding the offer to include Chuba Hubbard or a 2028 2nd-round pick creates a balanced proposal aligned with both franchises.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jayden Daniels",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 25,
+              "cavi": 73.1,
+              "davi": 85,
+              "publicMarket": 85,
+              "leagueMarket": 85
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Drake Maye",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "QB",
+              "age": 24,
+              "cavi": 90.3,
+              "davi": 90.9,
+              "publicMarket": 92,
+              "leagueMarket": 91
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "D+",
+            "userShare": 63,
+            "otherShare": 37,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The submitted 1-for-1 proposal sends Jayden Daniels for Drake Maye. Maye holds a commanding lead in C-AVI (90.3 vs 73.1) and D-AVI (90.9 vs 85.0). Without secondary assets, Southside Savages absorbs a clear talent downgrade at quarterback while receiving zero compensating depth or future draft capital."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Pairing Jayden Daniels with active RB starter Chuba Hubbard bridges the value gap. Southside Savages acquires an immediate starting RB2 (73.3 C-AVI) for their Retool campaign while Big Balder Brand secures an elite tier-1 quarterback."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 25,
+              "summary": "Upgrades starting quarterback position to a true tier-1 fantasy producer."
+            },
+            "championshipOutlook": {
+              "score": 22,
+              "summary": "Maye increases weekly QB baseline by +17.2 C-AVI points."
+            },
+            "dynastyOutlook": {
+              "score": 28,
+              "summary": "Secures a 24-year-old centerpiece quarterback for long-term roster stability."
+            },
+            "lineupQuality": {
+              "score": 30,
+              "summary": "Immediate enhancement to the starting 1QB slot."
+            },
+            "depthResilience": {
+              "score": -5,
+              "summary": "Slight reduction in bench asset flexibility when packaging secondary pieces."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Drake Maye commands maximum market liquidity across dynasty leagues."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -15,
+              "summary": "Downgrades starting QB slot without receiving compensating assets."
+            },
+            "championshipOutlook": {
+              "score": -20,
+              "summary": "Loses 17.2 C-AVI at starting quarterback position."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Exchanges a 24-year-old elite quarterback for a 25-year-old upper-tier QB."
+            },
+            "lineupQuality": {
+              "score": -18,
+              "summary": "Reduces total active lineup projected scoring."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Jayden Daniels maintains high dual-threat rushing floor."
+            },
+            "flexibilityLiquidity": {
+              "score": 5,
+              "summary": "Daniels remains a liquid dynasty trade asset."
+            }
+          },
+          "explanation": "A direct 1-for-1 lateral-to-upward quarterback swap provides Big Balder Brand a major advantage while inflicting an uncompensated starter hit on Southside Savages."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Acquiring Drake Maye raises Big Balder Brand's starting QB C-AVI from 73.1 to 90.3, giving the franchise an upper-echelon starter in 16-team format.",
+          "sideADynastyImpact": "Maye adds a 90.9 D-AVI cornerstone at age 24, perfectly fitting a long-term rebuild or contender trajectory.",
+          "sideARosterImpact": "Locks down QB1 with elite production, allowing Big Balder Brand to focus capital on surrounding position groups.",
+          "sideBChampionshipImpact": "Southside Savages suffers a 17.2 C-AVI decline at starting QB, lowering weekly projected totals.",
+          "sideBDynastyImpact": "Replaces a 90.9 D-AVI centerpiece with an 85.0 D-AVI QB, taking a mild long-term valuation hit.",
+          "sideBRosterImpact": "Fails to address Southside's clear starting RB2 liability (Emanuel Wilson 41.4 C-AVI) unless an RB is added to the outgoing side.",
+          "valueAssessment": "Drake Maye commands a clear market and AVI premium over Jayden Daniels. A 1-for-1 construction is unviable for the seller without additive value."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Drake Maye is widely regarded as a top-3 to top-5 dynasty quarterback following a Super Bowl appearance, MVP runner-up finish in 2025, and October 2026 AFC Offensive Player of the Month honors. Jayden Daniels is valued as a dynamic dual-threat high-end QB1.",
+          "aviVsMarket": "AVI aligns with consensus market benchmarking: Maye (90.3 C-AVI / 90.9 D-AVI) commands a distinct premium over Daniels (73.1 C-AVI / 85.0 D-AVI).",
+          "relevantContext": [
+            "Drake Maye earned AFC Offensive Player of the Month for October 2026 (12 TDs, 2 INTs, 2 rushing TDs).",
+            "Maye is 24 years old and under long-term contract control in New England.",
+            "Jayden Daniels provides strong fantasy scoring but carries a lower current C-AVI floor than Maye."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Southside Savages is in Retool mode. They will not trade away an elite cornerstone at QB unless the deal improves another starting slot or adds premium capital.",
+          "packageFit": "Jayden Daniels provides a strong QB baseline, but requires an additional starter or pick to fit Southside's retool strategy.",
+          "lineupReplacement": "Jayden Daniels immediately replaces Drake Maye in Southside's starting QB slot, avoiding a positional void.",
+          "competitiveWindowFit": "Both quarterbacks fit a retooling window, but Maye's superior production better serves Southside's competitiveness.",
+          "positionalScarcity": "In 16-team leagues, elite starting quarterbacks carry immense market trade value."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 25,
+            "opposingGmMotivation": 10,
+            "packageMatch": 0,
+            "lineupReplacement": 4,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 43,
+          "classification": "Unlikely",
+          "explanation": "Cornerstone downgrade: seller relinquishes D-AVI 90.9 for a strongest returning player at 85.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "structuralRejection": "Cornerstone downgrade: seller relinquishes D-AVI 90.9 for a strongest returning player at 85.0, without enough premium first-round capital or proven starting assets to bridge the quality gap."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Best-effort offer (not validated as realistic; 43% estimated acceptance): Cornerstone downgrade: seller relinquishes D-AVI 90.9 for a strongest returning player at 85.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jayden Daniels",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 25,
+              "cavi": 73.1,
+              "davi": 85,
+              "publicMarket": 85,
+              "leagueMarket": 85
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 73.3,
+              "davi": 83.3,
+              "publicMarket": 75,
+              "leagueMarket": 75
+            }
+          ],
+          "receive": [
+            {
+              "name": "Drake Maye",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "QB",
+              "age": 24,
+              "cavi": 90.3,
+              "davi": 90.9,
+              "publicMarket": 92,
+              "leagueMarket": 91
+            }
+          ],
+          "whyUserShouldDoIt": "Upgrades starting QB to a 90+ C-AVI/D-AVI elite franchise quarterback while utilizing surplus RB depth.",
+          "whyOpponentMightAccept": "Southside Savages maintains strong QB play with Jayden Daniels while instantly upgrading their starting RB2 position from Emanuel Wilson (41.4 C-AVI) to Chuba Hubbard (73.3 C-AVI), directly advancing their Retool objective."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jayden Daniels",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 25,
+              "cavi": 73.1,
+              "davi": 85,
+              "publicMarket": 85,
+              "leagueMarket": 85
+            },
+            {
+              "name": "2028 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Drake Maye",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "QB",
+              "age": 24,
+              "cavi": 90.3,
+              "davi": 90.9,
+              "publicMarket": 92,
+              "leagueMarket": 91
+            }
+          ],
+          "rationale": "Provides Southside Savages with future draft capital to support their ongoing retool while allowing Big Balder Brand to retain all active running backs."
+        },
+        "noDealExplanation": {
+          "primaryObstacle": "insufficientValue",
+          "summary": "Cornerstone downgrade: seller relinquishes D-AVI 90.9 for a strongest returning player at 85.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "failedFactors": [
+            {
+              "factor": "insufficientValue",
+              "explanation": "Cornerstone downgrade: seller relinquishes D-AVI 90.9 for a strongest returning player at 85.0, without enough premium first-round capital or proven starting assets to bridge the quality gap."
+            },
+            {
+              "factor": "managerMotivation",
+              "explanation": "Southside Savages is in Retool mode. They will not trade away an elite cornerstone at QB unless the deal improves another starting slot or adds premium capital."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "Jayden Daniels provides a strong QB baseline, but requires an additional starter or pick to fit Southside's retool strategy."
+            }
+          ],
+          "opponentPerspective": "Southside Savages is in Retool mode. They will not trade away an elite cornerstone at QB unless the deal improves another starting slot or adds premium capital.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Jayden Daniels provides a strong QB baseline, but requires an additional starter or pick to fit Southside's retool strategy.",
+          "whatWouldNeedToChange": [
+            "Cornerstone downgrade: seller relinquishes D-AVI 90.9 for a strongest returning player at 85.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+            "Cornerstone downgrade: seller relinquishes D-AVI 90.9 for a strongest returning player at 85.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+            "Southside Savages is in Retool mode. They will not trade away an elite cornerstone at QB unless the deal improves another starting slot or adds premium capital.",
+            "Jayden Daniels provides a strong QB baseline, but requires an additional starter or pick to fit Southside's retool strategy."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Drake Maye stats 2025 2026",
+          "Drake Maye news 2026",
+          "Drake Maye fantasy value dynasty 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVJcoeBg-089ixpaxg2KbRNjw30nZsUKNI3cSmN5_jrQhGU0TZRXu5oNK4xttur4FjYJS4i1G5kWojN_EogLGVoWEhWffUFy-3EgT0ki0UBxB8v3lPniTnPp2jkv1q",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtbHwm-xeWoFsbbSu4qcdTKp7HBJ2ir51qWTcGhL5WkhdJnetjkJJaGVk6s7Z6GpODztoFFhKGNvZoOZKNu2mcmZgEZzC_IS3RCPiBUD-smx_eKa28siqcRqSz-OBJI5n0W7VyeizhP8cuS3uypNF8vWB7NCY8ySaYSOxULiOMLj5yAIRglZ_mEVQz-uJ3ppnZKSOQX-MxROvtlqFSS34b8g==",
+            "title": "musketfire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYDMo8PZ2fkkZZuO12VfCGEerg92-qukCLzg250vi4H7QTrg5yyqpXCwMhixIteA4byq0hDV7TNBFk-M5LbRn8czS7NA2IhpY7NPfXVtmithwoQsdiawsDqgGFn4GNICh-_0AzwUV_OWm-fCh0VHadPMJysMy1OkU4BGqMUVlYw6r3f869ijWb",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5Pe-a_nrzlvPReFqBgTcTeMFgpTW4in4Dgf7YvyiWoIlGEbeJmcnvX9vTjMfnGYTYN6aIPcnhPEJGsdb9LI74QjCECGr-tkG_D9SIjwfhNNUpaAil7tG8y43EnllizeMcRRXDwHZzkVAI9pI5E7rvHWTTKYQ6N-RCraKqFjk5GnuGyVB2MBntLcquKx_rrkrX",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Cv6OP7BIkcHi5fkOOBvqJf6WSCs7RuN5igmQixjSHTcoPPH534jjr515EwoBznvcpW-U7iQue2eNCLz9kussn-aXdJPTLUCbSncjLPbyulyA9xhH5cS4_HFaPWlxE4s3P0hYKD55MU7o8O4sNg4l7ZFPMvkg0t4HE9zwD1FajnYyPmSqygrO2MYfki7qQ0QZ71H86P8cT53mCcRjEQ==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERO596RNRe_H29LEzIwqAifkjzCSMDJJEJE9tesTbbGhrRKbHygZ14hz9gDe8xYdmA6fiXcjB53e7URXMVaJwMt_4moegP4HD-K58fqfvZm91xn2kx5JUHFyWHm1kKNE62M50=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeEfdl9y-KoYHhwrKkinYZKqg5k56Z0NvouM4vJgXuJG4G7IrPeZtGBpDla-lIphIvgITukNs2fsbwuISayVpqFYpIeNJh7oH_dt5PMdthKT5aakRcVUjId41DFdLNw5cWYGl-72tBv5HbgoNkWiD_AsWg92674BF7aeyUfb9Oy3dxmqahASPhjwFpBsjT8pWazg-tJ2rhTtcq9VjfGNLtzBAR",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHB0bNO9Dl2yeCqd4PDaE6yP3yOsN4wkKD2424ok5St_Jq-kCgeiEyrpaPUrVqTukQDxd4_u0L4X9U-cODQlDgwdlmvzLLsqjoU6iFVU2cTjcYOgTvKipbclPj58frMTaFfhaboMTOIoqy",
+            "title": "dynastytradegenerator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxw6a5A4XljVd_k5igXmsvEFK_YW3OHCOr1eA4zh-vqmnr9BzQa0EgtzE4YMNw9kJ3GzGvESRksE1ZkfMo0AsUUd-XAexUIEGzULyrbuCK4uqgqp-I2u-3WZMHWWkPxxRcwimpJHL_mqrkc9VouypQlrzBst_10Fclk86GI8fW0IfWx4KCS_JwqfcTz3c6xFRbgGQn_Cs=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPP_gMh9HXq8bcIb2uHO8Cak6z6iL7Zdk6uYDxE-4bsN7E2cslX55s2KzXhAWEfyL4O-E94zzKjx_ldSCULVEJvMxmUZdBHOQxfGwUIOWpNniiKrStxnDtYlDdXFAwxZrFVrLV5SWHSRgbrAcu1dni6QM1M6nLTQ==",
+            "title": "keeptradecut.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0PCwDFqHsI9JwEj1VcLI3Eb0eyx1Bsvbeq9ZOikzzmci7M2uJY2UziA206MVqgli2uRwABgGOM8LkakZzX-x3ZB22Mr6K2nMwGb9ymhIeHzmbkK5HdNQUA0DyhFt0nRBcePmDEDw=",
+            "title": "fantasycalc.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "f7ae9deec67832f21fe2cd0a8d48b4674af764d8",
+        "aviCoreCommittedAt": "2026-11-08T22:59:07Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 89006,
+        "groundedMarketChars": 2860,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mw8fzypw-dac441f9",
     "createdAt": 1794179317619,
     "expiresAt": 1794611317619,
