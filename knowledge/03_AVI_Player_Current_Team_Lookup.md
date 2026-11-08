@@ -700,6 +700,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 13
 - Team file: 13_Southside_Savages.md
 
+## PLAYER LOOKUP: Emari Demercado
+- Player name: Emari Demercado
+- Player ID: 11199
+- Position: RB
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Team file: 05_Northside_Kings.md
+
 ## PLAYER LOOKUP: Emeka Egbuka
 - Player name: Emeka Egbuka
 - Player ID: 12514
@@ -2264,15 +2272,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: LAR
 - Championship AVI (C-AVI, 0-100): 24.0
 - Dynasty AVI (D-AVI, 0-100): 47.6
-- Availability: available
-
-## AVAILABLE PLAYER: Emari Demercado
-- Player name: Emari Demercado
-- Player ID: 11199
-- Position: RB
-- NFL team: HOU
-- Championship AVI (C-AVI, 0-100): 23.9
-- Dynasty AVI (D-AVI, 0-100): 47.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Charlie Kolar

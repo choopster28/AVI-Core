@@ -339,18 +339,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00011199",
-      "c_avi": 23.9,
-      "d_avi": 47.7,
-      "nfl_team": "HOU",
-      "player_name": "Emari Demercado",
-      "position": "RB",
-      "sleeper_id": "11199",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00008127",
       "c_avi": 23.7,
       "d_avi": 56.7,
@@ -2738,8 +2726,8 @@
     }
   ],
   "counts": {
-    "available_players": 228,
-    "rostered_players": 251
+    "available_players": 227,
+    "rostered_players": 252
   },
   "rostered_players": [
     {
@@ -4133,6 +4121,22 @@
       "status": "Active",
       "team_file": "13_Southside_Savages.md",
       "team_name": "Southside Savages"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00011199",
+      "c_avi": 23.9,
+      "d_avi": 47.7,
+      "nfl_team": "HOU",
+      "owner_id": "872351659366539264",
+      "player_name": "Emari Demercado",
+      "position": "RB",
+      "roster_id": 5,
+      "sleeper_id": "11199",
+      "status": "Active",
+      "team_file": "05_Northside_Kings.md",
+      "team_name": "Northside Kings "
     },
     {
       "active": true,
