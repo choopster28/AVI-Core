@@ -14,19 +14,19 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Roster Counts
 - total_players: 22
-- offense: 18
+- offense: 17
 - kickers: 1
-- idp: 3
+- idp: 4
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 484.3
 - championship_lineup_c_avi_avg: 60.54
-- offensive_roster_c_avi_sum: 839.4
-- offensive_roster_c_avi_avg: 46.63
-- offensive_roster_d_avi_sum: 1266.7
-- offensive_roster_d_avi_avg: 70.37
+- offensive_roster_c_avi_sum: 820.3
+- offensive_roster_c_avi_avg: 48.25
+- offensive_roster_d_avi_sum: 1211.0
+- offensive_roster_d_avi_avg: 71.24
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -229,6 +229,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Pat Bryant
+- Player name: Pat Bryant
+- Player ID: 12492
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: DEN
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 30.6
+- Dynasty AVI (D-AVI, 0-100): 65.3
+- Projected PPR points: 96.4
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Jerry Jeudy
 - Player name: Jerry Jeudy
 - Player ID: 6783
@@ -260,40 +277,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 25.2
 - Dynasty AVI (D-AVI, 0-100): 48.3
 - Projected PPR points: 36.7
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Marvin Mims Jr.
-- Player name: Marvin Mims Jr.
-- Player ID: 9494
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: DEN
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 25.1
-- Dynasty AVI (D-AVI, 0-100): 56.7
-- Projected PPR points: 69.9
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Pat Bryant
-- Player name: Pat Bryant
-- Player ID: 12492
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: DEN
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 24.6
-- Dynasty AVI (D-AVI, 0-100): 64.3
-- Projected PPR points: 96.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -410,6 +393,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Dane Belton
+- Player name: Dane Belton
+- Player ID: 8395
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: NYJ
+- Active: True
+- Status: Active
+- Age: 25.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 674.5
-- championship_lineup_c_avi_avg: 84.31
-- offensive_roster_c_avi_sum: 996.9
-- offensive_roster_c_avi_avg: 58.64
-- offensive_roster_d_avi_sum: 1349.1
-- offensive_roster_d_avi_avg: 79.36
+- championship_lineup_c_avi_sum: 659.1
+- championship_lineup_c_avi_avg: 82.39
+- offensive_roster_c_avi_sum: 995.5
+- offensive_roster_c_avi_avg: 58.56
+- offensive_roster_d_avi_sum: 1348.9
+- offensive_roster_d_avi_avg: 79.35
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Bijan Robinson | C-AVI: 89.8 | D-AVI: 96.5
 - RB: Jonathan Taylor | C-AVI: 86.6 | D-AVI: 94.1
 - WR: Puka Nacua | C-AVI: 97.9 | D-AVI: 99.1
-- WR: George Pickens | C-AVI: 81.6 | D-AVI: 93.1
+- WR: Matthew Golden | C-AVI: 74.4 | D-AVI: 89.4
 - TE: Isaiah Likely | C-AVI: 80.1 | D-AVI: 85.5
-- FLEX: Matthew Golden | C-AVI: 74.4 | D-AVI: 89.4
 - FLEX: Harold Fannin Jr. | C-AVI: 69.9 | D-AVI: 86.2
+- FLEX: Breece Hall | C-AVI: 66.2 | D-AVI: 89.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 27.9
+- Championship AVI (C-AVI, 0-100): 28.0
 - Dynasty AVI (D-AVI, 0-100): 66.5
 - Projected PPR points: 72.7
 - Category: offense
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 81.6
-- Dynasty AVI (D-AVI, 0-100): 93.1
+- Championship AVI (C-AVI, 0-100): 80.1
+- Dynasty AVI (D-AVI, 0-100): 92.9
 - Projected PPR points: 245.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

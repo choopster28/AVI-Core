@@ -2754,9 +2754,9 @@
     "sleeper_id": "11649"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "24360",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "NO",
     "player_name": "Kendre Miller",
     "position": "RB",
