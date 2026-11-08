@@ -39,9 +39,444 @@
       "alternateAssets": []
     },
     "createdAt": 1794180828555,
-    "updatedAt": 1794180830258,
+    "updatedAt": 1794180889736,
     "expiresAt": 1794612828555,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand's proposed 3-for-2 trade targets two elite sub-25 dynasty cornerstones in Drake Maye (24) and Tetairoa McMillan (23), perfectly advancing Choop's Rebuild objective. While sending Jayden Daniels, Omarion Hampton, and DeVonta Smith gives up significant starter depth, consolidating three tier-2/3 assets into two premier pillars is an ideal strategy in a 16-team format. However, Southside Savages (Retooling) is unlikely to surrender both of their top roster cornerstones without draft capital included. AVI recommends revising the offer by attaching Big Balder Brand's 2028 2nd-round pick to push acceptance probability into realistic territory.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jayden Daniels",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 25,
+              "cavi": 73.1,
+              "davi": 85,
+              "publicMarket": 85,
+              "leagueMarket": 85
+            },
+            {
+              "name": "Omarion Hampton",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 55.2,
+              "davi": 85,
+              "publicMarket": 75,
+              "leagueMarket": 80
+            },
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 75.4,
+              "davi": 89.8,
+              "publicMarket": 80,
+              "leagueMarket": 85
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Tetairoa McMillan",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "WR",
+              "age": 23,
+              "cavi": 85.8,
+              "davi": 94.5,
+              "publicMarket": 95,
+              "leagueMarket": 95
+            },
+            {
+              "name": "Drake Maye",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "QB",
+              "age": 24,
+              "cavi": 90.3,
+              "davi": 90.9,
+              "publicMarket": 92,
+              "leagueMarket": 92
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "C+",
+            "userShare": 62,
+            "otherShare": 38,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand achieves a major rebuilding breakthrough by acquiring two elite cornerstone young studs in Drake Maye (24) and Tetairoa McMillan (23). Giving up Jayden Daniels, Omarion Hampton, and DeVonta Smith represents substantial roster depth, but consolidating into two premier top-tier dynasty assets fits a rebuilding trajectory perfectly. For Southside Savages, receiving three starters improves RB2 depth and FLEX options but strips the franchise of its two highest-ceiling cornerstone players."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "By adding Big Balder Brand's 2028 Round 2 pick to Side A, the package provides Southside Savages with necessary draft liquidity to compensate for surrendering both Maye and McMillan, raising partner acceptance probability to realistic levels while preserving Big Balder Brand's core acquisition targets."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Slight short-term dip in current starter depth due to sending three weekly startable assets for two."
+            },
+            "dynastyOutlook": {
+              "score": 65,
+              "summary": "Massive upgrade in long-term dynasty foundation with two sub-25 elite cornerstones."
+            },
+            "lineupQuality": {
+              "score": 30,
+              "summary": "Upgrades starting QB to Drake Maye (90.3 C-AVI) and WR to Tetairoa McMillan (85.8 C-AVI)."
+            },
+            "depthResilience": {
+              "score": -25,
+              "summary": "Surrendering Hampton and Smith thins overall bench and FLEX depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Consolidating 3-for-2 frees up a roster slot and concentrates value in highly liquid elite studs."
+            },
+            "overall": {
+              "score": 24,
+              "summary": "Substantial net positive by acquiring premier long-term cornerstone assets Drake Maye and Tetairoa McMillan."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Immediate starting lineup depth improves at RB2 and FLEX with Hampton and Smith."
+            },
+            "dynastyOutlook": {
+              "score": -50,
+              "summary": "Significant long-term ceiling loss by parting with 23yo McMillan and 24yo Maye."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Downgrades QB from Maye to Daniels and WR1 from McMillan to Smith."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Adds startable RB depth with Hampton and solid receiver depth with Smith."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Spreads elite concentrated value into multiple tier-2 assets without acquiring premium draft picks."
+            },
+            "overall": {
+              "score": -24,
+              "summary": "Net negative due to parting with both franchise cornerstones in a single deal."
+            }
+          },
+          "explanation": "The trade visualizes a classic quantity-for-quality consolidation. Big Balder Brand sacrifices depth to secure two elite dynasty pillars for a rebuild, while Southside Savages gains lineup depth at the cost of its highest-ceiling assets."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "C-AVI sum moves from sending 203.7 total C-AVI to receiving 176.1 total C-AVI (-27.6 C-AVI sum), but upgrades starting QB (+17.2 C-AVI from Daniels to Maye) and WR1 slots.",
+          "sideADynastyImpact": "D-AVI shifts from sending 259.8 sum to receiving 185.4 sum (-74.4 sum), but elevates asset quality to two 90+ D-AVI elite cornerstones.",
+          "sideARosterImpact": "Frees 1 roster spot, upgrades top-end starters, slightly reduces bench depth.",
+          "sideBChampionshipImpact": "Receives +27.6 net C-AVI sum across 3 assets, boosting RB2 baseline with Hampton over Emanuel Wilson.",
+          "sideBDynastyImpact": "Surrenders 185.4 D-AVI across two 90+ D-AVI cornerstones for 259.8 D-AVI in tier-2/3 assets.",
+          "sideBRosterImpact": "Requires dropping 1 player to accommodate 3 incoming starters.",
+          "valueAssessment": "While raw C-AVI and D-AVI sums favor Southside Savages on paper, market reality and asset tiering strongly favor Big Balder Brand due to the extreme scarcity and premium value of Maye and McMillan in a 16-team league."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views Tetairoa McMillan as a top-5 dynasty WR asset following his 1,583-yard OROY rookie season, and Drake Maye as an elite dynasty QB1 after his overall QB2 finish in 2025. Daniels retains high dual-threat upside, Hampton's market is depressed by LA usage, and DeVonta Smith faces near-term uncertainty with a hamstring strain and backup QB Joe Milton II starting in Philadelphia.",
+          "aviVsMarket": "AVI aligns closely with public market valuation, rating McMillan (94.5 D-AVI) and Maye (90.9 D-AVI) as elite cornerstones, while appropriately factoring in Smith's injury status (75.4 C-AVI) and Hampton's role struggles (55.2 C-AVI).",
+          "relevantContext": [
+            "Tetairoa McMillan posted a historic 1,583-yard OROY rookie season in 2025 and is Carolina's undisputed alpha WR1.",
+            "Drake Maye finished as the overall QB2 in 2025 fantasy scoring and continues operating as a locked-in elite QB1.",
+            "DeVonta Smith is ruled out for Week 9 with a hamstring injury, targeting a Week 11 return post-bye, while PHI starts backup QB Joe Milton II with Jalen Hurts out.",
+            "Jayden Daniels ranks QB5 in fantasy PPG since Week 5 but carries documented durability history.",
+            "Omarion Hampton's snap count dropped to ~35% following early fumbles in LA, creating a buy-low window."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Southside Savages is Retooling and needs RB2 production and WR depth, which Hampton and Smith provide.",
+          "packageFit": "Package offers 3 immediate starters to Southside Savages, but lacks a draft pick or equal cornerstone asset to justify parting with McMillan.",
+          "lineupReplacement": "Southside Savages replaces Maye with Daniels at QB, McMillan with Smith at WR, and upgrades RB2 from Emanuel Wilson to Omarion Hampton.",
+          "competitiveWindowFit": "Surrendering two sub-25 elite cornerstones conflicts with a Retooling timeline unless draft capital is attached.",
+          "positionalScarcity": "Elite young WR1s (McMillan) and QB1s (Maye) carry extreme positional scarcity in 16-team formats."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 10,
+            "packageMatch": 0,
+            "lineupReplacement": 4,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 48,
+          "classification": "Unlikely",
+          "explanation": "Cornerstone downgrade: seller relinquishes D-AVI 94.5 for a strongest returning player at 89.8, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "structuralRejection": "Cornerstone downgrade: seller relinquishes D-AVI 94.5 for a strongest returning player at 89.8, without enough premium first-round capital or proven starting assets to bridge the quality gap."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Trade-partner acceptance not supported: Cornerstone downgrade: seller relinquishes D-AVI 94.5 for a strongest returning player at 89.8, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jayden Daniels",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 25,
+              "cavi": 73.1,
+              "davi": 85,
+              "publicMarket": 85,
+              "leagueMarket": 85
+            },
+            {
+              "name": "Omarion Hampton",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 55.2,
+              "davi": 85,
+              "publicMarket": 75,
+              "leagueMarket": 80
+            },
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 75.4,
+              "davi": 89.8,
+              "publicMarket": 80,
+              "leagueMarket": 85
+            },
+            {
+              "name": "2028 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tetairoa McMillan",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "WR",
+              "age": 23,
+              "cavi": 85.8,
+              "davi": 94.5,
+              "publicMarket": 95,
+              "leagueMarket": 95
+            },
+            {
+              "name": "Drake Maye",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "QB",
+              "age": 24,
+              "cavi": 90.3,
+              "davi": 90.9,
+              "publicMarket": 92,
+              "leagueMarket": 92
+            }
+          ],
+          "whyUserShouldDoIt": "Secures two sub-25 elite dynasty cornerstones at QB and WR to anchor Choop's roster rebuild.",
+          "whyOpponentMightAccept": "Provides 3 immediate starters to upgrade RB2 and FLEX while adding liquid 2nd-round draft capital for GGEZGoNext's retool."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jayden Daniels",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 25,
+              "cavi": 73.1,
+              "davi": 85,
+              "publicMarket": 85,
+              "leagueMarket": 85
+            },
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 75.4,
+              "davi": 89.8,
+              "publicMarket": 80,
+              "leagueMarket": 85
+            },
+            {
+              "name": "2028 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tetairoa McMillan",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "WR",
+              "age": 23,
+              "cavi": 85.8,
+              "davi": 94.5,
+              "publicMarket": 95,
+              "leagueMarket": 95
+            }
+          ],
+          "rationale": "If Southside Savages refuses to part with Drake Maye, pivoting to acquire Tetairoa McMillan individually preserves Big Balder Brand's primary WR rebuild cornerstone."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tetairoa McMillan NFL draft 2025 2026",
+          "Jayden Daniels news 2026 fantasy football",
+          "Omarion Hampton NFL draft 2025 2026",
+          "Drake Maye news 2026 fantasy football",
+          "DeVonta Smith news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8CtE8acxs3YB8qRVJAsmmn2mb_cIcxmfyZNBEm8uTsxmvcL2DzRROtOwlyNajr22nqBwDFKptAIu3gQfNx8871fjVgvIvs62CMkqhtxyNS2CZunRxxTMtIV_BpaVXxNn9IRbhHu24RiJJTGEJBQMQZX-_33kgA3TVCBKtKZPho3E2krwIBr7jLfPcJ0kwp7wFEhEN5BT0u77f52qzBA==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7Ykk8iIWdbvw3MTszdWgssFo1vavthY--eZJwpOb2GaUNVwWRhDFLnsnPZnhma1aLPwoRw-eSnAbq-e56m5-oSIAoY-wZorjZ-5D-N5UJJ0JnqsTStujBzsM5SkmYRSFk2uS5bZ3ZJ3iYo9DHC2M3",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqcBjoO8ghT_5jEppzJMphBImAp1kbt7--uhKgXkaJru5uyhbS_bTDzFr2bjn-kHEBa9XXd_t49ZSk9Td14r0VGPXKwGn9YpHynVja0KF8qAy3Idsy8uqTyP_IRejA4PmhVjQx01-rHhLD8vM_VV5Mw30XunHiw9CJR8qlIERX5rEXjNTVYD7-k06Ba1VePouH0Omyf2vtRZz43gevDxzb",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcAZKKzSL_Elg_4EcJYIPJJtyt4z0VwBG2Q5CzVcEA3-wuGNQbmd-uUu4EVfKSTJ0TtuT1FpHQQVQA_SP2bw_s6liJ7TvxHEhAJwnjy5R2eLZbqRUJCtfVKMVwGEZfJs1G",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPhg4d3NLHJ0J7NQcqMmmiBcb3LcYOizefVq7jBS2FvqwinIahbBGIxeHvTgAwxr7uLP3eM9ncT_cCxxz0BvC9gXphy-sx0i_6Nk3CLSzzDOzbTyIRhnF2s4Wydt4S8mSsu5koWmQQW3xaiEyMym0LhKvuGlG7CMpdNPQ9Aju7dpBi6X9sH7xv4KIKSHdxOS37",
+            "title": "chargers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwXDV72m-QipD5eDnU3BQ5K2jqBMtPKfNrmRIdRgvHWoDDI2ptzHQTdl-unM_93OmHwREzktKlXeZ0z-jbAHUmsZCXxPOFaSWlipR5Ay1Ujf5aa3zA-YMMxl5YKsUrWBCaw9bSa0UtfEScah6tIDRjN_bFfdtlIXcpAVLVCp3C6MfgZiXtTM79yBepZvLoHA==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkHUGEbuoS_zN-Kl03ipNI1DHZL8ygLJrhV4p0xKjLLBRm-panc7eRqCuNqQnCZ_6_9Ss-nQjr8KzzWoC7ESZA_SoCsyTWa6WnxdCBy0C5m5Q02pxL88ypoUzhI5eRed58YoHioVbQW4enkYTgCW7A0xTNw6cjBoFKC0GOi0QltHseto7ZjYmWLkn9CmYfRRYsjkvDazogVYEeAG8=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsqHzo4L-XMKvxg4-Gyeyhic99cFNpSqGEXb-ihZup31zhgVa4Tn6GuTBKbhYDC80anFG1KXGUiU4cPIb225AtBEChMkc2WYqIkS-GOTFGMuF_opFm3CQbHcNrBGKsqo4IJquKwr8kV72gqLg5P5PqBXRJDQdZfemrMXX9Fw4AuAkNK9yVIzqmuhYZxzZOeOY_HssBGpAMYckcZS-B4ub94oIJHAdVvtvWX2k=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6ZDz_-1jOn5cu4a2bYeTOUSYsBPycmanggX4W8EkUJ5UkYrocOAwnNw5CMu9qmHelFd3EZ2OpDwge4jFQmHeuqB_0D7pMZvTuwluBbp40Khdzkim9lRnzBQvX65GtigT1Vws62jqoHwYaYSw=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfYxF4pFyXS3MQE1A-R7krq1CSR9h-v4wRG4j1dz1UhTi6n4eUxEBECpZ1Mw9lNxVTvGN7mTqVyL2xobtiYB7ul8PszNw565PLKnVF56IjBWV_lMCuFbYLBcC7r069fHOzFyPTGKumILzGJVj29Pu38ttevzM=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfVf4c8ue9zTWD1_djGF6XdS9HLYudSSa1D_kho0CFeU8E_OtXG7BBIq1K59vOtIchzcoh596UcMSZt8PORfkU9J8TdYPVYENA74fPNZaO6A2JGtJAJt0FbMeY0Z1ASwp6gXSR_Q==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfEM_FppGBCgIbq8qq38ZfZVBuZgs5TXXWFprJRZPgWUtAk6HWDgdMx4nycg78znnsCGHn4buHtO-GJjEpv_gizSzXRk_kdIMDX7kFEsYmOnOnUvY4sE0-CoZ9F6clBZIzAQHHnmcgYlCFP-C6Z9UfuXyYHYyhUNP3A118c4_RYNLaryrSrSAkSaTSwP7Vy6CmDyM=",
+            "title": "panthers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHWWfLvcmZWgzLQmDRtScb4vE6fzl2dUeGZqPF0LmCFfNtXICfn37SW9BYRoQSWvZZ1jZniixH1Q6t0PFAUh-C1d6oC8qoUCCysn5_t64RdL_PRSWUPSsNyPX66HVbcuL0SQ6wUf4O9-4iUT8hyBhfGN-IRt-pGti1TLVxVZM3c0rG9raXpMvRU-A=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdXAxIr3SBVl75o2DenppR2O2POc4qInbWUPnZVH4uDQyxYoQlnkpTen6f5inKiUOy2AQugDw4e8SLCBhXsPF357t_aKfKu5jgT5U1zbOLAs9lLdAtYLlKQRl_SbWGDcS_2Ri0xZP_imBDiRTizIRpaXX2-2LlwesuZOxLI9vQNzl4dWaGXdgxgzrqFdYwrKDdzUNmocKtB6JdRThILg==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE06gsvoyVg5a_I3CnwWoha4LjVKK6VJIQGYR8kteGLn3p0onV7PPI1UNAp0DyhzbRxfQ3tEN_jPqFDEvVQJQxoNC_3Wa7QDTNO8MeYL98jP51PZ9BaI3k9dKaFDm8HAZlHLym7xcrEGfu0GfnPXNzjrQpB26qge6qA6Eymq9p9dZjWr_bgGgeY8KXCA57oYoYCC-ylguw=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLyapN4IWw-0c64qEqSWseInnhxxPWItQMM-urDeES3iMNThUN5BuIHGzfUJJhJlR7FMEPhEq44RZxvBdBsCCqtPy8hczX5Pd-r6mVHVglKGPvEC0m_yFNprjYyYWv4dC-1RwRXWSrJJalhl0=",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "f7ae9deec67832f21fe2cd0a8d48b4674af764d8",
+        "aviCoreCommittedAt": "2026-11-08T22:59:07Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 91201,
+        "groundedMarketChars": 5296,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mw8g7ed1-5b07e9e9",
