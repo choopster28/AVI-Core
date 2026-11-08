@@ -24,9 +24,352 @@
       ]
     },
     "createdAt": 1794179246468,
-    "updatedAt": 1794179248028,
+    "updatedAt": 1794179316466,
     "expiresAt": 1794611246468,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand aims to acquire 24-year-old cornerstone quarterback Drake Maye (90.3 C-AVI / 90.9 D-AVI) from Southside Savages, anchoring the proposal with Jayden Daniels (73.1 C-AVI / 85.0 D-AVI). In a straight 1-for-1 swap, Southside Savages (Retooling) lacks strategic incentive to downgrade from a top-tier dynasty QB without receiving secondary compensation. However, by expanding the proposal to include young running back Omarion Hampton (55.2 C-AVI / 85.0 D-AVI), Big Balder Brand creates a balanced multi-position package that resolves Southside's RB2 void while securing an elite long-term QB centerpiece for Big Balder Brand's rebuild trajectory.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jayden Daniels",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 25,
+              "cavi": 73.1,
+              "davi": 85,
+              "publicMarket": 308.7,
+              "leagueMarket": 79.1
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Drake Maye",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "QB",
+              "age": 24,
+              "cavi": 90.3,
+              "davi": 90.9,
+              "publicMarket": 320.8,
+              "leagueMarket": 90.6
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B",
+            "otherGrade": "D+",
+            "userShare": 65,
+            "otherShare": 35,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The submitted 1-for-1 proposal enables Big Balder Brand to secure a premier Tier-1 dynasty quarterback in Drake Maye (+17.2 C-AVI / +5.9 D-AVI over Daniels). However, Southside Savages receives no secondary assets or draft liquidity to justify stepping down from Maye to Daniels."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The recommended 2-for-1 offer package sends Jayden Daniels and 23-year-old running back Omarion Hampton (55.2 C-AVI / 85.0 D-AVI) to Southside Savages for Drake Maye. Southside preserves QB starter usability while substantially upgrading their weak RB2 slot, aligning with their Retool objective."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Acquiring Drake Maye establishes an elite, long-term cornerstone at starting quarterback."
+            },
+            "championshipOutlook": {
+              "score": 35,
+              "summary": "Immediate upgrade at starting QB from Jayden Daniels (73.1 C-AVI) to Drake Maye (90.3 C-AVI)."
+            },
+            "dynastyOutlook": {
+              "score": 50,
+              "summary": "Locks in a 24-year-old top-3 dynasty quarterback asset for the next 5+ seasons."
+            },
+            "lineupQuality": {
+              "score": 35,
+              "summary": "Direct positive impact on starting weekly scoring floor and ceiling at QB."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Surrendering Omarion Hampton in the recommended package slightly trims running back depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 30,
+              "summary": "Drake Maye holds premier dynasty consensus trade value and market liquidity."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -20,
+              "summary": "In the submitted 1-for-1, Southside loses elite QB ceiling; in the recommended build, adding an RB2 restores total lineup utility."
+            },
+            "championshipOutlook": {
+              "score": -20,
+              "summary": "Absorbs a minor step down in current-season QB projection from Maye to Daniels."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Moves from a Tier-1 QB to a high-end Tier-2 QB, balanced by adding a 23-year-old RB asset in the recommended package."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "In the recommended offer, Omarion Hampton delivers a major upgrade at RB2 over Emanuel Wilson."
+            },
+            "depthResilience": {
+              "score": 25,
+              "summary": "Expands startable options across RB and FLEX positions for a retooling roster."
+            },
+            "flexibilityLiquidity": {
+              "score": -10,
+              "summary": "Jayden Daniels remains highly liquid across the league despite being slightly behind Maye in consensus."
+            }
+          },
+          "explanation": "Big Balder Brand achieves an elite long-term QB upgrade. Southside Savages requires secondary lineup compensation like Omarion Hampton to justify trading away Drake Maye during a retool."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand gains +17.2 C-AVI at starting quarterback by replacing Jayden Daniels (73.1 C-AVI) with Drake Maye (90.3 C-AVI).",
+          "sideADynastyImpact": "Dynasty valuation increases from 85.0 D-AVI to 90.9 D-AVI, locking down a 24-year-old elite dual-threat quarterback.",
+          "sideARosterImpact": "Solidifies the single starting QB slot while preserving primary wide receiver assets (Nico Collins, DeVonta Smith, Rashee Rice).",
+          "sideBChampionshipImpact": "Southside Savages absorbs a -17.2 C-AVI reduction at QB in a 1-for-1 swap, but gains +55.2 C-AVI in starting lineup value if Omarion Hampton is added.",
+          "sideBDynastyImpact": "Southside transitions down slightly in QB dynasty tier (90.9 to 85.0 D-AVI) while adding a young 85.0 D-AVI running back asset.",
+          "sideBRosterImpact": "Preserves starting QB viability with Daniels while solving Southside's prominent starting RB2 vulnerability.",
+          "valueAssessment": "Drake Maye commands a clear dynasty market premium over Jayden Daniels. A 1-for-1 swap favors Big Balder Brand heavily, requiring additional asset value to achieve trade balance for Southside Savages."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus ranks Drake Maye as an elite Tier-1 dynasty quarterback (dynasty QB2-QB4) due to his age (24), passing arm talent, and steady rushing output. Jayden Daniels is valued in the solid Tier-2 range (dynasty QB6-QB9).",
+          "aviVsMarket": "AVI models a close D-AVI proximity (90.9 vs 85.0) driven by both players' dual-threat capabilities, but public market trade valuations require a notable sweetener to bridge from Daniels to Maye.",
+          "relevantContext": [
+            "Drake Maye has demonstrated high-end dual-threat fantasy production across his first three NFL seasons in New England.",
+            "Jayden Daniels provides substantial dual-threat ceiling in Washington but carries slightly higher injury risk and lower market consensus than Maye.",
+            "Southside Savages rosters only Drake Maye and Malik Willis at QB, making an incoming starter non-negotiable in any deal involving Maye."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Southside Savages is pursuing a Retool objective. They will not trade their franchise cornerstone Drake Maye 1-for-1 unless the package addresses another primary lineup position.",
+          "packageFit": "Including 23-year-old running back Omarion Hampton matches Southside's retool timeframe and resolves their clear RB2 opening behind Josh Jacobs.",
+          "lineupReplacement": "Jayden Daniels immediately steps into Southside's starting QB slot, avoiding a positional void.",
+          "competitiveWindowFit": "Both franchises feature young rosters; Maye and Daniels fit long-term competitive windows for both organizations.",
+          "positionalScarcity": "Starting quarterbacks in 16-team formats carry immense core value. Swapping top-10 dynasty QBs requires specific roster incentives."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 10,
+            "packageMatch": 0,
+            "lineupReplacement": 4,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 33,
+          "classification": "Unlikely",
+          "explanation": "Cornerstone downgrade: seller relinquishes D-AVI 90.9 for a strongest returning player at 85.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "structuralRejection": "Cornerstone downgrade: seller relinquishes D-AVI 90.9 for a strongest returning player at 85.0, without enough premium first-round capital or proven starting assets to bridge the quality gap."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "Best-effort offer (not validated as realistic; 33% estimated acceptance): Cornerstone downgrade: seller relinquishes D-AVI 90.9 for a strongest returning player at 85.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jayden Daniels",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 25,
+              "cavi": 73.1,
+              "davi": 85,
+              "publicMarket": 308.7,
+              "leagueMarket": 79.1
+            },
+            {
+              "name": "Omarion Hampton",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 23,
+              "cavi": 55.2,
+              "davi": 85,
+              "publicMarket": 242.9,
+              "leagueMarket": 70.1
+            }
+          ],
+          "receive": [
+            {
+              "name": "Drake Maye",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "QB",
+              "age": 24,
+              "cavi": 90.3,
+              "davi": 90.9,
+              "publicMarket": 320.8,
+              "leagueMarket": 90.6
+            }
+          ],
+          "whyUserShouldDoIt": "Secures an elite 24-year-old cornerstone quarterback in Drake Maye (90.3 C-AVI / 90.9 D-AVI) while utilizing running back depth (Bhayshul Tuten, Chuba Hubbard, Jeremiyah Love) to absorb the loss of Omarion Hampton.",
+          "whyOpponentMightAccept": "Southside Savages receives a high-ceiling starting QB replacement in Jayden Daniels plus an immediate young starting RB2 in Omarion Hampton (55.2 C-AVI / 85.0 D-AVI) to replace Emanuel Wilson (41.4 C-AVI), directly supporting their Retool goal."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jayden Daniels",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 25,
+              "cavi": 73.1,
+              "davi": 85,
+              "publicMarket": 308.7,
+              "leagueMarket": 79.1
+            },
+            {
+              "name": "2028 Round 2 Pick",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": null,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Drake Maye",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "QB",
+              "age": 24,
+              "cavi": 90.3,
+              "davi": 90.9,
+              "publicMarket": 320.8,
+              "leagueMarket": 90.6
+            }
+          ],
+          "rationale": "If Big Balder Brand prefers to retain all running back assets, pairing Jayden Daniels with a 2028 2nd-round pick offers valuable draft liquidity to bridge the value gap for Southside Savages."
+        },
+        "noDealExplanation": {
+          "primaryObstacle": "insufficientValue",
+          "summary": "Cornerstone downgrade: seller relinquishes D-AVI 90.9 for a strongest returning player at 85.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "failedFactors": [
+            {
+              "factor": "insufficientValue",
+              "explanation": "Cornerstone downgrade: seller relinquishes D-AVI 90.9 for a strongest returning player at 85.0, without enough premium first-round capital or proven starting assets to bridge the quality gap."
+            },
+            {
+              "factor": "managerMotivation",
+              "explanation": "Southside Savages is pursuing a Retool objective. They will not trade their franchise cornerstone Drake Maye 1-for-1 unless the package addresses another primary lineup position."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "Including 23-year-old running back Omarion Hampton matches Southside's retool timeframe and resolves their clear RB2 opening behind Josh Jacobs."
+            }
+          ],
+          "opponentPerspective": "Southside Savages is pursuing a Retool objective. They will not trade their franchise cornerstone Drake Maye 1-for-1 unless the package addresses another primary lineup position.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Including 23-year-old running back Omarion Hampton matches Southside's retool timeframe and resolves their clear RB2 opening behind Josh Jacobs.",
+          "whatWouldNeedToChange": [
+            "Cornerstone downgrade: seller relinquishes D-AVI 90.9 for a strongest returning player at 85.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+            "Cornerstone downgrade: seller relinquishes D-AVI 90.9 for a strongest returning player at 85.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+            "Southside Savages is pursuing a Retool objective. They will not trade their franchise cornerstone Drake Maye 1-for-1 unless the package addresses another primary lineup position.",
+            "Including 23-year-old running back Omarion Hampton matches Southside's retool timeframe and resolves their clear RB2 opening behind Josh Jacobs."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Drake Maye stats 2025 2026 NFL",
+          "Drake Maye news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtS4VrVXOyq477FPB1qEY9ZHUCf2SDr1YF6v1msgWjhtxnFT9r15tv4H0v3qmrBxL_y84RC7EhaqMr474g1hjzmNG-DhSeJ1niOUzCvQpJdqSgv6f1WhyvCpKvB6Zn534-NMRsNHiW4bTs",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVpXNiIqvH1949AQ760JeA6spGwTPORRt0jUdRXsAqNok6rGAcLm64N6CfciigRjMWRNV1vlQkUHe09CnvuDzNcP1t1BOxzjN4zfTZRec9EID_5WWKZgUM9tRhVcfsnGPeTtoGPxspqZBc2Aj5vevh6Sw=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWBLd1YIqTqla9S1L9cMXC0f8csfvvN-nD-0UPEwlmfqXfD65IKR9r1BxczM1GGGj-t9ayfWyBLlGilqjUCpEKWFTdMfN769WHiCcyEABpTPfVD3WUu-2BqP5thzyN7a1bVu_2zL-PiVo=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGogReKh_E-Ucw6Tb-CGd_D0vVTueDmtBwYszgMiQyDqJN_Owrzwg5QsIzQG2Rz3DAEKVabw2t1kR0N7X8cDnN77xEKhVt6JtxR2UwHpo5xel0J1msQetuaywsEvtlrGE70G52ddtP21RBYXXO1gdLcARx4RK0qawgP3zMHITnRD6yIfU1PooUOvg==",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSf75ajW-4s-J4LXkzVTS1A7KGZJb9UibWuS5cp4bvsUq_MC8d82ppaXVVr5Gj-e3AYOViREYCC-AtsId9shzg-9hKAfWCkYbc7UArDH_U8U5PuAe3dP9rFqOGuLPH-bVu2fNahpWZ-N_kUHVwdKubGFH8MX1_x_H48jQScaZ1jJpzHRUguXoZlD0iKTmicTlH4-7VGQ==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnsOzhptY1liAbvdhNt6FLBeQNqf8jZaDf2KQtEDMLGRtYEYOLYaxNya8fY03naDPXgktaEhckWTD70JzHg4yTXoH0yAhqQqWVnSOFEcFO1ZMfEeMuHhHB60G33IaLmxh4fo5qeykHZg==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPzN1Mwiuvi3pg809XYYSF38owMgp_Cr6msU2J1TFQ95eWXJ1ZaqdE2bcKVPAUj1LF4IURflucg-OZKY8zM45DHCb_dPlG-57F1uoL_IaPY0bkzqlZ7SiXGG9JiJoFzLLM6PF0Klx5Y0S_FA==",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "f7ae9deec67832f21fe2cd0a8d48b4674af764d8",
+        "aviCoreCommittedAt": "2026-11-08T22:59:07Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 89006,
+        "groundedMarketChars": 2722,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mw3abb29-ff068dc4",
