@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 12
-- Last updated from Sleeper exports: 2026-11-07
+- Last updated from Sleeper exports: 2026-11-08
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 614.4
 - championship_lineup_c_avi_avg: 76.80
-- offensive_roster_c_avi_sum: 872.4
-- offensive_roster_c_avi_avg: 54.52
-- offensive_roster_d_avi_sum: 1184.9
-- offensive_roster_d_avi_avg: 74.06
+- offensive_roster_c_avi_sum: 875.5
+- offensive_roster_c_avi_avg: 54.72
+- offensive_roster_d_avi_sum: 1176.4
+- offensive_roster_d_avi_avg: 73.53
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -127,9 +127,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Kendre Miller
-- Player name: Kendre Miller
-- Player ID: 9757
+### PLAYER: Audric Estime
+- Player name: Audric Estime
+- Player ID: 11579
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Position: RB
@@ -137,10 +137,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: NO
 - Active: True
 - Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 18.9
-- Dynasty AVI (D-AVI, 0-100): 58.3
-- Projected PPR points: 5.6
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 22.0
+- Dynasty AVI (D-AVI, 0-100): 49.8
+- Projected PPR points: 22.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

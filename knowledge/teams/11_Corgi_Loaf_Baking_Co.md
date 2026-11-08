@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 5
-- Last updated from Sleeper exports: 2026-11-07
+- Last updated from Sleeper exports: 2026-11-08
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 551.8
-- championship_lineup_c_avi_avg: 68.97
-- offensive_roster_c_avi_sum: 825.4
-- offensive_roster_c_avi_avg: 51.59
-- offensive_roster_d_avi_sum: 1213.6
-- offensive_roster_d_avi_avg: 75.85
+- championship_lineup_c_avi_sum: 553.6
+- championship_lineup_c_avi_avg: 69.20
+- offensive_roster_c_avi_sum: 829.9
+- offensive_roster_c_avi_avg: 51.87
+- offensive_roster_d_avi_sum: 1214.4
+- offensive_roster_d_avi_avg: 75.90
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Malik Nabers | C-AVI: 90.6 | D-AVI: 97.1
 - TE: Trey McBride | C-AVI: 94.7 | D-AVI: 92.9
 - FLEX: Cam Skattebo | C-AVI: 51.5 | D-AVI: 81.3
-- FLEX: Ryan Flournoy | C-AVI: 49.2 | D-AVI: 67.1
+- FLEX: DJ Moore | C-AVI: 51.0 | D-AVI: 81.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -212,6 +212,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: DJ Moore
+- Player name: DJ Moore
+- Player ID: 4983
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: BUF
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 51.0
+- Dynasty AVI (D-AVI, 0-100): 81.5
+- Projected PPR points: 179.0
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Ryan Flournoy
 - Player name: Ryan Flournoy
 - Player ID: 11783
@@ -226,23 +243,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 49.2
 - Dynasty AVI (D-AVI, 0-100): 67.1
 - Projected PPR points: 121.2
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: DJ Moore
-- Player name: DJ Moore
-- Player ID: 4983
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: BUF
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 46.5
-- Dynasty AVI (D-AVI, 0-100): 80.7
-- Projected PPR points: 179.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
