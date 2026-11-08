@@ -1420,14 +1420,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
 
-## PLAYER LOOKUP: Marvin Mims Jr.
-- Player name: Marvin Mims Jr.
-- Player ID: 9494
-- Position: WR
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Team file: 04_Mile_High_Royal_Lions.md
-
 ## PLAYER LOOKUP: Mason Taylor
 - Player name: Mason Taylor
 - Player ID: 12498
@@ -2191,6 +2183,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: TB
 - Championship AVI (C-AVI, 0-100): 25.2
 - Dynasty AVI (D-AVI, 0-100): 58.9
+- Availability: available
+
+## AVAILABLE PLAYER: Marvin Mims Jr.
+- Player name: Marvin Mims Jr.
+- Player ID: 9494
+- Position: WR
+- NFL team: DEN
+- Championship AVI (C-AVI, 0-100): 25.1
+- Dynasty AVI (D-AVI, 0-100): 56.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Marquise Brown
