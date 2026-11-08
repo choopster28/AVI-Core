@@ -1,5 +1,49 @@
 [
   {
+    "id": "mw8gxvgr-b8dc1bc9",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Rebuild",
+      "partnerGoal": "Retool",
+      "targetTeam": "Southside Savages",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Jayden Daniels",
+            "assetType": "player"
+          },
+          {
+            "name": "Omarion Hampton",
+            "assetType": "player"
+          },
+          {
+            "name": "DeVonta Smith",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Tetairoa McMillan",
+            "assetType": "player"
+          },
+          {
+            "name": "Drake Maye",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794180828555,
+    "updatedAt": 1794180828555,
+    "expiresAt": 1794612828555,
+    "status": "queued"
+  },
+  {
     "id": "mw8g7ed1-5b07e9e9",
     "phase": "initial",
     "mode": "propose_trade",
