@@ -1,5 +1,34 @@
 [
   {
+    "id": "mw8fzypw-dac441f9",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Rebuild",
+      "partnerGoal": "Retool",
+      "targetTeam": "Southside Savages",
+      "targetAssets": [
+        {
+          "name": "Drake Maye",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Jayden Daniels",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1794179246468,
+    "updatedAt": 1794179246468,
+    "expiresAt": 1794611246468,
+    "status": "queued"
+  },
+  {
     "id": "mw3abb29-ff068dc4",
     "phase": "initial",
     "mode": "analyze_trade",
