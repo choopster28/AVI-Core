@@ -1,6 +1,6 @@
 {
-  "avi_generated_at_utc": "2026-11-09T01:48:50.623501+00:00",
-  "checked_at_utc": "2026-11-09T01:48:52.079068+00:00",
+  "avi_generated_at_utc": "2026-11-09T22:18:13.642439+00:00",
+  "checked_at_utc": "2026-11-09T22:18:14.858564+00:00",
   "counts": {
     "avi_players": 479,
     "player_lookup": 479,
@@ -17,7 +17,7 @@
     ],
     "current_week_schedule_complete": false,
     "fantasypros_max_observed_week": 9,
-    "mapped_player_point_records": 426,
+    "mapped_player_point_records": 427,
     "nfl_season": "2026",
     "nfl_season_type": "regular",
     "nfl_week": 9,

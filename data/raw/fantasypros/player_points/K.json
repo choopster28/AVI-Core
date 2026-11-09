@@ -100,12 +100,12 @@
       }
     },
     {
-      "average": 9.3,
+      "average": 9.2,
       "filename": "cairo-santos.php",
-      "games": 8,
+      "games": 9,
       "player_id": 13731,
       "player_name": "Cairo Santos",
-      "points": 74,
+      "points": 83,
       "position_id": "K",
       "team_id": "CHI",
       "weeks": {
@@ -116,7 +116,8 @@
         "5": 1,
         "6": 9,
         "7": 15,
-        "8": 11
+        "8": 11,
+        "9": 9
       }
     },
     {
@@ -140,12 +141,12 @@
       }
     },
     {
-      "average": 11.1,
+      "average": 11,
       "filename": "chase-mclaughlin.php",
-      "games": 8,
+      "games": 9,
       "player_id": 19058,
       "player_name": "Chase McLaughlin",
-      "points": 89,
+      "points": 99,
       "position_id": "K",
       "team_id": "TB",
       "weeks": {
@@ -156,7 +157,8 @@
         "5": 7,
         "6": 17,
         "7": 12,
-        "8": 12
+        "8": 12,
+        "9": 10
       }
     },
     {

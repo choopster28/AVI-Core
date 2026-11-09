@@ -3,148 +3,40 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Chris Schommer",
+      "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury",
+        "Breaking"
       ],
-      "created": "2026-11-09 01:42:07",
-      "created_formated": "Mon, Nov 9th 1:42am UTC",
-      "desc": "The Packers D/ST recorded four sacks while also forcing four turnovers (three interceptions, one fumble recovery) in a 45-27 win over the Patriots in Week 9.",
-      "id": 618639,
-      "impact": "The defense took advantage of an overmatched New England offensive line, allowing less than 100 rushing yards in a winning effort. The unit will look for another disruptive performance against the Minnesota Vikings in Week 10.",
-      "link": "https://www.fantasypros.com/nfl/news/618639/packers-dst-disruptive-week-9.php",
-      "player_id": 8110,
+      "created": "2026-11-09 22:12:46",
+      "created_formated": "Mon, Nov 9th 10:12pm UTC",
+      "desc": "Puka Nacua (knee, toe) is expected to be placed on IR with injuries to his MCL, PCL, and turf toe according ot HC Sean McVay.",
+      "id": 618919,
+      "impact": "While it was known Puka was battling through some injuries, it wasn't clear that it was this bad. With Davante Adams already out and on IR, and Puka likely to follow, the Rams' season is going downhill fast. Expect them to make some moves at WR before the trade deadline.",
+      "link": "https://www.fantasypros.com/nfl/news/618919/puka-nacua-knee-toe-expected-to-go-on-ir-with-litany-injuries.php",
+      "player_id": 23180,
       "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Packers D/ST disruptive in Week 9"
+      "team_id": "LAR",
+      "title": "Puka Nacua (knee, toe) expected to go on IR with litany of injuries"
     },
     {
-      "author": "Joshua Kellem",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Results"
+        "News"
       ],
-      "created": "2026-11-09 01:39:02",
-      "created_formated": "Mon, Nov 9th 1:39am UTC",
-      "desc": "The Carolina Panthers' defense allowed 26 points and 312 total yards while recording one sack and one interception in the team's 26-21 loss to the Denver Broncos in Week 9.",
-      "id": 618638,
-      "impact": "Carolina intercepted Bo Nix and held Denver to 82 rushing yards. That's the good. The bad? The Panthers allowed 13 unanswered points in the fourth quarter, including touchdowns from Jonah Coleman and Pat Bryant. Carolina also recorded just one sack. The Panthers D/ST will look to rebound against the Saints in Week 10.",
-      "link": "https://www.fantasypros.com/nfl/news/618638/panthers-dst-records-interception-week-9.php",
-      "player_id": 8040,
+      "created": "2026-11-09 21:52:48",
+      "created_formated": "Mon, Nov 9th 9:52pm UTC",
+      "desc": "The Jaguars are trading a 2027 first-round pick and a 2029 second-round pick to the Eagles for defensive tackle Jordan Davis.",
+      "id": 618913,
+      "impact": "This is the Jaguars' third trade for a defensive player on Monday alone. Davis just signed a three-year extension with the Eagles this past offseason. He'll look to help the Jaguars make a push this season. ",
+      "link": "https://www.fantasypros.com/nfl/news/618913/jordan-davis-traded-to-jaguars.php",
+      "player_id": 22761,
       "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Panthers D/ST records interception in Week 9"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 01:38:22",
-      "created_formated": "Mon, Nov 9th 1:38am UTC",
-      "desc": "Trey Smack converted all four of his extra point attempts as well as each of his three field goal attempts to finish with 13 points in the Packers' 45-27 win over the New England Patriots in Week 9.",
-      "id": 618637,
-      "impact": "Smack has provided mixed results of late, logging double-digit points in two of his last four contests. The kicker will look for another impactful performance against the Minnesota Vikings in Week 10.",
-      "link": "https://www.fantasypros.com/nfl/news/618637/trey-smack-perfect-week-9.php",
-      "player_id": 28507,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Trey Smack perfect in Week 9"
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 01:38:20",
-      "created_formated": "Mon, Nov 9th 1:38am UTC",
-      "desc": "Ryan Fitzgerald missed his lone field-goal attempt but converted all three extra-point attempts in the Panthers' 26-21 loss to the Broncos in Week 9.",
-      "id": 618636,
-      "impact": "Fitzgerald finished with just three points as Carolina scored three touchdowns but failed to convert its only field-goal opportunity. The Panthers have now fallen to 3-5 and will face the Saints in Week 10. Fitzgerald's limited scoring opportunities make him difficult to trust in fantasy lineups.",
-      "link": "https://www.fantasypros.com/nfl/news/618636/ryan-fitzgerald-misses-field-goal-week-9.php",
-      "player_id": 27261,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Ryan Fitzgerald misses field goal in Week 9"
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 01:36:27",
-      "created_formated": "Mon, Nov 9th 1:36am UTC",
-      "desc": "Jalen Coker caught four of five targets for 29 yards while losing three yards on his lone rushing attempt in the Panthers' 26-21 loss to the Broncos in Week 9.",
-      "id": 618635,
-      "impact": "Coker caught four passes, but averaged just 7.3 yards per reception. Meanwhile, Darren Waller and Tetairoa McMillan combined for 146 receiving yards and two touchdowns. Coker continues to receive opportunities, but his production isn't enough to warrant a fantasy start in shallow leagues.",
-      "link": "https://www.fantasypros.com/nfl/news/618635/jalen-coker-records-29-receiving-yards-week-9.php",
-      "player_id": 26403,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Jalen Coker records 29 receiving yards in Week 9"
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 01:34:40",
-      "created_formated": "Mon, Nov 9th 1:34am UTC",
-      "desc": "Tommy Tremble caught four of six targets for 24 yards and one touchdown in the Panthers' 26-21 loss to the Broncos in Week 9.",
-      "id": 618634,
-      "impact": "Tremble scored from 10 yards out in the second quarter for Carolina's first touchdown. However, Darren Waller had eight receptions for 90 yards and a touchdown on 10 targets. Tremble's touchdown was useful for no one as Waller remains the Panthers tight end to roster.",
-      "link": "https://www.fantasypros.com/nfl/news/618634/tommy-tremble-catches-touchdown-week-9.php",
-      "player_id": 22795,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Tommy Tremble catches touchdown in Week 9"
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 01:34:01",
-      "created_formated": "Mon, Nov 9th 1:34am UTC",
-      "desc": "Tetairoa McMillan caught four of six targets for 56 yards and one touchdown in the Panthers' 26-21 loss to the Broncos in Week 9.",
-      "id": 618633,
-      "impact": "McMillan caught a four-yard touchdown with just over three minutes remaining to pull Carolina within five points. He finished second on the Panthers in receiving yards behind Darren Waller, who saw 10 targets compared to McMillan's six. The touchdown helped, but Waller commanded more opportunities against Denver. McMillan remains a starting option in fantasy leagues heading into Week 10.",
-      "link": "https://www.fantasypros.com/nfl/news/618633/tetairoa-mcmillan-scores-touchdown-week-9.php",
-      "player_id": 25417,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Tetairoa McMillan scores touchdown in Week 9"
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 01:33:04",
-      "created_formated": "Mon, Nov 9th 1:33am UTC",
-      "desc": "Darren Waller caught eight of 10 targets for 90 yards and one touchdown in the Panthers' 26-21 loss to the Broncos in Week 9.",
-      "id": 618630,
-      "impact": "Waller scored from 15 yards out in the third quarter to give Carolina a 14-13 lead. He also led the Panthers in receptions, targets, and receiving yards. That's a significant improvement from his one-catch, 11-yard performance in Week 8. Waller was Bryce Young's primary receiving option Sunday and has the production to warrant consideration as a fantasy starter against the Saints in Week 10.",
-      "link": "https://www.fantasypros.com/nfl/news/618630/darren-waller-totals-90-yards-touchdown-week-9.php",
-      "player_id": 14104,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Darren Waller totals 90 yards and touchdown in Week 9"
+      "team_id": "PHI",
+      "title": "Jordan Davis traded to Jaguars "
     },
     {
       "author": "Ari Koslow",
@@ -153,52 +45,71 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-09 01:33:07",
-      "created_formated": "Mon, Nov 9th 1:33am UTC",
-      "desc": "Packers head coach Matt LaFleur said Josh Jacobs suffered a broken finger in Sunday's game against the Patriots. ",
-      "id": 618631,
-      "impact": "LaFleur added that the hope is that Jacobs can play with the injury, but the team is evaluating him further. His status will need to be further evaluated this upcoming week. ",
-      "link": "https://www.fantasypros.com/nfl/news/618631/josh-jacobs-suffers-broken-finger-sunday-status-uncertain.php",
+      "created": "2026-11-09 21:45:09",
+      "created_formated": "Mon, Nov 9th 9:45pm UTC",
+      "desc": "The Cardinals placed Hjalte Froholdt in concussion protocol. ",
+      "id": 618912,
+      "impact": "The status of Froholdt is up in the air heading into Week 10 against the Rams. ",
+      "link": "https://www.fantasypros.com/nfl/news/618912/hjalte-froholdt-placed-concussion-protocol.php",
+      "player_id": 18309,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Hjalte Froholdt placed in concussion protocol "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-09 21:44:06",
+      "created_formated": "Mon, Nov 9th 9:44pm UTC",
+      "desc": "The Cardinals are doing tests on QB Gardner Minshew on his right elbow/arm. ",
+      "id": 618911,
+      "impact": "Minshew took a blow to his elbow/arm at the end of the first half. There should be an update on his status in the upcoming days. ",
+      "link": "https://www.fantasypros.com/nfl/news/618911/gardner-minshew-ii-elbowarm-undergoing-tests.php",
+      "player_id": 18562,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Gardner Minshew II (elbow/arm) undergoing tests "
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-11-09 21:34:36",
+      "created_formated": "Mon, Nov 9th 9:34pm UTC",
+      "desc": "Michael Wilson (neck) is out for the season with a neck injury. He apparently suffered a fracture in his neck on the fourth play of the game. ",
+      "id": 618910,
+      "impact": "This injury was a surprise to everyone, as Wilson played throughout the Cardinals loss to the Seahawks. With Wilson out for the season, Trey McBride is basically the last man standing. The Cardinals will need to bring in some names to bolster their reciever room, as there is no one left of note after the Wilson and Bourne injuries and the Marvin Harrison trade. Reggie Virgil and Similar Fehoko at WR give off preseason-starter vibes.",
+      "link": "https://www.fantasypros.com/nfl/news/618910/michael-wilson-neck-out-season-with-neck-injury.php",
+      "player_id": 25333,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Michael Wilson (neck) out for the season with neck injury"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-09 20:09:46",
+      "created_formated": "Mon, Nov 9th 8:09pm UTC",
+      "desc": "Josh Jacobs (finger) will undergo surgery this week according to Matt Zenitz.",
+      "id": 618906,
+      "impact": "Jacobs could miss a maximum of three weeks after suffering the injury in Sunday's win over the Patriots according to Zenitz. Kaleb Johnson and Pierre Strong Jr. are in line for increased touches out of the Green Bay backfield unless another running back is added ahead of a Week 10 divisional matchup against the Minnesota Vikings.",
+      "link": "https://www.fantasypros.com/nfl/news/618906/josh-jacobs-finger-to-undergo-surgery.php",
       "player_id": 18269,
       "sport_id": "NFL",
       "team_id": "GB",
-      "title": "Josh Jacobs suffers broken finger Sunday, status uncertain "
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 01:32:11",
-      "created_formated": "Mon, Nov 9th 1:32am UTC",
-      "desc": "Chuba Hubbard rushed 16 times for 79 yards while catching four of five targets for 17 yards in the Panthers' 26-21 loss to the Broncos in Week 9.",
-      "id": 618629,
-      "impact": "Hubbard averaged 4.9 yards per carry and accounted for 16 of Carolina's 20 rushing attempts. More importantly, he handled 20 touches while the Panthers' other running backs combined for just two carries. The workload is there, even if the touchdowns weren't. Hubbard remains Carolina's primary running back heading into Week 10 against New Orleans.",
-      "link": "https://www.fantasypros.com/nfl/news/618629/chuba-hubbard-rushes-79-yards-week-9.php",
-      "player_id": 19792,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Chuba Hubbard rushes for 79 yards in Week 9"
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 01:31:08",
-      "created_formated": "Mon, Nov 9th 1:31am UTC",
-      "desc": "Bryce Young completed 28 of 39 passes for 276 yards, three touchdowns, and one interception while rushing once for 13 yards in the Panthers' 26-21 loss to the Broncos in Week 9.",
-      "id": 618628,
-      "impact": "Young threw touchdowns to Tommy Tremble, Darren Waller, and Tetairoa McMillan against Denver's defense. The problem? He also threw an interception in the end zone and lost a fumble on Carolina's final possession. Young produced three passing touchdowns against a difficult matchup, but the turnovers proved costly. He gets the Saints in Week 10.",
-      "link": "https://www.fantasypros.com/nfl/news/618628/bryce-young-throws-three-touchdowns-week-9.php",
-      "player_id": 22900,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Bryce Young throws three touchdowns in Week 9"
+      "title": "Josh Jacobs (finger) to undergo surgery"
     },
     {
       "author": "Ari Koslow",
@@ -207,250 +118,338 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-09 01:30:44",
-      "created_formated": "Mon, Nov 9th 1:30am UTC",
-      "desc": "Seahawks head coach Mike Macdonald said Drew Lock suffered an oblique injury and it's up in the air if he'll be available next week.",
-      "id": 618627,
-      "impact": "Lock was pretty clearly hampered to end the game on Sunday against the Cardinals. Pending the status of Sam Darnold, it could be Jalen Milroe getting his first career start in Week 10 against the Raiders. ",
-      "link": "https://www.fantasypros.com/nfl/news/618627/drew-lock-oblique-uncertain-week-10.php",
+      "created": "2026-11-09 19:36:53",
+      "created_formated": "Mon, Nov 9th 7:36pm UTC",
+      "desc": "Commanders head coach Dan Quinn said he is \"optimistic\" that Amik Robertson will play on Thursday against the Giants.",
+      "id": 618897,
+      "impact": "Robertson is dealing with an ankle injury. He will need to be monitored in practice on Tuesday and Wednesday on a short week. ",
+      "link": "https://www.fantasypros.com/nfl/news/618897/amik-robertson-ankle-optimistic-to-be-available-thursdays-game.php",
+      "player_id": 19364,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Amik Robertson (ankle) 'optimistic' to be available for Thursday's game"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-09 19:35:24",
+      "created_formated": "Mon, Nov 9th 7:35pm UTC",
+      "desc": "Commanders head coach Dan Quinn said he is \"optimistic\" that Treylon Burks will play on Thursday against the Giants.",
+      "id": 618896,
+      "impact": "Burks sat out in Sunday's loss to the Rams due to a foot injury after not practicing all week. He will need be monitored in practice on Tuesday and Wednesday on a short week. ",
+      "link": "https://www.fantasypros.com/nfl/news/618896/treylon-burks-foot-optimistic-to-be-ready-thursdays-game.php",
+      "player_id": 22905,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Treylon Burks (foot) 'optimistic' to be ready for Thursday's game"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-09 19:33:05",
+      "created_formated": "Mon, Nov 9th 7:33pm UTC",
+      "desc": "Cowboys executive vice president Stephen Jones said RB Tyler Goodson is expected to miss some time.",
+      "id": 618895,
+      "impact": "Goodson saw 12 carries in Sunday's win over the Colts after emerging as the RB2 for Dallas. He is week-to-week for now. ",
+      "link": "https://www.fantasypros.com/nfl/news/618895/tyler-goodson-knee-expected-to-miss-some-time.php",
+      "player_id": 22976,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Tyler Goodson (knee) expected to miss some time"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-09 18:58:37",
+      "created_formated": "Mon, Nov 9th 6:58pm UTC",
+      "desc": "The Jets are trading S Andre Cisco to the Detroit Lions for a 2028 6th-round pick.",
+      "id": 618891,
+      "impact": "Cisco has started four of the nine games he has appeared in for the Jets this season. He will add experience and depth in the secondary for Detroit. ",
+      "link": "https://www.fantasypros.com/nfl/news/618891/andre-cisco-traded-to-lions.php",
+      "player_id": 22715,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Andre Cisco traded to Lions"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-09 18:55:49",
+      "created_formated": "Mon, Nov 9th 6:55pm UTC",
+      "desc": "Jaylon Moore is considered day-to-day. ",
+      "id": 618890,
+      "impact": "Moore suffered an ankle injury in Sunday's win over the Jets. His status will need to be monitored in practice throughout the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/618890/jaylon-moore-ankle-considered-day-to-day.php",
+      "player_id": 22827,
+      "sport_id": "NFL",
+      "team_id": "KC",
+      "title": "Jaylon Moore (ankle) considered day-to-day"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-09 18:54:45",
+      "created_formated": "Mon, Nov 9th 6:54pm UTC",
+      "desc": "Chiefs coach Andy Reid said Xavier Worthy is day-to-day.",
+      "id": 618889,
+      "impact": "Worthy suffered a hamstring injury in Sunday's win over the Jets. His status will need to be monitored in practice throughout the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/618889/xavier-worthy-hamstring-considered-day-to-day.php",
+      "player_id": 23019,
+      "sport_id": "NFL",
+      "team_id": "KC",
+      "title": "Xavier Worthy (hamstring) considered day-to-day"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-09 18:53:21",
+      "created_formated": "Mon, Nov 9th 6:53pm UTC",
+      "desc": "Chiefs head coach Andy Reid said Patrick Mahomes II is day-to-day.",
+      "id": 618888,
+      "impact": "Reid said the news \"was more positive than negative\" on Mahomes and his elbow injury. He will need to be monitored in practice throughout the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/618888/patrick-mahomes-ii-elbow-considered-day-to-day.php",
+      "player_id": 16413,
+      "sport_id": "NFL",
+      "team_id": "KC",
+      "title": "Patrick Mahomes II (elbow) considered day-to-day"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-09 18:50:29",
+      "created_formated": "Mon, Nov 9th 6:50pm UTC",
+      "desc": "Giants QB JJ McCarthy suffered a hip pointer during Sunday's win in Philadelphia, but he is expected to be ready for Thursday's game against the Commanders.",
+      "id": 618887,
+      "impact": "McCarthy left Sunday's game with the injury before he later returned to the field. It is a short week for the Giants, but he is still expected to be ready to go for another divisional matchup. ",
+      "link": "https://www.fantasypros.com/nfl/news/618887/jj-mccarthy-hip-expected-to-be-ready-thursdays-game.php",
+      "player_id": 23018,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "J.J. McCarthy (hip) expected to be ready for Thursday's game"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-09 18:45:27",
+      "created_formated": "Mon, Nov 9th 6:45pm UTC",
+      "desc": "The Saints traded DT Davon Godchaux to the Jaguars. ",
+      "id": 618884,
+      "impact": "Jacksonville makes its second trade of the trade to address the defense. Godchaux will add depth on the defensive line for Jacksonville. ",
+      "link": "https://www.fantasypros.com/nfl/news/618884/davon-godchaux-traded-to-jaguars.php",
+      "player_id": 16513,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Davon Godchaux traded to Jaguars"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-09 17:55:29",
+      "created_formated": "Mon, Nov 9th 5:55pm UTC",
+      "desc": "Sam Darnold (quad) has been ruled out for the Seahawks Week 10 game against the Raiders.",
+      "id": 618880,
+      "impact": "Head coach Mike McDonald told the press that Darnold was already been ruled out for Week 10 against Vegas on Monday, which makes sense with the Seahawks on bye during Week 11. He will look to make his return against the Niners in Week 12.",
+      "link": "https://www.fantasypros.com/nfl/news/618880/sam-darnold-quad-ruled-out-week-10-against-raiders.php",
+      "player_id": 17236,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Sam Darnold (quad) ruled out for Week 10 against Raiders"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-09 17:51:45",
+      "created_formated": "Mon, Nov 9th 5:51pm UTC",
+      "desc": "Drew Lock (oblique) has suffered a minor oblique injury but is still expected to start against the Raiders in Week 10.",
+      "id": 618876,
+      "impact": "Lock suffered the injury later on in the Seahawks win over the Cardinals, and with Darnold already ruled out, if Lock cannot go, responsibility would fall on Jalen Milroe to keep the offense going.",
+      "link": "https://www.fantasypros.com/nfl/news/618876/drew-lock-oblique-has-minor-oblique-injury-expected-to-play-vs-vegas.php",
       "player_id": 18225,
       "sport_id": "NFL",
       "team_id": "SEA",
-      "title": "Drew Lock (oblique) uncertain for Week 10"
+      "title": "Drew Lock (oblique) has minor oblique injury, expected to play vs Vegas"
     },
     {
-      "author": "Joshua Kellem",
+      "author": "Emily Maingi",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-11-09 01:29:41",
-      "created_formated": "Mon, Nov 9th 1:29am UTC",
-      "desc": "The Broncos' defense allowed 21 points and 353 total yards while recording three sacks, an interception, and a fumble recovery in Denver's 26-21 win over the Panthers in Week 9.",
-      "id": 618625,
-      "impact": "Nik Bonitto stripped Bryce Young and recovered the fumble with 1:24 remaining to secure Denver's fifth straight win. The Broncos also intercepted Young in the end zone during the third quarter. Denver allowed three passing touchdowns, but the three sacks and two takeaways helped offset the points allowed. The Broncos remain a strong fantasy defense, although they are entering their Week 10 bye.",
-      "link": "https://www.fantasypros.com/nfl/news/618625/broncos-dst-forces-two-turnovers-week-9.php",
-      "player_id": 8090,
+      "created": "2026-11-09 17:38:59",
+      "created_formated": "Mon, Nov 9th 5:38pm UTC",
+      "desc": "Brandon McManus made two field goals and two extra points in Sunday's game against the Commanders.",
+      "id": 618873,
+      "impact": "McManus has been perfect in the three games he's played for the Rams. He will look to continue that streak against the Cardinals in Week 10.",
+      "link": "https://www.fantasypros.com/nfl/news/618873/brandon-mcmanus-hits-all-four-kicks-win.php",
+      "player_id": 13274,
       "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Broncos D/ST forces two turnovers in Week 9"
+      "team_id": "LAR",
+      "title": "Brandon McManus hits all four kicks in win"
     },
     {
-      "author": "Joshua Kellem",
+      "author": "Emily Maingi",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-11-09 01:28:35",
-      "created_formated": "Mon, Nov 9th 1:28am UTC",
-      "desc": "Wil Lutz converted field goals from 26 and 48 yards in the Broncos' 26-21 win over the Panthers in Week 9.",
-      "id": 618624,
-      "impact": "Lutz has now made seven field goals over Denver's last three games. The Broncos scored 26 points Sunday, giving Lutz another productive afternoon. Denver enters its Week 10 bye before hosting the Raiders in Week 11.",
-      "link": "https://www.fantasypros.com/nfl/news/618624/wil-lutz-makes-two-field-goals-week-9.php",
-      "player_id": 16026,
+      "created": "2026-11-09 17:36:03",
+      "created_formated": "Mon, Nov 9th 5:36pm UTC",
+      "desc": "Drew Stevens went 3/3 on his kicks on Sunday, hitting both field goal tries and one extra point in the loss.",
+      "id": 618872,
+      "impact": "Stevens had a solid, if not spectacular outing on Sunday. He will look to carry his momentum into Thursday night's matchup against the Giants.",
+      "link": "https://www.fantasypros.com/nfl/news/618872/drew-stevens-hits-two-field-goals-loss.php",
+      "player_id": 28175,
       "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Wil Lutz makes two field goals in Week 9"
+      "team_id": "WAS",
+      "title": "Drew Stevens hits two field goals in loss"
     },
     {
-      "author": "Joshua Kellem",
+      "author": "Emily Maingi",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-11-09 01:27:51",
-      "created_formated": "Mon, Nov 9th 1:27am UTC",
-      "desc": "Marvin Mims Jr. caught one of two targets for zero yards in the Broncos' 26-21 win over the Panthers in Week 9.",
-      "id": 618623,
-      "impact": "Mims followed his 10-yard receiving performance in Week 8 with zero receiving yards Sunday. He has just five catches over his last three games, and Denver continues to spread targets among several receivers. The former second-round pick doesn't have enough receiving volume to justify a fantasy roster spot in most leagues.",
-      "link": "https://www.fantasypros.com/nfl/news/618623/marvin-mims-jr-held-without-receiving-yards-week-9.php",
-      "player_id": 23080,
+      "created": "2026-11-09 17:23:45",
+      "created_formated": "Mon, Nov 9th 5:23pm UTC",
+      "desc": "The Washington Commanders D/ST allowed 20 points in Sunday's loss to the Rams. The unit also recorded one interception and one sack. ",
+      "id": 618870,
+      "impact": "The Commanders defense has been volatile and unreliable in the 2026 campaign. However, they look to be a viable streamer for Week 10's rematch with the Giants on Thursday Night Football. ",
+      "link": "https://www.fantasypros.com/nfl/news/618870/washington-commanders-dst-give-up-20-points-loss.php",
+      "player_id": 8310,
       "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Marvin Mims Jr. held without receiving yards in Week 9"
+      "team_id": "WAS",
+      "title": "Washington Commanders D/ST give up 20 points in loss"
     },
     {
-      "author": "Joshua Kellem",
+      "author": "Emily Maingi",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-11-09 01:26:51",
-      "created_formated": "Mon, Nov 9th 1:26am UTC",
-      "desc": "Troy Franklin caught three of four targets for 31 yards in the Broncos' 26-21 win over the Panthers in Week 9.",
-      "id": 618622,
-      "impact": "Franklin finished behind Courtland Sutton and Pat Bryant in receiving yards while seeing fewer targets than both players. Denver has continued spreading opportunities among its receivers, limiting Franklin's fantasy production. He remains a depth option rather than a reliable weekly starter.",
-      "link": "https://www.fantasypros.com/nfl/news/618622/troy-franklin-records-31-receiving-yards-week-9.php",
-      "player_id": 23092,
+      "created": "2026-11-09 17:20:00",
+      "created_formated": "Mon, Nov 9th 5:20pm UTC",
+      "desc": "Colson Yankoff had one reception for 6 yards in Sunday's loss to the Rams. ",
+      "id": 618868,
+      "impact": "The second-year pro is now up to three receptions for 22 yards on the year. Yankoff is still buried on the depth chart, so he won't be fantasy-relevant moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/618868/colson-yankoff-has-one-catch-loss.php",
+      "player_id": 26576,
       "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Troy Franklin records 31 receiving yards in Week 9"
+      "team_id": "WAS",
+      "title": "Colson Yankoff has one catch in loss"
     },
     {
-      "author": "Joshua Kellem",
+      "author": "Emily Maingi",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-11-09 01:26:08",
-      "created_formated": "Mon, Nov 9th 1:26am UTC",
-      "desc": "Evan Engram caught four of five targets for 33 yards in the Broncos' 26-21 win over the Panthers in Week 9.",
-      "id": 618621,
-      "impact": "Engram entered Sunday with two receiving yards over his previous two games combined. So, four catches for 33 yards represent an improvement. That said, Engram still hasn't established himself as a consistent part of Denver's passing attack. He remains difficult to start in fantasy leagues outside of deeper formats.",
-      "link": "https://www.fantasypros.com/nfl/news/618621/evan-engram-records-33-receiving-yards-week-9.php",
-      "player_id": 16411,
+      "created": "2026-11-09 17:17:15",
+      "created_formated": "Mon, Nov 9th 5:17pm UTC",
+      "desc": "Luke McCaffrey had one reception for 6 yards in Sunday's loss to the Rams. ",
+      "id": 618866,
+      "impact": "McCaffrey had minimal involvement in the Commanders' offense despite the season-ending injury of fellow wide receiver Terry McLaurin. McCaffrey has not been a featured player in their passing game and will not be fantasy-relevant moving forward.\r\n",
+      "link": "https://www.fantasypros.com/nfl/news/618866/luke-mccaffrey-has-one-catch-loss.php",
+      "player_id": 26328,
       "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Evan Engram records 33 receiving yards in Week 9"
+      "team_id": "WAS",
+      "title": "Luke McCaffrey has one catch in loss"
     },
     {
-      "author": "Joshua Kellem",
+      "author": "Emily Maingi",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-11-09 01:23:26",
-      "created_formated": "Mon, Nov 9th 1:23am UTC",
-      "desc": "Jaylen Waddle caught his only target for 22 yards before exiting the Broncos' 26-21 win over the Panthers in Week 9 with a concussion.",
-      "id": 618619,
-      "impact": "Waddle suffered the injury on a hit from Panthers safety Zakee Wheatley while attempting to make a reception downfield. He was subsequently ruled out for the remainder of the game. Meanwhile, Courtland Sutton saw nine targets, while Pat Bryant caught four passes for 56 yards and a touchdown. Denver enters its Week 10 bye, giving Waddle additional time to clear the concussion protocol before facing the Raiders in Week 11. His availability remains uncertain.",
-      "link": "https://www.fantasypros.com/nfl/news/618619/jaylen-waddle-suffers-concussion-week-9.php",
-      "player_id": 19790,
+      "created": "2026-11-09 17:14:56",
+      "created_formated": "Mon, Nov 9th 5:14pm UTC",
+      "desc": "Jaden Bradley had one catch for 12 yards in Sunday's loss against the Rams. \r\n",
+      "id": 618864,
+      "impact": "Bradley was elevated from the practice squad prior to Sunday's game and was able to secure his first NFL catch. Despite losing the Commanders losing Terry McLaurin to a season-ending injury, Bradley will not be fantasy-relevant.",
+      "link": "https://www.fantasypros.com/nfl/news/618864/jaden-bradley-has-first-career-catch-loss.php",
+      "player_id": 28640,
       "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Jaylen Waddle suffers concussion in Week 9"
+      "team_id": "WAS",
+      "title": "Jaden Bradley has first career catch in loss"
     },
     {
-      "author": "Joshua Kellem",
+      "author": "Emily Maingi",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-11-09 01:22:04",
-      "created_formated": "Mon, Nov 9th 1:22am UTC",
-      "desc": "Pat Bryant caught four of five targets for 56 yards and one touchdown in the Broncos' 26-21 win over the Panthers in Week 9.",
-      "id": 618617,
-      "impact": "Bryant caught a 26-yard touchdown from Bo Nix in the fourth quarter, extending Denver's lead to 26-14. He also led the Broncos in receiving yards. Bryant's five targets matched Evan Engram for second on the team behind Courtland Sutton. With Jaylen Waddle seeing just one target, Bryant's involvement is worth monitoring heading into Denver's Week 10 bye.",
-      "link": "https://www.fantasypros.com/nfl/news/618617/pat-bryant-scores-touchdown-week-9.php",
-      "player_id": 27211,
+      "created": "2026-11-09 17:11:52",
+      "created_formated": "Mon, Nov 9th 5:11pm UTC",
+      "desc": "Antonio Williams had three catches for 25 yards in Sunday's loss to the Rams.\r\n",
+      "id": 618863,
+      "impact": "Williams has now put together his fifth straight game with at least three receptions. Williams has shown promising flashes of talent, and still has the chance to become the de-facto number one receiver in the Commanders' offense. He faces the Giants on Thursday Night Football where he will be in WR3/Flex range with high upside.",
+      "link": "https://www.fantasypros.com/nfl/news/618863/antonio-williams-has-three-catches-loss.php",
+      "player_id": 25418,
       "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Pat Bryant scores touchdown in Week 9"
+      "team_id": "WAS",
+      "title": "Antonio Williams has three catches in loss"
     },
     {
-      "author": "Joshua Kellem",
+      "author": "Emily Maingi",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-11-09 01:20:18",
-      "created_formated": "Mon, Nov 9th 1:20am UTC",
-      "desc": "Courtland Sutton caught five of nine targets for 45 yards and one touchdown in the Broncos' 26-21 win over the Panthers in Week 9.",
-      "id": 618616,
-      "impact": "Sutton scored from three yards out in the first quarter for his first touchdown since Week 1. He also led Denver with nine targets, nearly doubling his four targets from Week 8. That's the good. The bad? Sutton still hasn't surpassed 60 receiving yards in a game this season. The touchdown helps, but one productive fantasy performance doesn't erase eight weeks of limited production.",
-      "link": "https://www.fantasypros.com/nfl/news/618616/courtland-sutton-catches-touchdown-week-9.php",
-      "player_id": 17253,
+      "created": "2026-11-09 17:08:10",
+      "created_formated": "Mon, Nov 9th 5:08pm UTC",
+      "desc": "Stefon Diggs had three catches for 51 yards in Sunday's loss to the Rams.",
+      "id": 618861,
+      "impact": "Diggs' 51 yards is his second-highest yardage total of the season. Despite Terry McLaurin's season-ending injury, Diggs' role has remained the same. He will fall in the WR3 range for Thursday's game against the Giants. ",
+      "link": "https://www.fantasypros.com/nfl/news/618861/stefon-diggs-has-51-yards-loss.php",
+      "player_id": 13981,
       "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Courtland Sutton catches touchdown in Week 9"
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 01:19:09",
-      "created_formated": "Mon, Nov 9th 1:19am UTC",
-      "desc": "J.K. Dobbins finished with one reception for four yards as the Broncos defeated the Panthers 26-21 in Week 9.",
-      "id": 618614,
-      "impact": "Dobbins has lost considerable ground to Jonah Coleman over the last three games. The latter had 21 touches for 88 yards and a touchdown Sunday. Dobbins, meanwhile, hasn't scored since Week 7. The Broncos have shifted their backfield toward Coleman, leaving Dobbins difficult to trust as a fantasy starter.",
-      "link": "https://www.fantasypros.com/nfl/news/618614/jk-dobbins-struggles-again-week-9.php",
-      "player_id": 19245,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "J.K. Dobbins struggles again in Week 9"
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 01:18:29",
-      "created_formated": "Mon, Nov 9th 1:18am UTC",
-      "desc": "Jonah Coleman rushed 17 times for 57 yards and one touchdown while catching four passes for 31 yards in the Broncos' 26-21 win over the Panthers in Week 9.",
-      "id": 618613,
-      "impact": "Coleman scored from nine yards out in the fourth quarter to give Denver a 19-14 lead. More importantly, he has now led the Broncos in rushing in three straight games since returning from injured reserve. Coleman also caught four passes for the second consecutive week. So, what happened to J.K. Dobbins' role? Coleman has taken over a significant portion of the backfield, including scoring opportunities. The rookie has established himself as Denver's most productive fantasy running back.",
-      "link": "https://www.fantasypros.com/nfl/news/618613/jonah-coleman-scores-touchdown-week-9.php",
-      "player_id": 27320,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Jonah Coleman scores touchdown in Week 9"
-    },
-    {
-      "author": "Joshua Kellem",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 01:17:19",
-      "created_formated": "Mon, Nov 9th 1:17am UTC",
-      "desc": "Bo Nix completed 25 of 37 passes for 237 yards, two touchdowns, and one interception in the Broncos' 26-21 win over the Panthers in Week 9.",
-      "id": 618612,
-      "impact": "Nix threw touchdowns to Courtland Sutton and Pat Bryant, including a 26-yard score to the latter in the fourth quarter. The Broncos quarterback has now thrown six touchdowns over his last three games. That said, Nix has been less productive on the ground since his 74-yard rushing performance in Week 7. Denver gets a Week 10 bye before facing the Raiders in Week 11.",
-      "link": "https://www.fantasypros.com/nfl/news/618612/bo-nix-throws-two-touchdowns-again-week-9.php",
-      "player_id": 22910,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Bo Nix throws two touchdowns again in Week 9"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 00:18:59",
-      "created_formated": "Mon, Nov 9th 12:18am UTC",
-      "desc": "Jahmyr Gibbs carried the ball 20 times for 74 yards and one touchdown while failing to catch his lone target in the Lions' 19-9 Week 9 win over the Dolphins.",
-      "id": 618600,
-      "impact": "Gibbs has been dynamic out of the backfield of late, rushing for one or more touchdowns in five of his last six games. The running back remains an explosive RB1 option in all formats ahead of a Week 10 matchup against the New England Patriots.",
-      "link": "https://www.fantasypros.com/nfl/news/618600/jahmyr-gibbs-reaches-end-zone-week-9-win-over-dolphins.php",
-      "player_id": 22968,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Jahmyr Gibbs reaches end zone in Week 9 win over Dolphins"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 00:16:14",
-      "created_formated": "Mon, Nov 9th 12:16am UTC",
-      "desc": "Jared Goff completed 17-of-25 pass attempts for 170 yards and one interception in the Lions' 19-9 Week 9 win over the Dolphins.",
-      "id": 618599,
-      "impact": "Goff is in the middle of an uncomfortable stretch behind center, passing for less than 180 yards in each of the last two games. The quarterback will look to return to his impactful form against the New England Patriots in Week 10.",
-      "link": "https://www.fantasypros.com/nfl/news/618599/jared-goff-bottled-up-week-9-win.php",
-      "player_id": 15501,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Jared Goff bottled up in Week 9 win "
+      "team_id": "WAS",
+      "title": "Stefon Diggs has 51 yards in loss"
     }
   ],
   "public_api": true,

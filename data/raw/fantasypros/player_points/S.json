@@ -359,12 +359,12 @@
       }
     },
     {
-      "average": 8.5,
+      "average": 9.5,
       "filename": "tykee-smith.php",
-      "games": 8,
+      "games": 9,
       "player_id": 23751,
       "player_name": "Tykee Smith",
-      "points": 68.25,
+      "points": 85.5,
       "position_id": "S",
       "team_id": "TB",
       "weeks": {
@@ -375,7 +375,8 @@
         "5": 5.3,
         "6": 9.8,
         "7": 12.5,
-        "8": 2.3
+        "8": 2.3,
+        "9": 17.3
       }
     },
     {
@@ -424,7 +425,7 @@
       "player_name": "Andre Cisco",
       "points": 37.75,
       "position_id": "S",
-      "team_id": "NYJ",
+      "team_id": "DET",
       "weeks": {
         "1": 7.5,
         "2": 14.8,
@@ -458,12 +459,12 @@
       }
     },
     {
-      "average": 8.5,
+      "average": 8,
       "filename": "antoine-winfield-s.php",
-      "games": 5,
+      "games": 6,
       "player_id": 19266,
       "player_name": "Antoine Winfield Jr.",
-      "points": 42.25,
+      "points": 48.25,
       "position_id": "S",
       "team_id": "TB",
       "weeks": {
@@ -471,7 +472,8 @@
         "2": 4.5,
         "3": 4.5,
         "4": 12.3,
-        "8": 9
+        "8": 9,
+        "9": 6
       }
     },
     {
@@ -734,7 +736,7 @@
     {
       "average": 0,
       "filename": "miles-killebrew.php",
-      "games": 8,
+      "games": 9,
       "player_id": 15588,
       "player_name": "Miles Killebrew",
       "points": 0,
@@ -748,7 +750,8 @@
         "5": 0,
         "6": 0,
         "7": 0,
-        "8": 0
+        "8": 0,
+        "9": 0
       }
     },
     {
@@ -1370,7 +1373,7 @@
       "player_name": "Jessie Bates III",
       "points": 104.25,
       "position_id": "S",
-      "team_id": "ATL",
+      "team_id": "JAC",
       "weeks": {
         "1": 6.8,
         "2": 8.3,
@@ -2183,12 +2186,12 @@
       }
     },
     {
-      "average": 9.7,
+      "average": 9.3,
       "filename": "dillon-thieneman.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27967,
       "player_name": "Dillon Thieneman",
-      "points": 77.5,
+      "points": 83.5,
       "position_id": "S",
       "team_id": "CHI",
       "weeks": {
@@ -2199,7 +2202,8 @@
         "5": 13,
         "6": 11,
         "7": 8.8,
-        "8": 4.5
+        "8": 4.5,
+        "9": 6
       }
     },
     {

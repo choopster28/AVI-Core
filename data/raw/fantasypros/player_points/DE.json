@@ -83,10 +83,10 @@
     {
       "average": 3.3,
       "filename": "al-quadin-muhammad.php",
-      "games": 8,
+      "games": 9,
       "player_id": 16715,
       "player_name": "Al-Quadin Muhammad",
-      "points": 26,
+      "points": 30,
       "position_id": "DE",
       "team_id": "TB",
       "weeks": {
@@ -97,16 +97,17 @@
         "5": 0,
         "6": 9.5,
         "7": 12,
-        "8": 0
+        "8": 0,
+        "9": 4
       }
     },
     {
-      "average": 2.6,
+      "average": 3,
       "filename": "rueben-bain.php",
-      "games": 6,
+      "games": 7,
       "player_id": 28772,
       "player_name": "Rueben Bain Jr.",
-      "points": 15.5,
+      "points": 21,
       "position_id": "DE",
       "team_id": "TB",
       "weeks": {
@@ -115,7 +116,8 @@
         "5": 1.5,
         "6": 11.8,
         "7": 0.8,
-        "8": 0
+        "8": 0,
+        "9": 5.5
       }
     },
     {
@@ -1319,12 +1321,12 @@
       }
     },
     {
-      "average": 1.9,
+      "average": 2.1,
       "filename": "anthony-nelson.php",
-      "games": 8,
+      "games": 9,
       "player_id": 18644,
       "player_name": "Anthony Nelson",
-      "points": 15.5,
+      "points": 19,
       "position_id": "DE",
       "team_id": "TB",
       "weeks": {
@@ -1335,7 +1337,8 @@
         "5": 0,
         "6": 0,
         "7": 0.8,
-        "8": 1.5
+        "8": 1.5,
+        "9": 3.5
       }
     },
     {
@@ -1774,12 +1777,12 @@
       }
     },
     {
-      "average": 4.8,
+      "average": 5.7,
       "filename": "montez-sweat.php",
-      "games": 6,
+      "games": 7,
       "player_id": 18213,
       "player_name": "Montez Sweat",
-      "points": 28.5,
+      "points": 40,
       "position_id": "DE",
       "team_id": "CHI",
       "weeks": {
@@ -1788,7 +1791,8 @@
         "3": 8,
         "4": 0.8,
         "5": 0,
-        "8": 8.8
+        "8": 8.8,
+        "9": 11.5
       }
     },
     {

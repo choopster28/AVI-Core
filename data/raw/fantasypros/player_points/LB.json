@@ -937,7 +937,7 @@
     {
       "average": 0.2,
       "filename": "jack-sanborn.php",
-      "games": 8,
+      "games": 9,
       "player_id": 23841,
       "player_name": "Jack Sanborn",
       "points": 1.5,
@@ -951,7 +951,8 @@
         "5": 0,
         "6": 1.5,
         "7": 0,
-        "8": 0
+        "8": 0,
+        "9": 0
       }
     },
     {
@@ -1089,12 +1090,12 @@
       }
     },
     {
-      "average": 13.7,
+      "average": 13.2,
       "filename": "josiah-trotter.php",
-      "games": 7,
+      "games": 8,
       "player_id": 28077,
       "player_name": "Josiah Trotter",
-      "points": 96,
+      "points": 105.75,
       "position_id": "LB",
       "team_id": "TB",
       "weeks": {
@@ -1104,7 +1105,8 @@
         "5": 11.5,
         "6": 13.5,
         "7": 10.5,
-        "8": 5.3
+        "8": 5.3,
+        "9": 9.8
       }
     },
     {
@@ -1288,12 +1290,12 @@
       }
     },
     {
-      "average": 3.2,
+      "average": 3,
       "filename": "dmarco-jackson.php",
-      "games": 8,
+      "games": 9,
       "player_id": 23806,
       "player_name": "D'Marco Jackson",
-      "points": 25.25,
+      "points": 26.75,
       "position_id": "LB",
       "team_id": "CHI",
       "weeks": {
@@ -1304,7 +1306,8 @@
         "5": 4.5,
         "6": 1.5,
         "7": 13.3,
-        "8": 0
+        "8": 0,
+        "9": 1.5
       }
     },
     {
@@ -1864,10 +1867,10 @@
     {
       "average": 9.1,
       "filename": "alex-anzalone.php",
-      "games": 8,
+      "games": 9,
       "player_id": 16720,
       "player_name": "Alex Anzalone",
-      "points": 72.75,
+      "points": 82.25,
       "position_id": "LB",
       "team_id": "TB",
       "weeks": {
@@ -1878,7 +1881,8 @@
         "5": 11,
         "6": 3,
         "7": 7.5,
-        "8": 22.3
+        "8": 22.3,
+        "9": 9.5
       }
     },
     {
@@ -2357,12 +2361,12 @@
       }
     },
     {
-      "average": 1.8,
+      "average": 1.9,
       "filename": "daniel-hardy-lb.php",
-      "games": 8,
+      "games": 9,
       "player_id": 24580,
       "player_name": "Daniel Hardy",
-      "points": 14.5,
+      "points": 17.25,
       "position_id": "LB",
       "team_id": "CHI",
       "weeks": {
@@ -2373,16 +2377,17 @@
         "5": 0,
         "6": 9.5,
         "7": 3.5,
-        "8": 1.5
+        "8": 1.5,
+        "9": 2.8
       }
     },
     {
-      "average": 5.9,
+      "average": 5.7,
       "filename": "tj-edwards.php",
-      "games": 6,
+      "games": 7,
       "player_id": 18281,
       "player_name": "T.J. Edwards",
-      "points": 35.5,
+      "points": 40,
       "position_id": "LB",
       "team_id": "CHI",
       "weeks": {
@@ -2391,7 +2396,8 @@
         "3": 15.8,
         "4": 3.8,
         "5": 7.8,
-        "8": 3
+        "8": 3,
+        "9": 4.5
       }
     },
     {
@@ -2416,12 +2422,12 @@
       }
     },
     {
-      "average": 10.6,
+      "average": 11.1,
       "filename": "devin-bush.php",
-      "games": 8,
+      "games": 9,
       "player_id": 18237,
       "player_name": "Devin Bush Jr.",
-      "points": 85,
+      "points": 99.5,
       "position_id": "LB",
       "team_id": "CHI",
       "weeks": {
@@ -2432,7 +2438,8 @@
         "5": 13.3,
         "6": 12.3,
         "7": 6,
-        "8": 14.8
+        "8": 14.8,
+        "9": 14.5
       }
     },
     {
@@ -2967,7 +2974,7 @@
     {
       "average": 0.6,
       "filename": "sirvocea-dennis.php",
-      "games": 7,
+      "games": 8,
       "player_id": 23990,
       "player_name": "SirVocea Dennis",
       "points": 4.5,
@@ -2980,7 +2987,8 @@
         "4": 0,
         "6": 0,
         "7": 0,
-        "8": 1.5
+        "8": 1.5,
+        "9": 0
       }
     },
     {
@@ -3200,12 +3208,12 @@
       }
     },
     {
-      "average": 6.3,
+      "average": 5.7,
       "filename": "david-walker.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27091,
       "player_name": "David Walker",
-      "points": 50.5,
+      "points": 51.25,
       "position_id": "LB",
       "team_id": "TB",
       "weeks": {
@@ -3216,7 +3224,8 @@
         "5": 0.8,
         "6": 18.3,
         "7": 8.5,
-        "8": 0
+        "8": 0,
+        "9": 0.8
       }
     },
     {
@@ -3356,12 +3365,12 @@
       }
     },
     {
-      "average": 8.5,
+      "average": 8.9,
       "filename": "austin-booker.php",
-      "games": 8,
+      "games": 9,
       "player_id": 26313,
       "player_name": "Austin Booker",
-      "points": 68,
+      "points": 79.75,
       "position_id": "LB",
       "team_id": "CHI",
       "weeks": {
@@ -3372,7 +3381,8 @@
         "5": 26.3,
         "6": 4.5,
         "7": 4.5,
-        "8": 4.5
+        "8": 4.5,
+        "9": 11.8
       }
     },
     {
@@ -4496,19 +4506,20 @@
       }
     },
     {
-      "average": 3.6,
+      "average": 3.1,
       "filename": "noah-sewell.php",
-      "games": 4,
+      "games": 5,
       "player_id": 24710,
       "player_name": "Noah Sewell",
-      "points": 14.5,
+      "points": 15.25,
       "position_id": "LB",
       "team_id": "CHI",
       "weeks": {
         "5": 0.8,
         "6": 9.3,
         "7": 3,
-        "8": 1.5
+        "8": 1.5,
+        "9": 0.8
       }
     },
     {

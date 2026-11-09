@@ -37,10 +37,10 @@
     {
       "average": 21.1,
       "filename": "drake-maye.php",
-      "games": 8,
+      "games": 9,
       "player_id": 23046,
       "player_name": "Drake Maye",
-      "points": 168.92000000000002,
+      "points": 190.18,
       "position_id": "QB",
       "team_id": "NE",
       "weeks": {
@@ -51,7 +51,8 @@
         "5": 39.5,
         "6": 23.8,
         "7": 28.4,
-        "8": 22.5
+        "8": 22.5,
+        "9": 21.3
       }
     },
     {
@@ -145,12 +146,12 @@
       }
     },
     {
-      "average": 19.7,
+      "average": 19.2,
       "filename": "caleb-williams.php",
-      "games": 5,
+      "games": 6,
       "player_id": 23084,
       "player_name": "Caleb Williams",
-      "points": 98.58,
+      "points": 115.34,
       "position_id": "QB",
       "team_id": "CHI",
       "weeks": {
@@ -158,7 +159,8 @@
         "2": 8.7,
         "6": 16.5,
         "7": 22.1,
-        "8": 14
+        "8": 14,
+        "9": 16.8
       }
     },
     {
@@ -196,12 +198,12 @@
       }
     },
     {
-      "average": 9,
+      "average": 9.1,
       "filename": "baker-mayfield.php",
-      "games": 5,
+      "games": 6,
       "player_id": 17237,
       "player_name": "Baker Mayfield",
-      "points": 45.160000000000004,
+      "points": 54.88,
       "position_id": "QB",
       "team_id": "TB",
       "weeks": {
@@ -209,7 +211,8 @@
         "2": 13.2,
         "3": 12.3,
         "7": 6.7,
-        "8": 1.4
+        "8": 1.4,
+        "9": 9.7
       }
     },
     {
@@ -253,12 +256,12 @@
       }
     },
     {
-      "average": 18.5,
+      "average": 20.8,
       "filename": "cj-stroud.php",
-      "games": 7,
+      "games": 8,
       "player_id": 23071,
       "player_name": "C.J. Stroud",
-      "points": 129.68,
+      "points": 166.04000000000002,
       "position_id": "QB",
       "team_id": "HOU",
       "weeks": {
@@ -268,7 +271,8 @@
         "4": 23.1,
         "5": 20.9,
         "6": 24,
-        "7": 16.5
+        "7": 16.5,
+        "9": 36.4
       }
     },
     {
@@ -459,10 +463,10 @@
     {
       "average": 11.5,
       "filename": "justin-herbert.php",
-      "games": 7,
+      "games": 8,
       "player_id": 18635,
       "player_name": "Justin Herbert",
-      "points": 80.22000000000001,
+      "points": 91.64000000000001,
       "position_id": "QB",
       "team_id": "LAC",
       "weeks": {
@@ -472,7 +476,8 @@
         "4": 11.6,
         "5": 11.2,
         "6": 9.8,
-        "8": 9.8
+        "8": 9.8,
+        "9": 11.4
       }
     },
     {
@@ -549,12 +554,12 @@
       }
     },
     {
-      "average": 19.4,
+      "average": 21.2,
       "filename": "jordan-love.php",
-      "games": 8,
+      "games": 9,
       "player_id": 19246,
       "player_name": "Jordan Love",
-      "points": 154.84,
+      "points": 191.02,
       "position_id": "QB",
       "team_id": "GB",
       "weeks": {
@@ -565,7 +570,8 @@
         "5": 25.3,
         "6": 21.2,
         "7": 18,
-        "8": 22.5
+        "8": 22.5,
+        "9": 36.2
       }
     },
     {
@@ -897,16 +903,17 @@
       }
     },
     {
-      "average": 1.4,
+      "average": 1.1,
       "filename": "tommy-devito.php",
-      "games": 1,
+      "games": 2,
       "player_id": 25746,
       "player_name": "Tommy DeVito",
-      "points": 1.4,
+      "points": 2.2399999999999998,
       "position_id": "QB",
       "team_id": "NE",
       "weeks": {
-        "3": 1.4
+        "3": 1.4,
+        "9": 0.8
       }
     },
     {
@@ -1168,6 +1175,32 @@
       "team_id": "PHI",
       "weeks": {
         "9": 13.2
+      }
+    },
+    {
+      "average": 5,
+      "filename": "dj-uiagalelei.php",
+      "games": 1,
+      "player_id": 22932,
+      "player_name": "DJ Uiagalelei",
+      "points": 4.96,
+      "position_id": "QB",
+      "team_id": "LAC",
+      "weeks": {
+        "9": 5
+      }
+    },
+    {
+      "average": 0.1,
+      "filename": "davis-mills.php",
+      "games": 1,
+      "player_id": 22799,
+      "player_name": "Davis Mills",
+      "points": 0.08,
+      "position_id": "QB",
+      "team_id": "HOU",
+      "weeks": {
+        "9": 0.1
       }
     }
   ],
