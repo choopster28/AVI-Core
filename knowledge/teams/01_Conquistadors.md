@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 9
-- Last updated from Sleeper exports: 2026-11-08
+- Last updated from Sleeper exports: 2026-11-09
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,19 +21,19 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 659.1
-- championship_lineup_c_avi_avg: 82.39
-- offensive_roster_c_avi_sum: 995.5
-- offensive_roster_c_avi_avg: 58.56
-- offensive_roster_d_avi_sum: 1348.9
-- offensive_roster_d_avi_avg: 79.35
+- championship_lineup_c_avi_sum: 656.1
+- championship_lineup_c_avi_avg: 82.01
+- offensive_roster_c_avi_sum: 992.4
+- offensive_roster_c_avi_avg: 58.38
+- offensive_roster_d_avi_sum: 1348.4
+- offensive_roster_d_avi_avg: 79.32
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Josh Allen | C-AVI: 94.2 | D-AVI: 92.3
 - RB: Bijan Robinson | C-AVI: 89.8 | D-AVI: 96.5
 - RB: Jonathan Taylor | C-AVI: 86.6 | D-AVI: 94.1
-- WR: Puka Nacua | C-AVI: 97.9 | D-AVI: 99.1
+- WR: Puka Nacua | C-AVI: 94.9 | D-AVI: 98.6
 - WR: Matthew Golden | C-AVI: 74.4 | D-AVI: 89.4
 - TE: Isaiah Likely | C-AVI: 80.1 | D-AVI: 85.5
 - FLEX: Harold Fannin Jr. | C-AVI: 69.9 | D-AVI: 86.2
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 28.0
+- Championship AVI (C-AVI, 0-100): 27.9
 - Dynasty AVI (D-AVI, 0-100): 66.5
 - Projected PPR points: 72.7
 - Category: offense
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 97.9
-- Dynasty AVI (D-AVI, 0-100): 99.1
+- Championship AVI (C-AVI, 0-100): 94.9
+- Dynasty AVI (D-AVI, 0-100): 98.6
 - Projected PPR points: 312.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

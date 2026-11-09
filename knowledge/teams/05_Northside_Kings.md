@@ -9,35 +9,35 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872351659366539264
 - Division: 1
 - Waiver position: 6
-- Last updated from Sleeper exports: 2026-11-08
+- Last updated from Sleeper exports: 2026-11-09
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 18
-- offense: 14
+- total_players: 19
+- offense: 15
 - kickers: 1
 - idp: 3
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 374.9
-- championship_lineup_c_avi_avg: 46.86
-- offensive_roster_c_avi_sum: 565.4
-- offensive_roster_c_avi_avg: 40.39
-- offensive_roster_d_avi_sum: 970.4
-- offensive_roster_d_avi_avg: 69.31
+- championship_lineup_c_avi_sum: 363.3
+- championship_lineup_c_avi_avg: 45.41
+- offensive_roster_c_avi_sum: 584.9
+- offensive_roster_c_avi_avg: 38.99
+- offensive_roster_d_avi_sum: 1017.4
+- offensive_roster_d_avi_avg: 67.83
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Jordan Love | C-AVI: 59.1 | D-AVI: 78.3
 - RB: Kenny Gainwell | C-AVI: 35.7 | D-AVI: 70.7
-- RB: MarShawn Lloyd | C-AVI: 34.5 | D-AVI: 64.7
+- RB: Emari Demercado | C-AVI: 23.9 | D-AVI: 47.7
 - WR: Khalil Shakir | C-AVI: 50.5 | D-AVI: 75.8
 - WR: Malik Washington | C-AVI: 49.7 | D-AVI: 69.0
 - TE: T.J. Hockenson | C-AVI: 64.7 | D-AVI: 76.5
 - FLEX: Jordan Addison | C-AVI: 45.0 | D-AVI: 78.3
-- FLEX: Xavier Worthy | C-AVI: 35.7 | D-AVI: 73.9
+- FLEX: Kenyon Sadiq | C-AVI: 34.7 | D-AVI: 76.2
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 34.5
-- Dynasty AVI (D-AVI, 0-100): 64.7
+- Championship AVI (C-AVI, 0-100): 33.0
+- Dynasty AVI (D-AVI, 0-100): 64.5
 - Projected PPR points: 149.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -141,6 +141,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 27.8
 - Dynasty AVI (D-AVI, 0-100): 65.5
 - Projected PPR points: 111.3
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Emari Demercado
+- Player name: Emari Demercado
+- Player ID: 11199
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: HOU
+- Active: True
+- Status: Active
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 23.9
+- Dynasty AVI (D-AVI, 0-100): 47.7
+- Projected PPR points: 58.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -206,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 35.7
-- Dynasty AVI (D-AVI, 0-100): 73.9
+- Championship AVI (C-AVI, 0-100): 32.7
+- Dynasty AVI (D-AVI, 0-100): 73.4
 - Projected PPR points: 161.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 16.1
+- Championship AVI (C-AVI, 0-100): 16.2
 - Dynasty AVI (D-AVI, 0-100): 33.2
 - Projected PPR points: 28.8
 - Category: offense

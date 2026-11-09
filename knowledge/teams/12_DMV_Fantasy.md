@@ -9,22 +9,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1129546394534158336
 - Division: 4
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-11-08
+- Last updated from Sleeper exports: 2026-11-09
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 22
+- total_players: 21
 - offense: 15
-- kickers: 2
+- kickers: 1
 - idp: 5
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 309.7
-- championship_lineup_c_avi_avg: 38.71
-- offensive_roster_c_avi_sum: 458.1
-- offensive_roster_c_avi_avg: 32.72
+- championship_lineup_c_avi_sum: 309.8
+- championship_lineup_c_avi_avg: 38.73
+- offensive_roster_c_avi_sum: 458.4
+- offensive_roster_c_avi_avg: 32.74
 - offensive_roster_d_avi_sum: 907.6
 - offensive_roster_d_avi_avg: 64.83
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Keaton Mitchell | C-AVI: 29.2 | D-AVI: 65.4
 - WR: Jalen Coker | C-AVI: 61.4 | D-AVI: 82.3
 - WR: Antonio Williams | C-AVI: 31.0 | D-AVI: 73.7
-- TE: Brenton Strange | C-AVI: 52.4 | D-AVI: 78.9
+- TE: Brenton Strange | C-AVI: 52.5 | D-AVI: 78.9
 - FLEX: Chig Okonkwo | C-AVI: 31.9 | D-AVI: 71.8
 - FLEX: Isaac TeSlaa | C-AVI: 27.6 | D-AVI: 61.9
 
@@ -87,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 18.9
+- Championship AVI (C-AVI, 0-100): 19.1
 - Dynasty AVI (D-AVI, 0-100): 40.9
 - Projected PPR points: 28.0
 - Category: offense
@@ -257,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 52.4
+- Championship AVI (C-AVI, 0-100): 52.5
 - Dynasty AVI (D-AVI, 0-100): 78.9
 - Projected PPR points: 161.0
 - Category: offense
@@ -296,23 +296,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 32.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Eddy Pineiro
-- Player name: Eddy Pineiro
-- Player ID: 5189
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Position: K
-- Fantasy positions: ['K']
-- NFL team: SF
-- Active: True
-- Status: Active
-- Age: 31.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: kicker
-- Valuation status: EXCLUDED_FROM_AVI
 
 ### PLAYER: Jake Bates
 - Player name: Jake Bates
