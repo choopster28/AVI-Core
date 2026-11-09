@@ -73224,7 +73224,7 @@
     "injury_body_part": "Groin",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "kalshi_id": "d4b93af3-3461-41ba-b768-cc3401bf6bbb",
     "last_name": "Williams Sr.",
     "metadata": {
@@ -131658,7 +131658,7 @@
       "genius_id": "1500811",
       "rookie_year": "2025"
     },
-    "news_updated": 1794240930016,
+    "news_updated": 1794259246406,
     "number": 4,
     "oddsjam_id": "08365AC19CE59ADA",
     "opta_id": null,
@@ -400810,7 +400810,7 @@
       "genius_id": "999821",
       "rookie_year": "2017"
     },
-    "news_updated": 1794071410998,
+    "news_updated": 1794258946482,
     "number": 34,
     "oddsjam_id": "192F6515EE16",
     "opta_id": null,
@@ -512339,10 +512339,10 @@
     "hashtag": "#joshjacobs-NFL-GB-8",
     "height": "70",
     "high_school": "McLain (OK)",
-    "injury_body_part": "Hand",
-    "injury_notes": null,
+    "injury_body_part": "Finger",
+    "injury_notes": "Surgery",
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "40896f1d-701a-42f3-9cc1-ec0ce4f78913",
     "last_name": "Jacobs",
     "metadata": {
@@ -512352,7 +512352,7 @@
       "injury_override_regular_2025_12": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1794255946196,
+    "news_updated": 1794259546733,
     "number": 8,
     "oddsjam_id": "0614F08B6121",
     "opta_id": null,
@@ -515129,7 +515129,7 @@
       "genius_id": "1016052",
       "rookie_year": "2019"
     },
-    "news_updated": 1793832938212,
+    "news_updated": 1794258946481,
     "number": 32,
     "oddsjam_id": "A2114935F695",
     "opta_id": null,
@@ -574097,7 +574097,7 @@
       "genius_id": "1017450",
       "rookie_year": "2020"
     },
-    "news_updated": 1794235828188,
+    "news_updated": 1794257746451,
     "number": 28,
     "oddsjam_id": "289ADC2AF8BD",
     "opta_id": null,
