@@ -1,7 +1,183 @@
 {
-  "count": 25,
+  "count": 23,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-11-09 22:57:55",
+      "created_formated": "Mon, Nov 9th 10:57pm UTC",
+      "desc": "Gardner Minshew II (elbow) is feared to have a torn UCL in his elbow. If that is the case, he will need surgery and be out for the season.",
+      "id": 618928,
+      "impact": "It's a tough blow for the Cardinals, who just elevated Minshew to the starting role after making a miracle comeback against the Cowboys. With Minshew out at least in the short term, if not the whole season, Carson Beck will now take the reigns as the Arizona QB1. He won't have many options to throw to aside from Trey McBride, as the team also lost Michael Wilson today as well.",
+      "link": "https://www.fantasypros.com/nfl/news/618928/gardner-minshew-ii-elbow-potentially-out-season-with-torn-ucl.php",
+      "player_id": 18562,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Gardner Minshew II (elbow) potentially out for the season with torn-UCL"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-10 02:50:53",
+      "created_formated": "Tue, Nov 10th 2:50am UTC",
+      "desc": "Patriots RB Rhamondre Stevenson is dealing with a knee tendon issue.",
+      "id": 618964,
+      "impact": "Stevenson is not expected to require surgery but it could sideline him for a short period of time. Corey Kiner would figure to lead the Patriots backfield if TreVeyon Henderson remains sidelined. ",
+      "link": "https://www.fantasypros.com/nfl/news/618964/rhamondre-stevenson-dealing-with-knee-tendon-issue.php",
+      "player_id": 22726,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Rhamondre Stevenson dealing with knee tendon issue"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-10 00:14:08",
+      "created_formated": "Tue, Nov 10th 12:14am UTC",
+      "desc": "The Cardinals signed QB Josh Johnson off the Bengals' practice squad.",
+      "id": 618947,
+      "impact": "Johnson will add depth in the Cardinals quarterback room with Gardner Minshew sidelined due to a UCL injury. ",
+      "link": "https://www.fantasypros.com/nfl/news/618947/josh-johnson-signed-by-cardinals.php",
+      "player_id": 9326,
+      "sport_id": "NFL",
+      "team_id": "CIN",
+      "title": "Josh Johnson signed by Cardinals "
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-09 23:56:38",
+      "created_formated": "Mon, Nov 9th 11:56pm UTC",
+      "desc": "Dion Dawkins (rib) is inactive for Week 9 for the Buffalo Bills according to Adam Schefter.",
+      "id": 618946,
+      "impact": "Dawkins will sit out after not progressing throughout the week in order to take the field, leaving the Buffalo offensive line without a key member against an aggressive Minnesota defense Monday night.",
+      "link": "https://www.fantasypros.com/nfl/news/618946/dion-dawkins-rib-inactive-week-9.php",
+      "player_id": 16465,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Dion Dawkins (rib) inactive for Week 9"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-09 23:51:16",
+      "created_formated": "Mon, Nov 9th 11:51pm UTC",
+      "desc": "Odell Beckham Jr. is active for Week 9 for the Minnesota Vikings.",
+      "id": 618944,
+      "impact": "Beckham Jr. will suit up after being added to the active roster earlier Monday, providing head coach Kevin O'Connell with added depth at wide receiver with Jauan Jennings sidelined against the Bills Monday night.",
+      "link": "https://www.fantasypros.com/nfl/news/618944/odell-beckham-jr-active-week-9.php",
+      "player_id": 12127,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Odell Beckham Jr. active for Week 9"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-09 23:03:56",
+      "created_formated": "Mon, Nov 9th 11:03pm UTC",
+      "desc": "C.J. West could have his practice window opened on Wednesday. ",
+      "id": 618933,
+      "impact": "West is working his way back from injured reserve due to a knee injury. He'll have 21 days to officially be activated. ",
+      "link": "https://www.fantasypros.com/nfl/news/618933/cj-west-knee-expected-to-return-to-practice-this-week.php",
+      "player_id": 27274,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "C.J. West (knee) expected to return to practice this week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-09 23:02:02",
+      "created_formated": "Mon, Nov 9th 11:02pm UTC",
+      "desc": "49ers head coach Kyle Shanahan said he expects Deebo Samuel Sr. to return to practice this week. ",
+      "id": 618932,
+      "impact": "Samuel will have a chance to return in Week 10 against the Cowboys. Mike Evans is expected to remain sidelined. ",
+      "link": "https://www.fantasypros.com/nfl/news/618932/deebo-samuel-sr-hamstring-expected-to-practice-this-week.php",
+      "player_id": 18244,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Deebo Samuel Sr. (hamstring) expected to practice this week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-09 23:01:00",
+      "created_formated": "Mon, Nov 9th 11:01pm UTC",
+      "desc": "49ers head coach Kyle Shanahan said he does not expect Mike Evans to return to practice this week. ",
+      "id": 618931,
+      "impact": "Evans is likely to remain sidelined in Week 10 against the Cowboys. He remains week-to-week. ",
+      "link": "https://www.fantasypros.com/nfl/news/618931/mike-evans-achilles-not-expected-to-practice-this-week.php",
+      "player_id": 12119,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Mike Evans (Achilles) not expected to practice this week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-09 22:59:23",
+      "created_formated": "Mon, Nov 9th 10:59pm UTC",
+      "desc": "The Lions have reportedly received calls on TE Sam LaPorta. ",
+      "id": 618930,
+      "impact": "Fowler notes that teams have gotten the impression that Detroit \"would like to keep him and try to work out a long-terms deal eventually.\" It appears LaPorta is likely to remain in Detroit long-term. ",
+      "link": "https://www.fantasypros.com/nfl/news/618930/sam-laporta-receiving-trade-interest-not-expected-to-be-moved.php",
+      "player_id": 22978,
+      "sport_id": "NFL",
+      "team_id": "DET",
+      "title": "Sam LaPorta receiving trade interest, not expected to be moved"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-09 22:45:14",
+      "created_formated": "Mon, Nov 9th 10:45pm UTC",
+      "desc": "The NFL reinstated 49ers WR Brandon Aiyuk from the reserve/left squad list.",
+      "id": 618927,
+      "impact": "Pelissero notes that the NFL has granted the 49ers a two-week roster exemption for Aiyuk as the two sides continue to negotiate his impending release. San Francisco will have until November 23rd to make a roster move. At that point, Aiyuk will be free to sign with any team. ",
+      "link": "https://www.fantasypros.com/nfl/news/618927/brandon-aiyuk-reinstated-by-nfl.php",
+      "player_id": 19252,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Brandon Aiyuk reinstated by NFL"
+    },
     {
       "author": "Garrett Ball",
       "categories": [
@@ -55,24 +231,6 @@
       "sport_id": "NFL",
       "team_id": "ARI",
       "title": "Hjalte Froholdt placed in concussion protocol "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-09 21:44:06",
-      "created_formated": "Mon, Nov 9th 9:44pm UTC",
-      "desc": "The Cardinals are doing tests on QB Gardner Minshew on his right elbow/arm. ",
-      "id": 618911,
-      "impact": "Minshew took a blow to his elbow/arm at the end of the first half. There should be an update on his status in the upcoming days. ",
-      "link": "https://www.fantasypros.com/nfl/news/618911/gardner-minshew-ii-elbowarm-undergoing-tests.php",
-      "player_id": 18562,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Gardner Minshew II (elbow/arm) undergoing tests "
     },
     {
       "author": "Garrett Ball",
@@ -253,203 +411,6 @@
       "sport_id": "NFL",
       "team_id": "NYG",
       "title": "J.J. McCarthy (hip) expected to be ready for Thursday's game"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-09 18:45:27",
-      "created_formated": "Mon, Nov 9th 6:45pm UTC",
-      "desc": "The Saints traded DT Davon Godchaux to the Jaguars. ",
-      "id": 618884,
-      "impact": "Jacksonville makes its second trade of the trade to address the defense. Godchaux will add depth on the defensive line for Jacksonville. ",
-      "link": "https://www.fantasypros.com/nfl/news/618884/davon-godchaux-traded-to-jaguars.php",
-      "player_id": 16513,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Davon Godchaux traded to Jaguars"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-09 17:55:29",
-      "created_formated": "Mon, Nov 9th 5:55pm UTC",
-      "desc": "Sam Darnold (quad) has been ruled out for the Seahawks Week 10 game against the Raiders.",
-      "id": 618880,
-      "impact": "Head coach Mike McDonald told the press that Darnold was already been ruled out for Week 10 against Vegas on Monday, which makes sense with the Seahawks on bye during Week 11. He will look to make his return against the Niners in Week 12.",
-      "link": "https://www.fantasypros.com/nfl/news/618880/sam-darnold-quad-ruled-out-week-10-against-raiders.php",
-      "player_id": 17236,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Sam Darnold (quad) ruled out for Week 10 against Raiders"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 17:51:45",
-      "created_formated": "Mon, Nov 9th 5:51pm UTC",
-      "desc": "Drew Lock (oblique) has suffered a minor oblique injury but is still expected to start against the Raiders in Week 10.",
-      "id": 618876,
-      "impact": "Lock suffered the injury later on in the Seahawks win over the Cardinals, and with Darnold already ruled out, if Lock cannot go, responsibility would fall on Jalen Milroe to keep the offense going.",
-      "link": "https://www.fantasypros.com/nfl/news/618876/drew-lock-oblique-has-minor-oblique-injury-expected-to-play-vs-vegas.php",
-      "player_id": 18225,
-      "sport_id": "NFL",
-      "team_id": "SEA",
-      "title": "Drew Lock (oblique) has minor oblique injury, expected to play vs Vegas"
-    },
-    {
-      "author": "Emily Maingi",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 17:38:59",
-      "created_formated": "Mon, Nov 9th 5:38pm UTC",
-      "desc": "Brandon McManus made two field goals and two extra points in Sunday's game against the Commanders.",
-      "id": 618873,
-      "impact": "McManus has been perfect in the three games he's played for the Rams. He will look to continue that streak against the Cardinals in Week 10.",
-      "link": "https://www.fantasypros.com/nfl/news/618873/brandon-mcmanus-hits-all-four-kicks-win.php",
-      "player_id": 13274,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Brandon McManus hits all four kicks in win"
-    },
-    {
-      "author": "Emily Maingi",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 17:36:03",
-      "created_formated": "Mon, Nov 9th 5:36pm UTC",
-      "desc": "Drew Stevens went 3/3 on his kicks on Sunday, hitting both field goal tries and one extra point in the loss.",
-      "id": 618872,
-      "impact": "Stevens had a solid, if not spectacular outing on Sunday. He will look to carry his momentum into Thursday night's matchup against the Giants.",
-      "link": "https://www.fantasypros.com/nfl/news/618872/drew-stevens-hits-two-field-goals-loss.php",
-      "player_id": 28175,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Drew Stevens hits two field goals in loss"
-    },
-    {
-      "author": "Emily Maingi",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 17:23:45",
-      "created_formated": "Mon, Nov 9th 5:23pm UTC",
-      "desc": "The Washington Commanders D/ST allowed 20 points in Sunday's loss to the Rams. The unit also recorded one interception and one sack. ",
-      "id": 618870,
-      "impact": "The Commanders defense has been volatile and unreliable in the 2026 campaign. However, they look to be a viable streamer for Week 10's rematch with the Giants on Thursday Night Football. ",
-      "link": "https://www.fantasypros.com/nfl/news/618870/washington-commanders-dst-give-up-20-points-loss.php",
-      "player_id": 8310,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Washington Commanders D/ST give up 20 points in loss"
-    },
-    {
-      "author": "Emily Maingi",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 17:20:00",
-      "created_formated": "Mon, Nov 9th 5:20pm UTC",
-      "desc": "Colson Yankoff had one reception for 6 yards in Sunday's loss to the Rams. ",
-      "id": 618868,
-      "impact": "The second-year pro is now up to three receptions for 22 yards on the year. Yankoff is still buried on the depth chart, so he won't be fantasy-relevant moving forward.",
-      "link": "https://www.fantasypros.com/nfl/news/618868/colson-yankoff-has-one-catch-loss.php",
-      "player_id": 26576,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Colson Yankoff has one catch in loss"
-    },
-    {
-      "author": "Emily Maingi",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 17:17:15",
-      "created_formated": "Mon, Nov 9th 5:17pm UTC",
-      "desc": "Luke McCaffrey had one reception for 6 yards in Sunday's loss to the Rams. ",
-      "id": 618866,
-      "impact": "McCaffrey had minimal involvement in the Commanders' offense despite the season-ending injury of fellow wide receiver Terry McLaurin. McCaffrey has not been a featured player in their passing game and will not be fantasy-relevant moving forward.\r\n",
-      "link": "https://www.fantasypros.com/nfl/news/618866/luke-mccaffrey-has-one-catch-loss.php",
-      "player_id": 26328,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Luke McCaffrey has one catch in loss"
-    },
-    {
-      "author": "Emily Maingi",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 17:14:56",
-      "created_formated": "Mon, Nov 9th 5:14pm UTC",
-      "desc": "Jaden Bradley had one catch for 12 yards in Sunday's loss against the Rams. \r\n",
-      "id": 618864,
-      "impact": "Bradley was elevated from the practice squad prior to Sunday's game and was able to secure his first NFL catch. Despite losing the Commanders losing Terry McLaurin to a season-ending injury, Bradley will not be fantasy-relevant.",
-      "link": "https://www.fantasypros.com/nfl/news/618864/jaden-bradley-has-first-career-catch-loss.php",
-      "player_id": 28640,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Jaden Bradley has first career catch in loss"
-    },
-    {
-      "author": "Emily Maingi",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 17:11:52",
-      "created_formated": "Mon, Nov 9th 5:11pm UTC",
-      "desc": "Antonio Williams had three catches for 25 yards in Sunday's loss to the Rams.\r\n",
-      "id": 618863,
-      "impact": "Williams has now put together his fifth straight game with at least three receptions. Williams has shown promising flashes of talent, and still has the chance to become the de-facto number one receiver in the Commanders' offense. He faces the Giants on Thursday Night Football where he will be in WR3/Flex range with high upside.",
-      "link": "https://www.fantasypros.com/nfl/news/618863/antonio-williams-has-three-catches-loss.php",
-      "player_id": 25418,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Antonio Williams has three catches in loss"
-    },
-    {
-      "author": "Emily Maingi",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-09 17:08:10",
-      "created_formated": "Mon, Nov 9th 5:08pm UTC",
-      "desc": "Stefon Diggs had three catches for 51 yards in Sunday's loss to the Rams.",
-      "id": 618861,
-      "impact": "Diggs' 51 yards is his second-highest yardage total of the season. Despite Terry McLaurin's season-ending injury, Diggs' role has remained the same. He will fall in the WR3 range for Thursday's game against the Giants. ",
-      "link": "https://www.fantasypros.com/nfl/news/618861/stefon-diggs-has-51-yards-loss.php",
-      "player_id": 13981,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Stefon Diggs has 51 yards in loss"
     }
   ],
   "public_api": true,

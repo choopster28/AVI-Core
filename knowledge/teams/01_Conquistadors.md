@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736993578450030592
 - Division: 1
 - Waiver position: 9
-- Last updated from Sleeper exports: 2026-11-09
+- Last updated from Sleeper exports: 2026-11-10
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 656.1
-- championship_lineup_c_avi_avg: 82.01
-- offensive_roster_c_avi_sum: 992.5
+- championship_lineup_c_avi_sum: 616.2
+- championship_lineup_c_avi_avg: 77.03
+- offensive_roster_c_avi_sum: 992.4
 - offensive_roster_c_avi_avg: 58.38
 - offensive_roster_d_avi_sum: 1348.4
 - offensive_roster_d_avi_avg: 79.32
@@ -33,8 +33,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - QB: Josh Allen | C-AVI: 94.2 | D-AVI: 92.3
 - RB: Bijan Robinson | C-AVI: 89.8 | D-AVI: 96.5
 - RB: Jonathan Taylor | C-AVI: 86.6 | D-AVI: 94.1
-- WR: Puka Nacua | C-AVI: 94.9 | D-AVI: 98.6
 - WR: Matthew Golden | C-AVI: 74.4 | D-AVI: 89.4
+- WR: Devaughn Vele | C-AVI: 55.0 | D-AVI: 67.5
 - TE: Isaiah Likely | C-AVI: 80.1 | D-AVI: 85.5
 - FLEX: Harold Fannin Jr. | C-AVI: 69.9 | D-AVI: 86.2
 - FLEX: Breece Hall | C-AVI: 66.2 | D-AVI: 89.3
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 28.0
+- Championship AVI (C-AVI, 0-100): 27.9
 - Dynasty AVI (D-AVI, 0-100): 66.5
 - Projected PPR points: 72.7
 - Category: offense
@@ -187,7 +187,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Fantasy positions: ['WR']
 - NFL team: LAR
 - Active: True
-- Status: Active
+- Status: Inactive
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 94.9
 - Dynasty AVI (D-AVI, 0-100): 98.6

@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 15
-- Last updated from Sleeper exports: 2026-11-09
+- Last updated from Sleeper exports: 2026-11-10
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,9 +21,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 620.7
-- championship_lineup_c_avi_avg: 77.59
-- offensive_roster_c_avi_sum: 771.9
+- championship_lineup_c_avi_sum: 620.8
+- championship_lineup_c_avi_avg: 77.60
+- offensive_roster_c_avi_sum: 772.0
 - offensive_roster_c_avi_avg: 55.14
 - offensive_roster_d_avi_sum: 1028.7
 - offensive_roster_d_avi_avg: 73.48
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 79.5 | D-AVI: 84.2
 - RB: D'Andre Swift | C-AVI: 86.1 | D-AVI: 89.0
-- RB: Tony Pollard | C-AVI: 66.8 | D-AVI: 79.6
+- RB: Tony Pollard | C-AVI: 66.9 | D-AVI: 79.6
 - WR: Amon-Ra St. Brown | C-AVI: 96.0 | D-AVI: 98.4
 - WR: Tee Higgins | C-AVI: 91.7 | D-AVI: 92.2
 - TE: Tucker Kraft | C-AVI: 68.4 | D-AVI: 86.3
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 66.8
+- Championship AVI (C-AVI, 0-100): 66.9
 - Dynasty AVI (D-AVI, 0-100): 79.6
 - Projected PPR points: 160.1
 - Category: offense
