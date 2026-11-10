@@ -1,7 +1,419 @@
 {
-  "count": 23,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-10 15:58:45",
+      "created_formated": "Tue, Nov 10th 3:58pm UTC",
+      "desc": "Former Packers first-round draft pick and starting safety Darnell Savage is healthy again. ",
+      "id": 619018,
+      "impact": "Savage has 371 career tackles and 10 interceptions in the NFL. He'll figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/619018/darnell-savage-jr-is-healthy.php",
+      "player_id": 18408,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Darnell Savage Jr. is healthy "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-10 15:56:59",
+      "created_formated": "Tue, Nov 10th 3:56pm UTC",
+      "desc": "The Jaguars are not expected to trade WR Brian Thomas Jr. ",
+      "id": 619017,
+      "impact": "Jacksonville plans to keep its roster intact after making some big trades on Monday. Fowler notes the Jaguars have told teams they plan to keep Thomas. ",
+      "link": "https://www.fantasypros.com/nfl/news/619017/brian-thomas-jr-not-expected-to-be-traded.php",
+      "player_id": 23000,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Brian Thomas Jr. not expected to be traded"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 15:24:02",
+      "created_formated": "Tue, Nov 10th 3:24pm UTC",
+      "desc": "Max Brosmer completed 6-of-7 passes for 58 yards in Monday's 23-6 loss to the BIlls. ",
+      "id": 619016,
+      "impact": "After Carson Wentz struggled terribly in this game, Brosmer came on in relief to lead the Vikings' final drive. The second-year QB actually did okay, but he's most likely to remain in a backup role for the Vikings moving forward. ",
+      "link": "https://www.fantasypros.com/nfl/news/619016/max-brosmer-decent-mop-up-duty-monday-night.php",
+      "player_id": 27580,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Max Brosmer decent in mop-up duty Monday night "
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 15:19:47",
+      "created_formated": "Tue, Nov 10th 3:19pm UTC",
+      "desc": "Carson Wentz completed only 8-of-25 passes for 81 yards with no touchdowns and two interceptions in Monday's 23-6 loss to the Bills. ",
+      "id": 619015,
+      "impact": "Earlier this season, Wentz had some bright moments at the helm of the Vikings' offense. That's a distant memory now, as the veteran QB couldn't even finish Monday's contest without being benched in favor of third-stringer Max Brosmer. Wentz may have very well played his final snaps for the Vikings. ",
+      "link": "https://www.fantasypros.com/nfl/news/619015/carson-wentz-absolutely-awful-monday-night-loss.php",
+      "player_id": 15520,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Carson Wentz absolutely awful in Monday night loss"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 15:15:04",
+      "created_formated": "Tue, Nov 10th 3:15pm UTC",
+      "desc": "Aaron Jones Sr. gained 16 yards on five carries and caught his only target for five yards in Monday's 23-6 loss to the Bills. ",
+      "id": 619014,
+      "impact": "Jones' paltry production in this one wasn't the result of backfield mate Jordan Mason seeing a surge in touches, as the latter finished with just seven of his own. The Vikings' offense is all out of sorts at the moment, and their RB tandem is suffering as a result. Jones looked like he might have found the Fountain of Youth earlier this season, but over the last three weeks, the veteran has given fantasy managers next to nothing. ",
+      "link": "https://www.fantasypros.com/nfl/news/619014/aaron-jones-sr-gets-just-six-touches-on-monday-night.php",
+      "player_id": 16673,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Aaron Jones Sr. gets just six touches on Monday night"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 15:10:43",
+      "created_formated": "Tue, Nov 10th 3:10pm UTC",
+      "desc": "Jordan Mason rushed for 35 yards on six carries and added just seven yards on two receptions in Monday's 23-6 loss to the Bills. ",
+      "id": 619013,
+      "impact": "Mason missed a large chunk of the season early on. Then, he returned to gain 68 yards on 15 carries in a win over the Colts in Week 7. Any encouragement that resulted from that performance is gone now, as the Vikings just cannot get things together on offense. Mason has gained 55 yards on just 14 carries combined over the last two games. He's a bench stash for fantasy purposes right now. ",
+      "link": "https://www.fantasypros.com/nfl/news/619013/jordan-mason-totals-42-yards-on-monday-night.php",
+      "player_id": 22969,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Jordan Mason totals 42 yards on Monday night"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 15:07:16",
+      "created_formated": "Tue, Nov 10th 3:07pm UTC",
+      "desc": "Justin Jefferson hauled in only 3-of-11 targets for 58 yards in Monday's 23-6 loss to the Bills. ",
+      "id": 619012,
+      "impact": "Jefferson is one of the league's top talents at wide receiver. Still, the Vikings' inept quarterback play so far this season has turned the All-Pro into an inconsistent, boom-or-bust asset for fantasy managers. Jefferson is in the low-end WR2 discussion at present, but if the Vikings can figure things out at QB, he would fly back up the rankings. ",
+      "link": "https://www.fantasypros.com/nfl/news/619012/justin-jefferson-catches-three-passes-week-9-loss.php",
+      "player_id": 19236,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Justin Jefferson catches three passes in Week 9 loss"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 15:03:10",
+      "created_formated": "Tue, Nov 10th 3:03pm UTC",
+      "desc": "Jordan Addison caught 2-of-3 targets for 28 yards in Monday's 23-6 loss to the Bills. ",
+      "id": 619011,
+      "impact": "Addison has now finished with two or fewer receptions four times in seven games this season, as the inconsistent quarterback play in Minnesota this season has really limited his production. The speedy receiver possesses big-play ability, but if the Vikings don't figure things out at QB, Addison will remain a highly volatile fantasy option. ",
+      "link": "https://www.fantasypros.com/nfl/news/619011/jordan-addison-finishes-with-28-yards-monday-night.php",
+      "player_id": 23107,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Jordan Addison finishes with 28 yards Monday night"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 14:59:11",
+      "created_formated": "Tue, Nov 10th 2:59pm UTC",
+      "desc": "T.J. Hockenson caught 4-of-7 targets for 33 yards in Monday's 23-6 loss to the Bills. ",
+      "id": 619010,
+      "impact": "Hockenson actually led the Vikings in receptions Monday night, but the offense was pretty much shut down on the whole. The veteran TE has had a decent season to this point despite lacking QB play for the Vikings. Hockenson had scored in two straight games going into Monday night, and he's now caught four passes in three consecutive weeks. ",
+      "link": "https://www.fantasypros.com/nfl/news/619010/tj-hockenson-hauls-four-passes-monday-night.php",
+      "player_id": 18290,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "T.J. Hockenson hauls in four passes Monday night"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-10 14:55:21",
+      "created_formated": "Tue, Nov 10th 2:55pm UTC",
+      "desc": "Carson Beck is in line to start at quarterback against the Rams on Sunday. ",
+      "id": 619009,
+      "impact": "With Jacoby Brissett now in Baltimore and Gardner Minshew (elbow) out of action, Beck will get his opportunity to lead the Arizona offense beginning in Week 10. The Cardinals are also beaten up at wide receiver, and the Rams present one of the more difficult matchups in the league for any quarterback. Beck will indeed have his work cut out for him in order to make a positive impression. The third-round rookie has yet to take a snap in a regular-season game. ",
+      "link": "https://www.fantasypros.com/nfl/news/619009/carson-beck-set-to-start-week-10.php",
+      "player_id": 22953,
+      "sport_id": "NFL",
+      "team_id": "ARI",
+      "title": "Carson Beck set to start Week 10"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 14:47:05",
+      "created_formated": "Tue, Nov 10th 2:47pm UTC",
+      "desc": "Josh Allen completed 21 of 31 passes for 234 yards with one touchdown and one interception, adding 15 yards on six carries in Monday's 23-6 win over the Vikings. ",
+      "id": 619008,
+      "impact": "This performance was certainly below the norm for Allen, but considering it came against arguably the league's top defense, it was serviceable. Allen eclipsed 2,000 yards passing for the season in this one, and he's now up to a dozen touchdown passes along with a whopping nine rushing scores. Allen remains one of the top fantasy assets in the league regardless of position. He should be set for a larger output against the Jets in Week 10. ",
+      "link": "https://www.fantasypros.com/nfl/news/619008/josh-allen-turns-decent-performance-monday-night.php",
+      "player_id": 17298,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Josh Allen turns in decent performance Monday night"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 14:42:06",
+      "created_formated": "Tue, Nov 10th 2:42pm UTC",
+      "desc": "Ty Johnson rushed one time for just one yard but gained 36 yards on two receptions in Monday's 23-6 win over the Vikings. ",
+      "id": 619007,
+      "impact": "It's well known that Johnson makes the vast majority of his contributions to the Bills as a receiver out of the backfield. That was the case again Monday night. He didn't do much on two of his touches, but he took one of his receptions 36 yards top give him the game's longest gain. Johnson doesn't carry much fantasy appeal outside the deepest of PPR leagues.",
+      "link": "https://www.fantasypros.com/nfl/news/619007/ty-johnson-goes-37-yards-on-three-touches-week-9.php",
+      "player_id": 18406,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Ty Johnson goes for 37 yards on three touches in Week 9"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 14:37:23",
+      "created_formated": "Tue, Nov 10th 2:37pm UTC",
+      "desc": "James Cook II rushed for 107 yards and a touchdown on 31 carries in Monday's 23-6 win over the Vikings. ",
+      "id": 619006,
+      "impact": "This was a true workhorse effort from Cook. The last time he got 30-plus carries was Week 13 of last season. Cook is one of only three backs in the league currently averaging over 100 rushing yards per game, and Jahmyr Gibbs is the only player carrying the ball more times per game than Cook. ",
+      "link": "https://www.fantasypros.com/nfl/news/619006/james-cook-ii-goes-over-100-yards-finds-end-zone-week-9.php",
+      "player_id": 22958,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "James Cook II goes over 100 yards, finds end zone in Week 9"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 14:03:15",
+      "created_formated": "Tue, Nov 10th 2:03pm UTC",
+      "desc": "DJ Moore caught 3-of-5 targets for 25 yards, adding 11 yards on one carry in Monday's 23-6 win over the Vikings. ",
+      "id": 619005,
+      "impact": "Moore had a big game in his return to action against the Ravens in Week 8. He couldn't replicate the effort in Week 9, but he is healthy and stronger fantasy performances should be on the way. Moore is best viewed as a low-end WR2 or high-end WR3. ",
+      "link": "https://www.fantasypros.com/nfl/news/619005/dj-moore-totals-36-yards-mondays-win.php",
+      "player_id": 17265,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "DJ Moore totals 36 yards in Monday's win"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 13:58:46",
+      "created_formated": "Tue, Nov 10th 1:58pm UTC",
+      "desc": "Khalil Shakir brought down all four of his targets for 58 yards in Monday's 23-6 win over the Vikings. ",
+      "id": 619004,
+      "impact": "Shakir tied for the team lead in catches and topped the Bills in receiving yards Monday night. Shakir has now caught four or more passes in four of the last five games, averaging 4.6 receptions and 63.6 yards per game in that span. ",
+      "link": "https://www.fantasypros.com/nfl/news/619004/khalil-shakir-leads-bills-receiving-monday-night.php",
+      "player_id": 23748,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Khalil Shakir leads Bills in receiving Monday night"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 13:54:26",
+      "created_formated": "Tue, Nov 10th 1:54pm UTC",
+      "desc": "Keon Coleman caught 3-of-6 targets for 17 yards in Monday's 23-6 win over the Vikings. ",
+      "id": 619003,
+      "impact": "Coleman has had a few strong games this season. He even had a stretch of three straight weeks with a touchdown. Since then, Coleman has managed only four receptions for 21 yards over the last two games. The third-year receiver is just unreliable from a fantasy standpoint. ",
+      "link": "https://www.fantasypros.com/nfl/news/619003/keon-coleman-finishes-with-three-receptions-monday-night.php",
+      "player_id": 26019,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Keon Coleman finishes with three receptions Monday night"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 13:49:37",
+      "created_formated": "Tue, Nov 10th 1:49pm UTC",
+      "desc": "Keleki Latu caught his only target for a 25-yard touchdown in Monday's 23-6 win over the Vikings. ",
+      "id": 619002,
+      "impact": "Latu has seen very limited snaps on offense this season, as he's largely a contributor on special teams for the Bills. Latu got his first target of the season Monday night and made it count, scoring his first career touchdown. ",
+      "link": "https://www.fantasypros.com/nfl/news/619002/keleki-latu-hits-paydirt-week-9.php",
+      "player_id": 27287,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Keleki Latu hits paydirt in Week 9"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 13:45:16",
+      "created_formated": "Tue, Nov 10th 1:45pm UTC",
+      "desc": "Dalton Kincaid hauled in all three of his targets for 28 yards in Monday's 23-6 win over the Vikings. ",
+      "id": 619001,
+      "impact": "Kincaid's up-and-down campaign continued Monday night. The fourth-year TE has pretty much become a feast-or-famine fantasy option at this point. Proceed accordingly. ",
+      "link": "https://www.fantasypros.com/nfl/news/619001/dalton-kincaid-catches-three-passes-week-9-win.php",
+      "player_id": 25247,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Dalton Kincaid catches three passes in Week 9 win"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 13:40:57",
+      "created_formated": "Tue, Nov 10th 1:40pm UTC",
+      "desc": "Dawson Knox secured 4-of-5 targets for 37 yards in Monday's 23-6 win over the Vikings. ",
+      "id": 619000,
+      "impact": "Knox put up season highs in receptions and yards in Week 9. This has not been a very productive season for the veteran tight end, at least from a fantasy perspective. Knox is still a mainstay on the field for the Bills, but his value to the team is much higher than his fantasy upside. ",
+      "link": "https://www.fantasypros.com/nfl/news/619000/dawson-knox-hauls-four-passes-monday-night.php",
+      "player_id": 18631,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Dawson Knox hauls in four passes Monday night"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 13:25:23",
+      "created_formated": "Tue, Nov 10th 1:25pm UTC",
+      "desc": "The Vikings' defense gave up 23 points on 339 yards of total offense, registering four sacks and forcing one turnover in Monday's 23-6 loss to the Bills. ",
+      "id": 618999,
+      "impact": "The Vikings' defense got pretty much no help from the offense in this one, but the unit hung tough regardless. The Vikings head into Week 10 tied for the league lead in sacks (29) and ranked second in yards allowed per game (280.0). Minnesota also ranks first in points allowed per game at 14.5. ",
+      "link": "https://www.fantasypros.com/nfl/news/618999/vikings-dst-picks-up-four-sacks-week-9-loss.php",
+      "player_id": 8170,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Vikings D/ST picks up four sacks in Week 9 loss"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 13:19:56",
+      "created_formated": "Tue, Nov 10th 1:19pm UTC",
+      "desc": "Will Reichard made both of his field-goal attempts in Monday's 23-6 loss to the Bills. ",
+      "id": 618998,
+      "impact": "The Vikings' offense was almost completely stifled Monday night, leaving Reichard as the only Minnesota player to put up any points. The third-year kicker is 1-of-5 in the NFL with as many as 20 field goals made so far this season, and he's missed just two in the process.",
+      "link": "https://www.fantasypros.com/nfl/news/618998/will-reichard-makes-pair-field-goals-week-9-loss.php",
+      "player_id": 26341,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Will Reichard makes a pair of field goals in Week 9 loss"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 13:15:16",
+      "created_formated": "Tue, Nov 10th 1:15pm UTC",
+      "desc": "Tyler Bass made all three of his field-goal attempts and both PATs in Monday's 23-6 win over the Vikings. ",
+      "id": 618997,
+      "impact": "Bass made good on all of his opportunities in Monday's win, remaining an impressive 19-of-19 on FG attempts this season. The veteran kicker is an excellent fantasy option given the Bills' offensive prowess. ",
+      "link": "https://www.fantasypros.com/nfl/news/618997/tyler-bass-puts-11-points-on-board-week-9.php",
+      "player_id": 19760,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Tyler Bass puts 11 points on the board in Week 9"
+    },
+    {
+      "author": "Nate Miller",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-10 13:12:50",
+      "created_formated": "Tue, Nov 10th 1:12pm UTC",
+      "desc": "The Bills' defense gave up only six points on 178 yards of total offense, coming up with two sacks and three takeaways in Monday night's 23-6 win over the Vikings. ",
+      "id": 618996,
+      "impact": "This performance was probably more revealing of the Vikings' offensive ineptitude than the Bills' defensive dominance, but the latter reaped the benefits nonetheless. The Bills' defense has had the good fortune of matching up against a pair of beaten-down offenses over the past two weeks and has taken full advantage. The unit could remain a sneaky fantasy play with contests against the Jets and Dolphins coming up. ",
+      "link": "https://www.fantasypros.com/nfl/news/618996/bills-dst-shuts-down-vikings-on-monday-night.php",
+      "player_id": 8030,
+      "sport_id": "NFL",
+      "team_id": "BUF",
+      "title": "Bills D/ST shuts down Vikings on Monday night"
+    },
     {
       "author": "Garrett Ball",
       "categories": [
@@ -38,379 +450,6 @@
       "sport_id": "NFL",
       "team_id": "NE",
       "title": "Rhamondre Stevenson dealing with knee tendon issue"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-10 00:14:08",
-      "created_formated": "Tue, Nov 10th 12:14am UTC",
-      "desc": "The Cardinals signed QB Josh Johnson off the Bengals' practice squad.",
-      "id": 618947,
-      "impact": "Johnson will add depth in the Cardinals quarterback room with Gardner Minshew sidelined due to a UCL injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/618947/josh-johnson-signed-by-cardinals.php",
-      "player_id": 9326,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Josh Johnson signed by Cardinals "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-09 23:56:38",
-      "created_formated": "Mon, Nov 9th 11:56pm UTC",
-      "desc": "Dion Dawkins (rib) is inactive for Week 9 for the Buffalo Bills according to Adam Schefter.",
-      "id": 618946,
-      "impact": "Dawkins will sit out after not progressing throughout the week in order to take the field, leaving the Buffalo offensive line without a key member against an aggressive Minnesota defense Monday night.",
-      "link": "https://www.fantasypros.com/nfl/news/618946/dion-dawkins-rib-inactive-week-9.php",
-      "player_id": 16465,
-      "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Dion Dawkins (rib) inactive for Week 9"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-09 23:51:16",
-      "created_formated": "Mon, Nov 9th 11:51pm UTC",
-      "desc": "Odell Beckham Jr. is active for Week 9 for the Minnesota Vikings.",
-      "id": 618944,
-      "impact": "Beckham Jr. will suit up after being added to the active roster earlier Monday, providing head coach Kevin O'Connell with added depth at wide receiver with Jauan Jennings sidelined against the Bills Monday night.",
-      "link": "https://www.fantasypros.com/nfl/news/618944/odell-beckham-jr-active-week-9.php",
-      "player_id": 12127,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Odell Beckham Jr. active for Week 9"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-09 23:03:56",
-      "created_formated": "Mon, Nov 9th 11:03pm UTC",
-      "desc": "C.J. West could have his practice window opened on Wednesday. ",
-      "id": 618933,
-      "impact": "West is working his way back from injured reserve due to a knee injury. He'll have 21 days to officially be activated. ",
-      "link": "https://www.fantasypros.com/nfl/news/618933/cj-west-knee-expected-to-return-to-practice-this-week.php",
-      "player_id": 27274,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "C.J. West (knee) expected to return to practice this week"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-09 23:02:02",
-      "created_formated": "Mon, Nov 9th 11:02pm UTC",
-      "desc": "49ers head coach Kyle Shanahan said he expects Deebo Samuel Sr. to return to practice this week. ",
-      "id": 618932,
-      "impact": "Samuel will have a chance to return in Week 10 against the Cowboys. Mike Evans is expected to remain sidelined. ",
-      "link": "https://www.fantasypros.com/nfl/news/618932/deebo-samuel-sr-hamstring-expected-to-practice-this-week.php",
-      "player_id": 18244,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Deebo Samuel Sr. (hamstring) expected to practice this week"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-09 23:01:00",
-      "created_formated": "Mon, Nov 9th 11:01pm UTC",
-      "desc": "49ers head coach Kyle Shanahan said he does not expect Mike Evans to return to practice this week. ",
-      "id": 618931,
-      "impact": "Evans is likely to remain sidelined in Week 10 against the Cowboys. He remains week-to-week. ",
-      "link": "https://www.fantasypros.com/nfl/news/618931/mike-evans-achilles-not-expected-to-practice-this-week.php",
-      "player_id": 12119,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Mike Evans (Achilles) not expected to practice this week"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-09 22:59:23",
-      "created_formated": "Mon, Nov 9th 10:59pm UTC",
-      "desc": "The Lions have reportedly received calls on TE Sam LaPorta. ",
-      "id": 618930,
-      "impact": "Fowler notes that teams have gotten the impression that Detroit \"would like to keep him and try to work out a long-terms deal eventually.\" It appears LaPorta is likely to remain in Detroit long-term. ",
-      "link": "https://www.fantasypros.com/nfl/news/618930/sam-laporta-receiving-trade-interest-not-expected-to-be-moved.php",
-      "player_id": 22978,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Sam LaPorta receiving trade interest, not expected to be moved"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-09 22:45:14",
-      "created_formated": "Mon, Nov 9th 10:45pm UTC",
-      "desc": "The NFL reinstated 49ers WR Brandon Aiyuk from the reserve/left squad list.",
-      "id": 618927,
-      "impact": "Pelissero notes that the NFL has granted the 49ers a two-week roster exemption for Aiyuk as the two sides continue to negotiate his impending release. San Francisco will have until November 23rd to make a roster move. At that point, Aiyuk will be free to sign with any team. ",
-      "link": "https://www.fantasypros.com/nfl/news/618927/brandon-aiyuk-reinstated-by-nfl.php",
-      "player_id": 19252,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Brandon Aiyuk reinstated by NFL"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury",
-        "Breaking"
-      ],
-      "created": "2026-11-09 22:12:46",
-      "created_formated": "Mon, Nov 9th 10:12pm UTC",
-      "desc": "Puka Nacua (knee, toe) is expected to be placed on IR with injuries to his MCL, PCL, and turf toe according ot HC Sean McVay.",
-      "id": 618919,
-      "impact": "While it was known Puka was battling through some injuries, it wasn't clear that it was this bad. With Davante Adams already out and on IR, and Puka likely to follow, the Rams' season is going downhill fast. Expect them to make some moves at WR before the trade deadline.",
-      "link": "https://www.fantasypros.com/nfl/news/618919/puka-nacua-knee-toe-expected-to-go-on-ir-with-litany-injuries.php",
-      "player_id": 23180,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Puka Nacua (knee, toe) expected to go on IR with litany of injuries"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-09 21:52:48",
-      "created_formated": "Mon, Nov 9th 9:52pm UTC",
-      "desc": "The Jaguars are trading a 2027 first-round pick and a 2029 second-round pick to the Eagles for defensive tackle Jordan Davis.",
-      "id": 618913,
-      "impact": "This is the Jaguars' third trade for a defensive player on Monday alone. Davis just signed a three-year extension with the Eagles this past offseason. He'll look to help the Jaguars make a push this season. ",
-      "link": "https://www.fantasypros.com/nfl/news/618913/jordan-davis-traded-to-jaguars.php",
-      "player_id": 22761,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jordan Davis traded to Jaguars "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-09 21:45:09",
-      "created_formated": "Mon, Nov 9th 9:45pm UTC",
-      "desc": "The Cardinals placed Hjalte Froholdt in concussion protocol. ",
-      "id": 618912,
-      "impact": "The status of Froholdt is up in the air heading into Week 10 against the Rams. ",
-      "link": "https://www.fantasypros.com/nfl/news/618912/hjalte-froholdt-placed-concussion-protocol.php",
-      "player_id": 18309,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Hjalte Froholdt placed in concussion protocol "
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury",
-        "Breaking"
-      ],
-      "created": "2026-11-09 21:34:36",
-      "created_formated": "Mon, Nov 9th 9:34pm UTC",
-      "desc": "Michael Wilson (neck) is out for the season with a neck injury. He apparently suffered a fracture in his neck on the fourth play of the game. ",
-      "id": 618910,
-      "impact": "This injury was a surprise to everyone, as Wilson played throughout the Cardinals loss to the Seahawks. With Wilson out for the season, Trey McBride is basically the last man standing. The Cardinals will need to bring in some names to bolster their reciever room, as there is no one left of note after the Wilson and Bourne injuries and the Marvin Harrison trade. Reggie Virgil and Similar Fehoko at WR give off preseason-starter vibes.",
-      "link": "https://www.fantasypros.com/nfl/news/618910/michael-wilson-neck-out-season-with-neck-injury.php",
-      "player_id": 25333,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Michael Wilson (neck) out for the season with neck injury"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-09 20:09:46",
-      "created_formated": "Mon, Nov 9th 8:09pm UTC",
-      "desc": "Josh Jacobs (finger) will undergo surgery this week according to Matt Zenitz.",
-      "id": 618906,
-      "impact": "Jacobs could miss a maximum of three weeks after suffering the injury in Sunday's win over the Patriots according to Zenitz. Kaleb Johnson and Pierre Strong Jr. are in line for increased touches out of the Green Bay backfield unless another running back is added ahead of a Week 10 divisional matchup against the Minnesota Vikings.",
-      "link": "https://www.fantasypros.com/nfl/news/618906/josh-jacobs-finger-to-undergo-surgery.php",
-      "player_id": 18269,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Josh Jacobs (finger) to undergo surgery"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-09 19:36:53",
-      "created_formated": "Mon, Nov 9th 7:36pm UTC",
-      "desc": "Commanders head coach Dan Quinn said he is \"optimistic\" that Amik Robertson will play on Thursday against the Giants.",
-      "id": 618897,
-      "impact": "Robertson is dealing with an ankle injury. He will need to be monitored in practice on Tuesday and Wednesday on a short week. ",
-      "link": "https://www.fantasypros.com/nfl/news/618897/amik-robertson-ankle-optimistic-to-be-available-thursdays-game.php",
-      "player_id": 19364,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Amik Robertson (ankle) 'optimistic' to be available for Thursday's game"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-09 19:35:24",
-      "created_formated": "Mon, Nov 9th 7:35pm UTC",
-      "desc": "Commanders head coach Dan Quinn said he is \"optimistic\" that Treylon Burks will play on Thursday against the Giants.",
-      "id": 618896,
-      "impact": "Burks sat out in Sunday's loss to the Rams due to a foot injury after not practicing all week. He will need be monitored in practice on Tuesday and Wednesday on a short week. ",
-      "link": "https://www.fantasypros.com/nfl/news/618896/treylon-burks-foot-optimistic-to-be-ready-thursdays-game.php",
-      "player_id": 22905,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Treylon Burks (foot) 'optimistic' to be ready for Thursday's game"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-09 19:33:05",
-      "created_formated": "Mon, Nov 9th 7:33pm UTC",
-      "desc": "Cowboys executive vice president Stephen Jones said RB Tyler Goodson is expected to miss some time.",
-      "id": 618895,
-      "impact": "Goodson saw 12 carries in Sunday's win over the Colts after emerging as the RB2 for Dallas. He is week-to-week for now. ",
-      "link": "https://www.fantasypros.com/nfl/news/618895/tyler-goodson-knee-expected-to-miss-some-time.php",
-      "player_id": 22976,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Tyler Goodson (knee) expected to miss some time"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-09 18:58:37",
-      "created_formated": "Mon, Nov 9th 6:58pm UTC",
-      "desc": "The Jets are trading S Andre Cisco to the Detroit Lions for a 2028 6th-round pick.",
-      "id": 618891,
-      "impact": "Cisco has started four of the nine games he has appeared in for the Jets this season. He will add experience and depth in the secondary for Detroit. ",
-      "link": "https://www.fantasypros.com/nfl/news/618891/andre-cisco-traded-to-lions.php",
-      "player_id": 22715,
-      "sport_id": "NFL",
-      "team_id": "NYJ",
-      "title": "Andre Cisco traded to Lions"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-09 18:55:49",
-      "created_formated": "Mon, Nov 9th 6:55pm UTC",
-      "desc": "Jaylon Moore is considered day-to-day. ",
-      "id": 618890,
-      "impact": "Moore suffered an ankle injury in Sunday's win over the Jets. His status will need to be monitored in practice throughout the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/618890/jaylon-moore-ankle-considered-day-to-day.php",
-      "player_id": 22827,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Jaylon Moore (ankle) considered day-to-day"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-09 18:54:45",
-      "created_formated": "Mon, Nov 9th 6:54pm UTC",
-      "desc": "Chiefs coach Andy Reid said Xavier Worthy is day-to-day.",
-      "id": 618889,
-      "impact": "Worthy suffered a hamstring injury in Sunday's win over the Jets. His status will need to be monitored in practice throughout the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/618889/xavier-worthy-hamstring-considered-day-to-day.php",
-      "player_id": 23019,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Xavier Worthy (hamstring) considered day-to-day"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-09 18:53:21",
-      "created_formated": "Mon, Nov 9th 6:53pm UTC",
-      "desc": "Chiefs head coach Andy Reid said Patrick Mahomes II is day-to-day.",
-      "id": 618888,
-      "impact": "Reid said the news \"was more positive than negative\" on Mahomes and his elbow injury. He will need to be monitored in practice throughout the week. ",
-      "link": "https://www.fantasypros.com/nfl/news/618888/patrick-mahomes-ii-elbow-considered-day-to-day.php",
-      "player_id": 16413,
-      "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Patrick Mahomes II (elbow) considered day-to-day"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-09 18:50:29",
-      "created_formated": "Mon, Nov 9th 6:50pm UTC",
-      "desc": "Giants QB JJ McCarthy suffered a hip pointer during Sunday's win in Philadelphia, but he is expected to be ready for Thursday's game against the Commanders.",
-      "id": 618887,
-      "impact": "McCarthy left Sunday's game with the injury before he later returned to the field. It is a short week for the Giants, but he is still expected to be ready to go for another divisional matchup. ",
-      "link": "https://www.fantasypros.com/nfl/news/618887/jj-mccarthy-hip-expected-to-be-ready-thursdays-game.php",
-      "player_id": 23018,
-      "sport_id": "NFL",
-      "team_id": "NYG",
-      "title": "J.J. McCarthy (hip) expected to be ready for Thursday's game"
     }
   ],
   "public_api": true,

@@ -221,12 +221,12 @@
       }
     },
     {
-      "average": 11.1,
+      "average": 11.4,
       "filename": "tyler-bass.php",
-      "games": 7,
+      "games": 8,
       "player_id": 19760,
       "player_name": "Tyler Bass",
-      "points": 78,
+      "points": 91,
       "position_id": "K",
       "team_id": "BUF",
       "weeks": {
@@ -236,7 +236,8 @@
         "4": 8,
         "5": 13,
         "6": 17,
-        "8": 16
+        "8": 16,
+        "9": 13
       }
     },
     {
@@ -466,12 +467,12 @@
       }
     },
     {
-      "average": 11.7,
+      "average": 11.4,
       "filename": "will-reichard.php",
-      "games": 7,
+      "games": 8,
       "player_id": 26341,
       "player_name": "Will Reichard",
-      "points": 82,
+      "points": 91,
       "position_id": "K",
       "team_id": "MIN",
       "weeks": {
@@ -481,7 +482,8 @@
         "4": 19,
         "5": 16,
         "7": 13,
-        "8": 1
+        "8": 1,
+        "9": 9
       }
     },
     {

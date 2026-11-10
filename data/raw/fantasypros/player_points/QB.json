@@ -276,12 +276,12 @@
       }
     },
     {
-      "average": 27.5,
+      "average": 25.8,
       "filename": "josh-allen-qb.php",
-      "games": 7,
+      "games": 8,
       "player_id": 17298,
       "player_name": "Josh Allen",
-      "points": 192.82,
+      "points": 206.68,
       "position_id": "QB",
       "team_id": "BUF",
       "weeks": {
@@ -291,7 +291,8 @@
         "4": 19.5,
         "5": 31.5,
         "6": 18.3,
-        "8": 27.6
+        "8": 27.6,
+        "9": 13.9
       }
     },
     {
@@ -522,17 +523,18 @@
       }
     },
     {
-      "average": 12.8,
+      "average": 8.3,
       "filename": "carson-wentz.php",
-      "games": 2,
+      "games": 3,
       "player_id": 15520,
       "player_name": "Carson Wentz",
-      "points": 25.54,
+      "points": 24.779999999999998,
       "position_id": "QB",
       "team_id": "MIN",
       "weeks": {
         "1": 19.2,
-        "2": 6.3
+        "2": 6.3,
+        "9": -0.8
       }
     },
     {
@@ -1001,16 +1003,17 @@
       }
     },
     {
-      "average": -0.2,
+      "average": -0.1,
       "filename": "tyrod-taylor.php",
-      "games": 1,
+      "games": 2,
       "player_id": 10007,
       "player_name": "Tyrod Taylor",
       "points": -0.2,
       "position_id": "QB",
       "team_id": "GB",
       "weeks": {
-        "5": -0.2
+        "5": -0.2,
+        "9": 0
       }
     },
     {
@@ -1127,14 +1130,15 @@
     {
       "average": -0.2,
       "filename": "kyle-allen.php",
-      "games": 1,
+      "games": 2,
       "player_id": 17869,
       "player_name": "Kyle Allen",
-      "points": -0.2,
+      "points": -0.4,
       "position_id": "QB",
       "team_id": "BUF",
       "weeks": {
-        "8": -0.2
+        "8": -0.2,
+        "9": -0.2
       }
     },
     {
@@ -1162,6 +1166,19 @@
       "team_id": "IND",
       "weeks": {
         "8": 0.7
+      }
+    },
+    {
+      "average": 0,
+      "filename": "kyle-trask.php",
+      "games": 1,
+      "player_id": 19800,
+      "player_name": "Kyle Trask",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "DAL",
+      "weeks": {
+        "9": 0
       }
     },
     {
@@ -1201,6 +1218,19 @@
       "team_id": "HOU",
       "weeks": {
         "9": 0.1
+      }
+    },
+    {
+      "average": 2.3,
+      "filename": "max-brosmer.php",
+      "games": 1,
+      "player_id": 27580,
+      "player_name": "Max Brosmer",
+      "points": 2.32,
+      "position_id": "QB",
+      "team_id": "MIN",
+      "weeks": {
+        "9": 2.3
       }
     }
   ],
