@@ -1,5 +1,42 @@
 [
   {
+    "id": "mwa7vdex-2151ce47",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          },
+          {
+            "name": "Nico Collins",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jaxon Smith-Njigba",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": [],
+      "personalContext": "Corgi’s RB room is in shambles. He’s on a championship run, and needs rb1 production. You called Chuba his rb2, but he’d become corgis rb1"
+    },
+    "createdAt": 1794286527812,
+    "updatedAt": 1794286527812,
+    "expiresAt": 1794718527812,
+    "status": "queued"
+  },
+  {
     "id": "mwa7nzps-cb4d3f73",
     "phase": "initial",
     "mode": "analyze_trade",
