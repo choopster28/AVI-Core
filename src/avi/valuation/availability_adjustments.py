@@ -12,6 +12,7 @@ AVI_MANIFEST_PATH = Path("data/processed/avi/manifest.json")
 REGISTRY_PATH = Path("data/processed/identity/avi_player_registry.json")
 SLEEPER_PLAYERS_PATH = Path("data/raw/sleeper/nfl_players.json")
 FANTASYPROS_INJURIES_PATH = Path("data/raw/fantasypros/injuries.json")
+SEASON_ENDING_CONFIRMATIONS_PATH = Path("data/manual/season_ending_injury_confirmations_2026.json")
 
 FANTASY_CHAMPIONSHIP_END_WEEK = 17
 
@@ -84,6 +85,20 @@ def _load_injury_state() -> dict[str, dict[str, Any]]:
                 if not avi_id:
                     continue
                 merged.setdefault(avi_id, {})["fantasypros"] = record
+
+    # Verified season-ending news is not always represented in generic IR feeds.
+    # Match documented evidence by a stable source ID, not by player names.
+    if SEASON_ENDING_CONFIRMATIONS_PATH.exists():
+        confirmations = read_json(SEASON_ENDING_CONFIRMATIONS_PATH)
+        if isinstance(confirmations, dict) and confirmations.get("season") == 2026:
+            for report in confirmations.get("reports", []):
+                if not isinstance(report, dict) or report.get("season_ending") is not True:
+                    continue
+                if not report.get("source_url") or not report.get("confirmed_on"):
+                    continue
+                avi_id = by_fantasypros.get(str(report.get("fantasypros_id")))
+                if avi_id:
+                    merged.setdefault(avi_id, {})["season_ending_confirmation"] = report
 
     return merged
 
@@ -159,6 +174,13 @@ def _expected_missed_weeks(state: dict[str, Any], current_week: int) -> tuple[fl
     status = _status_text(state)
     comment = _comment_text(state)
     ir_weeks = _future_ir_weeks(state, current_week)
+
+    confirmation = state.get("season_ending_confirmation")
+    actionable = _sleeper_actionable(state) or bool(
+        {"out", "ir", "pup", "nfi"} & set(status.split())
+    ) or "injured reserve" in status
+    if isinstance(confirmation, dict) and confirmation.get("season_ending") is True and actionable:
+        return float(remaining), "season_ending"
 
     season_ending_terms = (
         "season ending", "out for season", "out for the season",
