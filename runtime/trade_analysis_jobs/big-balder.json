@@ -37,9 +37,10 @@
       "alternateAssets": []
     },
     "createdAt": 1794340317698,
-    "updatedAt": 1794340319590,
+    "updatedAt": 1794340429181,
     "expiresAt": 1794772317698,
-    "status": "running"
+    "status": "failed",
+    "error": "Trade analysis failed factual injury/role consistency checks. No misleading report was published."
   },
   {
     "id": "mwb3qyz9-4d36ffcc",
