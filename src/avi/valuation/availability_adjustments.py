@@ -68,6 +68,7 @@ def _load_injury_state() -> dict[str, dict[str, Any]]:
                     "injury_status": record.get("injury_status"),
                     "status": record.get("status"),
                     "practice_participation": record.get("practice_participation"),
+                    "injury_notes": record.get("injury_notes"),
                     "news_updated": record.get("news_updated"),
                 }
 
@@ -110,10 +111,21 @@ def _status_text(state: dict[str, Any]) -> str:
 
 
 def _comment_text(state: dict[str, Any]) -> str:
-    # FantasyPros can supplement a non-conflicting Sleeper designation,
-    # but a stale season-ending comment must not override Sleeper's current status.
+    """Read specific injury detail without letting old notes override a cleared player.
+
+    A generic current Sleeper designation (Out / IR) is compatible with a
+    FantasyPros season-ending explanation, not evidence against it. Previously,
+    ANY actionable Sleeper designation suppressed that explanation entirely.
+    """
+    sleeper = state.get("sleeper") if isinstance(state.get("sleeper"), dict) else {}
     fantasypros = state.get("fantasypros") if isinstance(state.get("fantasypros"), dict) else {}
-    return "" if _sleeper_actionable(state) else _norm(fantasypros.get("comment"))
+    current_status = _status_text(state)
+    cleared = any(term in current_status.split() for term in ("active", "healthy"))
+    if cleared and not _sleeper_actionable(state):
+        return ""
+    sleeper_notes = _norm(sleeper.get("injury_notes")) if _sleeper_actionable(state) else ""
+    fp_comment = _norm(fantasypros.get("comment"))
+    return " ".join(part for part in (sleeper_notes, fp_comment) if part)
 
 
 def _future_ir_weeks(state: dict[str, Any], current_week: int) -> float:
@@ -148,7 +160,20 @@ def _expected_missed_weeks(state: dict[str, Any], current_week: int) -> tuple[fl
     comment = _comment_text(state)
     ir_weeks = _future_ir_weeks(state, current_week)
 
-    if any(phrase in f"{status} {comment}" for phrase in ("season ending", "season-ending", "out for season", "out for the season", "remainder of the season", "miss the rest of the season", "will miss the season", "torn acl", "acl tear")):
+    season_ending_terms = (
+        "season ending", "out for season", "out for the season",
+        "remainder of the season", "rest of the season",
+        "miss the rest of the season", "will miss the season",
+        "ruled out for season", "done for the season",
+        "won't play again this season", "will not play again this season",
+        "torn acl", "acl tear",
+    )
+    detail = f"{status} {comment}"
+    # Explicitly reported season-ending absences take precedence over a generic
+    # Out/IR designation. Do not infer season-ending from IR alone.
+    if any(phrase in detail for phrase in season_ending_terms) and not any(
+        phrase in detail for phrase in ("not season ending", "not out for the season", "not season ending")
+    ):
         return float(remaining), "season_ending"
 
     status_tokens = set(status.split())
