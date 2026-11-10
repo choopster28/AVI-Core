@@ -1,5 +1,51 @@
 [
   {
+    "id": "mwb60ztd-ec10b4ae",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "neutral",
+      "personalContext": "Puka is out for an undefined period of time with multiple injuries. Pickens is fighting his own injury, and his future is unknown due to his franchise tag and salary constraints, he could end up in an awful situation again like Pittsburgh, so there is some future risk with him… goal of this trade is to build for next year for me, and replace conquistadors injury roster spots with immediate producers to solidify his championship run\n\nAdditional context: Conquistadors has enough rb depth that he can afford to lose Achane long term. His RBs next year would be breece, bijan, JT and Chuba. Pickens future is uncertain, as he’s on a franchise tag and Dallas likely won’t be able to pay him what he’s worth, so the “bet” is on him landing with a viable team vs. something like his old situation in Pittsburgh",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rashee Rice",
+            "assetType": "player"
+          },
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          },
+          {
+            "name": "2028 2nd · Balder · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "George Pickens",
+            "assetType": "player"
+          },
+          {
+            "name": "De'Von Achane",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794343897148,
+    "updatedAt": 1794343897148,
+    "expiresAt": 1794775897148,
+    "status": "queued"
+  },
+  {
     "id": "mwb5w7wy-82a923e3",
     "phase": "initial",
     "mode": "analyze_trade",
