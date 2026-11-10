@@ -1,5 +1,335 @@
 [
   {
+    "id": "mwaw128b-6435971a",
+    "createdAt": 1794327164840,
+    "expiresAt": 1794759164840,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Big Balder Brand ↔ Conquistadors",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "targetAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (Rebuild) has a high-leverage opportunity to acquire De'Von Achane from Conquistadors (Win Championship). Achane is officially on the Autobots trade block, but because he suffered a season-ending ACL injury in Week 3, his 2026 C-AVI is 0.0. Conquistadors cannot utilize Achane for their current championship push, while Big Balder Brand can afford to store his elite 88.5 D-AVI. By offering active starter Chuba Hubbard (73.3 C-AVI), Big Balder Brand provides Conquistadors with immediate starting RB/FLEX production for the playoffs while securing a younger, higher-ceiling dynasty anchor.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 73.3,
+              "davi": 83.3,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            }
+          ],
+          "sideB": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 0,
+              "davi": 88.5,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "A-",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "This offer represents an ideal win-win structure across opposing strategic windows. Big Balder Brand sacrifices short-term 2026 C-AVI (-73.3) to gain +5.2 D-AVI and age progression at RB with Achane (age 25 vs 27). Conquistadors gains +73.3 active C-AVI for their 2026 playoff run without surrendering an active weekly contributor."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "A-",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The proposed 1-for-1 swap of Chuba Hubbard for De'Von Achane fully satisfies both managers' objectives. No additional draft picks are required to motivate Conquistadors, as the immediate 73.3 C-AVI injection directly repairs their lineup depth."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 45,
+              "summary": "Major long-term dynasty boost by landing an S-tier talent in Achane while executing a proper rebuild strategy."
+            },
+            "championshipOutlook": {
+              "score": -60,
+              "summary": "Reduces immediate 2026 weekly scoring by surrendering active starter Chuba Hubbard, which aligns with the Rebuild objective."
+            },
+            "dynastyOutlook": {
+              "score": 65,
+              "summary": "Upgrades long-term dynasty RB upside, adding Achane (88.5 D-AVI) to pair with young core pieces for 2027 and beyond."
+            },
+            "lineupQuality": {
+              "score": -45,
+              "summary": "Temporarily opens a starting slot in 2026 while Achane remains on IR."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Slight reduction in active bench depth for the remainder of the 2026 season."
+            },
+            "flexibilityLiquidity": {
+              "score": 40,
+              "summary": "Achane retains premium liquid trade value once healthy ahead of the 2027 season."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 40,
+              "summary": "Conquistadors converts dead IR roster weight into a active 73.3 C-AVI starting RB for their title push."
+            },
+            "championshipOutlook": {
+              "score": 75,
+              "summary": "Directly enhances 2026 championship odds by adding an active, productive starter in Chuba Hubbard."
+            },
+            "dynastyOutlook": {
+              "score": -25,
+              "summary": "Modest concession in long-term dynasty ceiling by trading 25-year-old Achane for 27-year-old Hubbard."
+            },
+            "lineupQuality": {
+              "score": 70,
+              "summary": "Hubbard immediately enters the active starting lineup or top FLEX position, upgrading weekly floor."
+            },
+            "depthResilience": {
+              "score": 50,
+              "summary": "Protects against late-season injuries during the playoff stretch run."
+            },
+            "flexibilityLiquidity": {
+              "score": -10,
+              "summary": "Trades a premier long-term trade asset for immediate 2026 production."
+            }
+          },
+          "explanation": "The trade creates asymmetrical, complementary value: Big Balder Brand gains long-term dynasty equity (D-AVI) suitable for a rebuild, while Conquistadors gains immediate championship production (C-AVI) required for a title push."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand sheds 73.3 C-AVI in 2026, lowering current weekly point projections, which fits a rebuilding franchise seeking higher draft positioning.",
+          "sideADynastyImpact": "Gains +5.2 D-AVI equity and secures a 25-year-old explosive dual-threat RB bound to Miami on a long-term contract extension.",
+          "sideARosterImpact": "Removes Chuba Hubbard from active RB slots; Achane occupies an IR slot until 2027 OTAs.",
+          "sideBChampionshipImpact": "Conquistadors adds +73.3 active C-AVI directly into their championship lineup, replacing zero-point IR production.",
+          "sideBDynastyImpact": "Concedes a small portion of long-term D-AVI (88.5 to 83.3) to maximize 2026 title window.",
+          "sideBRosterImpact": "Hubbard immediately slots into RB2/FLEX, reinforcing lineup stability alongside Bijan Robinson and Jonathan Taylor.",
+          "valueAssessment": "Market value is balanced. Achane's 2026 C-AVI is 0.0 due to his season-ending ACL injury, allowing a rebuilder to acquire his 88.5 D-AVI at a fair price by providing active starter help."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus views De'Von Achane as a high-ceiling RB1 when healthy, but his Week 3 ACL tear creates an acquisition window for non-contending managers. Public redraft market values him at 0 for 2026.",
+          "aviVsMarket": "AVI accurately sets Achane's 2026 C-AVI to 0.0 while preserving his 88.5 D-AVI. Public market keep-trade-cut values recognize him as a prime target for rebuilders.",
+          "relevantContext": [
+            "De'Von Achane suffered a Grade 3 ACL tear in Week 3 of 2026 and is ruled out for the remainder of the season.",
+            "Achane signed a 4-year extension with Miami prior to 2026, ensuring long-term security.",
+            "Conquistadors is a verified Champion Favorite needing active 2026 points."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Thecan (Conquistadors) is focused on winning the 2026 championship. Holding an injured player on IR provides zero weekly points toward that goal.",
+          "packageFit": "Chuba Hubbard gives Conquistadors a proven, high-volume RB (73.3 C-AVI) who fits into their active weekly rotation immediately.",
+          "lineupReplacement": "Achane currently produces 0 points in Conquistadors' active lineup; Hubbard provides an instant +73.3 C-AVI upgrade to their active roster.",
+          "competitiveWindowFit": "Conquistadors' window is NOW (2026). Big Balder Brand's window is FUTURE (2027+). The trade perfectly aligns both competitive timelines.",
+          "positionalScarcity": "Starting RBs with guaranteed volume are highly scarce in a 16-team PPR format, making Hubbard extremely valuable to a contender."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 24,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 96,
+          "classification": "Highly Realistic",
+          "explanation": "De'Von Achane is explicitly listed on the Autobots public trade block. Because Conquistadors is competing for a championship and Achane is out for 2026, receiving active starter Chuba Hubbard presents a compelling motivation for Thecan to accept."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Proposing Chuba Hubbard for De'Von Achane is a text-book win-win trade. It advances Big Balder Brand's rebuild by acquiring an 88.5 D-AVI cornerstone while delivering Conquistadors the active 73.3 C-AVI production they need to win the 2026 title.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 73.3,
+              "davi": 83.3,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            }
+          ],
+          "receive": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 0,
+              "davi": 88.5,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            }
+          ],
+          "whyUserShouldDoIt": "You exchange a 27-year-old active RB (Hubbard) whose points do not help a 2026 rebuild, securing a 25-year-old elite dynasty weapon (Achane) with 88.5 D-AVI for your 2027 breakout.",
+          "whyOpponentMightAccept": "Conquistadors is trying to win the championship this year. Achane delivers 0 points on IR, while Hubbard immediately gives them 73.3 C-AVI starting production."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 73.3,
+              "davi": 83.3,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2028 Round 3 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 16.5,
+              "publicMarket": 15,
+              "leagueMarket": 16.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 0,
+              "davi": 88.5,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            }
+          ],
+          "rationale": "If Conquistadors requests a minor sweetener to part with Achane's high dynasty ceiling, adding a 2028 3rd round pick closes the deal without compromising your core rebuild draft capital."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "De Von Achane news 2026 NFL injury status contract dynasty market",
+          "De Von Achane stats 2024 2025 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1C3UsqImFWuHD3rLP1UulVijG_OvObQ5M_7yOT-eYnclkGJ9aTuKEEVqabafthB7XBiNQq0-QwLeLKGdeyd6-OaDtvvkyEj3GmLAhPhSPnEK55hgOxPssJrAaXKGvkduetyWY6bgimncGAeyzwaECgBLK0B1iJ83V-Gs=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtEjBkU4Q0cGTgiBmJbt-cqs_bvfiPBjBcMVpXkpJ_f_COr7yousnOS-5D0E_0FBgUe1HE5PcE3mX8SJTHWsTDuKMIFx6ghosyjqBmUV1s2oQqfRD9KiWxx64o76KkO_CSSdv0Y2gwAEAou2quOPCn3g==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0qWUyx06ytOhMrBAA8i6y90FcQTzXP3x-BvfauiuXp2PO6gctyEtZysYrbbDfi-iSHNvbeskKovZ6_A7ShK-9mmGrqTkPFS5JSzTLhm3NhSf_3JNZPcYcjgsOx6Xr1E6SDv6naqcKA99r1YIKIop77lhkQh4oXwXh661ormrSsPc=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdFTtKcJRwf0CJaIDTKLekVb_jBqzW5k90BmQ9erGDNv9J9RrfSs_AqJN3-XPYjtiN8JHOovhvB6asRM84sNmrR5y7jjJzZkaQcq_mk2KkUoFI64N_PwebltLBAvKtus8j",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwWNycmgjDkqNAdjaYnbcXPBi6-swjsW7L09Xr9q6t8ZprCXJDY1FoAGbHhnHXwTXFnflVCvSInMThMR16F_bt9RVSx6z76vWUWyy6kmB3JYCLH3m2yXnl_w5XM15rRE-cqDLIFAdpnm96mar6b0VS3U92lOKr2e9swYCaaSs=",
+            "title": "thedevyroyale.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFg_5dQaJTkHfYMu2oTt-YnktnPZxPRnwJapYHEQsNeJT94EUiLSVs01Gzo9b0o6OQP85f63Qpj8lre6CILS0lutzLXBT54xjDpc_TL60zy2oMGHSK2ORylU0_lS3qidqfKGD-9oUzdc2f0SVX5GjVLSgwop7_6uf3IRUVUACvXtHlAfOmUSatVZzQHgQ=",
+            "title": "realgm.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH57U520jyRFqWDIr6Mi6hgOw0zUqPvCUDwEJ4JpXOU4GWMIUyXrtydV7BOOxYfaYD0nG0iKZbE-qQceAA58WPqpQKgg6sjx5yAZoo46TtJyU7Gtx6WbxlwEujIHd3BQJcYGS9HyiZHv1oJ0xjxK89NxLj7B79ZxAAAGf2UIn305_Yc5qalYQ==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5oVsTQV5SquyDPcoNqHH-VNDgvrjVrdJEmBILsMkrf7PUvgAIDzyJU8-BpKiOFWwgWML4JbKPQPYZDXropJR7ZNduNRMI7mrVXPL2VhbfZBbbbaeKM0xF3PTKuJf937VYZYnsbEwDg0riv3U=",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "28d5d2673f03c91d3af9e96506f4ffbdf113baa0",
+        "aviCoreCommittedAt": "2026-11-10T13:58:49Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 88302,
+        "groundedMarketChars": 3949,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mwa7vdex-2151ce47",
     "createdAt": 1794286543110,
     "expiresAt": 1794718543110,
