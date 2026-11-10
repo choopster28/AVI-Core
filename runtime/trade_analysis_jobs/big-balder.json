@@ -20,9 +20,305 @@
       "personalContext": "Achane should be zero c-avi he’s out the rest of the year. Conquistadors is a championship favorite, but is fighting injuries at the wide receiver position. Acquiring Achane is a move for next year, as my season is already over at 1-8. Conquistadors needs WR help as he just lost puka Nacua for an undetermined amount of time, Pickens is fighting off a hamstring injury, so his only fantasy relevant wide receivers are golden and a bench/waiver guy at wr2. Is there a deal you can build, understanding his needs to solidify his champ run, understanding Achane is a future value acquisition since he’s out for the year and my season is done"
     },
     "createdAt": 1794327389717,
-    "updatedAt": 1794327391570,
+    "updatedAt": 1794327404989,
     "expiresAt": 1794759389717,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (Rebuild, 1-8 record) targets 25-year-old RB De'Von Achane from Conquistadors (Win Championship). Conquistadors is facing a major injury crisis at wide receiver with Puka Nacua out indefinitely and George Pickens dealing with a hamstring issue. While Chuba Hubbard addressed early-round RB needs, Conquistadors urgently requires active, high-impact wide receiver production for their championship run. By expanding the trade to include reliable starting wide receiver help (such as Chris Godwin Jr.), Big Balder Brand satisfies Conquistadors' immediate championship-window positional emergency while acquiring Achane's elite future D-AVI value for their 2027+ rebuild.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 73.3,
+              "davi": 83.3,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            },
+            {
+              "name": "Chris Godwin Jr.",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 37.3,
+              "davi": 72,
+              "publicMarket": 35,
+              "leagueMarket": 36
+            }
+          ],
+          "sideB": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 0,
+              "davi": 88.5,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B",
+            "otherGrade": "A-",
+            "userShare": 48,
+            "otherShare": 52,
+            "advantageFranchise": "Conquistadors",
+            "summary": "The initial 1-for-1 trade proposal does not sufficiently address Conquistadors' urgent WR injuries (Puka Nacua and George Pickens). Factoring in personal context and championship needs, Conquistadors requires both RB and WR starting production to move a cornerstone asset like Achane."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "A",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Balanced",
+            "summary": "Expanding the package to send Chuba Hubbard and Chris Godwin Jr. for De'Von Achane accurately solves Conquistadors' championship roster crisis by replacing lost production at both RB and WR, while allowing Big Balder Brand to successfully anchor their rebuild with an elite 25-year-old dynasty asset."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 50,
+              "summary": "Strong execution for a 1-8 rebuilding team by consolidating win-now assets into an elite young cornerstone."
+            },
+            "championshipOutlook": {
+              "score": -70,
+              "summary": "Intentionally reduces current-season scoring to protect draft lottery positioning."
+            },
+            "dynastyOutlook": {
+              "score": 75,
+              "summary": "Secures an elite Tier-1 dynasty running back asset (88.5 D-AVI) to build around for 2027."
+            },
+            "lineupQuality": {
+              "score": -50,
+              "summary": "Removes veteran production from active starting slots."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Reduces short-term roster depth in exchange for elite top-end value."
+            },
+            "flexibilityLiquidity": {
+              "score": 45,
+              "summary": "Achane commands immense market liquidity as a cornerstone piece."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 60,
+              "summary": "Directly patches critical injury gaps at both RB and WR to secure a championship title run."
+            },
+            "championshipOutlook": {
+              "score": 85,
+              "summary": "Adds vital multi-positional depth (Hubbard and Godwin) to offset the losses of Puka Nacua and injured options."
+            },
+            "dynastyOutlook": {
+              "score": -30,
+              "summary": "Surrenders long-term D-AVI upside in Achane to maximize 2026 title equity."
+            },
+            "lineupQuality": {
+              "score": 80,
+              "summary": "Immediately fills starting holes caused by multi-week injuries to key pass-catchers and runners."
+            },
+            "depthResilience": {
+              "score": 65,
+              "summary": "Provides necessary insurance against late-season playoff attrition."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Liquidates premier youth dynasty value for immediate single-season production."
+            }
+          },
+          "explanation": "The revised trade package respects the partner's championship window and acute injury vulnerabilities at wide receiver, transforming a speculative 1-for-1 offer into a mutually compelling deal structure."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand accelerates its tanking profile by offloading active veterans for an injured player.",
+          "sideADynastyImpact": "Acquires an elite 25-year-old running back under long-term contract in Miami, fortifying the 2027 rebuild core.",
+          "sideARosterImpact": "Clears veteran offense off active weekly slots while Achane stashes safely on IR.",
+          "sideBChampionshipImpact": "Conquistadors stabilizes its championship favorite status by replacing injured production with two proven starters.",
+          "sideBDynastyImpact": "Trades away future upside to maximize the 2026 championship window.",
+          "sideBRosterImpact": "Brings in Chuba Hubbard and Chris Godwin Jr. to plug gaps left by Puka Nacua and George Pickens.",
+          "valueAssessment": "Balanced valuation when factoring in the contender's desperate need for immediate starter replacements across multiple positions due to injuries."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus values De'Von Achane as an elite dynasty asset despite his 2026 absence, while veterans like Godwin and Hubbard hold steady win-now utility for contenders.",
+          "aviVsMarket": "AVI appropriately assigns 0.0 C-AVI to Achane for the remainder of 2026 while upholding his elite 88.5 D-AVI dynasty valuation.",
+          "relevantContext": [
+            "Conquistadors is a top championship contender dealing with significant WR injuries.",
+            "Big Balder Brand is out of contention at 1-8 and focusing entirely on 2027 value acquisition."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Thecan (Conquistadors) is contending for the championship but faces severe roster constraints due to injuries to Puka Nacua and George Pickens.",
+          "packageFit": "Adding Chris Godwin Jr. alongside Chuba Hubbard directly answers Conquistadors' need for wide receiver depth and starting running back volume.",
+          "lineupReplacement": "Godwin and Hubbard step directly into active starting and flex roles to offset zero-point production from injured starters.",
+          "competitiveWindowFit": "Perfect alignment: the contender secures win-now starters, and the rebuilder acquires a high-end future cornerstone.",
+          "positionalScarcity": "Starting-caliber wide receiver and running back depth are exceptionally valuable for a championship favorite enduring late-season injuries."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 25,
+            "packageMatch": 19,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 92,
+          "classification": "Highly Realistic",
+          "explanation": "With Achane explicitly on the trade block and Conquistadors fighting severe wide receiver injuries after losing Puka Nacua, offering a package featuring both Chuba Hubbard and Chris Godwin Jr. directly solves their championship roster crisis."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Incorporating personal context regarding Conquistadors' wide receiver injuries (Puka Nacua and George Pickens) reveals that a simple 1-for-1 for Hubbard is insufficient. Expanding the offer to include Chris Godwin Jr. alongside Hubbard gives the contender the exact multi-positional support they need, making acceptance highly probable while securing Achane for your rebuild.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 73.3,
+              "davi": 83.3,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            },
+            {
+              "name": "Chris Godwin Jr.",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 37.3,
+              "davi": 72,
+              "publicMarket": 35,
+              "leagueMarket": 36
+            }
+          ],
+          "receive": [
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 0,
+              "davi": 88.5,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            }
+          ],
+          "whyUserShouldDoIt": "You leverage your veteran depth during a lost 1-8 season to acquire a premier 25-year-old dynasty cornerstone (Achane) for 2027 and beyond.",
+          "whyOpponentMightAccept": "Conquistadors is a championship favorite dealing with devastating injuries to Puka Nacua and George Pickens. Getting both Chuba Hubbard and Chris Godwin Jr. directly repairs their starting lineup and keeps their title hopes alive."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Applied personal context regarding the user's 1-8 record, the trade partner's championship status, and critical wide receiver injuries to Puka Nacua and George Pickens. Expanded the recommended package to include Chris Godwin Jr. alongside Chuba Hubbard to meet the partner's win-now needs."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "De Von Achane news 2026 NFL injury status contract dynasty market",
+          "De Von Achane stats 2024 2025 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1C3UsqImFWuHD3rLP1UulVijG_OvObQ5M_7yOT-eYnclkGJ9aTuKEEVqabafthB7XBiNQq0-QwLeLKGdeyd6-OaDtvvkyEj3GmLAhPhSPnEK55hgOxPssJrAaXKGvkduetyWY6bgimncGAeyzwaECgBLK0B1iJ83V-Gs=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtEjBkU4Q0cGTgiBmJbt-cqs_bvfiPBjBcMVpXkpJ_f_COr7yousnOS-5D0E_0FBgUe1HE5PcE3mX8SJTHWsTDuKMIFx6ghosyjqBmUV1s2oQqfRD9KiWxx64o76KkO_CSSdv0Y2gwAEAou2quOPCn3g==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0qWUyx06ytOhMrBAA8i6y90FcQTzXP3x-BvfauiuXp2PO6gctyEtZysYrbbDfi-iSHNvbeskKovZ6_A7ShK-9mmGrqTkPFS5JSzTLhm3NhSf_3JNZPcYcjgsOx6Xr1E6SDv6naqcKA99r1YIKIop77lhkQh4oXwXh661ormrSsPc=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdFTtKcJRwf0CJaIDTKLekVb_jBqzW5k90BmQ9erGDNv9J9RrfSs_AqJN3-XPYjtiN8JHOovhvB6asRM84sNmrR5y7jjJzZkaQcq_mk2KkUoFI64N_PwebltLBAvKtus8j",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwWNycmgjDkqNAdjaYnbcXPBi6-swjsW7L09Xr9q6t8ZprCXJDY1FoAGbHhnHXwTXFnflVCvSInMThMR16F_bt9RVSx6z76vWUWyy6kmB3JYCLH3m2yXnl_w5XM15rRE-cqDLIFAdpnm96mar6b0VS3U92lOKr2e9swYCaaSs=",
+            "title": "thedevyroyale.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFg_5dQaJTkHfYMu2oTt-YnktnPZxPRnwJapYHEQsNeJT94EUiLSVs01Gzo9b0o6OQP85f63Qpj8lre6CILS0lutzLXBT54xjDpc_TL60zy2oMGHSK2ORylU0_lS3qidqfKGD-9oUzdc2f0SVX5GjVLSgwop7_6uf3IRUVUACvXtHlAfOmUSatVZzQHgQ=",
+            "title": "realgm.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH57U520jyRFqWDIr6Mi6hgOw0zUqPvCUDwEJ4JpXOU4GWMIUyXrtydV7BOOxYfaYD0nG0iKZbE-qQceAA58WPqpQKgg6sjx5yAZoo46TtJyU7Gtx6WbxlwEujIHd3BQJcYGS9HyiZHv1oJ0xjxK89NxLj7B79ZxAAAGf2UIn305_Yc5qalYQ==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5oVsTQV5SquyDPcoNqHH-VNDgvrjVrdJEmBILsMkrf7PUvgAIDzyJU8-BpKiOFWwgWML4JbKPQPYZDXropJR7ZNduNRMI7mrVXPL2VhbfZBbbbaeKM0xF3PTKuJf937VYZYnsbEwDg0riv3U=",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "28d5d2673f03c91d3af9e96506f4ffbdf113baa0",
+        "aviCoreCommittedAt": "2026-11-10T13:58:49Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 88302,
+        "groundedMarketChars": 3949,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mwaw128b-6435971a",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "28d5d2673f03c91d3af9e96506f4ffbdf113baa0"
+      }
+    }
   },
   {
     "id": "mwaw128b-6435971a",
