@@ -80,3 +80,28 @@ def test_confirmed_season_ending_can_be_reversed_when_cleared():
     state = {"sleeper": {"injury_status": None, "status": "Active"}}
     missed, reason = _expected_missed_weeks(state, 10)
     assert (missed, reason) == (0.0, "healthy_or_no_actionable_designation")
+
+
+def test_sourced_confirmation_overrides_generic_injury_feed_without_player_exceptions():
+    state = {
+        "sleeper": {"injury_status": "Out", "status": "IR"},
+        "fantasypros": {"status": "OUT", "comment": "injured"},
+        "season_ending_confirmation": {
+            "season_ending": True,
+            "source_url": "https://www.nfl.com/news/example",
+            "confirmed_on": "2026-09-28",
+        },
+    }
+    missed, reason = _expected_missed_weeks(state, 10)
+    assert (missed, reason) == (8.0, "season_ending")
+    assert _apply_projection_aware_cap(50.0, _availability_ceiling(10, missed))[0] == 0.0
+
+
+def test_sourced_confirmation_cannot_zero_a_cleared_player():
+    state = {
+        "sleeper": {"injury_status": None, "status": "Active"},
+        "fantasypros": {"status": "", "comment": ""},
+        "season_ending_confirmation": {"season_ending": True},
+    }
+    missed, reason = _expected_missed_weeks(state, 10)
+    assert (missed, reason) == (0.0, "healthy_or_no_actionable_designation")
