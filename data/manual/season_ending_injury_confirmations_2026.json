@@ -1,0 +1,16 @@
+{
+  "season": 2026,
+  "description": "Source-backed confirmations of season-ending injuries that generic Sleeper/FantasyPros OUT or IR labels do not describe. Entries are evidence, not player-specific valuation rules. Apply only while a current injury designation remains active.",
+  "reports": [
+    {
+      "fantasypros_id": "23136",
+      "player_name": "De'Von Achane",
+      "team": "MIA",
+      "injury": "Torn ACL",
+      "confirmed_on": "2026-09-28",
+      "source": "NFL.com",
+      "source_url": "https://www.nfl.com/news/dolphins-rb-devon-achane-miss-2026-season-acl-tear",
+      "season_ending": true
+    }
+  ]
+}
