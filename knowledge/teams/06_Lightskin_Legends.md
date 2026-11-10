@@ -338,7 +338,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Current owner roster ID: 6
 - Position: K
 - Fantasy positions: ['K']
-- NFL team: ATL
+- NFL team: None
 - Active: True
 - Status: Active
 - Age: 42.0

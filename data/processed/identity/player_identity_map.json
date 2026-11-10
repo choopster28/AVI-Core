@@ -2736,9 +2736,9 @@
     "sleeper_id": "9511"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "11616",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "IND",
     "player_name": "Keenan Allen",
     "position": "WR",
@@ -3348,9 +3348,9 @@
     "sleeper_id": "13288"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "9491",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "ATL",
     "player_name": "Nick Folk",
     "position": "K",

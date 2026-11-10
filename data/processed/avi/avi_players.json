@@ -17612,11 +17612,11 @@
       "weekly_ceiling_points": 18.3
     },
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "IND",
+    "nfl_team": "SF",
     "normalized_name": "keenan allen",
     "position": "WR",
     "projection": {
