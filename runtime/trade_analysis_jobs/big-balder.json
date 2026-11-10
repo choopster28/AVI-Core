@@ -1,5 +1,47 @@
 [
   {
+    "id": "mwb1r8b4-93e7acc9",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "neutral",
+      "personalContext": "Conquistadors just lost Nacua for an unspecified period of time, and Pickens himself is battling hamstring issues. Pickens future in Dallas is also uncertain given his franchise tag, he may end up on a terrible team next year and beyond. This trade is intended to take his injured slots and provide immediate production to solidify his championship push, and posture me for next year considering my season is absolutely over",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rashee Rice",
+            "assetType": "player"
+          },
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "George Pickens",
+            "assetType": "player"
+          },
+          {
+            "name": "De'Von Achane",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794336722896,
+    "updatedAt": 1794336722896,
+    "expiresAt": 1794768722896,
+    "status": "queued"
+  },
+  {
     "id": "mwb0fcoe-57ab3a60",
     "phase": "final",
     "mode": "analyze_trade",
