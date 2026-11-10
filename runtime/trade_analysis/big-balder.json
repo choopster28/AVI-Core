@@ -1,5 +1,455 @@
 [
   {
+    "id": "mwb1r8b4-93e7acc9",
+    "createdAt": 1794336787111,
+    "expiresAt": 1794768787111,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Big Balder Brand ↔ Conquistadors",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "neutral",
+      "personalContext": "Conquistadors just lost Nacua for an unspecified period of time, and Pickens himself is battling hamstring issues. Pickens future in Dallas is also uncertain given his franchise tag, he may end up on a terrible team next year and beyond. This trade is intended to take his injured slots and provide immediate production to solidify his championship push, and posture me for next year considering my season is absolutely over",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rashee Rice",
+            "assetType": "player"
+          },
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "George Pickens",
+            "assetType": "player"
+          },
+          {
+            "name": "De'Von Achane",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This proposed transaction represents an ideal win-win alignment between contrasting organizational goals in a 16-team league. Rebuilding Big Balder Brand offloads 27-year-old running back Chuba Hubbard and wide receiver Rashee Rice to acquire 25-year-old cornerstone wide receiver George Pickens (92.9 D-AVI) and explosive running back De'Von Achane (79.3 D-AVI). Meanwhile, championship contender Conquistadors—facing acute starting lineup attrition due to Puka Nacua's injury, Pickens' soft-tissue ailment, and Achane's season-ending ACL injury (0.0 C-AVI)—gains +52.2 C-AVI in immediate, active starting production to bolster their 2026 title push.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 59.4,
+              "davi": 86.3,
+              "publicMarket": 82,
+              "leagueMarket": 84
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 72.9,
+              "davi": 83.3,
+              "publicMarket": 74,
+              "leagueMarket": 75
+            }
+          ],
+          "sideB": [
+            {
+              "name": "George Pickens",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 25,
+              "cavi": 80.1,
+              "davi": 92.9,
+              "publicMarket": 88,
+              "leagueMarket": 89
+            },
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand captures the premier dynasty asset in George Pickens (92.9 D-AVI) while taking on injured core pieces for next season. Conquistadors successfully converts zero-production IR capital (Achane) and a hampered Pickens into two active starting contributors (+52.2 C-AVI net gain) to keep their championship run intact."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand captures the premier dynasty asset in George Pickens (92.9 D-AVI) while taking on injured core pieces for next season. Conquistadors successfully converts zero-production IR capital (Achane) and a hampered Pickens into two active starting contributors (+52.2 C-AVI net gain) to keep their championship run intact."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -25,
+              "summary": "Intentionally reduces current 2026 points output to pivot toward a top 2027 draft position."
+            },
+            "dynastyOutlook": {
+              "score": 55,
+              "summary": "Secures an elite 25-year-old receiver core asset in Pickens (92.9 D-AVI)."
+            },
+            "lineupQuality": {
+              "score": -20,
+              "summary": "Temporarily surrenders active starters in Hubbard and Rice during a non-competitive year."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Exchanges short-term depth for higher-ceiling long-term assets."
+            },
+            "flexibilityLiquidity": {
+              "score": 30,
+              "summary": "Pickens provides premier liquid trade value and foundational roster stability."
+            },
+            "overall": {
+              "score": 8,
+              "summary": "Big Balder Brand captures the premier dynasty asset in George Pickens (92.9 D-AVI) while taking on injured core pieces for next season. Conquistadors successfully converts zero-production IR capital (Achane) and a hampered Pickens into two active starting contributors (+52.2 C-AVI net gain) to keep their championship run intact."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Injects +52.2 C-AVI in active weekly production to compensate for severe roster injuries."
+            },
+            "dynastyOutlook": {
+              "score": -25,
+              "summary": "Parts with top-tier young receiver talent in Pickens to maximize present-season championship window."
+            },
+            "lineupQuality": {
+              "score": 45,
+              "summary": "Chuba Hubbard immediately fills a critical starting RB hole, while Rice provides active WR depth."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Replaces zero-C-AVI IR assets with healthy, dependable starters in a 16-team format."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Modest reduction in peak dynasty liquidity by trading Pickens."
+            },
+            "overall": {
+              "score": -8,
+              "summary": "Big Balder Brand captures the premier dynasty asset in George Pickens (92.9 D-AVI) while taking on injured core pieces for next season. Conquistadors successfully converts zero-production IR capital (Achane) and a hampered Pickens into two active starting contributors (+52.2 C-AVI net gain) to keep their championship run intact."
+            }
+          },
+          "explanation": "Big Balder Brand accelerates its rebuild by securing young dynasty talent, while Conquistadors trades future ceiling to solve an immediate injury emergency and safeguard its 2026 championship push."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand intentionally reduces 2026 weekly output by trading away active starters Chuba Hubbard (72.9 C-AVI) and Rashee Rice (59.4 C-AVI), perfectly aligning with a rebuild objective.",
+          "sideADynastyImpact": "Big Balder Brand secures the centerpiece asset in 25-year-old George Pickens (92.9 D-AVI) alongside De'Von Achane (79.3 D-AVI), significantly elevating the organization's multi-year ceiling.",
+          "sideARosterImpact": "Clears aging or high-risk current starters from the active roster while stashing elite talent for the 2027 season.",
+          "sideBChampionshipImpact": "Conquistadors achieves a net gain of +52.2 C-AVI in active production by swapping season-ending IR asset De'Von Achane (0.0 C-AVI) and hampered Pickens for active producers Hubbard and Rice.",
+          "sideBDynastyImpact": "Conquistadors surrenders long-term dynasty ceiling in Pickens, prioritizing immediate trophy contention over distant asset valuation.",
+          "sideBRosterImpact": "Fills critical starting lineup voids caused by injuries to Puka Nacua and soft-tissue limitations for Pickens.",
+          "valueAssessment": "A balanced trade where Big Balder Brand wins long-term dynasty value while Conquistadors wins immediate 2026 championship points."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty sentiment values George Pickens as an elite perimeter target with high-end WR1 ceiling, while De'Von Achane retains strong dynasty appeal despite a season-ending ACL injury. Rashee Rice carries target efficiency but ongoing off-field liabilities, and Chuba Hubbard is recognized as a dependable, volume-based RB2 starter.",
+          "aviVsMarket": "The AVI valuation matches public market trends, heavily weighting Pickens as the premier long-term piece while accounting for Achane's zero current-season C-AVI due to injury.",
+          "relevantContext": [
+            "George Pickens had a breakout 1,429-yard campaign in 2025 and is 25 years old, though dealing with soft-tissue limitations.",
+            "De'Von Achane suffered a season-ending ACL tear in Week 3 of 2026, setting his 2026 C-AVI strictly to 0.0.",
+            "Rashee Rice maintains strong target share metrics with Patrick Mahomes but carries ongoing off-field legal risks.",
+            "Chuba Hubbard serves as Carolina's offensive captain with established high volume under Dave Canales."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors is a Champion Favorite whose roster has been hit by major injury setbacks to Puka Nacua and Pickens. They need healthy, active starter points immediately to protect their playoff seed and championship odds.",
+          "packageFit": "Chuba Hubbard delivers immediate RB2 volume in a 16-team league where starting RBs are scarce, and Rashee Rice provides an active starting WR option.",
+          "lineupReplacement": "Hubbard directly replaces Achane's 0.0 C-AVI IR slot with 72.9 C-AVI, and Rice replaces Pickens' missing output with 59.4 C-AVI.",
+          "competitiveWindowFit": "Ideal window alignment: Conquistadors optimizes for the 2026 title, while Big Balder Brand optimizes for 2027 and beyond.",
+          "positionalScarcity": "Starting running backs with guaranteed workload hold elevated leverage in a 16-team full PPR league."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 10,
+            "packageMatch": 0,
+            "lineupReplacement": 4,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 48,
+          "classification": "Unlikely",
+          "explanation": "Cornerstone downgrade: seller relinquishes D-AVI 92.9 for a strongest returning player at 86.3, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "structuralRejection": "Cornerstone downgrade: seller relinquishes D-AVI 92.9 for a strongest returning player at 86.3, without enough premium first-round capital or proven starting assets to bridge the quality gap."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Trade-partner acceptance not supported: Cornerstone downgrade: seller relinquishes D-AVI 92.9 for a strongest returning player at 86.3, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 59.4,
+              "davi": 86.3,
+              "publicMarket": 82,
+              "leagueMarket": 84
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 72.9,
+              "davi": 83.3,
+              "publicMarket": 74,
+              "leagueMarket": 75
+            }
+          ],
+          "receive": [
+            {
+              "name": "George Pickens",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 25,
+              "cavi": 80.1,
+              "davi": 92.9,
+              "publicMarket": 88,
+              "leagueMarket": 89
+            },
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            }
+          ],
+          "whyUserShouldDoIt": "Acquires the best young dynasty asset in the trade (George Pickens, 92.9 D-AVI) and an explosive long-term back (De'Von Achane) while selling high on a 27-year-old RB during a lost season.",
+          "whyOpponentMightAccept": "Provides immediate, healthy starting lineup production (+52.2 C-AVI) in Chuba Hubbard and Rashee Rice to replace injured starters during an active championship push."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 59.4,
+              "davi": 86.3,
+              "publicMarket": 82,
+              "leagueMarket": 84
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 72.9,
+              "davi": 83.3,
+              "publicMarket": 74,
+              "leagueMarket": 75
+            },
+            {
+              "name": "2028 Round 3 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 16.5,
+              "publicMarket": 20,
+              "leagueMarket": 20
+            }
+          ],
+          "receive": [
+            {
+              "name": "George Pickens",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 25,
+              "cavi": 80.1,
+              "davi": 92.9,
+              "publicMarket": 88,
+              "leagueMarket": 89
+            },
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            }
+          ],
+          "rationale": "If Conquistadors seeks a minor draft sweetener to compensate for parting with Pickens' long-term ceiling, adding a 2028 3rd-round pick bridges any minor value gap without hurting Big Balder Brand's core rebuild assets."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "User accurately noted Conquistadors' emergency lineup situation due to Nacua's injury and Pickens' soft-tissue issues, confirming user's pivot to a full rebuild strategy."
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "George Pickens news 2026",
+          "Rashee Rice news 2026",
+          "Chuba Hubbard news 2026",
+          "DeVon Achane news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF52ZpcIRdPJ5tGTGJF16zg1Oa_bvDQ-YC1eYxUvD8VYmFwJ6QLOtegfB89XRTTGlR38WhU_jfyb4xY-kI8wrdoLzhNtlolSdrXf_1Htf9ePPRBNBkBIQgXXz1bN-d7e2lc93g67ODroFmlrlvqwQei_Itl9TppVC28ubV8h3UHNi7oP-xnjN5QN76mYgvN3SRuErGCe4NkjyRKMjDUFA==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe_PP3y3JQdhFQ1XvGrDOtSkWBFYRGA4ZzxgxljVRPmDOJK0TFfFn7n-D0gxSY8LWeY3WqK_Toa3tmTNlGy_sNyVUdFJe0oCEPnf0Wmf22IMjiZAphzVRo3iv7wSbDBalvmiaP17SMjKSFcHRy8-FVFcoxr7GHeu3o96Asr83bixr6iZsLetfJylen1F8aQpFJdcgqfP0MVT4F1w==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqCug_3BH5Rms5BAVa9yf4uffFxMqouGolU9MEgPPoNt3rMK6d10Yn_OAssWoTywlm7lJHcJSuYbvGG1N3VzMm7nZvdQFRk8Y5xaOtkrS5rlH8aKnM5e1WSZy83f7sy4RHBhHVeO9dQfMCPzPgyqjpLdqifnr16Jv9w9rvnnB9",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIrbjIKWeSZ4tGLk8VoUdtXWRU70KSW4Oiw3Gj-ArykgDUGLSZZxLB9mf5i5kNAfJYZbjJ8U8BKflFc_6ly38EbKx4aJlBlxBotZ0k41H7gnyne8Wn4X9nwA-jK_UBpX9AvIeygHa7UkVkwZf3VJWfgER3F5xxeW0y6q88WXQjFb3TFyth-62QXBNBG-DvNil-qbuYoODV7X7sR-WZrt4bl7uN93Q=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUkjFyPjsuWHTdez6AZKrrJAjh8dPj9TgQBgPk1j6hhAyPEfEH4K6LIabW2ShnYMEMApBPtXUKP-ZATqZP8R650COasAQmdS2LSTvvGbfXQQVpj1Z7eUTnNcSKpz2GW5xvJeUfdNMfTgPeXVt8mRnmgAzwHewWxyOk-g6dVYy0Eoy-hZX_qzypaGBSiBIAm2lYfxjjr6qNxP7m1lvgEj0e9XPAyBe0",
+            "title": "roundtable.io"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-hwGef-FQdfWpl6uzz05ALuLsXNg81lYTkKKjzAjN7Q7p08IN2XLFYG2cCSYLZhOz_7TCGHH9Ey0xqbnBTgDidiMzOQw9ihtCGkQHJBIhW9dF0RIizlbaNoweUQTd0kiuv1fqaar08N7pXjZWCJv5Y5-kq9twoHUO7cso2HyQG8aPNnrKFxrgI7jYa5SfDwWTyo1j5mWtUrGp7Jn2KUkgq4hq6A==",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmpn9cM-14SckyILdl3s5HcL3tE4J7ZtCKf0sjMLGs8Q6no7p1MPMx7yZONYKgxMVUmCfasWxF0bMPw0iYWZ8HkQ0AN0dhoHa52kajusQE3tXmMaNTjS8nj9vaUHbZD0is9YpcXdbt4mYeD0wR5-MG3S1AfD2qi1qNQKyD2ZlGrmkYZdz5h0zkTzcO8Z4g4yr4Rg8AMdtMyyjSDN3X4pkHQb-oavVczErHvt0pFYDx106nta4=",
+            "title": "panthers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXqH7acNyFp9QYxLMVQ9KE1NQoSq0_bQMce45UBIzvGtL6seFhuyw_m13YdZiRLi1MAtm75F28c0DG3l3P6ix6EdOazZyE3jgo5zVWnisIrA_DOSE66uOcXwMfVre9ODtf",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkRxGuDJ_q2GOKgKQ0tFgAA6Za4sE369OtdT30-lLXSzQaDVQqGSndd5nIwZLTyHDQpEHusRjtG6Z7w94QaJwYsGNhHT-MOnJzctGBxziRjO7ZznVB_fZTURpOmM3ZqvkC45wbENLyhmHj9wY7_dhJyfZzjrIHVGeTEBfl4Nb6cEnXf3LvTUgpfM5i4XzoV2GxfNreFndtFFKKNjji7b0=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBtyqsMUkUxPX1woIvm6atjsWT3BSzUoYL-KSAV1rj0sNTMaMz6Oze5KepfCxXdKlapXnXH-g5xsLG3RQCruNc-l4XZ2LOW2__xAXHzZvssJNqGsuRyRHyPp7qpYYEMnQG",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYE8ArdhRSeatE1db-3BuLWsClSPaGpOBXdLWSBXWeX8f_L_F-HH5QGWMAIwpHsrXbO-6GU5nOiSpH9P5t0-Sxj5_wc3kuMXv1XmdSw1RF7zj9EuF6bS_4Frrl2bBIkrgz",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnzf9vdQmpiRPnEYyR9WFJnveNCKJwEuM73HIi2hdlTbKLTZ1UAS1nRMUAALEgofGe5kwBONYpwYDhKoFxlIpQIC3fwj8ikSBuPL7aBhGzfozBWPtsDaasuA60pWro7sEcwoWjBkALpcfYwch5nd3VI349dQybnjb_NVrXQKFi1eG5Um-49wAXDH6YVZmydWIzr4laV7DqgovoIgkMFdbMIw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD67vteu_6MOyGjJUVRGPjoT4vPY7lEauq_-ChnAQdkaRUj5p_Nane0zols_DsFy4a1Jz1cFV9LMOWI108TDVNNRsJhCs1_WZ0qHoVCBlj1SPIIpuIu3qbLmNeFN1LgCM04zduNOUmU3vsP8siUBgg1c9mZKtRnjoyHKT5UPvfFqPtoSnevtCSRhS-rbrYq8XgFZbYOdYglcwxLb0rfbk=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgcXI1KDWznW-GgiTZVZ4SiydDJ9Dmfr1_MZWOOmxaxeFoTwRfRZ83OagXBcNWCYvJ8LUJYNLGmNJfz3PB1aZd8mD_u14WjacLXK4zSGZFaksehbZEguC6Fp3nG96HM0dgRM_oNP1RtTKUUt6iFwzfdGiRjf8rBgZw1xJ3JhDmUvU=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8hH-zkDGlkJ7DtvRanqaYaW3XrmDSwAhuKXZ0jHhwf57IQV6RxvYwFi7unQ0_HvW3xW9GGBOQJTFK1srtA88P77czeEfxFEtksGcHeiccbWqb2i_LjOed8FxsvFbYUCpBY_ozcTtydKYgT5AHP09xFPtOUTVs7s9VMkpzruwPYXheMq9SiFM7pmcRELkpdvB3MB3shRDMliJuBHhFXA==",
+            "title": "saturdaydownsouth.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeT1ZxXALNGkcTSXIblNCCwNfJEJOIkGuj-PyRoO3pmb8HEBzq5MyQmPmXHQTtGFHEnlvPZ54vM1A8woOerBjpvr3VnkxCymasLv69ILREz8_QxK6FMKVn7ujKQuPUyTUhKmkUhg-N",
+            "title": "foxsports.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "24dd93f18d9fea9df2badfec2c8e4485aa168992",
+        "aviCoreCommittedAt": "2026-11-10T17:28:46Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 89921,
+        "groundedMarketChars": 5950,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false
+      }
+    }
+  },
+  {
     "id": "mwb0fcoe-57ab3a60",
     "createdAt": 1794334504567,
     "expiresAt": 1794766504567,
