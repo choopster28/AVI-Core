@@ -1,5 +1,47 @@
 [
   {
+    "id": "mwb2rz53-fa3a91c6",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "neutral",
+      "personalContext": "Puka is out for an undefined period of time with multiple injuries. Pickens is fighting his own injury, and his future is unknown due to his franchise tag and salary constraints… goal of this trade is to build for next year for me, and replace conquistadors injury roster spots with immediate producers to solidify his championship run",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          },
+          {
+            "name": "Rashee Rice",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "De'Von Achane",
+            "assetType": "player"
+          },
+          {
+            "name": "George Pickens",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794338437287,
+    "updatedAt": 1794338437287,
+    "expiresAt": 1794770437287,
+    "status": "queued"
+  },
+  {
     "id": "mwb27c00-dbc2fa97",
     "phase": "initial",
     "mode": "analyze_trade",
