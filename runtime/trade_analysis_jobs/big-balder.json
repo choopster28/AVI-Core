@@ -1,5 +1,70 @@
 [
   {
+    "id": "mwb3bvp6-1a5be398",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "neutral",
+      "personalContext": "Puka is out for an undefined period of time with multiple injuries. Pickens is fighting his own injury, and his future is unknown due to his franchise tag and salary constraints, he could end up in an awful situation again like Pittsburgh, so there is some future risk with him… goal of this trade is to build for next year for me, and replace conquistadors injury roster spots with immediate producers to solidify his championship run",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rashee Rice",
+            "assetType": "player"
+          },
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "George Pickens",
+            "assetType": "player"
+          },
+          {
+            "name": "De'Von Achane",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": [
+        {
+          "side": "A",
+          "replace": {
+            "name": "Rashee Rice",
+            "assetType": "player"
+          },
+          "alternate": {
+            "name": "Nico Collins",
+            "assetType": "player"
+          }
+        },
+        {
+          "side": "A",
+          "replace": {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          },
+          "alternate": {
+            "name": "Omarion Hampton",
+            "assetType": "player"
+          }
+        }
+      ]
+    },
+    "createdAt": 1794339365947,
+    "updatedAt": 1794339365947,
+    "expiresAt": 1794771365947,
+    "status": "queued"
+  },
+  {
     "id": "mwb2zo4z-592ca2fe",
     "phase": "final",
     "mode": "analyze_trade",
