@@ -5,6 +5,7 @@ from pathlib import Path
 from typing import Any
 
 from avi.io import read_json, write_json
+from avi.valuation.availability_adjustments import _load_injury_state, _expected_missed_weeks
 
 
 MIN_REGISTRY_PLAYERS = 300
@@ -73,6 +74,27 @@ def validate_publication() -> dict[str, Any]:
     generated_files = team_manifest.get("generated_files", [])
     if not isinstance(generated_files, list) or len(generated_files) != EXPECTED_TEAM_COUNT:
         failures.append("Team profile manifest does not contain exactly 16 generated team files.")
+
+    # Do not silently publish a nonzero current-season value for a verified
+    # season-ending absence. Validate by source-linked identity, never by name.
+    confirmations = read_json(Path("data/manual/season_ending_injury_confirmations_2026.json"))
+    reported = [entry for entry in confirmations.get("reports", []) if isinstance(entry, dict) and entry.get("season_ending") is True] if isinstance(confirmations, dict) and confirmations.get("season") == 2026 else []
+    if reported and isinstance(avi_players, list):
+        states = _load_injury_state()
+        by_id = {str(player.get("avi_id")): player for player in avi_players if isinstance(player, dict)}
+        matched = [avi_id for avi_id, state in states.items() if state.get("season_ending_confirmation")]
+        if len(matched) < len(reported):
+            failures.append("Season-ending confirmation could not be matched to canonical AVI identities.")
+        transition = avi_manifest.get("in_season_transition", {}) if isinstance(avi_manifest, dict) else {}
+        current_week = int(transition.get("nfl_week") or 0)
+        for avi_id in matched:
+            state = states[avi_id]
+            _, reason = _expected_missed_weeks(state, current_week)
+            if reason != "season_ending":
+                continue  # An explicitly cleared player can resume normal valuation.
+            player = by_id.get(avi_id)
+            if not player or float(player.get("c_avi") or 0.0) != 0.0:
+                failures.append(f"Verified season-ending player {avi_id} has nonzero or missing C-AVI.")
 
     result = {
         "status": "failed" if failures else "passed",
