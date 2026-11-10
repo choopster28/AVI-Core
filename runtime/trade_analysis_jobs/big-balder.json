@@ -1,5 +1,46 @@
 [
   {
+    "id": "mwb09j5e-9ce40252",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "neutral",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rashee Rice",
+            "assetType": "player"
+          },
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "George Pickens",
+            "assetType": "player"
+          },
+          {
+            "name": "De'Von Achane",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794334217522,
+    "updatedAt": 1794334217522,
+    "expiresAt": 1794766217522,
+    "status": "queued"
+  },
+  {
     "id": "mwaw76n7-97b60392",
     "phase": "final",
     "mode": "propose_trade",
