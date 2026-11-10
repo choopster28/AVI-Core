@@ -1,5 +1,422 @@
 [
   {
+    "id": "mwb3qyz9-4d36ffcc",
+    "createdAt": 1794340183329,
+    "expiresAt": 1794772183329,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Big Balder Brand ↔ Conquistadors",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "neutral",
+      "personalContext": "Puka is out for an undefined period of time with multiple injuries. Pickens is fighting his own injury, and his future is unknown due to his franchise tag and salary constraints, he could end up in an awful situation again like Pittsburgh, so there is some future risk with him… goal of this trade is to build for next year for me, and replace conquistadors injury roster spots with immediate producers to solidify his championship run",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rashee Rice",
+            "assetType": "player"
+          },
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          },
+          {
+            "name": "2028 2nd · Balder · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "George Pickens",
+            "assetType": "player"
+          },
+          {
+            "name": "De'Von Achane",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This trade analysis evaluates a strategic cross-horizon deal between Big Balder Brand (Rebuild) and Conquistadors (Win Championship). In the submitted construction, Big Balder Brand sends Chuba Hubbard (C-AVI 72.9, D-AVI 83.3), Rashee Rice (C-AVI 59.4, D-AVI 86.3), and a 2028 2nd round pick (D-AVI 48.5) to acquire 25-year-old dynasty cornerstones George Pickens (C-AVI 80.1, D-AVI 92.9) and De'Von Achane (C-AVI 0.0 on IR, D-AVI 79.3). Correcting first-pass errors, Conquistadors do NOT gain a +52.2 C-AVI starting lineup boost because Achane was on IR and not in their active starting lineup. In reality, Conquistadors insert Hubbard into FLEX (+4.9 C-AVI over Breece Hall) but downgrade at WR2 from Pickens to Rice (-20.7 C-AVI) while Puka Nacua is sidelined, resulting in a net -15.8 active weekly starting C-AVI change. However, Conquistadors gain meaningful roster depth and a 2028 2nd pick. Big Balder Brand achieves its 2027 rebuilding goal by securing two elite 25-year-old assets, but overpays by including the 2028 2nd pick. Removing the 2028 2nd yields an ideal 50/50 win-win offer.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 59.4,
+              "davi": 86.3,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 72.9,
+              "davi": 83.3,
+              "publicMarket": 72,
+              "leagueMarket": 75
+            },
+            {
+              "name": "2028 2nd · Balder · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "George Pickens",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 25,
+              "cavi": 80.1,
+              "davi": 92.9,
+              "publicMarket": 84,
+              "leagueMarket": 86.5
+            },
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 46,
+            "otherShare": 54,
+            "advantageFranchise": "Conquistadors",
+            "summary": "The submitted package heavily satisfies Big Balder Brand's 2027 rebuilding strategy by acquiring Pickens and Achane. However, Conquistadors hold a 54/46 value edge because Big Balder Brand unnecessarily includes a 2028 2nd round pick while supplying two healthy, high-floor starters to a contender."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Even",
+            "summary": "Removing the 2028 2nd pick balances player D-AVI at 172.2 to 169.6. Conquistadors receive immediate RB/WR depth for their playoff run, while Big Balder Brand secures two 25-year-old dynasty cornerstones without sacrificing future draft capital."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -25,
+              "summary": "Surrenders active 2026 starting points from Chuba Hubbard to stash De'Von Achane on IR for 2027."
+            },
+            "dynastyOutlook": {
+              "score": 55,
+              "summary": "Secures two top-tier 25-year-old cornerstone assets in George Pickens (D-AVI 92.9) and De'Von Achane (D-AVI 79.3)."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Loses Hubbard at RB2 while integrating Pickens alongside Nico Collins and DeVonta Smith."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Pivots backfield and receiving infrastructure toward elite 2027 upside."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Sends a 2028 2nd pick, slightly reducing draft capital liquidity while gaining premium re-trade assets."
+            },
+            "overall": {
+              "score": -8,
+              "summary": "The submitted package heavily satisfies Big Balder Brand's 2027 rebuilding strategy by acquiring Pickens and Achane. However, Conquistadors hold a 54/46 value edge because Big Balder Brand unnecessarily includes a 2028 2nd round pick while supplying two healthy, high-floor starters to a contender."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Hubbard upgrades FLEX (+4.9 C-AVI over Breece Hall), but Rice represents a temporary downgrade at WR2 (-20.7 C-AVI) compared to Pickens when healthy."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Parts with higher-ceiling 25-year-old dynasty pieces in Pickens and Achane, but nets a 2028 2nd pick."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Improves overall weekly starting floor and FLEX stability with Hubbard while Nacua remains out."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Replaces zero-production IR asset Achane with two active, high-volume NFL skill players."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Acquires a 2028 2nd round pick to replenish future draft capital inventory."
+            },
+            "overall": {
+              "score": 8,
+              "summary": "The submitted package heavily satisfies Big Balder Brand's 2027 rebuilding strategy by acquiring Pickens and Achane. However, Conquistadors hold a 54/46 value edge because Big Balder Brand unnecessarily includes a 2028 2nd round pick while supplying two healthy, high-floor starters to a contender."
+            }
+          },
+          "explanation": "Big Balder Brand trades 2026 production for 2027 dynastic ceiling, matching their Rebuild goal. Conquistadors gain depth and draft capital while managing injuries to Nacua and Achane, though they sacrifice top-end WR ceiling."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand intentionally reduces 2026 weekly starting production by sending away Hubbard (C-AVI 72.9) and stashing Achane (C-AVI 0.0) on IR, aligning with a 2027 rebuild timeline.",
+          "sideADynastyImpact": "Big Balder Brand acquires two 25-year-old elite dynasty building blocks in Pickens (D-AVI 92.9) and Achane (D-AVI 79.3), establishing a higher long-term ceiling than Rice (86.3) and Hubbard (83.3).",
+          "sideARosterImpact": "Removes 2026 starters Hubbard and Rice, stashes Achane on IR for 2027, and slots Pickens alongside Nico Collins and DeVonta Smith.",
+          "sideBChampionshipImpact": "Conquistadors gain immediate starting RB volume with Hubbard (C-AVI 72.9) to upgrade FLEX over Breece Hall (68.0), while Rice (C-AVI 59.4) fills WR2 while Puka Nacua is sidelined.",
+          "sideBDynastyImpact": "Conquistadors absorb a minor D-AVI reduction by surrendering Pickens and Achane, but compensate by receiving a 2028 2nd round pick and solidifying immediate depth.",
+          "sideBRosterImpact": "Hubbard steps into starting FLEX behind Bijan Robinson and Jonathan Taylor; Rice provides immediate starting WR alignment.",
+          "valueAssessment": "A strategically sound cross-horizon trade where current starting depth and draft capital flow to the contender, and high-ceiling 2027 dynasty assets flow to the rebuilder."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus views George Pickens as a high-ceiling 25-year-old vertical receiver playing under the franchise tag in Dallas. De'Von Achane remains a premier dynasty tailback whose market value is temporarily discounted due to his September 2026 season-ending ACL tear. Rashee Rice has returned to full practice following knee/hamstring concerns, though off-field litigation presents long-term noise. Chuba Hubbard is locked into a multi-year Carolina extension as an established workhorse back.",
+          "aviVsMarket": "AVI values Achane's 2026 C-AVI strictly at 0.0 due to his confirmed season-ending injury, while public dynasty market rankings maintain his D-AVI at 79.3 based on his age (25) and 2027 return trajectory.",
+          "relevantContext": [
+            "De'Von Achane suffered a torn ACL in Week 3 (Sept 28, 2026) and is out for the remainder of the 2026 season.",
+            "George Pickens missed Week 9 with a hamstring injury; Dallas team reports expect a prompt return.",
+            "Chuba Hubbard signed a 4-year, $33.2M extension through 2028 and operates as Carolina's lead back.",
+            "Rashee Rice upgraded to full participant in early November 2026, resuming active target share with Patrick Mahomes."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors are motivated to move Achane because his zero 2026 C-AVI offers no help during their Champion Favorite campaign. Converting him into Hubbard and Rice provides immediate depth while Puka Nacua is sidelined.",
+          "packageFit": "Hubbard provides high-floor RB/FLEX points while Rice offers dependable WR target volume.",
+          "lineupReplacement": "Hubbard replaces Breece Hall in Conquistadors' starting FLEX slot (+4.9 C-AVI gain), while Rice fills WR2 during Nacua's absence.",
+          "competitiveWindowFit": "Enhances Conquistadors' immediate roster depth for their 2026 title push while allowing Big Balder Brand to build for 2027.",
+          "positionalScarcity": "Starting running backs with multi-year contract security like Hubbard carry premium value in a 16-team dynasty format."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 10,
+            "packageMatch": 0,
+            "lineupReplacement": 4,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 48,
+          "classification": "Unlikely",
+          "explanation": "Cornerstone downgrade: seller relinquishes D-AVI 92.9 for a strongest returning player at 86.3, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "structuralRejection": "Cornerstone downgrade: seller relinquishes D-AVI 92.9 for a strongest returning player at 86.3, without enough premium first-round capital or proven starting assets to bridge the quality gap."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Trade-partner acceptance not supported: Cornerstone downgrade: seller relinquishes D-AVI 92.9 for a strongest returning player at 86.3, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Rashee Rice",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 26,
+              "cavi": 59.4,
+              "davi": 86.3,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 72.9,
+              "davi": 83.3,
+              "publicMarket": 72,
+              "leagueMarket": 75
+            }
+          ],
+          "receive": [
+            {
+              "name": "George Pickens",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "WR",
+              "age": 25,
+              "cavi": 80.1,
+              "davi": 92.9,
+              "publicMarket": 84,
+              "leagueMarket": 86.5
+            },
+            {
+              "name": "De'Von Achane",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 25,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            }
+          ],
+          "whyUserShouldDoIt": "Acquires two premier 25-year-old dynasty cornerstones (Pickens and Achane) for a 2027 championship push without surrendering future 2nd-round draft capital.",
+          "whyOpponentMightAccept": "Conquistadors convert zero-production IR asset Achane into an active starting RB in Hubbard and a proven WR starter in Rice to maintain high-floor roster resilience."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Incorporated user context regarding Puka Nacua's injury outage, Pickens' contract/injury situation, and Big Balder Brand's declared goal of building for 2027 while supplying Conquistadors with immediate starting production."
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Devon Achane news status 2026",
+          "Chuba Hubbard news contract 2026",
+          "Rashee Rice news status 2026",
+          "George Pickens news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZiTwwnoYbMOqCniHRn_iQQzH8y5hDnRbcY3VQc8tStU9uxdV4cS3KRPuEhIpC7yBRVuWtbQC1knNGn1czaAaHrJeJUM4kftr2O_7jmmL6zYwNBmZeH1zLIRsJY84Ag00FV8GAKkwjUgClO_Hv8E8V0PCFmDLS6qyoz_fb-jMRLmbVFa5A1bV6n8mzFTceK_ndCgOGvAvKS6NZBw4okelt5CMfTZE=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG432Y8CzSmiEnTcKf4iD_bF7PM9R018CnXNujSC-NeGa906ElZhf11ARLBZatfgK0WscvUBvJHbk4bef6OFI19B-gZ9rmvtvpMji6A25tgdqiBL2mR7zW4clC3tReOVCi68CVLv9M8TyB5j4ogNzrGSiDx-Z1Ry0HXdFhuQqMywSB69p0JHAAhTmajrVwr-lHue1zOnDXAXF61zrWZjFCQZyK_nfZrmpFWNz9M06wh3NZEm5NTGUoOmg==",
+            "title": "wcnc.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOmF95TwjkLUt5JHmJ19RnhivKHRb6Sp-3JY04PcWBA6Wp8wx78CUXIBhl21uJPoTxxr2UyV4x2mIDyuYkvQTQju-sjxcnzH722n2JfpHFGXsStZMqC3o_rwSDeBO8rte-FhtyQV3vxnzjZhcV-4uD_3iyDJdiYfJnCuOLl03nbucYSMGUyBkYJ14-AMkcbcxjEWbu2-cgoGlx4RC_-A==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxNTxbhUDn-f_q47ZvzfXABcQdqh4R9Yy9pdFTYzaku4B9lDkT0hOK-kr_MXdaa3sqcSyoZz5ubzyMTsOy9WDqedbb5awj7XC3DP-76hacmDpKITMFUHhcgDasd_MXQhZUzoOWgQDUh0ISIhR8Nf2rKG7Fk8rrBLIOJ2zlm9o2s9IKZdl3WHWLuUTUuex7E52YTSGTOA==",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvzhywguNiw4b21wExzHz2dj5Z140Lp-RKDbNZs74N1JN2ny3bgDnoG5gmJif7trvKEAKOH-TKZ_MCl-CiZmyUaAdt1ctu_891re-E7oi2BpPQJ1khzKeGgnLbeh0PXtAwaRmytMY=",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZVss_kqQT_-L3oshYNeR8K_iKdxa_Uc6y77jPVsk0ZK_rTYquRz_cZ-2fOLaVCK7I32ug1cHnUY-dgeNB1ubbVMhI6KgyLiZwdWuQDLlw8Rn_I0KafstIpbzAcpUd-XTDRZLcFHYG74sw6oT5nkplrLe9VqU4BJrPBTu6ly2UCc356Bhg0bZCVPwxY0m4-k3-zCAtY5HbbU7FMQ==",
+            "title": "fantasyindex.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcmgHtEtD0-prKyXN4mxOUUOMPDXYtNC2G5Mu6135gFOKP-fK-O_TQCRvCnQayjRnj9e7tFkbLVel3K0Em1aI79YCSDgMllzcJNHsHpZNgYOdZhjoYDQkcaXap_RQp-b5hiAbBFZhchymEp7nPI4Rt6SLZqWU36KZdEL4_Afl8cvMTgn5jU_3jXn4S4D2z7gphxyodVcmxkF6s2w==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI_P0kF_FRq4V-prRV77RXAXSNcKTcYdTT3P8Qfav2WXx61UpkZQND-HCIYmKV8Y0ZqOKMXkPTWxuJEN82vymxSk_QeA8MIXzUlPiBh_yv6Gx04r5ucfRU-9OmU9oIE2-91fy53H4DjWW3s1E-TuLJTqvHlJHYUWWHwLE7RKwbVqefbB8utj4aUWjSwQzBwGjOqiVD1fyajnaPM3QHWG19",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ1nR8oankNYs-tigAv_1JlJl1gwNtrIUdzML_sE90XuPAJTlD22xaWKrzRyo3K_381mSsq79OHvB5KsPhrZWrzeFvaz06dm7xrpPZNKL1Stt68jApQHFP-SKFFTAcClWbRBGXwFzfWtBfiVX_3mAOTUHYoR81i5z40UWeLV7HOvrzBULcl0Vq",
+            "title": "fieldlevelmedia.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHRS_5bz_Jbw92jl-5YTdaqUfZheiNOktKzbXXFpmUilycg19pGlFBq7UkK1q_ZRGA4t8DjEVv0aNJVr-bszDHDx4HrAxdNjsodd1Rffckx2oYgAB-5Xitsl9gn3BFNgwo5B8WU1Bg6smc0SNYtx7-wVQDbxY8mlYJ6K0RBp6gb_WRa3ZOIzMWhS7eiD4e3ocT54y0HOIed2wQOlDmnaw=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2B_v0WEm2rpK_u-Nye1BHdhfNSop2O5DjKupDPGPG1XAT5qGYPcsjnvmyYg_ZNv658ZSSc1in99KO-SGpywYI5mtyw2zWQWqi3HtwTVADq5E5DRq7VVs1YPEXPqWp_C5rbF6Dsjl8ATKB1JdWa_wErRzrZ70CdA4pBPsIvvDu8shV6JKQ8tmyon91ScalL9wnLwipIAf4ZQhV1zQbVoGWeyTxGc3vBOex5GkDiNkf",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE87L3qADTgyN11lfvTK3BuLAFt3bSa04ZhARtCky0PsnGZTgs270_Hqjsay-EnvdoqJEo8raLHzWwmZ0-t0TSRUwUZvFM8jgu1ZfaENcY6W7GY6wIewuqzzpaz5gtCeDplmvyNcj31VG4RUfo72wX_-9kHOHPF6jgM_7-NZ8ENVJ4vLIQ4y8_a4OT0wCT__0PC7fFR4afS37mn7ORz8MZvjw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOSjsHtiUkio4MA_WoXApi2-Hey88wKwElgZI3pYmbP6eYKJp7lkL5DCYxyKUdydf88MvoJGu7x_W2fpIUucSB5Ta-rccJ5kQZcz67ys4Rbq0FJSm7yw3JW90PoOVmBQwj",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQHS66KB9kAJ7X9nlBzPuqbJhu5F_jnv-98kKThBJqyEwN5mlvMg60c9ZdFBoo7xvQBrxAC0007cwMQWUOtXzDhYB5tFOM5sL_5SJxCycvczLhuSFLokEOi91ADbbCXRKLV5FBiAXCtBY5nQMPX9yEQnrj-N78JdA1NxWMLGOguir-fPE6q137s5qXHOJx989MxVEUy6ZKmkY=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsA_60hjDo5DTfLdjx2kDN6NzkOmw2_WOnupPJ74Bf5BbGjczSJDa64xH0Vt5vBMKOmfkOAEcUaRhmJ2bU907e10ILhKfkfPZCc5XLh1dGrB9RIuECOJBpv7M8aJWfUcBz8Y0BkTscyVYn3qdkdnMIGtHGmeQMf3BxDYyOwIvPv2Y=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRUAEzl9QO6HBM2kE99bWFSt4KEKEH24X-mgZYTamQb6JVU0vBRQWOl4V_M9d1zlnQGU04gGiYv8McZduql2Lk-l_NpTBCjlvVRlOt6CvMC62ygPP2vHyFxDFsvd8G_jxSR22V5W0BYjqePnBhB2FVBfNxNizPZ9IaWQP3r4qPVDr8j__9lQ==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhVCT0tfLvr2B3_XpnnUiKKhCPHCXAWrsz5IQW7mvEIcE98EGvagK96la9LHAsqSpL0LIkpe1wZ-c8MtkOdKIcNmsgUw-QBsqEvR8Ua-9jMKvaPAC-FOVQlZT1zcxfl4abXF9Fq0J4C49HxZos2jEN-NEqGxJZQiKpEosv5v0t_Dhi6I1gRNcX2SFNWEOBGnxoRRQ-BrWRUL2OA5HIEp8=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmYVrbHUcDLvYGRtk000j5o7ZUfXelxZjlQq1WCLZu316gwEhReHCvP4lRDnJeELFNgOjqB5OzIHpTS8hYOph8XCS_gmOqNHwmAbdJVF8shQrYbmaE4hN5mlcYNn0apB3ap_5mP3gY",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9UbHcIbnMQ2H-YMQN_NEZZMAY3c39fSZMSO1bdqpoCyoec7ylcy1gQNxFby3-FaJO7cJjfAyNJ8jfuPydVIz2Q8nahClLWIk21XycaxWGz7vN-DNqccyzkVfi-9gL1y_E",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "a044c1176ce2412b65d10dc5a3c937b889248e30",
+        "aviCoreCommittedAt": "2026-11-10T19:41:48Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md",
+          "derived/recent-sourced-nfl-injury-evidence"
+        ],
+        "contextChars": 90824,
+        "groundedMarketChars": 5978,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": true
+      }
+    }
+  },
+  {
     "id": "mwb3bvp6-1a5be398",
     "createdAt": 1794339608277,
     "expiresAt": 1794771608277,
