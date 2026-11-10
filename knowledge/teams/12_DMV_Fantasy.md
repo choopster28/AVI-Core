@@ -32,10 +32,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Baker Mayfield | C-AVI: 28.6 | D-AVI: 65.3
 - RB: Rachaad White | C-AVI: 42.7 | D-AVI: 72.4
-- RB: Keaton Mitchell | C-AVI: 29.9 | D-AVI: 65.5
+- RB: Keaton Mitchell | C-AVI: 30.0 | D-AVI: 65.5
 - WR: Jalen Coker | C-AVI: 59.9 | D-AVI: 82.0
 - WR: Antonio Williams | C-AVI: 31.4 | D-AVI: 73.8
-- TE: Brenton Strange | C-AVI: 46.4 | D-AVI: 77.9
+- TE: Brenton Strange | C-AVI: 46.3 | D-AVI: 77.9
 - FLEX: Chig Okonkwo | C-AVI: 33.5 | D-AVI: 72.0
 - FLEX: Isaac TeSlaa | C-AVI: 27.6 | D-AVI: 61.9
 
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 29.9
+- Championship AVI (C-AVI, 0-100): 30.0
 - Dynasty AVI (D-AVI, 0-100): 65.5
 - Projected PPR points: 96.9
 - Category: offense
@@ -257,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 46.4
+- Championship AVI (C-AVI, 0-100): 46.3
 - Dynasty AVI (D-AVI, 0-100): 77.9
 - Projected PPR points: 161.0
 - Category: offense

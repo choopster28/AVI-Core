@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 623.7
 - championship_lineup_c_avi_avg: 77.96
-- offensive_roster_c_avi_sum: 993.9
-- offensive_roster_c_avi_avg: 58.46
-- offensive_roster_d_avi_sum: 1348.7
-- offensive_roster_d_avi_avg: 79.34
+- offensive_roster_c_avi_sum: 944.0
+- offensive_roster_c_avi_avg: 55.53
+- offensive_roster_d_avi_sum: 1340.4
+- offensive_roster_d_avi_avg: 78.85
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -110,23 +110,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: De'Von Achane
-- Player name: De'Von Achane
-- Player ID: 9226
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: MIA
-- Active: True
-- Status: Inactive
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 50.0
-- Dynasty AVI (D-AVI, 0-100): 87.6
-- Projected PPR points: 257.4
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Kaelon Black
 - Player name: Kaelon Black
 - Player ID: 13414
@@ -138,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 27.9
+- Championship AVI (C-AVI, 0-100): 28.0
 - Dynasty AVI (D-AVI, 0-100): 66.5
 - Projected PPR points: 72.7
 - Category: offense
@@ -158,6 +141,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 23.1
 - Dynasty AVI (D-AVI, 0-100): 57.0
 - Projected PPR points: 36.3
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: De'Von Achane
+- Player name: De'Von Achane
+- Player ID: 9226
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: MIA
+- Active: True
+- Status: Inactive
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 79.3
+- Projected PPR points: 257.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

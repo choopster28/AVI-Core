@@ -6,6 +6,23 @@
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
+        "News"
+      ],
+      "created": "2026-11-10 17:21:08",
+      "created_formated": "Tue, Nov 10th 5:21pm UTC",
+      "desc": "The Falcons released kicker Nick Folk. ",
+      "id": 619031,
+      "impact": "Folk went 13-for-18 on field goal attempts. Atlanta signed Jake Moody as the corresponding move. ",
+      "link": "https://www.fantasypros.com/nfl/news/619031/nick-folk-released-by-falcons.php",
+      "player_id": 9491,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Nick Folk released by Falcons "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
         "News",
         "Injury"
       ],
@@ -432,24 +449,6 @@
       "sport_id": "NFL",
       "team_id": "ARI",
       "title": "Gardner Minshew II (elbow) potentially out for the season with torn-UCL"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-10 02:50:53",
-      "created_formated": "Tue, Nov 10th 2:50am UTC",
-      "desc": "Patriots RB Rhamondre Stevenson is dealing with a knee tendon issue.",
-      "id": 618964,
-      "impact": "Stevenson is not expected to require surgery but it could sideline him for a short period of time. Corey Kiner would figure to lead the Patriots backfield if TreVeyon Henderson remains sidelined. ",
-      "link": "https://www.fantasypros.com/nfl/news/618964/rhamondre-stevenson-dealing-with-knee-tendon-issue.php",
-      "player_id": 22726,
-      "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Rhamondre Stevenson dealing with knee tendon issue"
     }
   ],
   "public_api": true,
