@@ -31,9 +31,380 @@
       "alternateAssets": []
     },
     "createdAt": 1794286764109,
-    "updatedAt": 1794286765452,
+    "updatedAt": 1794286828344,
     "expiresAt": 1794718764109,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This trade proposal swaps 24-year-old elite wide receiver Jaxon Smith-Njigba (C-AVI 99.5, D-AVI 99.9) for 27-year-old wide receiver Nico Collins (C-AVI 82.6, D-AVI 93.9) and 27-year-old running back Chuba Hubbard (C-AVI 73.3, D-AVI 83.3). For Corgi Loaf Baking Co. (Goal: Win Championship in a 16-team PPR format), adding Chuba Hubbard solves a major structural RB2 requirement alongside Saquon Barkley and Rhamondre Stevenson, while Nico Collins maintains a strong WR1/WR2 baseline alongside Malik Nabers. However, surrendered asset JSN is the premier overall dynasty wide receiver asset. Because Big Balder Brand's verified strategic objective is Rebuild, manager Choopski gains an ideal 24-year-old cornerstone. To maximize value when surrendering an S-tier centerpiece to a rebuilder, Corgi Loaf Baking Co. should revise the offer by requiring Big Balder Brand's 2028 2nd-round pick as additional draft liquidity.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.5,
+              "davi": 99.9,
+              "publicMarket": 99.5,
+              "leagueMarket": 99.9
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Nico Collins",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 82.6,
+              "davi": 93.9,
+              "publicMarket": 82.6,
+              "leagueMarket": 93.9
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 73.3,
+              "davi": 83.3,
+              "publicMarket": 73.3,
+              "leagueMarket": 83.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B",
+            "otherGrade": "A-",
+            "userShare": 47,
+            "otherShare": 53,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The submitted transaction delivers essential lineup balance for Corgi Loaf Baking Co. by inserting Chuba Hubbard into the active starting RB rotation and replacing JSN's production with Nico Collins. In a 16-team league, converting excess top-end WR equity into a reliable 18+ touch RB floor improves weekly lineup stability. However, surrendering the league's top young WR cornerstone without securing draft capital yields a modest value advantage to rebuilding Big Balder Brand."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "By adding Big Balder Brand's 2028 Round 2 pick to Side B, Corgi Loaf Baking Co. captures the full leverage premium of supplying an elite 24-year-old cornerstone to a rebuilding franchise, securing both immediate lineup upgrades and future trade liquidity."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 25,
+              "summary": "Significantly strengthens RB2 stability for a 2026 title run, replacing volatile lower-tier options with bellcow RB touch volume."
+            },
+            "dynastyOutlook": {
+              "score": -20,
+              "summary": "Trades away a 24-year-old S-tier cornerstone for two 27-year-old starters, reducing long-term elite window ceiling."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Net starting lineup C-AVI shifts slightly, but structural balance between RB and WR starting slots is improved."
+            },
+            "depthResilience": {
+              "score": 40,
+              "summary": "Pushes Saquon Barkley/Cam Skattebo/DJ Moore into optimal FLEX roles, greatly reducing injury risk vulnerability across 16 teams."
+            },
+            "flexibilityLiquidity": {
+              "score": -10,
+              "summary": "Consolidates an ultra-high liquidity WR into two starting position players without adding draft picks in the submitted deal."
+            },
+            "overall": {
+              "score": -6,
+              "summary": "Improves overall weekly starting floor and RB depth resilience while absorbing a slight long-term dynasty age hit at WR."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -30,
+              "summary": "Surrenders two active starting contributors, temporarily reducing 2026 weekly points in exchange for multi-year rebuild ceiling."
+            },
+            "dynastyOutlook": {
+              "score": 45,
+              "summary": "Secures an untradeable-caliber 24.0-year-old WR with a 99.9 D-AVI rating, solidifying a core wide receiver pillar for years."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Loses depth at RB and WR starting slots for 2026, but gains an elite centerpiece in JSN."
+            },
+            "depthResilience": {
+              "score": -25,
+              "summary": "Depletes active RB room, acceptable under a Rebuild strategic mandate."
+            },
+            "flexibilityLiquidity": {
+              "score": 30,
+              "summary": "Gains the single highest-value liquid player asset in the dynasty market."
+            },
+            "overall": {
+              "score": 6,
+              "summary": "Acquires a generational 24-year-old WR centerpiece perfect for accelerating a long-term rebuild."
+            }
+          },
+          "explanation": "The trade creates a classic Contender-Rebuilder win-win alignment. Corgi Loaf Baking Co. trades top-heavy WR equity for multi-position starter depth to push for the 2026 title, while Big Balder Brand trades two 27-year-old producers to secure 24-year-old JSN for a multi-year rebuild."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf Baking Co. trades 99.5 C-AVI (JSN) and receives 155.9 total C-AVI across Nico Collins (82.6) and Chuba Hubbard (73.3). Starting Chuba Hubbard at RB moves Saquon Barkley/Cam Skattebo into FLEX, providing a higher overall weekly PPR floor across all 8 offensive starter positions.",
+          "sideADynastyImpact": "Surrendering Jaxon Smith-Njigba (D-AVI 99.9, age 24.0) incurs a dynasty age downgrade, receiving Nico Collins (D-AVI 93.9, age 27.0) and Chuba Hubbard (D-AVI 83.3, age 27.0).",
+          "sideARosterImpact": "Fills the critical starting RB slot next to Rhamondre Stevenson/Saquon Barkley, eliminating dependence on volatile bench RBs while preserving Malik Nabers and Nico Collins as a formidable WR pair.",
+          "sideBChampionshipImpact": "Big Balder Brand surrenders 155.9 total C-AVI in exchange for 99.5 C-AVI in JSN, taking a short-term current-season weekly scoring hit aligned with their rebuild status.",
+          "sideBDynastyImpact": "Big Balder Brand boosts its top-end dynasty ceiling, adding a 24-year-old centerpiece to build around alongside Jayden Daniels, Rashee Rice, DeVonta Smith, and Tyler Warren.",
+          "sideBRosterImpact": "Consolidates two 27-year-old starters into an elite WR1 anchor, freeing up roster space for future rebuilding moves.",
+          "valueAssessment": "Raw C-AVI sum favors the incoming package (+56.4 C-AVI for Corgi Loaf Baking Co.), but individual asset quality peaks with JSN. Market value is balanced, though the rebuilder should pay a small draft premium to finalize."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Jaxon Smith-Njigba is currently ranked as a consensus top-3 overall dynasty WR following back-to-back historic campaigns. Nico Collins remains a dominant X-receiver in Houston, while Chuba Hubbard commands an elite ~78% backfield snap share in Carolina.",
+          "aviVsMarket": "Public market rates JSN as an untouchable tier-1 asset. AVI confirms his elite status (99.5 C-AVI / 99.9 D-AVI) while identifying that Corgi Loaf's 16-team roster dynamics benefit from converting single-position WR surplus into RB starter volume.",
+          "relevantContext": [
+            "JSN has eclipsed 1,000 yards by Week 9 with seven 100-yard performances.",
+            "Chuba Hubbard averages over 17 touches per game as Carolina's undisputed bellcow back.",
+            "Nico Collins maintains high-end WR1 per-target efficiency when healthy."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Big Balder Brand (Manager: Choopski) has an explicit Rebuild goal. Acquiring a 24-year-old receiver of JSN's caliber for two 27-year-old veterans perfectly satisfies their front-office objective.",
+          "packageFit": "Solves Corgi Loaf Baking Co.'s structural RB2 volatility while providing Big Balder Brand with a true franchise cornerstone.",
+          "lineupReplacement": "Corgi Loaf replaces JSN with Nico Collins at WR and upgrades FLEX/RB with Chuba Hubbard. Big Balder Brand relies on Rashee Rice and DeVonta Smith to absorb WR starter snaps.",
+          "competitiveWindowFit": "Ideal window pairing: Contender acquires immediate starting production; Rebuilder acquires peak long-term dynasty asset.",
+          "positionalScarcity": "In a 16-team league, high-volume starting RBs like Chuba Hubbard carry significantly elevated strategic value."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 10,
+            "packageMatch": 0,
+            "lineupReplacement": 4,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 48,
+          "classification": "Unlikely",
+          "explanation": "Cornerstone downgrade: seller relinquishes D-AVI 99.9 for a strongest returning player at 93.9, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "structuralRejection": "Cornerstone downgrade: seller relinquishes D-AVI 99.9 for a strongest returning player at 93.9, without enough premium first-round capital or proven starting assets to bridge the quality gap."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Trade-partner acceptance not supported: Cornerstone downgrade: seller relinquishes D-AVI 99.9 for a strongest returning player at 93.9, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.5,
+              "davi": 99.9,
+              "publicMarket": 99.5,
+              "leagueMarket": 99.9
+            }
+          ],
+          "receive": [
+            {
+              "name": "Nico Collins",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 82.6,
+              "davi": 93.9,
+              "publicMarket": 82.6,
+              "leagueMarket": 93.9
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 73.3,
+              "davi": 83.3,
+              "publicMarket": 73.3,
+              "leagueMarket": 83.3
+            },
+            {
+              "name": "2028 Round 2",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "whyUserShouldDoIt": "Secures two immediate starting-caliber weekly contributors for a 2026 title push plus a 2028 2nd-round pick, balancing current lineup needs with future asset liquidity.",
+          "whyOpponentMightAccept": "Big Balder Brand secures the ultimate 24-year-old WR cornerstone to anchor their rebuilding roster, paying a fair market premium in draft capital to acquire an S-tier player."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jaxon Smith-Njigba",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 24,
+              "cavi": 99.5,
+              "davi": 99.9,
+              "publicMarket": 99.5,
+              "leagueMarket": 99.9
+            }
+          ],
+          "receive": [
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 75.4,
+              "davi": 89.8,
+              "publicMarket": 75.4,
+              "leagueMarket": 89.8
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 73.3,
+              "davi": 83.3,
+              "publicMarket": 73.3,
+              "leagueMarket": 83.3
+            },
+            {
+              "name": "2028 Round 2",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "rationale": "If Big Balder Brand hesitates to move Nico Collins, substituting DeVonta Smith along with Chuba Hubbard and the 2028 2nd-round pick maintains a strong starter profile for Corgi Loaf Baking Co."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Nico Collins 2026 stats news fantasy",
+          "Jaxon Smith Njigba 2026 stats news fantasy",
+          "Chuba Hubbard 2026 stats news fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-njm-t5mvkPG5n7IDqlBx8LSG6rso-k6Ip4HaB81OOTh6tmsOxLetoZzHlSSFQGMCOOUH_U8e2cFd-IuTNvB8f5IzqzZ7yFfsE0jabY2EwHdHWUZ0EyGwsYUtyQxBLk2r13jXWAs6M-n1uSIOY5Vvx8A2mFZpmL-ZsnRUnsBUhznDJX1wYP3OTNjlkE0oyAs1h_pUzTqXTP0=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZCvi5vLSbDlFTDlUOqxpDffDGqVRbbMwPLUlAZTdqx_ckwk3_6mYfA3nQDayF86yBUrKfJH2X4YNgQYTBsWpiasI5iPmYa0kCHCj62rF8A7d_WVeyutp_y9MzCnIa6yaWTUR7uLdVNW98gtndYNbWrLi3y1YlE-z1a6MrardRT6_QndTX9OCFcZqulQ==",
+            "title": "seahawks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG8vrJ9wCLxeei63eMUZUIJI7ouLEed44dSFFQ9oImtWLced9d4pCesa8XEQdgDSDRoQJdrCW3cZk9-DMVCptdXoklJ40jruFjLrCTNO-o2Tcp4-x1LGBh9_JixZt42FPv7_vxqZ6_NuD0LaUOVlgwxtY=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFolPZGEgYsvnLzl2kj6mBI6OUoxt1bV0_t2kIbine6GQ5IAzxQU8MrWQVXdu9wHtK6et4usv94iOEMbeWAH_G4UpSllt-1sPaRHx2N6YZwdEZRBqn1Mu3YQnHCkQIsbQpnPhvRU7owmBKwZC_dhe06h0xbc7BCrY9RTLL3sfBjVlVbZht3OssNRx5xtkBxwlyyO64pPdoWBA==",
+            "title": "pff.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWFacnZms1--qKtj6zDYxqqf0BWeADK7UmQrxI8e_R51MJZkOen1lcrmLHv8deMdZHleT0DkBrVCMp-kfvluc69ERlZFQ4gnj2BI2VHYF_bpQt_zXFwbKwhQn-DsQOdZ09m1bp7osn",
+            "title": "fsroundup.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRuawwXMK6AX8usxru3GkePY-52_Tc7QnWE4frnCrPtfkcpfAd3Xw0o4QxLpZPxvbla9oLPXcck3AS_Qk3GMXYMafZTM2xPocuGWNn9eYeP3Z7Wo-UU6jQbzENKFASJeZpEweZQrWoD2tRG6aFYIxG",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZOwo0Wp4LfjNjZLH-VYsVTx9jqQK1C40DACY1c1IY6n0SuZXJI0k0IL-c3qEts0B9VMDKSfd4GHksVweZAwediuXUxn7FTwa5Nntr4OSZhYGfRtrERxLo5UKA8RWEJfot3QiZmQ5NRtaJvnTSjJVeMg==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGBDUEQhSDUWjQ_gnHrJ8oc11jX7NwVqlpVzsMXoo5NJr1EoMLjwng0CpAmKTuuY-yp-H2qe3-xOAUaERU3N7XWVBmD0tTaFkD-wlneOv_Z2c8tWkwht7DAQmh_VsNGuffyn6M1hGVHFR4buEXd_UI9XZQ7mXwWdMfSOiV7sWalJGA0AmDqGZyQtTGjmJ0S76tNyJ9M9IgzQxMZQ==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTjGYupkIkFMMT9VKJ4Ji8l4pNMx125FePIKU0Qjdg9FfKd1xmPDq7WLJmHNG91pRMZHOqpoUiw0UV5oiCsCXquat6lix1KwhAFXI8M1PRpt9ERsHKLoOPLKJFYNkZN0qrWMuAlb5A",
+            "title": "sleeper.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoJEYf5Q7QLySbS5JTHKogDYzPRhJ366tf0E-CWGJgYzry36OjkjnyyY7fsGV8WGg2eLZtAK5vODls1VyNC8sdSdmEwWyrNNLw4mHjHuCkNfXbMOK7z6LttDE-uUvMD1969RJYpTtIbNp87ByV",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhNzuX2DYyPELzLY4OWfnNvDmIM-_RFXc6ASEZYmTS0nyfn9sbAjCFLoDxNPp1PHnswVDGo2yR3dkaYZLRe-_gzsrlPdPR1RVbdxJl1QkE2Tt042sy75A5yRloe0s_8mYNiHc8k-9BLkRWI0YmwCR4MgI78lT6RZ64sq6Qj7Gekt8oD1W_YBGSmnjuBz-mAI1Sr3LtCQ57lizlrasUz2Ke-DShFA==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGkG5YQi1BAMPuEe___z7d9FdNVkPMwhGAIWw0kFnD2RzNbCvpJHGP9BnvGV2bKNflqJG0Ggd9cr2OwZ4SXD23U95bAlbPeYrMxuz54AnKuPQHpI3mWu4PiJRGtUx9Nbgmz3olcA_X-5NGAHkO",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "06834de9655454574b8dace227f5ac86a109b73b",
+        "aviCoreCommittedAt": "2026-11-10T04:13:45Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 93641,
+        "groundedMarketChars": 4798,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false
+      }
+    }
   },
   {
     "id": "mw3sd2ux-fb88aa50",
