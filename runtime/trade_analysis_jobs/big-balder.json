@@ -1,5 +1,30 @@
 [
   {
+    "id": "mwaw76n7-97b60392",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "targetAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [],
+      "personalContext": "Achane should be zero c-avi he’s out the rest of the year. Conquistadors is a championship favorite, but is fighting injuries at the wide receiver position. Acquiring Achane is a move for next year, as my season is already over at 1-8. Conquistadors needs WR help as he just lost puka Nacua for an undetermined amount of time, Pickens is fighting off a hamstring injury, so his only fantasy relevant wide receivers are golden and a bench/waiver guy at wr2. Is there a deal you can build, understanding his needs to solidify his champ run, understanding Achane is a future value acquisition since he’s out for the year and my season is done"
+    },
+    "createdAt": 1794327389717,
+    "updatedAt": 1794327389717,
+    "expiresAt": 1794759389717,
+    "status": "queued"
+  },
+  {
     "id": "mwaw128b-6435971a",
     "phase": "initial",
     "mode": "propose_trade",
