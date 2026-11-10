@@ -78,6 +78,12 @@ def apply_cavi_risk_adjustments() -> dict[str, Any]:
                 base = current
 
         adjusted = round(clamp(base + delta), 1)
+        # A confirmed season-ending injury is an absolute current-season
+        # availability constraint, not a discretionary risk discount. Never
+        # allow a subsequent manual adjustment to resurrect its C-AVI.
+        availability = player.get("c_avi_availability_adjustment")
+        if isinstance(availability, dict) and availability.get("reason_code") == "season_ending":
+            adjusted = 0.0
         player["c_avi"] = adjusted
 
         if isinstance(components, dict):
