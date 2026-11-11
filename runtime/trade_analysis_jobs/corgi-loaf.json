@@ -1,5 +1,50 @@
 [
   {
+    "id": "mwcn1aay-29c480b8",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "neutral",
+      "goal": "Win Championship",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "All Hail King Jesus",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rhamondre Stevenson",
+            "assetType": "player"
+          },
+          {
+            "name": "David Montgomery",
+            "assetType": "player"
+          },
+          {
+            "name": "2029 3rd · Corgi Loaf · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          },
+          {
+            "name": "2027 4th · King Jesus · Projected Mid · original owner All Hail King Jesus",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "D'Andre Swift",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794432930155,
+    "updatedAt": 1794432930155,
+    "expiresAt": 1794864930155,
+    "status": "queued"
+  },
+  {
     "id": "mwcmkxmm-4efe21f8",
     "phase": "initial",
     "mode": "analyze_trade",
