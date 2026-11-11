@@ -1,5 +1,42 @@
 [
   {
+    "id": "mwcnd2rm-c1f6c8be",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "goal": "Win Championship",
+      "partnerGoal": "Rebuild",
+      "targetTeam": "Big Balder Brand",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rhamondre Stevenson",
+            "assetType": "player"
+          },
+          {
+            "name": "Tank Dell",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794433480258,
+    "updatedAt": 1794433480258,
+    "expiresAt": 1794865480258,
+    "status": "queued"
+  },
+  {
     "id": "mwcn7ea6-bf580dfa",
     "phase": "initial",
     "mode": "shop_assets",
