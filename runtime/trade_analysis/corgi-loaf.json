@@ -1,5 +1,440 @@
 [
   {
+    "id": "mwcm1tb2-d8a6e8e7",
+    "createdAt": 1794431332715,
+    "expiresAt": 1794863332715,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Corgi Loaf Baking Co. ↔ Mile High Royal Lions",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "neutral",
+      "goal": "Win Championship",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          },
+          {
+            "name": "Tank Dell",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Garrett Wilson",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This proposed 2-for-1 transaction sends RB Saquon Barkley and WR Tank Dell from Corgi Loaf Baking Co. to Mile High Royal Lions in exchange for WR Garrett Wilson. From a neutral third-party perspective, the deal heavily favors Corgi Loaf Baking Co., which secures an elite 26-year-old cornerstone receiver in Garrett Wilson (C-AVI 76.8, D-AVI 91.3) to pair with Jaxon Smith-Njigba and Malik Nabers, boosting their immediate starting lineup by +24.7 C-AVI points. Conversely, Mile High Royal Lions (whose goal is Increase Playoff Odds) surrenders their clear top receiving asset for an aging RB dealing with hamstring/back injuries (Barkley, age 29) and a rotational WR3 (Dell), suffering a net -24.7 C-AVI drop in their starting lineup while opening a significant hole at WR2. Consequently, Mile High Royal Lions has little incentive to accept this offer as submitted.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 52.1,
+              "davi": 83.9,
+              "publicMarket": 78.5,
+              "leagueMarket": 80
+            },
+            {
+              "name": "Tank Dell",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 35.2,
+              "davi": 63.6,
+              "publicMarket": 58,
+              "leagueMarket": 60
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 76.8,
+              "davi": 91.3,
+              "publicMarket": 90,
+              "leagueMarket": 91
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "D+",
+            "userShare": 65,
+            "otherShare": 35,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Corgi Loaf Baking Co. gains a dominant WR1 in Garrett Wilson while giving up a starting FLEX piece (Barkley) and bench depth (Dell), resulting in a +24.7 net C-AVI gain in their starting eight. Mile High Royal Lions loses its top receiver and is forced to start Courtland Sutton or Marvin Harrison Jr. at WR2, resulting in a net starting C-AVI decline of -24.7 points and a long-term loss of dynasty equity."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "By replacing Tank Dell with DJ Moore in the package (Saquon Barkley + DJ Moore for Garrett Wilson), Mile High Royal Lions receives a proven starting receiver (Moore, C-AVI 51.1, D-AVI 81.8) to stabilize their WR2 slot alongside Saquon Barkley in FLEX, making the transaction strategically viable for both organizations."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Starting lineup C-AVI increases by +24.7 points, establishing a league-leading WR trio of JSN, Nabers, and Garrett Wilson."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Acquiring a 91.3 D-AVI receiver under 27 years old enhances long-term championship stability."
+            },
+            "lineupQuality": {
+              "score": 55,
+              "summary": "Replaces Saquon Barkley's FLEX slot with Garrett Wilson, driving a substantial efficiency jump."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Trading away two startable assets slightly reduces overall bench cushion."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Garrett Wilson represents a high-demand liquid cornerstone asset."
+            },
+            "overall": {
+              "score": 30,
+              "summary": "Corgi Loaf Baking Co. gains a dominant WR1 in Garrett Wilson while giving up a starting FLEX piece (Barkley) and bench depth (Dell), resulting in a +24.7 net C-AVI gain in their starting eight. Mile High Royal Lions loses its top receiver and is forced to start Courtland Sutton or Marvin Harrison Jr. at WR2, resulting in a net starting C-AVI decline of -24.7 points and a long-term loss of dynasty equity."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -40,
+              "summary": "Starting lineup C-AVI decreases by -24.7 points, weakening near-term playoff qualification odds."
+            },
+            "dynastyOutlook": {
+              "score": -50,
+              "summary": "Trading away a 26-year-old alpha WR for a 29-year-old injured RB damages long-term portfolio valuation."
+            },
+            "lineupQuality": {
+              "score": -35,
+              "summary": "Creates a immediate starting hole at WR2, forcing reliance on lower-tier starters."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Adds two rosterable assets, providing incremental RB and FLEX depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -10,
+              "summary": "Exchanges one top-tier liquid asset for an older RB and a volatile WR3."
+            },
+            "overall": {
+              "score": -30,
+              "summary": "Corgi Loaf Baking Co. gains a dominant WR1 in Garrett Wilson while giving up a starting FLEX piece (Barkley) and bench depth (Dell), resulting in a +24.7 net C-AVI gain in their starting eight. Mile High Royal Lions loses its top receiver and is forced to start Courtland Sutton or Marvin Harrison Jr. at WR2, resulting in a net starting C-AVI decline of -24.7 points and a long-term loss of dynasty equity."
+            }
+          },
+          "explanation": "The visual impact highlights a clear valuation tilt toward Corgi Loaf Baking Co., which upgrades peak starting lineup quality while Mile High Royal Lions absorbs structural damage at WR2."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf Baking Co. increases starting lineup C-AVI from 549.0 to 573.7 (+24.7 delta) by inserting Garrett Wilson into FLEX over Saquon Barkley.",
+          "sideADynastyImpact": "Dynasty AVI increases as Garrett Wilson (91.3 D-AVI) replaces Saquon Barkley (83.9 D-AVI) and Tank Dell (63.6 D-AVI), concentrating value into a younger asset.",
+          "sideARosterImpact": "Strengthens starting WR/FLEX slots while leaving Rhamondre Stevenson, Cam Skattebo, and David Montgomery to manage RB depth.",
+          "sideBChampionshipImpact": "Mile High Royal Lions sees starting lineup C-AVI drop from 535.7 to 511.0 (-24.7 delta) due to the loss of Garrett Wilson at WR2.",
+          "sideBDynastyImpact": "Surrenders significant dynasty longevity by giving up 26-year-old Garrett Wilson (91.3 D-AVI) for 29-year-old Saquon Barkley (83.9 D-AVI).",
+          "sideBRosterImpact": "Adds RB depth with Saquon Barkley and Jonah Coleman, but severely compromises the wide receiver core.",
+          "valueAssessment": "The total asset value sent by Corgi Loaf (Saquon Barkley + Tank Dell) falls short of Garrett Wilson's standalone market and dynasty command."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Garrett Wilson is valued as a clear tier-1 dynasty wide receiver (age 26) expected to return from concussion protocol in Week 10. Saquon Barkley remains a premier talent but is 29 years old, on a 2-7 Eagles squad, and currently battling hamstring and back issues. Tank Dell has returned to health with a strong Week 9 performance but remains a secondary target in Houston behind Nico Collins.",
+          "aviVsMarket": "Public dynasty consensus values Garrett Wilson noticeably higher than the combined package of an aging RB and a WR3, aligning with AVI's D-AVI gap.",
+          "relevantContext": [
+            "Garrett Wilson is expected to clear concussion protocol for Week 10.",
+            "Saquon Barkley is on bye in Week 10 while managing hamstring and back soreness.",
+            "Tank Dell recorded 105 yards and a TD in Week 9, confirming post-injury form."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions is attempting to Increase Playoff Odds, but trading away their top WR does not align with winning upcoming matchups.",
+          "packageFit": "The package offers RB depth but fails to compensate for the lost receiving production at WR2.",
+          "lineupReplacement": "Replacing Garrett Wilson with Courtland Sutton or Marvin Harrison Jr. creates an unaddressed drop in weekly scoring floor.",
+          "competitiveWindowFit": "Surrendering a prime 26-year-old receiver harms both immediate playoff odds and future roster trajectory.",
+          "positionalScarcity": "Elite young WR1s command a high premium in 16-team PPR leagues and are rarely moved for 2-for-1 packages without extra draft capital."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 10,
+            "packageMatch": 0,
+            "lineupReplacement": 4,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 33,
+          "classification": "Unlikely",
+          "explanation": "Cornerstone downgrade: seller relinquishes D-AVI 91.3 for a strongest returning player at 83.9, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "structuralRejection": "Cornerstone downgrade: seller relinquishes D-AVI 91.3 for a strongest returning player at 83.9, without enough premium first-round capital or proven starting assets to bridge the quality gap."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Trade-partner acceptance not supported: Cornerstone downgrade: seller relinquishes D-AVI 91.3 for a strongest returning player at 83.9, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 52.1,
+              "davi": 83.9,
+              "publicMarket": 78.5,
+              "leagueMarket": 80
+            },
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 51.1,
+              "davi": 81.8,
+              "publicMarket": 72,
+              "leagueMarket": 75
+            }
+          ],
+          "receive": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 76.8,
+              "davi": 91.3,
+              "publicMarket": 90,
+              "leagueMarket": 91
+            }
+          ],
+          "whyUserShouldDoIt": "Corgi Loaf Baking Co. still secures Garrett Wilson to pair with JSN and Nabers, establishing an elite receiving foundation for a championship run.",
+          "whyOpponentMightAccept": "Mile High Royal Lions gets DJ Moore to immediately fill the WR2 slot while adding Saquon Barkley to boost their RB/FLEX output for their playoff push."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 52.1,
+              "davi": 83.9,
+              "publicMarket": 78.5,
+              "leagueMarket": 80
+            },
+            {
+              "name": "Tank Dell",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 27,
+              "cavi": 35.2,
+              "davi": 63.6,
+              "publicMarket": 58,
+              "leagueMarket": 60
+            },
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 46.3,
+              "davi": 75.9,
+              "publicMarket": 68,
+              "leagueMarket": 70
+            }
+          ],
+          "receive": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 76.8,
+              "davi": 91.3,
+              "publicMarket": 90,
+              "leagueMarket": 91
+            },
+            {
+              "name": "Courtland Sutton",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 31,
+              "cavi": 41.5,
+              "davi": 73.5,
+              "publicMarket": 55,
+              "leagueMarket": 58
+            }
+          ],
+          "rationale": "A 3-for-2 structural shift providing Mile High Royal Lions with two startable RBs and a receiver, giving them full lineup depth to push for the postseason."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tank Dell news 2026",
+          "Saquon Barkley news 2026",
+          "Garrett Wilson news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvs6kS0cNdKLXr_sLAB9K6dvOjmQICK66YSGuAK3e5HDQ2jOYuABrSJUs4g_RTobxkEmdNp9tMvrVLk0EOej0lC8uu6uQjo4nAekyF-qHdP8FV8HLwoneSOgW3Pz8J4AJ07M3Addlu61aQYhDPHDzBvAipVx1d2ATc9Xdtcq5QJZc-OKSoTyHCRkFowU7Mt0yjP-h35f4JIUd6hJfUmS8LS2cu",
+            "title": "phillyvoice.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjACgA0BWkWrXOnFbIZoDWMF9E0xoD06pMF6rUzaPcbKZd7oUzm0zk293KuuUYsK1LoW4uQKa4BzNqP7-doYqG1Ww7yzOdDQ_0RpO_k6vqrCjI-2aqHK9KbCOKpZ5JjxKz7fEcO3xOoaEIhR5vpA9966KiGL54ta_QdSyTHUhDIiFT8idfktac1oT3AMkTzAUFyDmhl8K9ULl6Ar6fB1wd1jtD6DUiIgIAJGGEAjIjsg==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiQZ4um7jQqiRWJnVbVTuNy8mNj9d8lNMCDqKPTctEr2DRIc60nNvvKbLpEoLOwcjMPh6Ed83AGtQyh64gq62VbwvSFDBdp0iHVXz13qb7hNp2n5CRkx2RmGeWEyHqrlADSQmoAP5phtWvaWUhKh0LOkx9nyvvniLksIY-",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm5UKHNarV4uFWtr91f_2TWuvth88kI3yndmDt-Zh9OZHDaK0V2dYYGclKzKe6QZ6o18u6VRIXuT1jeeN2DsoDJD5eGF_Wo92vHh56y-lCBeyNXXBAOwv7SOTc2MnnxEYs",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5v9NarTEQrTDy6PS2Q4xdPb8ehBtp3g2x88KnIm6xYU2MQrM6zcOjBNdOlmTXkoLWr9kI5fkTep4CQFSU4nkiTCl9ypyH-3DecsOkkHOt6FCIJYf5_mL_3W5zQmgPoM-p",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFZEbcWFb28_EcFsI1Yz7i4ZRRLwACeo87NsK2pWxudeOokXVpX8QeZnA5HWxTrcrbGmhcFnZoKdINoxdHz8Kj_kA0R8_MHODwmNQ8EyZz4b7ony8O0jfU1mRcHNxZ14KJxmjQFykJBMUXRBdYrhynBTwAYOeGIkxOZq7WdbSCwLWzVAYs1PuBEpaCDskJEYgZkHVSvPkNmgHbIGsLI5eNvrSHMIf7NjNH",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJCriNukIJrzldKQ1ktC4n0O6ZXA5Z9aL9UNwuvet_oAJMbh2sIUPtmxYYFazVNVOa95cXuQ5P_HLxUYmksy1H64twYTErj6upL3bSnI7okBpmI8cNsNClDUkP29YMRtPcsWlGkZ7ouwX1kSjk1Vx8VBI1R2NcGeNxdIFowIzuEYXf_Xc0W51L9COKiFqI_6LoDA8=",
+            "title": "houstonpress.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAVE021cCVHN4FvLxVTO4DVaecQD0lWanOuYLkjZnxIBrKRnVzLBuSOhecOkwi3RfXZQpLajdD6tl9nKimsLXfh9o0MNQrzFvOlAsMyAeMhai8EEVNHJlSBkGPto4Rt3UnnHQdkHd5nSnnhc5Cay1BWyJQyUjIJMx-BohxL_QftrlGHwqjC-uZ6SUE2215wAs7pw==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2TiX-rGr3Ff3OLuseEuooCcsiMA97Y2YUBjBTjvUsng4xZDJuIY3iPY7U477_bnGZe83CshUjHP8iRQLnI8_SG5BpJ9lZtwBFNUH5SE-SLIKIB5x9p0Jz084cXnavAKLCTnUpPMU2lIA_7fwqemDNLcnXk6XzJQ82E9i1EML2GPmg67Ag94EevBEol1Q6w5M5Tg==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-vmVld2u7rDuQa02ILixeoYsuTgxR5175-sdSOfgMeQ2bmgvCP-2sVRhb5nAU3HWclw4N8404Um5qp6RBHg5vtDO00wYv0NuPJ825sFKzwO-GuMQfUJD2_UY7lnw8qboOVooGZ6LkgfvgNQz1cPVL00xTxoKLGwGklSdGHpx2oMurOKiE8uJrJrbmDyMa8TMPhvXg0QmOcXZunQdXFn0=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnftRyg9D2P6B9RPrCcxNzHm0GGlXJWzwmGAhTS3a98ckby_-g0dzRY_uMMXI8-W_-0X4tWeiaB7gafUBUdlHWJi-jagwWZN9ht-7ESTs9y57FIBW3gMg3y-8QN5sKKakr5HS4oixvMGl8mQE1hOSVdN-_fGGQZICQuF-WhBcGWtGuDUHKpMU=",
+            "title": "houstontexans.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0DeFmf-tf_O1py_s7Y8IvOMmRWMUuzNW0jZR21oVZZVJdHiT7uWi9OTTmgt57EFMcfZv723_jGvrD3rTckvgIiEwofvFiHwtq9Xn3oBv4CPyjV0H3_N9mBuqtpJbJMHiO6tZ5LqDEzWl2eFE_7nrbCwzgfNdH_9YK4P1RpN3j3eTUZ1q2qfSar0H8K7NpdKP3qwlJfQ==",
+            "title": "uhcougars.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcSRD4-EOIvRpGHH1Kj5R9aRUYdU3bpn4gLmy2TB2KhAmpRBi6E16G6hbXorpDIuHAWS0QWLCV4Vc6T05LCS2jC-LWrLVEiY0OHdFn0zXOVk_G09M37qBNJbE8ydm9ecuFmcaP4PY25E5ZgTL1WBt-cH03ELMpXLJcvQBl_n5Uw1asBq6RtcrpQkzzLWKKL2G5jfOWv-_RrXSP48Sv9fFVEOHz56rBL2vYZw==",
+            "title": "newyorkjets.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn6Enf_38DjT03Eoxg4meg_Wap8JRkxAyBhv9DGk6eQqVYmFTJB5bS29uPuzEZebyuGi_6yV05y80zFUAycAye9GVhK2xwisuOaBNULRBIerL_Id4r2h3FJ7yAuEFuekPXa8LV67f-5RM0izqdF9APOqSAR6aQ-sQbhQuW9PQc0yFDDF27_R-U",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF63RpPavYoOO9bsQX7MgtIPVE8P4kIt1a7G9tJ6CaWMOYIZ4eakgC9kfW2QshIyr_8dV8u6NUTOwqtBuLAIEi7Cb_wYkEG-RY0Rplfdxtv3lWgGjffrgD_lJxDFeCLS9M2D1K-5fywN1xW7Aq0HWP4RjG6zYUH624yfZesJcagImMG",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw3Og2lab9ECdiLodoKgYIv2XtbebFB81LABFexBJe_P4UKkIy5k97Mu_sAeo6oKCtTtJ8GJAUFKU4Uc4tnrEXiHHH5aAGLGGnmHj-b1HnJl80gN4bbMuUXE6JgP_7ddjrtbJoKKb4cV_Tmc2e_VXFUomsjQfbgAAyCWqksOT3Ittoaqyotnhg82CVkYf-mbICUm-YXOpXW8XW",
+            "title": "lastwordonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXY-Dd_hYfRw-AlOnfUlJgDNkSAI0_m7JP8cHrP7zUbmpOOCn1nfokBzMBMtk6JHOB8L7NMGsJXhYCAQA1eDy3zNnodWC8OTEZoDmpMkI_44PtD1zV5UUrrWONPftlhEvDoviJ-TSlsBieIeblxiPxqrF0OVwdQHPKTe1pWFA4fMI9CenrgywtvfAWHP0W",
+            "title": "newyorkjets.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZq7HkLZcNgjNTONnH7-f3HDkRKbm210J4nXueowZub4eA1t-FTwym_26tDoM15oxfCuLfGuJHddlYL1LcplFCe8w7h_p3R0qmI23W2oTYgZh9bW0OKyzYAfeNeiLV719udMYz9tHX4DhN_TJzsuC1ZLpMP7buIxvFGUzzr1lQ_TCDoxtGKVBIvwuEnKowHH__yOQPi7ePQLBv3ySgew-46vJ6vagzgVeM",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkpY66kFAATeKCrIhBdvq4dnOASCV-iFzpHSoLHKKs84gJJwAd6I9Qq6FSLcz9ERFRmf-Nr4235XheOcTT__VefDTw8DBuX9s1ZTcLGPzMLsR3gjMNandC37M1cyfww5GtmioNeCd6g1fLPO1oH8H7RaKXcHATSkWcPPTRgP7WjYYLuoAV8u0gspWAt4AtSONlXdgMDdCm",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "68bbd5cfa9b4f225879078a141cbea1984483bb3",
+        "aviCoreCommittedAt": "2026-11-11T20:16:38Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 91720,
+        "groundedMarketChars": 5215,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
+  },
+  {
     "id": "mwci5wq8-1725447f",
     "createdAt": 1794424806297,
     "expiresAt": 1794856806297,
