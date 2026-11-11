@@ -30,9 +30,327 @@
       "personalContext": "I dont want to give up starters"
     },
     "createdAt": 1794422806349,
-    "updatedAt": 1794422807915,
+    "updatedAt": 1794422821065,
     "expiresAt": 1794854806349,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. aims to acquire elite running back Derrick Henry from Ravens Regime to power a championship run. While the initial recommendation added starter DJ Moore to satisfy Ravens Regime's playoff push, the user's hard personal context constraint (\"I dont want to give up starters\") precludes including players of Moore's caliber. Consequently, we adjust the package by retaining startable assets and leveraging pure youth depth and future draft capital (e.g., adding a 2029 1st or 2nd round pick instead of a starting player) to bridge the valuation gap without sacrificing current core starters.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.6,
+              "davi": 70.5,
+              "publicMarket": 70,
+              "leagueMarket": 70.5
+            },
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 44.8,
+              "davi": 75.6,
+              "publicMarket": 76,
+              "leagueMarket": 75.6
+            },
+            {
+              "name": "2029 Round 1 (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": null,
+              "leagueMarket": 79.3
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 79.1,
+              "davi": 87.3,
+              "publicMarket": 85,
+              "leagueMarket": 87.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "D+",
+            "userShare": 62,
+            "otherShare": 38,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The baseline trade consolidates depth into an elite piece for Corgi Loaf, but leaves Ravens Regime short on immediate weekly production for their playoff push."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 24,
+              "summary": "The baseline trade consolidates depth into an elite piece for Corgi Loaf, but leaves Ravens Regime short on immediate weekly production for their playoff push."
+            },
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Brings in Derrick Henry to solidify the championship running back room."
+            },
+            "dynastyOutlook": {
+              "score": -10,
+              "summary": "Trades future capital and depth for an aging elite asset."
+            },
+            "lineupQuality": {
+              "score": 40,
+              "summary": "Upgrades starting flex/RB slots cleanly without harming weekly starting wide receiver or other core positions."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Surrenders running back depth and future draft liquidity."
+            },
+            "flexibilityLiquidity": {
+              "score": -10,
+              "summary": "Reduces draft capital flexibility by parting with a future round pick."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -24,
+              "summary": "The baseline trade consolidates depth into an elite piece for Corgi Loaf, but leaves Ravens Regime short on immediate weekly production for their playoff push."
+            },
+            "championshipOutlook": {
+              "score": -30,
+              "summary": "Experiences a dip in immediate weekly production by moving Henry."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Adds premium future draft capital and younger running back assets."
+            },
+            "lineupQuality": {
+              "score": -25,
+              "summary": "Slight downgrade at the immediate starting RB1 slot."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Expands roster flexibility and long-term capital."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Adds a valuable 1st round pick to trade coffers."
+            }
+          },
+          "explanation": "By incorporating draft capital instead of starting players to satisfy the user's constraint, the trade achieves a realistic compromise between Corgi Loaf's championship ambitions and Ravens Regime's retooling profile."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Adds Derrick Henry (79.1 C-AVI) to the starting configuration without giving up any active starting players.",
+          "sideADynastyImpact": "Trades future draft capital and young depth pieces for an elite win-now asset.",
+          "sideARosterImpact": "Preserves core starting pieces like DJ Moore and Jaxon Smith-Njigba entirely.",
+          "sideBChampionshipImpact": "Accepts a temporary starting production hit in exchange for long-term value.",
+          "sideBDynastyImpact": "Acquires young depth (Washington Jr.) and premium future draft capital.",
+          "sideBRosterImpact": "Provides assets that align with a retooling or flexibility-focused window.",
+          "valueAssessment": "Balanced through the inclusion of draft capital rather than active starters."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Derrick Henry continues to command significant trade market value as an elite goal-end weapon despite his age.",
+          "aviVsMarket": "Public market and AVI align on Henry's value as a win-now centerpiece, with draft picks serving as standard currency to bridge age gaps.",
+          "relevantContext": [
+            "Derrick Henry remains under contract through 2027.",
+            "Managers pushing for titles frequently pay a premium in picks to secure workhorse running backs."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime is retooling and can be enticed by premium future draft capital combined with younger running back pieces.",
+          "packageFit": "Replaces active starters with future picks, satisfying the user's explicit constraint.",
+          "lineupReplacement": "Requires Ravens Regime to manage their weekly scoring hit, offset by the acquisition of a valuable future first-round asset.",
+          "competitiveWindowFit": "Bridges the gap between a win-now buyer and a retooling partner.",
+          "positionalScarcity": "Elite workhorse running backs remain scarce commodities in deep leagues."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 15,
+            "packageMatch": 15,
+            "lineupReplacement": 10,
+            "competitiveWindow": 7
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 68,
+          "classification": "Stretch",
+          "explanation": "With the inclusion of a future 1st-round pick, the package provides enough long-term value to interest a retooling Ravens Regime side, though they may still push for an immediate starter replacement."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "The submitted trade may offer value, but partner acceptance remains an obstacle: With the inclusion of a future 1st-round pick, the package provides enough long-term value to interest a retooling Ravens Regime side, though they may still push for an immediate starter replacement. No verified alternative package was generated. The original trade is NOT a revised recommendation.",
+          "confidence": "Medium"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Mike Washington Jr.",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 23,
+              "cavi": 29.6,
+              "davi": 70.5,
+              "publicMarket": 70,
+              "leagueMarket": 70.5
+            },
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 44.8,
+              "davi": 75.6,
+              "publicMarket": 76,
+              "leagueMarket": 75.6
+            }
+          ],
+          "receive": [
+            {
+              "name": "Derrick Henry",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 32,
+              "cavi": 79.1,
+              "davi": 87.3,
+              "publicMarket": 85,
+              "leagueMarket": 87.3
+            }
+          ],
+          "rationale": "The original baseline package relies entirely on player depth without draft picks, which represents a lower acceptance probability but adheres strictly to zero starter loss and zero pick expenditure."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Considered the user's explicit instruction not to give up active starters. Replaced the previous recommendation of adding starting WR DJ Moore with a future 1st-round draft pick to preserve starting lineup integrity while maintaining trade equity."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Derrick Henry stats 2025 2026",
+          "Derrick Henry news 2026",
+          "Derrick Henry contract NFL Baltimore Ravens"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW7kTeZnsIM-8sQwVBfMu8Ek0v3VS0jajGlIm7cID98efVnb8l7flIlog_0bYSaCXYZAkb3VWnpbNdd23Ux3tJhpjrWTZ41wanpmXpF2VN4HiI5Bv81GSHRYQGDt8ZXbz_uBTKgfp9",
+            "title": "sleeper.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmHyWCy8uWaRe04VAo61O-TNgLEEnBCmSBDfZswQBOEThXHitG5G5RLyDY1sT_hcGfk85kh8Ry2obpl04cQQxu7Wl3Bc0xR-RpM7YH7jfHXzvdw7Imb7dTqn_IHATjf2E=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2EyMBtc1upkYp6UU0_gfROO9UEmUa2yu8tWYlarmOXqb890iELS20qPB0nACZ2ySoNjKTUldXITX4iXx5lAr80TqT0VHd1AvhQqO17oUh1kXPHK3saGdXKi8hKNVN_49h4Z3MRKhMHy0unWJMOA0=",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr8cHfepLWFBBLnVEY805_Be0hJmLImh0uCH5hNm72zDFc6q2lIdZI9yt-TaSoA7XoKAfEiLxZhS_20jSpTwFlftvHpZ9MIY4lGWSlk1aY-Gav8Ryqi8TGC6bkcLoxEuAKqaqtoxxxLWx168W7BHhPJ-s=",
+            "title": "pro-football-reference.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElN6-jRxJZ0sv1fwDurUpxSjLutzrWgN6LNeudYY8U25Zgrt_4CebVMh_4x8N4TtbppGFxNAXzCghrvDsAPIxtvY4WdZtSYO7mOu-4z4Pxm8IMsk3rJX87hbbAYiOpiFCnte4dow==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9JACwLuUL1StCeM64mdC14HPKHFLQkkmKhjtfk5JHvfJNH5UL8SLONSs7wrbI2xdo5hmxqNYGZMDMuRt83gu1qbLIPUMH3ORWJ4BIr3_o5v65RCS1SMHlkQ8AYrs-S_cd81lUa8u4siAE07SJLGb9BiQQfmXc-YCPnWQkwsYgw-4r4L4AWBH10A39ez_Z6dr7itsVQVryaCM=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhAwWRXZfXw2NSfoEiPAN44upIjRiN72eEbjYZfVTxBkmw6ZYv8HWxgFKDEbSon1BFEdWeyS75xq2hRwv3sAeryR3W2P8AVzyi4VdCuh8L0r7N8_-a0qLglC0NeGxWVJD0ZlpkcMCdbOGu7aY=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeCQrC__rnW3OLT3lVtib5e1F6k5KobTPpsHgaTxyJDwKNfppFeTNvlfjGU6vQuLzzH2a9kiNOluZRK4IJAThUutfJ9Z6dAT0dTpQm3ccxJBA2rOFFX_1VJKifAOhpBCI=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJt8hM-mlsHZy3SJsmEmKXNYQxX84kf8tfLeUL8sayg1QfCvtn4w--cE9Pz6ZZ72o7NMc_82MqhbOd5mJfR0yhrNzbblZ7Uy2fs0qVlFdtQ8o41f1P6848rZuaxDs3MiLA2uyQpU0Dy03YnPq_DVq3Sw_DF6x-TpQsf3Foutv3vTBiWfkV7AS8Jm4sOeWMORHNUlGwmfDcwQDH",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHJxSRz6zna3hXJf50viBzQJiRqdorzyECi5M1HqV26F9hxnYOOIfWxwWkk26MlcfHXKuFtu8x1LnkwOBEQ1xsm19wAvUaltYh4UQSlw4p0TbqUb0-9a9fiImzr2Vjc4CKOEwmT-337VwfAJ42yRYtDVYRzVllJKHabCZYvn1XraE_F06t4Jw2wBsfQ-NhzxarlX4C18NAwqbz2Ssx6dIXoOg=",
+            "title": "ebonybird.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTnvoQ_nGr7Ugz64-deYnc128pB9Q2_y8b1KPI6wzUznNzYD-QjZV5FsByKYrZMfBh4KwW3lnpeuW9JxNtFaAb_h4tAiX_7ge2fnUqsw4fdWbhALk16iSGmozVllO9PsQwTfqxI9m3bX1txW8sGNLr7DrMEMqloUc4rBATfGXwEP8f4i_PXGho-RHm-hO13570CsAOXamyL3AYpyqa4Goc2GQ5Y1vo8zyFTOvepmDX63hldAM4QeFSvw0=",
+            "title": "baltimoreravens.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaLwpPnMF4x89q_22z50S8AJCP2KuMRikjLqvOucYwOiqa49_h18lGRGl4hqsSQ3XxGsPdLpXEvDaZoqAwJ7ZN9GjYL7ORH72eJerVUN-rK-BZnj_rKdGjRhOgpNaCVlmyMJOWCxcU",
+            "title": "foxsports.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "9b4966884f26d7b6917ff29b5f9552d25dd32838",
+        "aviCoreCommittedAt": "2026-11-11T13:13:51Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 94663,
+        "groundedMarketChars": 3359,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": [],
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mwcgwm4n-8b6d7ff8",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "9b4966884f26d7b6917ff29b5f9552d25dd32838"
+      }
+    }
   },
   {
     "id": "mwcgwm4n-8b6d7ff8",
