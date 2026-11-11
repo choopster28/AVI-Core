@@ -1,5 +1,418 @@
 [
   {
+    "id": "mwcn4lt9-f5563d46",
+    "createdAt": 1794433153558,
+    "expiresAt": 1794865153558,
+    "mode": "shop_assets",
+    "title": "Initial Shop Assets · Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "neutral",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Shopping Saquon Barkley (RB, C-AVI 52.1, D-AVI 83.9) presents Corgi Loaf Baking Co. with an opportunity to optimize its roster structure. With high dynasty prestige (D-AVI 83.9) but moderate current-season C-AVI (52.1) amid Philadelphia's off-year offensive struggles and injury hurdles, Barkley's primary value is in bridging competitive windows. From a neutral perspective, contenders like Badland Banditos and SmokyValleyWheatWarriors can leverage Barkley's high-ceiling profile to bolster backfield depth for a title run, while Corgi Loaf Baking Co. can acquire immediately productive starter/FLEX assets and future draft capital without compromising long-term sustainability.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Playoff Push",
+          "strengths": [
+            "Elite cornerstone wide receivers in Jaxon Smith-Njigba (C-AVI 99.2) and Malik Nabers (C-AVI 89.3)",
+            "Premier tight end production anchored by Trey McBride (C-AVI 94.7, D-AVI 92.9)",
+            "High-end starting quarterback stability with Patrick Mahomes (D-AVI 77.5)"
+          ],
+          "priorityNeeds": [
+            "Stabilize starting running back floor with healthy, consistent weekly touches",
+            "Convert veteran RB dynasty surplus into active FLEX scoring and liquid pick capital"
+          ],
+          "tradeableSurplus": [
+            "Saquon Barkley (RB)"
+          ],
+          "constraintsApplied": [
+            "Neutral perspective mode: strict evaluation of both franchises' independent goals",
+            "Starter-for-starter realism gate: all involved players belong to the 16-team starter/FLEX pool",
+            "Authoritative current roster ownership and draft pick verification"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding teams (Crimson Tide Pods, Northside Kings, DMV Fantasy) rejected taking on an aging veteran RB",
+            "Retooling franchises lacked immediate Win Championship urgency to pay Barkley's dynasty market price",
+            "Roster structural mismatches where potential partners lacked required starter-caliber WR/RB assets"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Badland Banditos",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Stefon Diggs",
+                "assetType": "player",
+                "owner": "Badland Banditos",
+                "position": "WR",
+                "age": 32,
+                "cavi": 61.8,
+                "davi": 73.7,
+                "publicMarket": 65,
+                "leagueMarket": 68
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 52.1,
+                "davi": 83.9,
+                "publicMarket": 75,
+                "leagueMarket": 78
+              }
+            ],
+            "scenarioType": "Position Swap / Contender Upgrade",
+            "strategicGoal": "Exchange running back dynasty equity for immediate wide receiver starting points.",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 21,
+              "packageMatch": 17,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 82,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Stefon Diggs provides higher immediate weekly PPR floor and current C-AVI (61.8 vs 52.1) as a key target earner in Washington, immediately plugging into Corgi Loaf's starting FLEX slot.",
+            "whyOpponentMightAccept": "Badland Banditos (Win Championship) gain a proven elite RB with high dynasty index (D-AVI 83.9) to fortify backfield depth behind Kenneth Walker III and Bucky Irving without sacrificing core WR1/WR2 starters Ja'Marr Chase and Mike Evans.",
+            "championshipImpact": "Corgi Loaf increases immediate starting lineup ceiling; Badland Banditos acquire high-ceiling running back insurance for the playoffs.",
+            "dynastyImpact": "Corgi Loaf absorbs a slight age increase at WR (32.0 vs 29.0) in exchange for current scoring; Badland Banditos acquire superior D-AVI asset (83.9 vs 73.7).",
+            "rosterImpact": "Corgi Loaf balances roster construction by substituting RB depth for usable WR/FLEX production.",
+            "publicMarketContext": "Diggs commands target volume following Terry McLaurin's injury, making him a safe win-now acquisition. Barkley maintains high brand prestige despite Philadelphia's offensive lulls.",
+            "risks": [
+              "Diggs is 32 years old with limited remaining dynasty longevity",
+              "Barkley could experience a late-season spike if Philadelphia's rushing game recalibrates"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Saquon Barkley straight up for Stefon Diggs, emphasizing Barkley's higher dynasty market value and elite talent profile for a contender.",
+              "acceptableConcession": "Include a late future pick swap (e.g. 2027 4th) if Badland Banditos requests minor draft sweetener.",
+              "walkAwayPoint": "Walk away if required to include a 1st/2nd round pick or higher C-AVI asset alongside Barkley."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "SmokyValleyWheatWarriors",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Rico Dowdle",
+                "assetType": "player",
+                "owner": "SmokyValleyWheatWarriors",
+                "position": "RB",
+                "age": 28,
+                "cavi": 42.5,
+                "davi": 75,
+                "publicMarket": 50,
+                "leagueMarket": 52
+              },
+              {
+                "name": "2028 Round 2 (Ravens Regime)",
+                "assetType": "pick",
+                "owner": "SmokyValleyWheatWarriors",
+                "position": null,
+                "age": null,
+                "cavi": 48.5,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 52.1,
+                "davi": 83.9,
+                "publicMarket": 75,
+                "leagueMarket": 78
+              }
+            ],
+            "scenarioType": "Star-for-Depth + Draft Capital",
+            "strategicGoal": "Acquire usable running back rotation depth and premium draft pick capital while supplying an elite contender with a premier RB anchor.",
+            "scoring": {
+              "availability": 21,
+              "opposingGmMotivation": 20,
+              "packageMatch": 16,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 77,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Corgi Loaf Baking Co. replenishes missing 2028 draft capital with a Round 2 pick while receiving an active, rising backfield performer in Rico Dowdle.",
+            "whyOpponentMightAccept": "SmokyValleyWheatWarriors (Win Championship) upgrade their RB3/FLEX room from Dowdle (C-AVI 42.5) to Barkley (C-AVI 52.1, D-AVI 83.9), boosting championship lineup ceiling alongside Christian McCaffrey and James Cook III.",
+            "championshipImpact": "SmokyValleyWheatWarriors significantly increase playoff lineup firepower; Corgi Loaf preserves RB depth while building draft liquidity.",
+            "dynastyImpact": "Corgi Loaf secures valuable draft pick capital (2028 2nd) to offset Barkley's age curve.",
+            "rosterImpact": "Corgi Loaf maintains RB depth through Dowdle while gaining draft assets.",
+            "publicMarketContext": "Dowdle's usage in Pittsburgh has trended upward with double-digit touches and passing-game work, making him a viable starter/flex.",
+            "risks": [
+              "Dowdle shares backfield touches with Jaylen Warren in Pittsburgh",
+              "2028 2nd pick value is deferred two seasons into the future"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Saquon Barkley for Rico Dowdle and a 2028 2nd round pick, highlighting the championship upgrade Barkley delivers to a contender.",
+              "acceptableConcession": "Accept a 2027 3rd round pick if the 2028 2nd is strictly non-negotiable.",
+              "walkAwayPoint": "Walk away if SmokyValleyWheatWarriors refuses to include any Top-2 round draft capital alongside Dowdle."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Gringo’s Goblins",
+            "targetGoal": "Increase Playoff Odds",
+            "targetAssets": [
+              {
+                "name": "DeMario Douglas",
+                "assetType": "player",
+                "owner": "Gringo’s Goblins",
+                "position": "WR",
+                "age": 25,
+                "cavi": 53.2,
+                "davi": 64.5,
+                "publicMarket": 55,
+                "leagueMarket": 58
+              },
+              {
+                "name": "2027 Round 3 (Gringo’s Goblins)",
+                "assetType": "pick",
+                "owner": "Gringo’s Goblins",
+                "position": null,
+                "age": null,
+                "cavi": 16.5,
+                "davi": 16.5,
+                "publicMarket": 16.5,
+                "leagueMarket": 16.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 52.1,
+                "davi": 83.9,
+                "publicMarket": 75,
+                "leagueMarket": 78
+              }
+            ],
+            "scenarioType": "Floor Upgrade / Playoff Push Asset Alignment",
+            "strategicGoal": "Reallocate RB dynasty equity into a younger target-earning receiver and pick compensation.",
+            "scoring": {
+              "availability": 20,
+              "opposingGmMotivation": 19,
+              "packageMatch": 15,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 74,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "DeMario Douglas offers immediate PPR target volume and higher current C-AVI (53.2) alongside a 2027 3rd pick, adding youth at WR (age 25.0).",
+            "whyOpponentMightAccept": "Gringo's Goblins (Increase Playoff Odds) pair Saquon Barkley with Kyren Williams to form a potent RB tandem, directly addressing their backfield goal for regular season wins.",
+            "championshipImpact": "Both teams improve weekly floor fit for their respective playoff efforts.",
+            "dynastyImpact": "Corgi Loaf gains age relief at receiver and picks up draft assets.",
+            "rosterImpact": "Corgi Loaf adds WR depth and draft flexibility.",
+            "publicMarketContext": "Douglas is a consistent slot target earner in New England's short-passing game.",
+            "risks": [
+              "Douglas offers limited TD upside in a low-scoring offense",
+              "Barkley's ceiling remains higher if Philadelphia recovers offensive rhythm"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Barkley for Douglas and a 2027 3rd pick, framing Barkley as the anchor needed to secure a playoff berth.",
+              "acceptableConcession": "Accept a 2028 3rd pick if 2027 capital is held firm.",
+              "walkAwayPoint": "Walk away if no draft capital is included with Douglas."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Saquon Barkley news November 2026 NFL",
+          "Jonathan Taylor news November 2026 NFL",
+          "Stefon Diggs news November 2026 NFL",
+          "Rico Dowdle news November 2026 NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnhm5f1BGJPI9owV6YKV_7M6k5n_ieVeVo047dc_ZxPylgysxoYL6cQxZKABr7M51zbLYbRiMAcDcjBGiQm1bLpOD7HyptYXJ6xILxoMkTMSQLJnxS3mPdr7O8Z_OW0_Wx6uTvvoNEGy9Tn09xgqwegVenqzXE__XCEl3-UqoCTsYDjvuwJqcltV7ubraq7oiCX2L4hypsjMRCLY3ZqALA3EAUGy__XL30wK0JPpYrFjgkgPE=",
+            "title": "247sports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5q4fj5xUio0fRUpbwiyAaiG4DSOVwVAPSig-Gj7Q9AaqKbuVhUGzxGi2UrLrnGTaULq9T3WJdB-iqcg5U1aadfK_eA1orhhdcVz7zoszGYb8J7lGmnAMWVAxOrzGO1oGJOMVRJm22cTR_772BxT9FEzW_EggEbh0Q8CKRQ4J-hl4E3bP9O9tJvoYzPkLtuj2TqouS9dWqkIVk",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0qbPzoHTC0BpTaoJidknTvGM_YZEjv-ZySYI3exBJuHIM-VX3WDokjCz1nbnFPOWLYJZbnk2i3Slltj0YlGzAFHSd4_rTaeNDYf8dPsmQbLJOe3uFPCsawHWg2Uz5CimnZeQHWKEhpkXl7nGvM_kOFzJ100_Dh0H0pGdtJZz2mKrA6fgEeBm9MljVc-Q=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZMzn2NpxVYRKGYrgQdrKxp5C_8Qn6P8X81MYxTpGEkNrBx_gxLQ2uLN02KPFvhioMGgVsqGNl-QW1M2xsmpozYyraV7-emc6zArVI3FZ_Cdx0YpJoHJr3L--32MD6SS_R0E2aOMrodA3RlZPj1SyzAe_rYumRrcHxxjk8IulLZcIY53_mwcRPbJJo",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbFraIfjwSXrIosFKPuG4tRTGxgnDuhsTchH0vCer5E868gypoUGqMf0ALPEkgZf-bBjnK8YwOZhXu1XQ__Gsqg3zeGZDk-tUiMUAC2v1lL4Sj-P6V8NoTbfYWHD2-jmKq_OwfNRuhydUddubMYgcZmQOQABOUeEERihqLbWtlcQOxtqh-cUL_YFGoXtYHE-qNLWPElU4mCklJLkt8pEs6xcDKN4YtGdVVMhb22PiOFw==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf-1068X72JJptyuzSBxSbd_WcGFgkxGXAC07y2S0AyCoaCRZIra_YzXn94RDrOGTHAD8dXoIhCBDDDWFgi6RZgs8TnLsvhzOCSSOeUbXdFxWHEP58z0BUSsX2sKzqYIT7Fc3EI-lhWEPZmzc8fuNjCALeErBZFrLaguMgeVQmiFQ0",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbjs0IHDmccSGnv64V9Ys1vbt2cb983a_Y6yTj592DHyDtE68TWg-DmbTJ_4XR8HZXNXjwS0D67OzQoBpJ4WMT9oT7iTxn3WjrOv0SRgEQGTL9XNDKfglFF6Y2MoMoXvyFbOHaz59oYRW8CMqkjj3CjzUP7mBU-plBpi6_F0x133UVOnad-0cV5dap-R0lRWz2aQ9BoJeBZL5It0jubQ==",
+            "title": "northeasttimes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhf9wzEiEGdfGrnwuRHiMaZ7pG5osDXOAu18TYgY0MQteYUaN_21qjizD0e7qFmQaz1iyRzv0l9bBeiq2HnHAoXYE2KjvBJsDPPr-uwh11327xQtRaGMA6TCYBG_X2NidJ1tTMDXhbLD5-crEy7TyeaGDGAVcnRfXTEdHYpzz-SphmEIyuWAaCJBhQ4tD_YNDvDfyH2PaK5B2H0X9fh0QetxHDLZji1xC6rwd_JLQzoHyexrrvyHHFWvQ4tIH1KJ64Sc0O",
+            "title": "philadelphiaeagles.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt5oM-W6eShwZpz0th3W1iyjI5zchkprdeK3ora5Tljt2Dy8pkJMfXyROYENeJtzoGmwqfz80qx9EqZ7iRqZ17BFO04DDLZoj7XjIOVehR6lpmdUAPugxgPBlPdJNy7JvokHAXJO1Esei6GJfNeU29L_YYhU_cpKTc3vXWapOHEMrx1H-vGFtMoifsd2jNh2t-QlAu_u-05t2s3ktLuYtzEA==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgv9o9sfux9OiK6CxxabOs8WcShVfH2fJiJFYjHhysFD6tlPfh3SNBO2RFrvnjwt-Vy_-4L5xrnUL7ZVrXCP-89sDbeLiyvIa9fBURr9KmnxJPgj4akGZOw_kgOF7CnmaMJO5Vm6ej",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdXw-u-UzAmx8wwb5ueA6NDcXMXMQzA62-zVA2jdQzpb6_QI8v7sAAAAh7L8UBt2X_JqHvpxHf-EU0jxHFZjjSGNM-_vvbV7705ORczLdYBuSXicv8FX477d1fcJR1ScpdOp_HUDg66kZ3bOqUtgdNqULeyy5NeUzE4OGWV_1VeMsrve6uFY79yPYHR44dbw-_I5itAGowll8-HQEJ9qb0K-JRcm0=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJWDKXkXTYCckPf_CelS4xUOJPbW4qEyQ2yXi1VQOHuLJLTS3qKuXOEkhKKbhZmSdr-yaKc-8A5HZkpQ7sFDyK0ZahEHLSPbSO3UbOtpBFads0hY5TQQlSSYPIhijzT2AJKdH6gOoIhUfBbmAXDi2Wwk5auJCjWhUMiH6bNasmTlkuNXQ=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDUTIZ28y7tylbiSH197jvRHvzOaHYFOdMBr17lrgjrMG8JLK-MCqQJg7MoZ5kjXv4QdYxqvsEdUmUaO1g7fT72DBdkeA4cxJxsi3A_VgK506PNyoq2NVQVMFgVeQxBY-IMcd34bn3G1kLc7mQRmL4axWmyh1a6Q-3BKhew7L8aNuZj4vbg4RM71_IcqxlFu3qgGCHIXU75EWWDLrPSuRCCuQ=",
+            "title": "steelersdepot.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF35A_-dzyRYdM_PA0eqJHW1vJKL9mgDaKclNh03JuyYLuXdx4Kpc5-wHAXpQDrqCPk3rCtjJTOBvQU_tYI4rjjqUCLa24L27S5H9pR_4DVS-k0xVjY_FVQAN5khcY6UCx8jlEzEsZOWvIjhGi9koSNs3axiF_nkweyQ2DHbocDzCK63aXMo6Q1tlv4F2uk50BSf_kGlX8KYUWttddblQQv6Uj37Q==",
+            "title": "lastwordonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFquxI6XpBcqPjZn8mZh0M0oPvF_pFIK2EKdQ-1LqR5rw9K2GHKvHnTS0fcDJhAM8WllN9MEXHiY1_jQRL4J7SXpeYaVyh5_DL5GD2oa6diP0OftcI9_VrZuECWZDKvEt2VUr255XJId5le-RSdXqXjlYk5KTCrqtGXSEmcOk2kZcd6-aJ0TaGBqhi9rJ4m3kAfq8_7zLCAPKpokh1ASwI=",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ1v2rrSJw9ibQv1G6j02K6AINt_IdBOlZD1mTTnvftZxyeyE0WnwpKnP4qBM1_VahLXXKUpUQgzI3KfBesw-TB9L5O8ALif556ddRYsmRPx2damQ7DToF7iR2zOibKCKSIjnujnPafwlnv-GeUyos6-0qSYe-wgrkvWWbkzZpHqP9s0Ro23Efdw0injvrMFm_wg6dpV9bzJVcs-QfAY8=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTVKzxZ_8qBLceS0iPMzFr8qYDoAbLykhmMJkRusW4V9o-94nni9mPP8CB3K1Y2haK1haaBKq6Y4OPp5__QUeof9pQSkOoDN_yO6RusO8PuyrAsUuhJKZBTX_WQa8_GxfMCkti4v6gsc6VUrI-LxRfff-hR2z0EgpRSRVaCzu-JLb8G7wcES-D08OWekWLpcY=",
+            "title": "rotoballer.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Jonathan Taylor",
+          "Saquon Barkley",
+          "Stefon Diggs",
+          "Rico Dowdle"
+        ],
+        "aviCoreCommitSha": "68bbd5cfa9b4f225879078a141cbea1984483bb3",
+        "aviCoreCommittedAt": "2026-11-11T20:16:38Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 545660,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 251,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mwcn1aay-29c480b8",
     "createdAt": 1794433032874,
     "expiresAt": 1794865032874,
