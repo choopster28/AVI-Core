@@ -1,5 +1,42 @@
 [
   {
+    "id": "mwclez85-fb6c4433",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "neutral",
+      "goal": "Rebuild",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "A.J. Brown",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2027 3rd · Mile High · Projected Mid · original owner Mile High Royal Lions",
+            "assetType": "pick"
+          },
+          {
+            "name": "2027 5th · Mile High · Projected Mid · original owner Mile High Royal Lions",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794430209749,
+    "updatedAt": 1794430209749,
+    "expiresAt": 1794862209749,
+    "status": "queued"
+  },
+  {
     "id": "mwb60ztd-ec10b4ae",
     "phase": "final",
     "mode": "analyze_trade",
