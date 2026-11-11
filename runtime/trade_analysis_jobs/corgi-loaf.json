@@ -1,5 +1,42 @@
 [
   {
+    "id": "mwcmgb8b-d726d34c",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "neutral",
+      "goal": "Win Championship",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          },
+          {
+            "name": "DJ Moore",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Garrett Wilson",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794431951579,
+    "updatedAt": 1794431951579,
+    "expiresAt": 1794863951579,
+    "status": "queued"
+  },
+  {
     "id": "mwcm1tb2-d8a6e8e7",
     "phase": "initial",
     "mode": "analyze_trade",
