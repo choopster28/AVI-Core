@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: awang1900
 - Owner ID: 986498458162970624
 - Division: 3
-- Waiver position: 5
+- Waiver position: 4
 - Last updated from Sleeper exports: 2026-11-11
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 509.0
-- championship_lineup_c_avi_avg: 63.62
-- offensive_roster_c_avi_sum: 834.0
-- offensive_roster_c_avi_avg: 52.12
-- offensive_roster_d_avi_sum: 1220.8
-- offensive_roster_d_avi_avg: 76.30
+- championship_lineup_c_avi_sum: 549.0
+- championship_lineup_c_avi_avg: 68.62
+- offensive_roster_c_avi_sum: 840.4
+- offensive_roster_c_avi_avg: 52.52
+- offensive_roster_d_avi_sum: 1221.9
+- offensive_roster_d_avi_avg: 76.37
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Patrick Mahomes | C-AVI: 47.5 | D-AVI: 77.5
-- RB: Saquon Barkley | C-AVI: 52.1 | D-AVI: 83.9
-- RB: Mike Washington Jr. | C-AVI: 29.6 | D-AVI: 70.5
+- RB: Rhamondre Stevenson | C-AVI: 61.1 | D-AVI: 80.0
+- RB: Cam Skattebo | C-AVI: 54.0 | D-AVI: 81.7
 - WR: Jaxon Smith-Njigba | C-AVI: 99.2 | D-AVI: 99.8
 - WR: Malik Nabers | C-AVI: 89.3 | D-AVI: 96.9
 - TE: Trey McBride | C-AVI: 94.7 | D-AVI: 92.9
+- FLEX: Saquon Barkley | C-AVI: 52.1 | D-AVI: 83.9
 - FLEX: DJ Moore | C-AVI: 51.1 | D-AVI: 81.8
-- FLEX: Ryan Flournoy | C-AVI: 45.5 | D-AVI: 68.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -87,9 +87,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 60.6
-- Dynasty AVI (D-AVI, 0-100): 79.9
+- Championship AVI (C-AVI, 0-100): 61.1
+- Dynasty AVI (D-AVI, 0-100): 80.0
 - Projected PPR points: 169.0
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Cam Skattebo
+- Player name: Cam Skattebo
+- Player ID: 12481
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: NYG
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 54.0
+- Dynasty AVI (D-AVI, 0-100): 81.7
+- Projected PPR points: 201.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -110,23 +127,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Cam Skattebo
-- Player name: Cam Skattebo
-- Player ID: 12481
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: NYG
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 49.5
-- Dynasty AVI (D-AVI, 0-100): 81.0
-- Projected PPR points: 201.2
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: David Montgomery
 - Player name: David Montgomery
 - Player ID: 5892
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 44.8
-- Dynasty AVI (D-AVI, 0-100): 75.6
+- Championship AVI (C-AVI, 0-100): 46.3
+- Dynasty AVI (D-AVI, 0-100): 75.9
 - Projected PPR points: 206.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 29.6
+- Championship AVI (C-AVI, 0-100): 29.5
 - Dynasty AVI (D-AVI, 0-100): 70.5
 - Projected PPR points: 97.5
 - Category: offense
@@ -331,17 +331,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Elijah Ponder
-- Player name: Elijah Ponder
-- Player ID: 12978
+### PLAYER: Carl Granderson
+- Player name: Carl Granderson
+- Player ID: 5912
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Position: DL
-- Fantasy positions: ['DL']
-- NFL team: NE
+- Fantasy positions: ['DL', 'LB']
+- NFL team: NO
 - Active: True
 - Status: Active
-- Age: 24.0
+- Age: 29.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

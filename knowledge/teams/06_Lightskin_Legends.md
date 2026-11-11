@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: MadDawgMatt
 - Owner ID: 872509429436829696
 - Division: 2
-- Waiver position: 10
+- Waiver position: 15
 - Last updated from Sleeper exports: 2026-11-11
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 500.0
-- championship_lineup_c_avi_avg: 62.50
+- championship_lineup_c_avi_sum: 500.1
+- championship_lineup_c_avi_avg: 62.51
 - offensive_roster_c_avi_sum: 737.7
 - offensive_roster_c_avi_avg: 43.39
-- offensive_roster_d_avi_sum: 1185.4
-- offensive_roster_d_avi_avg: 69.73
+- offensive_roster_d_avi_sum: 1183.9
+- offensive_roster_d_avi_avg: 69.64
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Ladd McConkey | C-AVI: 58.8 | D-AVI: 86.7
 - TE: Kyle Pitts Sr. | C-AVI: 47.2 | D-AVI: 80.1
 - FLEX: Mike Gesicki | C-AVI: 44.0 | D-AVI: 61.9
-- FLEX: Josh Downs | C-AVI: 40.5 | D-AVI: 77.1
+- FLEX: Josh Downs | C-AVI: 40.6 | D-AVI: 77.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -127,23 +127,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Dameon Pierce
-- Player name: Dameon Pierce
-- Player ID: 8129
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: None
-- Active: True
-- Status: Inactive
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 29.7
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
 ### PLAYER: Parker Washington
 - Player name: Parker Washington
 - Player ID: 9487
@@ -189,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 40.5
+- Championship AVI (C-AVI, 0-100): 40.6
 - Dynasty AVI (D-AVI, 0-100): 77.1
 - Projected PPR points: 172.3
 - Category: offense
@@ -223,7 +206,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 33.0
+- Championship AVI (C-AVI, 0-100): 32.9
 - Dynasty AVI (D-AVI, 0-100): 59.3
 - Projected PPR points: 102.3
 - Category: offense
@@ -259,6 +242,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 43.2
+- Projected PPR points: None
+- Category: offense
+- Valuation status: INACTIVE_UNRANKED
+
+### PLAYER: Jordan Watkins
+- Player name: Jordan Watkins
+- Player ID: 12634
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: SF
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 28.2
 - Projected PPR points: None
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
@@ -331,38 +331,21 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Nick Folk
-- Player name: Nick Folk
-- Player ID: 650
+### PLAYER: Cameron Dicker
+- Player name: Cameron Dicker
+- Player ID: 8259
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6
 - Position: K
 - Fantasy positions: ['K']
-- NFL team: None
+- NFL team: LAC
 - Active: True
 - Status: Active
-- Age: 42.0
+- Age: 26.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
 - Category: kicker
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Boye Mafe
-- Player name: Boye Mafe
-- Player ID: 8343
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Position: DL
-- Fantasy positions: ['DL', 'LB']
-- NFL team: CIN
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
 ### PLAYER: Arvell Reese
@@ -393,6 +376,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Jordyn Brooks
+- Player name: Jordyn Brooks
+- Player ID: 6949
+- Current owner team: Lightskin Legends ✊🏽
+- Current owner roster ID: 6
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: MIA
+- Active: True
+- Status: Active
+- Age: 29.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

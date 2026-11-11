@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: GGEZGoNext
 - Owner ID: 998253660243054592
 - Division: 2
-- Waiver position: 4
+- Waiver position: 13
 - Last updated from Sleeper exports: 2026-11-11
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 457.6
-- championship_lineup_c_avi_avg: 57.20
-- offensive_roster_c_avi_sum: 636.2
-- offensive_roster_c_avi_avg: 45.44
-- offensive_roster_d_avi_sum: 1007.0
-- offensive_roster_d_avi_avg: 71.93
+- championship_lineup_c_avi_sum: 464.4
+- championship_lineup_c_avi_avg: 58.05
+- offensive_roster_c_avi_sum: 610.6
+- offensive_roster_c_avi_avg: 46.97
+- offensive_roster_d_avi_sum: 944.6
+- offensive_roster_d_avi_avg: 72.66
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Drake Maye | C-AVI: 89.0 | D-AVI: 90.7
 - RB: Emanuel Wilson | C-AVI: 40.8 | D-AVI: 63.2
-- RB: Ty Johnson | C-AVI: 25.3 | D-AVI: 52.3
+- RB: TreVeyon Henderson | C-AVI: 32.1 | D-AVI: 78.8
 - WR: Tetairoa McMillan | C-AVI: 86.1 | D-AVI: 94.7
 - WR: Luther Burden III | C-AVI: 79.9 | D-AVI: 92.0
 - TE: Pat Freiermuth | C-AVI: 44.9 | D-AVI: 68.5
@@ -59,22 +59,22 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Malik Willis
-- Player name: Malik Willis
-- Player ID: 8161
+### PLAYER: Kyle McCord
+- Player name: Kyle McCord
+- Player ID: 12494
 - Current owner team: Southside Savages
 - Current owner roster ID: 13
 - Position: QB
 - Fantasy positions: ['QB']
 - NFL team: MIA
 - Active: True
-- Status: Inactive
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 27.1
-- Dynasty AVI (D-AVI, 0-100): 62.7
-- Projected PPR points: 270.1
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: NOT_IN_AVI_OUTPUT
 
 ### PLAYER: Josh Jacobs
 - Player name: Josh Jacobs
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 30.6
-- Dynasty AVI (D-AVI, 0-100): 78.5
+- Championship AVI (C-AVI, 0-100): 32.1
+- Dynasty AVI (D-AVI, 0-100): 78.8
 - Projected PPR points: 171.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

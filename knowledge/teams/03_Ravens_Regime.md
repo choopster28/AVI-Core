@@ -8,25 +8,25 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Mentomorii
 - Owner ID: 992908759074680832
 - Division: 3
-- Waiver position: 16
+- Waiver position: 10
 - Last updated from Sleeper exports: 2026-11-11
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
 - total_players: 22
-- offense: 18
+- offense: 17
 - kickers: 1
-- idp: 3
+- idp: 4
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 415.5
-- championship_lineup_c_avi_avg: 51.94
-- offensive_roster_c_avi_sum: 776.1
-- offensive_roster_c_avi_avg: 43.12
-- offensive_roster_d_avi_sum: 1328.5
-- offensive_roster_d_avi_avg: 73.81
+- championship_lineup_c_avi_sum: 449.9
+- championship_lineup_c_avi_avg: 56.24
+- offensive_roster_c_avi_sum: 752.6
+- offensive_roster_c_avi_avg: 44.27
+- offensive_roster_d_avi_sum: 1273.0
+- offensive_roster_d_avi_avg: 74.88
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Derrick Henry | C-AVI: 79.1 | D-AVI: 87.3
 - RB: Blake Corum | C-AVI: 56.2 | D-AVI: 79.4
 - WR: Zay Flowers | C-AVI: 77.2 | D-AVI: 93.1
-- WR: KC Concepcion Jr. | C-AVI: 54.5 | D-AVI: 83.7
+- WR: KC Concepcion Jr. | C-AVI: 56.0 | D-AVI: 84.0
 - TE: Mason Taylor | C-AVI: 35.6 | D-AVI: 66.3
-- FLEX: Jordyn Tyson | C-AVI: 31.3 | D-AVI: 79.4
-- FLEX: Ja'Kobi Lane | C-AVI: 29.4 | D-AVI: 69.4
+- FLEX: Carnell Tate | C-AVI: 55.2 | D-AVI: 87.1
+- FLEX: Deebo Samuel Sr. | C-AVI: 38.4 | D-AVI: 67.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -73,23 +73,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 50.0
 - Dynasty AVI (D-AVI, 0-100): 82.2
 - Projected PPR points: 326.0
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Jacoby Brissett
-- Player name: Jacoby Brissett
-- Player ID: 3257
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: QB
-- Fantasy positions: ['QB']
-- NFL team: BAL
-- Active: True
-- Status: Active
-- Age: 33.0
-- Championship AVI (C-AVI, 0-100): 29.5
-- Dynasty AVI (D-AVI, 0-100): 56.6
-- Projected PPR points: 160.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -172,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 24.0
-- Dynasty AVI (D-AVI, 0-100): 65.4
+- Championship AVI (C-AVI, 0-100): 25.5
+- Dynasty AVI (D-AVI, 0-100): 65.6
 - Projected PPR points: 114.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,9 +206,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 54.5
-- Dynasty AVI (D-AVI, 0-100): 83.7
+- Championship AVI (C-AVI, 0-100): 56.0
+- Dynasty AVI (D-AVI, 0-100): 84.0
 - Projected PPR points: 156.4
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Carnell Tate
+- Player name: Carnell Tate
+- Player ID: 13279
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 21.0
+- Championship AVI (C-AVI, 0-100): 55.2
+- Dynasty AVI (D-AVI, 0-100): 87.1
+- Projected PPR points: 177.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -246,23 +246,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Carnell Tate
-- Player name: Carnell Tate
-- Player ID: 13279
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: TEN
-- Active: True
-- Status: Active
-- Age: 21.0
-- Championship AVI (C-AVI, 0-100): 53.7
-- Dynasty AVI (D-AVI, 0-100): 86.8
-- Projected PPR points: 177.3
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Deebo Samuel Sr.
 - Player name: Deebo Samuel Sr.
 - Player ID: 5872
@@ -274,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 36.9
-- Dynasty AVI (D-AVI, 0-100): 67.6
+- Championship AVI (C-AVI, 0-100): 38.4
+- Dynasty AVI (D-AVI, 0-100): 67.9
 - Projected PPR points: 155.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -376,6 +359,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Quinnen Williams
+- Player name: Quinnen Williams
+- Player ID: 6118
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: DL
+- Fantasy positions: ['DL']
+- NFL team: DAL
+- Active: True
+- Status: Active
+- Age: 28.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

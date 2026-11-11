@@ -5385,7 +5385,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "NO",
+    "nfl_team": "MIA",
     "normalized_name": "jarquez hunter",
     "position": "RB",
     "source_ids": {
@@ -5582,8 +5582,8 @@
     "avi_id": "AVI-00012457",
     "canonical_name": "Jaydon Blue",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "nfl_team": "PHI",
     "normalized_name": "jaydon blue",
@@ -8865,7 +8865,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "MIN",
+    "nfl_team": "NYG",
     "normalized_name": "odell beckham",
     "position": "WR",
     "source_ids": {

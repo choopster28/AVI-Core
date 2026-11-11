@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 499.7
-- championship_lineup_c_avi_avg: 62.46
-- offensive_roster_c_avi_sum: 830.6
-- offensive_roster_c_avi_avg: 48.86
-- offensive_roster_d_avi_sum: 1221.3
-- offensive_roster_d_avi_avg: 71.84
+- championship_lineup_c_avi_sum: 535.7
+- championship_lineup_c_avi_avg: 66.96
+- offensive_roster_c_avi_sum: 865.7
+- offensive_roster_c_avi_avg: 50.92
+- offensive_roster_d_avi_sum: 1258.1
+- offensive_roster_d_avi_avg: 74.01
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Jahmyr Gibbs | C-AVI: 98.6 | D-AVI: 98.3
 - RB: Jonah Coleman | C-AVI: 55.4 | D-AVI: 80.4
 - WR: Drake London | C-AVI: 83.4 | D-AVI: 95.5
-- WR: Courtland Sutton | C-AVI: 41.5 | D-AVI: 73.5
+- WR: Garrett Wilson | C-AVI: 76.8 | D-AVI: 91.3
 - TE: Travis Kelce | C-AVI: 79.3 | D-AVI: 79.0
-- FLEX: Dalton Schultz | C-AVI: 51.5 | D-AVI: 71.6
-- FLEX: Marvin Harrison Jr. | C-AVI: 40.9 | D-AVI: 79.1
+- FLEX: Dalton Schultz | C-AVI: 51.6 | D-AVI: 71.6
+- FLEX: Courtland Sutton | C-AVI: 41.5 | D-AVI: 73.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -138,9 +138,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 37.9
-- Dynasty AVI (D-AVI, 0-100): 70.3
+- Championship AVI (C-AVI, 0-100): 37.8
+- Dynasty AVI (D-AVI, 0-100): 70.2
 - Projected PPR points: 160.2
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Justice Hill
+- Player name: Justice Hill
+- Player ID: 5995
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: BAL
+- Active: True
+- Status: Active
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): 33.5
+- Dynasty AVI (D-AVI, 0-100): 56.4
+- Projected PPR points: 67.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -172,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 75.3
-- Dynasty AVI (D-AVI, 0-100): 91.0
+- Championship AVI (C-AVI, 0-100): 76.8
+- Dynasty AVI (D-AVI, 0-100): 91.3
 - Projected PPR points: 224.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 40.9
+- Championship AVI (C-AVI, 0-100): 41.0
 - Dynasty AVI (D-AVI, 0-100): 79.1
 - Projected PPR points: 186.2
 - Category: offense
@@ -280,23 +297,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Elijah Moore
-- Player name: Elijah Moore
-- Player ID: 7596
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: PHI
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 19.8
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
 ### PLAYER: Travis Kelce
 - Player name: Travis Kelce
 - Player ID: 1466
@@ -325,23 +325,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 51.5
+- Championship AVI (C-AVI, 0-100): 51.6
 - Dynasty AVI (D-AVI, 0-100): 71.6
 - Projected PPR points: 150.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Wil Lutz
-- Player name: Wil Lutz
-- Player ID: 3678
+### PLAYER: Brandon McManus
+- Player name: Brandon McManus
+- Player ID: 1433
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
 - Position: K
 - Fantasy positions: ['K']
-- NFL team: DEN
+- NFL team: LAR
 - Active: True
 - Status: Active
-- Age: 32.0
+- Age: 35.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

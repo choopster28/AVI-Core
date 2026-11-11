@@ -8,13 +8,13 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: AlexPete6800
 - Owner ID: 308805697879937024
 - Division: 2
-- Waiver position: 14
+- Waiver position: 16
 - Last updated from Sleeper exports: 2026-11-11
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 21
-- offense: 16
+- total_players: 22
+- offense: 17
 - kickers: 2
 - idp: 3
 - other: 0
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 609.3
 - championship_lineup_c_avi_avg: 76.16
-- offensive_roster_c_avi_sum: 776.6
-- offensive_roster_c_avi_avg: 55.47
-- offensive_roster_d_avi_sum: 1071.6
-- offensive_roster_d_avi_avg: 76.54
+- offensive_roster_c_avi_sum: 789.4
+- offensive_roster_c_avi_avg: 52.63
+- offensive_roster_d_avi_sum: 1118.6
+- offensive_roster_d_avi_avg: 74.57
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -70,7 +70,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 27.9
+- Championship AVI (C-AVI, 0-100): 28.4
 - Dynasty AVI (D-AVI, 0-100): 64.4
 - Projected PPR points: 283.1
 - Category: offense
@@ -178,6 +178,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Kaleb Johnson
+- Player name: Kaleb Johnson
+- Player ID: 12504
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: GB
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 23.5
+- Dynasty AVI (D-AVI, 0-100): 61.5
+- Projected PPR points: 32.0
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: CeeDee Lamb
 - Player name: CeeDee Lamb
 - Player ID: 6786
@@ -229,20 +246,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Cooper Kupp
-- Player name: Cooper Kupp
-- Player ID: 4039
+### PLAYER: Tutu Atwell
+- Player name: Tutu Atwell
+- Player ID: 7562
 - Current owner team: SmokyValleyWheatWarriors
 - Current owner roster ID: 10
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: SEA
+- NFL team: LAR
 - Active: True
 - Status: Active
-- Age: 33.0
-- Championship AVI (C-AVI, 0-100): 29.6
-- Dynasty AVI (D-AVI, 0-100): 57.6
-- Projected PPR points: 86.4
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 18.4
+- Dynasty AVI (D-AVI, 0-100): 43.1
+- Projected PPR points: 10.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -348,17 +365,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Jaishawn Barham
-- Player name: Jaishawn Barham
-- Player ID: 13381
+### PLAYER: George Karlaftis
+- Player name: George Karlaftis
+- Player ID: 8385
 - Current owner team: SmokyValleyWheatWarriors
 - Current owner roster ID: 10
-- Position: LB
-- Fantasy positions: ['DL', 'LB']
-- NFL team: DAL
+- Position: DL
+- Fantasy positions: ['DL']
+- NFL team: KC
 - Active: True
 - Status: Active
-- Age: 22.0
+- Age: 25.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

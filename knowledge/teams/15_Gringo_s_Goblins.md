@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Burnfaze
 - Owner ID: 990097041671892992
 - Division: 4
-- Waiver position: 7
+- Waiver position: 6
 - Last updated from Sleeper exports: 2026-11-11
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 507.7
-- championship_lineup_c_avi_avg: 63.46
-- offensive_roster_c_avi_sum: 785.8
-- offensive_roster_c_avi_avg: 49.11
-- offensive_roster_d_avi_sum: 1175.9
+- championship_lineup_c_avi_sum: 507.6
+- championship_lineup_c_avi_avg: 63.45
+- offensive_roster_c_avi_sum: 785.5
+- offensive_roster_c_avi_avg: 49.09
+- offensive_roster_d_avi_sum: 1175.8
 - offensive_roster_d_avi_avg: 73.49
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Bo Nix | C-AVI: 46.2 | D-AVI: 73.6
 - RB: Kyren Williams | C-AVI: 83.7 | D-AVI: 91.5
-- RB: Braelon Allen | C-AVI: 54.2 | D-AVI: 76.7
+- RB: Braelon Allen | C-AVI: 54.1 | D-AVI: 76.7
 - WR: Christian Watson | C-AVI: 85.9 | D-AVI: 91.6
 - WR: Jameson Williams | C-AVI: 76.3 | D-AVI: 88.6
 - TE: Juwan Johnson | C-AVI: 47.3 | D-AVI: 73.8
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 54.2
+- Championship AVI (C-AVI, 0-100): 54.1
 - Dynasty AVI (D-AVI, 0-100): 76.7
 - Projected PPR points: 52.2
 - Category: offense
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 47.0
+- Championship AVI (C-AVI, 0-100): 46.9
 - Dynasty AVI (D-AVI, 0-100): 67.1
 - Projected PPR points: 63.0
 - Category: offense
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 46.8
-- Dynasty AVI (D-AVI, 0-100): 70.0
+- Championship AVI (C-AVI, 0-100): 46.7
+- Dynasty AVI (D-AVI, 0-100): 69.9
 - Projected PPR points: 137.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -365,23 +365,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: idp
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Payton Wilson
-- Player name: Payton Wilson
-- Player ID: 11727
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Position: LB
-- Fantasy positions: ['LB']
-- NFL team: PIT
-- Active: True
-- Status: Active
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
 ### PLAYER: Sonny Styles
 - Player name: Sonny Styles
 - Player ID: 13375
@@ -393,6 +376,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Amani Hooker
+- Player name: Amani Hooker
+- Player ID: 5908
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: BUF
+- Active: True
+- Status: Active
+- Age: 28.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

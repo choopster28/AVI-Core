@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: TacticsNoob
 - Owner ID: 1129546394534158336
 - Division: 4
-- Waiver position: 11
+- Waiver position: 12
 - Last updated from Sleeper exports: 2026-11-11
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 300.4
-- championship_lineup_c_avi_avg: 37.55
-- offensive_roster_c_avi_sum: 432.7
-- offensive_roster_c_avi_avg: 30.91
-- offensive_roster_d_avi_sum: 905.6
-- offensive_roster_d_avi_avg: 64.69
+- championship_lineup_c_avi_sum: 304.8
+- championship_lineup_c_avi_avg: 38.10
+- offensive_roster_c_avi_sum: 451.6
+- offensive_roster_c_avi_avg: 32.26
+- offensive_roster_d_avi_sum: 926.3
+- offensive_roster_d_avi_avg: 66.16
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Baker Mayfield | C-AVI: 28.6 | D-AVI: 65.8
-- RB: Rachaad White | C-AVI: 42.7 | D-AVI: 72.1
+- RB: Rachaad White | C-AVI: 42.6 | D-AVI: 72.1
 - RB: Keaton Mitchell | C-AVI: 30.0 | D-AVI: 65.6
 - WR: Jalen Coker | C-AVI: 60.0 | D-AVI: 82.4
 - WR: Antonio Williams | C-AVI: 31.5 | D-AVI: 74.5
 - TE: Brenton Strange | C-AVI: 46.4 | D-AVI: 78.0
-- FLEX: Chig Okonkwo | C-AVI: 33.5 | D-AVI: 72.1
+- FLEX: Chig Okonkwo | C-AVI: 38.0 | D-AVI: 72.9
 - FLEX: Isaac TeSlaa | C-AVI: 27.7 | D-AVI: 63.3
 
 ## Current Roster — All Player Cards
@@ -76,20 +76,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Gardner Minshew II
-- Player name: Gardner Minshew II
-- Player ID: 6011
+### PLAYER: Shedeur Sanders
+- Player name: Shedeur Sanders
+- Player ID: 12524
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
 - Position: QB
 - Fantasy positions: ['QB']
-- NFL team: ARI
+- NFL team: CLE
 - Active: True
-- Status: Inactive
-- Age: 30.0
-- Championship AVI (C-AVI, 0-100): 9.9
-- Dynasty AVI (D-AVI, 0-100): 36.4
-- Projected PPR points: 28.0
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 23.0
+- Dynasty AVI (D-AVI, 0-100): 56.1
+- Projected PPR points: 97.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 42.7
+- Championship AVI (C-AVI, 0-100): 42.6
 - Dynasty AVI (D-AVI, 0-100): 72.1
 - Projected PPR points: 128.1
 - Category: offense
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 29.1
+- Championship AVI (C-AVI, 0-100): 29.0
 - Dynasty AVI (D-AVI, 0-100): 70.9
 - Projected PPR points: 127.9
 - Category: offense
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 23.4
-- Dynasty AVI (D-AVI, 0-100): 59.2
+- Championship AVI (C-AVI, 0-100): 24.9
+- Dynasty AVI (D-AVI, 0-100): 59.4
 - Projected PPR points: 105.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 33.5
-- Dynasty AVI (D-AVI, 0-100): 72.1
+- Championship AVI (C-AVI, 0-100): 38.0
+- Dynasty AVI (D-AVI, 0-100): 72.9
 - Projected PPR points: 144.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

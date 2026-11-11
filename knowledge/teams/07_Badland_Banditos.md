@@ -8,25 +8,25 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: IcebergSlim69
 - Owner ID: 737531831641128960
 - Division: 3
-- Waiver position: 12
+- Waiver position: 14
 - Last updated from Sleeper exports: 2026-11-11
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
 - total_players: 22
 - offense: 17
-- kickers: 1
-- idp: 4
+- kickers: 2
+- idp: 3
 - other: 0
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 624.6
-- championship_lineup_c_avi_avg: 78.08
-- offensive_roster_c_avi_sum: 892.4
-- offensive_roster_c_avi_avg: 55.77
-- offensive_roster_d_avi_sum: 1185.5
-- offensive_roster_d_avi_avg: 74.09
+- championship_lineup_c_avi_sum: 650.4
+- championship_lineup_c_avi_avg: 81.30
+- offensive_roster_c_avi_sum: 893.9
+- offensive_roster_c_avi_avg: 55.87
+- offensive_roster_d_avi_sum: 1185.8
+- offensive_roster_d_avi_avg: 74.11
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Kenneth Walker III | C-AVI: 92.8 | D-AVI: 96.3
 - RB: Bucky Irving | C-AVI: 82.9 | D-AVI: 91.5
 - WR: Ja'Marr Chase | C-AVI: 96.1 | D-AVI: 99.1
-- WR: Stefon Diggs | C-AVI: 61.8 | D-AVI: 73.7
+- WR: Mike Evans | C-AVI: 74.7 | D-AVI: 84.0
 - TE: Brock Bowers | C-AVI: 95.0 | D-AVI: 93.5
-- FLEX: Tre Tucker | C-AVI: 56.3 | D-AVI: 72.1
-- FLEX: Caleb Douglas | C-AVI: 49.0 | D-AVI: 71.8
+- FLEX: Stefon Diggs | C-AVI: 61.8 | D-AVI: 73.7
+- FLEX: Tre Tucker | C-AVI: 56.4 | D-AVI: 72.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 34.5
+- Championship AVI (C-AVI, 0-100): 34.4
 - Dynasty AVI (D-AVI, 0-100): 52.4
 - Projected PPR points: 22.6
 - Category: offense
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 73.2
-- Dynasty AVI (D-AVI, 0-100): 83.7
+- Championship AVI (C-AVI, 0-100): 74.7
+- Dynasty AVI (D-AVI, 0-100): 84.0
 - Projected PPR points: 222.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 56.3
+- Championship AVI (C-AVI, 0-100): 56.4
 - Dynasty AVI (D-AVI, 0-100): 72.1
 - Projected PPR points: 125.9
 - Category: offense
@@ -348,34 +348,34 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: DeForest Buckner
-- Player name: DeForest Buckner
-- Player ID: 3172
+### PLAYER: Dominic Zvada
+- Player name: Dominic Zvada
+- Player ID: 13833
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: K
+- Fantasy positions: ['K']
+- NFL team: NYG
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: kicker
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Chase Young
+- Player name: Chase Young
+- Player ID: 6782
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Position: DL
 - Fantasy positions: ['DL']
-- NFL team: SF
+- NFL team: NO
 - Active: True
 - Status: Active
-- Age: 32.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Devin Lloyd
-- Player name: Devin Lloyd
-- Player ID: 8329
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: LB
-- Fantasy positions: ['LB']
-- NFL team: CAR
-- Active: True
-- Status: Active
-- Age: 28.0
+- Age: 27.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

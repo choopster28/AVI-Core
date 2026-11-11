@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Hofer51
 - Owner ID: 736994691492519936
 - Division: 4
-- Waiver position: 15
+- Waiver position: 9
 - Last updated from Sleeper exports: 2026-11-11
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 613.6
 - championship_lineup_c_avi_avg: 76.70
-- offensive_roster_c_avi_sum: 773.6
-- offensive_roster_c_avi_avg: 55.26
-- offensive_roster_d_avi_sum: 1033.9
-- offensive_roster_d_avi_avg: 73.85
+- offensive_roster_c_avi_sum: 795.7
+- offensive_roster_c_avi_avg: 56.84
+- offensive_roster_d_avi_sum: 1057.7
+- offensive_roster_d_avi_avg: 75.55
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -59,22 +59,22 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Carson Wentz
-- Player name: Carson Wentz
-- Player ID: 3161
+### PLAYER: Carson Beck
+- Player name: Carson Beck
+- Player ID: 13272
 - Current owner team: All Hail King Jesus
 - Current owner roster ID: 8
 - Position: QB
 - Fantasy positions: ['QB']
-- NFL team: MIN
+- NFL team: ARI
 - Active: True
 - Status: Active
-- Age: 33.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 27.9
-- Projected PPR points: None
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 22.1
+- Dynasty AVI (D-AVI, 0-100): 51.7
+- Projected PPR points: 54.9
 - Category: offense
-- Valuation status: INACTIVE_UNRANKED
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: D'Andre Swift
 - Player name: D'Andre Swift

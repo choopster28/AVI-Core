@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: Thecan
 - Owner ID: 736993578450030592
 - Division: 1
-- Waiver position: 9
+- Waiver position: 11
 - Last updated from Sleeper exports: 2026-11-11
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,20 +21,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 623.7
-- championship_lineup_c_avi_avg: 77.96
-- offensive_roster_c_avi_sum: 944.0
-- offensive_roster_c_avi_avg: 55.53
-- offensive_roster_d_avi_sum: 1344.0
-- offensive_roster_d_avi_avg: 79.06
+- championship_lineup_c_avi_sum: 656.4
+- championship_lineup_c_avi_avg: 82.05
+- offensive_roster_c_avi_sum: 942.0
+- offensive_roster_c_avi_avg: 55.41
+- offensive_roster_d_avi_sum: 1333.4
+- offensive_roster_d_avi_avg: 78.44
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Josh Allen | C-AVI: 92.4 | D-AVI: 92.1
 - RB: Bijan Robinson | C-AVI: 90.4 | D-AVI: 96.6
 - RB: Jonathan Taylor | C-AVI: 84.6 | D-AVI: 93.8
+- WR: George Pickens | C-AVI: 81.6 | D-AVI: 93.5
 - WR: Matthew Golden | C-AVI: 80.3 | D-AVI: 90.5
-- WR: Devaughn Vele | C-AVI: 48.9 | D-AVI: 67.5
 - TE: Isaiah Likely | C-AVI: 81.8 | D-AVI: 86.4
 - FLEX: Harold Fannin Jr. | C-AVI: 77.3 | D-AVI: 87.4
 - FLEX: Breece Hall | C-AVI: 68.0 | D-AVI: 89.6
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 27.9
+- Championship AVI (C-AVI, 0-100): 28.0
 - Dynasty AVI (D-AVI, 0-100): 67.0
 - Projected PPR points: 72.7
 - Category: offense
@@ -189,9 +189,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 95.0
-- Dynasty AVI (D-AVI, 0-100): 98.6
+- Championship AVI (C-AVI, 0-100): 90.6
+- Dynasty AVI (D-AVI, 0-100): 97.9
 - Projected PPR points: 312.5
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: George Pickens
+- Player name: George Pickens
+- Player ID: 8137
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: DAL
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 81.6
+- Dynasty AVI (D-AVI, 0-100): 93.5
+- Projected PPR points: 245.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -209,23 +226,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 80.3
 - Dynasty AVI (D-AVI, 0-100): 90.5
 - Projected PPR points: 170.0
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: George Pickens
-- Player name: George Pickens
-- Player ID: 8137
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: DAL
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 80.1
-- Dynasty AVI (D-AVI, 0-100): 93.3
-- Projected PPR points: 245.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -257,26 +257,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 27.4
+- Championship AVI (C-AVI, 0-100): 27.3
 - Dynasty AVI (D-AVI, 0-100): 61.1
 - Projected PPR points: 94.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Kyle Williams
-- Player name: Kyle Williams
-- Player ID: 12547
+### PLAYER: Konata Mumpfield
+- Player name: Konata Mumpfield
+- Player ID: 12718
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: NE
+- NFL team: LAR
 - Active: True
 - Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 22.9
-- Dynasty AVI (D-AVI, 0-100): 60.8
-- Projected PPR points: 31.2
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 23.8
+- Dynasty AVI (D-AVI, 0-100): 50.7
+- Projected PPR points: 41.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
