@@ -51,6 +51,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00004039",
+      "c_avi": 29.6,
+      "d_avi": 57.6,
+      "nfl_team": "SEA",
+      "player_name": "Cooper Kupp",
+      "position": "WR",
+      "sleeper_id": "4039",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00012540",
       "c_avi": 27.7,
       "d_avi": 60.8,
@@ -83,6 +95,18 @@
       "position": "WR",
       "sleeper_id": "4981",
       "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00008161",
+      "c_avi": 27.1,
+      "d_avi": 62.7,
+      "nfl_team": "MIA",
+      "player_name": "Malik Willis",
+      "position": "QB",
+      "sleeper_id": "8161",
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -315,18 +339,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00012718",
-      "c_avi": 23.9,
-      "d_avi": 50.7,
-      "nfl_team": "LAR",
-      "player_name": "Konata Mumpfield",
-      "position": "WR",
-      "sleeper_id": "12718",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00013278",
       "c_avi": 23.7,
       "d_avi": 65.0,
@@ -334,18 +346,6 @@
       "player_name": "Max Klare",
       "position": "TE",
       "sleeper_id": "13278",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00012504",
-      "c_avi": 23.6,
-      "d_avi": 61.5,
-      "nfl_team": "GB",
-      "player_name": "Kaleb Johnson",
-      "position": "RB",
-      "sleeper_id": "12504",
       "status": "Active"
     },
     {
@@ -375,13 +375,13 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00012524",
-      "c_avi": 23.0,
-      "d_avi": 56.1,
-      "nfl_team": "CLE",
-      "player_name": "Shedeur Sanders",
-      "position": "QB",
-      "sleeper_id": "12524",
+      "avi_id": "AVI-00012547",
+      "c_avi": 22.9,
+      "d_avi": 60.8,
+      "nfl_team": "NE",
+      "player_name": "Kyle Williams",
+      "position": "WR",
+      "sleeper_id": "12547",
       "status": "Active"
     },
     {
@@ -970,18 +970,6 @@
       "player_name": "Marlin Klein",
       "position": "TE",
       "sleeper_id": "13307",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00007562",
-      "c_avi": 18.4,
-      "d_avi": 43.1,
-      "nfl_team": "LAR",
-      "player_name": "Tutu Atwell",
-      "position": "WR",
-      "sleeper_id": "7562",
       "status": "Active"
     },
     {
@@ -1851,6 +1839,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00006011",
+      "c_avi": 9.9,
+      "d_avi": 36.4,
+      "nfl_team": "ARI",
+      "player_name": "Gardner Minshew II",
+      "position": "QB",
+      "sleeper_id": "6011",
+      "status": "Inactive"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00012472",
       "c_avi": 9.6,
       "d_avi": 45.8,
@@ -2163,6 +2163,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00008129",
+      "c_avi": 0.0,
+      "d_avi": 29.7,
+      "nfl_team": "PHI",
+      "player_name": "Dameon Pierce",
+      "position": "RB",
+      "sleeper_id": "8129",
+      "status": "Inactive"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00012462",
       "c_avi": 0.0,
       "d_avi": 20.1,
@@ -2386,18 +2398,6 @@
       "player_name": "Joe Mixon",
       "position": "RB",
       "sleeper_id": "4018",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00012634",
-      "c_avi": 0.0,
-      "d_avi": 28.2,
-      "nfl_team": "SF",
-      "player_name": "Jordan Watkins",
-      "position": "WR",
-      "sleeper_id": "12634",
       "status": "Active"
     },
     {
@@ -3517,22 +3517,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00004039",
-      "c_avi": 29.6,
-      "d_avi": 57.6,
-      "nfl_team": "SEA",
-      "owner_id": "308805697879937024",
-      "player_name": "Cooper Kupp",
-      "position": "WR",
-      "roster_id": 10,
-      "sleeper_id": "4039",
-      "status": "Active",
-      "team_file": "10_SmokyValleyWheatWarriors.md",
-      "team_name": "SmokyValleyWheatWarriors"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00012491",
       "c_avi": 18.3,
       "d_avi": 45.4,
@@ -3689,22 +3673,6 @@
       "status": "Active",
       "team_file": "04_Mile_High_Royal_Lions.md",
       "team_name": "Mile High Royal Lions"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00008129",
-      "c_avi": 0.0,
-      "d_avi": 29.7,
-      "nfl_team": "PHI",
-      "owner_id": "872509429436829696",
-      "player_name": "Dameon Pierce",
-      "position": "RB",
-      "roster_id": 6,
-      "sleeper_id": "8129",
-      "status": "Inactive",
-      "team_file": "06_Lightskin_Legends.md",
-      "team_name": "Lightskin Legends ✊🏽"
     },
     {
       "active": true,
@@ -4185,22 +4153,6 @@
       "status": "Active",
       "team_file": "14_Phalhala_or_Bust.md",
       "team_name": "Phalhala or Bust"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00006011",
-      "c_avi": 9.9,
-      "d_avi": 36.4,
-      "nfl_team": "ARI",
-      "owner_id": "1129546394534158336",
-      "player_name": "Gardner Minshew II",
-      "position": "QB",
-      "roster_id": 12,
-      "sleeper_id": "6011",
-      "status": "Inactive",
-      "team_file": "12_DMV_Fantasy.md",
-      "team_name": "DMV Fantasy"
     },
     {
       "active": true,
@@ -4989,6 +4941,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00012634",
+      "c_avi": 0.0,
+      "d_avi": 28.2,
+      "nfl_team": "SF",
+      "owner_id": "872509429436829696",
+      "player_name": "Jordan Watkins",
+      "position": "WR",
+      "roster_id": 6,
+      "sleeper_id": "12634",
+      "status": "Active",
+      "team_file": "06_Lightskin_Legends.md",
+      "team_name": "Lightskin Legends ✊🏽"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00013281",
       "c_avi": 31.3,
       "d_avi": 79.4,
@@ -5145,6 +5113,22 @@
       "status": "Active",
       "team_file": "01_Conquistadors.md",
       "team_name": "Conquistadors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00012504",
+      "c_avi": 23.6,
+      "d_avi": 61.5,
+      "nfl_team": "GB",
+      "owner_id": "308805697879937024",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "roster_id": 10,
+      "sleeper_id": "12504",
+      "status": "Active",
+      "team_file": "10_SmokyValleyWheatWarriors.md",
+      "team_name": "SmokyValleyWheatWarriors"
     },
     {
       "active": true,
@@ -5325,6 +5309,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00012718",
+      "c_avi": 23.9,
+      "d_avi": 50.7,
+      "nfl_team": "LAR",
+      "owner_id": "736993578450030592",
+      "player_name": "Konata Mumpfield",
+      "position": "WR",
+      "roster_id": 1,
+      "sleeper_id": "12718",
+      "status": "Active",
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00012534",
       "c_avi": 49.5,
       "d_avi": 78.9,
@@ -5353,22 +5353,6 @@
       "status": "Active",
       "team_file": "06_Lightskin_Legends.md",
       "team_name": "Lightskin Legends ✊🏽"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00012547",
-      "c_avi": 22.9,
-      "d_avi": 60.8,
-      "nfl_team": "NE",
-      "owner_id": "736993578450030592",
-      "player_name": "Kyle Williams",
-      "position": "WR",
-      "roster_id": 1,
-      "sleeper_id": "12547",
-      "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
     },
     {
       "active": true,
@@ -5513,22 +5497,6 @@
       "status": "Active",
       "team_file": "05_Northside_Kings.md",
       "team_name": "Northside Kings "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00008161",
-      "c_avi": 27.1,
-      "d_avi": 62.7,
-      "nfl_team": "MIA",
-      "owner_id": "998253660243054592",
-      "player_name": "Malik Willis",
-      "position": "QB",
-      "roster_id": 13,
-      "sleeper_id": "8161",
-      "status": "Inactive",
-      "team_file": "13_Southside_Savages.md",
-      "team_name": "Southside Savages"
     },
     {
       "active": true,
@@ -6189,6 +6157,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00012524",
+      "c_avi": 23.0,
+      "d_avi": 56.1,
+      "nfl_team": "CLE",
+      "owner_id": "1129546394534158336",
+      "player_name": "Shedeur Sanders",
+      "position": "QB",
+      "roster_id": 12,
+      "sleeper_id": "12524",
+      "status": "Active",
+      "team_file": "12_DMV_Fantasy.md",
+      "team_name": "DMV Fantasy"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00011729",
       "c_avi": 16.0,
       "d_avi": 42.9,
@@ -6505,6 +6489,22 @@
       "status": "Active",
       "team_file": "08_All_Hail_King_Jesus.md",
       "team_name": "All Hail King Jesus"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00007562",
+      "c_avi": 18.4,
+      "d_avi": 43.1,
+      "nfl_team": "LAR",
+      "owner_id": "308805697879937024",
+      "player_name": "Tutu Atwell",
+      "position": "WR",
+      "roster_id": 10,
+      "sleeper_id": "7562",
+      "status": "Active",
+      "team_file": "10_SmokyValleyWheatWarriors.md",
+      "team_name": "SmokyValleyWheatWarriors"
     },
     {
       "active": true,
