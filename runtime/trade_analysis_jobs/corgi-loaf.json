@@ -1,5 +1,32 @@
 [
   {
+    "id": "mwcn7ea6-bf580dfa",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "neutral",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "Rhamondre Stevenson",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1794433215246,
+    "updatedAt": 1794433215246,
+    "expiresAt": 1794865215246,
+    "status": "queued"
+  },
+  {
     "id": "mwcn4lt9-f5563d46",
     "phase": "initial",
     "mode": "shop_assets",
