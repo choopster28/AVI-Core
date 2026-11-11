@@ -1,5 +1,53 @@
 [
   {
+    "id": "mwci5wq8-1725447f",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "personalContext": "Trying not to give up starters, willing to consolidate for stronger asset",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Rhamondre Stevenson",
+          "assetType": "player"
+        },
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "Cam Skattebo",
+          "assetType": "player"
+        },
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        },
+        {
+          "name": "Mike Washington Jr.",
+          "assetType": "player"
+        },
+        {
+          "name": "Malachi Fields",
+          "assetType": "player"
+        },
+        {
+          "name": "2029 3rd · Corgi Loaf · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1794424747760,
+    "updatedAt": 1794424747760,
+    "expiresAt": 1794856747760,
+    "status": "queued"
+  },
+  {
     "id": "mwchzr43-6a576460",
     "phase": "final",
     "mode": "analyze_trade",
