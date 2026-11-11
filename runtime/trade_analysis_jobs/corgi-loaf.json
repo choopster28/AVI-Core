@@ -1,5 +1,39 @@
 [
   {
+    "id": "mwchxcz6-ebbd03c3",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "personalContext": "Jonathan might be bad rest of season with no offense around him, worried saquon gets shut down as the season ends",
+      "goal": "Win Championship",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jonathan Taylor",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794424348914,
+    "updatedAt": 1794424348914,
+    "expiresAt": 1794856348914,
+    "status": "queued"
+  },
+  {
     "id": "mwch0ali-f4b03af7",
     "phase": "final",
     "mode": "propose_trade",
