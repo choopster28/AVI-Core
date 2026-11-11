@@ -32,9 +32,335 @@
       "alternateAssets": []
     },
     "createdAt": 1794430209749,
-    "updatedAt": 1794430211922,
+    "updatedAt": 1794430264463,
     "expiresAt": 1794862209749,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "From a neutral third-party perspective, the submitted trade between Big Balder Brand and Mile High Royal Lions is severely imbalanced. Big Balder Brand surrenders proven wide receiver A.J. Brown (D-AVI 78.7, C-AVI 31.1) for a 2027 3rd-round pick (D-AVI 16.5) and a 2027 5th-round pick (D-AVI 0.0). While Big Balder Brand is oriented toward a rebuild, accepting late-round draft picks for a high-ceiling asset represents a major loss of dynasty equity. Conversely, Mile High Royal Lions would acquire a high-upside receiver for negligible cost to support their playoff push. A major revision requiring a 2028 1st-round pick is necessary to make this transaction fair and strategically sound for both organizations.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "A.J. Brown",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 29,
+              "cavi": 31.1,
+              "davi": 78.7,
+              "publicMarket": 68,
+              "leagueMarket": 72
+            }
+          ],
+          "sideB": [
+            {
+              "name": "2027 3rd · Mile High · Projected Mid · original owner Mile High Royal Lions",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 16.5,
+              "publicMarket": 15,
+              "leagueMarket": 16.5
+            },
+            {
+              "name": "2027 5th · Mile High · Projected Mid · original owner Mile High Royal Lions",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 2,
+              "leagueMarket": 0
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "F",
+            "otherGrade": "A+",
+            "userShare": 17,
+            "otherShare": 83,
+            "advantageFranchise": "Mile High Royal Lions",
+            "summary": "Big Balder Brand surrenders 78.7 D-AVI in A.J. Brown while receiving only 16.5 total D-AVI in 3rd and 5th round picks. This represents an 83/17 value imbalance heavily favoring Mile High Royal Lions."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Even",
+            "summary": "Revising the offer to send A.J. Brown for Mile High Royal Lions' 2028 1st-round pick creates a balanced 50/50 transaction. Big Balder Brand secures a core rebuild asset (79.3 D-AVI), while Mile High Royal Lions gains an elite WR target for their playoff push."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -25,
+              "summary": "Removes receiver upside once A.J. Brown returns to full health."
+            },
+            "dynastyOutlook": {
+              "score": -70,
+              "summary": " forfeits 78.7 D-AVI for minor late-round draft capital."
+            },
+            "lineupQuality": {
+              "score": -30,
+              "summary": "Depletes wide receiver starting depth."
+            },
+            "depthResilience": {
+              "score": -35,
+              "summary": "Weakens bench insurance behind Nico Collins and DeVonta Smith."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Gains two future draft picks, but with minimal trade liquidity."
+            },
+            "overall": {
+              "score": -66,
+              "summary": "Big Balder Brand surrenders 78.7 D-AVI in A.J. Brown while receiving only 16.5 total D-AVI in 3rd and 5th round picks. This represents an 83/17 value imbalance heavily favoring Mile High Royal Lions."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 25,
+              "summary": "Adds WR1 ceiling for the upcoming playoff push."
+            },
+            "dynastyOutlook": {
+              "score": 70,
+              "summary": "Net gain of +62.2 D-AVI points."
+            },
+            "lineupQuality": {
+              "score": 30,
+              "summary": "Provides high-upside option alongside Drake London and Garrett Wilson."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Significantly upgrades receiver rotation."
+            },
+            "flexibilityLiquidity": {
+              "score": -10,
+              "summary": "Parts with minor day-three picks."
+            },
+            "overall": {
+              "score": 66,
+              "summary": "Big Balder Brand surrenders 78.7 D-AVI in A.J. Brown while receiving only 16.5 total D-AVI in 3rd and 5th round picks. This represents an 83/17 value imbalance heavily favoring Mile High Royal Lions."
+            }
+          },
+          "explanation": "Big Balder Brand suffers severe long-term dynasty harm by liquidating a star receiver for negligible pick capital. Mile High Royal Lions gains massive dynasty and lineup value at virtually zero cost."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Loss of A.J. Brown lowers receiver ceiling upon return without adding any immediate scoring output.",
+          "sideADynastyImpact": "Net loss of 62.2 D-AVI points, trading a 78.7 D-AVI receiver for 16.5 D-AVI in late picks.",
+          "sideARosterImpact": "Reduces wide receiver depth and eliminates high-ceiling offensive talent.",
+          "sideBChampionshipImpact": "Adds A.J. Brown's WR1 potential for the stretch run, bolstering playoff qualification odds.",
+          "sideBDynastyImpact": "Gains 78.7 D-AVI while relinquishing minimal draft capital (16.5 D-AVI).",
+          "sideBRosterImpact": "Upgrades receiver core substantially without sacrificing any active roster starters.",
+          "valueAssessment": "Severe market imbalance. A.J. Brown's D-AVI (78.7) dwarfs the combined value of a 3rd and 5th round pick (16.5 D-AVI)."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus values A.J. Brown as a potent receiver whose current market value is slightly depressed by 2026 health issues, but still commands at least a future 1st-round pick or young starter.",
+          "aviVsMarket": "AVI rates Brown at 78.7 D-AVI, matching public sentiment. The submitted offer of a 3rd and 5th round pick is far below any public dynasty market benchmark.",
+          "relevantContext": [
+            "A.J. Brown is 29 years old and under contract with New England as a lead target.",
+            "His 2026 campaign has been limited by knee/ankle injuries, but his talent profile remains elite.",
+            "Dynasty market consensus mandates a 1st-round pick minimum for receivers of Brown's caliber."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions would readily accept this offer as it delivers a proven receiver for minimal capital.",
+          "packageFit": "Fails package match for Big Balder Brand due to extreme value deficit; fits Mile High Royal Lions perfectly.",
+          "lineupReplacement": "Big Balder Brand retains Nico Collins and DeVonta Smith, but loses key receiver depth without getting a replacement starter.",
+          "competitiveWindowFit": "Fits Mile High Royal Lions' goal to Increase Playoff Odds, but fails Big Balder Brand's rebuild goal by netting insufficient future capital.",
+          "positionalScarcity": "Wide receiver starters with WR1 spike-week ceiling are scarce in 16-team formats."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 25,
+            "packageMatch": 2,
+            "lineupReplacement": 10,
+            "competitiveWindow": 8
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 65,
+          "classification": "Stretch",
+          "explanation": "While Mile High Royal Lions would accept, the submitted package fails package match due to severe imbalanced valuation. Big Balder Brand would not execute this offer in a rational front-office scenario."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "The submitted deal severely underpays for A.J. Brown. Big Balder Brand should revise the request to target Mile High Royal Lions' 2028 1st-round pick (D-AVI 79.3) to secure legitimate rebuilding value.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "A.J. Brown",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 29,
+              "cavi": 31.1,
+              "davi": 78.7,
+              "publicMarket": 68,
+              "leagueMarket": 72
+            }
+          ],
+          "receive": [
+            {
+              "name": "2028 1st · Mile High · Projected Mid · original owner Mile High Royal Lions",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 75,
+              "leagueMarket": 79.3
+            }
+          ],
+          "whyUserShouldDoIt": "Big Balder Brand receives a premium 2028 1st-round pick (79.3 D-AVI), aligning with a rebuild strategy by securing a high-value future asset for a 29-year-old WR.",
+          "whyOpponentMightAccept": "Mile High Royal Lions acquires an elite WR target (78.7 D-AVI) to boost their playoff qualification odds without sacrificing any current starters."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "A.J. Brown",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 29,
+              "cavi": 31.1,
+              "davi": 78.7,
+              "publicMarket": 68,
+              "leagueMarket": 72
+            }
+          ],
+          "receive": [
+            {
+              "name": "2027 2nd · All Hail King Jesus · Projected Mid · original owner All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2028 2nd · Mile High · Projected Mid · original owner Mile High Royal Lions",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 45,
+              "leagueMarket": 48.5
+            }
+          ],
+          "rationale": "If Mile High Royal Lions refuses to part with a 1st-round pick, a package of two 2nd-round picks (total D-AVI 97.0) provides solid draft capital for Big Balder Brand's rebuild."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "AJ Brown injury update fantasy 2026",
+          "AJ Brown news 2026 NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3YPN0fNx_gLdOOaLQgG4wBin5g5WqG-28qnKlNgI88dhrsosCvs5CWnZwezzuz6MgX91CTGz_GuE6p77gwJ6eDD0J3v3sfGFkdgilSeeUVnDLns_Q7BNK0ERN4EW2d3kWlmQSF6IS3XSe_G2_od6f2Y9b6B4kSarLDr0OhaoULbVb62IbH7kOqp1wI-hzXVMk0kq3SJkgLoPiY7YGfM0Jj-QdWIhP-KM=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhJLqZ3PTJBYbVa0Udxnjede_cBTXreoptE-Oxeg33vM3rMMpcEwpc9pyEaZHFjjbsDOk8wDWRanS_C4eDV1vTljfiCAumjfn7l-mIS8kId5p7vVdcc6KKR9nPOnX_aBSxnHGgeGUslV80gFOzxEr9d6g7LWoKL9KUaOgDajF9plebjcxRm5rt0UiUfwe8fpGVlbLWCS9U2oY=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtdmYQFVXO0UX6BYGOyVYZggV_sAFR3DuTIgAyNk_DCBU_cJMHW5e4R7v_-U-CgL5psZFuw8-beo57bCi9aRudvccKZVBsWiSo8sWx11M25ZsbAfTiTcUFIUg-o0debwU3TPyQUDEGZ4zzOw1s860lB4ef7zKf1iRYIMX2-nhzxinw7ruW1sUgrBP75MjykgRUeuu1ZT0uukRn0EGwkvKlfrOIytt2zdHS",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBwW5xjLhrGtw8oIJ9nj4GtvV_LvvLTCr-ipzZkeH48WmH6pxJY1WgJRjpFRoIzBDD4lKw15oN5PXNeNmbc6oBBo5Fxxf2WDeMxPujlGoccdAbUsh8-ToykwGFfUyC44kE7ROf9OXW4SxOd8ByskE51hZvduHVGMbFMBCnPRb2FUkS1sr0XPgubg==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjV3q0a8YdKUJjGRrMGJz-mYKIdoO-Gi0jN8MPJAAnSz7_E_8j37n2Gb_pNnQ8J5BADz-cgG40sCN3Qs58mxm2fNX2i4Ulxgv-bcmq4R-ZN6AUfda787tcEFsEjX6Iv4GTzmb_C-ehl4auTyUdp5UTzLha_qZPcgxgX7fPc6M8C_yVvhwmeKKFeZjB0W5aDUlxtkMWLHhnwniZ-BAV8vfC",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB2fSoujXoL2qu6IF2clMBH9zzYrbk9U4HPexGMkd_lah4WUuFjSm85CbpBwLFEwcFNzpSOYoAupis69M7CkRNobsgCnnSkAP9iiQPV7eS9v6jpW-dar5wQY1m2X9O3K8u",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG25OLZOIFNw7Vxqc2-O26Q5QF0ugFg9ixcB9qbc9ZS3FCAPcJg8grbKmQ0bDYVXf9OXWspD83qAc4b-Kc4I-NT2COd7aAejCm3nGo18zlEnvjnM0Rcfua5NjKr0MRhojwlGxCD094lucEaPSLOrxhQQ9vi",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrk4wR4sdVDXk4Njo0N1bicszvT5OYLbWme-rob9uvF7dl34DhXjtvE3bfGMZSAoLM_XXdBCybYkb2yBsgK0Zyy8VJ4KH61zG0kdHHi9Q1LtoJDuhEN3QuMEw3HlTrLb6GicBV3BjQ5TjLjY4BKGA-lzZjShO1P5MmUhf-B0MUuMz5bhA93ipC_P3yBqP969RYWiaZdzVHxdowJn5C-2Au8DHHsUc0nIVnmILDzAg=",
+            "title": "clutchpoints.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu09_ArwviRCOLGgg4qCf0O4DP6vlno5GVUSVWv3MNb5w3QyLkRcBpNB_NzmILxBEcYjr0zYCxw8-hzXdnCgAf2zWbI7RLi8JsNPpR2659rf5Ie07CNk_vohPL-T90SB4orQQ7nx2DRnqKypN09vWT-qm8H9Mll8_pY-Lu3lO2nIDY1xlKqoVV0K4t1RkRyQLiSIkfQO8kWJlcIBeII_3wcxarEIekDlbp3tbheolTcqGatdcMsuACtTQpXfTRKrZjL5xbHoCg0mnRsgs4F9DJVkLw",
+            "title": "patriots.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "68bbd5cfa9b4f225879078a141cbea1984483bb3",
+        "aviCoreCommittedAt": "2026-11-11T20:16:38Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 88244,
+        "groundedMarketChars": 3947,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
   },
   {
     "id": "mwb60ztd-ec10b4ae",
