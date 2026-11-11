@@ -22,9 +22,413 @@
       "maxResults": 3
     },
     "createdAt": 1794433215246,
-    "updatedAt": 1794433217459,
+    "updatedAt": 1794433272123,
     "expiresAt": 1794865215246,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (46% estimated).",
+        "teamDiagnosis": {
+          "competitiveWindow": "Playoff Push",
+          "strengths": [
+            "Elite young WR foundation led by Jaxon Smith-Njigba and Malik Nabers",
+            "Top-tier TE anchor with Trey McBride"
+          ],
+          "priorityNeeds": [
+            "Immediate, injury-safe starting RB floor",
+            "Usable weekly FLEX depth for regular season qualification"
+          ],
+          "tradeableSurplus": [
+            "Saquon Barkley",
+            "Rhamondre Stevenson"
+          ],
+          "constraintsApplied": [
+            "Neutral third-party double-front-office evaluation",
+            "Enforced verified Sleeper ownership and player injury statuses",
+            "League-relative fantasy starter caliber validation"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding and retooling managers rejected veteran RBs lacking long-term multi-year timelines.",
+            "Contending managers refused to trade active, higher-scoring starters for injured or underperforming RBs straight up.",
+            "Lack of draft pick sweeteners in standalone shopped assets created unbridgeable value gaps."
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "All Hail King Jesus",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Tony Pollard",
+                "assetType": "player",
+                "owner": "All Hail King Jesus",
+                "position": "RB",
+                "age": 29,
+                "cavi": 67.3,
+                "davi": 79.4,
+                "publicMarket": 67.3,
+                "leagueMarket": 79.4
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Rhamondre Stevenson",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 28,
+                "cavi": 61.1,
+                "davi": 80,
+                "publicMarket": 61.1,
+                "leagueMarket": 80
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · RB Swap for Active Scoring Floor",
+            "strategicGoal": "Increase Playoff Odds via Active Lineup Floor",
+            "scoring": {
+              "availability": 15,
+              "opposingGmMotivation": 8,
+              "packageMatch": 10,
+              "lineupReplacement": 6,
+              "competitiveWindow": 7
+            },
+            "validations": {
+              "managerMotivationPassed": false,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": false,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 46,
+            "classification": "Unlikely",
+            "whyUserShouldDoIt": "Acquires a healthy, active volume RB2 in Pollard to immediately stabilize weekly scoring while Stevenson recovers from his knee injury.",
+            "whyOpponentMightAccept": "All Hail King Jesus might favor Stevenson's pass-catching upside once he returns for the late-season fantasy playoffs.",
+            "championshipImpact": "Provides immediate active starting points essential for regular season qualification.",
+            "dynastyImpact": "Neutral swap between similar age-tier running backs.",
+            "rosterImpact": "Replaces an inactive injured RB with an active, high-touch RB starter.",
+            "publicMarketContext": "Pollard remained in Tennessee post-trade deadline as a locked-in volume back; Stevenson is sidelined for a few weeks with a plantaris tendon injury.",
+            "risks": [
+              "Stevenson returns earlier than projected and outproduces Pollard late",
+              "Pollard's touchdown ceiling is capped by Tennessee's offense",
+              "Does not meet the 70% Market Reality requirement (46% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Stevenson for Pollard straight up as a win-now/playoff stash swap.",
+              "acceptableConcession": "Include a minor 3rd-round pick sweetener.",
+              "walkAwayPoint": "Walk away if premium draft capital is demanded."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Badland Banditos",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Brian Thomas Jr.",
+                "assetType": "player",
+                "owner": "Badland Banditos",
+                "position": "WR",
+                "age": 24,
+                "cavi": 39.8,
+                "davi": 79.3,
+                "publicMarket": 39.8,
+                "leagueMarket": 79.3
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 52.1,
+                "davi": 83.9,
+                "publicMarket": 52.1,
+                "leagueMarket": 83.9
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Veteran RB for Young WR Pivot",
+            "strategicGoal": "Win Championship / Increase Playoff Odds Alignment",
+            "scoring": {
+              "availability": 12,
+              "opposingGmMotivation": 12,
+              "packageMatch": 0,
+              "lineupReplacement": 10,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": false,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 42,
+            "classification": "Unlikely",
+            "whyUserShouldDoIt": "Pivots an aging RB dealing with lingering back and hamstring issues into a talented 24-year-old WR with significant dynasty trajectory.",
+            "whyOpponentMightAccept": "Badland Banditos is competing for a championship and may gamble on Saquon Barkley recapturing elite RB1 volume for their title push.",
+            "championshipImpact": "Slightly reduces immediate RB depth but adds WR flexibility and long-term ceiling.",
+            "dynastyImpact": "Improves overall roster age profile by adding a core 24-year-old wide receiver.",
+            "rosterImpact": "Opens a starting RB slot while reinforcing long-term WR depth.",
+            "publicMarketContext": "Barkley's market is suppressed by Eagles offensive efficiency issues; Thomas Jr. remains locked into Jacksonville's long-term core despite boom-or-bust usage.",
+            "risks": [
+              "Barkley regains full health and outscores BTJ in 2026",
+              "Thomas Jr. experiences weekly scoring volatility in a crowded Jacksonville passing attack",
+              "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Brian Thomas Jr. fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler.",
+              "Does not meet the 70% Market Reality requirement (42% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Saquon Barkley straight up for Brian Thomas Jr., emphasizing championship RB needs.",
+              "acceptableConcession": "Offer a 2027 3rd-round pick sweetener if requested.",
+              "walkAwayPoint": "Walk away if asked to include a 2027 1st or 2nd round draft pick."
+            },
+            "deterministicRejectionReasons": [
+              "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Brian Thomas Jr. fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 3,
+            "targetTeam": "SmokyValleyWheatWarriors",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "James Cook III",
+                "assetType": "player",
+                "owner": "SmokyValleyWheatWarriors",
+                "position": "RB",
+                "age": 27,
+                "cavi": 90,
+                "davi": 95,
+                "publicMarket": 90,
+                "leagueMarket": 95
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Rhamondre Stevenson",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 28,
+                "cavi": 61.1,
+                "davi": 80,
+                "publicMarket": 61.1,
+                "leagueMarket": 80
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Speculative Workhorse Target",
+            "strategicGoal": "Win Championship / Playoff Push Floor",
+            "scoring": {
+              "availability": 10,
+              "opposingGmMotivation": 5,
+              "packageMatch": 0,
+              "lineupReplacement": 5,
+              "competitiveWindow": 6
+            },
+            "validations": {
+              "managerMotivationPassed": false,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": false,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 26,
+            "classification": "Impossible",
+            "whyUserShouldDoIt": "Cook offers elite weekly workhorse production in Buffalo's high-powered offense.",
+            "whyOpponentMightAccept": "Opponent would only consider this if offered massive additional draft premium.",
+            "championshipImpact": "Massively upgrades starting RB scoring and weekly floor.",
+            "dynastyImpact": "Acquires a higher-tier dynasty running back asset.",
+            "rosterImpact": "Solidifies the primary RB slot with an elite starter.",
+            "publicMarketContext": "Cook is coming off a 31-carry performance; Stevenson is currently sidelined with a multi-week knee injury.",
+            "risks": [
+              "Extremely low acceptance probability without adding major draft assets",
+              "Elite target James Cook III requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets.",
+              "Does not meet the 70% Market Reality requirement (26% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Test initial interest with Stevenson as a base piece.",
+              "acceptableConcession": "N/A - gap is too large for straight-up negotiation.",
+              "walkAwayPoint": "Walk away immediately if asked to overpay with elite future 1sts."
+            },
+            "deterministicRejectionReasons": [
+              "Elite target James Cook III requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": {
+          "summary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (46% estimated).",
+          "primaryObstacles": [
+            "Improve My Team and Shop Assets recommendations are starter-caliber-only for player components. Brian Thomas Jr. fall outside the league-relative 16-team starter/FLEX pool and cannot be used as recommendation filler.",
+            "Elite target James Cook III requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets.",
+            "Seller acceptance remains uncertain; trade-block listing is not required to explore an offer."
+          ],
+          "userConstraintImpact": "The proposed offer respects verified ownership, but has not met every market/fit criterion.",
+          "closestPathToDeal": "Use the displayed verified construction as a negotiating starting point, not an accepted or 70%+ realistic trade."
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Saquon Barkley news 2026 fantasy NFL",
+          "Rhamondre Stevenson news 2026 fantasy NFL",
+          "James Cook III news 2026 fantasy NFL",
+          "Brian Thomas Jr news 2026 fantasy NFL",
+          "Tony Pollard news 2026 fantasy NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFliOOVibuSiNvARIhHsDQNb9v9P5lerwrt1x2DGKUwI_sbnVpxbtIvTZLYanerEzaqqj30qexS_Jt5dBR1VgYBkwzW-nr-vZCgSCflWC5r8mBTHfGAAJu4MejJJT4S6Q4-sM4asxvuRBzgjPfeuXsElmXbiplanw==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF88mXvRMy7TC3DF-jPQdtEqctrbH8E9Ixqz-Tgz-j81juUUJ3Y5vo4VLfUjrzVi-NfaXJ3Pn5A2L6_VV3M9LG33gioioTA42OGdK9DmQsX_md9spaJEcBE3lsYWetmWj8hJmNJCstER2o6NfV4PcLL2cAgzzZVvBAihno=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI6fSt875M1_jAtJd-P-JQYu7AVu66GGWRTeUSlulJZnYMJpi-z9h5O_NPanTKJv4t9s6UQEIQPsI6sNRq-vhVY8p5IaqlmfZL_0RbfUkfl0BBLiEQoYBjc8QPs44rsOTSbLQQpmrxU6nGpJCl2mesGOHAG_4unCQRp47nQXTubSiV2vHJ8NEx0JtBVKpAT_5p_Co=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz_cpiTrciZNF7hu5mwouy3fXSPu8veNMhmluOhQb7NMXbcdV-tw3bIq7V1oomiPs_QdVF_mxIP7w-OfR4H_8-UF68TOyvQi7vx2v0LaZwygzaWiqETN894vAePCfJPM0uPXPzEFZohC22eJxLhQelXDy0u0mD_T84zm5jh9KpQ3cpxzyQVA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqwgwOy8TpfxagSOoHv-UjzHAYYkBRqwNgCfrlFaH8g6RM93pgzE1t0YOfT7c70tesGgGio8HW2RQa-AgisSN2xxBhViyYA50Kti4H5L4hTlKmjKVMF76ohHowPIyL2KhP_oJLYQozNz-BkES07mg8ZTwCPeFxx9an6nrZyac4rosADfoATZrw6W4lR0jsjgFPQ71UbJg0ph_f",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUFksKYcJAVSebcOd805jFJXwkdqyc40CTIM9OT-fkswXhDv8RmRzmgddraSNVrtb-7wuwhrLck-wcdQy29E31_FcbRSdLDQ6g4UMzKWt6X0RfrELawpGzihRO3jrjpomEJMMUHr0TGNRhSsjic7fWz-WECox7Bcebx75F5o3NLoJY1THSv9JUkcS4tpjO0cOIsr9dNd9WwbTDYqzuWQuXdhs=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwHemdGq7rNQuH1l_y7Trol2Ij6xsFfCrG6cETtHghPEfFAb26M6ZBLsy6oKnUsNPUBV0U7fK_9coHD8ZEZABYmyv09g_ppL5vBeTmslGHWw_w3CT_dn6Uqm1Y95_-3KdmvzlIZZQq9X4Fcxo7FSzaYD5vY2EngB6C-66eJ4HNoFz5x4tt0nP3yt-Sj4MKDqNFlqDfsdBgpweACEJT4AK2dtA-z92-fw==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ThtmZXN2MKOsW-q07S-dP2L8HyL-1jByVDkNzKU0MiV4yg1M891zFRGf1R7MkDOemOJp6CvIk2KOkVyM5rv-N84A5UbY1Gfg5RUW6clSW2l0fpoTQnhxDfN8aeM77qBRey8OPClkuLDlGiqIngilNT4chUpBO31WJd3H",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHly8czqUxQqbNmEbdAMznV82Ta509O6nZb5L-u0DEAlULFKMZ0EkYZmTwqGFcy_ovfgw7wG87_SFeEX0syrmGj0HrYrC0ckM3i_-sJ1O46SbFg87g_Z4ao0KEfDZb-nz7M2ctUJHFfMPolOp8qJ_P3uQkN9ABMk6vsxtrvCdMMECJJlcBiGp--icRhwJYXpYvLHpdkme7TbRSzXo0=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEvy8GPZ1RMJEiisJ6mJudaN67h7B6qwlveL6-VciYahXrPzYVRsXjpb_uT0AkcB1JDcgIW2fI9G18jj2xL7PKHTAGFZdPj-pvU0jRxKkQCNAv86utUau9Sq1aigzLinu6xrDeu8hPCYg7qwNmyrOnAixbOXEeXT-MjFlx-DxPqYhqW-9vDgxqX3CS1d8GrrMAmad-NQ==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAWCOb7BFzmTM5zt3nkm4UwUxyD_WEvtbyC2EqnSasgOtYWf5bdNGz5R4Jyzmck5J5WA3mtMkuaz2ANVulfp70wuTaPWIzzQSajWrK6HNja3z9EbupfngucFtL9dP7LphkyjyBPZ-PXXq1x8vwONbpyJ0hSq3dV9lMEG3PBRzVBvodmw==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkCq8o0kCIWMi2JdI6AWpxRs8W4MpUPLKpG1HelVfWMpWVVz6SkAmOFDDZkZn7npGE9Ht7e_niRjHP2Rnq4F1yMZzY1Q4otWSzXpi_EO_kDr5vvPp61IghWyuevHjVIMNHkmakzS-Urm_hr7jdsDPjNLDweD3nacZvGXirNiImISEnuXh222xVOXgObA3dY5dXgu7xo621Pv0Ssg==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLqmH0fLyIo3nL1ZsO5dEMJspD0uIWZBILCreI-IzxFlHRiUvPj9D9f3k2zazTh5jWvwvK1B65CYWlt0IjZE3z1e_kIjWcN28iDFrE_SpS8wrBlczkYSw-axYkZsaXAEe9IQeLt7uLyER0d8j3ZsIpxIC8fW2GL9K_dts2nFTJGrlC_5O0RKCO_zmQLVpGC7t-gmnTduC7cCGJ89VTdlKIpK8uxlF7NxZ45uWo9AkpQAYoQd8WamsBibTNLibYcGJPg-m-hA2m",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCknFq6Tni79TdEyNPnG7VWsvMEPV-bUyuA4Ns3PicpwK8pQ2zMPneEc_tGK9o0MqGfhsT4Vby1h468uPtQ1DPpK7WDB-6qEaCzx8MKHq1p2ky_OPcN4i1qwiZWUatVUStauNIt4Jc_-zSPlvpAQ==",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE87e1tC23EM6PeOBLsBbcOgvl8TFaoKnzJE0dO1102HYMzfYN942VAMVHaquJGfUdAevKZKQnHwpibHNB6REKnkdt_TlIAucXWvhAJ1u8PwBPXJ3ZAJxuJPigWcmZvAymKSgwk3pJOz3mokHwETsayUgsbO8YnhMDZFhI_BtaldOZXNswStvSpRL8=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQsRtm5gJqV-wNkX-5eXmlv4uzjfXZSas69UElNX8Aw2mBac5xt01uauxhO625IUSdgNQeM6IeKR1kz372QK57yjLkdwBrVwDCNeEDZcXwB0FssZBgC3eGH2fdy4SrzTiM7fhWzu-852DIqlaOs3Gvr9DpDA5aFJqb2Y3XcdaqXje2vmnvnGZGX-3lS372PgFY",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrNT_WWRcGC4OwaCq-p6xxp4GMhKdPPEKnJCQf93kv4FPIJYrANmsQ195LGdAVLS33qbhOGjghUqd4SR6xLjpcYnYXcVp3fsKPHo7YabOOakAH2-tHKzsTmy4bM11E7P5olyzVeJnSXBfTyfmZdGYYoSZrsLQOHj3Z21huCgSUd-cABs1i8tAQGViqCgMN7jk0DhNBJJnJc725yZhJ",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEkNoky7CGYDCAn5cvqO6NVHjf4ql6z9GlTvu4dh0bkEEqbWL6bfn7XYgLpAueWKby7KXwvzsWOdR6IAELTLM71_UcmYkCZljtZ_lWKKyBea568JeIrPAbGtdMnZ0c0S7BsXA-W7wvx-w6_EkKdCDYsNDLRmk6dB0PUnVwqqrkmZOMDizxb5vqYoL2g3pLi-JNO1lSA5IpLCHt",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGbsyoNVoUiuJKart0ofOwZGeGJEfIgC2wBaFlQwwuI3i6JfwrG5aSKxL3p89qUrdq6-inkkPyxXwChZU0UHLXR7JAMXDySBUI5xCLmr9cbHY6-oH8sZi1jVoo8ge7FFdARLqNqAD_7vIMIixAvYSnEw5O-w==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhaDzGPPukkXvHzpj7A97PJmkX08lYYoHeSQOytuqZQDIBTgnl1b_ZKXlDDiowGjUTQz25PuQO4IER33R4YqMMKQVPxYrR06Hao-vIVOLU1vsQzr8FeRYt3ftsh0JhMiZTCXKTudoNrNoUF_ChU24k-DSfUd365FMcnZJ3zV1QljcMRRQ=",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "James Cook III",
+          "Rhamondre Stevenson",
+          "Brian Thomas Jr.",
+          "Saquon Barkley",
+          "Tony Pollard"
+        ],
+        "aviCoreCommitSha": "4fc7dcfd5507e15fa5b1f17ca267a2a532b6c51c",
+        "aviCoreCommittedAt": "2026-11-11T21:40:06Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 545660,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 251,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mwcn4lt9-f5563d46",
