@@ -84,6 +84,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 12
 - Team file: 12_DMV_Fantasy.md
 
+## PLAYER LOOKUP: Ashton Dulin
+- Player name: Ashton Dulin
+- Player ID: 6427
+- Position: WR
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
+
 ## PLAYER LOOKUP: Ashton Jeanty
 - Player name: Ashton Jeanty
 - Player ID: 12527
@@ -564,6 +572,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
 
+## PLAYER LOOKUP: Deion Burks
+- Player name: Deion Burks
+- Player ID: 13333
+- Position: WR
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
+
 ## PLAYER LOOKUP: Demarcus Robinson
 - Player name: Demarcus Robinson
 - Player ID: 3286
@@ -1035,14 +1051,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Big Balder Brand
 - Current owner roster ID: 9
 - Team file: 09_Big_Balder_Brand.md
-
-## PLAYER LOOKUP: John Metchie III
-- Player name: John Metchie III
-- Player ID: 8147
-- Position: WR
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Team file: 16_Crimson_Tide_Pods.md
 
 ## PLAYER LOOKUP: Jonah Coleman
 - Player name: Jonah Coleman
@@ -2509,6 +2517,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 50.8
 - Availability: available
 
+## AVAILABLE PLAYER: John Metchie III
+- Player name: John Metchie III
+- Player ID: 8147
+- Position: WR
+- NFL team: CAR
+- Championship AVI (C-AVI, 0-100): 21.3
+- Dynasty AVI (D-AVI, 0-100): 45.9
+- Availability: available
+
 ## AVAILABLE PLAYER: Justin Fields
 - Player name: Justin Fields
 - Player ID: 7591
@@ -2975,15 +2992,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: NYJ
 - Championship AVI (C-AVI, 0-100): 16.9
 - Dynasty AVI (D-AVI, 0-100): 34.4
-- Availability: available
-
-## AVAILABLE PLAYER: Ashton Dulin
-- Player name: Ashton Dulin
-- Player ID: 6427
-- Position: WR
-- NFL team: IND
-- Championship AVI (C-AVI, 0-100): 16.7
-- Dynasty AVI (D-AVI, 0-100): 37.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Drew Sample
@@ -3668,15 +3676,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: LAR
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 27.1
-- Availability: available
-
-## AVAILABLE PLAYER: Deion Burks
-- Player name: Deion Burks
-- Player ID: 13333
-- Position: WR
-- NFL team: IND
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 33.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Dillon Gabriel

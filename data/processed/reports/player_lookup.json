@@ -663,6 +663,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00008147",
+      "c_avi": 21.3,
+      "d_avi": 45.9,
+      "nfl_team": "CAR",
+      "player_name": "John Metchie III",
+      "position": "WR",
+      "sleeper_id": "8147",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00007591",
       "c_avi": 21.2,
       "d_avi": 50.1,
@@ -1282,18 +1294,6 @@
       "player_name": "Tim Patrick",
       "position": "WR",
       "sleeper_id": "4351",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00006427",
-      "c_avi": 16.7,
-      "d_avi": 37.0,
-      "nfl_team": "IND",
-      "player_name": "Ashton Dulin",
-      "position": "WR",
-      "sleeper_id": "6427",
       "status": "Active"
     },
     {
@@ -2211,18 +2211,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00013333",
-      "c_avi": 0.0,
-      "d_avi": 33.9,
-      "nfl_team": "IND",
-      "player_name": "Deion Burks",
-      "position": "WR",
-      "sleeper_id": "13333",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00012486",
       "c_avi": 0.0,
       "d_avi": 33.0,
@@ -2738,8 +2726,8 @@
     }
   ],
   "counts": {
-    "available_players": 228,
-    "rostered_players": 251
+    "available_players": 227,
+    "rostered_players": 252
   },
   "rostered_players": [
     {
@@ -2901,6 +2889,22 @@
       "status": "Active",
       "team_file": "12_DMV_Fantasy.md",
       "team_name": "DMV Fantasy"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00006427",
+      "c_avi": 16.7,
+      "d_avi": 37.0,
+      "nfl_team": "IND",
+      "owner_id": "736993578450030592",
+      "player_name": "Ashton Dulin",
+      "position": "WR",
+      "roster_id": 1,
+      "sleeper_id": "6427",
+      "status": "Active",
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
     },
     {
       "active": true,
@@ -3865,6 +3869,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00013333",
+      "c_avi": 0.0,
+      "d_avi": 33.9,
+      "nfl_team": "IND",
+      "owner_id": "471824466389757952",
+      "player_name": "Deion Burks",
+      "position": "WR",
+      "roster_id": 16,
+      "sleeper_id": "13333",
+      "status": "Active",
+      "team_file": "16_Crimson_Tide_Pods.md",
+      "team_name": "Crimson Tide Pods"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00003286",
       "c_avi": 26.4,
       "d_avi": 41.8,
@@ -4805,22 +4825,6 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00008147",
-      "c_avi": 21.3,
-      "d_avi": 45.9,
-      "nfl_team": "CAR",
-      "owner_id": "471824466389757952",
-      "player_name": "John Metchie III",
-      "position": "WR",
-      "roster_id": 16,
-      "sleeper_id": "8147",
-      "status": "Active",
-      "team_file": "16_Crimson_Tide_Pods.md",
-      "team_name": "Crimson Tide Pods"
     },
     {
       "active": true,
