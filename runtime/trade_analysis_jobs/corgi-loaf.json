@@ -43,9 +43,532 @@
       "maxResults": 3
     },
     "createdAt": 1794424747760,
-    "updatedAt": 1794424750068,
+    "updatedAt": 1794424804964,
     "expiresAt": 1794856747760,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (64% estimated).",
+        "teamDiagnosis": {
+          "competitiveWindow": "Playoff Push",
+          "strengths": [
+            "Elite young receiving core with Jaxon Smith-Njigba and Malik Nabers",
+            "Elite tight end production via Trey McBride",
+            "Significant starting-caliber running back surplus across four established backs"
+          ],
+          "priorityNeeds": [
+            "Consolidating rotational depth into elite high-ceiling starters for a championship run",
+            "Upgrading starting FLEX and TE2 upside while preserving overall roster health"
+          ],
+          "tradeableSurplus": [
+            "Rhamondre Stevenson",
+            "Saquon Barkley",
+            "Cam Skattebo",
+            "David Montgomery",
+            "Mike Washington Jr.",
+            "Malachi Fields",
+            "2029 3rd (Corgi Loaf)"
+          ],
+          "constraintsApplied": [
+            "Preserve active starting lineup floor",
+            "Consolidate multiple mid-tier assets into single stronger starters",
+            "Strict owner verification on all outgoing and incoming player cards"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding teams unwilling to absorb veteran running backs without premium 1st round draft capital",
+            "Contenders unwilling to surrender elite starting receivers without immediate same-position replacement",
+            "Teams lacking positional need at running back or lacking liquid high-tier assets to trade"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Big Balder Brand",
+            "targetGoal": "Increase Playoff Odds",
+            "targetAssets": [
+              {
+                "name": "Nico Collins",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "WR",
+                "age": 27,
+                "cavi": 83.8,
+                "davi": 94.2,
+                "publicMarket": 88,
+                "leagueMarket": 92
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 52.1,
+                "davi": 83.9,
+                "publicMarket": 75,
+                "leagueMarket": 80
+              },
+              {
+                "name": "David Montgomery",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 44.8,
+                "davi": 75.6,
+                "publicMarket": 60,
+                "leagueMarket": 65
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Consolidation Upgrade",
+            "strategicGoal": "Win Championship",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 22,
+              "packageMatch": 0,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 64,
+            "classification": "Stretch",
+            "whyUserShouldDoIt": "Consolidates two veteran running backs into a WR1 target monster in Nico Collins, dramatically elevating weekly scoring ceiling for a championship run.",
+            "whyOpponentMightAccept": "Big Balder Brand is in Increase Playoff Odds mode and urgently needs reliable starting running backs to anchor their weekly floor; receiving both Saquon Barkley and David Montgomery immediately fixes their backfield deficit.",
+            "championshipImpact": "Significantly increases weekly ceiling in PPR scoring by adding C.J. Stroud's primary perimeter target to pair with JSN and Malik Nabers.",
+            "dynastyImpact": "Trades aging running back assets (both 29) for a prime 27-year-old wide receiver cornerstone tied to an elite young quarterback.",
+            "rosterImpact": "Frees up bench space by consolidating two surplus RBs into a high-tier starting WR without damaging running back starting depth.",
+            "publicMarketContext": "Nico Collins remains a premier target earner in Houston despite target distribution, while Saquon Barkley's long-term extension in Philadelphia maintains baseline market value.",
+            "risks": [
+              "Barkley or Montgomery regaining high-volume touchdown variance later in the season",
+              "Collins facing minor target share competition in Houston's deep passing offense",
+              "Selected Shop Assets players Mike Washington Jr., Malachi Fields fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Does not meet the 70% Market Reality requirement (64% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Saquon Barkley and David Montgomery directly for Nico Collins, emphasizing the immediate dual-RB starter fix for their playoff chase.",
+              "acceptableConcession": "Include a late future pick swap (e.g. 2029 3rd) if needed to finalize the deal.",
+              "walkAwayPoint": "Walk away if Big Balder Brand demands Malik Nabers, Trey McBride, or any future 1st-round draft pick."
+            },
+            "deterministicRejectionReasons": [
+              "Selected Shop Assets players Mike Washington Jr., Malachi Fields fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Rapid Valley Annihilation",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Colston Loveland",
+                "assetType": "player",
+                "owner": "Rapid Valley Annihilation",
+                "position": "TE",
+                "age": 22,
+                "cavi": 67.1,
+                "davi": 87.8,
+                "publicMarket": 80,
+                "leagueMarket": 85
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Cam Skattebo",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 24,
+                "cavi": 49.5,
+                "davi": 81,
+                "publicMarket": 65,
+                "leagueMarket": 70
+              },
+              {
+                "name": "2029 3rd · Corgi Loaf · Unslotted future pick · standardized round value",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 16.5,
+                "davi": 16.5,
+                "publicMarket": 20,
+                "leagueMarket": 20
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Youth & TE Consolidation",
+            "strategicGoal": "Win Championship",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 20,
+              "packageMatch": 0,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 62,
+            "classification": "Stretch",
+            "whyUserShouldDoIt": "Acquires one of the premier young ascending tight ends in Colston Loveland to secure unbeatable TE/FLEX depth behind Trey McBride without sacrificing core starters.",
+            "whyOpponentMightAccept": "Rapid Valley Annihilation is retooling and receives a 24-year-old starting RB in Cam Skattebo who has shown clear RB1 ceiling games alongside extra draft capital.",
+            "championshipImpact": "Provides elite TE/FLEX injury insurance and matchup flexibility during the fantasy playoffs.",
+            "dynastyImpact": "Locks down the tight end position for the next 5+ years with two under-26 elite dynasty assets in McBride and Loveland.",
+            "rosterImpact": "Converts bench running back depth into an elite tight end asset while keeping Barkley and Stevenson available for starting RB slots.",
+            "publicMarketContext": "Loveland has surged in Chicago's passing attack with three straight 60+ yard games, while Skattebo has returned to full practice following a minor hamstring strain.",
+            "risks": [
+              "Skattebo establishing himself as a long-term lead back in New York",
+              "Loveland sharing occasional target volume in a crowded Chicago offense",
+              "Selected Shop Assets players Mike Washington Jr., Malachi Fields fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Does not meet the 70% Market Reality requirement (62% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Cam Skattebo and the 2029 3rd pick for Colston Loveland, highlighting Skattebo's young age and locked-in Giants volume.",
+              "acceptableConcession": "Upgrade the draft pick sweetener to a 2nd-round pick if necessary to secure the young tight end.",
+              "walkAwayPoint": "Walk away if asked to include Jaxon Smith-Njigba, Malik Nabers, or Saquon Barkley."
+            },
+            "deterministicRejectionReasons": [
+              "Selected Shop Assets players Mike Washington Jr., Malachi Fields fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Ravens Regime",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Zay Flowers",
+                "assetType": "player",
+                "owner": "Ravens Regime",
+                "position": "WR",
+                "age": 26,
+                "cavi": 77.2,
+                "davi": 93.1,
+                "publicMarket": 82,
+                "leagueMarket": 88
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Rhamondre Stevenson",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 28,
+                "cavi": 60.6,
+                "davi": 79.9,
+                "publicMarket": 70,
+                "leagueMarket": 75
+              },
+              {
+                "name": "2029 3rd · Corgi Loaf · Unslotted future pick · standardized round value",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 16.5,
+                "davi": 16.5,
+                "publicMarket": 20,
+                "leagueMarket": 20
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Starter Upgrade",
+            "strategicGoal": "Win Championship",
+            "scoring": {
+              "availability": 20,
+              "opposingGmMotivation": 18,
+              "packageMatch": 0,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 58,
+            "classification": "Stretch",
+            "whyUserShouldDoIt": "Capitalizes on Stevenson's strong baseline valuation to acquire Baltimore's extended WR1 Zay Flowers, adding dynamic PPR upside to the starting FLEX slot.",
+            "whyOpponentMightAccept": "Ravens Regime is retooling and needs established starting running back volume; Stevenson provides an immediate focal point for their backfield alongside Derrick Henry.",
+            "championshipImpact": "Upgrades the weekly starting FLEX floor with an explosive wide receiver option as Jacoby Brissett stabilizes Baltimore's passing game.",
+            "dynastyImpact": "Extends the age window by swapping a 28-year-old running back for a 26-year-old WR locked into a $140M contract extension.",
+            "rosterImpact": "Reduces running back redundancy while fortifying starting receiver depth for championship matchup runs.",
+            "publicMarketContext": "Flowers' temporary QB turbulence is resolving with Jacoby Brissett's arrival, while Stevenson is recovering from a short-term plantaris knee issue.",
+            "risks": [
+              "Stevenson returning to dominant early-down work in New England by Week 12",
+              "Baltimore passing volume fluctuations during QB transitions",
+              "Selected Shop Assets players Mike Washington Jr., Malachi Fields fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+              "Does not meet the 70% Market Reality requirement (58% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Rhamondre Stevenson and a 2029 3rd for Zay Flowers, citing Stevenson's proven high-volume role when healthy.",
+              "acceptableConcession": "Add a minor player asset like Malachi Fields if Ravens Regime seeks additional wide receiver depth.",
+              "walkAwayPoint": "Walk away if Ravens Regime insists on receiving Saquon Barkley or a future 1st-round draft pick."
+            },
+            "deterministicRejectionReasons": [
+              "Selected Shop Assets players Mike Washington Jr., Malachi Fields fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": {
+          "summary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (64% estimated).",
+          "primaryObstacles": [
+            "Selected Shop Assets players Mike Washington Jr., Malachi Fields fall outside the league-relative starting-caliber pool. AVI will not manufacture a starter return from true depth/backup assets.",
+            "Seller acceptance remains uncertain; trade-block listing is not required to explore an offer."
+          ],
+          "userConstraintImpact": "Applied user preference to avoid trading key starters while consolidating running back depth into elite high-ceiling starters.",
+          "closestPathToDeal": "Use the displayed verified construction as a negotiating starting point, not an accepted or 70%+ realistic trade."
+        },
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Applied user preference to avoid trading key starters while consolidating running back depth into elite high-ceiling starters."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Malachi Fields football 2026",
+          "Mike Washington Jr football 2026",
+          "Colston Loveland football 2026",
+          "Cam Skattebo football 2026",
+          "Rhamondre Stevenson 2026 news",
+          "Saquon Barkley 2026 news",
+          "Nico Collins news 2026",
+          "Zay Flowers 2026 news",
+          "David Montgomery 2026 news"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9vOT_uXwYFwmGYiZXGmeUiPSTUapiKyN_Q0grjPR8OvaYwkItHnVebWlJ1I1iUiDxXMFoFHAtWKMFsCyjeT8GoiIyGksfBRS5Cn7488oLOqgEfBIYrNoCcTqKncoGQUGigyIm1zLs5kEGafK1w_gj5M6VNmryyPP6o7oKNN7bvNEV-S2YRqRKEHFYT2qxWOFxddcI",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu9cbJQfWEe-Ev4q0tAWIF3oNn4aYsSV_pCLNSccp45Ljage4KaMUNVfM7-JkyK9uzzrHO-s-a1l1NBzpFLcBWUfiOFsLnJ995zWH4WDaiuO7l09MguWQabpFIAOn9YQ==",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgTIDkSLgRLuXvwRKQwaC6aMNmk3w2qDaNkG5kuGtf73AN6TYiPcGBaZiYdcEKH5KknAyW3eS6FgCIyHSrHWDo9IH_xd8WHPlWuTgQZ03nQqVJ9yIF0NDtIGkO49WZyJxzywdcQ64FEre-9pqNxzukr2YBotWrope1LhtwzkHwBBbd3JegqkN3h_kGU8lRT3-eM25zBzVDdr0q3DUitmhRXVAJZlJb3uY90Xs4kpIQ",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHluII_Z-O2XWqg29J20IVDDf9gVjG-0kPXC8tjAG7mnPjWifQbebZ2Sdzv-rln_85tm0FqrwrEt0LOX143ZppAvS6ZrVz33Baht71pbPZsYh_YTrb6JvDJ6tqwB7TPaGeGo8e62RPYNBDGofTaqpdzO_0lhkAhuKUqcaVsd9hUfF4=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfJ8nT87J8lZT2FGamDTqlq90AkBFcxKYP-T_wrP9-GUfkZXrgrGdqYaSLqbVLYf-BJpBmkfQVlVhFrZ0qkNmCtORvUVFXDV-Xo_j203IPQQt5eO6hKMVKYXGqmdqFyWNOChTYBqAiSgv82QpuGfAkDa7DIGt_TjTIkvcPwWZ2Evif7o55JsqZRoyxDJFw0bl-xDUMXD8b8oCFh6vy6kTNMCZVtzzea5aSGNC8NR1rl3u_pWgy94F72ruAzQ==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvQfFGsZf8r-L3tvHWVgvRq9iyY0oFU6qw7HwM9v6MuoplyPmf-wnavMmWvf2EjhfQfoJpFslAoxcC-cvJra_v3NiX-ofLU01Nzxj3Ew8GDkhyVUwyAEw0WIyNeeyyadhwn1ZRGhiA9Qg3g41qId5Xn6fk7VNAh45_E7kAaLmSbN7oEB2NtfMtjmTOe50pMBkVANaESg14rMCfSWUdTpjM9b9M",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeXClY00oKZw73mj6IwRvV5fibZxeB6bnUwjji3C6MAgwudvJuhRPV1m_4IzHEWeLExXLdXxbysZpKk893XBBQ901UN06ir0-goSEH0L8eP54hqewPRct3_u9GkvHh-qDHAB0gms4v2Vptq1DY_wdvx-DjhgrMqlsZT0r73eqplC8pTLXCGi6X-8TvvEKQd3P0_IjxH_syPzgj",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaf4gL0R5IBgeSAVIYXeE2sT7HSz8G5rdVxeMEZef7ry1G3GUM357ph6Gc3SirkU3Z01ZsuXlIAiRWzgMVKrJlOQyTrzt5os2fvSuybG2M3caJZm3pjZuReCP3YGa3RfVGv31MKfKjtDKmkRTJDFo5MQX31X5VPJ9V4hfeOhUKj0JsKjXQe31-1Ei_RAc8PjYB1vFqP64=",
+            "title": "houstontexans.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQqai0c4q2Iqm-d0bjPMakq_z7yoZ2m69i4kHX-iuKjovTEUuE6CTsxh5r2RTZV-y_me4b4wXUBaEwJRBUAlkweIUE-7u2Pkt3SXyrkzh2C37qhwzZv8YAcHhaJDhY30SfNdi419QnVHlL7saJEamu6ySmhzR6tB1CixLai0OsXbISkYgwLrHvg7mhmbFKITJxnSA1TZ3gVArKIjcRkR5f0GA=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvghrsCceTtK3sH0t-CDCK18z1VdZDgZAWr3RN0L3mm7Hi9JuVo-NKq3WuQOVUbNqlVm1X-1r15yKb3Y7ULX1rRjCTNEpIMFOvLgrr5X_qIAv7YV2LAC-4pFCSxK9NKoXzfis7XRcLpULdwa3ipuH3svA2mMDF8wVGdISg792RH9sW29fU-f_6oDWYzT1XmCx7hll9d3u-tbwlALGF4A==",
+            "title": "4for4.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXv6ob66VBgKxe6FcJ2rSbQXkwUUVGbxRd2DSlIk7EuBTKj9JIpzbwgaHvebuhZacCDs8BWCthjroh1qIWDTVAOVVuByo6TNPLkLR5Xyb6DF28dSw0wGVvNHCRa2E_Dd1sIWDAa1zV7xTAKMqPmybVa8I7ulc8LNGuvqg-OEf95G40apuLpMyZ5cn-MTgINBEnFyMbD6wchcg0RfKk",
+            "title": "northeasttimes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt4zAKHQkvaD0eHSsJ3ldP1MOT9ATy9ipraotoTI2ZPw4tLDkCJ80PgA7bB9YsjMPJjIpocKm-ThXNmsLCPx9IWlmWZXNsg9pdYncM-VWMYp6FyleF_mCiIEqfHMC489IowJEgrB_xQr2LWNlxf5dsjevSrLh19ST4fR-jCdM4nDfuoSmMfMqnBYckGJidDK7oO_mTMQ--VGDDqNtMx26xDn-8QIvGKQ==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElQcxMtAtKh_OTbLCvtNsnqmrwPdXYWA9KgEjoXzlfkIF6JliZQrBhm-Nc2oIRG3ntrmBi7o8pJl3BfoLcpVv2oLKyk98ry6fyfUWmeTX8YwvaG6pEa7iEDkHWPjEiM7jhJlMkNgNoVdZKmIeGBUzBRkQydBPICAJUjh8JreNPXW1szw0RWABjbI3ecYPv31l0y1lIP9vE5-xeCn1w0GXSdKAyeiTRY8C9eAgDXrtt",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOpNiL5Mk3GzcfGUBv772B5FfoZdXCHIXdfTsT456NkNOJnKfqDMO6-XeErXgHX04Ai9MawZYJ0GPZIRsaI2eVNjNXq0Rd2ykl8erbsbScY2dbD0mhHrrjTRSwwT8TkMoHEQeIvLeEqpX6B5U2pc7bT7tnGxAyPYN_WhT6zJgMb1b3pZaSy2v-sLpTQ11WbgeNOpVUln1EWDOlkfwyeihet8U=",
+            "title": "phillyvoice.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEryqPUn3AOj2J5z3W7ATOlgkHSa4ceApiO67YnhGGmjMqdF3qhC36bMtWHTciw5eCSz1Sz6bu_UhKrn1NBW8H9y4Qx_SGQVOhI_hw9Ng2IPGm7XJzUtiApx2WlmiE8yS8y5nijWo_1q0OxQ71rYuk=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRifnRqOH-i1IK3HDvj7lQ-B3BpA_5iLYWiNy-ZvQUp-BtxB687GU2XG4v9eM8kIB5at7LAp2iCNtl0gpzrY2MWNlPLzGcldxqpRUpIGxTRznDqYaLdiHZq1OpT28drJDmkcdsiDNOG5sDTh28GFfXbZ_6xE0-5AkYk_ENpZM4mBZtteGadz0cjEVTVLcqAW6XjR4VG1ozic6pbHoD7xSCB1m2s8bQqb98QZY=",
+            "title": "baltimoreravens.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe6t_DC_RhGsEX_IBapV4aSmWMVdj-nEt68mvE6NOzfQaTpd5jFW6t5C1r7MVtnMBoztKy6tFLOrfawAx-Z60f2q00R1__T_fFGSWPh2ol35uvhST4fodGAUMU1anqV1wH34qdTthefYaMTmnefwSxA3bCPSwhXzjlx44TW0hqdnJwHTv6nqR0dSrQwmSIcEKnKmHoQMzs5Tumy7wvLFM=",
+            "title": "baltimoreravens.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_k2Vq1kjt4H62fiDdJFNHSO4aJn4HlJDsmQvquk7j4djwuIVX8fy2dZGnILY6F0Hb_xlyXMVkTrSK3-6nMJPYbyvoHep5pbBLy-sv99VVKfxl8T83o6Smxd3wvPVDQ91mhtBQ3WXZXK9cAO8hASnhxD8cbvc0UCqEuH4R67671xCKc-osX5zh11Q-l22dwLyiYheOcBjC0yGiOHU=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe_StI_GmwDVRFwNZeO8ROoqg6lo2CEIrUNIsHgYJEo-6nClt8Jdvto-MJvb2qfK2wwccXyKcYpksu7lRvpIxlX63EDCtgZQckdXvfXFooiMxYYcvJSKCEABuA3gJe6MeGltuu60kP-NymROw3hxKD2-MvNToZxS-m1JeopC1IXM_86HwMebTVMOvf0o5re1VTfpzK2NkVB19kKLBsCmt2-uSg4qc=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuOTOdvLkkyHU4-ancgVWP8UkMXnHC13V35k38c_mqthmY6PCEvYei8R_Lz5dWTBCDdCnH6AoJTakgVhgoEQvd4q2svQFJ-sQOem5huAQGM7JDlVC4kDFU2oBHX0aKWA5XZwA0yfiHvUD2CpY=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEovuqQyVylKVYi88-GUNIGBf0CGM6EYgeyobMkRLdU5WW6nFKGQXAsxxQ-wdZGUcpySU1QXPtNK1sCDCYS2Y7pDcvBWe2wjQmX-Pmkn570xKmV9ItJTa7Eoy5N9AxDwL2V6VVZ_Kz9rDFwqNrl1vy9fcv_lsi8H2bikkTg",
+            "title": "lastwordonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg8g5XpxkgX3vSJK06RBjGSBK3YtFUez6H-ubN1yqmwTtqTn-MpJ075TXrRztu5e_S4LoqmvT1XhXaQjj9g2Na-Mff0H5OWtWAEc4-nerqdfgU3atM-Ka4qjHJj-pT7rhMtr8n6MEyXOP8LBjkGlQulVUKrBwcrm7IJdyGCpVLtWCp7PqBdd1m27gvnMnfikVAE0hIOMnTKMDvGMbsskpxQiY9iCo=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5H4YXlg0HmLk3kcgDvm8JbABCPUnrhkMkT1xZUMk4AW-S90JNXacc73dfjq-szprULSH-0SZQuRN08DCG7sGZ34A6yfbGN4S7-VmPC7UBTF1f_78X4HlA7c1XxOq92IdvDehGryJDmQtTnN4Sa6uaYkSwndgPBHR4qw==",
+            "title": "qz.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxt8KHKRnW0jDXSUaIU_GXAUYOElowR9obN_GTjyh5Jpvm9iB_iz6eyiE5kZXJpIuettOvM4uMoMqMA9fXFqY9uoOqv1E4D8E7DXNpef4DcsBthy0KfU4jrTpnnqHzHnMOG81gdEdfF_z7-L4G8_cfwVF-o8lEOoQR5uijC6KhOQCPcoyoz8LV-J9j70ndP_m--8hVT7m3a3yNyoGy-520hw==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6JgVv7xX7CJ_JggZfJhrXwgUWsI0Ft_8GI9J72u1C_7kimG9TLcXiMHVEc0pS97HcD72BK9iCrDk6nhJh597dHxpA72fLwLM9O9-BzhT5D4zzXcAAVop7I7obEWwgKcLjWhHVA4nMnx9NukG3_gShWnadFLTXgnl1dr8sScYaiLomgvso9-C_XhOp-WWN-7yoA2-oZoc4fPABTXeSES0=",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2snbkuNGNJFc_RfT7n2A8-cK6zIdhROkfqaXR2Aue4Zf6o_RP4m6hNnQdMOwkmoYtUomWZAc1mIHoabLNvGnyLXtp6sDFywkr-l4Vqv6d8B1tBXhQoyGkWCc8OyX2KbaUTCUlmu0qCU6_wzIze0J_nnKfgFi8kd-Efo1aFWkbCwD6vWM2o_ZExxPVAiRFDJcmg0fySOc=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7_EK-QCKcDAHSLAc4V28ZFwUPUcQ-inPT5wgiPoGzqchvH4VTneXZu3tyorwBtylOFY6JVqKWxrCSR66fSUxDqGS3jya61kAXxeB9u4IDlHGDUUi2_1Irmkycv9JgijGGyk_n6NVksE9DqaJpQWZry4PKsrNcG9UvolBfCxUP84tdGEgJiNjgvyQM4fVpm7URNAMRAmJ92RPfvg==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYWBorqTfxaAFt6IcT0Q9W8PcjBP32WFYQTdql6YBvYisdttV7ZtOfGS7QAoPVinnV5CaBf31DlRaV-VxI6DVq72vjQCsvOEhNcU-50jH2MJlMEfjdj6nKTEnNrBFGfO-LIuMgAH63lEbzK58TpFbzVhDDkK9HDayiKcfUWHMf7Q6dVOf-dmjXasJzHX98ddOirXE_ORpOy8KiDQ==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXv_aWYce_8rrpHVXEkFvQMlkeJSe5Yzs4rfocWBn3moaymOJviVukAUGbfi4nJMwxm1ephROqPlxA0wxyXy8WD_FoDE34niAzcw3KdGWAhao0XXBXw3_vWc5fxkgcVtwH0gSxQgEXcbrIkQU0iB6ibO1Rd7P0OudlA8Sd2momKoeGoMDvQRQYMw7Pw3h3vGGOrly0HwSgOOe5DvH0PJASHhQiKZc=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_fTi3JbVL_YfBoHGfW65h4e-F8ZybcAuLRPc-3CR8h7tNixo8z9RdXPyD6UgPpkqgjuuWbcMkoPDv9YgR-tWczSS66ZTZ4IsSFEeRiI5mANHi_WWgqj5WNOYHugFDi6QdJT3CVAo=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRNyMN5qyEEfmSBDIkwpv8pcKhujxRu1rBUe7GI-RTLTDRqCbLgg8G9H6mxOyJDb_feZTMs88Vh0jFNEAKhP01e6196kuL0uD55LgQo5cauFKoDyK8_0JSjzfA5rA8eU0=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDuHy2_vSZ5zXydTUlk2qUnkAXVjVRJpQpr3tJLZzi-4uJhcN3gvaa7TZJc53s9nFFb9WBQv87mx5vNiN-0A8avRUMj2xJXENPWuy6QV_b30W8k0ed10vUT11UsfrQ4jE=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXWb0E0BLeNu_UF66tCVsGlo0FG60xUkTDysLzlcfrtDJGEhVkw04Gh4ah8A1gYdU9lbROqXK0Qke3hbj8JT385P6B9R06eVMcToshK3IF7xMHj7Lax6OKx2JMTxtelhSHMwDiG18bnLl6aW2mlkb48LMAzsaKipk0T7q3rm5S9qkF-D_RTlraqQ-ILVp6nJE=",
+            "title": "raiders.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTt2mgR4MR2tyB3CcNFFeTth38ICJrLwpyt861w5-6wkd2lgOl5BMhlXRZsIGfYswfi-zqdsdm1GkilYo-Xsqc1rwELoOKWQwm2Kl3xXGK1-nzt5AEq9qq81LbkAZ-7x5Xqtx286dWE0tnq6j5HoNOhyPE9ZRlxaxySXwOGd3cNgrqJ0fLr7aznyY=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_8m5nu0ZeAL5YSOBmUfsnrXrU7fb1C9JNgyrrL0XVS6Ys-6w_HFpMLy46LV_PZyr9RzsHe1KuM_kuVcW1LMlYF0VT3LWMRphAeb_yHhnk0t9Mja388qePOgLyLTmERdtB",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG8ew29ZzfeJ_26eqFUl1WLvb6-LR3KRZ2DAwgpStYqpIF9Hy5-WhlHsCDWp1K_VNs7Db7NzIf5_WKidQVcUKfolb9FRRMM4OFkIo9sr09T7Ha7YZvn-UDfflu3xnbxE7hBbRBZiSEgNI-7_sYm303Fwv4gg==",
+            "title": "footballguys.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBbuAgg4hCPQVuSM-tXMtmJ68MlYdDBVFKss6DJQJnk4dLbTZ03KnsiubtIXSDgLw66V-tQYK5pDRF3RRF28E0rXmtko7NaID-lIVvPyPvzO30_3YtDIz2UalIfMaq6i0nYrlC-cvts90=",
+            "title": "ourlads.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Colston Loveland",
+          "Cam Skattebo",
+          "Nico Collins",
+          "Saquon Barkley",
+          "Zay Flowers",
+          "Rhamondre Stevenson",
+          "David Montgomery",
+          "Mike Washington Jr.",
+          "Malachi Fields"
+        ],
+        "aviCoreCommitSha": "9b4966884f26d7b6917ff29b5f9552d25dd32838",
+        "aviCoreCommittedAt": "2026-11-11T13:13:51Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 545219,
+        "personalContextProvided": true,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 252,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mwchzr43-6a576460",
