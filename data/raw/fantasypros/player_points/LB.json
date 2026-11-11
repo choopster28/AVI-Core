@@ -1619,7 +1619,7 @@
       "player_name": "Claudin Cherelus",
       "points": 0,
       "position_id": "LB",
-      "team_id": "FA",
+      "team_id": "CAR",
       "weeks": {
         "1": 0,
         "2": 0
@@ -2053,7 +2053,7 @@
       "player_name": "Daiyan Henley",
       "points": 80.25,
       "position_id": "LB",
-      "team_id": "LAC",
+      "team_id": "DEN",
       "weeks": {
         "1": 9.5,
         "2": 2.3,
@@ -4631,7 +4631,7 @@
       "player_name": "Jacob Bobenmoyer",
       "points": 0,
       "position_id": "LB",
-      "team_id": "FA",
+      "team_id": "IND",
       "weeks": {
         "6": 0
       }

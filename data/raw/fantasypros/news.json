@@ -1,7 +1,234 @@
 {
-  "count": 25,
+  "count": 24,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-10 21:49:07",
+      "created_formated": "Tue, Nov 10th 9:49pm UTC",
+      "desc": "The Falcons acquired offensive guard Andrew Vorhees and undisclosed draft compensation in exchange for offensive lineman Ryan Neuzil.",
+      "id": 619088,
+      "impact": "Baltimore and Atlanta swap offensive lineman. Vorhees will add depth at the guard position for the Falcons. ",
+      "link": "https://www.fantasypros.com/nfl/news/619088/andrew-vorhees-traded-to-falcons.php",
+      "player_id": 23836,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Andrew Vorhees traded to Falcons "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-10 21:47:48",
+      "created_formated": "Tue, Nov 10th 9:47pm UTC",
+      "desc": "The Ravens acquired offensive lineman Ryan Neuzil from the Atlanta Falcons in exchange for offensive guard Andrew Vorhees and undisclosed draft compensation.",
+      "id": 619087,
+      "impact": "It is a swap of offensive lineman between Baltimore and Atlanta. Neuzil will add depth for Baltimore. ",
+      "link": "https://www.fantasypros.com/nfl/news/619087/ryan-neuzil-traded-to-ravens.php",
+      "player_id": 23415,
+      "sport_id": "NFL",
+      "team_id": "ATL",
+      "title": "Ryan Neuzil traded to Ravens"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-10 20:59:02",
+      "created_formated": "Tue, Nov 10th 8:59pm UTC",
+      "desc": "Kyle McCord will start for the Dolphins in Week 10 against the Colts. ",
+      "id": 619077,
+      "impact": "Malik Willis was placed on injured reserve on Tuesday. McCord will take over for him behind center. ",
+      "link": "https://www.fantasypros.com/nfl/news/619077/kyle-mccord-to-start-qb-dolphins.php",
+      "player_id": 23066,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Kyle McCord to start at QB for Dolphins "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-10 20:56:31",
+      "created_formated": "Tue, Nov 10th 8:56pm UTC",
+      "desc": "The Titans are not trading RB Tony Pollard. ",
+      "id": 619076,
+      "impact": "Pollard will remain in Tennessee the rest of the season. He should remain a steady RB2 for fantasy managers. ",
+      "link": "https://www.fantasypros.com/nfl/news/619076/tony-pollard-will-not-be-traded.php",
+      "player_id": 18705,
+      "sport_id": "NFL",
+      "team_id": "TEN",
+      "title": "Tony Pollard will not be traded"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-11-10 20:55:20",
+      "created_formated": "Tue, Nov 10th 8:55pm UTC",
+      "desc": "The Dolphins are placing QB Malik Willis on injured reserve. ",
+      "id": 619075,
+      "impact": "Willis has been battling a groin injury that impacted his mobility. He underwent an MRI that showed it has now developed into a core muscle injury. He will miss at least the next four weeks. ",
+      "link": "https://www.fantasypros.com/nfl/news/619075/malik-willis-groin-placed-on-ir.php",
+      "player_id": 23499,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Malik Willis (groin) placed on IR"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-11-10 20:38:01",
+      "created_formated": "Tue, Nov 10th 8:38pm UTC",
+      "desc": "The Colts are trading wide receiver Josh Downs to the Chiefs.",
+      "id": 619074,
+      "impact": "Downs had requested a trade and now officially gets his request as he joins Patrick Mahomes and Kansas City. The Chiefs were looking to address their wide receiver room and they do so here bringing in Downs. He should be the No. 2 target for Mahomes behind Rashee Rice. ",
+      "link": "https://www.fantasypros.com/nfl/news/619074/josh-downs-traded-to-chiefs.php",
+      "player_id": 24706,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Josh Downs traded to Chiefs "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-10 20:35:17",
+      "created_formated": "Tue, Nov 10th 8:35pm UTC",
+      "desc": "The Colts signed WR Nick Westbrook-Ikhine to their active roster. ",
+      "id": 619073,
+      "impact": "Westbrook-Ikhine will add depth in the wide receiver room for Indianapolis after trading Keenan Allen. ",
+      "link": "https://www.fantasypros.com/nfl/news/619073/nick-westbrook-ikhine-signs-with-colts-active-roster.php",
+      "player_id": 19747,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Nick Westbrook-Ikhine signs with Colts active roster"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-10 20:19:14",
+      "created_formated": "Tue, Nov 10th 8:19pm UTC",
+      "desc": "The Panthers are opening up the practice window for WR Xavier Legette this week. ",
+      "id": 619072,
+      "impact": "Legette will have 21 days to officially be activated by Carolina. ",
+      "link": "https://www.fantasypros.com/nfl/news/619072/xavier-legette-knee-to-return-to-practice-this-week.php",
+      "player_id": 26136,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Xavier Legette (knee) to return to practice this week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-10 20:18:26",
+      "created_formated": "Tue, Nov 10th 8:18pm UTC",
+      "desc": "The Panthers released WR David Moore. ",
+      "id": 619071,
+      "impact": "Moore will figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/619071/david-moore-released-by-panthers.php",
+      "player_id": 16757,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "David Moore released by Panthers "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-10 20:17:07",
+      "created_formated": "Tue, Nov 10th 8:17pm UTC",
+      "desc": "The Broncos are trading for LB Daiyan Henley.",
+      "id": 619070,
+      "impact": "Henley has recorded one interception and one forced fumble this season for the Chargers. He will add depth in the Broncos linebacker room. ",
+      "link": "https://www.fantasypros.com/nfl/news/619070/daiyan-henley-traded-to-broncos.php",
+      "player_id": 25436,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "Daiyan Henley traded to Broncos "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-11-10 20:14:40",
+      "created_formated": "Tue, Nov 10th 8:14pm UTC",
+      "desc": "The Colts won't trade RB Jonathan Taylor by Tuesday's deadline. ",
+      "id": 619069,
+      "impact": "Pelissero notes that multiple teams offered a second-round pick and more for Taylor, but the Colts wanted more in a deal for him. He'll remain in Indianapolis. ",
+      "link": "https://www.fantasypros.com/nfl/news/619069/jonathan-taylor-will-not-be-traded-by-colts.php",
+      "player_id": 19217,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Jonathan Taylor will not be traded by Colts"
+    },
+    {
+      "author": "Kelly Kirby",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-11-10 19:46:04",
+      "created_formated": "Tue, Nov 10th 7:46pm UTC",
+      "desc": "Kirk Cousins and the Raiders are finalizing a deal to trade the QB to the Vikings. Reports say Minnesota is sending Las Vegas a third-round pick in the deal.",
+      "id": 619067,
+      "impact": "Cousins spent six years in Minnesota, where he threw for 23,265 yards and 171 touchdowns in 88 games with a passer rating of 101.2. He will reunite with an offense he knows, which increases the fantasy value for Minnesota pass catchers, particularly Justin Jefferson. Cousins remains fantasy relevant as a high-end QB2 with some low-end QB1 potential.",
+      "link": "https://www.fantasypros.com/nfl/news/619067/kirk-cousins-traded-to-vikings.php",
+      "player_id": 11177,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Kirk Cousins traded to Vikings"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-10 20:07:07",
+      "created_formated": "Tue, Nov 10th 8:07pm UTC",
+      "desc": "Raiders QB Fernando Mendoza will make his first career start in Week 10 against the Seahawks. ",
+      "id": 619068,
+      "impact": "With Kirk Cousins traded to the Vikings, Mendoza is set to take over the rest of the season for the Raiders. The rookie will face a pair of tough tests in his first two starts against the Seahawks and Broncos. ",
+      "link": "https://www.fantasypros.com/nfl/news/619068/fernando-mendoza-to-start-week-10-against-seattle.php",
+      "player_id": 28013,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Fernando Mendoza to start in Week 10 against Seattle "
+    },
     {
       "author": "Ari Koslow",
       "categories": [
@@ -72,23 +299,6 @@
       "sport_id": "NFL",
       "team_id": "NYG",
       "title": "J.J. McCarthy (hip) practices Tuesday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-10 18:30:55",
-      "created_formated": "Tue, Nov 10th 6:30pm UTC",
-      "desc": "The Vikings have identified Raiders QB Kirk Cousins as a prime trade candidate ahead of Tuesday's trade deadline. ",
-      "id": 619062,
-      "impact": "Minnesota is expected to make a move for a quarterback ahead of the deadline. This will remain a situation to monitor. ",
-      "link": "https://www.fantasypros.com/nfl/news/619062/kirk-cousins-identified-prime-trade-candidate-vikings.php",
-      "player_id": 11177,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Kirk Cousins identified as prime trade candidate for Vikings"
     },
     {
       "author": "Ari Koslow",
@@ -210,236 +420,6 @@
       "sport_id": "NFL",
       "team_id": "MIA",
       "title": "Zach Sieler out for season with ruptured biceps "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-10 17:29:31",
-      "created_formated": "Tue, Nov 10th 5:29pm UTC",
-      "desc": "The Commanders placed Lucas Patrick in concussion protocol. ",
-      "id": 619038,
-      "impact": "Patrick will likely sit Thursday's game against the Giants. ",
-      "link": "https://www.fantasypros.com/nfl/news/619038/lucas-patrick-placed-concussion-protocol.php",
-      "player_id": 16205,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Lucas Patrick placed in concussion protocol "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-10 17:25:21",
-      "created_formated": "Tue, Nov 10th 5:25pm UTC",
-      "desc": "The Bengals and Eagles deal for DE Arnold Ebiketie has fallen through and will not happen. ",
-      "id": 619035,
-      "impact": "The Bengals had moved a 6th-round pick for Ebiketie. The trade falling through is not physical or performance related. ",
-      "link": "https://www.fantasypros.com/nfl/news/619035/arnold-ebiketie-trade-falls-through.php",
-      "player_id": 23720,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Arnold Ebiketie trade falls through "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-10 17:22:22",
-      "created_formated": "Tue, Nov 10th 5:22pm UTC",
-      "desc": "The Falcons signed kicker Jake Moody. ",
-      "id": 619032,
-      "impact": "Moody will kick for Atlanta with Nick Folk released. ",
-      "link": "https://www.fantasypros.com/nfl/news/619032/jake-moody-signs-with-falcons.php",
-      "player_id": 24009,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Jake Moody signs with Falcons "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-10 17:21:08",
-      "created_formated": "Tue, Nov 10th 5:21pm UTC",
-      "desc": "The Falcons released kicker Nick Folk. ",
-      "id": 619031,
-      "impact": "Folk went 13-for-18 on field goal attempts. Atlanta signed Jake Moody as the corresponding move. ",
-      "link": "https://www.fantasypros.com/nfl/news/619031/nick-folk-released-by-falcons.php",
-      "player_id": 9491,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Nick Folk released by Falcons "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-10 15:58:45",
-      "created_formated": "Tue, Nov 10th 3:58pm UTC",
-      "desc": "Former Packers first-round draft pick and starting safety Darnell Savage is healthy again. ",
-      "id": 619018,
-      "impact": "Savage has 371 career tackles and 10 interceptions in the NFL. He'll figure to seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/619018/darnell-savage-jr-is-healthy.php",
-      "player_id": 18408,
-      "sport_id": "NFL",
-      "team_id": "FA",
-      "title": "Darnell Savage Jr. is healthy "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-10 15:56:59",
-      "created_formated": "Tue, Nov 10th 3:56pm UTC",
-      "desc": "The Jaguars are not expected to trade WR Brian Thomas Jr. ",
-      "id": 619017,
-      "impact": "Jacksonville plans to keep its roster intact after making some big trades on Monday. Fowler notes the Jaguars have told teams they plan to keep Thomas. ",
-      "link": "https://www.fantasypros.com/nfl/news/619017/brian-thomas-jr-not-expected-to-be-traded.php",
-      "player_id": 23000,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Brian Thomas Jr. not expected to be traded"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-10 15:24:02",
-      "created_formated": "Tue, Nov 10th 3:24pm UTC",
-      "desc": "Max Brosmer completed 6-of-7 passes for 58 yards in Monday's 23-6 loss to the BIlls. ",
-      "id": 619016,
-      "impact": "After Carson Wentz struggled terribly in this game, Brosmer came on in relief to lead the Vikings' final drive. The second-year QB actually did okay, but he's most likely to remain in a backup role for the Vikings moving forward. ",
-      "link": "https://www.fantasypros.com/nfl/news/619016/max-brosmer-decent-mop-up-duty-monday-night.php",
-      "player_id": 27580,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Max Brosmer decent in mop-up duty Monday night "
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-10 15:19:47",
-      "created_formated": "Tue, Nov 10th 3:19pm UTC",
-      "desc": "Carson Wentz completed only 8-of-25 passes for 81 yards with no touchdowns and two interceptions in Monday's 23-6 loss to the Bills. ",
-      "id": 619015,
-      "impact": "Earlier this season, Wentz had some bright moments at the helm of the Vikings' offense. That's a distant memory now, as the veteran QB couldn't even finish Monday's contest without being benched in favor of third-stringer Max Brosmer. Wentz may have very well played his final snaps for the Vikings. ",
-      "link": "https://www.fantasypros.com/nfl/news/619015/carson-wentz-absolutely-awful-monday-night-loss.php",
-      "player_id": 15520,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Carson Wentz absolutely awful in Monday night loss"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-10 15:15:04",
-      "created_formated": "Tue, Nov 10th 3:15pm UTC",
-      "desc": "Aaron Jones Sr. gained 16 yards on five carries and caught his only target for five yards in Monday's 23-6 loss to the Bills. ",
-      "id": 619014,
-      "impact": "Jones' paltry production in this one wasn't the result of backfield mate Jordan Mason seeing a surge in touches, as the latter finished with just seven of his own. The Vikings' offense is all out of sorts at the moment, and their RB tandem is suffering as a result. Jones looked like he might have found the Fountain of Youth earlier this season, but over the last three weeks, the veteran has given fantasy managers next to nothing. ",
-      "link": "https://www.fantasypros.com/nfl/news/619014/aaron-jones-sr-gets-just-six-touches-on-monday-night.php",
-      "player_id": 16673,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Aaron Jones Sr. gets just six touches on Monday night"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-10 15:10:43",
-      "created_formated": "Tue, Nov 10th 3:10pm UTC",
-      "desc": "Jordan Mason rushed for 35 yards on six carries and added just seven yards on two receptions in Monday's 23-6 loss to the Bills. ",
-      "id": 619013,
-      "impact": "Mason missed a large chunk of the season early on. Then, he returned to gain 68 yards on 15 carries in a win over the Colts in Week 7. Any encouragement that resulted from that performance is gone now, as the Vikings just cannot get things together on offense. Mason has gained 55 yards on just 14 carries combined over the last two games. He's a bench stash for fantasy purposes right now. ",
-      "link": "https://www.fantasypros.com/nfl/news/619013/jordan-mason-totals-42-yards-on-monday-night.php",
-      "player_id": 22969,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Jordan Mason totals 42 yards on Monday night"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-10 15:07:16",
-      "created_formated": "Tue, Nov 10th 3:07pm UTC",
-      "desc": "Justin Jefferson hauled in only 3-of-11 targets for 58 yards in Monday's 23-6 loss to the Bills. ",
-      "id": 619012,
-      "impact": "Jefferson is one of the league's top talents at wide receiver. Still, the Vikings' inept quarterback play so far this season has turned the All-Pro into an inconsistent, boom-or-bust asset for fantasy managers. Jefferson is in the low-end WR2 discussion at present, but if the Vikings can figure things out at QB, he would fly back up the rankings. ",
-      "link": "https://www.fantasypros.com/nfl/news/619012/justin-jefferson-catches-three-passes-week-9-loss.php",
-      "player_id": 19236,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Justin Jefferson catches three passes in Week 9 loss"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-10 15:03:10",
-      "created_formated": "Tue, Nov 10th 3:03pm UTC",
-      "desc": "Jordan Addison caught 2-of-3 targets for 28 yards in Monday's 23-6 loss to the Bills. ",
-      "id": 619011,
-      "impact": "Addison has now finished with two or fewer receptions four times in seven games this season, as the inconsistent quarterback play in Minnesota this season has really limited his production. The speedy receiver possesses big-play ability, but if the Vikings don't figure things out at QB, Addison will remain a highly volatile fantasy option. ",
-      "link": "https://www.fantasypros.com/nfl/news/619011/jordan-addison-finishes-with-28-yards-monday-night.php",
-      "player_id": 23107,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Jordan Addison finishes with 28 yards Monday night"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-10 14:59:11",
-      "created_formated": "Tue, Nov 10th 2:59pm UTC",
-      "desc": "T.J. Hockenson caught 4-of-7 targets for 33 yards in Monday's 23-6 loss to the Bills. ",
-      "id": 619010,
-      "impact": "Hockenson actually led the Vikings in receptions Monday night, but the offense was pretty much shut down on the whole. The veteran TE has had a decent season to this point despite lacking QB play for the Vikings. Hockenson had scored in two straight games going into Monday night, and he's now caught four passes in three consecutive weeks. ",
-      "link": "https://www.fantasypros.com/nfl/news/619010/tj-hockenson-hauls-four-passes-monday-night.php",
-      "player_id": 18290,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "T.J. Hockenson hauls in four passes Monday night"
     }
   ],
   "public_api": true,

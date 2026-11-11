@@ -126,7 +126,7 @@
     },
     {
       "cbs_player_id": "3171163",
-      "player_age": "24",
+      "player_age": "25",
       "player_bye_week": "11",
       "player_ecr_delta": null,
       "player_eligibility": "LB",
@@ -414,8 +414,8 @@
     },
     {
       "cbs_player_id": "2866310",
-      "player_age": "26",
-      "player_bye_week": "7",
+      "player_age": "27",
+      "player_bye_week": "10",
       "player_ecr_delta": null,
       "player_eligibility": "LB",
       "player_filename": "daiyanhenley.php",
@@ -428,7 +428,7 @@
       "player_position_id": "LB",
       "player_positions": "LB",
       "player_short_name": "D. Henley",
-      "player_team_id": "LAC",
+      "player_team_id": "DEN",
       "player_yahoo_id": "40113",
       "player_yahoo_positions": "LB",
       "pos_rank": "LB18",

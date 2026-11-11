@@ -693,7 +693,7 @@
       "player_name": "Treyton Welch",
       "points": 0,
       "position_id": "TE",
-      "team_id": "FA",
+      "team_id": "NO",
       "weeks": {
         "1": 0,
         "2": 0,
@@ -2352,7 +2352,7 @@
       "player_name": "Hayden Rucci",
       "points": 7.7,
       "position_id": "TE",
-      "team_id": "LAC",
+      "team_id": "FA",
       "weeks": {
         "3": 0,
         "4": 0,
@@ -2523,7 +2523,7 @@
       "player_name": "Nick Vannett",
       "points": 0,
       "position_id": "TE",
-      "team_id": "BAL",
+      "team_id": "FA",
       "weeks": {
         "5": 0,
         "6": 0,

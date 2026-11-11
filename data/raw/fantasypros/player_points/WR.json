@@ -2000,7 +2000,7 @@
       "player_name": "Xavier Smith",
       "points": 0,
       "position_id": "WR",
-      "team_id": "SF",
+      "team_id": "LAR",
       "weeks": {
         "1": 0,
         "2": 0,
@@ -2907,7 +2907,7 @@
       "player_name": "Josh Downs",
       "points": 75.1,
       "position_id": "WR",
-      "team_id": "IND",
+      "team_id": "KC",
       "weeks": {
         "1": 5.7,
         "2": 14.2,
@@ -3617,7 +3617,7 @@
       "player_name": "David Moore",
       "points": 1.7000000000000002,
       "position_id": "WR",
-      "team_id": "CAR",
+      "team_id": "FA",
       "weeks": {
         "3": 0,
         "4": 0,
@@ -4131,7 +4131,7 @@
       "player_name": "David Sills V",
       "points": 0,
       "position_id": "WR",
-      "team_id": "TB",
+      "team_id": "FA",
       "weeks": {
         "7": 0,
         "8": 0,

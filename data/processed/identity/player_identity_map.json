@@ -2511,9 +2511,9 @@
     "sleeper_id": "13394"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "24706",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "IND",
     "player_name": "Josh Downs",
     "position": "WR",
@@ -2862,9 +2862,9 @@
     "sleeper_id": "11647"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "11177",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "LVR",
     "player_name": "Kirk Cousins",
     "position": "QB",
@@ -4500,9 +4500,9 @@
     "sleeper_id": "12520"
   },
   {
-    "confidence": "review",
+    "confidence": "verified",
     "fantasypros_id": "25627",
-    "match_method": "exact_name_position",
+    "match_method": "exact_name_position_unique",
     "nfl_team": "LAR",
     "player_name": "Xavier Smith",
     "position": "WR",

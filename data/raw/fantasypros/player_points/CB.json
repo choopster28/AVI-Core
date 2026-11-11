@@ -3433,7 +3433,7 @@
       "player_name": "Reddy Steward",
       "points": 14.25,
       "position_id": "CB",
-      "team_id": "DAL",
+      "team_id": "FA",
       "weeks": {
         "3": 1.5,
         "4": 6,
@@ -3842,7 +3842,7 @@
       "player_name": "Sean Fresch Jr.",
       "points": 0,
       "position_id": "CB",
-      "team_id": "DEN",
+      "team_id": "FA",
       "weeks": {
         "5": 0,
         "6": 0,
@@ -3902,7 +3902,7 @@
       "player_name": "Alijah Huzzie",
       "points": 0,
       "position_id": "CB",
-      "team_id": "JAC",
+      "team_id": "FA",
       "weeks": {
         "6": 0
       }
@@ -4126,7 +4126,7 @@
       "player_name": "AJ Woods",
       "points": 0,
       "position_id": "CB",
-      "team_id": "BUF",
+      "team_id": "FA",
       "weeks": {
         "8": 0
       }
