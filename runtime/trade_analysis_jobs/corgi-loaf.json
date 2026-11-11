@@ -1,5 +1,40 @@
 [
   {
+    "id": "mwch0ali-f4b03af7",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "goal": "Win Championship",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Derrick Henry",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Mike Washington Jr.",
+          "assetType": "player"
+        },
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "I dont want to give up starters"
+    },
+    "createdAt": 1794422806349,
+    "updatedAt": 1794422806349,
+    "expiresAt": 1794854806349,
+    "status": "queued"
+  },
+  {
     "id": "mwcgwm4n-8b6d7ff8",
     "phase": "initial",
     "mode": "propose_trade",
