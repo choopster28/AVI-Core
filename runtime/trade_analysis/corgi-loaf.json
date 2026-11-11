@@ -1,5 +1,339 @@
 [
   {
+    "id": "mwchzr43-6a576460",
+    "createdAt": 1794424475316,
+    "expiresAt": 1794856475316,
+    "mode": "analyze_trade",
+    "title": "Final Trade Analysis · Corgi Loaf Baking Co. ↔ Conquistadors",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "personalContext": "Jonathan might be bad rest of season with no offense around him, worried saquon gets shut down as the season ends\n\nAdditional context: Who can I add without giving away a starter",
+      "goal": "Win Championship",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jonathan Taylor",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Applying the user's personal context regarding Jonathan Taylor's uncertain offensive situation and Saquon Barkley's late-season shutdown risk reframes the strategy. Rather than trading valuable starting assets to acquire Taylor, Corgi Loaf Baking Co. should target alternative depth or hold firm to avoid overpaying for a high-volume back with major environment concerns while protecting current starting roster pieces.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 52.1,
+              "davi": 83.9,
+              "publicMarket": 82.5,
+              "leagueMarket": 83
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jonathan Taylor",
+              "assetType": "player",
+              "owner": "Conquistadors",
+              "position": "RB",
+              "age": 27,
+              "cavi": 84.6,
+              "davi": 93.8,
+              "publicMarket": 94,
+              "leagueMarket": 93.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A+",
+            "otherGrade": "D-",
+            "userShare": 75,
+            "otherShare": 25,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Corgi Loaf Baking Co. secures a major value win in the submitted 1-for-1 proposal, but the user's concerns about Taylor's offensive environment and Barkley's late-season durability alter the risk profile."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 50,
+              "summary": "Corgi Loaf Baking Co. secures a major value win in the submitted 1-for-1 proposal, but the user's concerns about Taylor's offensive environment and Barkley's late-season durability alter the risk profile."
+            },
+            "championshipOutlook": {
+              "score": 40,
+              "summary": "Maintains current lineup flexibility without sacrificing critical depth pieces."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Preserves core dynasty assets and future draft capital."
+            },
+            "lineupQuality": {
+              "score": 50,
+              "summary": "Keeps starting lineup intact while avoiding risky investments."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Protects existing roster depth from unnecessary depletion."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Retains trade liquidity by avoiding unfavorable market buys."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -50,
+              "summary": "Corgi Loaf Baking Co. secures a major value win in the submitted 1-for-1 proposal, but the user's concerns about Taylor's offensive environment and Barkley's late-season durability alter the risk profile."
+            },
+            "championshipOutlook": {
+              "score": 0,
+              "summary": "No change to active contender roster."
+            },
+            "dynastyOutlook": {
+              "score": 0,
+              "summary": "No change to long-term asset valuation."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "No change to weekly starting lineup."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "No change to bench stability."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "No change to asset marketability."
+            }
+          },
+          "explanation": "Factoring in the user's valid reservations about Jonathan Taylor's offensive environment and Saquon Barkley's late-season shutdown risk, the recommended course of action shifts toward declining the trade and protecting starting roster depth."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf Baking Co. increases starting RB C-AVI from 52.1 to 84.6 (+32.5 points), replacing an injured starter experiencing snap limits with a heavy-volume centerpiece.",
+          "sideADynastyImpact": "Dynasty value increases from 83.9 to 93.8 (+9.9 D-AVI), solidifying long-term backfield strength with an age-27 RB under contract through 2028.",
+          "sideARosterImpact": "Locks in an elite RB1, enabling Rhamondre Stevenson, Cam Skattebo, and David Montgomery to fill FLEX and depth roles.",
+          "sideBChampionshipImpact": "Conquistadors suffers a major blow to title odds, dropping RB2 C-AVI from 84.6 to 52.1 next to Bijan Robinson.",
+          "sideBDynastyImpact": "Dynasty portfolio drops by -9.9 D-AVI while adding two years of age at running back.",
+          "sideBRosterImpact": "Leaves the backfield reliant on an injured Barkley and non-starting depth like Kaelon Black and Seth McGowan.",
+          "valueAssessment": "Net asset value heavily favors Side A (+32.5 C-AVI, +9.9 D-AVI). Straight swap represents an unacceptable loss for Side B."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty markets heavily value Jonathan Taylor over Saquon Barkley. Taylor signed a 2-year $44M extension through 2028, and the Colts rejected high draft-capital offers at the deadline. Barkley remains in Philadelphia after the Eagles declined trades, but nagging back/hamstring injuries and a 2-7 Eagles record depress his current market value.",
+          "aviVsMarket": "AVI C-AVI (84.6 vs 52.1) accurately reflects current availability and production risk, aligning with public dynasty market consensus that places Taylor a tier above Barkley.",
+          "relevantContext": [
+            "Indianapolis Colts retained Jonathan Taylor past the 2026 trade deadline, confirming his status as their primary offensive engine.",
+            "Saquon Barkley has been limited by back and hamstring ailments, playing restricted snap counts in recent weeks.",
+            "Philadelphia Eagles sit at 2-7, introducing late-season workload management and shutdown risks for Barkley."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Conquistadors is a Champion Favorite with no incentive to move Taylor for an unfavorable return.",
+          "packageFit": "User constraints prevent giving away starting depth pieces to bridge the value gap.",
+          "lineupReplacement": "Corgi Loaf Baking Co. maintains current weekly starters without disruption.",
+          "competitiveWindowFit": "Protects the user's competitive window by avoiding risky transactions.",
+          "positionalScarcity": "Elite running back scarcity remains high in a 16-team league."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 2,
+            "packageMatch": 0,
+            "lineupReplacement": 1,
+            "competitiveWindow": 1
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 19,
+          "classification": "Impossible",
+          "explanation": "Given user reservations regarding Jonathan Taylor's offense and Saquon Barkley's shutdown risk, combined with the refusal to surrender starting depth, no viable trade structure exists."
+        },
+        "verdict": {
+          "decision": "Decline",
+          "rationale": "Considering user concerns regarding Jonathan Taylor's poor offensive environment and Saquon Barkley's late-season shutdown risk, paired with the mandate not to give away starting depth, the optimal decision is to decline and hold current assets.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "User risk concerns regarding player environments and unwillingness to sacrifice starting depth.",
+          "summary": "User evaluation of Jonathan Taylor's offensive context and Saquon Barkley's shutdown risk, alongside strict roster constraints against trading starters, makes a deal untenable.",
+          "failedFactors": [
+            {
+              "factor": "userConstraint",
+              "explanation": "User refuses to give away starting depth to bridge value gaps."
+            },
+            {
+              "factor": "managerMotivation",
+              "explanation": "Conquistadors has no motivation to trade Taylor for an inadequate return."
+            }
+          ],
+          "opponentPerspective": "Conquistadors requires elite replacement value for a cornerstone running back during a championship run.",
+          "userConstraintImpact": "Protecting starting depth prevents matching the market cost required to acquire Taylor.",
+          "closestPathToDeal": "None under current user constraints and risk assessments.",
+          "whatWouldNeedToChange": [
+            "Significant shift in Jonathan Taylor's offensive environment",
+            "Assurance of Saquon Barkley's durability"
+          ]
+        },
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Considered user concerns regarding Jonathan Taylor potentially struggling due to a weak supporting offense and Saquon Barkley facing late-season shutdown risk, alongside the constraint of not wanting to give away starting players. This resulted in a recommendation to decline the trade and stand pat."
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Saquon Barkley stats 2025 2026",
+          "Saquon Barkley news 2026",
+          "Jonathan Taylor news 2026",
+          "Jonathan Taylor stats 2025 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFes7MSoAqAHS9NaqrCzBEjCIExEu-Ce3VOTMVxdJWYXp--PPf1_r1m38qsuEPeJBmzSDIJsDgiuiJLxxRjHnmtHb2vqUmMWWtxDSamY-fzyqzoJcIFWIQj5zSODDwgqjBfqP-Ursp_Bfx_Sw1kTmZbBXO8eBqqgqtTrqidnDIWZztimWMDrslUqxsZmNiWWnJhhVIbXHs8XVdDJCKWMQEEEdN0",
+            "title": "phillyvoice.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvdmFRScggsu-8KvOmveeUTgw8CKuLd9k5Dtysp0B-2BBN6mKtuLxhP7HfF3nvUd-VcnYfVaF_deJQ1TlF4gEBvQgFdZ1aqZV7gGv_Wx2oyJAZ0MhqELC3FM0l0RXI6iHH44O4ZG7hbUfIgCSgZboEL0f1MVMMnoE6RkKrLH_8KIhhtvWqGi3VBYY9h7BpBiWsOY6rlDEUeaiL3Xj3Xtw=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7KNGw8sBz7IKnBR4snP0jhE3KxRrwf86a-hKCEQIL2ABHd17Js7WaFQ5NcQ3Q-t66HvDkg1SU-4icC71iETNjYqDCdKMLPY531PkCkk0P44VpnWRwbtM74gwLzPdfX2LIdnIGUGxGg-G2oqra4aDZC1r1L-IQO5RDbq_9",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF-M0aEk5Kp3SLSDv6UkEfnTEQ3ci_KfxtpTlI7Y4Fr9P6e4xTAQ6l35Fdtzb8bks2HokGJ6qEmgVgUe0wKuRwS_fDUGso-QknIM2ywIIH0spRiqoCgil408nnFTJP4MafIrpzHK5YdDv__YfRaxP997TWKrlmt5vxNGBKJTnNify32YXa2-Wqx3-uIg2H1rbkEYt3FqqvkJv7NFe2IDL8Au3pYwJhoDmfl0OvvAXTnw==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU6J4FV0QKKbS29xpfbmuiACEfu86fAzb06-CDk10yhDBeDeCSzoLPqH4_UM_bqr8g179K-0w8wrIodg5DXDfYzMOxAe7mvkklNLvas6fo7S_nxuAyu_Pjh87dVodABbe_-ItQbQpWadNanQGNaw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsLAbGw1eaarcXFO2z8za6bxsi8NKx9tUi6cMVP7uJKxTu5WTkAZL3BxG2C90AXTOWMir8lMJsk3da4j8O32ssDrk0QGYhcmNc3AdXXMJzO6OaOuUPT6rq9dtVweB7wOvAk6mJJzIZ",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm-7eYCyMJN220sj1dyn4__OFGUQI7XmDi1iMGkZee70BXAWaNRDAwIzwlFyZm5lzntqgd9k0BgJu3o6dT0EAF4YYHERaa8UcNuyBr7-qfQahPGUNFeBdMSkzLfE_pek18",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLR_3BbfXA5GGAvrUeboq2QhLjG_1owjKwCbApYAn389BO4blSzLkccLYopEvKom9qzEo8gUOhOr62fUEsA558_ZzPFQNOdW6FiTbmp4sg-hdBz-u8EMvj0T4oFEpZBKzIrcc_sbqW4WQTa6i1WnoaNm9m",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXCur_wJ9A9KrhJmFl_jSH5UT5f7nTcr09GFOsN4eAWUw8L2MgJTiLOSW5g85XIdKGozg45gVOhoFGdEsWvGP-AR8475E1I8TCb317YO-ydP_AGnftmnGNYZLgICtj6MRRdN2YZRWb2rk7Cau-bgD2mdEwXiGz0IDpT5t5Kg==",
+            "title": "bleachernation.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh41gEmNCnxAVtC5fRb9T38KWaH01JcXW7eaXuC2o0gpD-pGDNfh59-UeDLX6Owgblst-6fVmrfQJf-B_8eAUatTzkMWtnPHL2DBGP_LaRko-bVq5rwHPix3RTJoyia0ak",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWuDGof2BT_PYibsWbLO3ZzvLIeoTxZTs8psfeF3CwVNlWFPhNyaCN6-ZMYIiSqTav83YkC4zfDyIoJms1ZF1MAX3Emji_D9a1fyZSByYTsP0WNRgBk4y8GzZbvhZayKC_bTTnuoNfXrZqBnnpTxMHyFihs-pEO-ADtBuPGc15WknE40UMbbg-kE9nsk0=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC4gaE2uvBT-wbKTJ0v9yKgv8w-hZu9TLr6nNgXNqRFUvVEeOgO8K2XHUea4B3EyQk_stzxd4F8YF2ii5fzIjizWmvxZw_mr02Q1rN6eJqzj7wD0hI5t1S92qUzF81NtO0LUB9zicl-iylPDd3702y-FVLVg==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb5KNE9C9_odoRgWD4OH9RKaQyQsn3fFMXj_ipR6jNWZ8G5ft2k9bkENa_cBl1OknRem_U34WpkOMoaRDHCAU5yTghWlKO3oaAEvEbkaKt-ueA15U8zJSkDPi8e6nuVjoVonBUFCi0ZJUa22Z3JYuxSXOsyU07Qg==",
+            "title": "gridirontrivia.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE12Pakio5MiwjQhHqXbSvtoCWU220Ai8PJOwae7nCFdrjuv2M32LSgnBVii035dK47Bh9J6GMtnV4OehH-_2R4135ZAjIMojhs5tScwEMbCB7kKlV3cRlosYNnrLd80DD0KaOJohF58w==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcnV5C0kkY3XfUKRVyKhUh4G2Uof_Kq8D-7zjr28UEFC19b3Ul_H5WxpRP9KjLsGIcpPgp9cIhzLwOR4OHGWekZ5ZjR1bQxEjUOGEZwuGAKjK0_1uxIlrOVqKO3KFMlboPhpJLAhSoNn3vLaknf2anccUAQpt8kclNhA==",
+            "title": "statmuse.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHel2c7jOcv_PEg0vREcRuvyr32zbhTMQ1XaxbT6QJzTm--JjaYB2fGToqNuQt3pYLIiWRIrX9lViJ9glaIyV0rgP_cxVRbsqJSPv52GR2IRY0iGVur02nVWRBa6iwtAPmjrw==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUq_EUHNEms4-kWXAiRX48gR5Coot_JBFYET5m3cR-SBJjyaCOyUkH8F09NVye3X2zUDEYmt2bcMatQ3DQqTFlm_ZCcdEVXOwIfsCSFbJcVnJAcr5viNU3087P7agI3H3boI1khyU68uaCpfG92Q==",
+            "title": "sumersports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzuoSMTwtgiqy4iTu2uf1ao13joyP48zoTqEGdtzyI2-EEjAngt9howW4UdCtXhNIJCp-ZJ23JSbBn8KlGuO0WKKh9Ej0LpPn89ItBqPMeS2BKQnzMB27hPsz_Yu-4BZfd9OP8-MUjWerOc02FxbuymcSLzR9uDqvFGRDF6g4-ZOfRnsSuMI8Q3c94",
+            "title": "foxsports.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "9b4966884f26d7b6917ff29b5f9552d25dd32838",
+        "aviCoreCommittedAt": "2026-11-11T13:13:51Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 93057,
+        "groundedMarketChars": 5084,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": true,
+        "factualWarnings": [],
+        "safeNarrativeEdits": [],
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mwchxcz6-ebbd03c3",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "9b4966884f26d7b6917ff29b5f9552d25dd32838"
+      }
+    }
+  },
+  {
     "id": "mwchxcz6-ebbd03c3",
     "createdAt": 1794424436213,
     "expiresAt": 1794856436213,
