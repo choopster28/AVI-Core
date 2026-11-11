@@ -32,9 +32,408 @@
       "alternateAssets": []
     },
     "createdAt": 1794431951579,
-    "updatedAt": 1794431953200,
+    "updatedAt": 1794432086817,
     "expiresAt": 1794863951579,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This proposal features Corgi Loaf Baking Co. sending RB Saquon Barkley and WR DJ Moore to Mile High Royal Lions in exchange for WR Garrett Wilson. From a multi-horizon perspective, the trade favors Corgi Loaf Baking Co., which consolidates two 29-year-old veterans into a 26-year-old cornerstone receiver in Garrett Wilson. Crucially, Corgi's starting lineup C-AVI increases by +19.9 C-AVI points (from 549.0 to 568.9) because Wilson enters FLEX1 while David Montgomery steps into FLEX2. Conversely, for Mile High Royal Lions (aiming to increase playoff odds), placing DJ Moore at WR2 creates a severe -25.7 C-AVI drop at receiver that is not offset by Barkley's FLEX arrival, yielding a net -15.1 starting C-AVI drop. Consequently, trade acceptance probability is low (37%), requiring Corgi Loaf to revise the offer by adding starting QB coverage or additional value to make the transaction viable for Mile High.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 52.1,
+              "davi": 83.9,
+              "publicMarket": 78.5,
+              "leagueMarket": 80.2
+            },
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 51.1,
+              "davi": 81.8,
+              "publicMarket": 75,
+              "leagueMarket": 76.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 76.8,
+              "davi": 91.3,
+              "publicMarket": 88,
+              "leagueMarket": 89.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "D+",
+            "userShare": 62,
+            "otherShare": 38,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The submitted deal is a strategic win for Corgi Loaf Baking Co., improving both immediate starting C-AVI (+19.9 points) and long-term dynasty trajectory by acquiring 26-year-old Garrett Wilson. However, it severely degrades Mile High Royal Lions' starting lineup C-AVI (-15.1 points) during a playoff push while surrendering their primary young cornerstone receiver."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Adding QB Tyler Shough to the package addresses Mile High's starting QB gap with Jalen Hurts sidelined, providing 270.9 projected PPR points while allowing Corgi Loaf to secure Garrett Wilson without sacrificing QB1 Patrick Mahomes."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 35,
+              "summary": "Starting C-AVI sum rises from 549.0 to 568.9 (+19.9 points) as Wilson slots into FLEX1 and David Montgomery fills FLEX2."
+            },
+            "dynastyOutlook": {
+              "score": 50,
+              "summary": "Consolidates two aging 29-year-olds into a premium 26-year-old receiver with long-term contract security."
+            },
+            "lineupQuality": {
+              "score": 40,
+              "summary": "Upgrades FLEX1 dramatically with Wilson (76.8 C-AVI), forming an elite wide receiver core alongside JSN and Nabers."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Transfers two startable offensive assets for one, reducing bench depth at RB and WR."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Acquiring a premier young wide receiver increases overall roster trade liquidity and market value."
+            },
+            "overall": {
+              "score": 24,
+              "summary": "The submitted deal is a strategic win for Corgi Loaf Baking Co., improving both immediate starting C-AVI (+19.9 points) and long-term dynasty trajectory by acquiring 26-year-old Garrett Wilson. However, it severely degrades Mile High Royal Lions' starting lineup C-AVI (-15.1 points) during a playoff push while surrendering their primary young cornerstone receiver."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -30,
+              "summary": "Starting C-AVI sum drops from 535.7 to 520.6 (-15.1 points) due to a heavy downgrade at WR2 from Wilson to DJ Moore."
+            },
+            "dynastyOutlook": {
+              "score": -40,
+              "summary": "Surrenders a 26-year-old cornerstone receiver in exchange for two 29-year-old veterans."
+            },
+            "lineupQuality": {
+              "score": -25,
+              "summary": "WR2 slot drops by -25.7 C-AVI points, which is not sufficiently offset by Barkley's FLEX upgrade over Sutton."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Adds a second usable flex option to the roster, marginally improving weekly depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -30,
+              "summary": "Loses its premier young trade asset, diminishing long-term roster liquidity."
+            },
+            "overall": {
+              "score": -24,
+              "summary": "The submitted deal is a strategic win for Corgi Loaf Baking Co., improving both immediate starting C-AVI (+19.9 points) and long-term dynasty trajectory by acquiring 26-year-old Garrett Wilson. However, it severely degrades Mile High Royal Lions' starting lineup C-AVI (-15.1 points) during a playoff push while surrendering their primary young cornerstone receiver."
+            }
+          },
+          "explanation": "Visual impact reflects full roster reconstructions: Corgi Loaf gains +19.9 starting C-AVI points and lowers average starter age, while Mile High Royal Lions suffers a -15.1 starting C-AVI drop and surrenders dynasty equity."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf's starting lineup C-AVI rises from 549.0 to 568.9 (+19.9 points). Wilson (76.8 C-AVI) enters FLEX1 while Montgomery (46.3 C-AVI) steps into FLEX2, replacing Barkley (52.1 C-AVI) and DJ Moore (51.1 C-AVI).",
+          "sideADynastyImpact": "Dynasty profile improves substantially by acquiring 26-year-old Garrett Wilson (91.3 D-AVI) for two 29-year-old players (83.9 and 81.8 D-AVI).",
+          "sideARosterImpact": "Creates a formidable wide receiver nucleus of Jaxon Smith-Njigba, Malik Nabers, and Garrett Wilson, though thins RB depth.",
+          "sideBChampionshipImpact": "Mile High's starting lineup C-AVI declines from 535.7 to 520.6 (-15.1 points). Replacing Wilson (76.8 C-AVI) with DJ Moore (51.1 C-AVI) at WR2 creates a gap that Barkley's FLEX arrival cannot fully overcome.",
+          "sideBDynastyImpact": "Weakens long-term outlook by trading away a 26-year-old receiver with high target share for two 29-year-olds.",
+          "sideBRosterImpact": "Bolsters FLEX options with Barkley and Moore, but leaves Drake London isolated as the sole high-end healthy starting receiver.",
+          "valueAssessment": "Unequal package value in roster execution. While raw outgoing C-AVI sum (103.2) exceeds Wilson's single C-AVI (76.8), starting lineup math and age distribution overwhelmingly favor Corgi Loaf."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Garrett Wilson is valued as a high-end dynasty receiver (age 26) with long-term extension clarity, currently recovering from a concussion with return expected imminently. Saquon Barkley faces an Eagles offense struggling with Jalen Hurts sidelined, while DJ Moore operates as a secondary target option in Buffalo while managing an AC joint sprain.",
+          "aviVsMarket": "Public markets heavily favor Garrett Wilson over a package of Barkley and Moore due to age, positional longevity, and contract stability in 16-team dynasty formats.",
+          "relevantContext": [
+            "Garrett Wilson (26) is entering his prime with a long-term contract extension and high target-earning metrics.",
+            "Saquon Barkley (29) faces reduced efficiency on a 2-7 Eagles squad with Jalen Hurts sidelined.",
+            "DJ Moore (29) is managing an AC joint sprain in Buffalo while sharing targets in a balanced passing offense."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions is focused on increasing playoff odds. Accepting a proposal that degrades starting lineup strength by -15.1 C-AVI points while surrendering a 26-year-old cornerstone directly conflicts with their stated objective.",
+          "packageFit": "Sub-optimal fit for Mile High. Receiving two 29-year-old players does not solve their core roster bottleneck, which includes starting QB uncertainty with Jalen Hurts sidelined.",
+          "lineupReplacement": "Poor replacement quality for Mile High. DJ Moore (51.1 C-AVI) represents a major -25.7 C-AVI point downgrade from Garrett Wilson (76.8 C-AVI) at WR2.",
+          "competitiveWindowFit": "Misaligned for Mile High. It reduces immediate weekly scoring floor and weakens long-term dynasty window simultaneously.",
+          "positionalScarcity": "Wide receiver depth is valuable in 16-team formats, but high-end 26-year-old dynasty receivers command a significant market premium."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 5,
+            "packageMatch": 0,
+            "lineupReplacement": 4,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 28,
+          "classification": "Impossible",
+          "explanation": "Cornerstone downgrade: seller relinquishes D-AVI 91.3 for a strongest returning player at 83.9, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "structuralRejection": "Cornerstone downgrade: seller relinquishes D-AVI 91.3 for a strongest returning player at 83.9, without enough premium first-round capital or proven starting assets to bridge the quality gap."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Trade-partner acceptance not supported: Cornerstone downgrade: seller relinquishes D-AVI 91.3 for a strongest returning player at 83.9, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 52.1,
+              "davi": 83.9,
+              "publicMarket": 78.5,
+              "leagueMarket": 80.2
+            },
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 51.1,
+              "davi": 81.8,
+              "publicMarket": 75,
+              "leagueMarket": 76.5
+            },
+            {
+              "name": "Tyler Shough",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "QB",
+              "age": 27,
+              "cavi": 47.4,
+              "davi": 70.2,
+              "publicMarket": 62,
+              "leagueMarket": 64
+            }
+          ],
+          "receive": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 76.8,
+              "davi": 91.3,
+              "publicMarket": 88,
+              "leagueMarket": 89.5
+            }
+          ],
+          "whyUserShouldDoIt": "Corgi Loaf retains Patrick Mahomes at QB1 while leveraging QB depth to complete the acquisition of Garrett Wilson, maintaining a net starting lineup upgrade and establishing an elite young WR core.",
+          "whyOpponentMightAccept": "Mile High receives immediate starting QB coverage in Tyler Shough (270.9 projected PPR points) to bridge Jalen Hurts' absence during their playoff push, alongside two usable FLEX/WR2 starters in Barkley and Moore."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 28,
+              "cavi": 61.1,
+              "davi": 80,
+              "publicMarket": 72,
+              "leagueMarket": 74
+            },
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 51.1,
+              "davi": 81.8,
+              "publicMarket": 75,
+              "leagueMarket": 76.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 76.8,
+              "davi": 91.3,
+              "publicMarket": 88,
+              "leagueMarket": 89.5
+            }
+          ],
+          "rationale": "Swapping Saquon Barkley for Rhamondre Stevenson (61.1 C-AVI) provides Mile High with a higher-producing active RB1 to meaningfully upgrade their RB2 slot over Jonah Coleman."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "NFL stats 2026 fantasy football",
+          "Garrett Wilson news 2026",
+          "Saquon Barkley news 2026",
+          "DJ Moore news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGPNf50GPn1Udw_z1uyfp0rlOasUGuwHVa_lXr3e61-q3lHWPWTW_e6648OqdnHH9rm1E7DNpJIep6Jh_7Q82z5tDdd_w7hLQg9ggJLHcZNvKXNgWm8qywk_f8pTlRDdSpxJuh-FENcf5esDlCpn3AKpzmkFOBeysr7LkJYjIjg3vs0UKiCIJOjYDXnFPfWpGzAC1lpCqdq9yE8Ju1FkXJIGFn",
+            "title": "phillyvoice.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEocKgM7EpdsIU9f7qxIeIPjzQZDTVISHq9imK6da5m1LM2iPmgfJrqnLEJU4dgF7wZCGQffMF5qQ1gRdtHsq5gferIB5p7uBZc0SOUzcvnqOuJ8Eo9XvakCIN5V8CxjlgJtKRpNyZ3e1tUh5rSrwrU0bmGy29T8RKo18Uhp-wu4OthUX-1WL7Cj07Mo80TLT8LcP5OtYIzRWlR2mVSeT0=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJbchCxrXIblFvL2HDcmTjBzDjrPW69tXodK_w0snobznntx8ghfJgA2ZaIBm6dJuj-eG3bNNlUrSsTlFWn4voDKxh5YfN2t-qJykdzrzf3TjILixIwETZISQVrVHKvqAms_zuWLoW8oLuTJ7sAqgJ-EUUvekucp8Kq9k7",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEh8QByazYnrQvvbNcja9Tiic9I_dxEc7-lJTo4C_kPP0Bi7vaXnqx5um4wwy-LPznfxvFKDCfTNE6otdK2uVdqH1Qc6wRUF8DyMpkpEef_cZno1oZvnrQORGtilwyqJoGqNOVIi1oNGvd_vHeIvSgtVbj2vUog7CMiXrSKxXzQdG_LDnmWMIIpNLTQ7TRJMDN8s8FSy6qKsBkMUeexA==",
+            "title": "northeasttimes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqQdL9-Xu2qi4hPoULS3ShxOp-jcQHWuSYHluHucS4K2dyDwJHNN7HA5e3C_XhPhX9Fp86ewG4XpI79eMyquknmJVCFxSdW4WiBpSGsMlsPnOoioX3ApeO9Ovtsothd2skZBzK-JXct3ABLuY=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-VJ2wahOCfERHCRVGpERDISwHFqDI5zI8g0xI1tU6XyR8n2fPxe-WTi-UsMjIV8pP0a5iVBGWiGitxRUqC0JN947llOl6KBpeca65B8HnrSokjb-BXBkV3BgBr8J_bU1QZR6VS5WD7fwz4-BN7qWp-jpJ5ZItoAeLoHc0iogqI7XrcztFZl4fk7HH0aXdysV2Wle72v2d5vbPnFZ-Of4xYPFrzUXxO_X4kraAkRERMw==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU53ziz6qAA3jFH2u3JXUYaMbVhWgtl9Xti8zX-qdJSq9bZWXVkGlh8O9hE8agGGPC_f7_gMventm6zqkW0ZQbbKo9RNImGwj9-SQ_CxUXwl9YPSbtlBe7pB2RO9LlCo5ocayFPX6LemXLyoNZA_Knwl3zjHnzdnBtYebtLOpjUwsLtMe1-XlMMexziSiHhavGq1ULir25Tl2OeflHptHzf-RuG3-xFghqybu5Samclf45ObKEy_g=",
+            "title": "philadelphiaeagles.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZkjG3rmDvLbtOIWkFqNJDtPMxUknxiMnZ0vsJorb9SOFvTVZ-2qwMEjVCPWQ158c9MWTrXsa7QpAAMsxK4Kg9bkS1K350Td3rVnG_Rm-OIyWd887lelGpmxSFsTE7y7eXL4KDcZMHjrCtljnTdL-vbJOf-ZBGaTcyNKbZBsYSTC0eeFh9S-2Q5XvbIQeHWxCSiw==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3Aj82fSCfXKuHMxkoBNnID5HX8ww0vR1xscE_m4iFdoBHfr9KGvmEwL75VRWGCGmbhqDjSTYv9bhdO7Us4quj5AKkTzsCqBVU7UdFg4PudT9T7C0ovWsNCPLFoJu51L2r",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp0oxTGUdvRAsdncPTdKiRxCMalTLTr87vkVmgBjkMpykvlKr90nEqriFcXUVfVn5vrZzKFYdFAMcibk7HFkWGanWnPyrEycUi8gjrClNfUma0JLfvP-iNLhB6IF2keMNgV7eOtQbQXEoJU9BcTwjQPqQD75cC0zdDem_yLZq6Ry2pHoyD4xvxkgU=",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsxSrM38QmSJQBf92dliDFl7IZzrrYHRgqF6CYoe9ZXHE5Rrb71Yf9-JUtGu_rliB7KckYiayF1QDIZouKxeu7zQUS9uKL5WVrj1FQ5XFwtTjPFnTPqUZmRALr3wggLeaj16IkMpqCKB48Xq_knwDC5bjcBHLsvs-eWhBl4kzIm97SD9fB9YaiwoN7WmgdvNhgvXvCLPR7XmDc1liQ2Vek-1hC6xU8jm1E",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwfuBYokTaFIFtXLw5hW1oU5NwNQbp54zk_mNTx9lWuQGdZZ2QYO41zqsfPulakxdJYdm9K0KFRFncqSGdp82fVaxqiWbM5TeoeV08JzWCIRkePkufkKenvt2widT7CEP1f8OO8Q==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ6ykYiKDNtZlXgYeP7Sd60RFy25AsP7Sz_E10k8rKMhFsch-zS25Bf2Pt_ch1nZZ8LCOSxwgZr5dHaic-wElrUVYS-inb2U2gbcSMfLXKe9h1iAQSwtmf0GNZ6LHyfirnJGxopnAD2ifmHYIMgJzcTCQx_bvdpVVqzuA18jIkJn001j84o9KYQ1sPaK19uzzByppXnJOsUFoDh-yFR0gWXsbqYYO9uPjtNAXvZeet",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsKXkNB6f0mVmC6GKWJx6wUyuXE6bei_7q-JWOFE5cteg1poOyyeq0MA9NAWlzvtScHNHbdiiaYAQihorEXul8VePRUF5WElMbDpiHE7ObgHmufS3Gevl2mOUOGXWm7nJ9uZAXdrZFUHpkNAppoFIN1Z3OxCqe_iFu_Y44gjnCfMl0bTtBAOdKVfg9dliPsZ5GjuA8cfBENcL6MFzTbfBTsgay6kjDLrZ2ug==",
+            "title": "newyorkjets.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCijBI45CoA8BAa1hmNHr01y3NnUNZ1Sys9VcEQt0b7k9JBb0tsgY_x68DvpSe2aZq16Acgq_cv1-7R3DRM3m4-AkKaY4L3eReP1eS09e09OdTKP30Dm9jnU_4ZEvLPt_asUy4mlHUbIgPx5C02INgV88Y6DtK6jN7tXx6EzJH4Zgc9vcunp5JHF866GqVCmx9ieJfRnIzTqyB",
+            "title": "lastwordonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-7uLgH6QwCg9ZRJeUn1UKIYukXFB7VmqmlUTZASsV_RXkK3zmUanQ7WgDs2QZtMxWCi52F9MhsKdNNOIuobJeKmbl0mCcvx5V7WZ9ovvq32LlUfLL3k-xfQy1p2V09QwlGfm5qayp0uL1x0BjuWLDdHfbSCGIR_oHzREtpJar3q76gw2DX7ZS",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgLkHaXwL-E108yaJPyP0z9HAF-vkP1cSXe1z-fdvc7lXb2AaF_PLkA3jIWGO6jIpl18x1yod94XvCNTm8bC2XEW1C8qfoN9UjNDMlAepvMIwqOrZH742UVGSm1mLBaB__2-abfGFUKKAlizD-F94gzwJMz-sqcViJIMRX",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERVP23kNkiAOq3vftt5fIczYVWD_Ona8mIONvCgpSkSHHB4BvpfphleYNZJ9onCzly7VHOL2b6fzDMvg7--EbuUcR60XRqxqfrywTajefqUVFHV-Xsmyhf1cV1ovVwwtmVKCErkPrKNlXnXKGYH-iT1xxACEnbgIXbS506DEntY3gV_WwOrTkeSWzgphsr",
+            "title": "newyorkjets.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYZUSCZoMcsyak4_50tBs1zQYrYHosToUY10HIyDmSDjA_v61zY72ncRBKuSrC2I80AoTa0SQp5ylpMIpevA1pr4FjRCrPPHd7rqNZz3SJunxiPKYSXW9ux4LXyZUHhkC-OsdbL_0RVeWNgbYlXTVzNZAGYnae78j3o4iza1f3b5ijKCVGyTslQi0y_i1J8YKfIMKG",
+            "title": "thejetpress.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEn7WhFg5jej6lWigCVzRwmJXmI_AfSKjJ-3k_RXDl5LD2-QL345-ED8fFcqf3o6QRNRtgIxOyykAEx3zCr5iW78Q3M_TWwRvoy-3GSJgoIhPYctjPzNgDEmEP6kAKBodcGQW8yDykmBdyqmIcsKnkimRgTtrMBEh8wLcUTMui5yYQmJ4VbY6IkNq2X7Do0eGsPiCjDicU87X9LCyf_IkB72kI9fWfCVXI",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvkeHhr6d-hjzLcqsNKMVsqywwoBoAC2jg_8rvbu6RUkwFgNtxf2XVu93v4UBU0s31hyhxm16bIGwHlbu_6xk49vDc2Tp-LxaGrD5WWbdpKu0277obxxNNwN-eliTwYKODsZWhK5fWiCWo7h98O_uzIkuQyU9LLivkMtTnBePwWOJ1Mfb2fsGRNU3FmCgT8pkDGaMkqp_L",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "68bbd5cfa9b4f225879078a141cbea1984483bb3",
+        "aviCoreCommittedAt": "2026-11-11T20:16:38Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 91717,
+        "groundedMarketChars": 6787,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": true,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
   },
   {
     "id": "mwcm1tb2-d8a6e8e7",
