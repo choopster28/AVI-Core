@@ -1,5 +1,46 @@
 [
   {
+    "id": "mwd0sq29-d5334746",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "neutral",
+      "goal": "Win Championship",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Phalhala or Bust",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rhamondre Stevenson",
+            "assetType": "player"
+          },
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          },
+          {
+            "name": "Malachi Fields",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Ashton Jeanty",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794456045297,
+    "updatedAt": 1794456045297,
+    "expiresAt": 1794888045297,
+    "status": "queued"
+  },
+  {
     "id": "mwcnd2rm-c1f6c8be",
     "phase": "initial",
     "mode": "analyze_trade",
