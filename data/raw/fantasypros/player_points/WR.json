@@ -802,7 +802,7 @@
       "player_name": "Odell Beckham Jr.",
       "points": 0,
       "position_id": "WR",
-      "team_id": "FA",
+      "team_id": "MIN",
       "weeks": {
         "1": 0,
         "2": 0,
@@ -2492,7 +2492,7 @@
       "player_name": "Jackson Meeks",
       "points": 1.8,
       "position_id": "WR",
-      "team_id": "FA",
+      "team_id": "DET",
       "weeks": {
         "1": 0,
         "2": 0,
@@ -3343,7 +3343,7 @@
       "player_name": "Gary Jennings Jr.",
       "points": 0,
       "position_id": "WR",
-      "team_id": "LAC",
+      "team_id": "FA",
       "weeks": {
         "2": 0
       }
@@ -3617,7 +3617,7 @@
       "player_name": "David Moore",
       "points": 1.7000000000000002,
       "position_id": "WR",
-      "team_id": "FA",
+      "team_id": "CAR",
       "weeks": {
         "3": 0,
         "4": 0,

@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-11-11T19:34:09.424825+00:00",
+  "fetched_at_utc": "2026-11-12T03:07:50.356423+00:00",
   "players": {
     "10210": {
       "gms_active": 1.0,
@@ -16302,9 +16302,14 @@
       "gms_active": 1.0,
       "gp": 1.0,
       "gs": 1.0,
+      "off_snp": 14.0,
       "pos_rank_half_ppr": 999.0,
       "pos_rank_ppr": 999.0,
-      "pos_rank_std": 999.0
+      "pos_rank_std": 999.0,
+      "st_snp": 18.0,
+      "tm_def_snp": 66.0,
+      "tm_off_snp": 63.0,
+      "tm_st_snp": 33.0
     },
     "13828": {
       "def_snp": 5.0,
@@ -18092,9 +18097,14 @@
       "gms_active": 1.0,
       "gp": 1.0,
       "gs": 1.0,
+      "off_snp": 18.0,
       "pos_rank_half_ppr": 999.0,
       "pos_rank_ppr": 999.0,
-      "pos_rank_std": 999.0
+      "pos_rank_std": 999.0,
+      "st_snp": 8.0,
+      "tm_def_snp": 56.0,
+      "tm_off_snp": 56.0,
+      "tm_st_snp": 28.0
     },
     "3268": {
       "gms_active": 1.0,

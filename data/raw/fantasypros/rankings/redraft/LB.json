@@ -17069,7 +17069,7 @@
     },
     {
       "cbs_player_id": "2878199",
-      "player_bye_week": null,
+      "player_bye_week": "6",
       "player_ecr_delta": null,
       "player_eligibility": "LB",
       "player_filename": "josh-ross.php",
@@ -17082,7 +17082,7 @@
       "player_position_id": "LB",
       "player_positions": "LB",
       "player_short_name": "J. Ross",
-      "player_team_id": "FA",
+      "player_team_id": "MIN",
       "player_yahoo_id": "34404",
       "player_yahoo_positions": "LB",
       "pos_rank": "LB371",
