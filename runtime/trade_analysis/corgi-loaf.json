@@ -1,5 +1,466 @@
 [
   {
+    "id": "mwd0sq29-d5334746",
+    "createdAt": 1794456113445,
+    "expiresAt": 1794888113445,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Corgi Loaf Baking Co. ↔ Phalhala or Bust",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "neutral",
+      "goal": "Win Championship",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Phalhala or Bust",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Rhamondre Stevenson",
+            "assetType": "player"
+          },
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          },
+          {
+            "name": "Malachi Fields",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Ashton Jeanty",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "From a neutral third-party perspective, the submitted 3-for-1 proposal heavily favors Corgi Loaf Baking Co. over Phalhala or Bust. Corgi Loaf consolidates two aging running backs (Saquon Barkley, 29; Rhamondre Stevenson, 28) and a developmental rookie receiver (Malachi Fields) into 22-year-old cornerstone RB Ashton Jeanty (C-AVI: 83.0, D-AVI: 94.5). For Corgi Loaf's 'Win Championship' window, the move actually increases starting-lineup C-AVI from 550.6 to 566.7 by inserting Jeanty at RB1 and moving David Montgomery into FLEX2. Conversely, Phalhala or Bust—operating under an 'Increase Playoff Odds' mandate—surrenders its top long-term centerpiece while absorbing immediate risk: Rhamondre Stevenson recently suffered a knee plantaris tendon injury expected to keep him out multi-weeks, meaning Phalhala's near-term active starting lineup C-AVI drops from 486.0 to 455.1 while Stevenson recovers. Because this trade damages both near-term playoff qualification odds and long-term dynasty foundation for Phalhala or Bust, acceptance probability is low (38%). AVI recommends revising the offer to include an immediate impact WR like DJ Moore or premium starter equity before submitting.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Rhamondre Stevenson",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 28,
+              "cavi": 61.1,
+              "davi": 80.1,
+              "publicMarket": 62,
+              "leagueMarket": 61.1
+            },
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 52.1,
+              "davi": 84,
+              "publicMarket": 60,
+              "leagueMarket": 52.1
+            },
+            {
+              "name": "Malachi Fields",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 23,
+              "cavi": 29.2,
+              "davi": 69.3,
+              "publicMarket": 35,
+              "leagueMarket": 29.2
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Ashton Jeanty",
+              "assetType": "player",
+              "owner": "Phalhala or Bust",
+              "position": "RB",
+              "age": 22,
+              "cavi": 83,
+              "davi": 94.5,
+              "publicMarket": 90,
+              "leagueMarket": 83
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "D",
+            "userShare": 65,
+            "otherShare": 35,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The trade creates a 65/35 value imbalance favoring Corgi Loaf Baking Co. Corgi Loaf upgrades its starting RB slot from Stevenson (61.1) to Jeanty (83.0), boosting total starting C-AVI from 550.6 to 566.7 while acquiring an S-tier dynasty cornerstone (D-AVI 94.5, age 22.0). Phalhala or Bust receives quantity over quality; with Stevenson sidelined multi-weeks due to a knee injury, Phalhala's near-term active lineup C-AVI falls from 486.0 to 455.1, directly hindering its 'Increase Playoff Odds' objective."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "A revised offer sending Saquon Barkley, DJ Moore, and Cam Skattebo (or equivalent startable depth) for Ashton Jeanty provides Phalhala or Bust with a healthy RB2 upgrade and a proven WR2 to boost near-term weekly scoring, while preserving Corgi Loaf's acquisition of Jeanty."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 35,
+              "summary": "Starting lineup C-AVI increases from 550.6 to 566.7, adding elite upside alongside JSN, Nabers, and McBride."
+            },
+            "dynastyOutlook": {
+              "score": 55,
+              "summary": "Replaces two aging RBs (28 and 29) with an elite 22-year-old cornerstone possessing 94.5 D-AVI."
+            },
+            "lineupQuality": {
+              "score": 30,
+              "summary": "Upgrades RB1 position significantly while backfilling FLEX2 with David Montgomery."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Reduces backfield depth from 6 RBs to 4, requiring reliance on Skattebo and Montgomery for injury coverage."
+            },
+            "flexibilityLiquidity": {
+              "score": 40,
+              "summary": "Consolidates multiple medium-value assets into a single highly liquid elite dynasty asset."
+            },
+            "overall": {
+              "score": 30,
+              "summary": "The trade creates a 65/35 value imbalance favoring Corgi Loaf Baking Co. Corgi Loaf upgrades its starting RB slot from Stevenson (61.1) to Jeanty (83.0), boosting total starting C-AVI from 550.6 to 566.7 while acquiring an S-tier dynasty cornerstone (D-AVI 94.5, age 22.0). Phalhala or Bust receives quantity over quality; with Stevenson sidelined multi-weeks due to a knee injury, Phalhala's near-term active lineup C-AVI falls from 486.0 to 455.1, directly hindering its 'Increase Playoff Odds' objective."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -30,
+              "summary": "Immediate active starting C-AVI drops from 486.0 to 455.1 while Stevenson recovers from a multi-week knee injury."
+            },
+            "dynastyOutlook": {
+              "score": -60,
+              "summary": "Surrenders 22-year-old S-tier RB Jeanty for two RBs nearing or past age 28/29 decline curves."
+            },
+            "lineupQuality": {
+              "score": -25,
+              "summary": "Downgrades RB1 position from Jeanty (83.0 C-AVI) to Jaylen Warren (79.1 C-AVI) as primary option."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Adds volume depth across RB and WR, but low quality caps weekly ceiling."
+            },
+            "flexibilityLiquidity": {
+              "score": -35,
+              "summary": "Exchanges a premier, highly liquid asset for multiple harder-to-trade older players."
+            },
+            "overall": {
+              "score": -30,
+              "summary": "The trade creates a 65/35 value imbalance favoring Corgi Loaf Baking Co. Corgi Loaf upgrades its starting RB slot from Stevenson (61.1) to Jeanty (83.0), boosting total starting C-AVI from 550.6 to 566.7 while acquiring an S-tier dynasty cornerstone (D-AVI 94.5, age 22.0). Phalhala or Bust receives quantity over quality; with Stevenson sidelined multi-weeks due to a knee injury, Phalhala's near-term active lineup C-AVI falls from 486.0 to 455.1, directly hindering its 'Increase Playoff Odds' objective."
+            }
+          },
+          "explanation": "Corgi Loaf achieves a massive strategic win by converting aging depth into an elite 22-year-old RB centerpiece while actually boosting immediate starting C-AVI. Phalhala takes on severe dynasty erosion and near-term injury risk with Stevenson out, conflicting with its goal to Increase Playoff Odds."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf's starting lineup C-AVI improves from 550.6 to 566.7 (+16.1). Jeanty (83.0) slots in at RB1, while David Montgomery (46.3) fills the FLEX2 opening.",
+          "sideADynastyImpact": "Dynasty portfolio strengthens substantially by adding 94.5 D-AVI in a 22-year-old premier RB, removing age risk associated with Barkley (84.0 D-AVI, age 29) and Stevenson (80.1 D-AVI, age 28).",
+          "sideARosterImpact": "Roster shifts to high-concentration elite starters (JSN, Nabers, McBride, Jeanty). RB depth drops to Skattebo, Montgomery, and Mike Washington Jr.",
+          "sideBChampionshipImpact": "Phalhala's starting lineup C-AVI drops from 486.0 to 483.1 full-health, and down to 455.1 immediately due to Stevenson's multi-week knee absence.",
+          "sideBDynastyImpact": "Severe reduction in long-term cornerstone value, losing 94.5 D-AVI Jeanty for combined aging D-AVI pieces (84.0 + 80.1 + 69.3).",
+          "sideBRosterImpact": "Phalhala gains bench volume but remains severely constrained at WR (starting Odunze 61.4 and Lemon 46.6), failing to address its key weakness.",
+          "valueAssessment": "Net value delta heavily favors Corgi Loaf Baking Co. The 3-for-1 structure fails to offer Phalhala an S-tier return or clean starting upgrades."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty sentiment values Ashton Jeanty as a top-3 dynasty RB asset despite recent backfield competition from rookie Mike Washington Jr. in Las Vegas. Saquon Barkley remains a strong producer but carries age (29) and team context headwinds in Philadelphia. Rhamondre Stevenson suffered a plantaris knee tendon injury in Week 9, confirmed to keep him out multi-weeks, depressing his immediate market liquidity. Malachi Fields remains a 3rd-round rookie developmental project for the Giants.",
+          "aviVsMarket": "AVI and public market consensus are aligned: Jeanty commands an elite premium that multi-player packages of older RBs cannot easily match without premium draft capital or WR1/WR2 assets included.",
+          "relevantContext": [
+            "Stevenson out multi-weeks (knee plantaris tendon injury); surgery not required but immediate availability is zero.",
+            "Barkley playing through minor ailments on a 2-7 Eagles squad with trade rumors dismissed at deadline.",
+            "Jeanty seeing touch competition from rookie Mike Washington Jr., who ironically is rostered by Corgi Loaf Baking Co.",
+            "Fields has 12 catches for 165 yards in limited rookie action with NYG."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Phalhala's manager (PIFYAF) seeks to Increase Playoff Odds. Trading a healthy top RB for an injured RB and an aging RB does not improve immediate win probability.",
+          "packageFit": "Package provides RB depth but fails to deliver a high-end WR upgrade, which is Phalhala's primary structural weakness.",
+          "lineupReplacement": "Losing Jeanty leaves Jaylen Warren (79.1) as RB1 and forces reliance on Jordan Mason or Hunter Henry in FLEX until Stevenson returns.",
+          "competitiveWindowFit": "Fails competitive window alignment: surrenders long-term core without providing immediate must-win weekly points.",
+          "positionalScarcity": "Elite 22-year-old bellhorn RBs in 16-team leagues carry extreme positional scarcity; 3-for-1 consolidation trades require premium assets."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 8,
+            "packageMatch": 0,
+            "lineupReplacement": 4,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 31,
+          "classification": "Unlikely",
+          "explanation": "Cornerstone downgrade: seller relinquishes D-AVI 94.5 for a strongest returning player at 84.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "structuralRejection": "Cornerstone downgrade: seller relinquishes D-AVI 94.5 for a strongest returning player at 84.0, without enough premium first-round capital or proven starting assets to bridge the quality gap."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Trade-partner acceptance not supported: Cornerstone downgrade: seller relinquishes D-AVI 94.5 for a strongest returning player at 84.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 52.1,
+              "davi": 84,
+              "publicMarket": 60,
+              "leagueMarket": 52.1
+            },
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 51.1,
+              "davi": 82,
+              "publicMarket": 55,
+              "leagueMarket": 51.1
+            },
+            {
+              "name": "Cam Skattebo",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 24,
+              "cavi": 54.1,
+              "davi": 82.2,
+              "publicMarket": 58,
+              "leagueMarket": 54.1
+            }
+          ],
+          "receive": [
+            {
+              "name": "Ashton Jeanty",
+              "assetType": "player",
+              "owner": "Phalhala or Bust",
+              "position": "RB",
+              "age": 22,
+              "cavi": 83,
+              "davi": 94.5,
+              "publicMarket": 90,
+              "leagueMarket": 83
+            }
+          ],
+          "whyUserShouldDoIt": "Corgi Loaf secures 22-year-old cornerstone RB Ashton Jeanty while keeping top WRs (JSN, Nabers) and TE McBride intact for its championship run.",
+          "whyOpponentMightAccept": "Phalhala gets two active, healthy RB starters (Barkley, Skattebo) and an immediate WR upgrade (DJ Moore, displacing Makai Lemon/Hunter Henry) to directly boost its weekly floor and Playoff Qualification odds."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 52.1,
+              "davi": 84,
+              "publicMarket": 60,
+              "leagueMarket": 52.1
+            },
+            {
+              "name": "DJ Moore",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "WR",
+              "age": 29,
+              "cavi": 51.1,
+              "davi": 82,
+              "publicMarket": 55,
+              "leagueMarket": 51.1
+            }
+          ],
+          "receive": [
+            {
+              "name": "Ashton Jeanty",
+              "assetType": "player",
+              "owner": "Phalhala or Bust",
+              "position": "RB",
+              "age": 22,
+              "cavi": 83,
+              "davi": 94.5,
+              "publicMarket": 90,
+              "leagueMarket": 83
+            }
+          ],
+          "rationale": "A streamlined 2-for-1 offering immediate starting upgrades at both RB2 and WR2 for Phalhala without taking roster clutter."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Malachi Fields football",
+          "Ashton Jeanty NFL draft 2025 2026",
+          "Saquon Barkley news 2026",
+          "Rhamondre Stevenson news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZfMKjU9Va4dP0DpzdridbmBtInP_-qnXIVdNtKbn3GP3H3S6aWDgUcqPV3KwTyjKpBayLM8cwbi_57Fxd1tuYRtpwNRYF3caNpgcB9pi8SI4Xkx9dQ6St6v6VUQuZ8KNmpYAHbXOQ3bJx3A5AzcKESvSCaTaTbN6QgFcJBgpX73oZI56nX9JnxaukQror6N8m6meWKrOfzDkRD5NMBhF7tQU=",
+            "title": "phillyvoice.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2SwXa78VHfV4vPzwWe6IJxUCmLzb8oEV0OK2hhVuXrcHJbIoL2vFMA5zBpVlkJb5s9c43Lzp3JA4lLCT8vii8NiNcash_J4m-x_jA3_BpuAeaZ93UgYckr93dZfzRiEL2xotBpNcQeJjdc9RKK92sJHaUmOD3RUXSDA0yCEPKs9RTJ6yx0Ew8Pq8VVmRfgd8vBu2xGpzZdtmwLR2zDw==",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJqMDV825Ba1jAgBBnt8FKFf_169uTF6igBmVd6ZQXHpvBQ9jEWiYFF4RYgLpSgFJwNLr8-SZYGrgl800vWhe1R1Km6uNojA64MRrFuFjYtU2D2IIzCdQ4a0NHtYfgA-o=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo-UCMK3lTG8T7gbloQ_iQ236sRC1bz1ek5GimAzUgLWLy_c6ZX6kJDZTYUt0E5vD8dGyyovdA3auJYk8koashQFWWFo3mYVe-7Ul08aJTuUeaNskTM1i9LUtjbmEUFc0=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFERB7mEwGoUoCuCB7U-xxRkijq_Map0-_m1BwPnOkT1q2YpkZ4UytcfMWWJAFKo98CdEIsjE0iTYa0qPi72no4nh21pzyNauEcbdUfsEuBP6rLSBDhLvW8YX1PxPLTdTHhI_JnhE0pF_ZCsROtOVeKrCY6CGDf4pNNdBCGb_3CqoMY6KEZfLVNsxivAIQO7Cj3ui_gK61Yelg_19UjYEOFuwKxOtkH9zjSxsFKf7dq",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMX0aYIudML7rDxvGw3gqfcThA9P5gTDOSfAc6TjKBskd6xZIbYKwGTWNsQC9zXEy_MvC0o766z1X_4gEnH21KO7WwejrkNZEBU9M9fjJaL-nlcYsIwcu5S3nnthAfw_53tfcavIbLya4UdbFP_Gq3ZqxycGlIDlrLPPMtkMUrhX-3k4mgVPaTwZdtS9nCTg50q2tJnlETzpImbkGu",
+            "title": "northeasttimes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgETqsQO1bG-31Z4rWr7LHYx9RE0i39wc0_8Iyffl2pM03O00Yb0JhJJAYn_vszKZMjW-pCSezd0NbC522fLwH5zCKYx29BOzsBdK9T9CVBboNDRS1esT1TRGJoDtS4ierkcBnYxGjSnGMIw==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE7O059PY-_AW353Iw0RfL8dT8qSmk_KRIC_02p9lYas1TQn3Ot8Xmcn_YofZT_krCMZpM_4r-V-L0yCsqcYCWNDGKYx3-kBZiJdDHQ4KrSmh7Xzds7q9B89eYqc52klkrICQfgStxh3e7VtmKg9Vwh4wXyH3kL-WnBj3yB80CSxyeL28mALzA07_3ZuLDiREEHZbXJ6OZMJOsmKBIAp4=",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3JhbtnStHZGDyhHWQQUIftERGrRLOdfYIKddJJAjqHRJUl77xobl_w5TmvQvooF2DzHpr00H_ZdB9jT_vmoUxlU7plTlz2wcbgn2iuwReX8UMj23mrTZal6I_SPu6K0ZxA0wtWXkMmzcRppX1APAJjb73nPvlKx_nzhtkCaDb742INi3as2BdkqVRgn69h9A=",
+            "title": "nfltraderumors.co"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjKCrC0yVb6iIViDFtitfiD0Ms1S-zuSqA2I3w7ll-3CAOwsmjgPCkP_rleEmtpDbyJz7d1NJPdxw175B0gQ47aRbg1EZY1xViVdbsaha_23RcqeGGRnWHzJnRC27GVwJSNHrPwEdSyy4Df9GQdCyATyW1mn1I4p_NWXfIwb_pHf3A0rANQUbuMzrv3kQj_OlemCHoSAw61lRW520i7K8kA7Oa6ulHDuKW-szjgknM",
+            "title": "flashscore.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-FDutAO3_5QAYrjfTi7YNCGjSHPX7oGTff6jb20W6IgOiWWvSKE65EiSKDSujg8DFfsvSmK8WAfbv48frENpswe8r2oGQckuMlrIPiLdHylNK5fHsGx0F65iupIrf0sJ4p9OQXdC_30q6PvmlOq6Ul2-Kb5OaxxBNz9LLAH4iTCI4zCwyf0i5ue7lk9-KRu82muXmZ7em",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGKcdG-O4Y8ATySTSkiX69pnbHAubKXyIkrJ32TXR2thmMNi3okOz8-Ff3_R6U1EQGWb4KNwTVLPdx5NVVptUmBbff239N2sLXRqpUlt97owFhDPzcEpGDGP4ZEcoXqcc_3cm48IHB-mk6DYADwYx3c5NkRiyO2c8suQy8Ep6zvVB-NjUxJObc63Blfpr2c861FdoHwOi_F_7W0A2l5JCrpVKxbMks",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp_QCsLouu-y84IIR6rLtm3w4k4495C1B0C7g_HJTVA_5Vj2zgVlSujHSTyzSxxZROYSz1uKwjak-ORZRcThJ4mGeEQvkVG1XLhgoIs52YUkk1--bDxRBgZENlA_UihuVm0SNDKA91G3I-9kmMwvb5mepHfeH-O89ghTw65Wy8g4-AtP6PNGXdCNq6QauNKYwDbqeWONAF8d7E",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIL8i7cbyx5SxoVHWm7lBujsCmf-QlxGjhvijNfOa-2qjemtH0-aUUFDXUxAg0h35hidwkxIVRR5zUv2M41MSEnvvDBT7ImJUY5lA7v7RS7sc6Zlk5z6ITnj699dxmODv0wug5L9xm3GdAf8cOunF2aoVgqS0CHXaKeQ_WCg_mj404FBnK",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHrroFsequx3_opjl4lNxz-aWUcbRTd7UDyiUlsbbOk5hHYiYYywvx4Q8m82x1o4WtFP0efxYY-IojEbEn4xm2J4_wLjBWA2gluE-09jHVZPc1D8SEgurEomlrWrVthcs_xm3Yz2emZpd01oSr7mc-nLd88H3uYDB4i9bvf_dAlA==",
+            "title": "raiders.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFevxlwaxQJOMy1eYxp7QCtraSARL0j7CrOKEn2TkuZcCyHGHJgkw3IysuLy4sZuyD7_HXaDQC6miY63P8IiVKKX-s56hKN9ewGHGfbIeV4hjwa49teYZLMJE_PQoblb_h5AtEnhhAMSzS8H0Cxt7Dnxe9cctzplz_1pJuUMsAtu49Ki60Gp2OSY0GyFhQrg5tDLHm0Bf-9QP73vTql4DLJe_EV87-nts=",
+            "title": "raidersbeat.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6j17W8f1zBtvSqmrPNQLuAH98x2fLk9UDNBO4lA-n1F4numb7p68XYWNF35HnSBnGgnGLnsWjcUNyhYq1B3BCRXABAcxmap0GxcPi9FHE2NfGIfOvHxQNRehqSjgYlvW3F658ZWdifAX3Ae14p06zomwVu3l8lgnOQ5frXaUBnrlTUnAUq_A2wFSSg6KX120PDXxkUQAjetw=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPIk8TK0L2SmJlxtljcctSDsDvyYuHPhYMGemGoIvxPs620NI5tVB5kpAqHfA1O3N_MLybFPi-BtBNb8k53kmEf28xIuqz-iaWpqZ0M318PW2AskR6LKYrF-c9-RSK38rSIjPjLKkGyy6FKJ5XkE9Vn8NJdvdW3B2-YHntfGsuRCKyC_nZCfJtyy32e7PiBFpSjKzsQ44=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeAJvEwi3wxgcE5mSZ7UsPUP_MK5e44oEowCGXyLPDQfic9AlzvQvS61rscdpRcATWn4g82z4RSDFuBKWWZmc5fOty6Al4vgML9KAozhCV_hZ6L2MF6cEWo10GiYElvOxt",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU1S-B8UF1L67xNp801Fn90jOJU6tyCsgmHaSPLpVmJeLIqskwI0B2Ml3BQFzEac9ZJ3IqbrgpUfnV31dHH8rV6u8CrWQ5Xwmrk9OaLB7DMuH533S7Z3NFof3NjEVMIOb68EPR5wrpZXfkej6u1nHy3ZE=",
+            "title": "pro-football-reference.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpdcBOyhha6ToIWM7brKEzzVtSvg-_JnB6gqhOCnbQvZLuQiJfkaEZk2dfZewhLYrUCPgAGTeiyDYrXoywQGrHfui_LW8dkhVlJGLrmY-NziPS_WBoGhzTxQOxShYMkas=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJmZYtTBKiLM_wrp597Vld5trMP7el9DnTG45CpX-s-O7aObyi_MBv_HAX6slieD1pS9Sa-CAkfHF7NOJShP7V5xqGBs1fFukysDyeSkVZxUEAyhGKPnM8PQDFIiN8RNAo9U94pSNzjoqJ4vRmUOI=",
+            "title": "giants.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgO6H26o7sk95gbIZYS72P-uX5QoRUoBx04CRCOFOx6ZYaCVBKsAMSPiZjPHz5EpBpA9B01hHmlqIUL5LabFaeP6nVrQrPxmcaUl5FIjaawPEvYC5UqQgX2eKXNOs1C3g=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJNbh7eVXQD_Q_K1FF2vW32bkYu2GSDBZh1kJeBuVI2ZJYOcbfNYKXnigfWPELJhNpH3Wi_62GwAr7dN68RZ768Wb7Cv-qlOw_YTsfk1RA5vPrLqIj4qzb0Ue52sK7mrhQ3j8w8WGTFupXEMwweya-2HWYze5fwg==",
+            "title": "sports-reference.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "1c294a91b4d2d3eef63c9f3551de0aacf515c5dd",
+        "aviCoreCommittedAt": "2026-11-12T03:10:42Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 90204,
+        "groundedMarketChars": 4945,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
+  },
+  {
     "id": "mwcnd2rm-c1f6c8be",
     "createdAt": 1794433564908,
     "expiresAt": 1794865564908,
