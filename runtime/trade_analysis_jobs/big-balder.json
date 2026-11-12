@@ -1,5 +1,29 @@
 [
   {
+    "id": "mwe6w7jd-e23d4d7e",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Big Balder Brand",
+      "goal": "Retool",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "partnerGoal": "Win Championship",
+      "targetAssets": [
+        {
+          "name": "Jaxon Smith-Njigba",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1794526751785,
+    "updatedAt": 1794526751785,
+    "expiresAt": 1794958751785,
+    "status": "queued"
+  },
+  {
     "id": "mwcnpoxq-6d8ddab6",
     "phase": "initial",
     "mode": "shop_assets",
