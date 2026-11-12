@@ -2165,12 +2165,12 @@
       }
     },
     {
-      "average": 6.8,
+      "average": 6.1,
       "filename": "patrick-jones-de.php",
       "games": 6,
       "player_id": 23254,
       "player_name": "Patrick Jones II",
-      "points": 40.75,
+      "points": 36.75,
       "position_id": "DE",
       "team_id": "CAR",
       "weeks": {
@@ -2179,7 +2179,7 @@
         "6": 0.8,
         "7": 5.5,
         "8": 7,
-        "9": 19
+        "9": 15
       }
     },
     {
@@ -2233,12 +2233,12 @@
       }
     },
     {
-      "average": 1.1,
+      "average": 0.8,
       "filename": "trace-ford.php",
       "games": 5,
       "player_id": 23787,
       "player_name": "Trace Ford",
-      "points": 5.25,
+      "points": 3.75,
       "position_id": "DE",
       "team_id": "NYG",
       "weeks": {
@@ -2246,7 +2246,7 @@
         "5": 1.5,
         "6": 1.5,
         "7": 0.8,
-        "9": 1.5
+        "9": 0
       }
     },
     {

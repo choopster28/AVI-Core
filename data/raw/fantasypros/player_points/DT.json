@@ -793,12 +793,12 @@
       }
     },
     {
-      "average": 6,
+      "average": 5.9,
       "filename": "tommy-togiai.php",
       "games": 8,
       "player_id": 22784,
       "player_name": "Tommy Togiai",
-      "points": 47.75,
+      "points": 47,
       "position_id": "DT",
       "team_id": "HOU",
       "weeks": {
@@ -809,7 +809,7 @@
         "5": 6.8,
         "6": 6.8,
         "7": 3.8,
-        "9": 7
+        "9": 6.3
       }
     },
     {
@@ -1813,12 +1813,12 @@
       }
     },
     {
-      "average": 2.8,
+      "average": 2.9,
       "filename": "malik-herring.php",
       "games": 8,
       "player_id": 23433,
       "player_name": "Malik Herring",
-      "points": 22,
+      "points": 23.5,
       "position_id": "DT",
       "team_id": "MIA",
       "weeks": {
@@ -1829,7 +1829,7 @@
         "5": 0.8,
         "7": 8,
         "8": 0,
-        "9": 0.8
+        "9": 2.3
       }
     },
     {
@@ -3947,16 +3947,16 @@
       }
     },
     {
-      "average": 5.3,
+      "average": 6,
       "filename": "elijah-williams-dt.php",
       "games": 1,
       "player_id": 27913,
       "player_name": "Elijah Williams",
-      "points": 5.25,
+      "points": 6,
       "position_id": "DT",
       "team_id": "MIN",
       "weeks": {
-        "9": 5.3
+        "9": 6
       }
     },
     {

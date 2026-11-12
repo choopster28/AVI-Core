@@ -18,26 +18,25 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - kickers: 1
 - idp: 6
 - other: 0
-- keepers: 1
+- keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 457.7
-- championship_lineup_c_avi_avg: 57.21
-- offensive_roster_c_avi_sum: 606.4
-- offensive_roster_c_avi_avg: 46.65
-- offensive_roster_d_avi_sum: 948.5
-- offensive_roster_d_avi_avg: 72.96
+- championship_lineup_c_avi_sum: 432.3
+- championship_lineup_c_avi_avg: 61.76
+- offensive_roster_c_avi_sum: 598.5
+- offensive_roster_c_avi_avg: 46.04
+- offensive_roster_d_avi_sum: 921.8
+- offensive_roster_d_avi_avg: 70.91
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Drake Maye | C-AVI: 89.0 | D-AVI: 90.7
-- RB: Emanuel Wilson | C-AVI: 40.8 | D-AVI: 63.4
-- RB: Ty Johnson | C-AVI: 25.3 | D-AVI: 52.7
+- RB: Emanuel Wilson | C-AVI: 40.8 | D-AVI: 63.6
 - WR: Tetairoa McMillan | C-AVI: 86.1 | D-AVI: 95.0
 - WR: Luther Burden III | C-AVI: 79.9 | D-AVI: 92.1
-- TE: Pat Freiermuth | C-AVI: 44.9 | D-AVI: 68.8
-- FLEX: DK Metcalf | C-AVI: 52.0 | D-AVI: 80.1
-- FLEX: Kayshon Boutte | C-AVI: 39.7 | D-AVI: 66.9
+- TE: Pat Freiermuth | C-AVI: 44.8 | D-AVI: 67.7
+- FLEX: DK Metcalf | C-AVI: 52.1 | D-AVI: 80.4
+- FLEX: Kayshon Boutte | C-AVI: 39.6 | D-AVI: 66.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -88,7 +87,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 28.0
 - Championship AVI (C-AVI, 0-100): 47.5
-- Dynasty AVI (D-AVI, 0-100): 78.4
+- Dynasty AVI (D-AVI, 0-100): 78.5
 - Projected PPR points: 139.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -105,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 40.8
-- Dynasty AVI (D-AVI, 0-100): 63.4
+- Dynasty AVI (D-AVI, 0-100): 63.6
 - Projected PPR points: 56.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -127,22 +126,22 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Ty Johnson
-- Player name: Ty Johnson
-- Player ID: 6039
+### PLAYER: Lan Larison
+- Player name: Lan Larison
+- Player ID: 12969
 - Current owner team: Southside Savages
 - Current owner roster ID: 13
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: BUF
+- NFL team: NE
 - Active: True
 - Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 25.3
-- Dynasty AVI (D-AVI, 0-100): 52.7
-- Projected PPR points: 55.8
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 22.3
+- Projected PPR points: None
 - Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
+- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Tetairoa McMillan
 - Player name: Tetairoa McMillan
@@ -189,8 +188,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 52.0
-- Dynasty AVI (D-AVI, 0-100): 80.1
+- Championship AVI (C-AVI, 0-100): 52.1
+- Dynasty AVI (D-AVI, 0-100): 80.4
 - Projected PPR points: 183.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -206,9 +205,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 39.7
-- Dynasty AVI (D-AVI, 0-100): 66.9
+- Championship AVI (C-AVI, 0-100): 39.6
+- Dynasty AVI (D-AVI, 0-100): 66.3
 - Projected PPR points: 125.2
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Mack Hollins
+- Player name: Mack Hollins
+- Player ID: 4177
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NE
+- Active: True
+- Status: Active
+- Age: 33.0
+- Championship AVI (C-AVI, 0-100): 34.3
+- Dynasty AVI (D-AVI, 0-100): 55.8
+- Projected PPR points: 57.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -229,23 +245,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Efton Chism III
-- Player name: Efton Chism III
-- Player ID: 12542
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: NE
-- Active: True
-- Status: Active
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 16.8
-- Dynasty AVI (D-AVI, 0-100): 51.0
-- Projected PPR points: 4.6
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Pat Freiermuth
 - Player name: Pat Freiermuth
 - Player ID: 7600
@@ -257,8 +256,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 44.9
-- Dynasty AVI (D-AVI, 0-100): 68.8
+- Championship AVI (C-AVI, 0-100): 44.8
+- Dynasty AVI (D-AVI, 0-100): 67.7
 - Projected PPR points: 128.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

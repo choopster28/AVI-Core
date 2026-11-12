@@ -719,12 +719,12 @@
       }
     },
     {
-      "average": 6.6,
+      "average": 6.8,
       "filename": "andru-phillips.php",
       "games": 8,
       "player_id": 26164,
       "player_name": "Dru Phillips",
-      "points": 52.75,
+      "points": 54.25,
       "position_id": "CB",
       "team_id": "NYG",
       "weeks": {
@@ -735,7 +735,7 @@
         "5": 20.5,
         "6": 5.3,
         "7": 1.5,
-        "9": 3.8
+        "9": 5.3
       }
     },
     {
@@ -1238,12 +1238,12 @@
       }
     },
     {
-      "average": 6.1,
+      "average": 6,
       "filename": "james-pierre.php",
       "games": 8,
       "player_id": 19659,
       "player_name": "James Pierre",
-      "points": 49,
+      "points": 48.25,
       "position_id": "CB",
       "team_id": "MIN",
       "weeks": {
@@ -1254,7 +1254,7 @@
         "5": 4.5,
         "7": 6,
         "8": 8.8,
-        "9": 8.3
+        "9": 7.5
       }
     },
     {
@@ -1583,12 +1583,12 @@
       }
     },
     {
-      "average": 6.1,
+      "average": 5.9,
       "filename": "derek-stingley-jr.php",
       "games": 8,
       "player_id": 23498,
       "player_name": "Derek Stingley Jr.",
-      "points": 48.75,
+      "points": 47.25,
       "position_id": "CB",
       "team_id": "HOU",
       "weeks": {
@@ -1599,7 +1599,7 @@
         "5": 0,
         "6": 9.8,
         "7": 4.5,
-        "9": 14.8
+        "9": 13.3
       }
     },
     {
@@ -3917,12 +3917,12 @@
       }
     },
     {
-      "average": 5.3,
+      "average": 5.4,
       "filename": "camryn-bynum.php",
       "games": 9,
       "player_id": 22757,
       "player_name": "Cam Bynum",
-      "points": 47.75,
+      "points": 48.5,
       "position_id": "S",
       "team_id": "IND",
       "weeks": {
@@ -3934,7 +3934,7 @@
         "6": 8,
         "7": 3,
         "8": 0,
-        "9": 6.8
+        "9": 7.5
       }
     },
     {
@@ -4187,12 +4187,12 @@
       }
     },
     {
-      "average": 12.6,
+      "average": 12.5,
       "filename": "jeremy-chinn.php",
       "games": 9,
       "player_id": 19429,
       "player_name": "Jeremy Chinn",
-      "points": 113,
+      "points": 112.25,
       "position_id": "S",
       "team_id": "LV",
       "weeks": {
@@ -4204,7 +4204,7 @@
         "6": 14.3,
         "7": 11.5,
         "8": 17,
-        "9": 12
+        "9": 11.3
       }
     },
     {
@@ -4705,12 +4705,12 @@
       }
     },
     {
-      "average": 9.2,
+      "average": 9.4,
       "filename": "julian-love.php",
       "games": 8,
       "player_id": 18243,
       "player_name": "Julian Love",
-      "points": 73.5,
+      "points": 75,
       "position_id": "S",
       "team_id": "SEA",
       "weeks": {
@@ -4721,7 +4721,7 @@
         "6": 5.3,
         "7": 1.5,
         "8": 9,
-        "9": 10.5
+        "9": 12
       }
     },
     {
@@ -5459,12 +5459,12 @@
       }
     },
     {
-      "average": 7.8,
+      "average": 8,
       "filename": "calen-bullock.php",
       "games": 8,
       "player_id": 26111,
       "player_name": "Calen Bullock",
-      "points": 62.5,
+      "points": 64,
       "position_id": "S",
       "team_id": "HOU",
       "weeks": {
@@ -5475,7 +5475,7 @@
         "5": 1.5,
         "6": 14,
         "7": 5.3,
-        "9": 11.5
+        "9": 13
       }
     },
     {
@@ -5761,7 +5761,7 @@
       "player_name": "AJ Finley",
       "points": 3.75,
       "position_id": "S",
-      "team_id": "SEA",
+      "team_id": "FA",
       "weeks": {
         "2": 0,
         "3": 3.8,
@@ -6719,7 +6719,7 @@
       "player_name": "Alijah Huzzie",
       "points": 0,
       "position_id": "CB",
-      "team_id": "FA",
+      "team_id": "JAC",
       "weeks": {
         "6": 0
       }
@@ -7064,16 +7064,16 @@
       }
     },
     {
-      "average": 12.5,
+      "average": 14,
       "filename": "corey-thornton.php",
       "games": 1,
       "player_id": 27702,
       "player_name": "Corey Thornton",
-      "points": 12.5,
+      "points": 14,
       "position_id": "CB",
       "team_id": "CAR",
       "weeks": {
-        "9": 12.5
+        "9": 14
       }
     },
     {

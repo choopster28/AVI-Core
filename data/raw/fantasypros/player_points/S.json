@@ -762,12 +762,12 @@
       }
     },
     {
-      "average": 5.3,
+      "average": 5.4,
       "filename": "camryn-bynum.php",
       "games": 9,
       "player_id": 22757,
       "player_name": "Cam Bynum",
-      "points": 47.75,
+      "points": 48.5,
       "position_id": "S",
       "team_id": "IND",
       "weeks": {
@@ -779,7 +779,7 @@
         "6": 8,
         "7": 3,
         "8": 0,
-        "9": 6.8
+        "9": 7.5
       }
     },
     {
@@ -1032,12 +1032,12 @@
       }
     },
     {
-      "average": 12.6,
+      "average": 12.5,
       "filename": "jeremy-chinn.php",
       "games": 9,
       "player_id": 19429,
       "player_name": "Jeremy Chinn",
-      "points": 113,
+      "points": 112.25,
       "position_id": "S",
       "team_id": "LV",
       "weeks": {
@@ -1049,7 +1049,7 @@
         "6": 14.3,
         "7": 11.5,
         "8": 17,
-        "9": 12
+        "9": 11.3
       }
     },
     {
@@ -1550,12 +1550,12 @@
       }
     },
     {
-      "average": 9.2,
+      "average": 9.4,
       "filename": "julian-love.php",
       "games": 8,
       "player_id": 18243,
       "player_name": "Julian Love",
-      "points": 73.5,
+      "points": 75,
       "position_id": "S",
       "team_id": "SEA",
       "weeks": {
@@ -1566,7 +1566,7 @@
         "6": 5.3,
         "7": 1.5,
         "8": 9,
-        "9": 10.5
+        "9": 12
       }
     },
     {
@@ -2304,12 +2304,12 @@
       }
     },
     {
-      "average": 7.8,
+      "average": 8,
       "filename": "calen-bullock.php",
       "games": 8,
       "player_id": 26111,
       "player_name": "Calen Bullock",
-      "points": 62.5,
+      "points": 64,
       "position_id": "S",
       "team_id": "HOU",
       "weeks": {
@@ -2320,7 +2320,7 @@
         "5": 1.5,
         "6": 14,
         "7": 5.3,
-        "9": 11.5
+        "9": 13
       }
     },
     {
@@ -2369,7 +2369,7 @@
       "player_name": "AJ Finley",
       "points": 3.75,
       "position_id": "S",
-      "team_id": "SEA",
+      "team_id": "FA",
       "weeks": {
         "2": 0,
         "3": 3.8,

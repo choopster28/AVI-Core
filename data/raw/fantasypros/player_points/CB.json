@@ -719,12 +719,12 @@
       }
     },
     {
-      "average": 6.6,
+      "average": 6.8,
       "filename": "andru-phillips.php",
       "games": 8,
       "player_id": 26164,
       "player_name": "Dru Phillips",
-      "points": 52.75,
+      "points": 54.25,
       "position_id": "CB",
       "team_id": "NYG",
       "weeks": {
@@ -735,7 +735,7 @@
         "5": 20.5,
         "6": 5.3,
         "7": 1.5,
-        "9": 3.8
+        "9": 5.3
       }
     },
     {
@@ -1238,12 +1238,12 @@
       }
     },
     {
-      "average": 6.1,
+      "average": 6,
       "filename": "james-pierre.php",
       "games": 8,
       "player_id": 19659,
       "player_name": "James Pierre",
-      "points": 49,
+      "points": 48.25,
       "position_id": "CB",
       "team_id": "MIN",
       "weeks": {
@@ -1254,7 +1254,7 @@
         "5": 4.5,
         "7": 6,
         "8": 8.8,
-        "9": 8.3
+        "9": 7.5
       }
     },
     {
@@ -1583,12 +1583,12 @@
       }
     },
     {
-      "average": 6.1,
+      "average": 5.9,
       "filename": "derek-stingley-jr.php",
       "games": 8,
       "player_id": 23498,
       "player_name": "Derek Stingley Jr.",
-      "points": 48.75,
+      "points": 47.25,
       "position_id": "CB",
       "team_id": "HOU",
       "weeks": {
@@ -1599,7 +1599,7 @@
         "5": 0,
         "6": 9.8,
         "7": 4.5,
-        "9": 14.8
+        "9": 13.3
       }
     },
     {
@@ -3902,7 +3902,7 @@
       "player_name": "Alijah Huzzie",
       "points": 0,
       "position_id": "CB",
-      "team_id": "FA",
+      "team_id": "JAC",
       "weeks": {
         "6": 0
       }
@@ -4160,16 +4160,16 @@
       }
     },
     {
-      "average": 12.5,
+      "average": 14,
       "filename": "corey-thornton.php",
       "games": 1,
       "player_id": 27702,
       "player_name": "Corey Thornton",
-      "points": 12.5,
+      "points": 14,
       "position_id": "CB",
       "team_id": "CAR",
       "weeks": {
-        "9": 12.5
+        "9": 14
       }
     },
     {
