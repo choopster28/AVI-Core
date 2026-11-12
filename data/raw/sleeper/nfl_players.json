@@ -3280,7 +3280,7 @@
       "genius_id": "1398598",
       "rookie_year": "2023"
     },
-    "news_updated": 1794439530094,
+    "news_updated": 1794519023754,
     "number": 86,
     "oddsjam_id": "6209487DAAAC",
     "opta_id": null,
@@ -55507,7 +55507,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2024"
     },
-    "news_updated": 1794516024727,
+    "news_updated": 1794517523221,
     "number": 25,
     "oddsjam_id": "84C4F05F8EFF",
     "opta_id": null,
@@ -58380,7 +58380,7 @@
       "genius_id": "1463648",
       "rookie_year": "2024"
     },
-    "news_updated": 1794516624630,
+    "news_updated": 1794518123391,
     "number": 17,
     "oddsjam_id": "354055F05D44",
     "opta_id": null,
@@ -116171,7 +116171,7 @@
       "rookie_year": "2025",
       "source_id": "614b6215-3c79-48d9-ab8b-35a944703edc"
     },
-    "news_updated": 1794504358502,
+    "news_updated": 1794519023748,
     "number": 33,
     "oddsjam_id": "D1ABD80E70F6AD0E",
     "opta_id": null,
@@ -122807,10 +122807,10 @@
     "hashtag": "#kevinwinstonjr-NFL-TEN-23",
     "height": "74",
     "high_school": "DeMatha Catholic (MD)",
-    "injury_body_part": null,
+    "injury_body_part": "Shoulder",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "aeeb1e20-c663-4b41-9bfb-ddc576ba3e4e",
     "last_name": "Winston Jr.",
     "metadata": {
@@ -169225,7 +169225,7 @@
       "rookie_year": "2026",
       "source_id": "9f49c9b0-9d24-11ed-83ea-ab152886418a"
     },
-    "news_updated": 1794514223014,
+    "news_updated": 1794518423369,
     "number": 14,
     "oddsjam_id": null,
     "opta_id": null,
@@ -176396,7 +176396,7 @@
       "rookie_year": "2026",
       "source_id": "cd515a30-8f4c-11ec-9f33-1965c9c46e44"
     },
-    "news_updated": 1794439529065,
+    "news_updated": 1794517223372,
     "number": 25,
     "oddsjam_id": null,
     "opta_id": null,
@@ -183074,7 +183074,7 @@
       "genius_id": "1500213",
       "rookie_year": "2026"
     },
-    "news_updated": 1794450930138,
+    "news_updated": 1794517223372,
     "number": 53,
     "oddsjam_id": null,
     "opta_id": null,
@@ -275774,7 +275774,7 @@
       "injury_override_regular_2025_4": "Out",
       "rookie_year": "2014"
     },
-    "news_updated": 1794432927939,
+    "news_updated": 1794518123482,
     "number": 5,
     "oddsjam_id": "4CE26B1D3BB5",
     "opta_id": null,
@@ -336862,10 +336862,10 @@
     "hashtag": "#jaredgoff-NFL-DET-16",
     "height": "76",
     "high_school": "Marin Catholic (CA)",
-    "injury_body_part": "Chest",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "d1f282ff-3046-419a-b154-eb7b1dec7698",
     "last_name": "Goff",
     "metadata": {
@@ -336873,7 +336873,7 @@
       "genius_id": "941508",
       "rookie_year": "2016"
     },
-    "news_updated": 1794435929143,
+    "news_updated": 1794518423599,
     "number": 16,
     "oddsjam_id": "5E6B582A3879",
     "opta_id": null,
@@ -340244,7 +340244,7 @@
       "genius_id": "941690",
       "rookie_year": "2016"
     },
-    "news_updated": 1794454531399,
+    "news_updated": 1794519023764,
     "number": 85,
     "oddsjam_id": "A615AF6BB3D2",
     "opta_id": null,
@@ -393391,10 +393391,10 @@
     "hashtag": "#alvinkamara-NFL-NO-41",
     "height": "70",
     "high_school": "Norcross (GA)",
-    "injury_body_part": "Back",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "54e15478-3cc6-4a30-b662-e3e967f6e5da",
     "last_name": "Kamara",
     "metadata": {
@@ -393402,7 +393402,7 @@
       "genius_id": "998864",
       "rookie_year": "2017"
     },
-    "news_updated": 1794436228329,
+    "news_updated": 1794517523539,
     "number": 41,
     "oddsjam_id": "4DD7AD3020C5",
     "opta_id": null,
@@ -461258,10 +461258,10 @@
     "hashtag": "#deshonelliott-NFL-PIT-25",
     "height": "73",
     "high_school": "Rockwall-Heath (TX)",
-    "injury_body_part": "Ankle",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "15f9e309-5c38-47aa-b7ee-287253f2733e",
     "last_name": "Elliott",
     "metadata": {
@@ -461269,7 +461269,7 @@
       "genius_id": "1007129",
       "rookie_year": "2018"
     },
-    "news_updated": 1794444029358,
+    "news_updated": 1794518423585,
     "number": 25,
     "oddsjam_id": "E63BAC3C0608",
     "opta_id": null,
@@ -512763,10 +512763,10 @@
     "hashtag": "#noahfant-NFL-NO-87",
     "height": "76",
     "high_school": "Omaha South (NE)",
-    "injury_body_part": "Back",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "56ae8475-80e4-4f34-948a-cc04fda1d0cd",
     "last_name": "Fant",
     "metadata": {
@@ -512897,7 +512897,7 @@
       "injury_override_regular_2024_3": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1794504059931,
+    "news_updated": 1794518724729,
     "number": 1,
     "oddsjam_id": "828EC99117A1",
     "opta_id": null,
@@ -520101,10 +520101,10 @@
     "hashtag": "#tonypollard-NFL-TEN-20",
     "height": "72",
     "high_school": "Melrose (TN)",
-    "injury_body_part": null,
+    "injury_body_part": "Finger",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "69deefe0-9032-4bd2-b8e5-2c49a8f9bba2",
     "last_name": "Pollard",
     "metadata": {
@@ -520112,7 +520112,7 @@
       "genius_id": "1005525",
       "rookie_year": "2019"
     },
-    "news_updated": 1794419126301,
+    "news_updated": 1794518423585,
     "number": 20,
     "oddsjam_id": "792747EDCE23",
     "opta_id": null,
@@ -600090,7 +600090,7 @@
       "genius_id": "1009489",
       "rookie_year": "2020"
     },
-    "news_updated": 1794436828476,
+    "news_updated": 1794518724685,
     "number": 44,
     "oddsjam_id": "F0759E00A8F8",
     "opta_id": null,
@@ -601385,10 +601385,10 @@
     "hashtag": "#samfranklinjr-NFL-BUF-28",
     "height": "75",
     "high_school": "Citrus (FL)",
-    "injury_body_part": null,
+    "injury_body_part": "Shoulder",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "bdc50bc0-fe21-44d9-8cb2-66fce32c3b86",
     "last_name": "Franklin Jr.",
     "metadata": {
@@ -622309,7 +622309,7 @@
       "genius_id": "1006669",
       "rookie_year": "2021"
     },
-    "news_updated": 1794435028184,
+    "news_updated": 1794518723659,
     "number": 3,
     "oddsjam_id": "B26588814F61",
     "opta_id": null,
@@ -622548,7 +622548,7 @@
       "genius_id": "1078519",
       "rookie_year": "2021"
     },
-    "news_updated": 1794458730394,
+    "news_updated": 1794518123507,
     "number": 14,
     "oddsjam_id": "D8CD5325EF95",
     "opta_id": null,
@@ -626571,7 +626571,7 @@
     "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Doubtful",
+    "injury_status": "Questionable",
     "kalshi_id": "faa40c7a-2310-44f9-b441-bd30404dbee1",
     "last_name": "Stevenson",
     "metadata": {
@@ -626580,7 +626580,7 @@
       "injury_override_regular_2024_6": "Out",
       "rookie_year": "2021"
     },
-    "news_updated": 1794504658447,
+    "news_updated": 1794518724697,
     "number": 38,
     "oddsjam_id": "A0E1810E494A",
     "opta_id": null,
@@ -720323,7 +720323,7 @@
       "injury_override_regular_2025_1": "IR",
       "rookie_year": "2023"
     },
-    "news_updated": 1794496534788,
+    "news_updated": 1794519023488,
     "number": 2,
     "oddsjam_id": "69EE7B225AEF",
     "opta_id": null,
