@@ -1412,14 +1412,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
 
-## PLAYER LOOKUP: Mason Taylor
-- Player name: Mason Taylor
-- Player ID: 12498
-- Position: TE
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
-
 ## PLAYER LOOKUP: Matthew Golden
 - Player name: Matthew Golden
 - Player ID: 12501
@@ -1627,6 +1619,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Lightskin Legends ✊🏽
 - Current owner roster ID: 6
 - Team file: 06_Lightskin_Legends.md
+
+## PLAYER LOOKUP: Reggie Virgil
+- Player name: Reggie Virgil
+- Player ID: 13297
+- Position: WR
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Team file: 03_Ravens_Regime.md
 
 ## PLAYER LOOKUP: Rhamondre Stevenson
 - Player name: Rhamondre Stevenson
@@ -2029,6 +2029,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: HOU
 - Championship AVI (C-AVI, 0-100): 38.2
 - Dynasty AVI (D-AVI, 0-100): 68.0
+- Availability: available
+
+## AVAILABLE PLAYER: Mason Taylor
+- Player name: Mason Taylor
+- Player ID: 12498
+- Position: TE
+- NFL team: NYJ
+- Championship AVI (C-AVI, 0-100): 35.6
+- Dynasty AVI (D-AVI, 0-100): 66.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Mack Hollins
@@ -2866,15 +2875,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: LVR
 - Championship AVI (C-AVI, 0-100): 18.2
 - Dynasty AVI (D-AVI, 0-100): 43.3
-- Availability: available
-
-## AVAILABLE PLAYER: Reggie Virgil
-- Player name: Reggie Virgil
-- Player ID: 13297
-- Position: WR
-- NFL team: ARI
-- Championship AVI (C-AVI, 0-100): 18.1
-- Dynasty AVI (D-AVI, 0-100): 43.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Drew Allar

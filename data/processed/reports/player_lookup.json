@@ -15,6 +15,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00012498",
+      "c_avi": 35.6,
+      "d_avi": 66.5,
+      "nfl_team": "NYJ",
+      "player_name": "Mason Taylor",
+      "position": "TE",
+      "sleeper_id": "12498",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00004177",
       "c_avi": 34.2,
       "d_avi": 54.7,
@@ -1126,18 +1138,6 @@
       "player_name": "Dylan Laube",
       "position": "RB",
       "sleeper_id": "11574",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00013297",
-      "c_avi": 18.1,
-      "d_avi": 43.9,
-      "nfl_team": "ARI",
-      "player_name": "Reggie Virgil",
-      "position": "WR",
-      "sleeper_id": "13297",
       "status": "Active"
     },
     {
@@ -5549,22 +5549,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00012498",
-      "c_avi": 35.6,
-      "d_avi": 66.5,
-      "nfl_team": "NYJ",
-      "owner_id": "992908759074680832",
-      "player_name": "Mason Taylor",
-      "position": "TE",
-      "roster_id": 3,
-      "sleeper_id": "12498",
-      "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00012501",
       "c_avi": 80.3,
       "d_avi": 90.6,
@@ -5862,7 +5846,7 @@
       "position": "WR",
       "roster_id": 1,
       "sleeper_id": "9493",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "01_Conquistadors.md",
       "team_name": "Conquistadors"
     },
@@ -5977,6 +5961,22 @@
       "status": "Active",
       "team_file": "06_Lightskin_Legends.md",
       "team_name": "Lightskin Legends ✊🏽"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00013297",
+      "c_avi": 18.1,
+      "d_avi": 43.9,
+      "nfl_team": "ARI",
+      "owner_id": "992908759074680832",
+      "player_name": "Reggie Virgil",
+      "position": "WR",
+      "roster_id": 3,
+      "sleeper_id": "13297",
+      "status": "Active",
+      "team_file": "03_Ravens_Regime.md",
+      "team_name": "Ravens Regime "
     },
     {
       "active": true,
