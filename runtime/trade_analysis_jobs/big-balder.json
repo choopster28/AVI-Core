@@ -38,9 +38,489 @@
       ]
     },
     "createdAt": 1794531022260,
-    "updatedAt": 1794531024098,
+    "updatedAt": 1794531118430,
     "expiresAt": 1794963022260,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (Retool) proposes sending WR A.J. Brown, RB Chuba Hubbard, and a 2028 2nd-round pick to Mile High Royal Lions (Increase Playoff Odds) in exchange for WR Garrett Wilson and RB Jonah Coleman. The proposal aligns well with Big Balder Brand's retooling goal by acquiring 26-year-old dynasty cornerstone Garrett Wilson (91.4 D-AVI) and 23-year-old rookie lead back Jonah Coleman (80.5 D-AVI). For Mile High Royal Lions, adding Chuba Hubbard (72.9 C-AVI) provides an immediate starting RB2 to pair with Jahmyr Gibbs, satisfying their thin RB depth constraint. However, because Mile High's primary goal is Increase Playoff Odds, parting with Garrett Wilson (76.8 C-AVI, trending toward Week 10 availability after shedding his non-contact jersey) for an injured/transitioning A.J. Brown (31.1 C-AVI) creates a temporary starting WR deficit. Adding veteran WR Chris Godwin Jr. (36.9 C-AVI / 72.6 D-AVI) to the outgoing package bridges that WR gap and builds a mutually viable proposal.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "A.J. Brown",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 29,
+              "cavi": 31.1,
+              "davi": 78.6,
+              "publicMarket": 75,
+              "leagueMarket": 78.6
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 72.9,
+              "davi": 83.1,
+              "publicMarket": 78,
+              "leagueMarket": 83.1
+            },
+            {
+              "name": "2028 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 76.8,
+              "davi": 91.4,
+              "publicMarket": 88,
+              "leagueMarket": 91.4
+            },
+            {
+              "name": "Jonah Coleman",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 23,
+              "cavi": 55.4,
+              "davi": 80.5,
+              "publicMarket": 72,
+              "leagueMarket": 80.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "C-",
+            "userShare": 60,
+            "otherShare": 40,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The submitted package heavily favors Big Balder Brand's long-term timeline. Retooling around 26-year-old Garrett Wilson and 23-year-old Jonah Coleman gives Choop major youth and dynasty trajectory. However, Mile High Royal Lions faces a short-term WR downgrade while trying to Increase Playoff Odds, as A.J. Brown's current C-AVI (31.1) reflects his injury-impacted campaign in New England."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Retaining all requested foundation assets (A.J. Brown, Chuba Hubbard, 2028 2nd) while adding veteran WR Chris Godwin Jr. balances the offer for Mile High Royal Lions. Mile High receives a high-volume RB starter in Hubbard to solve their thin backfield depth behind Jahmyr Gibbs, plus two startable veteran receivers (A.J. Brown and Chris Godwin Jr.) and draft liquidity, giving them the lineup stability required for their playoff push."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 20,
+              "summary": "The submitted package heavily favors Big Balder Brand's long-term timeline. Retooling around 26-year-old Garrett Wilson and 23-year-old Jonah Coleman gives Choop major youth and dynasty trajectory. However, Mile High Royal Lions faces a short-term WR downgrade while trying to Increase Playoff Odds, as A.J. Brown's current C-AVI (31.1) reflects his injury-impacted campaign in New England."
+            },
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Immediate lineup baseline increases with Garrett Wilson entering as WR2, though surrendering Chuba Hubbard reduces RB depth."
+            },
+            "dynastyOutlook": {
+              "score": 55,
+              "summary": "Acquiring a 26-year-old elite WR core piece (91.4 D-AVI) and a 23-year-old rookie lead back enhances long-term core value."
+            },
+            "lineupQuality": {
+              "score": 25,
+              "summary": "Garrett Wilson slots in alongside Nico Collins to create a potent long-term WR tandem."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Parting with Chuba Hubbard puts greater reliance on Bhayshul Tuten and Omarion Hampton for RB depth."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Sending a 2028 2nd-round pick slightly lowers draft capital reserves."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -20,
+              "summary": "The submitted package heavily favors Big Balder Brand's long-term timeline. Retooling around 26-year-old Garrett Wilson and 23-year-old Jonah Coleman gives Choop major youth and dynasty trajectory. However, Mile High Royal Lions faces a short-term WR downgrade while trying to Increase Playoff Odds, as A.J. Brown's current C-AVI (31.1) reflects his injury-impacted campaign in New England."
+            },
+            "championshipOutlook": {
+              "score": 5,
+              "summary": "Adding Chuba Hubbard (72.9 C-AVI) immediately resolves the team's critical RB2 depth need behind Jahmyr Gibbs."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Trading 26-year-old Garrett Wilson reduces top-end WR dynasty value, offset partially by A.J. Brown, Godwin, and a 2028 2nd."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Net starting lineup production remains stable as RB2 gains balance out the immediate WR transition."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Significantly strengthens RB and WR bench depth for a competitive stretch run."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Gains a 2028 2nd-round pick for future roster maneuvering."
+            }
+          },
+          "explanation": "The trade successfully moves dynasty core value to Big Balder Brand while providing Mile High Royal Lions with immediate RB2 starting strength and deep receiver coverage needed to Increase Playoff Odds."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand nets +27.8 total C-AVI in incoming player assets (Wilson 76.8 + Coleman 55.4 vs Brown 31.1 + Hubbard 72.9), strengthening weekly WR scoring.",
+          "sideADynastyImpact": "Big Balder Brand gains +20.2 net player D-AVI (171.9 vs 161.7) while surrendering a 48.5 D-AVI draft asset, achieving an age-insulating retool.",
+          "sideARosterImpact": "Garrett Wilson pairs with Nico Collins in the starting WR core, while Jonah Coleman joins a young RB room with Tuten and Hampton.",
+          "sideBChampionshipImpact": "Mile High Royal Lions acquires Chuba Hubbard (72.9 C-AVI) to instantly fill their RB2 slot alongside Jahmyr Gibbs.",
+          "sideBDynastyImpact": "Mile High moves 26-year-old Wilson (91.4 D-AVI) for 29-year-old A.J. Brown (78.6 D-AVI), 27-year-old Hubbard (83.1 D-AVI), and a 2028 2nd pick.",
+          "sideBRosterImpact": "Resolves backfield thinness behind Gibbs and provides multiple veteran starter options across RB2, WR2, and FLEX.",
+          "valueAssessment": "Fair multi-asset exchange where Big Balder Brand gets younger upside and Mile High gets immediate positional depth and starting usability."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Garrett Wilson remains a premier dynasty WR core asset under a $130M contract in New York, averaging nearly 8 targets per game and trending toward playing in Week 10 after shedding his red non-contact practice jersey. Rookie Jonah Coleman has taken over primary early-down touches in Denver (47 carries, 3 TDs, zero career fumbles). A.J. Brown maintains elite career talent despite an injury-impacted 2026 season in New England.",
+          "aviVsMarket": "Public market rates Garrett Wilson as a top-10 dynasty wide receiver; AVI reflects this with a 91.4 D-AVI. A.J. Brown's current C-AVI (31.1) reflects his temporary health depression, while his 78.6 D-AVI captures his multi-year ceiling upon full recovery.",
+          "relevantContext": [
+            "Garrett Wilson practiced without a non-contact jersey midweek and is trending toward playing in Week 10.",
+            "Jonah Coleman has established lead-back carry share in Denver as a rookie with steady contact balance.",
+            "A.J. Brown's C-AVI is temporarily depressed due to missed time and transition in New England, but his long-term dynasty baseline remains high."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions has thin RB depth behind Jahmyr Gibbs and Jonah Coleman. Acquiring Chuba Hubbard gives them a reliable, healthy RB2 starter for their playoff push.",
+          "packageFit": "Chuba Hubbard perfectly fixes Mile High's RB depth issue. A.J. Brown provides elite WR upside upon full return to support Drake London and Davante Adams.",
+          "lineupReplacement": "Chuba Hubbard immediately slots into Mile High's RB2 starter spot, raising backfield floor while Courtland Sutton and Davante Adams maintain WR/FLEX output.",
+          "competitiveWindowFit": "Mile High's goal is Increase Playoff Odds; adding immediate starting RB points directly supports winning regular-season matchups.",
+          "positionalScarcity": "Starting running backs with stable volume like Chuba Hubbard carry high premium value in 16-team PPR leagues."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 10,
+            "packageMatch": 0,
+            "lineupReplacement": 4,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 38,
+          "classification": "Unlikely",
+          "explanation": "Cornerstone downgrade: seller relinquishes D-AVI 91.4 for a strongest returning player at 83.1, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "structuralRejection": "Cornerstone downgrade: seller relinquishes D-AVI 91.4 for a strongest returning player at 83.1, without enough premium first-round capital or proven starting assets to bridge the quality gap."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Complete offer constructed and analyzed. Acceptance is uncertain (38% Market Reality estimate). Cornerstone downgrade: seller relinquishes D-AVI 91.4 for a strongest returning player at 83.1, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "A.J. Brown",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 29,
+              "cavi": 31.1,
+              "davi": 78.6,
+              "publicMarket": 75,
+              "leagueMarket": 78.6
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 72.9,
+              "davi": 83.1,
+              "publicMarket": 78,
+              "leagueMarket": 83.1
+            },
+            {
+              "name": "Chris Godwin Jr.",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 30,
+              "cavi": 36.9,
+              "davi": 72.6,
+              "publicMarket": 70,
+              "leagueMarket": 72.6
+            },
+            {
+              "name": "2028 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 76.8,
+              "davi": 91.4,
+              "publicMarket": 88,
+              "leagueMarket": 91.4
+            },
+            {
+              "name": "Jonah Coleman",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 23,
+              "cavi": 55.4,
+              "davi": 80.5,
+              "publicMarket": 72,
+              "leagueMarket": 80.5
+            }
+          ],
+          "whyUserShouldDoIt": "You secure 26-year-old elite WR Garrett Wilson (91.4 D-AVI) and ascending 23-year-old Denver lead back Jonah Coleman (80.5 D-AVI), accelerating your Retool goals while keeping all premium 1st-round draft capital intact.",
+          "whyOpponentMightAccept": "Mile High receives immediate starting RB production in Chuba Hubbard (72.9 C-AVI) to pair with Jahmyr Gibbs, plus two veteran receivers (A.J. Brown and Chris Godwin Jr.) and a 2028 2nd-round pick to solidify their playoff qualification run."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "A.J. Brown",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 29,
+              "cavi": 31.1,
+              "davi": 78.6,
+              "publicMarket": 75,
+              "leagueMarket": 78.6
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 72.9,
+              "davi": 83.1,
+              "publicMarket": 78,
+              "leagueMarket": 83.1
+            },
+            {
+              "name": "2028 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2029 Round 2 (Big Balder Brand)",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 76.8,
+              "davi": 91.4,
+              "publicMarket": 88,
+              "leagueMarket": 91.4
+            },
+            {
+              "name": "Jonah Coleman",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 23,
+              "cavi": 55.4,
+              "davi": 80.5,
+              "publicMarket": 72,
+              "leagueMarket": 80.5
+            }
+          ],
+          "rationale": "If you prefer to retain Chris Godwin Jr., adding a second future 2nd-round pick (2029 2nd) alongside A.J. Brown, Chuba Hubbard, and the 2028 2nd provides extra draft currency to entice Mile High."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Incorporated context regarding Mile High's thin RB depth behind Gibbs and Coleman, their Increase Playoff Odds goal, Big Balder Brand's Retool window, Jonah Coleman's lead back role in Denver, and A.J. Brown's elite ceiling in New England."
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Garrett Wilson injury update 2026",
+          "Garrett Wilson news 2026",
+          "Jonah Coleman football player",
+          "Jonah Coleman NFL draft 2025 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeKr5F_ZDgz7-g9jerQLqT8aAUVluoDDaQpqeTObQrC3fHxfekfVS8hvwqJf3ZQ0y-JL3XRTEFoB_9bwFLeUXlIg4tNgAtYIObNVUO4nNeFQtD5V2yMl5WUMWYAQi2VrQ=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_lgO96gTYmYD0V3XBIPNFQoVk2JUZiXdqquUYUmOo4qYKdPHJIR-7kcz0P5TSRbQRN08rYdWTvGI2lN4Src-eDxBZdfingcRYB3W6z6TkhPQ8ig0Ue5VU9B2dFUTOoQNHAzVLJv79W2BRxRelYdknou4S",
+            "title": "pro-football-reference.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEwIVLC9ZgVRnY_RISxpenqSvuUEKHso5SguNW7rgoBduXJOkTuA_4Jd7k7PWwWWDcKfiEAbSbPT3kdF0pKAs07JRzuEW4dbYi2T0qVGXFD2jEsf2RFfDiuTeQBShQXJ9O9bKJQrqUbKpvC4KV75hvA_A=",
+            "title": "theringer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG19rmxHyP3wO7ByEUkbzgSyovPuKzvFpjX6YSTIMG9LHi_zxS2ASE-sd22rxqWlHdIAxgDMD9vTrSLbqCi7JDRzd8mL7pbrGjwdFkeWepSMss6uEDGF-ajzEezvM7EH5pC5lNGTEeHT_1r-APIW-I=",
+            "title": "footballfoundation.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMPWyebe80ehY1s2owh7GhaSRJTGPrBtoFuvtdlEdRWfNRJpxthC2syHtkPsoLY_DtAuo0QP9NTOpTO2cVQTgP4j60E_dv-xwMEvczI8Gu4M2AV-T5ujXzL6GPpQPIVsrT1Yf2HXd_8XpePZysJRR01s4eX1V-f9KHfOiKBXIaMpQJL3Z8hQ==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-P_qRF7kdIrTr6n_Q5YhWWvucqyrpTqLHzza4-YB31QEjywKSOP-tkDIxWizwWLCrd43m7Kr8A_SRMSTMe3EPRhInDoxU12myaaq5uV4t4BMfmf8-R3GhburUCgfCOrGRWhEjPRipIK2kktvCRRWggQsyxltC4tj16pCgRYdex9dCEoXPjVPSl2s3RJ114ABBvXNWLZheyjnm2eyLAehP2g-vvNJviIyJkVdGQh8u5-IEJGXDyDKJXg==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfukmMJVf_n3Tdk_V3jLpa8Eo8zhNdeIqMoXHSlcfY5JrtEuVlr_Ui4Ejumyer8If04npkQaxHlS57c-_70v-zGWRjB7FKcn04kDkS6hFa0gFDikHg6R-HDKIOlhseAVdU-LciDZyA6DnabFXVlHu6LHIltEbBuSdSGmV2",
+            "title": "denverbroncos.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgITewS4VHYAcON8DxjccBhDwxWgPTmiic546kTDOl8jnQngqCf0gg-YFWLjDkPKT7FyOXjkSk2vWjtJVRF_FHfYygEkV-D47Iw9tqxZjEwGwInQ3x6vFmVbP6Ur2NwoLOLEuCt5ErBRLEsPIFwLK50qOTr7aY-rUPhM0OIhHT",
+            "title": "dynastyfootballfactory.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAlBYJpHES9sNi6_JreFCDN-4BTe0fzyI7jmcC0vYdKV6884JFNOKvhzv7rbWNyxvN7-bL7EO_IqRKD63JyIR3Brvdb-Szl5D2kgfoAzPEY61KHGlBHk51bW7ciSI4-oZhc303qtFdWSic",
+            "title": "pff.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsc_AhLENhIwbWUroBhgCrmQ9xc0os5VVzcgz-08EhwqT-EcU1LNow8oclG2ePL6a8_VHL0aqvdinuXo3GVWIGrA1Hci1RzLJdWXdWpvk6t35-HD2VJJfgDhn5TWmm-ahGb_dZ0qL9OTviayaxEGvrwifXlpHjfxhBtGiuz8qsP-uvAJ4Tb1mqu5S2csKYUZ-HzzkNaajRew3ykYhdDLWt4UASuuPR0ZwKYEpgpESjr1tooA==",
+            "title": "rotoviz.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS8mFA4CXGExNfU2AEnsv0cxMArTqzsZ2ywvO9-85C2IGi2SRgRVmVJ7MnbiFk1_eWEkLLsgK2aqC4MY__XjbPnhNwz8IhYLUf151D4HxU1qi1uiSYDlZ0OtkNmU73lJFHR3A_cNidA9OpWbUVYGYMq5DahLCur0PjYDlitDH-xRANuyn98yxtZnLjbdEvgT_qMZ_kmQ==",
+            "title": "nfltraderumors.co"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-FzZfDk2rIveRfZ9l5Y3KPy-LlT_dVnQuCOVLKO_oo_i1EsGVcvwqgXinr0PiBanN9bXsGbCEhROHbnvcHlnYSzAxjuu8KLgZjuNGB_Db6_nXBzqeQ_WCwSKFw5tA3mrrnMBExCoUsrauis8dffOFxcMqataj1ek5fSOnnpIq5y79YGPWNtRS",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbnA4B7Y11b6KJVdTxVXDVs7gDJ7kIrTK32j1WL3bOlU0vIVUuaR_k4vbYn6Ity-tNjJxu7w-qBnNaNxtBQ5GW7ltBxD6Fo3LBssKdSaDdnfpQt7zHnBYrC8IMKZLv2roJEFgbvzzy7PKJ3f8NSO33TslSHr2FRyZuuiF-wdTc7ZJkX0W5L9iEpIBOUTpcipRMNII1wcAA1A==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE54eg8NEsAh_eIOH05b641hAbhmQcqYgWD_W36SqB3YAWbyRyrM-LMqHmvURjAO6-ag20x8qxqNETIuwBULeh7wcaXfbdxckPV82wpuOxXxRFu1ZxSB0VX5tgJ6jwiaP88KWgYHaIo2ZLDWm2hNdFDDuD0EhGPYymUa-3byORnIe1jFf4GZjS_",
+            "title": "jetsxfactor.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhD5wddHEhxbxB3iRz59XAOUWKbFMkNoNy4-ZmlJxYF__Vfkd0F9BTgoqzPfTZr1vQWLShu2-sod4BoqGUn48aP4oH6_T0G61o-S5wopraj_1Vyw4aPUdgHvHGBPV4ka4DkF-pwWmQa4-Eu67-eC5HHlTYcAXcj9wwbc-wSWqtk0cLSmUiUJ6yIoJALEL7",
+            "title": "newyorkjets.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX_3a9yrqvk2H-SVBNuvhvysHhFYexdDtgpYahnXOu0c7elrdDbZCG4Bckl1eKn8FxkCwTKz3Z7rE1-lecrlyAqgoTHS6P-S_4On_gZCCGZmlWR-6UP4XkIoG41BtL5WbQfm7n9vO1VcHCLpD2qlC6Q1fVLAz0VRPjqY2sNg==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZOWpKbGY1yLijDAwK7VdkS6aeCZlkj86b3pLCXlgHUk_cUKjnnVSSneXz3wHoEu_IU4fAfBdYYaOhjeNd3VJwzLHeBZWP8ofporNvVHq8VvpJHf2INJCEMqWpWAWA8UsLMH8hYyXp2fjXr46obze_mGlBL31maplvkjQ6AM3FY1YUVtvuZhMUgPxRSQAC075wvgzkCaNiQzHF",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqhsVqVj6lIWKNeJMEu0Qz8L1rhOL8_eAVYh9NULs4Of4WBSj5tOm2z2OnJ7WQpXW9vEP0y33Q9n2eUfyrCs6pPGokIVp0Ovi4_I1NlWiL5pOX-hTt6OsW94PpbhRz566SdvMQfY7G3dXemBC55pzybpkkaVTFXZGS3czrQIGrez5odRRvi_kqXVONOrB-",
+            "title": "newyorkjets.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQv4I09YJcRHp0CNK7GebbBw3_92rJ44hyTprfXiyLhx1ssgtDexqiu6Kg44HyE--YYZvO37Ave8dGY3SF6_M-gj8S8KHI4OlhJ7rf8T2JZyWaYLyNe6j71r9EBL5dzkocmWZJvLcz-WrbI7g-WAirfydlGTderxNnzgSGgdWHY4T0M1sszk4zwaz-JE_UBkMdlY3fusCIEdsquR4=",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHURCFA4VMGouuJITPlkwHyp0saBWobodTK5GklGvmjirrbx8ppZPxpfx-vR2pAohDlvUe_tu-Ry1fHI_T9q9niyPfDq4tBr9R8X3ZWnCzQattgcKy3sLlrocV127HppiS5cAez1aSP8hRGCiWIuu2rUHeIGl2UuONUcAmJI5zIJAS4wgtV2xxJd7Xsfn0eEuKIzQ==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaYC2-KvGI8EY_pqIqR2ewKt5ztkUl6CO45yLLnbjPrf7DLEC9Zi9mwngs_eXmeHfQvtLIQQulvNwtw6MxzSC6BEJgrvVsxQQSCBZ0cek85_Eu7jD8WZdPt7pRWWnGjonlaVgj0LkHe_3g3NDwvPTPQIgtVYcYxxnMp-VgV450o5x480kyo6TwzlQSLG5Xue5V4Y6nB-UBuLbVObcaocTc1G3TZmx7ldQ=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFr6S_d-ckn_Pemb5va2BGmsqye9MLzYGqWa62CaasHYDNwoSIEoNSdqHr_vtKsBdkx1pRSPVNXEfkuXdTDs5tTVVEcYtHIZlBfYMt-FjscRSjArR0oxdyxPDXW7PA_VHMyjsljUykDd1WERD2Gv4eU2QqpDxw1JOIvfINQQnX-SOxWJ8pkyx319K1k-1K6KDSvKuBQZva6KaXqvcZzewU6BH-7",
+            "title": "reddit.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "49b253f7d9e82e78881cfaf869ced71b076ca777",
+        "aviCoreCommittedAt": "2026-11-12T21:39:45Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 88819,
+        "groundedMarketChars": 4597,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
   },
   {
     "id": "mwe6w7jd-e23d4d7e",
