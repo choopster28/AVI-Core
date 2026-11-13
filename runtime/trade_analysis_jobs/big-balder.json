@@ -24,9 +24,344 @@
       ]
     },
     "createdAt": 1794596463083,
-    "updatedAt": 1794596465431,
+    "updatedAt": 1794596543542,
     "expiresAt": 1795028463083,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand (Retool) seeks to acquire elite TE1 Trey McBride from Corgi Loaf Baking Co. (Win Championship), anchoring the proposal around rookie TE Tyler Warren. While a 1-for-1 swap of Warren (C-AVI 76.8) for McBride (C-AVI 94.7) creates an unviable 17.9 C-AVI starting gap for a championship contender, expanding the package to send Tyler Warren alongside WR DeVonta Smith (C-AVI 73.4) creates a highly compelling deal. For Corgi Loaf, inserting DeVonta Smith into FLEX2 replaces DJ Moore (C-AVI 51.1), generating a +22.3 FLEX boost that outweighs the TE slot drop and yields a net +4.4 starting lineup C-AVI improvement for their title push. For Big Balder Brand, consolidating depth into a locked-in 26-year-old TE cornerstone signed through 2029 perfectly advances their retooling strategy.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 24,
+              "cavi": 76.8,
+              "davi": 88.9,
+              "publicMarket": 88.9,
+              "leagueMarket": 88.9
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.7,
+              "davi": 92.9,
+              "publicMarket": 92.9,
+              "leagueMarket": 92.9
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "D",
+            "userShare": 70,
+            "otherShare": 30,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The initial 1-for-1 anchor proposal sends Tyler Warren (C-AVI 76.8) for Trey McBride (C-AVI 94.7). While advantageous for Big Balder Brand (+17.9 C-AVI, +4.0 D-AVI), it severely weakens Corgi Loaf's starting lineup without offering any replacement value for a franchise pursuing an immediate championship."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The recommended offer expands the trade to send Tyler Warren and WR DeVonta Smith for Trey McBride. This multi-starter return upgrades Corgi Loaf's FLEX2 slot (+22.3 C-AVI over DJ Moore), delivering a net +4.4 starting lineup C-AVI boost for their championship run while providing Big Balder Brand an elite long-term TE cornerstone."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 40,
+              "summary": "The initial 1-for-1 anchor proposal sends Tyler Warren (C-AVI 76.8) for Trey McBride (C-AVI 94.7). While advantageous for Big Balder Brand (+17.9 C-AVI, +4.0 D-AVI), it severely weakens Corgi Loaf's starting lineup without offering any replacement value for a franchise pursuing an immediate championship."
+            },
+            "championshipOutlook": {
+              "score": 35,
+              "summary": "Upgrades starting TE slot C-AVI from 76.8 to 94.7 (+17.9 C-AVI), raising overall weekly scoring potential."
+            },
+            "dynastyOutlook": {
+              "score": 50,
+              "summary": "Locks in a 26-year-old elite TE extended through 2029 with proven multi-year target dominance."
+            },
+            "lineupQuality": {
+              "score": 40,
+              "summary": "Directly elevates mandatory TE slot to top-tier league status."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Parting with DeVonta Smith narrows WR/FLEX depth behind Nico Collins and Rashee Rice."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "McBride represents an S-tier liquid asset with high public dynasty market value."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -40,
+              "summary": "The initial 1-for-1 anchor proposal sends Tyler Warren (C-AVI 76.8) for Trey McBride (C-AVI 94.7). While advantageous for Big Balder Brand (+17.9 C-AVI, +4.0 D-AVI), it severely weakens Corgi Loaf's starting lineup without offering any replacement value for a franchise pursuing an immediate championship."
+            },
+            "championshipOutlook": {
+              "score": 40,
+              "summary": "Net starting lineup C-AVI increases by +4.4 points as DeVonta Smith at FLEX2 (+22.3 C-AVI over DJ Moore) outweighs the TE slot downgrade."
+            },
+            "dynastyOutlook": {
+              "score": 30,
+              "summary": "Gains two highly productive dynasty assets aged 24 (Warren) and 27 (Smith)."
+            },
+            "lineupQuality": {
+              "score": 35,
+              "summary": "Significantly strengthens the second FLEX slot while retaining strong TE starter output in Warren."
+            },
+            "depthResilience": {
+              "score": 45,
+              "summary": "Adds proven WR2 depth to insulate against potential late-season injuries."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Converts one elite cornerstone into two startable, high-demand dynasty pieces."
+            }
+          },
+          "explanation": "Big Balder Brand consolidates WR depth to secure an S-tier tight end anchor for their retool, while Corgi Loaf Baking Co. improves total starting lineup output for their 2026 title push by upgrading their second FLEX slot."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand elevates their mandatory TE position from 76.8 C-AVI to 94.7 C-AVI, adding an immediate +17.9 advantage at the position.",
+          "sideADynastyImpact": "Secures Trey McBride (D-AVI 92.9), the top dynasty TE asset, perfectly matching the franchise's retool timeline.",
+          "sideARosterImpact": "Leverages WR depth (DeVonta Smith) to fill a vital positional need with a premier cornerstone.",
+          "sideBChampionshipImpact": "Corgi Loaf Baking Co. replaces DJ Moore (51.1 C-AVI) with DeVonta Smith (73.4 C-AVI) at FLEX2, creating a net starting C-AVI gain of +4.4 despite moving from McBride to Warren.",
+          "sideBDynastyImpact": "Acquires promising rookie TE Tyler Warren (D-AVI 88.9) and established WR DeVonta Smith (D-AVI 89.6).",
+          "sideBRosterImpact": "Removes a single-position dependency by spreading high-end points across TE and FLEX slots.",
+          "valueAssessment": "Adding DeVonta Smith balances the transaction across both franchises' strategic windows."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Trey McBride commands Tier 1 dynasty TE status following his 2025 First-Team All-Pro season and long-term contract extension through 2029. Public dynasty consensus rates McBride alongside Brock Bowers as an untouchable building block unless met with a multi-asset premium package.",
+          "aviVsMarket": "AVI values McBride at 94.7 C-AVI and 92.9 D-AVI, matching his elite public market status. Tyler Warren's high D-AVI (88.9) reflects strong rookie trajectory, but market sentiment demands an additional proven starter like DeVonta Smith to bridge the gap.",
+          "relevantContext": [
+            "McBride signed a 4-year, $76M extension ($43M guaranteed) with Arizona through 2029.",
+            "Cardinals rebuffed 2026 trade deadline inquiries, emphasizing his cornerstone status.",
+            "Big Balder Brand and Corgi Loaf completed a related multi-player deal in Week 8 of 2026."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "@awang1900 is pursuing a 2026 Championship. While reluctant to move McBride, adding a startable WR2/FLEX upgrade in DeVonta Smith increases overall weekly lineup projection.",
+          "packageFit": "Tyler Warren provides an immediate 76.8 C-AVI starter at TE, while DeVonta Smith solves Corgi Loaf's weak FLEX2 slot currently held by DJ Moore.",
+          "lineupReplacement": "Warren directly slides into the TE starting spot, preserving high-end positional utility for Corgi Loaf.",
+          "competitiveWindowFit": "DeVonta Smith (age 27) and Tyler Warren (age 24) fit both Corgi Loaf's immediate title run and long-term contention window.",
+          "positionalScarcity": "Elite TE target earners are scarce in 16-team full-PPR formats, justifying the inclusion of a high-tier WR like DeVonta Smith."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 10,
+            "packageMatch": 0,
+            "lineupReplacement": 4,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 38,
+          "classification": "Unlikely",
+          "explanation": "Cornerstone downgrade: seller relinquishes D-AVI 92.9 for a strongest returning player at 89.6, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "structuralRejection": "Cornerstone downgrade: seller relinquishes D-AVI 92.9 for a strongest returning player at 89.6, without enough premium first-round capital or proven starting assets to bridge the quality gap."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Complete offer constructed and analyzed. Acceptance is uncertain (38% Market Reality estimate). Cornerstone downgrade: seller relinquishes D-AVI 92.9 for a strongest returning player at 89.6, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 24,
+              "cavi": 76.8,
+              "davi": 88.9,
+              "publicMarket": 88.9,
+              "leagueMarket": 88.9
+            },
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 73.4,
+              "davi": 89.6,
+              "publicMarket": 89.6,
+              "leagueMarket": 89.6
+            }
+          ],
+          "receive": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.7,
+              "davi": 92.9,
+              "publicMarket": 92.9,
+              "leagueMarket": 92.9
+            }
+          ],
+          "whyUserShouldDoIt": "Secures the indisputable TE1 in fantasy football, giving Big Balder Brand an elite, locked-in cornerstone for their retooling roster while leveraging WR depth.",
+          "whyOpponentMightAccept": "Provides Corgi Loaf a net +4.4 starting lineup C-AVI upgrade for their 2026 title push by drastically boosting their FLEX2 slot with DeVonta Smith while retaining TE starter capability with Tyler Warren."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Tyler Warren",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "TE",
+              "age": 24,
+              "cavi": 76.8,
+              "davi": 88.9,
+              "publicMarket": 88.9,
+              "leagueMarket": 88.9
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 72.9,
+              "davi": 83.1,
+              "publicMarket": 83.1,
+              "leagueMarket": 83.1
+            }
+          ],
+          "receive": [
+            {
+              "name": "Trey McBride",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co. ",
+              "position": "TE",
+              "age": 26,
+              "cavi": 94.7,
+              "davi": 92.9,
+              "publicMarket": 92.9,
+              "leagueMarket": 92.9
+            }
+          ],
+          "rationale": "If Corgi Loaf prefers RB starter help over WR/FLEX, substituting Chuba Hubbard (C-AVI 72.9) for DeVonta Smith offers comparable starting point improvement for their championship run."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Trey McBride contract status NFL",
+          "Trey McBride news 2026 fantasy football"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz4MM1vi4arM0vycs0q9FSIBC3nXvPIcaTGzzY-SLOZoyS_4iHZmSPlPLUsOeH8i8V1zE2HZIBtSV38dwKY8l8BdirJdUL2hyM-jK9WEurf2GlzWFlTitfNGX0m9-xv00=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtlaQD8AKvJTGVLyZriy6RuAUYuShbaRQmbYlHRMAP9oQ_2VMXhd1Clr92TGsH29U-t5LoDqzFkHRctqe2rWVEH8kljO6nlIG1MuTVsxZd7Ib5IoSwXGxQVD14nQtYrfBTV4zTp1d8Nv4hTePKLANi4uCtiIZ94ZXbg4l0jyqDVWG91bFzbCnCVzxkPw5dUXll_iFntye1Utb-",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW42cSaKwidrOI7lJZtLvA8MBLOjaWB5t3wzu-mzyi21PvlUvzrTFrjUsj-EklHTYKJp7USf_rdSdozjEjdMMlulpUIT1-4gMq85qLnb_tZGmlNUgL4GufkchmkLiwGLsSSovDl6SmVNwK0YMN3_zlSSjjEQCNeGNRE3CBNNYYZHyDxWBgaIuAk8VjXW1LF-tFz8SvcUD4pkVRD1mMdCN9WgHkmStJAJE=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcFx_la6GY1kl4qZS7bAOMGHbtK1sUphT_C_1QUaNEedlYqwwVpJjS9NVa83WrjQSjksVev3Ce2evoBoEmhYfYa5yzk3Ra2eEQLXvjjTB3MAkVoWSYy5TgSEW-DlSgaxwxLi6QD4uObsQ_UlNvam4fA1VPhwYQKkY_16ZKmDdc6eHnWOHyCpa4mX8ErQg2EmwK6Swo",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn3xGa6Ix255goG7rT6V0yU-KOvb450SvFy0lcPSF-vrpGz8hogs0wU24mXmkjHUXpM4E-ll7u7Rt_8huRe7ZKimmTKzyJwonh2rlyyNAB9VnHcUcj2HOxLuuVGlZoBCLq2_AtPVN5GVeJq_bP31dG9tEETA9Lo1xTNQ==",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxlbTYJGw6RFE7OsptQRFvyLYp5FaM0QPjs5QTrpuEiDo3856F63giCVAs1YgRS8sK6klTuLIlyUMouS6dofl2fx31x_lj0FElnQnHy6F5ftmWXtwvXIGMEUjjS5QavBMRQZDRa9_dust8OypePr2zsRMCuL6m_grrEAD7ql0=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyDpfKd-Ziv2yqheky_UVq9r7v5PL4alus1ycYDry7QGEoPDRzKqlTQu9yBPNibCE8rQG6vJc52ctNMiTMOBQuOztRDzYAJJfWIzkzr3c1YOVOXOhpMKbx4aFegilO0mOJ1nk02648xGDo17mO6PUr5l7VJyuyyfv7tNCyQLp_K5fH0sXQEFvT66Ayk6__nB5zdBY9",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7p54uq6og-8IsjEA0EiMsupYpFNdtcee_Pt2alfqI5Fswcr88AmSPKCgGH4Wu1a_LkRlBIqQwajHsyvKsud_ZEyNxpqXWRzBmGlPNuxoumRAsI96j8wrQJxGnLs37Ib-Q",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAvcfmgecaPIcZ9M6uNOWlcirV2DMZ82XkiIYAlPNJHydbt0Kxl3UjsVIua975iEXH2qkkm3XhcjIHYO26osh1ghOU9-ymNf9HbQ1Fv754PAgapsfvP_Dgtd6ocFZbcdKtr0HOfc9Dpyi0XNl9ZXyfVS3mAgQ1z4ZD6z9QspHSDL614kGpErbwRgaf4mTYeBrDS5Lye6ifUL-2x-4cAbo3kVbGbw==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEe37Y-0afsO1gHfC0h9vRwmXhLFrD-M4_-O2v_F43LmrmeShchycwcdmpWDP3OkOkS_OFw3A8EzDKV3ifKQzkqc_Ws4dDnw6bQglnWQAMKVAoQh49y46Xf_B0Fw10l-3YjZoPQuzt9oxeQVnK4YUmDBZsbEEfJpC_t87SmuuWjfR0s6baAQeGEoSJdYRnLb2mWQjpWS1WWuEJeQM1_yunJtrSXztjID-IQ-A2gH_vNnYWIM3EYO4Y9HwGcwuIw1A=",
+            "title": "essentiallysports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDZW5jyNPSKOq9QXihR1dDdmgTkPlr9XlEiZfi_zHzao53PkvnwPfnscuk5HNH8YeMPRy08SoM3qDtk-gFfnWYLl40RUTyUeW-rlAFQEX3qvndNlfJy9QsvFIKwFAUwDVygFudjLb9sXX6nSsfoj-mOjlYsx0whP4hluOOvjdWF-HU8Zgcgw7wfUKku2mCM2bHP3mh-yPehCZ-QoGxNXtUUbp-KeBQmoNAUS4v",
+            "title": "rotoballer.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "18f9d917057cf8dd20cfa7b1ce007e9036c58a80",
+        "aviCoreCommittedAt": "2026-11-13T13:39:26Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 92361,
+        "groundedMarketChars": 3590,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
   },
   {
     "id": "mwf3pc84-7421e7f0",
