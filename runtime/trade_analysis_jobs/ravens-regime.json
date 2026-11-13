@@ -37,9 +37,374 @@
       ]
     },
     "createdAt": 1794575522892,
-    "updatedAt": 1794575526165,
+    "updatedAt": 1794575583290,
     "expiresAt": 1795007522892,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Ravens Regime proposes sending WR Jaylen Waddle and WR Deebo Samuel Sr. to Mile High Royal Lions for TE Travis Kelce, a 2027 2nd (King Jesus), and a 2028 1st (Mile High). While acquiring Kelce fills a massive TE void for Ravens Regime (+57.4 C-AVI starting boost at TE) and nets premium draft capital, the submitted package creates an unacceptable lineup downgrade (-15.3 net C-AVI) and capital drain for Mile High Royal Lions, who are also actively in an 'Increase Playoff Odds' window. To make this deal negotiable, Ravens Regime must send additional premium draft capital (such as a 2029 1st) to balance the asset equation.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 27,
+              "cavi": 54,
+              "davi": 84,
+              "publicMarket": 85,
+              "leagueMarket": 84
+            },
+            {
+              "name": "Deebo Samuel Sr.",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 30,
+              "cavi": 38.4,
+              "davi": 69.2,
+              "publicMarket": 68,
+              "leagueMarket": 69.2
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Travis Kelce",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "TE",
+              "age": 37,
+              "cavi": 79.3,
+              "davi": 79.7,
+              "publicMarket": 78,
+              "leagueMarket": 79.7
+            },
+            {
+              "name": "2027 2nd · King Jesus · Projected Late · original owner All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "D+",
+            "userShare": 68,
+            "otherShare": 32,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "Ravens Regime heavily wins the submitted package by acquiring an elite TE1 starter and two premium picks while surrendering two wide receivers. However, Mile High Royal Lions suffers a major starting TE downgrade and loses top-tier draft capital while pursuing a playoff spot."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "By adding a 2029 1st to the outgoing package, Ravens Regime provides Mile High Royal Lions with pick replacement liquidity while securing Travis Kelce and future pick flexibility."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 36,
+              "summary": "Ravens Regime heavily wins the submitted package by acquiring an elite TE1 starter and two premium picks while surrendering two wide receivers. However, Mile High Royal Lions suffers a major starting TE downgrade and loses top-tier draft capital while pursuing a playoff spot."
+            },
+            "championshipOutlook": {
+              "score": 55,
+              "summary": "Starting lineup strength surges due to Kelce replacing Eli Raridon (+57.4 C-AVI delta at TE)."
+            },
+            "dynastyOutlook": {
+              "score": 45,
+              "summary": "Gains 2028 1st round draft asset liquidity, balancing out the age profile of Kelce."
+            },
+            "lineupQuality": {
+              "score": 70,
+              "summary": "Significant upgrade to mandatory TE position in a 16-team league format."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Slight dilution of wide receiver bench depth after parting with Waddle and Deebo."
+            },
+            "flexibilityLiquidity": {
+              "score": 60,
+              "summary": "Acquires valuable 1st and 2nd round pick currency."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -36,
+              "summary": "Ravens Regime heavily wins the submitted package by acquiring an elite TE1 starter and two premium picks while surrendering two wide receivers. However, Mile High Royal Lions suffers a major starting TE downgrade and loses top-tier draft capital while pursuing a playoff spot."
+            },
+            "championshipOutlook": {
+              "score": -35,
+              "summary": "TE position drops from Kelce (79.3) to Schultz (51.5), reducing immediate weekly starting floor."
+            },
+            "dynastyOutlook": {
+              "score": -25,
+              "summary": "Surrenders 2028 1st and 2027 2nd round capital for non-cornerstone receivers."
+            },
+            "lineupQuality": {
+              "score": -30,
+              "summary": "Net starting C-AVI drops by -15.3 points per week across mandatory lineup slots."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Adds WR starter depth with Waddle and Deebo."
+            },
+            "flexibilityLiquidity": {
+              "score": -40,
+              "summary": "Drains key future draft picks."
+            }
+          },
+          "explanation": "Ravens Regime gains massive positional advantage at TE and future pick capital, while Mile High Royal Lions takes a severe hit to TE production and draft reserves."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Ravens Regime addresses its biggest starting weakness by replacing Eli Raridon (21.9 C-AVI) with Travis Kelce (79.3 C-AVI), boosting weekly playoff lineup performance.",
+          "sideADynastyImpact": "Acquiring a 2028 1st (79.3 D-AVI) and 2027 2nd (48.5 D-AVI) offsets the short-term age curve of 37-year-old Travis Kelce.",
+          "sideARosterImpact": "Fills mandatory TE slot while shifting Carnell Tate and Kyle Monangai into starting FLEX consideration.",
+          "sideBChampionshipImpact": "Mile High Royal Lions suffers a -27.8 C-AVI hit at TE. Inserting Waddle into FLEX (+12.5 C-AVI) yields a net negative weekly starting C-AVI impact of -15.3.",
+          "sideBDynastyImpact": "Surrenders top-tier draft capital without receiving an S-tier cornerstone asset in return.",
+          "sideBRosterImpact": "Forces Dalton Schultz into mandatory TE1 duties while adding Waddle to WR/FLEX rotation.",
+          "valueAssessment": "The package is asymmetric in favor of Ravens Regime. Asking a playoff-bound team to surrender its TE1 plus 1st and 2nd round picks for Waddle and Deebo is unsustainable without added compensation."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Travis Kelce remains a high-end win-now TE option for 2026 contenders. Waddle's dynasty sentiment remains solid but tied to Miami's passing volume, while Deebo Samuel is viewed as a veteran flex option.",
+          "aviVsMarket": "Public market rates Waddle highly in dynasty (WR2 tier), but in a 16-team league context, Kelce's position-scarce C-AVI outweighs Waddle's current seasonal production.",
+          "relevantContext": [
+            "Kelce signed a 1-year contract structure in 2026 with potential void/retirement options post-season.",
+            "In 16-team full PPR formats, tight end positional advantage creates distinct weekly matchup leverage.",
+            "Mile High Royal Lions is in a Playoff Push window and cannot afford starting lineup production losses."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions wants to Increase Playoff Odds. Demanding their starting TE1 plus 1st/2nd round picks degrades their immediate starting lineup and future flexibility.",
+          "packageFit": "Poor fit for Mile High Royal Lions as submitted because it creates a gaping hole at tight end.",
+          "lineupReplacement": "Dalton Schultz (51.5 C-AVI) replaces Kelce (79.3 C-AVI), creating a sharp downgrade at TE.",
+          "competitiveWindowFit": "Directly conflicts with Mile High's stated goal of increasing playoff qualification odds.",
+          "positionalScarcity": "Tight End is highly scarce in 16-team leagues; surrendering Kelce without a high-end TE return creates severe structural vulnerability."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 5,
+            "packageMatch": 4,
+            "lineupReplacement": 3,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 29,
+          "classification": "Impossible",
+          "explanation": "Mile High Royal Lions will not accept losing their starting TE1 while also giving up 1st and 2nd round draft picks during an active playoff push."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Complete offer constructed and analyzed. Acceptance is uncertain (29% Market Reality estimate). Mile High Royal Lions will not accept losing their starting TE1 while also giving up 1st and 2nd round draft picks during an active playoff push.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 27,
+              "cavi": 54,
+              "davi": 84,
+              "publicMarket": 85,
+              "leagueMarket": 84
+            },
+            {
+              "name": "Deebo Samuel Sr.",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 30,
+              "cavi": 38.4,
+              "davi": 69.2,
+              "publicMarket": 68,
+              "leagueMarket": 69.2
+            },
+            {
+              "name": "2029 1st · Ravens Regime · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "Travis Kelce",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "TE",
+              "age": 37,
+              "cavi": 79.3,
+              "davi": 79.7,
+              "publicMarket": 78,
+              "leagueMarket": 79.7
+            },
+            {
+              "name": "2027 2nd · King Jesus · Projected Late · original owner All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79,
+              "leagueMarket": 79.3
+            }
+          ],
+          "whyUserShouldDoIt": "Ravens Regime still accomplishes its goal of securing Travis Kelce to solve the TE position while maintaining long-term pick neutrality by swapping a 2029 1st for a 2028 1st.",
+          "whyOpponentMightAccept": "Mile High Royal Lions receives a future 1st back to replenish draft capital while securing Jaylen Waddle and Deebo Samuel to boost wide receiver depth."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 27,
+              "cavi": 54,
+              "davi": 84,
+              "publicMarket": 85,
+              "leagueMarket": 84
+            }
+          ],
+          "receive": [
+            {
+              "name": "Travis Kelce",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "TE",
+              "age": 37,
+              "cavi": 79.3,
+              "davi": 79.7,
+              "publicMarket": 78,
+              "leagueMarket": 79.7
+            }
+          ],
+          "rationale": "A streamlined 1-for-1 swap giving Mile High a young cornerstone WR (Waddle, 84.0 D-AVI) in exchange for Kelce (79.7 D-AVI), eliminating pick complications entirely."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Travis Kelce news 2026",
+          "Travis Kelce contract status stats 2025 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5UkCRrsuPA6MwRhuMDbT5y8r34fAEmfBLew86eiRWr_BHngVXRcLpqpY2vBCn7-AoT1HzL4uUV8KPLnmligSQAqwxGso7Pk4Iy4s3iB-P-IptqUekh9iaASxK3saKPY4=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA0ObnJRZ6b75Rha3F52GkBuoQkLYt4OI04CUooVS6zgRgnq4HHibQ1WU_uX527oF2lUhToSL1EFQPOCoSLOq2q1m9c7OOhGiOHRa-naNt5pE1h1nGFuJYKLIu62BxKLkEIKb-WKo-gKbyxkkV24u4iTB3EMkbO4WIquKigJdfkBHW0MP8I7_vBAtz9pqNUhqdNZk-bm7vxVTTzd7dJQ==",
+            "title": "thecomeback.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGQ8pU-12qV8cy9_iugC3AmLHuPVTQnhHSAfy00oo7ugh8v2T8aj2xE6L4-YW5sDHnsa7tWsdb53v2atNmVwqmlKjCWqDe2yAhWY8xIqwy0gYOUoSpKowes7T_vgH2v82thZYvor4SEw5zR5ybTpbgO3hyNgs2Iqf7TTMyWtPX7dzn_mBgJvuCWT9FDcmOzQTIfjfa",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOm3JqRAJHbg1iViLxwBAQc2YS-48tU0JmUTjbuUUEdxduST9Yy4UYdXIh3pOcsR5IG0-s6qslOiQlyW3MCWXRogIjL_XjiyEMISvKr2av9BFQaC5QNBANxzZpcTN5VwkPE3b3pXI9EXtQq9hNgUI=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCAVvjHYx3glFM_Y6c9-pHsWnBpGk4NwBjtoAS7yxf3I9t8uTWbWt99Be9TjgHgC19GFLx5LRFuRow6kiJ6PWXQwYJ4-fOycoQvxNOc-quN3cKTRCvRFJ7MUx6CF0sii_Po7TE9hrerr02D9YPMDuKLrAz7T7GfM3WqeedBJx8s5wKPDmQyCaOQJi_wK1qPs2zmOtInUBVvO6dMcJ6t0H-EraZf56X_e20aYU1RA==",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "5c0debf2724bffde8e9fed261df3a9ac1e229630",
+        "aviCoreCommittedAt": "2026-11-13T12:26:32Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 90054,
+        "groundedMarketChars": 2261,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
   },
   {
     "id": "mwez16xq-7d82ff35",
