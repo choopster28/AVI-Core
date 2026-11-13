@@ -1,5 +1,46 @@
 [
   {
+    "id": "mwf3pc84-7421e7f0",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Ravens Regime",
+      "perspectiveMode": "franchise",
+      "goal": "Increase Playoff Odds",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Jaylen Waddle",
+            "assetType": "player"
+          },
+          {
+            "name": "Deebo Samuel Sr.",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Travis Kelce",
+            "assetType": "player"
+          },
+          {
+            "name": "2029 1st · Mile High · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794581858596,
+    "updatedAt": 1794581858596,
+    "expiresAt": 1795013858596,
+    "status": "queued"
+  },
+  {
     "id": "mwelh3xr-a38c1937",
     "phase": "initial",
     "mode": "analyze_trade",
