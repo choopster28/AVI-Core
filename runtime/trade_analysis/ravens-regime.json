@@ -1,5 +1,421 @@
 [
   {
+    "id": "mwez16xq-7d82ff35",
+    "createdAt": 1794574122071,
+    "expiresAt": 1795006122071,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · Ravens Regime ↔ Southside Savages",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "perspectiveMode": "franchise",
+      "goal": "Increase Playoff Odds",
+      "partnerGoal": "Retool",
+      "targetTeam": "Southside Savages",
+      "targetAssets": [
+        {
+          "name": "Tetairoa McMillan",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Deebo Samuel Sr.",
+          "assetType": "player"
+        },
+        {
+          "name": "Jaylen Waddle",
+          "assetType": "player"
+        },
+        {
+          "name": "Kyle Monangai",
+          "assetType": "player"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Ravens Regime seeks to improve near-term playoff odds by acquiring 23-year-old Carolina wide receiver Tetairoa McMillan (C-AVI 86.1, D-AVI 95.0) from Southside Savages. The submitted foundation package of Deebo Samuel Sr. (C-AVI 38.4), Jaylen Waddle (C-AVI 54.0), and Kyle Monangai (C-AVI 49.5) creates an immediate starting lineup increase of +32.1 C-AVI points for Ravens Regime, placing McMillan into WR1 over Waddle. However, Southside Savages is operating under a Retool strategy; surrendering a healthy 23-year-old WR1 for two older receivers (Deebo, age 30; Waddle, age 27) and a depth RB without receiving draft pick capital conflicts with their organizational goal. To achieve a deal that Southside Savages will accept, Ravens Regime must revise the proposal by attaching premium draft capital—specifically their 2029 1st-round pick (Pick AVI 79.3)—while retaining all requested foundation assets.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Deebo Samuel Sr.",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 30,
+              "cavi": 38.4,
+              "davi": 69.2,
+              "publicMarket": 68,
+              "leagueMarket": 69
+            },
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 27,
+              "cavi": 54,
+              "davi": 84,
+              "publicMarket": 82,
+              "leagueMarket": 84
+            },
+            {
+              "name": "Kyle Monangai",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 24,
+              "cavi": 49.5,
+              "davi": 78.7,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Tetairoa McMillan",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "WR",
+              "age": 23,
+              "cavi": 86.1,
+              "davi": 95,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "D+",
+            "userShare": 75,
+            "otherShare": 25,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "Ravens Regime gains +32.1 C-AVI points in its active 8-player starting lineup while acquiring a 23-year-old cornerstone receiver. Southside Savages receives depth at WR and RB but surrenders its top young player without acquiring draft picks, causing a severe drop at WR1."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 58,
+            "otherShare": 42,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "By retaining the foundation assets (Deebo, Waddle, Monangai) and attaching a 2029 1st-round pick (Pick AVI 79.3), Ravens Regime secures McMillan to boost playoff odds while supplying Southside Savages with the premium draft capital required for a Retooling manager."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 50,
+              "summary": "Ravens Regime gains +32.1 C-AVI points in its active 8-player starting lineup while acquiring a 23-year-old cornerstone receiver. Southside Savages receives depth at WR and RB but surrenders its top young player without acquiring draft picks, causing a severe drop at WR1."
+            },
+            "championshipOutlook": {
+              "score": 55,
+              "summary": "Inserting McMillan (86.1 C-AVI) into WR1 over Waddle (54.0 C-AVI) materially raises weekly starting ceiling to increase playoff odds."
+            },
+            "dynastyOutlook": {
+              "score": 70,
+              "summary": "Acquires an elite 23-year-old WR1 with 95.0 D-AVI while parting with 30-year-old Deebo Samuel Sr."
+            },
+            "lineupQuality": {
+              "score": 60,
+              "summary": "Directly elevates active starting 8-player lineup C-AVI sum from 451.8 to 483.9."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Consolidates three startable/FLEX pieces into one elite WR, slightly thinning bench depth."
+            },
+            "flexibilityLiquidity": {
+              "score": 10,
+              "summary": "Holding a premier young asset with 95.0 D-AVI provides high long-term trade currency."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -50,
+              "summary": "Ravens Regime gains +32.1 C-AVI points in its active 8-player starting lineup while acquiring a 23-year-old cornerstone receiver. Southside Savages receives depth at WR and RB but surrenders its top young player without acquiring draft picks, causing a severe drop at WR1."
+            },
+            "championshipOutlook": {
+              "score": -35,
+              "summary": "WR1 slot drops from 86.1 C-AVI to 54.0 C-AVI, creating a 32.1 C-AVI loss in top-line starter strength."
+            },
+            "dynastyOutlook": {
+              "score": -50,
+              "summary": "Trades away a 95.0 D-AVI 23-year-old for older wide receivers aged 27 and 30."
+            },
+            "lineupQuality": {
+              "score": -45,
+              "summary": "Degrades high-end starting lineup ceiling at receiver."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Gains multiple usable starting and bench options across WR and RB positions."
+            },
+            "flexibilityLiquidity": {
+              "score": 15,
+              "summary": "Acquires three rosterable assets that can be repurposed in future moves."
+            }
+          },
+          "explanation": "Ravens Regime consolidates bench/FLEX assets into a top-tier 23-year-old WR1, driving +32.1 starting C-AVI improvement and securing a long-term dynasty asset. Southside Savages loses its top young WR without securing draft pick compensation in the submitted proposal."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Ravens Regime replaces Jaylen Waddle (54.0 C-AVI) at WR1 with Tetairoa McMillan (86.1 C-AVI), raising active 8-player starting lineup C-AVI sum from 451.8 to 483.9 (+32.1 C-AVI net gain), directly boosting near-term weekly scoring floor to increase playoff odds.",
+          "sideADynastyImpact": "Dynasty profile improves by adding a 23-year-old alpha wide receiver with 95.0 D-AVI while shedding 30-year-old Deebo Samuel Sr. (69.2 D-AVI).",
+          "sideARosterImpact": "Roster structure shifts from depth concentration to elite starting quality. Retained wideouts Carnell Tate and KC Concepcion Jr. absorb FLEX roles effectively.",
+          "sideBChampionshipImpact": "Southside Savages starting lineup C-AVI sum drops from 479.8 to 447.7 as WR1 drops from McMillan (86.1) to Waddle (54.0).",
+          "sideBDynastyImpact": "Retooling trajectory takes a hit by trading away a 23-year-old cornerstone with 95.0 D-AVI for older wide receivers aged 27 and 30 without receiving draft picks.",
+          "sideBRosterImpact": "Adds positional depth with Waddle, Deebo, and Monangai, but creates a significant void at WR1.",
+          "valueAssessment": "Submitted offer heavily favors Ravens Regime (75-25). Southside Savages requires premium draft capital (such as a 2029 1st) to align with its Retool goal."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Tetairoa McMillan is a dominant 23-year-old WR1 for the Carolina Panthers, commanding a ~26% target share and averaging 15.6 PPR PPG. He is consensus-ranked as a top-15 dynasty WR.",
+          "aviVsMarket": "AVI rates McMillan at 86.1 C-AVI / 95.0 D-AVI, fully matching public market sentiment as a high-volume, healthy 2nd-year cornerstone receiver.",
+          "relevantContext": [
+            "McMillan has no injury designations and has played every game in 2026.",
+            "Averaging over 9 targets per game with a 45.2-point single-game ceiling in Week 4 vs DET.",
+            "Southside Savages' verified partner goal is Retool; trading a 23-year-old star for older players without premium picks conflicts with retooling principles."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Southside Savages is Retooling. They have no incentive to swap a 23-year-old elite receiver for older wideouts (Deebo 30, Waddle 27) unless premium draft picks are included.",
+          "packageFit": "The 3-for-1 player package adds immediate depth but lacks the high-end draft liquidity a Retooling front office demands when moving an S-tier cornerstone.",
+          "lineupReplacement": "Waddle replaces McMillan at WR1 for Southside Savages, resulting in a severe 32.1 C-AVI downgrade in starting WR output.",
+          "competitiveWindowFit": "McMillan aligns perfectly with Southside Savages' retooling window, whereas 30-year-old Deebo Samuel Sr. does not.",
+          "positionalScarcity": "In a 16-team league, true 23-year-old alpha wide receivers with established target volume are extraordinarily scarce."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 5,
+            "packageMatch": 0,
+            "lineupReplacement": 4,
+            "competitiveWindow": 3
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 27,
+          "classification": "Impossible",
+          "explanation": "Cornerstone downgrade: seller relinquishes D-AVI 95.0 for a strongest returning player at 84.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "structuralRejection": "Cornerstone downgrade: seller relinquishes D-AVI 95.0 for a strongest returning player at 84.0, without enough premium first-round capital or proven starting assets to bridge the quality gap."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Complete offer constructed and analyzed. Acceptance is uncertain (27% Market Reality estimate). Cornerstone downgrade: seller relinquishes D-AVI 95.0 for a strongest returning player at 84.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Deebo Samuel Sr.",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 30,
+              "cavi": 38.4,
+              "davi": 69.2,
+              "publicMarket": 68,
+              "leagueMarket": 69
+            },
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 27,
+              "cavi": 54,
+              "davi": 84,
+              "publicMarket": 82,
+              "leagueMarket": 84
+            },
+            {
+              "name": "Kyle Monangai",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 24,
+              "cavi": 49.5,
+              "davi": 78.7,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            },
+            {
+              "name": "2029 Round 1 (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tetairoa McMillan",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "WR",
+              "age": 23,
+              "cavi": 86.1,
+              "davi": 95,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            }
+          ],
+          "whyUserShouldDoIt": "You acquire a healthy 23-year-old alpha WR1 who increases your active starting C-AVI by +32.1 points, directly elevating your weekly matchup floor and playoff qualification probability.",
+          "whyOpponentMightAccept": "Adding a premium 2029 1st-round pick gives Southside Savages the high-value draft capital necessary to justify trading a young star during a Retool, while providing immediate starter/FLEX depth in Waddle, Monangai, and Deebo."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 27,
+              "cavi": 54,
+              "davi": 84,
+              "publicMarket": 82,
+              "leagueMarket": 84
+            },
+            {
+              "name": "Kyle Monangai",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 24,
+              "cavi": 49.5,
+              "davi": 78.7,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            },
+            {
+              "name": "2029 Round 1 (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2029 Round 2 (Gringo's Goblins)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Tetairoa McMillan",
+              "assetType": "player",
+              "owner": "Southside Savages",
+              "position": "WR",
+              "age": 23,
+              "cavi": 86.1,
+              "davi": 95,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            }
+          ],
+          "rationale": "Removes 30-year-old Deebo Samuel Sr. and replaces him with an extra 2029 2nd-round pick, streamlining the offer into pure young talent (Waddle, Monangai) plus high-liquidity draft assets (2029 1st + 2029 2nd) tailored specifically for a Retooling GM."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Tetairoa McMillan NFL draft 2025 2026 stats fantasy update",
+          "Tetairoa McMillan current team stats news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF18Y7FGMd-AqiDMmZ2HaTpXyP0ra9PqKiOM0oFh9k-eZAW4xbfsW5YoXmfKRcuZ_GW5ruS7oDx3YbpmcccBVqp4uVNsz4tUUECTo_0KvivSD39jfPH4bZ5HQDctN5WHrNbt1idml8vZ-AS00jw9sHi4w==",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6_V9_lvEni9DHwKEOA8r9Mj-xn3gQRGaBDvXc9Q0pp8-yBBU4YKBljyCCUG3orVc9TQHrJII3OBQ-wgr0bAj4bhGOCAOZmO4EbDJQS7_lOLqBPjIUlGbPTXqUyqQVCXxkBzio72kCvYk1r0WV",
+            "title": "statz.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC4oL8CnVdKNMyvuc6DsidHXImHSvk7gKuS7pk1hC6x749Ec8-16MsNrR30inAxjSa4pRZrbZIMNsGWt0Dhdtj-Wb1GumcMtdsecPls9lcGw6NveECTmJJMlUOa2BD5sKM05Azc5J8bPbJ878=",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3B7S3MFTz8QGfQRsAnNh1xWVjIfr1gDdm43FIbcNh9iUwqicDErtD-f6y4dZPpRa-awjId74ulIJ-Ki5R-PzPebYYpwUoeG4aMbn6yxdmGnBphFyMhBqEv4iSbx4y3ILgC-4yxfXZ-ZcTMQ29XZwy9CU=",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhgZUc5HJo4sTEe2AT7-aCo1t2Gd0hLLuyNqAP4aAu6Zzv068zBBxOQ_D7gAl7SD59egJJnN5HxbqZ-eHUJASrx9bhKgpYH71izs_wrJ_FHsa1aPsEO6V8y5s_YGDlVavPcch7CDHmAFLiCE_M",
+            "title": "sleeper.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2_KrEAslsmg-Dx4J0SlSb7OTbYbu_kIKf53H9K44Ai2qdP5wgcOf3zgeLAmXhGH3BMap74Fs-WVvCFlGfPnkSz2IepGPLvYgihMnzRpry6HCMUXjsjyXGXlvjQBQ45BnQEp7H2yRag76edbQHP6OfryrcmqIMvtuS3eDUi7kwD41Y3g==",
+            "title": "fftoday.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "5c0debf2724bffde8e9fed261df3a9ac1e229630",
+        "aviCoreCommittedAt": "2026-11-13T12:26:32Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 91177,
+        "groundedMarketChars": 3236,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
+  },
+  {
     "id": "mweytx31-fb44b447",
     "createdAt": 1794573771016,
     "expiresAt": 1795005771016,
