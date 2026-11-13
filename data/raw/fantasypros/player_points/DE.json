@@ -314,16 +314,17 @@
       }
     },
     {
-      "average": 2.8,
+      "average": 3.8,
       "filename": "shelby-harris.php",
-      "games": 8,
+      "games": 9,
       "player_id": 12320,
       "player_name": "Shelby Harris",
-      "points": 22,
+      "points": 33.75,
       "position_id": "DE",
       "team_id": "NYG",
       "weeks": {
         "1": 0,
+        "10": 11.8,
         "2": 1.5,
         "3": 1.5,
         "4": 8.5,
@@ -376,16 +377,17 @@
       }
     },
     {
-      "average": 6.8,
+      "average": 7.4,
       "filename": "odafe-oweh.php",
-      "games": 8,
+      "games": 9,
       "player_id": 22714,
       "player_name": "Odafe Oweh",
-      "points": 54.5,
+      "points": 66.25,
       "position_id": "DE",
       "team_id": "WAS",
       "weeks": {
         "1": 12.8,
+        "10": 11.8,
         "2": 3,
         "3": 3.8,
         "4": 16,
@@ -707,16 +709,17 @@
       }
     },
     {
-      "average": 2.5,
+      "average": 3.3,
       "filename": "kayvon-thibodeaux.php",
-      "games": 8,
+      "games": 9,
       "player_id": 23484,
       "player_name": "Kayvon Thibodeaux",
-      "points": 20.25,
+      "points": 30,
       "position_id": "DE",
       "team_id": "NYG",
       "weeks": {
         "1": 2.3,
+        "10": 9.8,
         "2": 0,
         "3": 0.8,
         "4": 1.5,
@@ -1116,16 +1119,17 @@
       }
     },
     {
-      "average": 7.8,
+      "average": 7.2,
       "filename": "klavon-chaisson.php",
-      "games": 8,
+      "games": 9,
       "player_id": 19228,
       "player_name": "K'Lavon Chaisson",
-      "points": 62.25,
+      "points": 64.5,
       "position_id": "DE",
       "team_id": "WAS",
       "weeks": {
         "1": 0,
+        "10": 2.3,
         "2": 10.3,
         "3": 7,
         "4": 5,
@@ -1351,16 +1355,17 @@
       }
     },
     {
-      "average": 4.5,
+      "average": 4.6,
       "filename": "abdul-carter.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27022,
       "player_name": "Abdul Carter",
-      "points": 35.75,
+      "points": 41.25,
       "position_id": "DE",
       "team_id": "NYG",
       "weeks": {
         "1": 2.3,
+        "10": 5.5,
         "2": 9.5,
         "3": 0,
         "4": 3,
@@ -1901,16 +1906,17 @@
       }
     },
     {
-      "average": 3.4,
+      "average": 3,
       "filename": "charles-omenihu.php",
-      "games": 6,
+      "games": 7,
       "player_id": 18284,
       "player_name": "Charles Omenihu",
-      "points": 20.25,
+      "points": 21,
       "position_id": "DE",
       "team_id": "WAS",
       "weeks": {
         "1": 1.5,
+        "10": 0.8,
         "2": 0,
         "3": 0.8,
         "4": 0,
@@ -2112,15 +2118,16 @@
       }
     },
     {
-      "average": 4.6,
+      "average": 4,
       "filename": "dorance-armstrong-jr.php",
-      "games": 7,
+      "games": 8,
       "player_id": 17315,
       "player_name": "Dorance Armstrong Jr.",
       "points": 32.25,
       "position_id": "DE",
       "team_id": "WAS",
       "weeks": {
+        "10": 0,
         "2": 6,
         "3": 1.5,
         "4": 0,
@@ -2233,15 +2240,16 @@
       }
     },
     {
-      "average": 0.8,
+      "average": 0.6,
       "filename": "trace-ford.php",
-      "games": 5,
+      "games": 6,
       "player_id": 23787,
       "player_name": "Trace Ford",
       "points": 3.75,
       "position_id": "DE",
       "team_id": "NYG",
       "weeks": {
+        "10": 0,
         "4": 0,
         "5": 1.5,
         "6": 1.5,
@@ -2252,13 +2260,14 @@
     {
       "average": 1.7,
       "filename": "deatrich-wise.php",
-      "games": 4,
+      "games": 5,
       "player_id": 16532,
       "player_name": "Deatrich Wise Jr.",
-      "points": 6.75,
+      "points": 8.25,
       "position_id": "DE",
       "team_id": "WAS",
       "weeks": {
+        "10": 1.5,
         "5": 4.5,
         "6": 1.5,
         "8": 0,
@@ -2451,15 +2460,16 @@
       }
     },
     {
-      "average": 8.8,
+      "average": 4.8,
       "filename": "dawuane-smoot.php",
-      "games": 1,
+      "games": 2,
       "player_id": 16587,
       "player_name": "Dawuane Smoot",
-      "points": 8.75,
+      "points": 9.5,
       "position_id": "DE",
       "team_id": "NYG",
       "weeks": {
+        "10": 0.8,
         "9": 8.8
       }
     }

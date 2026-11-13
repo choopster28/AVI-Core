@@ -17,7 +17,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-11-13T02:43:07.638034+00:00",
+  "generated_at_utc": "2026-11-13T19:36:36.283813+00:00",
   "in_season_transition": {
     "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     "completed_through_week": 9,
@@ -25,9 +25,9 @@
       "Sleeper NFL state",
       "ESPN NFL scoreboard"
     ],
-    "current_week_schedule_complete": null,
-    "fantasypros_max_observed_week": 9,
-    "mapped_player_point_records": 429,
+    "current_week_schedule_complete": false,
+    "fantasypros_max_observed_week": 10,
+    "mapped_player_point_records": 430,
     "nfl_season": "2026",
     "nfl_season_type": "regular",
     "nfl_week": 10,
@@ -40,7 +40,7 @@
   "injury_availability_adjustments": {
     "championship_horizon_end_week": 17,
     "current_week": 10,
-    "players_capped": 115,
+    "players_capped": 113,
     "players_evaluated": 479,
     "policy": "Bounded ongoing injury-risk deduction for currently designated players (including verified missed games beyond one bye), followed by a hard ceiling for expected missed future games; cleared players receive no historical-injury discount.",
     "source_priority": [

@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 654.9
 - championship_lineup_c_avi_avg: 81.86
-- offensive_roster_c_avi_sum: 889.6
-- offensive_roster_c_avi_avg: 49.42
-- offensive_roster_d_avi_sum: 1337.0
-- offensive_roster_d_avi_avg: 74.28
+- offensive_roster_c_avi_sum: 888.2
+- offensive_roster_c_avi_avg: 49.34
+- offensive_roster_d_avi_sum: 1332.3
+- offensive_roster_d_avi_avg: 74.02
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 23.3
+- Championship AVI (C-AVI, 0-100): 23.2
 - Dynasty AVI (D-AVI, 0-100): 60.1
 - Projected PPR points: 36.3
 - Category: offense
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 23.9
-- Dynasty AVI (D-AVI, 0-100): 51.1
+- Championship AVI (C-AVI, 0-100): 23.8
+- Dynasty AVI (D-AVI, 0-100): 51.0
 - Projected PPR points: 41.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -263,20 +263,20 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Josh Cameron
-- Player name: Josh Cameron
-- Player ID: 13394
+### PLAYER: Dohnte Meyers
+- Player name: Dohnte Meyers
+- Player ID: 13264
 - Current owner team: Conquistadors
 - Current owner roster ID: 1
 - Position: WR
 - Fantasy positions: ['WR']
-- NFL team: JAX
+- NFL team: CIN
 - Active: True
 - Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 21.1
-- Dynasty AVI (D-AVI, 0-100): 50.4
-- Projected PPR points: 59.6
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 19.9
+- Dynasty AVI (D-AVI, 0-100): 45.8
+- Projected PPR points: 36.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

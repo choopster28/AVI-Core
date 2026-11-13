@@ -870,9 +870,9 @@
       }
     },
     {
-      "average": 1.5,
+      "average": 1.4,
       "filename": "joshua-josephs.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27984,
       "player_name": "Joshua Josephs",
       "points": 12.25,
@@ -880,6 +880,7 @@
       "team_id": "WAS",
       "weeks": {
         "1": 0,
+        "10": 0,
         "2": 0,
         "3": 7,
         "4": 0.8,
@@ -1514,16 +1515,17 @@
       }
     },
     {
-      "average": 12.5,
+      "average": 12.2,
       "filename": "frankie-luvu.php",
-      "games": 6,
+      "games": 7,
       "player_id": 17963,
       "player_name": "Frankie Luvu",
-      "points": 75.25,
+      "points": 85.25,
       "position_id": "LB",
       "team_id": "WAS",
       "weeks": {
         "1": 10.3,
+        "10": 10,
         "4": 7,
         "5": 11.3,
         "6": 13,
@@ -1663,16 +1665,17 @@
       }
     },
     {
-      "average": 5.9,
+      "average": 6.8,
       "filename": "micah-mcfadden.php",
-      "games": 7,
+      "games": 8,
       "player_id": 23872,
       "player_name": "Micah McFadden",
-      "points": 41,
+      "points": 54.75,
       "position_id": "LB",
       "team_id": "NYG",
       "weeks": {
         "1": 0,
+        "10": 13.8,
         "3": 0,
         "4": 0,
         "5": 0,
@@ -1790,16 +1793,17 @@
       }
     },
     {
-      "average": 17.7,
+      "average": 17.2,
       "filename": "arvell-reese.php",
-      "games": 8,
+      "games": 9,
       "player_id": 28053,
       "player_name": "Arvell Reese",
-      "points": 141.75,
+      "points": 154.5,
       "position_id": "LB",
       "team_id": "NYG",
       "weeks": {
         "1": 10,
+        "10": 12.8,
         "2": 7.5,
         "3": 19.8,
         "4": 25.5,
@@ -2087,9 +2091,9 @@
       }
     },
     {
-      "average": 3.1,
+      "average": 2.8,
       "filename": "kain-medrano.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27533,
       "player_name": "Kain Medrano",
       "points": 24.75,
@@ -2097,6 +2101,7 @@
       "team_id": "WAS",
       "weeks": {
         "1": 0,
+        "10": 0,
         "2": 0,
         "3": 18.5,
         "4": 1.5,
@@ -2732,7 +2737,7 @@
     {
       "average": 0,
       "filename": "zaire-barnes.php",
-      "games": 8,
+      "games": 9,
       "player_id": 25548,
       "player_name": "Zaire Barnes",
       "points": 0,
@@ -2740,6 +2745,7 @@
       "team_id": "NYG",
       "weeks": {
         "1": 0,
+        "10": 0,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -3329,16 +3335,17 @@
       }
     },
     {
-      "average": 12.9,
+      "average": 13.3,
       "filename": "sonny-styles.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27216,
       "player_name": "Sonny Styles",
-      "points": 103.25,
+      "points": 119.25,
       "position_id": "LB",
       "team_id": "WAS",
       "weeks": {
         "1": 14.3,
+        "10": 16,
         "2": 2.3,
         "3": 18.8,
         "4": 9,
@@ -3942,13 +3949,14 @@
     {
       "average": 0,
       "filename": "ale-kaho.php",
-      "games": 3,
+      "games": 4,
       "player_id": 27892,
       "player_name": "Ale Kaho",
       "points": 0,
       "position_id": "LB",
       "team_id": "WAS",
       "weeks": {
+        "10": 0,
         "2": 0,
         "3": 0,
         "4": 0
@@ -4870,6 +4878,19 @@
       "team_id": "HOU",
       "weeks": {
         "9": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "chandler-martin.php",
+      "games": 1,
+      "player_id": 27870,
+      "player_name": "Chandler Martin",
+      "points": 0,
+      "position_id": "LB",
+      "team_id": "NYG",
+      "weeks": {
+        "10": 0
       }
     }
   ],

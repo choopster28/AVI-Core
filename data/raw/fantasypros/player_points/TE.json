@@ -1854,16 +1854,17 @@
       }
     },
     {
-      "average": 7.5,
+      "average": 7.3,
       "filename": "chigoziem-okonkwo.php",
-      "games": 6,
+      "games": 7,
       "player_id": 23982,
       "player_name": "Chig Okonkwo",
-      "points": 44.900000000000006,
+      "points": 51.300000000000004,
       "position_id": "TE",
       "team_id": "WAS",
       "weeks": {
         "1": 3.6,
+        "10": 6.4,
         "4": 2.5,
         "5": 10,
         "6": 13.9,
@@ -1872,9 +1873,9 @@
       }
     },
     {
-      "average": 1,
+      "average": 0.9,
       "filename": "john-bates.php",
-      "games": 8,
+      "games": 9,
       "player_id": 22833,
       "player_name": "John Bates",
       "points": 7.699999999999999,
@@ -1882,6 +1883,7 @@
       "team_id": "WAS",
       "weeks": {
         "1": 3.3,
+        "10": 0,
         "2": 0,
         "3": 1.9,
         "4": 0,
@@ -1912,16 +1914,17 @@
       }
     },
     {
-      "average": 0.2,
+      "average": 1.8,
       "filename": "ben-sinnott.php",
-      "games": 8,
+      "games": 9,
       "player_id": 26310,
       "player_name": "Ben Sinnott",
-      "points": 1.6,
+      "points": 15.799999999999999,
       "position_id": "TE",
       "team_id": "WAS",
       "weeks": {
         "1": 0,
+        "10": 14.2,
         "2": 1.6,
         "3": 0,
         "4": 0,
@@ -1932,16 +1935,17 @@
       }
     },
     {
-      "average": 16.1,
+      "average": 17.4,
       "filename": "isaiah-likely.php",
-      "games": 8,
+      "games": 9,
       "player_id": 23781,
       "player_name": "Isaiah Likely",
-      "points": 128.8,
+      "points": 156.5,
       "position_id": "TE",
       "team_id": "NYG",
       "weeks": {
         "1": 27.8,
+        "10": 27.7,
         "2": 8.3,
         "3": 3.3,
         "4": 13.6,
@@ -1952,16 +1956,17 @@
       }
     },
     {
-      "average": 2.6,
+      "average": 2.5,
       "filename": "theo-johnson.php",
-      "games": 6,
+      "games": 7,
       "player_id": 23104,
       "player_name": "Theo Johnson",
-      "points": 15.5,
+      "points": 17.3,
       "position_id": "TE",
       "team_id": "NYG",
       "weeks": {
         "1": 1.9,
+        "10": 1.8,
         "2": 0,
         "3": 0,
         "4": 8.1,
@@ -1972,7 +1977,7 @@
     {
       "average": 0,
       "filename": "chris-manhertz.php",
-      "games": 8,
+      "games": 9,
       "player_id": 14014,
       "player_name": "Chris Manhertz",
       "points": 0,
@@ -1980,6 +1985,7 @@
       "team_id": "NYG",
       "weeks": {
         "1": 0,
+        "10": 0,
         "2": 0,
         "3": 0,
         "4": 0,

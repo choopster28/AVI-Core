@@ -21,10 +21,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 551.6
-- championship_lineup_c_avi_avg: 68.95
-- offensive_roster_c_avi_sum: 843.5
-- offensive_roster_c_avi_avg: 52.72
+- championship_lineup_c_avi_sum: 551.5
+- championship_lineup_c_avi_avg: 68.94
+- offensive_roster_c_avi_sum: 843.3
+- offensive_roster_c_avi_avg: 52.71
 - offensive_roster_d_avi_sum: 1228.3
 - offensive_roster_d_avi_avg: 76.77
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
@@ -32,7 +32,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Patrick Mahomes | C-AVI: 49.0 | D-AVI: 77.8
 - RB: Rhamondre Stevenson | C-AVI: 62.1 | D-AVI: 80.3
-- RB: Cam Skattebo | C-AVI: 54.1 | D-AVI: 82.2
+- RB: Cam Skattebo | C-AVI: 54.0 | D-AVI: 82.2
 - WR: Jaxon Smith-Njigba | C-AVI: 99.2 | D-AVI: 99.8
 - WR: Malik Nabers | C-AVI: 89.3 | D-AVI: 96.9
 - TE: Trey McBride | C-AVI: 94.7 | D-AVI: 92.9
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 54.1
+- Championship AVI (C-AVI, 0-100): 54.0
 - Dynasty AVI (D-AVI, 0-100): 82.2
 - Projected PPR points: 201.2
 - Category: offense
@@ -155,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 29.6
+- Championship AVI (C-AVI, 0-100): 29.5
 - Dynasty AVI (D-AVI, 0-100): 70.4
 - Projected PPR points: 97.5
 - Category: offense

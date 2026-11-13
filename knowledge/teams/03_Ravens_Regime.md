@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 436.2
-- championship_lineup_c_avi_avg: 54.52
-- offensive_roster_c_avi_sum: 735.3
-- offensive_roster_c_avi_avg: 43.25
-- offensive_roster_d_avi_sum: 1256.8
-- offensive_roster_d_avi_avg: 73.93
+- championship_lineup_c_avi_sum: 412.2
+- championship_lineup_c_avi_avg: 51.52
+- offensive_roster_c_avi_sum: 733.6
+- offensive_roster_c_avi_avg: 43.15
+- offensive_roster_d_avi_sum: 1256.5
+- offensive_roster_d_avi_avg: 73.91
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,8 +36,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Zay Flowers | C-AVI: 77.2 | D-AVI: 93.1
 - WR: KC Concepcion Jr. | C-AVI: 56.0 | D-AVI: 83.9
 - TE: Eli Raridon | C-AVI: 21.9 | D-AVI: 64.7
-- FLEX: Carnell Tate | C-AVI: 55.3 | D-AVI: 87.2
 - FLEX: Deebo Samuel Sr. | C-AVI: 38.4 | D-AVI: 69.2
+- FLEX: Jordyn Tyson | C-AVI: 31.3 | D-AVI: 80.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -212,23 +212,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Carnell Tate
-- Player name: Carnell Tate
-- Player ID: 13279
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: TEN
-- Active: True
-- Status: Active
-- Age: 21.0
-- Championship AVI (C-AVI, 0-100): 55.3
-- Dynasty AVI (D-AVI, 0-100): 87.2
-- Projected PPR points: 177.3
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Jaylen Waddle
 - Player name: Jaylen Waddle
 - Player ID: 7526
@@ -243,6 +226,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 54.0
 - Dynasty AVI (D-AVI, 0-100): 84.0
 - Projected PPR points: 221.0
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Carnell Tate
+- Player name: Carnell Tate
+- Player ID: 13279
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 21.0
+- Championship AVI (C-AVI, 0-100): 53.7
+- Dynasty AVI (D-AVI, 0-100): 86.9
+- Projected PPR points: 177.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -274,7 +274,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 31.4
+- Championship AVI (C-AVI, 0-100): 31.3
 - Dynasty AVI (D-AVI, 0-100): 80.1
 - Projected PPR points: 111.0
 - Category: offense

@@ -1261,16 +1261,17 @@
       }
     },
     {
-      "average": 16.2,
+      "average": 15.2,
       "filename": "malik-nabers.php",
-      "games": 8,
+      "games": 9,
       "player_id": 25409,
       "player_name": "Malik Nabers",
-      "points": 129.8,
+      "points": 137.20000000000002,
       "position_id": "WR",
       "team_id": "NYG",
       "weeks": {
         "1": 12.9,
+        "10": 7.4,
         "2": 1.1,
         "3": 7.6,
         "4": 23.2,
@@ -2127,16 +2128,17 @@
       }
     },
     {
-      "average": 12.9,
+      "average": 13.8,
       "filename": "stefon-diggs.php",
-      "games": 7,
+      "games": 8,
       "player_id": 13981,
       "player_name": "Stefon Diggs",
-      "points": 90.3,
+      "points": 110.6,
       "position_id": "WR",
       "team_id": "WAS",
       "weeks": {
         "1": 15.5,
+        "10": 20.3,
         "2": 21.7,
         "3": 7.3,
         "4": 8.5,
@@ -2447,16 +2449,17 @@
       }
     },
     {
-      "average": 3.9,
+      "average": 3.8,
       "filename": "darnell-mooney.php",
-      "games": 8,
+      "games": 9,
       "player_id": 19810,
       "player_name": "Darnell Mooney",
-      "points": 31.499999999999996,
+      "points": 34.3,
       "position_id": "WR",
       "team_id": "NYG",
       "weeks": {
         "1": 4.7,
+        "10": 2.8,
         "2": 6.8,
         "3": 4.9,
         "4": 0,
@@ -2783,16 +2786,17 @@
       }
     },
     {
-      "average": 7.6,
+      "average": 8.1,
       "filename": "antonio-williams-wr.php",
-      "games": 8,
+      "games": 9,
       "player_id": 25418,
       "player_name": "Antonio Williams",
-      "points": 60.4,
+      "points": 72.6,
       "position_id": "WR",
       "team_id": "WAS",
       "weeks": {
         "1": 16.4,
+        "10": 12.2,
         "2": 5.4,
         "3": 3.5,
         "4": 5.1,
@@ -3114,16 +3118,17 @@
       }
     },
     {
-      "average": 6.7,
+      "average": 7,
       "filename": "malachi-fields.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27994,
       "player_name": "Malachi Fields",
-      "points": 53.8,
+      "points": 63,
       "position_id": "WR",
       "team_id": "NYG",
       "weeks": {
         "1": 4.5,
+        "10": 9.2,
         "2": 5,
         "3": 3.9,
         "4": 13.2,
@@ -3318,15 +3323,16 @@
       }
     },
     {
-      "average": 7.9,
+      "average": 7.4,
       "filename": "treylon-burks.php",
-      "games": 6,
+      "games": 7,
       "player_id": 22905,
       "player_name": "Treylon Burks",
-      "points": 47.300000000000004,
+      "points": 52.00000000000001,
       "position_id": "WR",
       "team_id": "WAS",
       "weeks": {
+        "10": 4.7,
         "2": 0,
         "3": 9.3,
         "4": 11.7,
@@ -3510,7 +3516,7 @@
       "player_name": "Hollywood Brown",
       "points": 12.5,
       "position_id": "WR",
-      "team_id": "PHI",
+      "team_id": "FA",
       "weeks": {
         "2": 1.2,
         "7": 5,
@@ -3580,13 +3586,14 @@
     {
       "average": 0.3,
       "filename": "luke-mccaffrey.php",
-      "games": 5,
+      "games": 6,
       "player_id": 26328,
       "player_name": "Luke McCaffrey",
       "points": 1.6,
       "position_id": "WR",
       "team_id": "WAS",
       "weeks": {
+        "10": 0,
         "3": 0,
         "5": 0,
         "6": 0,
@@ -3827,15 +3834,16 @@
       }
     },
     {
-      "average": 0.9,
+      "average": 0.8,
       "filename": "charlie-jones.php",
-      "games": 5,
+      "games": 6,
       "player_id": 25336,
       "player_name": "Charlie Jones",
       "points": 4.6,
       "position_id": "WR",
       "team_id": "NYG",
       "weeks": {
+        "10": 0,
         "4": 0,
         "5": 0,
         "6": 6.6,

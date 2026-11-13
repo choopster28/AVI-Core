@@ -594,16 +594,17 @@
       }
     },
     {
-      "average": 19.2,
+      "average": 19.7,
       "filename": "jayden-daniels.php",
-      "games": 6,
+      "games": 7,
       "player_id": 22902,
       "player_name": "Jayden Daniels",
-      "points": 115.2,
+      "points": 137.96,
       "position_id": "QB",
       "team_id": "WAS",
       "weeks": {
         "1": 17.7,
+        "10": 22.8,
         "2": 14.7,
         "5": 32.3,
         "6": 21,
@@ -838,15 +839,16 @@
       }
     },
     {
-      "average": 11.2,
+      "average": 9.8,
       "filename": "jameis-winston.php",
-      "games": 7,
+      "games": 8,
       "player_id": 13891,
       "player_name": "Jameis Winston",
-      "points": 78.22,
+      "points": 78.32,
       "position_id": "QB",
       "team_id": "NYG",
       "weeks": {
+        "10": 0.1,
         "2": 3.5,
         "3": 6.1,
         "4": 20,
@@ -1030,15 +1032,16 @@
       }
     },
     {
-      "average": 8.7,
+      "average": 10.6,
       "filename": "jj-mccarthy.php",
-      "games": 4,
+      "games": 5,
       "player_id": 23018,
       "player_name": "J.J. McCarthy",
-      "points": 34.98,
+      "points": 53.099999999999994,
       "position_id": "QB",
       "team_id": "NYG",
       "weeks": {
+        "10": 18.1,
         "5": 0.2,
         "6": 17.3,
         "7": 10.2,

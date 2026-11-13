@@ -529,16 +529,17 @@
       }
     },
     {
-      "average": 9,
+      "average": 8.8,
       "filename": "drew-stevens.php",
-      "games": 8,
+      "games": 9,
       "player_id": 28175,
       "player_name": "Drew Stevens",
-      "points": 72,
+      "points": 79,
       "position_id": "K",
       "team_id": "WAS",
       "weeks": {
         "1": 6,
+        "10": 7,
         "2": 9,
         "3": 11,
         "4": 7,
@@ -549,16 +550,17 @@
       }
     },
     {
-      "average": 9.9,
+      "average": 9.1,
       "filename": "dominic-zvada.php",
-      "games": 8,
+      "games": 9,
       "player_id": 28176,
       "player_name": "Dominic Zvada",
-      "points": 79,
+      "points": 82,
       "position_id": "K",
       "team_id": "NYG",
       "weeks": {
         "1": 4,
+        "10": 3,
         "2": 8,
         "3": 12,
         "4": 14,

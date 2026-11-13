@@ -223,16 +223,17 @@
       }
     },
     {
-      "average": 2.8,
+      "average": 2.6,
       "filename": "darius-alexander.php",
-      "games": 7,
+      "games": 8,
       "player_id": 27237,
       "player_name": "Darius Alexander",
-      "points": 19.75,
+      "points": 20.5,
       "position_id": "DT",
       "team_id": "NYG",
       "weeks": {
         "1": 0,
+        "10": 0.8,
         "3": 0,
         "4": 2.3,
         "5": 2.3,
@@ -717,16 +718,17 @@
       }
     },
     {
-      "average": 5,
+      "average": 4.6,
       "filename": "dj-reader.php",
-      "games": 8,
+      "games": 9,
       "player_id": 15758,
       "player_name": "DJ Reader",
-      "points": 40,
+      "points": 41.5,
       "position_id": "DT",
       "team_id": "NYG",
       "weeks": {
         "1": 2.3,
+        "10": 1.5,
         "2": 4.5,
         "3": 1.5,
         "4": 2.3,
@@ -1566,16 +1568,17 @@
       }
     },
     {
-      "average": 3.3,
+      "average": 3.1,
       "filename": "tim-settle.php",
-      "games": 8,
+      "games": 9,
       "player_id": 17350,
       "player_name": "Tim Settle Jr.",
-      "points": 26,
+      "points": 27.5,
       "position_id": "DT",
       "team_id": "WAS",
       "weeks": {
         "1": 2.3,
+        "10": 1.5,
         "2": 3,
         "3": 7,
         "4": 3.5,
@@ -2399,16 +2402,17 @@
       }
     },
     {
-      "average": 5.1,
+      "average": 4.9,
       "filename": "shy-tuttle.php",
-      "games": 8,
+      "games": 9,
       "player_id": 18873,
       "player_name": "Shy Tuttle",
-      "points": 40.75,
+      "points": 43.75,
       "position_id": "DT",
       "team_id": "WAS",
       "weeks": {
         "1": 0.8,
+        "10": 3,
         "2": 0,
         "3": 1.5,
         "4": 0,
@@ -3844,15 +3848,16 @@
       }
     },
     {
-      "average": 3.3,
+      "average": 3,
       "filename": "bobby-jamison-travis.php",
-      "games": 3,
+      "games": 4,
       "player_id": 28497,
       "player_name": "Bobby Jamison-Travis",
-      "points": 9.75,
+      "points": 12,
       "position_id": "DT",
       "team_id": "NYG",
       "weeks": {
+        "10": 2.3,
         "6": 3,
         "7": 3,
         "9": 3.8
@@ -3973,15 +3978,16 @@
       }
     },
     {
-      "average": 3,
+      "average": 1.9,
       "filename": "jerzhan-newton.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26218,
       "player_name": "Jer'Zhan Newton",
-      "points": 3,
+      "points": 3.75,
       "position_id": "DT",
       "team_id": "WAS",
       "weeks": {
+        "10": 0.8,
         "9": 3
       }
     },
