@@ -37,8 +37,440 @@
       ]
     },
     "createdAt": 1794573674173,
-    "updatedAt": 1794573676316,
+    "updatedAt": 1794573769535,
     "expiresAt": 1795005674173,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Ravens Regime proposes trading Jaylen Waddle, Deebo Samuel Sr., and Kyle Monangai to Mile High Royal Lions for Garrett Wilson and Travis Kelce. From Ravens Regime's perspective as a Win Championship contender, this acquisition delivers a massive starting lineup boost by replacing Eli Raridon (21.9 C-AVI) with Travis Kelce (79.3 C-AVI) at TE and slotting Garrett Wilson (76.8 C-AVI) into WR2. However, for Mile High Royal Lions—whose goal is also set to Win Championship—surrendering two locked-in cornerstone starters for secondary depth assets creates a severe -52.6 C-AVI drop in their starting lineup. Because Mile High will reject this 3-for-2 depth offer, AVI recommends revising the proposal by adding Ravens Regime's 2029 1st Round pick to make the transaction strategically viable for both franchises.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 27,
+              "cavi": 54,
+              "davi": 84,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            },
+            {
+              "name": "Deebo Samuel Sr.",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 30,
+              "cavi": 38.4,
+              "davi": 69.2,
+              "publicMarket": 62,
+              "leagueMarket": 65
+            },
+            {
+              "name": "Kyle Monangai",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 24,
+              "cavi": 49.5,
+              "davi": 78.7,
+              "publicMarket": 68,
+              "leagueMarket": 72
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 76.8,
+              "davi": 91.4,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            },
+            {
+              "name": "Travis Kelce",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "TE",
+              "age": 37,
+              "cavi": 79.3,
+              "davi": 79.7,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "D",
+            "userShare": 65,
+            "otherShare": 35,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "The submitted construction heavily favors Ravens Regime (+80.2 C-AVI starting lineup surge) while severely crippling Mile High Royal Lions (-52.6 C-AVI starting lineup drop). Surrendering two elite starters forces Mile High to downgrade TE1 to Dalton Schultz and WR2 to Jaylen Waddle, conflicting directly with their Win Championship objective."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Ravens Regime",
+            "summary": "Adding Ravens Regime's 2029 1st Round pick to the foundation assets compensates Mile High Royal Lions with premium future draft capital and liquidity, creating a balanced multi-horizon deal that respects both teams' championship ambitions."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 30,
+              "summary": "The submitted construction heavily favors Ravens Regime (+80.2 C-AVI starting lineup surge) while severely crippling Mile High Royal Lions (-52.6 C-AVI starting lineup drop). Surrendering two elite starters forces Mile High to downgrade TE1 to Dalton Schultz and WR2 to Jaylen Waddle, conflicting directly with their Win Championship objective."
+            },
+            "championshipOutlook": {
+              "score": 85,
+              "summary": "Surges starting C-AVI from 451.8 to 532.0 (+80.2) by locking in elite TE1 and WR1/2 production."
+            },
+            "dynastyOutlook": {
+              "score": -20,
+              "summary": "Net D-AVI change of -60.8 as young roster depth (Monangai age 24, Waddle age 27) is traded for 37-year-old Kelce."
+            },
+            "lineupQuality": {
+              "score": 90,
+              "summary": "Transforms TE from Eli Raridon (21.9 C-AVI) to Travis Kelce (79.3 C-AVI) and upgrades WR2."
+            },
+            "depthResilience": {
+              "score": -35,
+              "summary": "Consolidates three startable assets into two elite starters, slightly narrowing bench rotation."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Reduces overall offensive asset volume."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -30,
+              "summary": "The submitted construction heavily favors Ravens Regime (+80.2 C-AVI starting lineup surge) while severely crippling Mile High Royal Lions (-52.6 C-AVI starting lineup drop). Surrendering two elite starters forces Mile High to downgrade TE1 to Dalton Schultz and WR2 to Jaylen Waddle, conflicting directly with their Win Championship objective."
+            },
+            "championshipOutlook": {
+              "score": -70,
+              "summary": "Drops starting lineup C-AVI from 535.6 to 483.0 (-52.6), crippling immediate title odds."
+            },
+            "dynastyOutlook": {
+              "score": 30,
+              "summary": "Acquires younger assets (Waddle, Monangai) and diversifies positional portfolio away from aging Kelce."
+            },
+            "lineupQuality": {
+              "score": -75,
+              "summary": "Loses two premium starting anchors simultaneously, creating major holes at TE1 and WR2."
+            },
+            "depthResilience": {
+              "score": 40,
+              "summary": "Adds depth at WR and RB, expanding weekly FLEX options."
+            },
+            "flexibilityLiquidity": {
+              "score": 25,
+              "summary": "Splits two concentrated star assets into three separate tradeable pieces."
+            }
+          },
+          "explanation": "Ravens Regime gains massive immediate lineup power (+80.2 C-AVI) while Mile High Royal Lions takes a severe starting lineup downgrade (-52.6 C-AVI) that conflicts with their Win Championship goal."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Extremely positive (+80.2 starting C-AVI). Solving the TE hole with Travis Kelce (+57.4 C-AVI over Eli Raridon) and adding Garrett Wilson (76.8 C-AVI) gives Ravens Regime a dominant title-contending starting eight.",
+          "sideADynastyImpact": "Net negative (-60.8 D-AVI). Trading away Jaylen Waddle (84.0 D-AVI), Deebo Samuel Sr. (69.2 D-AVI), and Kyle Monangai (78.7 D-AVI) for Travis Kelce (79.7 D-AVI) and Garrett Wilson (91.4 D-AVI) sacrifices multi-year depth volume.",
+          "sideARosterImpact": "Consolidates depth into two high-end starters, shifting KC Concepcion Jr. and Carnell Tate into primary FLEX positions.",
+          "sideBChampionshipImpact": "Severely negative (-52.6 starting C-AVI). Forces Mile High Royal Lions to start Dalton Schultz (51.5 C-AVI) at TE and Jaylen Waddle (54.0 C-AVI) at WR2.",
+          "sideBDynastyImpact": "Net positive (+60.8 D-AVI). Replaces 37-year-old Kelce with younger multi-year pieces across WR and RB.",
+          "sideBRosterImpact": "Adds backfield depth with Monangai behind Gibbs/Coleman and WR depth with Waddle/Deebo, but leaves TE vulnerable.",
+          "valueAssessment": "While total C-AVI exchanged is relatively close (141.9 sent vs 156.1 received), the starting lineup impact is heavily skewed toward Ravens Regime."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus ranks Garrett Wilson as an elite top-12 dynasty WR1 (age 26) with long-term cornerstone value, while Travis Kelce remains a high-end redraft TE1 despite age 37 retirement concerns.",
+          "aviVsMarket": "AVI aligns with market consensus on Wilson's top-tier dynasty rank (91.4 D-AVI) and captures Kelce's elite win-now utility (79.3 C-AVI) relative to his shorter dynasty horizon (79.7 D-AVI).",
+          "relevantContext": [
+            "Garrett Wilson is reportedly expected to return in Week 10 from a concussion, maintaining his high-volume WR baseline.",
+            "Travis Kelce leads the Chiefs in receiving targets and yards, remaining a locked-in weekly TE1.",
+            "Jaylen Waddle and Deebo Samuel Sr. represent solid WR2/FLEX assets but lack Wilson's elite target ceiling.",
+            "Kyle Monangai provides solid young RB depth in Chicago's backfield."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions has partnerGoal set to Win Championship. They have zero motivation to downgrade two core starting slots for secondary depth.",
+          "packageFit": "The proposed 3-for-2 package offers depth quantity (Waddle, Deebo, Monangai) rather than elite starting quality.",
+          "lineupReplacement": "Fails for Mile High Royal Lions. Replacing Kelce with Schultz loses 27.8 C-AVI at TE, and replacing Wilson with Waddle loses 22.8 C-AVI at WR.",
+          "competitiveWindowFit": "Conflicts with Mile High Royal Lions' Win Championship objective by creating two major starting lineup downgrades.",
+          "positionalScarcity": "Tight End scarcity makes Travis Kelce exceptionally valuable, while Garrett Wilson is a scarce young WR1."
+        },
+        "marketReality": {
+          "availabilityStatus": "Publicly Available",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 5,
+            "packageMatch": 0,
+            "lineupReplacement": 2,
+            "competitiveWindow": 2
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 24,
+          "classification": "Impossible",
+          "explanation": "Cornerstone downgrade: seller relinquishes D-AVI 91.4 for a strongest returning player at 84.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "structuralRejection": "Cornerstone downgrade: seller relinquishes D-AVI 91.4 for a strongest returning player at 84.0, without enough premium first-round capital or proven starting assets to bridge the quality gap."
+        },
+        "verdict": {
+          "decision": "Offer",
+          "rationale": "Complete offer constructed and analyzed. Acceptance is uncertain (24% Market Reality estimate). Cornerstone downgrade: seller relinquishes D-AVI 91.4 for a strongest returning player at 84.0, without enough premium first-round capital or proven starting assets to bridge the quality gap.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 27,
+              "cavi": 54,
+              "davi": 84,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            },
+            {
+              "name": "Deebo Samuel Sr.",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 30,
+              "cavi": 38.4,
+              "davi": 69.2,
+              "publicMarket": 62,
+              "leagueMarket": 65
+            },
+            {
+              "name": "Kyle Monangai",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "RB",
+              "age": 24,
+              "cavi": 49.5,
+              "davi": 78.7,
+              "publicMarket": 68,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2029 Round 1 (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            }
+          ],
+          "receive": [
+            {
+              "name": "Garrett Wilson",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "WR",
+              "age": 26,
+              "cavi": 76.8,
+              "davi": 91.4,
+              "publicMarket": 88,
+              "leagueMarket": 90
+            },
+            {
+              "name": "Travis Kelce",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "TE",
+              "age": 37,
+              "cavi": 79.3,
+              "davi": 79.7,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            }
+          ],
+          "whyUserShouldDoIt": "Secures two elite starters (TE1 Travis Kelce and WR1 Garrett Wilson), eliminating Ravens Regime's primary roster flaw at TE and boosting starting lineup C-AVI by +80.2 points.",
+          "whyOpponentMightAccept": "Provides Mile High Royal Lions with a premium 2029 1st Round pick alongside three startable assets (Waddle, Deebo, Monangai), giving them future draft capital and liquidity to offset parting with Kelce and Wilson."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jaylen Waddle",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 27,
+              "cavi": 54,
+              "davi": 84,
+              "publicMarket": 78,
+              "leagueMarket": 80
+            },
+            {
+              "name": "2029 Round 2 (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 52
+            }
+          ],
+          "receive": [
+            {
+              "name": "Travis Kelce",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "TE",
+              "age": 37,
+              "cavi": 79.3,
+              "davi": 79.7,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            }
+          ],
+          "rationale": "If acquiring both stars is too costly, targeting Travis Kelce individually fixes Ravens Regime's single biggest lineup weakness (+57.4 C-AVI at TE) for a significantly lower acquisition cost."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Travis Kelce news 2026 fantasy football",
+          "Garrett Wilson news 2026 fantasy football",
+          "Travis Kelce retirement status 2026",
+          "Garrett Wilson stats 2025 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFebwjNJGGYlsw661uZHUtwQDgTi4Cc1mCb-kTFp2aNBlW8X7K2orD4NxMRAkRYUY8speDWeUrevrTu6WITu0n9T-TSFVDCEPBlax45OpG6_Isk5jTcjgUW8ZfpOJVedvrNL3jV1Qj7F7J00106j0DO2VH39ihPZ76KZvB-pyexzEPtD-dzinaP81E9MMHXtml1R7v3GyLb56ErKfncwg==",
+            "title": "thecomeback.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz0iwHdurxlnloO0fo32nX7vn9OCrEsa4bFMEtVGtuf0HD5TNzE-o3ZvBp4meWQ8K91T4eTKz1H-S51HhVmG6UUqUXCIBFoOluqXAdh_wdD7ZkrneUcmrqC-RT0agJgzxlTvCNXiQg0RuyUowsi-umjtr7ptP-Jg==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiiI0zzzBm0kuFZX5ImdzVW1crA1a2zX1NSb9DFL-iwoEo5I826GoMoLNZCRw2PZbhkYW2gXswPnVtY_0x9t4FGe5YbH3ufO0qfb3cjvf4zX_DQ6ih413mcSgrwOStict26YUIArJG6UZ52pzKWScXh6b3",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5529J361sAqJy-beYpEbm_q3gf-PPI9ECoEvt03xiybRrvFRoGCgUHWn5ZyVjAouPNVHow5LG-3MylkBVKfU3hFFrwXAzpwrOTdUWfbgQilHXQJQUjB63ZGqyAM1gLwZdobnBi4uo",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYhvRYGYOydvh3s4JVSWWVHV_Q8W_lnUPx5PNe7f7tGa0yj4oA_kR5ZeNLK-6Jxy6yQ3PRqlWOoPdsf8Ie251Yd5fvpPgycNh1KACGEcjiN1K7BEZAX9PnvY7jWCHRUTRKkD-q0m2G8L0=",
+            "title": "sleeper.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_e-wee0hW8MYaoj3fowslM3OK-YO276_dcaNKf9pUSZ8Ut7pBmLeuLAm3URcoUSwK-jq0dULIDVftsFJl-inrzKqhIyok4N__DQIuUYjze84m0ZDZ1S8jpGvtK2jGalC-",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGFO8eohvdeJ0LX__8VY-sFDzY5IqtLFRQVUieCfkzp28DodKnqdpSOFP80EUjwQIlS9kcd8n3zfj3jmuwvGT98Nk_rMldiRJhPkNZCA72lZnwPUgiEPb75J9Qept9vvDUJFhYDyBdeMe8KECo",
+            "title": "sumersports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC64-YOlnkz8Ev0Arj6ibhd7VLjcOEOr5Um8La2kVYqNjzj3E9XNXVnRF9hLu0M2SicEuPARf-lNLANRk7P4DIs9dJLmwoocXwgX_eSiPkQqwz58NebMUMmydhjvz2j3_Mh4cHeHxqugu9_-PTvDlsbWb9LKnARGmNdRbINX8hvCGCz96uEyhf0YrsBqikiK7oJ2x0CmVO1Kcaby0BGAY6OP0T_Lnz2VgjnfXsKQw=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4c8k4BRo50XheA9J5kOmbDqK1sMZHCyLw9YF73uavBGKPvWWYuiV3HMzwlxBw7VyvxvTwXXtde_EKS4CYTgURcpZXWB3ge4KMNtFSKWhsK1BFNv4frlMeZnrthy5u0m6RhSXeERfqqbvMr6HYCiSfRORd1F22H80yXeVqKu3Acge8feOfiTBFsyR_Z5MH9YKgqisDP5faNh1UpEsaOImTrAtO6bl6zZm_",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjeFB8oK6wdJeGHJg8zA6IwV1aoOAxI6QUZWKqlPYyoa0FkpY9iQsd7Sn26IYcGYKAESgdSTwlTUHlio4skrt7apEsehVrz_5Bjyao112fOtly2J7ZZ83W7Tk6hDozqUY=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvdJ5153DA_2o7KfFQxN_5XinjJ8p--YhrVM4y6MLVSv2mbQTvhiC1tj5jtPqNmkwdOHy7aKPDFL3xa95idwDeTVWk06J37HeuOOkIh0kp_IkoegkW7dMWlWQqOc92ChdY6QZEtOvv5cUSMEustw6x6mKrNk3qOwGQiGJ85W8w9ocMJvaZ6o_8pwDXBKstQmARiCWSeVVZmqG4aQjiGK6jlcLLs6ICPHRw5bSShX_FLRxkovPrIvqX6PUJEgTu4lN1_Q==",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi3cSMio3GtPKvkqaFZRbs2MY22mUdbArXFrQSMdPx-u-hm1ruqCDKwiNoKa_yg75CX5fAzPRwqggoxD9iBHNL_Z2NI2TgQOG1RDWpZ2u6g2Pm-8Uelagtd1IMuy4uhyzE0LPVOyXGFOfuMqBcuqZrZ3kWtiASEd9rc_H5yKpD7w-sSXZStb4gOEzGpNYrlU9QYqNXDN537bBZo7zpQC0y3c2lj6BBgzCW3QdYqXNF38cGpluewYz5SJ2IJhjBYfjor1D8V0YBniYAxipfDo81qjXjyqEmcxKmNCwoLZnAd8Z2S1paVlD4s8Q-iysGDP3NSIydAT9rmQobp2lB",
+            "title": "indiatimes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwCO3Qm5juJPR9arJk_oMC2XgA7Lr379FMjggvT7tZgkDoguF5cSKICbaLADuuuef9jvKcPFNzJxncGiyBNBAh-UuVjM2nl8Di_jcfsbv-KQ4AkZtYpKis_99XVNFZxUv-DclOx68Skb5YEqkZZVHieAQwXTb0cC-U56WzOv9qw4IRQVyHxQ==",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn_pLLYfZFGgiLKktK7hATHDsmma1oumDGiVhmFgfMxUnkIsuBJGXOLynflEw4NjvpfreWl5ihVzG11s42f2aaqhxxLzTkVPhzS5XlYWXAYAh4Bi8c-8JzY1O_yZYG1U_iVZuPKr_ELpdqQT1VXoogbUvqkDH6bKT1-NPs",
+            "title": "fanduel.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRTMPiJxc7_0aD6wvxkY5P9zqGOD2sMvuKr4V08lDu4Qk_ZnxLzzFYGJPNHy5I3TOu4CWe1HNFFfGPBjefhmAibA7NqwyiqXfBzXvE7a117IdwRA0r_-G4bB1-TtjGQ2uMjajwTGiLyiLYIF3VMHhlzuq1Sic=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMJfW2x7GSf9pTldkbuORh5a9cK6iqnFP537jOPIBlLtkK-QqpHPXC2lU_fAJ0noHRg3rftrU9--DdYuBC-5JX4-nTXu6AEnD0SIDwUO2hMc7yGfGO7aQ0IZzUbYoPayYiOnQeWOfeElD5UkEsI14wLKjn8AgOEJ8Sz5EhkUfXqwhFhA5jJLAoF3MdCj93Hev2qarPiGeCf_sggbRdgUpN",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTKaDWTn7qUClNxkPbOkybu_lnDERgyrZRqDLFhuhg5rIhz9ElvtBGkSPMNfo4Yrfmv4R50yffOzDzx3O4HJDtEmZ-jqbQxGpK3EYIhaaFbKYI3gLiKkVf1V2sECyUcQG9V7Pb5kzdGdccWLhWRg==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3pxXP8FgcMO3qcVEpv3LmnVqvOo5k1WqKt3nvm832Wd9OnBUNPJK5cRRsT3zMdfO3R0kprsp_t2QtIvuKE-VtYqtN3FeTUMVY6GfaFBj6x3t4pgEWtRz0IowRq5jGStZ1I2fWUdKXhfIfCxP3X6PFxFoRWzaINc4-I2jyY_CNIaEhyMPvp4rwdCf4RHO3aoOCONkpJwbMImtsAD4cCCQb",
+            "title": "rotoballer.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "5c0debf2724bffde8e9fed261df3a9ac1e229630",
+        "aviCoreCommittedAt": "2026-11-13T12:26:32Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 90609,
+        "groundedMarketChars": 5264,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
   }
 ]
