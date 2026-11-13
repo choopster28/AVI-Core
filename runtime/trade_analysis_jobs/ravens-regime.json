@@ -1,5 +1,43 @@
 [
   {
+    "id": "mwez16xq-7d82ff35",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "perspectiveMode": "franchise",
+      "goal": "Increase Playoff Odds",
+      "partnerGoal": "Retool",
+      "targetTeam": "Southside Savages",
+      "targetAssets": [
+        {
+          "name": "Tetairoa McMillan",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Deebo Samuel Sr.",
+          "assetType": "player"
+        },
+        {
+          "name": "Jaylen Waddle",
+          "assetType": "player"
+        },
+        {
+          "name": "Kyle Monangai",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1794574013534,
+    "updatedAt": 1794574013534,
+    "expiresAt": 1795006013534,
+    "status": "queued"
+  },
+  {
     "id": "mweytx31-fb44b447",
     "phase": "initial",
     "mode": "propose_trade",
