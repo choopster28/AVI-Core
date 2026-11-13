@@ -686,8 +686,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Big Balder Brand
 - Original roster ID: 9
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
@@ -4526,8 +4526,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Big Balder Brand
 - Original roster ID: 9
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd

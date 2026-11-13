@@ -9,30 +9,30 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736994691492519936
 - Division: 4
 - Waiver position: 9
-- Last updated from Sleeper exports: 2026-11-12
+- Last updated from Sleeper exports: 2026-11-13
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 21
+- total_players: 22
 - offense: 14
 - kickers: 1
-- idp: 6
+- idp: 7
 - other: 0
 - keepers: 1
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 612.2
-- championship_lineup_c_avi_avg: 76.53
-- offensive_roster_c_avi_sum: 794.4
-- offensive_roster_c_avi_avg: 56.74
-- offensive_roster_d_avi_sum: 1064.7
-- offensive_roster_d_avi_avg: 76.05
+- championship_lineup_c_avi_sum: 610.6
+- championship_lineup_c_avi_avg: 76.33
+- offensive_roster_c_avi_sum: 792.8
+- offensive_roster_c_avi_avg: 56.63
+- offensive_roster_d_avi_sum: 1062.8
+- offensive_roster_d_avi_avg: 75.91
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Brock Purdy | C-AVI: 78.6 | D-AVI: 84.3
-- RB: D'Andre Swift | C-AVI: 81.8 | D-AVI: 89.1
-- RB: Tony Pollard | C-AVI: 67.3 | D-AVI: 79.6
+- RB: D'Andre Swift | C-AVI: 81.7 | D-AVI: 88.7
+- RB: Tony Pollard | C-AVI: 65.8 | D-AVI: 79.7
 - WR: Amon-Ra St. Brown | C-AVI: 93.3 | D-AVI: 98.0
 - WR: Tee Higgins | C-AVI: 91.1 | D-AVI: 93.2
 - TE: Tucker Kraft | C-AVI: 60.7 | D-AVI: 85.1
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 81.8
-- Dynasty AVI (D-AVI, 0-100): 89.1
+- Championship AVI (C-AVI, 0-100): 81.7
+- Dynasty AVI (D-AVI, 0-100): 88.7
 - Projected PPR points: 208.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 67.3
-- Dynasty AVI (D-AVI, 0-100): 79.6
+- Championship AVI (C-AVI, 0-100): 65.8
+- Dynasty AVI (D-AVI, 0-100): 79.7
 - Projected PPR points: 160.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -122,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 27.1
-- Dynasty AVI (D-AVI, 0-100): 63.4
+- Dynasty AVI (D-AVI, 0-100): 63.1
 - Projected PPR points: 60.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -224,7 +224,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 34.0
 - Championship AVI (C-AVI, 0-100): 47.7
-- Dynasty AVI (D-AVI, 0-100): 65.2
+- Dynasty AVI (D-AVI, 0-100): 63.9
 - Projected PPR points: 106.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -376,6 +376,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 30.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Jessie Bates III
+- Player name: Jessie Bates III
+- Player ID: 5017
+- Current owner team: All Hail King Jesus
+- Current owner roster ID: 8
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: JAX
+- Active: True
+- Status: Active
+- Age: 29.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

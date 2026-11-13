@@ -17,15 +17,15 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **99**
-- Owner trade participations: **200**
-- Two-team trades: **97**
+- Unique completed trades: **100**
+- Owner trade participations: **202**
+- Two-team trades: **98**
 - Three-team trades: **2**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **56**
+- 2026 completed trades: **57**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-11-05T23:23:59.146000+00:00**
+- Latest verified trade: **2026-11-12T23:59:26.854000+00:00**
 
 ## Trades by Owner
 
@@ -33,7 +33,7 @@
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | 1 | Corgi Loaf Baking Co.  | awang1900 | **29** | 7 | 4 | 18 | 41 | 40 | 10 | 17 | 7 | 10 |
 | 2 | Ravens Regime  | Mentomorii | **25** | 3 | 3 | 19 | 25 | 30 | 7 | 12 | 2 | 4 |
-| 3 | Big Balder Brand | Choopski | **22** | 7 | 2 | 13 | 34 | 35 | 3 | 8 | 1 | 4 |
+| 3 | Big Balder Brand | Choopski | **23** | 7 | 2 | 14 | 35 | 36 | 3 | 10 | 1 | 4 |
 | 4 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
 | 5 | Northside Kings  | srsmith95 | **19** | 6 | 5 | 8 | 19 | 16 | 13 | 5 | 5 | 3 |
 | 6 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
@@ -45,8 +45,8 @@
 | 12 | All Hail King Jesus | Hofer51 | **7** | 0 | 4 | 3 | 9 | 7 | 1 | 8 | 0 | 3 |
 | 13 | SmokyValleyWheatWarriors | AlexPete6800 | **7** | 2 | 2 | 3 | 3 | 5 | 4 | 6 | 0 | 1 |
 | 14 | Gringo’s Goblins  | Burnfaze | **4** | 0 | 0 | 4 | 8 | 7 | 2 | 3 | 2 | 0 |
-| 15 | Southside Savages | GGEZGoNext | **2** | 0 | 1 | 1 | 3 | 2 | 6 | 0 | 1 | 0 |
-| 16 | Phalhala or Bust | PIFYAF | **1** | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| 15 | Phalhala or Bust | PIFYAF | **2** | 0 | 0 | 2 | 2 | 2 | 2 | 0 | 0 | 0 |
+| 16 | Southside Savages | GGEZGoNext | **2** | 0 | 1 | 1 | 3 | 2 | 6 | 0 | 1 | 0 |
 
 ## Trade-Partner Matrix
 
@@ -63,13 +63,31 @@
 | Lightskin Legends ✊🏽 | Conquistadors | 3 |
 | Mile High Royal Lions | Northside Kings , All Hail King Jesus | 2 |
 | Northside Kings  | Conquistadors | 5 |
-| Phalhala or Bust | Ravens Regime  | 1 |
+| Phalhala or Bust | Ravens Regime , Big Balder Brand | 1 |
 | Rapid Valley Annihilation | Corgi Loaf Baking Co.  | 5 |
 | Ravens Regime  | Corgi Loaf Baking Co.  | 4 |
 | SmokyValleyWheatWarriors | Conquistadors | 3 |
 | Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽 | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1426757339272220672
+- Season: 2026
+- Week: 10
+- Created at UTC: 2026-11-12T23:59:26.854000+00:00
+- Teams involved: 2
+
+#### Big Balder Brand (Choopski)
+- Players received: C.J. Stroud
+- Players sent: Kirk Cousins
+- Picks received: None
+- Picks sent: 2027 Round 4 (original roster 9), 2028 Round 4 (original roster 9)
+
+#### Phalhala or Bust (PIFYAF)
+- Players received: Kirk Cousins
+- Players sent: C.J. Stroud
+- Picks received: 2027 Round 4 (original roster 9), 2028 Round 4 (original roster 9)
+- Picks sent: None
 
 ### TRADE: 1424211699958878208
 - Season: 2026

@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 14
-- Last updated from Sleeper exports: 2026-11-12
+- Last updated from Sleeper exports: 2026-11-13
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 650.4
-- championship_lineup_c_avi_avg: 81.30
-- offensive_roster_c_avi_sum: 893.9
-- offensive_roster_c_avi_avg: 55.87
-- offensive_roster_d_avi_sum: 1191.7
-- offensive_roster_d_avi_avg: 74.48
+- championship_lineup_c_avi_sum: 650.2
+- championship_lineup_c_avi_avg: 81.28
+- offensive_roster_c_avi_sum: 901.0
+- offensive_roster_c_avi_avg: 56.31
+- offensive_roster_d_avi_sum: 1189.9
+- offensive_roster_d_avi_avg: 74.37
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Kenneth Walker III | C-AVI: 92.8 | D-AVI: 96.3
 - RB: Bucky Irving | C-AVI: 82.9 | D-AVI: 91.5
 - WR: Ja'Marr Chase | C-AVI: 96.1 | D-AVI: 99.1
-- WR: Mike Evans | C-AVI: 74.7 | D-AVI: 84.0
+- WR: Mike Evans | C-AVI: 74.7 | D-AVI: 83.8
 - TE: Brock Bowers | C-AVI: 95.0 | D-AVI: 93.5
-- FLEX: Stefon Diggs | C-AVI: 61.8 | D-AVI: 73.9
-- FLEX: Tre Tucker | C-AVI: 56.4 | D-AVI: 72.3
+- FLEX: Stefon Diggs | C-AVI: 61.8 | D-AVI: 74.2
+- FLEX: Tre Tucker | C-AVI: 56.2 | D-AVI: 70.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 34.4
-- Dynasty AVI (D-AVI, 0-100): 52.9
+- Championship AVI (C-AVI, 0-100): 34.5
+- Dynasty AVI (D-AVI, 0-100): 53.0
 - Projected PPR points: 22.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -190,7 +190,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 33.0
 - Championship AVI (C-AVI, 0-100): 74.7
-- Dynasty AVI (D-AVI, 0-100): 84.0
+- Dynasty AVI (D-AVI, 0-100): 83.8
 - Projected PPR points: 222.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -207,7 +207,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 32.0
 - Championship AVI (C-AVI, 0-100): 61.8
-- Dynasty AVI (D-AVI, 0-100): 73.9
+- Dynasty AVI (D-AVI, 0-100): 74.2
 - Projected PPR points: 157.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,26 +223,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 56.4
-- Dynasty AVI (D-AVI, 0-100): 72.3
+- Championship AVI (C-AVI, 0-100): 56.2
+- Dynasty AVI (D-AVI, 0-100): 70.4
 - Projected PPR points: 125.9
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Caleb Douglas
-- Player name: Caleb Douglas
-- Player ID: 13296
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: MIA
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 49.0
-- Dynasty AVI (D-AVI, 0-100): 71.7
-- Projected PPR points: 94.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -257,9 +240,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 42.7
-- Dynasty AVI (D-AVI, 0-100): 77.7
+- Championship AVI (C-AVI, 0-100): 50.0
+- Dynasty AVI (D-AVI, 0-100): 79.2
 - Projected PPR points: 213.8
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Caleb Douglas
+- Player name: Caleb Douglas
+- Player ID: 13296
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: MIA
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 48.9
+- Dynasty AVI (D-AVI, 0-100): 70.1
+- Projected PPR points: 94.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -365,17 +365,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Chase Young
-- Player name: Chase Young
-- Player ID: 6782
+### PLAYER: Kendal Daniels
+- Player name: Kendal Daniels
+- Player ID: 13482
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
-- Position: DL
-- Fantasy positions: ['DL']
-- NFL team: NO
+- Position: LB
+- Fantasy positions: ['LB']
+- NFL team: ATL
 - Active: True
 - Status: Active
-- Age: 27.0
+- Age: 23.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

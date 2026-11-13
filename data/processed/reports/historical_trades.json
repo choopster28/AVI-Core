@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-11-12T21:39:43.802894+00:00",
+  "generated_at_utc": "2026-11-13T02:43:08.411389+00:00",
   "statistics": {
-    "owner_trade_participations": 200,
+    "owner_trade_participations": 202,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -97,7 +97,8 @@
       {
         "partner_count": 1,
         "partners": [
-          "Ravens Regime "
+          "Ravens Regime ",
+          "Big Balder Brand"
         ],
         "roster_id": 14,
         "team_name": "Phalhala or Bust"
@@ -176,18 +177,18 @@
         "by_season": {
           "2024": 7,
           "2025": 2,
-          "2026": 13
+          "2026": 14
         },
         "firsts_in": 1,
         "firsts_out": 4,
         "owner_display_name": "Choopski",
         "picks_in": 3,
-        "picks_out": 8,
-        "players_in": 34,
-        "players_out": 35,
+        "picks_out": 10,
+        "players_in": 35,
+        "players_out": 36,
         "roster_id": 9,
         "team_name": "Big Balder Brand",
-        "total": 22
+        "total": 23
       },
       {
         "by_season": {
@@ -372,6 +373,21 @@
       },
       {
         "by_season": {
+          "2026": 2
+        },
+        "firsts_in": 0,
+        "firsts_out": 0,
+        "owner_display_name": "PIFYAF",
+        "picks_in": 2,
+        "picks_out": 0,
+        "players_in": 2,
+        "players_out": 2,
+        "roster_id": 14,
+        "team_name": "Phalhala or Bust",
+        "total": 2
+      },
+      {
+        "by_season": {
           "2025": 1,
           "2026": 1
         },
@@ -385,31 +401,16 @@
         "roster_id": 13,
         "team_name": "Southside Savages",
         "total": 2
-      },
-      {
-        "by_season": {
-          "2026": 1
-        },
-        "firsts_in": 0,
-        "firsts_out": 0,
-        "owner_display_name": "PIFYAF",
-        "picks_in": 0,
-        "picks_out": 0,
-        "players_in": 1,
-        "players_out": 1,
-        "roster_id": 14,
-        "team_name": "Phalhala or Bust",
-        "total": 1
       }
     ],
     "three_team_trades": 2,
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 56
+      "2026": 57
     },
-    "two_team_trades": 97,
-    "unique_completed_trades": 99
+    "two_team_trades": 98,
+    "unique_completed_trades": 100
   },
   "trades": [
     {
@@ -7389,6 +7390,84 @@
       ],
       "transaction_id": "1424211699958878208",
       "week": 9
+    },
+    {
+      "created_at_utc": "2026-11-12T23:59:26.854000+00:00",
+      "created_timestamp_ms": 1794527966854,
+      "roster_ids": [
+        9,
+        14
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "Choopski",
+          "owner_id": "863881053000011776",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 9,
+              "round": 4,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 9,
+              "round": 4,
+              "season": "2028"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "9758",
+              "player_name": "C.J. Stroud"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "1166",
+              "player_name": "Kirk Cousins"
+            }
+          ],
+          "roster_id": 9,
+          "season": 2026,
+          "team_name": "Big Balder Brand"
+        },
+        {
+          "owner_display_name": "PIFYAF",
+          "owner_id": "1132141719354535936",
+          "picks_received": [
+            {
+              "original_roster_id": 9,
+              "round": 4,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 9,
+              "round": 4,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [
+            {
+              "player_id": "1166",
+              "player_name": "Kirk Cousins"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "9758",
+              "player_name": "C.J. Stroud"
+            }
+          ],
+          "roster_id": 14,
+          "season": 2026,
+          "team_name": "Phalhala or Bust"
+        }
+      ],
+      "transaction_id": "1426757339272220672",
+      "week": 10
     }
   ]
 }
