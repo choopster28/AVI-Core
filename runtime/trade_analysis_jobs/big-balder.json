@@ -1,5 +1,54 @@
 [
   {
+    "id": "mwejr9m0-71d3769e",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "neutral",
+      "goal": "Retool",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          },
+          {
+            "name": "A.J. Brown",
+            "assetType": "player"
+          },
+          {
+            "name": "Chris Godwin Jr.",
+            "assetType": "player"
+          },
+          {
+            "name": "2028 2nd · Balder · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Garrett Wilson",
+            "assetType": "player"
+          },
+          {
+            "name": "Jonah Coleman",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794548356200,
+    "updatedAt": 1794548356200,
+    "expiresAt": 1794980356200,
+    "status": "queued"
+  },
+  {
     "id": "mwe9tbo0-b3156e86",
     "phase": "initial",
     "mode": "analyze_trade",
