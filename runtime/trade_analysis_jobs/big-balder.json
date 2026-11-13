@@ -36,9 +36,383 @@
       "alternateAssets": []
     },
     "createdAt": 1794531656016,
-    "updatedAt": 1794531657879,
+    "updatedAt": 1794531721713,
     "expiresAt": 1794963656016,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Big Balder Brand's ambition to target C.J. Stroud (age 25, D-AVI 75.6) perfectly aligns with its organizational goal to Retool, securing a foundational QB1 for the next decade. However, the submitted proposal of Kirk Cousins (age 38) and two 4th-round picks (0.0 AVI) is a severe lowball that will be swiftly declined by Phalhala or Bust. Phalhala's primary objective is to Increase Playoff Odds, and taking a QB downgrade without receiving an immediate starting upgrade at WR or RB directly conflicts with its postseason push. AVI recommends revising the offer by pairing Kirk Cousins with an immediate high-impact starter like DeVonta Smith (73.4 C-AVI) to create a win-win deal that incentivizes Phalhala while locking down Stroud for Big Balder Brand.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Kirk Cousins",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 38,
+              "cavi": 57.4,
+              "davi": 61.3,
+              "publicMarket": 50,
+              "leagueMarket": 52
+            },
+            {
+              "name": "2027 4th · Balder · Projected Mid · original owner Big Balder Brand",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 5,
+              "leagueMarket": 5
+            },
+            {
+              "name": "2028 4th · Balder · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Big Balder Brand",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 5,
+              "leagueMarket": 5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "C.J. Stroud",
+              "assetType": "player",
+              "owner": "Phalhala or Bust",
+              "position": "QB",
+              "age": 25,
+              "cavi": 67,
+              "davi": 75.6,
+              "publicMarket": 85,
+              "leagueMarket": 82
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "F",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "The submitted offer heavily favors Big Balder Brand by acquiring 25-year-old franchise QB C.J. Stroud for 38-year-old Kirk Cousins and two late 4th-round draft picks. However, because Phalhala or Bust is attempting to Increase Playoff Odds, accepting a downgrade at QB for zero startable assets makes this package an instant reject for Phalhala."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "By revising the offer to send Kirk Cousins and DeVonta Smith for C.J. Stroud, Big Balder Brand solves Phalhala's urgent need for WR starter production during their playoff push while successfully securing a 25-year-old cornerstone quarterback to anchor Big Balder Brand's Retool."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Upgrades starting QB output immediately with Stroud (67.0 C-AVI) over Cousins (57.4 C-AVI)."
+            },
+            "dynastyOutlook": {
+              "score": 85,
+              "summary": "Massive long-term dynasty gain by securing a young elite quarterback asset for the next 8-10 years."
+            },
+            "lineupQuality": {
+              "score": 25,
+              "summary": "Direct improvement to weekly QB starting floor and ceiling."
+            },
+            "depthResilience": {
+              "score": -5,
+              "summary": "Slightly reduces late-round draft capital with zero practical lineup impact."
+            },
+            "flexibilityLiquidity": {
+              "score": 60,
+              "summary": "Acquiring a top-tier dynasty QB greatly elevates overall roster liquidity."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "The submitted offer heavily favors Big Balder Brand by acquiring 25-year-old franchise QB C.J. Stroud for 38-year-old Kirk Cousins and two late 4th-round draft picks. However, because Phalhala or Bust is attempting to Increase Playoff Odds, accepting a downgrade at QB for zero startable assets makes this package an instant reject for Phalhala."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -30,
+              "summary": "Downgrades starting QB C-AVI from 67.0 to 57.4 while adding no startable weekly points elsewhere."
+            },
+            "dynastyOutlook": {
+              "score": -80,
+              "summary": "Surrenders a 25-year-old dynasty cornerstone for an aging 38-year-old veteran."
+            },
+            "lineupQuality": {
+              "score": -25,
+              "summary": "Creates a net downgrade in the starting lineup during a must-win stretch."
+            },
+            "depthResilience": {
+              "score": 5,
+              "summary": "Adds two 4th-round dart throws with negligible functional value."
+            },
+            "flexibilityLiquidity": {
+              "score": -50,
+              "summary": "Loses one of the roster's most valuable trade chips in a 16-team league."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "The submitted offer heavily favors Big Balder Brand by acquiring 25-year-old franchise QB C.J. Stroud for 38-year-old Kirk Cousins and two late 4th-round draft picks. However, because Phalhala or Bust is attempting to Increase Playoff Odds, accepting a downgrade at QB for zero startable assets makes this package an instant reject for Phalhala."
+            }
+          },
+          "explanation": "For Big Balder Brand, acquiring Stroud for a light package is ideal across all dynasty metrics. For Phalhala or Bust, accepting it causes immediate lineup harm and long-term asset destruction, explaining why the trade will be rejected unless substantially revised."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Big Balder Brand gains +9.6 C-AVI at starting QB by upgrading from Kirk Cousins (57.4) to C.J. Stroud (67.0).",
+          "sideADynastyImpact": "Big Balder Brand gains +14.3 D-AVI at QB and secures a 25-year-old franchise cornerstone while giving up a 38-year-old veteran and two 0.0-AVI picks.",
+          "sideARosterImpact": "Consolidates quarterback value and dramatically lowers the age profile of the roster, supporting a clean Retool.",
+          "sideBChampionshipImpact": "Phalhala or Bust suffers a -9.6 C-AVI hit to their starting QB slot, directly reducing weekly points during their playoff chase.",
+          "sideBDynastyImpact": "Phalhala or Bust loses -14.3 D-AVI and forfeits their premier long-term quarterback asset.",
+          "sideBRosterImpact": "Opens a long-term void at quarterback while adding non-factor 4th-round draft capital.",
+          "valueAssessment": "The submitted deal is heavily skewed toward Big Balder Brand by +14.3 D-AVI and +9.6 C-AVI, failing to provide fair market value or strategic alignment for Phalhala or Bust."
+        },
+        "publicMarketAnalysis": {
+          "summary": "In public dynasty markets, C.J. Stroud is valued as an elite top-8 dynasty QB worth multiple first-round picks or a high-end starter plus premium draft capital. Kirk Cousins, at age 38 on a short-term Vikings deal, holds modest win-now value.",
+          "aviVsMarket": "AVI aligns with public market sentiment: Stroud (D-AVI 75.6) holds massive dynasty equity over Cousins (D-AVI 61.3). The public market gap is even wider than raw AVI reflects due to Stroud's age and ceiling.",
+          "relevantContext": [
+            "C.J. Stroud (age 25) is entering his prime coming off AFC Offensive Player of the Week honors in 2026.",
+            "Kirk Cousins (age 38) was recently traded mid-season to Minnesota as a bridge starter.",
+            "Late 4th-round rookie picks carry virtually zero trade currency in 16-team dynasty leagues."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Phalhala or Bust wants to Increase Playoff Odds. Moving Stroud for Cousins downgrades their weekly QB output without solving their weak WR/FLEX depth.",
+          "packageFit": "Two 4th-round draft picks offer zero immediate utility for a team trying to qualify for the postseason.",
+          "lineupReplacement": "Cousins takes Stroud's starting QB slot but represents an immediate reduction in expected weekly points.",
+          "competitiveWindowFit": "Poor strategic fit for Phalhala or Bust. It hurts their current playoff odds and removes their primary young core piece.",
+          "positionalScarcity": "In a 16-team 1QB league, high-tier starting QBs are highly scarce and command substantial trade compensation."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 5,
+            "packageMatch": 5,
+            "lineupReplacement": 5,
+            "competitiveWindow": 0
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 45,
+          "classification": "Unlikely",
+          "explanation": "Phalhala or Bust will decline this offer because taking a QB downgrade during a playoff push for late 4th-round picks directly hurts their competitive goal."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "Targeting C.J. Stroud is a premier strategy for Big Balder Brand's Retool, but Kirk Cousins and two 4th-round picks will be instantly rejected. To acquire Stroud from a manager aiming to Increase Playoff Odds, Big Balder Brand must leverage receiver depth to send an immediate starting WR upgrade like DeVonta Smith alongside Cousins.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Kirk Cousins",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 38,
+              "cavi": 57.4,
+              "davi": 61.3,
+              "publicMarket": 50,
+              "leagueMarket": 52
+            },
+            {
+              "name": "DeVonta Smith",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "WR",
+              "age": 27,
+              "cavi": 73.4,
+              "davi": 89.6,
+              "publicMarket": 80,
+              "leagueMarket": 82
+            }
+          ],
+          "receive": [
+            {
+              "name": "C.J. Stroud",
+              "assetType": "player",
+              "owner": "Phalhala or Bust",
+              "position": "QB",
+              "age": 25,
+              "cavi": 67,
+              "davi": 75.6,
+              "publicMarket": 85,
+              "leagueMarket": 82
+            }
+          ],
+          "whyUserShouldDoIt": "Big Balder Brand leverages wide receiver depth (Nico Collins, Rashee Rice, A.J. Brown, Chris Godwin) to land 25-year-old C.J. Stroud, anchoring the Retool at QB for years to come.",
+          "whyOpponentMightAccept": "Phalhala or Bust maintains a viable starting QB in Kirk Cousins while adding DeVonta Smith (73.4 C-AVI), giving them an immediate high-end WR starter to boost their playoff odds."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Kirk Cousins",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "QB",
+              "age": 38,
+              "cavi": 57.4,
+              "davi": 61.3,
+              "publicMarket": 50,
+              "leagueMarket": 52
+            },
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 72.9,
+              "davi": 83.1,
+              "publicMarket": 75,
+              "leagueMarket": 78
+            }
+          ],
+          "receive": [
+            {
+              "name": "C.J. Stroud",
+              "assetType": "player",
+              "owner": "Phalhala or Bust",
+              "position": "QB",
+              "age": 25,
+              "cavi": 67,
+              "davi": 75.6,
+              "publicMarket": 85,
+              "leagueMarket": 82
+            }
+          ],
+          "rationale": "If Phalhala or Bust prioritizes running back production for their playoff run, offering Chuba Hubbard (72.9 C-AVI) alongside Cousins gives them an immediate RB starter while preserving Big Balder Brand's top receivers."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "CJ Stroud news 2026",
+          "Kirk Cousins news 2026",
+          "Kirk Cousins stats contract fantasy 2026",
+          "CJ Stroud stats fantasy 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8RmgI84LDjs9YwRDOxDWq6HLGP310Awpfuua3-JdKY5IexUScI9RNRxNggsPBdu9t1NupCM_m3zcxhIpmZo8td_MO1gEXqnuO3nVwMsq9U43qkgS3e9nM07lfwaJQSTuHh-gmmS-Qs9-VvV8JvQP2_MZxDMo=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9xOUjiYUP1hv93FOjeJmTR0dR4Zv3llL7LpX5bEwsFS3bE-T-urNdwVCWNRdZecp1GccB7WVMHv6MTt2JCRwJ4xrvkZEY7nL1Hnxqa-MHrh-ejUwGRbx4O96wMefAKgOEim4FuV8=",
+            "title": "thesportswire.net"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo3VNUUtnSkeNAqViCV8QX_b-qDNpDnHlOscJFYygIgsk1BZYogoj5DIAX42p4BtSotEyzNF_97QSofBWvzejtXk9IWgpyQks2JvS-_9QUiWtpK0oIiQUaOIazOfvHWLQVg21JUHB6xu8DKZ-i6RQfrZW2y2qCXoCXR_q5xyBbInYHXLnw90_D0lGqil6uxan6FZARmeMskxTfoBi60JoWuGiKaHzU4DQckukZvfTIlks5EjnVZptYNZK_rGYcGlmKMg==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ttASH_LLreStG6SkJa5RyKNRnKSgU6-fkAszAksfnvgYlowu1TO4DZ9UhWHYJqzdQBUm1zbcio7DRHRgAxNDICN4s5xQGBd1M0b-7yUyd7gcIh7hVp7KAGyLEVk-hQQNnV26huTcdw==",
+            "title": "pff.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHygNBPT7reusev4lwe4ZLkWLrjGJkY3IULEJETByAbRmiU9cFvVLhfrwbXRG6nfanLCKg-5nQ82UuJMl0s5xSKpmdGE3vI6R5znkdCQkzIqdJ9tmupwFringWOyst52GG0_o5NUdjgU7C9Cw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn8K298CfOd3j6187zShggNt3AyOvajA_v6gN-Y9Eobr7HIUxqQVUnb8xMD13kqQelTQWCIRCv_rX4FBKrpfo-3I7Zg34h9CgJeWFAmBxIJ9p8wKeJ7Q0dYl_n6XabAiVB4EgNCy7nOzt7LQWXzb8hYhaJThdSquclB0Cs08WBnuzJas2-hAWb-qA-0jEnISYYeylkfsrHNA==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt85yQvG27FbyvHKumXA0fnWl5rDT1sa81tscomoRJzVhLuivTlirPgzy3mXi9VozoRhI6TfqGX1yn86LBvttm-PSMz84bjR2cnmzhOwaNf4pVA8V6dS0YZBclZmaRlnroggjVeUCoLf7ObVLj0c-7Wprw5psL0bS9dri6Hj1pWg==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEReqr04tbRB3U5Q0XdD1CTcmpiEfnAxVRKJ1M3yYLa8rsjBOOSUDBgsWle_eDN9-WYmqxbrk6v-NcYI-gRPJ8RAN8_65lkTjSz2xMHyDOLqn8n3omTCkDwOgUBNT8Q81ChxYLIn0vJ0wr6-W-YllA=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoYSIjmcoT9ZJbtmbN0rVPsan6vmBnHJ6OjKTGqKZIzmduu9zBjVOZAfhktUQzaGbT7vIrlUgpMZ9bV4QsQ4xLxCqKhbhm0NPPnOjYj6bECzle6Hv8MCaJUyXOJk6qhu_cKVVItjkG8gbIBsFDTzQ=",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxf5FKBFhFRf8YS8qI7j93yVvqbfbTsKBRYO6Di0d1tq-96Lf8_Jp_OZaSHw09ENY1TqnyL2rawC2ObPBQEHbgWcpU4KzMlHwJtAMDHebiIV36JKWp_QRG-_zQnbnu0Xrk",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGXtijTsACGeBhyq9WG0Hg-W2celt6IsdUIfQRPXtzmlm3DMAvKpva-gmIsztNfDe5FxcP44PdE4a9KxMSy41ca5Kxab6ukW0dv9ruaBs2ldXltCCsi-_s6MFn39mlrJebFsrlmsplE2jIYGkLh26k813OLVQwL6O3bXBKIWI-kH86csKPgW1FtJCjC1bfYbbcven8wHKQO3fxVncP5anfB_bX7qNYj5H11D1HxbET5PJLkn8QAuBZtU0o3cdvBoyO9_LQBaKg0qfktPWeJJGj9R1UGI4aK7HFbvRhywR1ls2JvOqlA3BEtZFQoiftApYLjp6gcpF2K2ptPhzNpHcmM00C_vO2JZ0nlCdQzeLz2fgDFdx4bZsliA1RhrlBs7RhSoCAX8QzTKv3adYZOk6_RGCr5MQchBUxQOfpCNtLySBIMrk_VAgIiD-uoGCFhyzNV_jc2Pf67Iyd1Ph7xX9Wa6QxEdCIqbPNCs1wlA==",
+            "title": "reviewjournal.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtcM1kWyx0FWmAZC2VVdO69dUwbKmB_ZDpp1Eli88G6cF_2y0ADoN-LpYwWgSs0vKXhUBO7G0A8KbsM2s_QXI9zBAyhpIXw1bT8m0ZCw-3aXpEB-_vm8c12mJJZE_w_FeFyZpPVUXdvBYNLR8=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfQMJCmGNuGxxtmOlCx2pLDXPQlqM0Ij9UI-vwjKj3iGC1Koj13u0zStZlJVYMCfXESfYW3cqzzD8cVAfj-JklI0luQXHahsWfZGRLZ6ImvWQ47LgiLcQ76cC8HIanwesDDYilz4WUqpLmoEXWvieu2ndvRj3-a_RTawR5tlvw63xQuQ==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiDeOKn5WgS0r1MeHFJMQ1hPKJXpyAc2IcR_tdN2HJ08ott8n9tnc_1t84d9Tc6twKp3-PnDQhCBNv1FcwmLof-Ye6q-Lecnncape6dQNtXjnKURi_IMlUxJbZm710B8x5Bg3cXFcVoJqieHsc7o2grXiIRft6adwxA-_Z3Q8EHjJKTXSnFlKnjaxfFRiQN1Nv-LLT_wq9pZdklXRbp_3-olHkTcFIYK9rjTNaqXkjow_Dpg4=",
+            "title": "as.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHceh8hjcVz_ZtJuq7XYISoxTbmIApbfzg0IEZgpy0IsLlIuOeIg78DwByMzoKOcVhEDMKxSQGNfgujTA1qi0BzbjCcisVPF7Z1oosrVS94m12_N7zhipLSJv7MILZYDtcCz-Ca2Se4y4G-m1ycHWQEsb9sByBeOsKJDam5ZHa_oOEUytzejj3ynxTM0th_HIISzp6WqcRmWPDpvP9NE3Df6O6hUDvgAuXrTGsHtj6oGDsjQayP1mkEC9kveDzovBm2",
+            "title": "nbcsports.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "49b253f7d9e82e78881cfaf869ced71b076ca777",
+        "aviCoreCommittedAt": "2026-11-12T21:39:45Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 86303,
+        "groundedMarketChars": 4798,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
   },
   {
     "id": "mwe9fqno-5632aa61",
