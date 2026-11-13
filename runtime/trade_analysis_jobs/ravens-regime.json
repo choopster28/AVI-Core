@@ -1,5 +1,48 @@
 [
   {
+    "id": "mwf00hu8-aab23501",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "perspectiveMode": "franchise",
+      "goal": "Increase Playoff Odds",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Mile High Royal Lions",
+      "targetAssets": [
+        {
+          "name": "Travis Kelce",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · King Jesus · Projected Late · original owner All Hail King Jesus",
+          "assetType": "pick"
+        },
+        {
+          "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Jaylen Waddle",
+          "assetType": "player"
+        },
+        {
+          "name": "Deebo Samuel Sr.",
+          "assetType": "player"
+        }
+      ],
+      "personalContext": "Make the trade fair then"
+    },
+    "createdAt": 1794575660845,
+    "updatedAt": 1794575660845,
+    "expiresAt": 1795007660845,
+    "status": "queued"
+  },
+  {
     "id": "mwezxjkb-c0d32785",
     "phase": "initial",
     "mode": "propose_trade",
