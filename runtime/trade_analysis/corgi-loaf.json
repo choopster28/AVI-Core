@@ -1,5 +1,388 @@
 [
   {
+    "id": "mwfm3s59-37f24483",
+    "createdAt": 1794612837837,
+    "expiresAt": 1795044837837,
+    "mode": "improve_team",
+    "title": "Initial Improve My Team · Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "goal": "Win Championship",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. is actively pursuing a 2026 championship run. With elite young wide receivers in Jaxon Smith-Njigba and Malik Nabers alongside cornerstone tight end Trey McBride, the franchise's primary objective is upgrading RB volume and scoring floor while refining FLEX productivity. Evaluated across 15 league rivals through the Market Reality framework, three compelling acquisition opportunities emerged with high-probability pathways that align with both Corgi Loaf Baking Co.'s title window and the respective counterparty strategic goals.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite WR core anchored by Jaxon Smith-Njigba (C-AVI: 99.2) and Malik Nabers (C-AVI: 89.3)",
+            "Premier TE positional advantage with Trey McBride (C-AVI: 94.7)",
+            "Stable QB production with Patrick Mahomes (C-AVI: 49.0) and Tyler Shough (C-AVI: 47.4)"
+          ],
+          "priorityNeeds": [
+            "Starting RB depth and weekly high-touch floor",
+            "High-ceiling FLEX upgrades"
+          ],
+          "tradeableSurplus": [
+            "Veteran WR depth (DJ Moore)",
+            "Veteran RB rotation pieces (David Montgomery, Saquon Barkley)"
+          ],
+          "constraintsApplied": [
+            "Win Championship strategic goal prioritization",
+            "League-relative starter/FLEX caliber requirements for all traded players",
+            "Two-organization strategic goal validation"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding franchises unwilling to surrender young core assets for veteran packages",
+            "Direct championship rivals refusing to trade top-tier starting RBs without overpays",
+            "Lack of roster fit or starter-caliber tradeable assets matching positional needs"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Rapid Valley Annihilation",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Quinshon Judkins",
+                "assetType": "player",
+                "owner": "Rapid Valley Annihilation",
+                "position": "RB",
+                "age": 23,
+                "cavi": 63.9,
+                "davi": 86.6,
+                "publicMarket": 82,
+                "leagueMarket": 84
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "David Montgomery",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 46.4,
+                "davi": 76.5,
+                "publicMarket": 72,
+                "leagueMarket": 74
+              },
+              {
+                "name": "2027 Round 4 (All Hail King Jesus)",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 0,
+                "davi": 20,
+                "publicMarket": 20,
+                "leagueMarket": 20
+              }
+            ],
+            "scenarioType": "Retool Asset Re-alignment",
+            "strategicGoal": "Win Championship",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 22,
+              "packageMatch": 17,
+              "lineupReplacement": 12,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 85,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Acquiring Quinshon Judkins provides Corgi Loaf Baking Co. with a 23-year-old high-volume RB whose C-AVI (63.9) and D-AVI (86.6) immediately bolster weekly starter output for the 2026 title push and preserve long-term dynasty stability.",
+            "whyOpponentMightAccept": "Rapid Valley Annihilation is in a Retool window and acquires dependable veteran RB volume in David Montgomery plus draft capital, insulating their immediate depth while aligning with their strategic restructuring timeline.",
+            "championshipImpact": "Increases weekly RB projected ceiling and reduces reliance on older rotational backs during playoff matchups.",
+            "dynastyImpact": "Gains a 23-year-old primary back, significantly extending Corgi Loaf's dynasty window without surrendering premium starter core assets.",
+            "rosterImpact": "Judkins slots directly into the active RB2 slot, elevating David Montgomery's previous spot.",
+            "publicMarketContext": "Judkins commands double-digit touches weekly in Cleveland, making him a prime target for contenders seeking heavy ground work.",
+            "risks": [
+              "Judkins relies on short-yardage touchdown efficiency due to backfield split with Dylan Sampson",
+              "Montgomery returning to full health could narrow the short-term C-AVI gap if Cleveland's offense struggles"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer David Montgomery straight up, highlighting his reliable veteran floor and immediate startability for a retooling roster.",
+              "acceptableConcession": "Include the 2027 4th round pick as a sweetener to finalize the transaction.",
+              "walkAwayPoint": "Walk away if Rapid Valley Annihilation demands a starting WR or additional 1st/2nd round draft picks."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "All Hail King Jesus",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Tee Higgins",
+                "assetType": "player",
+                "owner": "All Hail King Jesus",
+                "position": "WR",
+                "age": 27,
+                "cavi": 91.1,
+                "davi": 93.2,
+                "publicMarket": 90,
+                "leagueMarket": 92
+              },
+              {
+                "name": "Tony Pollard",
+                "assetType": "player",
+                "owner": "All Hail King Jesus",
+                "position": "RB",
+                "age": 29,
+                "cavi": 65.8,
+                "davi": 79.7,
+                "publicMarket": 75,
+                "leagueMarket": 77
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 52.1,
+                "davi": 84,
+                "publicMarket": 82,
+                "leagueMarket": 83
+              },
+              {
+                "name": "DJ Moore",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "WR",
+                "age": 29,
+                "cavi": 51.1,
+                "davi": 82,
+                "publicMarket": 80,
+                "leagueMarket": 81
+              }
+            ],
+            "scenarioType": "Contender Starter Re-alignment",
+            "strategicGoal": "Win Championship",
+            "scoring": {
+              "availability": 20,
+              "opposingGmMotivation": 18,
+              "packageMatch": 15,
+              "lineupReplacement": 11,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 72,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Tee Higgins (C-AVI: 91.1) provides a dynamic WR1/WR2 weekly ceiling in Cincinnati's explosive passing attack, while Tony Pollard supplies steady RB starter production.",
+            "whyOpponentMightAccept": "All Hail King Jesus is competing for a championship and gains Saquon Barkley's high-ceiling potential in Philadelphia's offense plus proven WR starter floor in DJ Moore.",
+            "championshipImpact": "Massively boosts starting WR scoring capacity alongside Jaxon Smith-Njigba and Malik Nabers.",
+            "dynastyImpact": "Secures 27-year-old elite receiver Tee Higgins, matching the age peak of Corgi Loaf's championship core.",
+            "rosterImpact": "Tee Higgins enters as an immediate starting WR/FLEX centerpiece; Tony Pollard fills active RB starter rotation.",
+            "publicMarketContext": "Tee Higgins remains a high-end red-zone weapon for Joe Burrow, presenting elite weekly touchdown upside.",
+            "risks": [
+              "Saquon Barkley exploding in late-season games could leave Corgi Loaf wanting more RB power",
+              "Bengals offensive variance in single-game elimination matchups"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Lead with Saquon Barkley and DJ Moore for Tee Higgins and Tony Pollard, framing it as a balanced positional redistribution between two contenders.",
+              "acceptableConcession": "Include a future 4th/5th round pick if needed to close the deal.",
+              "walkAwayPoint": "Walk away if All Hail King Jesus asks to receive Trey McBride or Malik Nabers."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "DJ Moore news 2026",
+          "David Montgomery news 2026",
+          "Quinshon Judkins news 2026",
+          "Tee Higgins news 2026",
+          "Javonte Williams news 2026",
+          "Rhamondre Stevenson news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOxU3QFnHpOMW_ifQ2XShEiE0FdKuihfg2XpcdOdJ0MxxkMUDzz-aO9WJ3hmntM-jeedpRkTInI7TMm26mgI2uwlu37gUBNeYAlGy0XuPal-KnEk_piudEQauhThZSD06H",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoP6Rp51oNcq7_dh2PwFOVIWZ361yk2h-JvIXh4stLL7Ftu4c7BNpnFWh_YD4VCQncPzhd5epseqMmAYptEYCxgQ5gfSGW1Z9_Dd3Tb6Aupd9gHdoMzUgeQInSFMPvHpyMSG4eivSVTSgd2ZlGVqtH8s0gpMT8bHCBFQipLCmngRpRhoxM6TgykVuNdjtPOu4ht7FsFdzNI82h5C1bNco5RUrETgk=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHlTDxKrXLm0j_51ZmnpG-W_dGNADDN0FawGAhaNVL6xTMGPWNn3dhUnxIRviQaFChNUcyFEi4RTgchivNU5OUPRAjyp4jrpoA5mado12WsLT8RKIo6LKmnCwAMnkxT5k5P8PnJZQgT67R3T_CRwL1APQD_7vBg0K5beUBLrMNVHXALLsSZ6q9-RM_",
+            "title": "brownsnation.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOW0AzvmdII5ZhGc2fOFyG2KvFw2A6QLav2umRFweMRiE3girlDctJ9kbNfo2IZ7lRBuvJ1ASuA3luRHp30e0XkGmBYIt0Ye6WvQUW4maQYJ9WAn3bDSGiEKlNUPB3KyIQqY4A5WZN-pcTdtVfkAXdHmhbTXAiADPSI307KTidZ7NC1QTcun5FbgKCNORzkoqZqo44pDfTCyv6VZd7PhRVKdYP",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvtXi-OGKmu24tq8imCHoLwZGyDMXB7wJb2HsZ_86iDznOS5Jn4e09s1Snj23U84VlOrZoaWp7qbm3ywXDk0-pprPIklRHvuA4OfMXNII3pY3eHNqgJ_CudfFuch2MxGXHw6FTJafEn4--sZMqmfPuyFQ6rOlxquab5Gv0TxBoEBv7x-KYUTlc09_XMJAn1P1XId5j_wBzCGJxja27-1Aj_qgAWqJZb9LZzGSOTLxz_Q==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyBMuN_VgpxEJzgmmE_bCi777zUg9ipS2Mv2Rg2544-b5b5j1SoA3S5I2j00zC-SZPdXoDiOEzt9uMj9vuT_Bg7yELY1iWBI5tn3VKsFV7DjU6dr8AJhLw7M1PWPO8RfmaGLSG9HtQ1_dC6Hs0HQXY3vSIwchT0-XzyHg35IVveNnnEiBPE-Dfkm3ZnLSX83nranNerpIpJvRh83PpQlUispXD0jhoo_tUmdQf5w==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKYMs4ZN0jxsTmcZnm9SOQUTQ8Bpoy9f9EZTY5gvVKUmrgX4-_lgJpmKd0qvGCq1xgAnSams3RXqyCzOXSupKb6bLmIhOlUlhOqK0ELcDyAVe7Z_hJmT_1tIuCJxSdYtJUsg8t5Fa2IsZI_mT5d2R8-X_yaANvvXuIPqeF9bxIDQxwveZXmDll2lL35Z-zLiZ-jy3vHW3f6A==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0rSiZ_DzMwKzrgp2hBgFgXltj-6Ny9VoVDcp3JJ7Q7A_hp8_E0IMHYpE3rZOCsOaOdZgs22h150NvSeGmKot4QnjENr4N5QvQBaPBt0rUYfarBeIS9r6Tw6g5DM-Eoe_OyBniJfi-8ZgqGAzhmt44Ic2z5u8eSKkaMhj4z7dwMVUEsgk0Rb7qmnJoIrYWazDdioRT3laM",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3goZ7nYc6nLvfdiSoVl42KMC2fymXmPTGb1F6XdNfFU-Pr574sVJExWbJWg-nXTC7VKQE-V95GOni8Wqmdqs1Q9EGoJRb21nG06vXdEQ92oSzuZ0YRumYIxU_lMT1bWVlBcCPglxasfncSkbkJVP88Ixu4b0o0kn5pWT_6m0lvWxuyW0Xvr_d45RCOH4bWz4u1yEs0GGJ7A==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcQwI2TuMRKhErZvY1HFmwjp0OoMgBCXw6giSty_vHU-6TAx22sFCqCbYORvkYe5oaYt4CnRdQ-2NfWaapR48NNE3NW65WM6wiOy9rLZTP-H2VWZACzyz8gP2YjMCArP54as0aqVOiHl0gIv9iex2PHZfIFphiuwAU2gaglyTGMBc=",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNf1WB35MfSeHVsDJn7oTqnd0Jzf1nWLr1JKQ6hK8l9ZsbzY92-i76o3v2Eha3WkuTQ3zIvdhwS1PGkRQWUBbYnQc90mR0uoTZzjAovmo5I1WojG5nH1KviHiX4sLCQjy1CvaOEYQZQgxJhgTbVwe5QWFKn7264sNenBIAwTn9LdtJYCL2T0_b6gw1LBl52VzsqsPdb_PpFkq4rWsFz7onzgCQLfrNqg==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKnC5cCdbRJdlgCpxp8r76wO9DLM7GMPOVQFGlID6YCK1Mm3yveHviOqkaF3izHPrvne_uikcZmnM6Yak5P_jNYhXlDrl1yMTPxLpbZddSil_KMaY6ipXO-hUKG89jYC-U9a_jF6fyb3k6lSRu",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIoHzFIzJZIjGU9XZJ_wznaQB9qNI-Qt2jUjQHFps1GC7p7upwQlhg8Kkq0ddQPQA2rgLEYPFa5guKBkhKs4wKktSdydvc9AXaPbgM0cKuJ85ue4fFaz1HNQP_G_-OZeAop-CuXk_EoAr1GRUd-JCGIhlCFwiB_kGCt4g8kVZFmgUqHlZ5gJyVaX4I6L3AquRSJw==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0yBrzg3Pl_YCH9B_K1Pj_5vZ7fG_fPeOaLnhTEX_gK4DvBQ9FbVT6DyBRg8mfxxZ6iSNb52u_HIwHkaH1Teut8pQWKyQF65Gc6qsqb0p18hgV6g6QD4vVVdfcBE7DxbmP6IjK1J6UwdViAPaEhl33X5beihE-xheGLFPfLHiRa8AAXmWYyK4o2KY=",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFWUw4o5OHh0kTQ9twiXg4sEPSeMUUODslwGKiQ1qrLNroEzSYH30RK_3e5eJUj8gMbUUz5hVCuXXAaa8ZrVX-i7-Ofkab-wEPR3vFOXXyue9ZVNQ6n4mZZka_XPLH2sjw",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1NP3z0KKfLDSiyodZzw9KuIk9lTlg-CzHtzQOdM-CFpCB2WmxhyVXoQb7UYZOlkAuh2HvVoMpqpN-VHwLEyXCEFV7AnIDDNE5Y9d0RuLtak2Ey_Nhtux1BrTbjNiM3Ojq1ujVnu3EaOIoUrLjslVRhy7BXCj9b0MjtFfcMUPmUbCQ0DH003e7XA6FLRqLQFr9wpz04SFqaNpEJEa9Msyqx14Ej6SI",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg9_N7myWzHUg8x1vjk9fP0IP6VTD08CR9VRkmCfW0VODgFaejwkpNMpGJJjxK8fl0E_g4jZab98FBvIZ2WbFS3mEocusBwbmJ70XW7UUwoO_Z2JK2UVHRA_CvfP1EoSKnQZwwKhMC0F4fx1ok9Y0oL0zBS3uwfAs4e71ac_b086HDVqFns1ZqPhjp0xDBi0_FLfJ21skEgZDfCnMf1ryuHK-IKZ30ybe_-bm8YCOWpo8KmNRS4O3K-ETu",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqr6l7NVLtD0XYDENqIxjIyyQhG_KhidGe6oxCcl8BJ3K40brq0xVwN7JLiEJ7mAIHq0lYD0f9r6fVP_mdP_BzOFGjIqb40nuaE8a6lgh3HQz4dvl4A06gvFjzUGnh8rCuTW3duWy9hpYKJSBQsopaaRWFYiVj0Vufo3FyZgNhZvXYh9fOZcseKKPUYg==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ_znL30Auv3dqG2p2O5Rfjf-0muU_ubimQHlp729OJpNC-st7kuOmcFhc1Vay4-mzS2nmXEU9_ZzvMrGDIFd_OHD03qz2v5H93DgE__LZzvm17AXH4E4oO-eQyziyUgrFfizBhFb98YgTzjpDsjzwCpaAvB7t0Qr1Mm2rVyMT-sWEfEGIa5xwQ9hKAbD8TyLle2x0PhHJ",
+            "title": "985thesportshub.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbYJdO725IQhtXM6Hq8X29I5l8dT642iR8J7OJcCGcx8GbDjy9fgh10FMyf7FjQJJcHD8CA_mcoovXNOiiPubTUrGK8I0obitIAywLOfuLVpUHFnZLyk4kBLif36hG5yJIaWC941Qi_xcj_pdggGB3G6LnZyqQS_hlcWTxsq4_uFrFlRhCb7fVE4aHVbacdyhBpHwhLz3KlY8Q0Mj1ucWS",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsb3tCNJJc1j4kHaf1izRG8adz0s3UQ6ERRBRqOB3n4AFOTzQGTZellLvMJk2hz46Ro-uOz_fPW13MZWJ79ucBx4mi4MdAUd4slqaeSKEevgdgvCPt5YgxG6M3WOPUT7EOrUOujlL09XyRBuy4iDds75BdRchNjp85UvbDBhecHVXjG827QBR9fJXoC2YA5BRozzsetMzLiY1036Z5f5tGrzwg1oMwbKEI1dK8izgZNlHGUmviA8R18gzWXPiXwe3CzKfvQGG_zLemKB8lFhc=",
+            "title": "patriots.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqT4WBP6ccbGhjVVOlRFkRPaeusVnRmLWj9oX7QsjI26XEK1lqhL5wa7toM_fCR33Koowbv54CjOzqSid8er_DUjpbZ1B3cSKeHewpf3PCJRyc-amefhOxvdp1o2SLLrK1GaCs8pQA7MO75rEwko38dMyt7p9u1NRzyCqEGuHfEQOI3t1ndszrqi7pE8xEKQZ_Pm5mQe7gdxqL9g==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK-0dsXzjFqHEDb4ST8dFWpZldW9R7vnvb-EiegMMvKs7tOu5Z7Vk4jaqmn_33IW6nalg2Yl0lRpy9V0m_W45jzbp1bPYPnoib8yBZDxUhe_SnWHTB_PrPKqkQTZmhgermDhEkm2DVHnSU0BtTtXf0NlVpVdQIy86ICfzu_9LauHriYnqVZfn6w5uhVTO19O1Fz-vT-1rzY_o8LbcoevJAymK0SPVpuFQ=",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Quinshon Judkins",
+          "David Montgomery",
+          "Tee Higgins",
+          "DJ Moore",
+          "Javonte Williams",
+          "Rhamondre Stevenson"
+        ],
+        "aviCoreCommitSha": "cb700a208ae1c57815c73565b5acb32d4d36b3e0",
+        "aviCoreCommittedAt": "2026-11-13T21:05:40Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 546953,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 253,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mwd0sq29-d5334746",
     "createdAt": 1794456113445,
     "expiresAt": 1794888113445,
