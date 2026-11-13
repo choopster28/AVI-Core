@@ -1,5 +1,46 @@
 [
   {
+    "id": "mwe9tbo0-b3156e86",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "franchise",
+      "goal": "Retool",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Phalhala or Bust",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Kirk Cousins",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 4th · Balder · Projected Mid · original owner Big Balder Brand",
+            "assetType": "pick"
+          },
+          {
+            "name": "2028 4th · Balder · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "C.J. Stroud",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794531656016,
+    "updatedAt": 1794531656016,
+    "expiresAt": 1794963656016,
+    "status": "queued"
+  },
+  {
     "id": "mwe9fqno-5632aa61",
     "phase": "initial",
     "mode": "propose_trade",
