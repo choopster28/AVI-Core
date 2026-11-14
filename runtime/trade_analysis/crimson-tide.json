@@ -1,5 +1,389 @@
 [
   {
+    "id": "mwgwyv14-95a5a0be",
+    "createdAt": 1794691555825,
+    "expiresAt": 1795123555825,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Badland Banditos ↔ Crimson Tide Pods",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Badland Banditos",
+      "perspectiveMode": "neutral",
+      "goal": "Win Championship",
+      "partnerGoal": "Rebuild",
+      "targetTeam": "Crimson Tide Pods",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Brian Thomas Jr.",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 3rd · Conquistadors · Projected Late · original owner Conquistadors",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Emmett Johnson",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "In this 16-team PPR league, Badland Banditos (Win Championship) proposes sending WR Brian Thomas Jr. and a 2027 3rd-round pick (Conquistadors) to Crimson Tide Pods (Rebuild) for rookie RB Emmett Johnson. With Kenneth Walker III ruled out for Week 10 with a groin injury, Emmett Johnson provides Badland Banditos an immediate starting RB and direct backfield handcuff coverage. However, giving up Brian Thomas Jr. (D-AVI 79.9, age 24.0) plus a 3rd-round pick for a 5th-round rookie RB represents an unnecessary dynasty overpay. Removing the 2027 3rd-round pick creates a balanced 1-for-1 swap that delivers urgent RB starts for a contender while providing the rebuilder a high-upside young receiver.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Brian Thomas Jr.",
+              "assetType": "player",
+              "owner": "Badland Banditos",
+              "position": "WR",
+              "age": 24,
+              "cavi": 39.8,
+              "davi": 79.9,
+              "publicMarket": 65,
+              "leagueMarket": 65
+            },
+            {
+              "name": "2027 3rd (Conquistadors)",
+              "assetType": "pick",
+              "owner": "Badland Banditos",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 20,
+              "leagueMarket": 20
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Emmett Johnson",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 23,
+              "cavi": 35.9,
+              "davi": 72.7,
+              "publicMarket": 55,
+              "leagueMarket": 55
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B-",
+            "otherGrade": "A-",
+            "userShare": 43,
+            "otherShare": 57,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Badland Banditos secures immediate starting RB production to cover Kenneth Walker III's injury, but surrenders 96.4 total D-AVI (BTJ + 3rd) for 72.7 D-AVI in Emmett Johnson. Crimson Tide Pods gains a 57% value share by exchanging a day-3 backup RB for a 24-year-old receiver with proven rookie WR1 ceiling and extra draft capital."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 48,
+            "otherShare": 52,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Removing the 2027 3rd-round pick converts the deal into a clean 1-for-1 swap (Brian Thomas Jr. for Emmett Johnson). Badland Banditos solves an acute starting RB shortage without surrendering draft capital, while Crimson Tide Pods still secures a prime 24-year-old dynasty WR."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 25,
+              "summary": "Emmett Johnson provides immediate starting RB volume while Kenneth Walker III misses time with a groin injury."
+            },
+            "dynastyOutlook": {
+              "score": -20,
+              "summary": "Trading away Brian Thomas Jr. (D-AVI 79.9) and a 3rd pick reduces long-term roster value."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Upgrades active RB starting floor while primary backfield options are nursing injuries."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Secures direct backfield handcuff coverage for Kenneth Walker III."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Surrenders a 2027 3rd-round pick and a liquid young WR asset."
+            },
+            "overall": {
+              "score": -14,
+              "summary": "Badland Banditos secures immediate starting RB production to cover Kenneth Walker III's injury, but surrenders 96.4 total D-AVI (BTJ + 3rd) for 72.7 D-AVI in Emmett Johnson. Crimson Tide Pods gains a 57% value share by exchanging a day-3 backup RB for a 24-year-old receiver with proven rookie WR1 ceiling and extra draft capital."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Removes an active starting RB option from the current weekly roster."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Adds a 24-year-old WR with top-4 rookie history (D-AVI 79.9) and future pick assets."
+            },
+            "lineupQuality": {
+              "score": -10,
+              "summary": "Temporarily lowers active RB scoring during the current matchup."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Increases receiver depth with multi-year upside."
+            },
+            "flexibilityLiquidity": {
+              "score": 30,
+              "summary": "Acquires appreciating dynasty assets and future draft capital."
+            },
+            "overall": {
+              "score": 14,
+              "summary": "Badland Banditos secures immediate starting RB production to cover Kenneth Walker III's injury, but surrenders 96.4 total D-AVI (BTJ + 3rd) for 72.7 D-AVI in Emmett Johnson. Crimson Tide Pods gains a 57% value share by exchanging a day-3 backup RB for a 24-year-old receiver with proven rookie WR1 ceiling and extra draft capital."
+            }
+          },
+          "explanation": "The trade transfers immediate starting production to contender Badland Banditos in exchange for multi-year dynasty growth and draft assets for rebuilding Crimson Tide Pods."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Badland Banditos acquires an active RB starter (C-AVI 35.9) to fill the hole left by Kenneth Walker III's groin injury, raising immediate weekly lineup floor.",
+          "sideADynastyImpact": "Badland Banditos yields 96.4 D-AVI across Brian Thomas Jr. (79.9) and the 2027 3rd (16.5), lowering long-term roster value.",
+          "sideARosterImpact": "Badland Banditos trades receiver depth to resolve an acute RB shortage.",
+          "sideBChampionshipImpact": "Crimson Tide Pods trades away short-term RB points, aligning with its rebuilding timeline.",
+          "sideBDynastyImpact": "Crimson Tide Pods gains 96.4 D-AVI while surrendering 72.7 D-AVI, netting +23.7 dynasty value points.",
+          "sideBRosterImpact": "Crimson Tide Pods bolsters its long-term WR core and pick inventory.",
+          "valueAssessment": "Submitted offer favors Crimson Tide Pods in total dynasty value (57% to 43%). Removing the 3rd-round pick balances the trade near 50/50."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Emmett Johnson's market value is surging following confirmation that Kenneth Walker III is ruled out for Week 10, granting Johnson his first NFL start for Kansas City. Brian Thomas Jr. is navigating a sophomore slump in Jacksonville but retains substantial dynasty appeal based on draft capital and his rookie 1,282-yard, 10-TD campaign.",
+          "aviVsMarket": "AVI values Thomas Jr.'s D-AVI (79.9) significantly higher than Johnson's D-AVI (72.7), reflecting the historical reality that early-round WR draft capital retains value far better than 5th-round backup RBs.",
+          "relevantContext": [
+            "Kenneth Walker III officially ruled out for Week 10 with a groin injury.",
+            "Emmett Johnson slated for his first career NFL start for the Kansas City Chiefs.",
+            "Brian Thomas Jr. saw reduced snap share recently but remains a 24-year-old elite athletic profile."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Crimson Tide Pods is rebuilding and benefits from turning a short-term RB starter into a 24-year-old receiver and draft capital.",
+          "packageFit": "Badland Banditos needs RB starts; Crimson Tide Pods needs multi-year upside assets.",
+          "lineupReplacement": "Crimson Tide Pods can shift FLEX duties to Jakobi Meyers or Germie Bernard while retooling.",
+          "competitiveWindowFit": "Fits Badland Banditos' Win Championship push and Crimson Tide Pods' Rebuild mandate.",
+          "positionalScarcity": "Starting RBs in 16-team PPR leagues command a premium, explaining the willingness to pivot WR depth into RB starts."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 23,
+            "packageMatch": 18,
+            "lineupReplacement": 12,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 78,
+          "classification": "Realistic",
+          "explanation": "Crimson Tide Pods has strong strategic motivation as a rebuilder to trade a day-3 RB during a high-leverage starter window for long-term WR talent."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "The trade concept is logical for both organizations, but Badland Banditos should remove the 2027 3rd-round pick. Brian Thomas Jr. for Emmett Johnson straight up provides fair value for both sides without overpaying draft capital for a temporary RB starter.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Brian Thomas Jr.",
+              "assetType": "player",
+              "owner": "Badland Banditos",
+              "position": "WR",
+              "age": 24,
+              "cavi": 39.8,
+              "davi": 79.9,
+              "publicMarket": 65,
+              "leagueMarket": 65
+            }
+          ],
+          "receive": [
+            {
+              "name": "Emmett Johnson",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 23,
+              "cavi": 35.9,
+              "davi": 72.7,
+              "publicMarket": 55,
+              "leagueMarket": 55
+            }
+          ],
+          "whyUserShouldDoIt": "Badland Banditos secures Kenneth Walker III's immediate starting replacement and direct handcuff without giving away a 2027 draft pick.",
+          "whyOpponentMightAccept": "Crimson Tide Pods receives a 24-year-old receiver with proven WR1 ceiling (D-AVI 79.9) in exchange for a 5th-round rookie RB."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Brian Thomas Jr.",
+              "assetType": "player",
+              "owner": "Badland Banditos",
+              "position": "WR",
+              "age": 24,
+              "cavi": 39.8,
+              "davi": 79.9,
+              "publicMarket": 65,
+              "leagueMarket": 65
+            },
+            {
+              "name": "2027 3rd (Conquistadors)",
+              "assetType": "pick",
+              "owner": "Badland Banditos",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 20,
+              "leagueMarket": 20
+            }
+          ],
+          "receive": [
+            {
+              "name": "Emmett Johnson",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 23,
+              "cavi": 35.9,
+              "davi": 72.7,
+              "publicMarket": 55,
+              "leagueMarket": 55
+            },
+            {
+              "name": "2028 3rd (Crimson Tide Pods)",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 20,
+              "leagueMarket": 20
+            }
+          ],
+          "rationale": "If Crimson Tide Pods insists on pick compensation, Badland Banditos should swap 3rd-round picks to preserve draft asset balance."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Brian Thomas Jr NFL stats contract fantasy",
+          "Brian Thomas Jr news 2026",
+          "Emmett Johnson football player"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgWAxsl_bvIAHnYZWJE2zGYRwsksCrDCSAypg63ydCApfV2X8H6FP0TuewW9nvUroNKx1GQcsKALhsI_g2rKmRljs_MIIU9aEy1Iwz9dd12742QmZiwZb0nBesAwd-9M8WSMlxRi2r5gkssjYq-LZ9frmRPm5xzw-PgxFBG6HTM5zIupbdbdWpK8fSQzy-9lMaf-RlrUiz0wuw2T78HiqHpguA3m1X",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOs7cWBJqvb94rMLYHzu9Try3CyTGUBAX_Nsvaun8pmwrz5Z9a9OVq9K4lj8pprqKMcbFXEBWJ2Qn6ZC-iZZ8-WANot1VWbeKY1HhR3meBeZv9hjGRNFp8AwhM7VbKs3Qje9n8yKZahyKeB30d5voKTeFs6iXScMy8Xal1QbUjEd9tpEPpqCelBlSYPt6eBQg=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4LtaOEnZvBHdUNa9yOsl7ptpVtxaIOic2ExEB1daxih-MH7hN9PBv0A0YSaBcMk8Qs33t41bNC2Anam-fHqSJLFWtzfwQgvEp1uwJBuxtS_sCDaRQq8yMj1LnjyArRoOHkCEulSFk8J1gmMHspp2buFNF7jbSKNMNpbDqf0_VgOtjl7emq_idNi6k9E8g6cCSp-pbzk-G13aayZoa5YjaiSoo",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHnNi90S28wWvFNBzWz_TuXKSjMAf9VPNBvlpte8jzuNEMRfxc3V-XLLHtgKQ0Pe9gFNrT2cPWWfp_lIvqHyJeBAAwH7Tq-EZJdP8McguvpEMuzeBJ96J5qA74wQHUjwIMojZTL5L049A=",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQQpTmzGBXu8w4w3h5_5qB6C_ym4cqrJ-z0KdAGqgtozzhC0BbDWaWGzT-KxuFjx_lkvoucvekgrXvFb9JJA8kJLc_b51YqXZF9sJRKQpCXAOo3unoNlG7rapD_JWA2QMxVWUdun8DKyh5WJmD9ckzDg==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbCpGAMIJy4rjB34F5jhlSga9--PkqsDEDDNaTX07zrfKBBb_dzTHgl_8-hAq1ul5srOI2x9OkOMPLrg2_Y73VtYj7RLnlLSlrssBewdz_dK3OK9_NNcOu5-cAEJvZRewdNNYRt8ADAJfbk8uDz3Uq",
+            "title": "fantasyhoff.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP2RJA-gfu-LkVZ4OW2ZyEY9ihI6CJ8NVQHyPV3h1fJAzoRoLPRIJ8VLR3J1gyb23KT9AOjLc8qc87uhgWaNAV86Hej-98AjRgELNiC3yR7jpeaFe9KP97j8VvClxmbF_ICK72FabzNUM4BA==",
+            "title": "sleeper.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElZT7KqtkVMKMnWCjrjyoG1d7UnFWde22SGoyAbiUt4SVkOZOL9uFo9Ikl8LHv8xt8gZIKukvjSh85NamX6hC1fsztbnWS4OlWDDr8X5iCz2nZRYsr2Z1c8FpPVGzPerzHPQ==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHdP5jAJvpYPIJkhjGRlv7GXFVINNerc3ZAextMHAealuCODf_ouDOHk1Ws6FmAUQofotT4UrGKroyGONWPoV3WTOOf378oNj3mlGz3VWtgufLUIzG9IDdVdL-meDLTgs0aU15DJa_s6t3WEYcWW8w",
+            "title": "chiefs.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDDkfrrYVKt1mKKfzgMqvSQlaP3hQx7klabR4yGEB29vpQ5mz0Xyhw4ZFQrOgx_erbv9FvndTPHUXJLUDPecKruuzDRfTNKbL_Z7nlBIcPn0UAFIyF6iT62g2x5yMVHkxri9nGMPCDPqC1oXEGlmGQbrAgBkE7SyLVEACCJ_qd4U_z0wfoNwIaaQlhhe2Oz2Nx7rhj8bwznU5vz5kY91sHTDpbYGEXBAY8sq92Ty_EXIVEkntRCmV2CaaQRQ0C-vYwLAN8IZD33ui4BrI=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEys4fVo_d4hvZX-rJtyCwUs5toeQqPfN7j7Ir4Uu_a8hiME83zOKlNXXxelq5ZqaIcqbFuqNRrfkHgk5L8YibqHrpQOgDUwsI4B1g1rriAJLVXSyZFzjH3ZekIBqgVA3KsEpBoL7sqo8FhZi3JxHZ8oJT8B8zq2822A6mbCayVrvs3I2uX3k_Su8w9rV9lBewWMz-a1cRlBqYSkm0Wjg7LtAwgmNkT5aQJsY5aPNgsflbuul99ynl_J7ZcaSnwZoj5wg==",
+            "title": "247sports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVHBAif08gbaPEPrNpyGLMaVtCFqxjMOqw3bbj7RDMrDHECoUP-UB-vi0NRp1K7XO2jer_AKj0A56dCiyKpS-sWRcGems4x1JHdNHGocVdTevMoyYgLd1QJ2OF0rT3F2yo2T053UNhWbW_sGYlWEzLJy37",
+            "title": "pro-football-reference.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "f0b313dd5905abd8b892dc13b50da00f4f5f112a",
+        "aviCoreCommittedAt": "2026-11-14T19:37:00Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 89882,
+        "groundedMarketChars": 3994,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": true,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
+  },
+  {
     "id": "mwgwvfhh-c56565ef",
     "createdAt": 1794691331347,
     "expiresAt": 1795123331347,
