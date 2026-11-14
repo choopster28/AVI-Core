@@ -1,5 +1,50 @@
 [
   {
+    "id": "mwgy0oh5-73ff0541",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "perspectiveMode": "franchise",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Badland Banditos",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Emmett Johnson",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Lightskin · Projected Mid · original owner Lightskin Legends",
+            "assetType": "pick"
+          },
+          {
+            "name": "2027 3rd · Corgi Loaf · Projected Late · original owner Corgi Loaf Baking Co.",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Brian Thomas Jr.",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 1st · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794693242345,
+    "updatedAt": 1794693242345,
+    "expiresAt": 1795125242345,
+    "status": "queued"
+  },
+  {
     "id": "mwgxuoos-397430e4",
     "phase": "initial",
     "mode": "analyze_trade",
