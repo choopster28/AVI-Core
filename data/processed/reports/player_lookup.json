@@ -1474,7 +1474,7 @@
       "player_name": "Xavier Legette",
       "position": "WR",
       "sleeper_id": "11626",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "active": true,
@@ -6378,7 +6378,7 @@
       "position": "RB",
       "roster_id": 6,
       "sleeper_id": "7543",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "06_Lightskin_Legends.md",
       "team_name": "Lightskin Legends ✊🏽"
     },

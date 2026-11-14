@@ -55507,7 +55507,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2024"
     },
-    "news_updated": 1794594333195,
+    "news_updated": 1794684012002,
     "number": 25,
     "oddsjam_id": "84C4F05F8EFF",
     "opta_id": null,
@@ -58372,7 +58372,7 @@
     "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": "ab5dc6c7-527e-4d1e-bf72-bfdf26e44818",
     "last_name": "Legette",
     "metadata": {
@@ -58380,7 +58380,7 @@
       "genius_id": "1463648",
       "rookie_year": "2024"
     },
-    "news_updated": 1794594333211,
+    "news_updated": 1794683111825,
     "number": 17,
     "oddsjam_id": "354055F05D44",
     "opta_id": null,
@@ -58399,7 +58399,7 @@
     "sport": "nfl",
     "sportradar_id": "0bb0c37c-e76b-4529-92b0-b026be4f7d6c",
     "stats_id": null,
-    "status": "Inactive",
+    "status": "Active",
     "swish_id": 1180321,
     "team": "CAR",
     "team_abbr": null,
@@ -59104,7 +59104,7 @@
       "genius_id": "1463657",
       "rookie_year": "2024"
     },
-    "news_updated": 1794318949984,
+    "news_updated": 1794684311919,
     "number": 0,
     "oddsjam_id": "9989A4F55BFD",
     "opta_id": null,
@@ -119431,7 +119431,7 @@
       "rookie_year": "2025",
       "source_id": "06150a7a-3af6-408f-a8ee-7bf3650565ed"
     },
-    "news_updated": 1792043113272,
+    "news_updated": 1794682211965,
     "number": 15,
     "oddsjam_id": "3C39E01DD312B9B3",
     "opta_id": null,
@@ -131658,7 +131658,7 @@
       "genius_id": "1500811",
       "rookie_year": "2025"
     },
-    "news_updated": 1794606918525,
+    "news_updated": 1794682511812,
     "number": 4,
     "oddsjam_id": "08365AC19CE59ADA",
     "opta_id": null,
@@ -184398,7 +184398,7 @@
       "genius_id": "1500282",
       "rookie_year": "2026"
     },
-    "news_updated": 1794382824078,
+    "news_updated": 1794684312143,
     "number": 93,
     "oddsjam_id": null,
     "opta_id": null,
@@ -208490,7 +208490,7 @@
       "genius_id": "1493643",
       "rookie_year": "2026"
     },
-    "news_updated": 1793856042168,
+    "news_updated": 1794683712221,
     "number": 89,
     "oddsjam_id": null,
     "opta_id": null,
@@ -342025,7 +342025,7 @@
     "injury_body_part": "Calf",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "kalshi_id": "7f11cf2c-e754-4bcb-aa74-d8aac41dfef3",
     "last_name": "Bullard",
     "metadata": {
@@ -406520,7 +406520,7 @@
       "genius_id": "998603",
       "rookie_year": "2017"
     },
-    "news_updated": 1794285945653,
+    "news_updated": 1794681611894,
     "number": 31,
     "oddsjam_id": "5ACC7BBB5AC5D920",
     "opta_id": null,
@@ -438081,7 +438081,7 @@
     "first_name": "Dare",
     "full_name": "Dare Ogunbowale",
     "gsis_id": "00-0033854",
-    "hashtag": "#dareogunbowale-NFL-FA-23",
+    "hashtag": "#dareogunbowale-NFL-HOU-23",
     "height": "70",
     "high_school": "Marquette (WI)",
     "injury_body_part": null,
@@ -438095,7 +438095,7 @@
       "genius_id": "999161",
       "rookie_year": "2017"
     },
-    "news_updated": 1794608418592,
+    "news_updated": 1794683712212,
     "number": 23,
     "oddsjam_id": "C364845265C8",
     "opta_id": null,
@@ -438116,7 +438116,7 @@
     "stats_id": 703015,
     "status": "Active",
     "swish_id": 703015,
-    "team": null,
+    "team": "HOU",
     "team_abbr": null,
     "team_changed_at": null,
     "weight": "205",
@@ -524053,7 +524053,7 @@
       "genius_id": "1148696",
       "rookie_year": "2019"
     },
-    "news_updated": 1794610218898,
+    "news_updated": 1794684312142,
     "number": 2,
     "oddsjam_id": "E2B90E0A9963",
     "opta_id": null,
@@ -573004,7 +573004,7 @@
       "genius_id": "1017003",
       "rookie_year": "2020"
     },
-    "news_updated": 1788318625892,
+    "news_updated": 1794682211969,
     "number": 88,
     "oddsjam_id": "4F52B037428B",
     "opta_id": null,
@@ -577533,7 +577533,7 @@
       "genius_id": "1003426",
       "rookie_year": "2020"
     },
-    "news_updated": 1794619219356,
+    "news_updated": 1794681911809,
     "number": 84,
     "oddsjam_id": "570514936B0A",
     "opta_id": null,
@@ -590398,7 +590398,7 @@
       "genius_id": "1008775",
       "rookie_year": "2020"
     },
-    "news_updated": 1794625821618,
+    "news_updated": 1794684012173,
     "number": 21,
     "oddsjam_id": "F6D62F024EFF",
     "opta_id": null,
@@ -622328,7 +622328,7 @@
     "sport": "nfl",
     "sportradar_id": "970693f0-0af4-4627-ac0c-bf519f7433ee",
     "stats_id": null,
-    "status": "Inactive",
+    "status": "Active",
     "swish_id": 978577,
     "team": "NO",
     "team_abbr": null,
@@ -623568,7 +623568,7 @@
       "genius_id": "1297990",
       "rookie_year": "2021"
     },
-    "news_updated": 1794377722257,
+    "news_updated": 1794682511812,
     "number": 8,
     "oddsjam_id": "3FEEB58C0137",
     "opta_id": null,
@@ -631725,10 +631725,10 @@
     "hashtag": "#roberthainsey-NFL-JAX-73",
     "height": "76",
     "high_school": "IMG Academy (FL)",
-    "injury_body_part": "Concussion",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "19c063b6-9c36-4b4f-9c58-ccdd2f363cba",
     "last_name": "Hainsey",
     "metadata": {
@@ -663769,7 +663769,7 @@
       "genius_id": "1080483",
       "rookie_year": "2022"
     },
-    "news_updated": 1794283245354,
+    "news_updated": 1794684012170,
     "number": 84,
     "oddsjam_id": "76F1ADA9FF3C",
     "opta_id": null,
@@ -666236,10 +666236,10 @@
     "hashtag": "#tylergoodson-NFL-DAL-32",
     "height": "69",
     "high_school": "North Gwinnett (GA)",
-    "injury_body_part": "Knee",
+    "injury_body_part": "Knee - ACL + MCL",
     "injury_notes": "Sprain",
     "injury_start_date": null,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "kalshi_id": "52613b22-133a-45ea-94e1-40ed891a0738",
     "last_name": "Goodson",
     "metadata": {
@@ -666247,7 +666247,7 @@
       "genius_id": "1357162",
       "rookie_year": "2022"
     },
-    "news_updated": 1794376223775,
+    "news_updated": 1794682511987,
     "number": 32,
     "oddsjam_id": "A190E422A5D4",
     "opta_id": null,
@@ -716476,7 +716476,7 @@
       "genius_id": "1399220",
       "rookie_year": "2023"
     },
-    "news_updated": 1794606018458,
+    "news_updated": 1794682511994,
     "number": 25,
     "oddsjam_id": "D66E3B13F3AC",
     "opta_id": null,
