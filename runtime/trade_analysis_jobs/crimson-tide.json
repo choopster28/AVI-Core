@@ -1,5 +1,30 @@
 [
   {
+    "id": "mwgyqf4w-59bf03ee",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Crimson Tide Pods",
+      "perspectiveMode": "franchise",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Conquistadors",
+      "targetAssets": [
+        {
+          "name": "De'Von Achane",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": []
+    },
+    "createdAt": 1794694443296,
+    "updatedAt": 1794694443296,
+    "expiresAt": 1795126443296,
+    "status": "queued"
+  },
+  {
     "id": "mwgy0oh5-73ff0541",
     "phase": "initial",
     "mode": "analyze_trade",
