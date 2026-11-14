@@ -1,5 +1,50 @@
 [
   {
+    "id": "mwgxuoos-397430e4",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "perspectiveMode": "franchise",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Badland Banditos",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Emmett Johnson",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Lightskin · Projected Mid · original owner Lightskin Legends",
+            "assetType": "pick"
+          },
+          {
+            "name": "2027 4th · Crimson Tide · Projected Early · original owner Crimson Tide Pods",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2027 1st · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          },
+          {
+            "name": "Brian Thomas Jr.",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794692962685,
+    "updatedAt": 1794692962685,
+    "expiresAt": 1795124962685,
+    "status": "queued"
+  },
+  {
     "id": "mwgxqm6i-88480fe2",
     "phase": "initial",
     "mode": "analyze_trade",
