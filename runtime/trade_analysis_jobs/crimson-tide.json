@@ -1,5 +1,43 @@
 [
   {
+    "id": "mwgwvfhh-c56565ef",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "perspectiveMode": "franchise",
+      "personalContext": "Will johnson be a starter in the next year or two? if so i don’t like this trade\n\nAdditional context: I like johnson, if he can be a starter soon i’d like to keep him",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Badland Banditos",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Emmett Johnson",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Brian Thomas Jr.",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 3rd · Conquistadors · Projected Late · original owner Conquistadors",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794691317929,
+    "updatedAt": 1794691317929,
+    "expiresAt": 1795123317929,
+    "status": "queued"
+  },
+  {
     "id": "mwgwoda2-2d5dae26",
     "phase": "initial",
     "mode": "analyze_trade",
