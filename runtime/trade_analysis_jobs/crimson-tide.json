@@ -1,5 +1,38 @@
 [
   {
+    "id": "mwgxdpla-43e3641f",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "perspectiveMode": "franchise",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Badland Banditos",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Emmett Johnson",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Brian Thomas Jr.",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794692170702,
+    "updatedAt": 1794692170702,
+    "expiresAt": 1795124170702,
+    "status": "queued"
+  },
+  {
     "id": "mwgx62dp-bc3fd07c",
     "phase": "initial",
     "mode": "analyze_trade",
