@@ -1,5 +1,373 @@
 [
   {
+    "id": "mwgzdyez-41dcb611",
+    "createdAt": 1794695596667,
+    "expiresAt": 1795127596667,
+    "mode": "improve_team",
+    "title": "Initial Improve My Team · Crimson Tide Pods",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Crimson Tide Pods",
+      "perspectiveMode": "franchise",
+      "goal": "Rebuild",
+      "targetPosition": "RB, WR, TE",
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Crimson Tide Pods is executing a full organizational Rebuild, leveraging five 2027 1st-round picks and two 2028 1st-round picks to acquire elite young core receivers and tight ends. By packaging current starter-caliber assets with future premium draft capital, Crimson Tide Pods can target confirmed trade-block cornerstone Amon-Ra St. Brown from contender All Hail King Jesus, Zay Flowers from retooling Ravens Regime, and Parker Washington from Lightskin Legends.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Rebuild",
+          "strengths": [
+            "Deep draft pick chest with five 2027 1st-round picks and two 2028 1st-round picks",
+            "High liquidity to absorb dynasty cornerstones",
+            "Solid young TE talent in Dalton Kincaid and Oronde Gadsden"
+          ],
+          "priorityNeeds": [
+            "Young elite cornerstone WR anchor",
+            "Ascending dynasty RB/WR talent",
+            "Converting redundant draft picks into core foundational starters"
+          ],
+          "tradeableSurplus": [
+            "2027 1st-round picks (Ravens Regime, Mile High Royal Lions, Smoky Valley Wheat Warriors, DMV Fantasy)",
+            "2028 1st-round pick (All Hail King Jesus)",
+            "Veteran starters Jakobi Meyers and Dalton Kincaid"
+          ],
+          "constraintsApplied": [
+            "Rebuild goal prioritizes long-term D-AVI over immediate C-AVI",
+            "All outgoing and incoming players must pass the league-relative starter filter",
+            "Trade partner goals enforced as first-class decision constraints"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Eliminated rebuilding franchises (DMV Fantasy, Northside Kings) due to non-aligned asset movement",
+            "Eliminated contenders unwilling to part with key starters without receiving immediate comparable lineup replacement",
+            "Filtered out backup non-starting caliber players to preserve starter-for-starter realism standards"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Ravens Regime ",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Zay Flowers",
+                "assetType": "player",
+                "owner": "Ravens Regime",
+                "position": "WR",
+                "age": 26,
+                "cavi": 77.2,
+                "davi": 93.1,
+                "publicMarket": 90,
+                "leagueMarket": 90
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Jakobi Meyers",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 30,
+                "cavi": 45.7,
+                "davi": 75.5,
+                "publicMarket": 72,
+                "leagueMarket": 72
+              },
+              {
+                "name": "2027 Round 1 (SmokyValleyWheatWarriors)",
+                "assetType": "pick",
+                "owner": "Crimson Tide Pods",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "scenarioType": "Youth Retool Swap",
+            "strategicGoal": "Age-down WR position with high-ceiling dynasty starter",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 21,
+              "packageMatch": 17,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 80,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Zay Flowers (93.1 D-AVI, age 26) provides a dynamic young WR centerpiece ideal for your rebuild timeline, trading away 30-year-old Jakobi Meyers before his age cliff.",
+            "whyOpponentMightAccept": "Ravens Regime is in Retool mode; receiving a productive veteran receiver in Jakobi Meyers plus a 2027 1st-round pick enables them to stay competitive while accumulating draft assets.",
+            "championshipImpact": "Shift 2026 veteran production to the retooling partner while absorbing Flowers' higher dynasty ceiling.",
+            "dynastyImpact": "Gains significant long-term dynasty value (D-AVI 93.1 vs 75.5) and lowers WR core age.",
+            "rosterImpact": "Secures a clear WR1 starter for your rebuild lineup.",
+            "publicMarketContext": "Zay Flowers is recognized as the focal point of the Baltimore passing attack with rising dynasty value.",
+            "risks": [
+              "Slight immediate gap in target stability during short-term transition, but heavily favors your long-term window."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Jakobi Meyers and a 2027 2nd-round pick.",
+              "acceptableConcession": "Upgrade the draft pick to the 2027 1st (Smoky Valley Wheat Warriors).",
+              "walkAwayPoint": "Walk away if asked to include additional premium 1st-round picks."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Lightskin Legends ✊🏽",
+            "targetGoal": "Increase Playoff Odds",
+            "targetAssets": [
+              {
+                "name": "Parker Washington",
+                "assetType": "player",
+                "owner": "Lightskin Legends ✊🏽",
+                "position": "WR",
+                "age": 24,
+                "cavi": 78.2,
+                "davi": 90.3,
+                "publicMarket": 88,
+                "leagueMarket": 88
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Germie Bernard",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 22,
+                "cavi": 43.5,
+                "davi": 71.7,
+                "publicMarket": 70,
+                "leagueMarket": 70
+              },
+              {
+                "name": "2028 Round 1 (All Hail King Jesus)",
+                "assetType": "pick",
+                "owner": "Crimson Tide Pods",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "scenarioType": "Playoff Push Retool",
+            "strategicGoal": "Acquire high-performing young WR for future draft capital",
+            "scoring": {
+              "availability": 20,
+              "opposingGmMotivation": 20,
+              "packageMatch": 16,
+              "lineupReplacement": 11,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 75,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Parker Washington (D-AVI 90.3, C-AVI 78.2) is breaking out at age 24 and fits your rebuild plan as a multi-year WR starter.",
+            "whyOpponentMightAccept": "Lightskin Legends gains a 2028 1st-round pick and promising young WR Germie Bernard to maintain active depth while bolstering long-term draft flexibility.",
+            "championshipImpact": "Provides Lightskin Legends with solid rotation depth while locking in Washington's explosive profile for your rebuild.",
+            "dynastyImpact": "Adds a 90+ D-AVI young wide receiver to accelerate your rebuilding timeline.",
+            "rosterImpact": "Strengthens your core starting WR group with proven 2026 production.",
+            "publicMarketContext": "Parker Washington has shown rapid stock elevation as a target-earner in Jacksonville.",
+            "risks": [
+              "Trading a 2028 1st requires patience, but acquiring a proven 24-year-old starter reduces draft hit-rate risk."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Germie Bernard and a 2027 2nd-round pick.",
+              "acceptableConcession": "Include the 2028 1st (All Hail King Jesus) to lock in the target.",
+              "walkAwayPoint": "Walk away if asked to include 2027 1st-round picks."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jonathan Taylor 2026 fantasy dynasty",
+          "Jaxon Smith Njigba 2026 fantasy dynasty",
+          "Amon Ra St Brown news 2026 fantasy dynasty",
+          "DeVon Achane 2026 fantasy dynasty",
+          "Michael Pittman Jr news 2026 fantasy dynasty",
+          "Jakobi Meyers news 2026 fantasy dynasty"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4kzTriK54jBfUqZiuW0om1dNn0wqzD2-fIP3OHwDaq12EkPAksHm5ntjilwRlTA6XAuWoII3g1m4k4SUosamKZ1NTBmS8fRiDuzv1c3nDAxOgcHKSjUsUGOwts9cUkgsV",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExTnEQZCiXDgXurUGYF9BAotAcnPfkcXkOR0F4lb93ohClmN_BYNyKAEFpHg-2GI3PRvqF0ox2bv7poVNwWfeHkaIWV9AOppmf_9bO0WkAorc4Uz2dMto6N-lEObume-3RfcTk3VwMSYBSHd0DNl0SaI48B3Xd26dhS15dOeMYxYtaXeweHvub5ILsiVMcXarq6UI=",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwYRln6vN6-Zq4MS6DdvHczNDUvE4s-_wYMP0U3ptCt78Xds9X50CHgtGAs8vYhQrO7seJi-nbTEpjtQWmKJnlTjKg4ACqHzpUUZPOSxs4mFblYPeh2pD4Sm65YyvzFa5GPisuGTEpzeN-jnSdvz0R31yi2nN9MwSMI_ikvDuHgr1gDf_get3KaClZwpEcfhFRpWrKowZv",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsNeL2eV3Crc7NWXHapsIGsZ-LS8xwk_oJXY5dpmO4h1aIz363WaLCJTIqWIC97TKGt15XO5VRqVAXMLJm14cELlMfksi66B2wkyBuYByISRFnjvfH1qZrtZB-wby9XMalwE9NlOELw2RZM-Emu7iANAnL6DwCIM0JbY-2vSpnoIGsftZrqOCzUNEfeVoO1jCulPknxVNsXug=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8LhSY5s-vLbeAkL9cueUweR-A7Hbi60_j_S3kN56oXsBcEnztswPWcQbQTAtfmyLAp34NrLOp4F13FdqLQ8ufrUev0bF5HvUF9Newg2_0AnV1ivF9jwNH0oiS1yYISXXGWGPQh8Fd_59NcQM5tC7gFCDOA7Sv_UPMnfR49ihY4y8usewxYgnDpSEZL5a40v3xU3WyT3rPPuartCaK",
+            "title": "forbes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkslVBVhklL6zTBmj6aImoEKDIt7AwpKQ2-tmXVwihWl6iix6tB-RPeSYjk5yEu2YP1vBlvR3Sl2M7eHqATvFSVM2PpZON2S_yMZNgxah_xL-KtvYHAC1SY1wF30zYFhys8-ycM4ubXwiZur_5kSTRKuhDf-mxpEQ4HiktOUlVsd7SYNZ5rf-yGnYwr-U8YTvPXhTfOuinmg==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAg0ZdQnIrgHI-KrgoclEBNTboKrNKxxyKw0HBSsz91uD88wu7GkQU7YXD_8W3Rq5YWkIKN9r3YWYuhKOraRdbyH9WD5DmCzFx9SvGWQv1kwPcNx8qHRPSaU6Yd2Vo_MI8jD9U3vouA5yvBZmi",
+            "title": "dynastynerds.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOZnTg6V89v70F8thU3W3YlC8n_R8_hgKFT4kngZvjIsTErErSMPWgeM_SeFvE-GrZfAGU7y25rBp7YWsR3ktOWk9By-nKncoQElQiUY_vfakPhQgdUqM8lMI_c2Wy1Va_NpygSdjh_rFuSMhC_sGS8KXot1fy7Q4CtQCcUq0XaydD3Uo8h7acVyr43FLxZuKU",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ4p9pDWG4vn5MZPXXf6PgCmecRlduLPg79IReBxVJ_6npZLPDdsznxUtVxVgIYh73C-EaiZTYz_aI3omN-ZfK8MtgBl-42JdFP15o5RCTwcldiL3Mam0XmFz3M04T83qAqquEo9udjKu-4TyUfqsdG8YxKrpCYKPes6s=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQzQrPKyptdpkZzFg3TxQ9I8aqRoqlGSMlqWxFclQEJqjQZXG1NH-_Rt6WV9BZZ00VLPyL7o_9pczDjl5JLeYH8oXo9QUZl4H5ulFpL4D0y-I_GQJiJ2lGvO6jzVe5cJyC1_79gFdO5-BxNlWecl1KzKxABfIQ",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBirsTSBPFZN1KAho4hJQwCvJ-W7PkCIq3yHmO-WWxDuuoQIdabMD1UA6jKQ6qZWhQoMD-M6YJtItZG0ZW-BALstBrkoYduLGEUMCdzNI-SHxV3sLQ50_6qI88CaKsrR9OtT3Vgs92wN4Kskvp8c2Ox79RqH4pKL87x17DFNq8X1N7LYXMs3JDxkuQ",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4PnuOFlIWqwsBOD95fVvEuV3wfEXWKv7DBlKllQ4BPN8s-oE4KQD-3a00llgCEzlGNtrx2ZAIuCd5LRTuOV7aLe0oPLlHMV6KPDFC8jqvvkrV48lWRny9MPDU38csGN9vcJ4j7b6qTsj0I0OOh5by1PSG3hqDBAh5q-2aNlrJ-wh2WjrTcWD8ILs_MQEdGi_AwiooKfqdLO9b4c047FV3LXYysG393k-A4Q==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUnfarcpAMhDvxa9oDuuTRmVhshV5UgkNF4-ViHjJnEebXfGyvyzR70bQfyuKjLyNDhvbyHICmgLccPDgZgKcSefooWAZTJbXxbz6w9u5iu0cOQCvb_fXfEPGZlbZsr04mkdSzsNcqkMljx8uVchg204nacESExZ-vHsx1_SfpXQCRzuD9Q4PyUZXEk2Yn1D1suTIqm6jTU3eQICsEsVas2t4e",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7dvCipe5nLvuOt8TrNgvxvWGYe_TaU_UL7RvW3WOfgc8cNcaOW_sP-VBN4yZZQuTNhIoxwOotXg3K_HNFYYYbKL2_DFbndLMqI6sJw4dh6J81TiyjJ-nuLnugstChFrbGPx2L3A==",
+            "title": "dynastydealer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQROMKcUqF1x8Kd8m48fSB7PLp54diSOKNC8nZOUgp7Byrk8FdLpn3rzV1P9KbM4KLYau5PUVvf7cVU0J76-kj-HZY89LSXtEHGdrIo6YknwDwTfV0txyiG_wVraJo0Zf6H21OXcxXSTWzZUGkTxrvvVoq5Sugmh6AuM6dAXvdSQ==",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE1GkF3TRwGcnAB7-y3YnPTOFuh9-iQFRx5wqwqBuJuFgLKJxXfFEW9mYKKsJJsvVV2UnOJvLv7ARA1ewc5IWSELqzB1qQcgEULO4tRxATJWmXG7rxnJlJgRgYupNjWn9DbuC39X1pLgGFIVN4F1cebw8iTDtj5l9rYSV9",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoyEftdxlH3oaOSgE20--jDXEU9TpCuI1X6gA2Nga7hALPrSIm29DwFjyKXXC-PFiXsFIwZ_bgXkMfse9OZTejrVZndqfM307IUOB8JP-JDllClrGZeK2y5BOuVLk0Sl0MuWPYAg==",
+            "title": "dynastydealer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELLsYf4eIa1lhUK0lqQrTCyk7YvnMVcTIaCxmVHFy_7wy31nExGi0RAqSnryPsr2CpUOfSU7vGNWJns6U-jN8o-XPHaENKs1WMNGmERp3X5NQSLP0_l2XglFntQVScsk-RZ2Biq0qf50NS-Z8qYr8ztcouMkmx2k6afTa4B2Bs895CqdJ5rbsz7Vg_BJhdiPanqkp3qI5POBEQQYi0RyPoZGYKWrfEUeFdrDTFR6PvvebTHQj4a16auiN-Cw==",
+            "title": "fantasylife.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI6qBPZW8NV-QHvmswTNJMFjFuWMiZbJpKVqTD2iexsheBLN5PfRzEaNWosj1bhHTVNQ6JID2CBXa3SrVlsxE8UwvWdZtW_d5BzPn5X4hLOSxvAcnV9YzNsmwpmes04mnKCyuswPbRS7jIURQiQwrtimQkJBihiFXv80bNV7ZTIBYJTaVfNXbgvAFrj3gWbkrNCgM=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNZKQ84QpE-VfmopHicsNrUWZXkEGeOZcK18PfUTOYMBuXEt57WaOqjgjE1xiE17dY_mK9w4kB3zVF4FYb4HAH5OUkSUDkj-ZHQhUppbrP7-jhh93GC1WczoSTsHfO0JkG56vAlRX0qEAnYKxQXIFDYaIKIcXzZT1phQ==",
+            "title": "keeptradecut.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzbiKGP59_jVGVn-U8mNbiGdA1gklJe5Ka0imwFn_sArovNWNG-gfdH5zpmO768RdG_vxXwuwlACcTQYvluRhX4SDCSUBvtH-kaDwOPeZUZIT-GLN7AZeaa-7kY3cEx_Fs3bv92W6BSdkyd994EPeHIA==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWyBGE0Vg0ZM165i3XffHlJxGxOHASESB08PUAjNJ7P36MP3n7OcDtvL6GRWd6xficRIHgADZqdp-tLLnW_QRLnxc0n2wmo090bXIxeFnZR7Q3XFYzrQ4yf4YDMoNjD6MxOm8eoms5N_TJAf98OlITRmstIrnfwTb4PiTUjIQbTyh6FCZaM2OYQmzghoZ9VcADrzfYIJPBMOyUK34mo-olPcCL8R4fP9Praq0=",
+            "title": "draftsharks.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Amon-Ra St. Brown",
+          "Jakobi Meyers",
+          "Jaxon Smith-Njigba",
+          "Michael Pittman Jr.",
+          "De'Von Achane",
+          "Jonathan Taylor"
+        ],
+        "aviCoreCommitSha": "f0b313dd5905abd8b892dc13b50da00f4f5f112a",
+        "aviCoreCommittedAt": "2026-11-14T19:37:00Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 547458,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 253,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mwgyqf4w-59bf03ee",
     "createdAt": 1794694537668,
     "expiresAt": 1795126537668,
