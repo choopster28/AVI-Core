@@ -28,9 +28,306 @@
       "alternateAssets": []
     },
     "createdAt": 1794692170702,
-    "updatedAt": 1794692174463,
+    "updatedAt": 1794692209080,
     "expiresAt": 1795124170702,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Crimson Tide Pods executes a textbook rebuild move by trading rookie RB Emmett Johnson to contender Badland Banditos in exchange for 24-year-old WR Brian Thomas Jr. Crimson Tide Pods gains long-term dynasty value (+7.2 D-AVI) and secures a former 1st-round wide receiver cornerstone with elite rookie pedigree. Meanwhile, Badland Banditos acquires the direct Kansas City backfield handcuff and immediate Week 10 starter for their injured star RB Kenneth Walker III, directly bolstering their championship roster integrity.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Emmett Johnson",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 23,
+              "cavi": 35.9,
+              "davi": 72.7,
+              "publicMarket": 68,
+              "leagueMarket": 71
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Brian Thomas Jr.",
+              "assetType": "player",
+              "owner": "Badland Banditos",
+              "position": "WR",
+              "age": 24,
+              "cavi": 39.8,
+              "davi": 79.9,
+              "publicMarket": 78,
+              "leagueMarket": 79
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Crimson Tide Pods wins on pure dynasty trajectory, exchanging a 5th-round backup RB whose value is currently spiked by a spot-start for a 24-year-old WR with 79.9 D-AVI and top-12 dynasty ceiling. Badland Banditos accepts a minor dynasty value loss to solve an immediate championship threat created by Kenneth Walker III's groin injury."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 54,
+            "otherShare": 46,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Crimson Tide Pods wins on pure dynasty trajectory, exchanging a 5th-round backup RB whose value is currently spiked by a spot-start for a 24-year-old WR with 79.9 D-AVI and top-12 dynasty ceiling. Badland Banditos accepts a minor dynasty value loss to solve an immediate championship threat created by Kenneth Walker III's groin injury."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 12,
+              "summary": "Slight current-season uptick via Brian Thomas Jr.'s 39.8 C-AVI over Emmett Johnson's 35.9 C-AVI."
+            },
+            "dynastyOutlook": {
+              "score": 85,
+              "summary": "Significant dynasty asset upgrade (+7.2 D-AVI) securing a high-ceiling 24-year-old WR."
+            },
+            "lineupQuality": {
+              "score": 25,
+              "summary": "Fills a long-term starting WR slot with elite career upside."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Exchanges backfield depth for receiver depth in a 16-team league."
+            },
+            "flexibilityLiquidity": {
+              "score": 70,
+              "summary": "Wide receiver assets hold superior trade liquidity compared to day-3 backup running backs."
+            },
+            "overall": {
+              "score": 8,
+              "summary": "Crimson Tide Pods wins on pure dynasty trajectory, exchanging a 5th-round backup RB whose value is currently spiked by a spot-start for a 24-year-old WR with 79.9 D-AVI and top-12 dynasty ceiling. Badland Banditos accepts a minor dynasty value loss to solve an immediate championship threat created by Kenneth Walker III's groin injury."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 75,
+              "summary": "Directly protects championship odds by securing Kenneth Walker III's starter replacement."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Gives up slight dynasty equity for immediate lineup survival."
+            },
+            "lineupQuality": {
+              "score": 60,
+              "summary": "Prevents a glaring hole at RB2 while Kenneth Walker III is sidelined."
+            },
+            "depthResilience": {
+              "score": 80,
+              "summary": "Handcuffs their primary championship RB asset."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Converts liquid WR dynasty value into immediate RB usage."
+            },
+            "overall": {
+              "score": -8,
+              "summary": "Crimson Tide Pods wins on pure dynasty trajectory, exchanging a 5th-round backup RB whose value is currently spiked by a spot-start for a 24-year-old WR with 79.9 D-AVI and top-12 dynasty ceiling. Badland Banditos accepts a minor dynasty value loss to solve an immediate championship threat created by Kenneth Walker III's groin injury."
+            }
+          },
+          "explanation": "Crimson Tide Pods gains long-term dynasty foundation (+7.2 D-AVI), while Badland Banditos pays a modest dynasty premium to fortify their championship starting lineup during Kenneth Walker III's injury absence."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "C-AVI moves from 35.9 to 39.8 (+3.9 points), offering a slight immediate enhancement.",
+          "sideADynastyImpact": "D-AVI increases from 72.7 to 79.9 (+7.2 points), significantly strengthening long-term asset value.",
+          "sideARosterImpact": "Transitions temporary RB spot-start depth into a core 24-year-old dynasty WR building block.",
+          "sideBChampionshipImpact": "Exchanges a non-starting bench receiver (BTJ) for an active Week 10 starting RB (35.9 C-AVI) to cover Kenneth Walker III.",
+          "sideBDynastyImpact": "D-AVI decreases slightly (-7.2 points), an acceptable trade-off for a team focused on winning the title.",
+          "sideBRosterImpact": "Locks down the complete KC backfield container for their championship run.",
+          "valueAssessment": "Fair, mutually beneficial transaction aligned directly with both teams' competitive windows."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty markets treat Brian Thomas Jr. as a high-upside buy-low target due to his elite rookie season baseline, despite recent usage dips. Emmett Johnson is an escalating rookie riser receiving immediate spot-start market momentum.",
+          "aviVsMarket": "AVI model values Brian Thomas Jr. at 79.9 D-AVI (Public Market ~78), closely matching market consensus, while Emmett Johnson's 72.7 D-AVI accurately captures his path as an explosive handcuff with standalone flex appeal.",
+          "relevantContext": [
+            "Kenneth Walker III ruled out for Week 10 (groin), elevating Emmett Johnson to KC starter status.",
+            "Badland Banditos rosters Kenneth Walker III, making Emmett Johnson their top priority handcuff.",
+            "Brian Thomas Jr. is currently WR7 on Badland Banditos' roster, making him expendable depth for them."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Extremely high. Badland Banditos is fighting for a championship and owns Kenneth Walker III. Acquiring Walker's replacement and handcuff insulates their RB room against catastrophic injury loss.",
+          "packageFit": "Hand-in-glove fit. Solves Badland Banditos' immediate RB need using bench receiver surplus.",
+          "lineupReplacement": "Brian Thomas Jr. is not currently in Badland Banditos' starting 8, so trading him creates zero starting lineup displacement.",
+          "competitiveWindowFit": "Perfect alignment: Rebuilder (Crimson Tide Pods) trades short-term RB production to Contender (Badland Banditos) for long-term WR dynasty value.",
+          "positionalScarcity": "Starting RBs in 16-team leagues carry intense immediate scarcity, enabling rebuilder leverage."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 24,
+            "packageMatch": 19,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 98,
+          "classification": "Highly Realistic",
+          "explanation": "Badland Banditos owns Kenneth Walker III, who is currently ruled out with a groin injury. Receiving Walker's direct backup and Week 10 starter (Emmett Johnson) in exchange for bench receiver depth (Brian Thomas Jr.) is a move an Elite Contender will eagerly accept."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "Crimson Tide Pods accomplishes the ideal rebuilder trade: selling high on a 5th-round backup RB during a temporary starting spike to acquire a 24-year-old former 1st-round WR with 79.9 D-AVI.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Emmett Johnson",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 23,
+              "cavi": 35.9,
+              "davi": 72.7,
+              "publicMarket": 68,
+              "leagueMarket": 71
+            }
+          ],
+          "receive": [
+            {
+              "name": "Brian Thomas Jr.",
+              "assetType": "player",
+              "owner": "Badland Banditos",
+              "position": "WR",
+              "age": 24,
+              "cavi": 39.8,
+              "davi": 79.9,
+              "publicMarket": 78,
+              "leagueMarket": 79
+            }
+          ],
+          "whyUserShouldDoIt": "You secure a higher D-AVI receiver (79.9) with long-term WR1 ceiling for a rebuilding roster, capitalizing on Emmett Johnson's temporary starting spike.",
+          "whyOpponentMightAccept": "Badland Banditos owns Kenneth Walker III; acquiring Emmett Johnson gives them immediate starting RB production for Week 10 and complete KC backfield security for their title run."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Emmett Johnson football player",
+          "Brian Thomas Jr fantasy outlook 2026",
+          "Emmett Johnson NFL draft or college"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAe7MSBUjB1nSixBO4e1ZpwgZlIpvbV0xur02vdz3zawPMxf2RGsRen3004T6OFGU5EesQMuOQ3iNuE9ulW4_9qBSULnTn7Hz827gRVnkne5GnAchsGk5thtcp6JvNJMdST2BgK3ayHoVbMf2xFU45Qg==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8t7Ymz4CPqwypbzK5FvTCT2SLIL01Fqyt22I_9SKNik40fzLo-dI_0w4YX_ZwXcTyLBIECKY4rLZJJP5HbdCA5bbUXSS-3soCLlwZGyPoIfiSQ0egJx_QYmn1smDGRGPa",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg-kJJ_7k-usFeR4VmsfD1xn0SGbKyg7sBiwplibJhyuOFwCsQ9jtUC-fTju5Lw62p_W7vuILkx5l30V4H3d3NXi2SyHykdSXYUuRyPEK9fJWGxCEVgFXxmNKm0zrKapLX",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPCdS2OlabAZnwIpV11ZSck8LfAikQa5K2X1YhXftPEa3gWEhh8e1nXQEcwa01hQLHLOV-Rs7-vYzr_AWYrVTpIelyCCotakE0P9PrXUXDR6u5zDb2xQmfCRv4GZRnOmtpW8h0ADTmjWzKj3fq-OpUihoApn5XiRed-_DZQrE6H9lmalQit5tr4u1TQ34bDyri2w==",
+            "title": "footballnationusa.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPqVPHwvbwGw4EvOpQF2JJADOUL5SKhg9N2OijHNpLOCjCOkLDrD__HhXpj4qmCM6vmg5DYrAsbLB80vBz4sMavN06jTCkac7YvG15kpD4nfMUDFiHvXQ1Hh7S8NCk8WOy_02Xl7YbQlaQbMafHF4XJzJwWASTvx1h7HzBAlU=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjG29GTojG9e-kapXR4hOO5vje-NMQXw_TszBC49e44jt9RQ9hZSLR6Itt1gJyt8QSAlmC0Yceu7P0UKUKSKejpZzY2eIjI1Ez1pbfDbpfTJRP6f_rTgTslwPYCJdpnpjovw70bYhDaxxbre02-5GlI9YAY9oy9EQ2Kmg2tUzaukN_KeJMmGczamHNallreO18RHiPuJ7ziDP6p86xts6FsZE=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZQz3LoIU6YdQ5qKB-xjr6yVLzI5ENj9Nnh6v_bN0RiPwTHuQ23yHv6xw6GFJLYRkNzrrEphGLEMSeoQuxjbl4Tc1nNxXHFyblHkEj9IjxlYHEcFWwPdVWm8N0EPtoeY4IkSMLZsJ_yExeccF-JyM9",
+            "title": "chiefs.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESVDJNCFvqbUSUzg8zf_yGoCqnHgTeT9xIUkVZA1f28DW2mcF_TY23t2ieRTT7uzCfa0ydvLJg69EARRtYXI09c-yGPnS6vQSLrURVdwjracNARjzcFMW70eRSSuRnA0cTu7F4obvnEID10P0qcccUbQZ5PyTpQmzyR5VYi3XH1KsT3fm-3nMwBWTEgwSYKjrQ2tR79MjZ9U4=",
+            "title": "chiefs.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjomtwwaEI28RCsyUm8cYnZXBFldZ4tvXyHITzfsBUxoeMvMR2EWVI-VjmGDBs288L05TTV0ZaF5gYfosdNIWx6fYJFqg9J597NIHJ4mOZmk3c66YLpwts6ZH9SkXWORuL9KNkTnLKj2xK0jbPPmSKAVCpXiZjR0DFNuozvAai0r17DyfW",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERrLhQJ8ZAWRGZYs1VmevD_d0O8yVmzJYwbYNgSGIWVN-l3XUOAKIIrfiEn7SqFvdjgA0Jg3HaDG8i2kPrHdO8nmXmEjg8QmU95uAhOTMYLQOjgWKtrKeeiytRJoGtZMtSqDB92-2yy0vn3zplp-iBCrOikbZYWxnyylW5qh1AHPxAswn65lhR-VIC9aKl3erwx-byew==",
+            "title": "thespun.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyz_8Yjm_7leAkyZA3PvGwep-l2D7frHOX1DYjhsb3ujXMRHQC62yLJJgw0cGT1fiwww7bcu6HD3PtdXDXohxE70picGb_JK9NFQPotuf_RuNbCnH6hUYkpp0av9m6KWWBPPwEKSAUEWNqCxvj1m1nTj5nyHvZydIaaie63-jY2BLXW6JW6P4=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH13ADlzDD6O6sZm_xpCTpvZSefgkj3T3mrDakUX_0pqtHpBxiqG8IxX2W6WxLupE59sopV4-rP_QjGyYxME_IvI2XDcUb4MFunhdLypXyFcT8MOLGgWTqbPTalYSWCN1GHYcAUxoKT0qz9FcxPcpC4nOc",
+            "title": "pro-football-reference.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbN0BDaXwU6HrKxKH6y6ty735Fc8o_nVCOzxkAwoE01ZzpIY_Xv0WZjlmOSx10aXG8rFPB-YF4WNaaac2U1F___YK1UqHH6AhrASBH8UflA6oaKiWnAwwdud1H19G7yIs947qSwZbLt3jO-WS45CotSLqRYLYjAAIVaVcZj1w34tR5ZyD_VIhB4p-FsdAiaLXwHrooAMDkmpGaxR_tZGA8J0FKQ21p3hKECNaqvkhCDmDv5qkLsoi057xE75xHyhRdBQ==",
+            "title": "247sports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1bdzTlzCY5NwRNnN3f9ENFgGK2yoCcmY-OwjAPGP9x52k_S0nZqzpizpqXC3osAs7vbFq-99cTc3H-1i_NxOF0lqlpTieE2FYlXVwpbw42yvcM-0IDkuJWhQ9LN_a4BYrkfHILKIJnO8zAYHhrYT5-T5-7VIj9cqRA6jDSlKnYvu1aPTf77oBkjAHHHw_wrhgf8AviJPxJC2ZkH0_oZB3S7euWzyfE2d2SxitaKlx6NBd0QrK6fnqMu-kWam1fdbGovj6OMpSVSGXp9k=",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "f0b313dd5905abd8b892dc13b50da00f4f5f112a",
+        "aviCoreCommittedAt": "2026-11-14T19:37:00Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 89882,
+        "groundedMarketChars": 4411,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
   },
   {
     "id": "mwgx62dp-bc3fd07c",
