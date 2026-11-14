@@ -1,5 +1,38 @@
 [
   {
+    "id": "mwgxqm6i-88480fe2",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "perspectiveMode": "franchise",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Badland Banditos",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Emmett Johnson",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2027 1st · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794692772810,
+    "updatedAt": 1794692772810,
+    "expiresAt": 1795124772810,
+    "status": "queued"
+  },
+  {
     "id": "mwgxdpla-43e3641f",
     "phase": "initial",
     "mode": "analyze_trade",
