@@ -86,8 +86,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Badland Banditos
 - Original roster ID: 7
-- Current owner team: Badland Banditos
-- Current owner roster ID: 7
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
@@ -266,8 +266,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Lightskin Legends ✊🏽
 - Original roster ID: 6
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
 - Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
@@ -518,8 +518,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Corgi Loaf Baking Co.
 - Original roster ID: 11
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
+- Current owner team: Badland Banditos
+- Current owner roster ID: 7
 - Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd

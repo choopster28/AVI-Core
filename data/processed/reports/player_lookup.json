@@ -1558,7 +1558,7 @@
       "player_name": "Chris Brooks",
       "position": "RB",
       "sleeper_id": "11370",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "active": true,
@@ -2050,7 +2050,7 @@
       "player_name": "Reggie Gilliam",
       "position": "RB",
       "sleeper_id": "7204",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "active": true,
@@ -2662,7 +2662,7 @@
       "player_name": "Tyler Goodson",
       "position": "RB",
       "sleeper_id": "8207",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "active": true,
@@ -3109,14 +3109,14 @@
       "c_avi": 39.8,
       "d_avi": 79.9,
       "nfl_team": "JAC",
-      "owner_id": "737531831641128960",
+      "owner_id": "471824466389757952",
       "player_name": "Brian Thomas Jr.",
       "position": "WR",
-      "roster_id": 7,
+      "roster_id": 16,
       "sleeper_id": "11631",
       "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
+      "team_file": "16_Crimson_Tide_Pods.md",
+      "team_name": "Crimson Tide Pods"
     },
     {
       "active": true,
@@ -4149,14 +4149,14 @@
       "c_avi": 35.9,
       "d_avi": 72.7,
       "nfl_team": "KC",
-      "owner_id": "471824466389757952",
+      "owner_id": "737531831641128960",
       "player_name": "Emmett Johnson",
       "position": "RB",
-      "roster_id": 16,
+      "roster_id": 7,
       "sleeper_id": "13337",
       "status": "Active",
-      "team_file": "16_Crimson_Tide_Pods.md",
-      "team_name": "Crimson Tide Pods"
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
     },
     {
       "active": true,
@@ -6442,7 +6442,7 @@
       "position": "RB",
       "roster_id": 13,
       "sleeper_id": "12529",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "13_Southside_Savages.md",
       "team_name": "Southside Savages"
     },

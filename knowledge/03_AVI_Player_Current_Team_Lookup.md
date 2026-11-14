@@ -200,9 +200,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Brian Thomas Jr.
 - Player ID: 11631
 - Position: WR
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
 
 ## PLAYER LOOKUP: Brock Bowers
 - Player name: Brock Bowers
@@ -720,9 +720,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Emmett Johnson
 - Player ID: 13337
 - Position: RB
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Team file: 16_Crimson_Tide_Pods.md
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
 
 ## PLAYER LOOKUP: Fernando Mendoza
 - Player name: Fernando Mendoza

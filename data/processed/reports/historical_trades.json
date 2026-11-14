@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-11-14T19:36:57.580566+00:00",
+  "generated_at_utc": "2026-11-14T23:11:45.581402+00:00",
   "statistics": {
-    "owner_trade_participations": 204,
+    "owner_trade_participations": 206,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -246,18 +246,18 @@
         "by_season": {
           "2024": 4,
           "2025": 4,
-          "2026": 3
+          "2026": 4
         },
         "firsts_in": 1,
-        "firsts_out": 3,
+        "firsts_out": 4,
         "owner_display_name": "IcebergSlim69",
-        "picks_in": 4,
-        "picks_out": 8,
-        "players_in": 12,
-        "players_out": 12,
+        "picks_in": 6,
+        "picks_out": 9,
+        "players_in": 13,
+        "players_out": 13,
         "roster_id": 7,
         "team_name": "Badland Banditos ",
-        "total": 11
+        "total": 12
       },
       {
         "by_season": {
@@ -278,18 +278,18 @@
       {
         "by_season": {
           "2025": 1,
-          "2026": 8
+          "2026": 9
         },
-        "firsts_in": 5,
+        "firsts_in": 6,
         "firsts_out": 0,
         "owner_display_name": "nickas",
-        "picks_in": 11,
-        "picks_out": 2,
-        "players_in": 14,
-        "players_out": 12,
+        "picks_in": 12,
+        "picks_out": 4,
+        "players_in": 15,
+        "players_out": 13,
         "roster_id": 16,
         "team_name": "Crimson Tide Pods",
-        "total": 9
+        "total": 10
       },
       {
         "by_season": {
@@ -408,10 +408,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 58
+      "2026": 59
     },
-    "two_team_trades": 99,
-    "unique_completed_trades": 101
+    "two_team_trades": 100,
+    "unique_completed_trades": 102
   },
   "trades": [
     {
@@ -7544,6 +7544,96 @@
         }
       ],
       "transaction_id": "1426982453695774720",
+      "week": 10
+    },
+    {
+      "created_at_utc": "2026-11-14T21:57:29.481000+00:00",
+      "created_timestamp_ms": 1794693449481,
+      "roster_ids": [
+        7,
+        16
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "IcebergSlim69",
+          "owner_id": "737531831641128960",
+          "picks_received": [
+            {
+              "original_roster_id": 11,
+              "round": 3,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 6,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 7,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "13337",
+              "player_name": "Emmett Johnson"
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "11631",
+              "player_name": "Brian Thomas Jr."
+            }
+          ],
+          "roster_id": 7,
+          "season": 2026,
+          "team_name": "Badland Banditos "
+        },
+        {
+          "owner_display_name": "nickas",
+          "owner_id": "471824466389757952",
+          "picks_received": [
+            {
+              "original_roster_id": 7,
+              "round": 1,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 11,
+              "round": 3,
+              "season": "2027"
+            },
+            {
+              "original_roster_id": 6,
+              "round": 2,
+              "season": "2027"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "11631",
+              "player_name": "Brian Thomas Jr."
+            }
+          ],
+          "players_sent": [
+            {
+              "player_id": "13337",
+              "player_name": "Emmett Johnson"
+            }
+          ],
+          "roster_id": 16,
+          "season": 2026,
+          "team_name": "Crimson Tide Pods"
+        }
+      ],
+      "transaction_id": "1427451423720759296",
       "week": 10
     }
   ]

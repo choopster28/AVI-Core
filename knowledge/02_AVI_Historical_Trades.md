@@ -17,15 +17,15 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **101**
-- Owner trade participations: **204**
-- Two-team trades: **99**
+- Unique completed trades: **102**
+- Owner trade participations: **206**
+- Two-team trades: **100**
 - Three-team trades: **2**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **58**
+- 2026 completed trades: **59**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-11-13T14:53:58.314000+00:00**
+- Latest verified trade: **2026-11-14T21:57:29.481000+00:00**
 
 ## Trades by Owner
 
@@ -37,9 +37,9 @@
 | 4 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
 | 5 | Northside Kings  | srsmith95 | **19** | 6 | 5 | 8 | 19 | 16 | 13 | 5 | 5 | 3 |
 | 6 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
-| 7 | Badland Banditos  | IcebergSlim69 | **11** | 4 | 4 | 3 | 12 | 12 | 4 | 8 | 1 | 3 |
+| 7 | Badland Banditos  | IcebergSlim69 | **12** | 4 | 4 | 4 | 13 | 13 | 6 | 9 | 1 | 4 |
 | 8 | Mile High Royal Lions | shawnh56 | **11** | 0 | 8 | 3 | 12 | 14 | 5 | 5 | 1 | 3 |
-| 9 | Crimson Tide Pods | nickas | **9** | 0 | 1 | 8 | 14 | 12 | 11 | 2 | 5 | 0 |
+| 9 | Crimson Tide Pods | nickas | **10** | 0 | 1 | 9 | 15 | 13 | 12 | 4 | 6 | 0 |
 | 10 | Lightskin Legends ✊🏽 | MadDawgMatt | **8** | 2 | 3 | 3 | 11 | 6 | 2 | 3 | 0 | 0 |
 | 11 | Rapid Valley Annihilation | FuzzyRaptor | **8** | 0 | 3 | 5 | 9 | 12 | 9 | 2 | 3 | 0 |
 | 12 | All Hail King Jesus | Hofer51 | **7** | 0 | 4 | 3 | 9 | 7 | 1 | 8 | 0 | 3 |
@@ -70,6 +70,24 @@
 | Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽 | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1427451423720759296
+- Season: 2026
+- Week: 10
+- Created at UTC: 2026-11-14T21:57:29.481000+00:00
+- Teams involved: 2
+
+#### Badland Banditos  (IcebergSlim69)
+- Players received: Emmett Johnson
+- Players sent: Brian Thomas Jr.
+- Picks received: 2027 Round 3 (original roster 11), 2027 Round 2 (original roster 6)
+- Picks sent: 2027 Round 1 (original roster 7)
+
+#### Crimson Tide Pods (nickas)
+- Players received: Brian Thomas Jr.
+- Players sent: Emmett Johnson
+- Picks received: 2027 Round 1 (original roster 7)
+- Picks sent: 2027 Round 3 (original roster 11), 2027 Round 2 (original roster 6)
 
 ### TRADE: 1426982453695774720
 - Season: 2026
