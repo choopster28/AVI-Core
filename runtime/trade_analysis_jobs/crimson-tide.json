@@ -1,5 +1,42 @@
 [
   {
+    "id": "mwgwyv14-95a5a0be",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Badland Banditos",
+      "perspectiveMode": "neutral",
+      "goal": "Win Championship",
+      "partnerGoal": "Rebuild",
+      "targetTeam": "Crimson Tide Pods",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Brian Thomas Jr.",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 3rd · Conquistadors · Projected Late · original owner Conquistadors",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Emmett Johnson",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794691477912,
+    "updatedAt": 1794691477912,
+    "expiresAt": 1795123477912,
+    "status": "queued"
+  },
+  {
     "id": "mwgwvfhh-c56565ef",
     "phase": "final",
     "mode": "analyze_trade",
