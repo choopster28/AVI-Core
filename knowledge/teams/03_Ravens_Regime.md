@@ -13,20 +13,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 21
-- offense: 16
+- total_players: 22
+- offense: 17
 - kickers: 1
 - idp: 4
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 460.7
-- championship_lineup_c_avi_avg: 57.59
-- offensive_roster_c_avi_sum: 720.5
-- offensive_roster_c_avi_avg: 45.03
-- offensive_roster_d_avi_sum: 1181.0
-- offensive_roster_d_avi_avg: 73.81
+- championship_lineup_c_avi_sum: 460.6
+- championship_lineup_c_avi_avg: 57.58
+- offensive_roster_c_avi_sum: 741.6
+- offensive_roster_c_avi_avg: 43.62
+- offensive_roster_d_avi_sum: 1232.8
+- offensive_roster_d_avi_avg: 72.52
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Zay Flowers | C-AVI: 77.2 | D-AVI: 93.1
 - WR: KC Concepcion Jr. | C-AVI: 56.0 | D-AVI: 83.9
 - TE: Travis Kelce | C-AVI: 79.3 | D-AVI: 79.7
-- FLEX: Jordyn Tyson | C-AVI: 31.4 | D-AVI: 80.1
+- FLEX: Jordyn Tyson | C-AVI: 31.3 | D-AVI: 80.1
 - FLEX: Ja'Kobi Lane | C-AVI: 29.4 | D-AVI: 69.6
 
 ## Current Roster — All Player Cards
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 49.4
+- Championship AVI (C-AVI, 0-100): 49.5
 - Dynasty AVI (D-AVI, 0-100): 78.3
 - Projected PPR points: 154.6
 - Category: offense
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 53.8
+- Championship AVI (C-AVI, 0-100): 53.7
 - Dynasty AVI (D-AVI, 0-100): 87.5
 - Projected PPR points: 177.3
 - Category: offense
@@ -240,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 31.4
+- Championship AVI (C-AVI, 0-100): 31.3
 - Dynasty AVI (D-AVI, 0-100): 80.1
 - Projected PPR points: 111.0
 - Category: offense
@@ -260,6 +260,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 29.4
 - Dynasty AVI (D-AVI, 0-100): 69.6
 - Projected PPR points: 104.9
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Josh Cameron
+- Player name: Josh Cameron
+- Player ID: 13394
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: JAX
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 21.2
+- Dynasty AVI (D-AVI, 0-100): 51.8
+- Projected PPR points: 59.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

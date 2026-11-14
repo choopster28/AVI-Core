@@ -537,42 +537,10 @@
       "team_id": "FA"
     },
     {
-      "filename": "jason-sanders.php",
-      "fpid": 17533,
-      "mflid": 13832,
-      "name": "Jason Sanders",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "NYJ"
-    },
-    {
-      "filename": "younghoe-koo.php",
-      "fpid": 16910,
-      "mflid": 13403,
-      "name": "Younghoe Koo",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "FA"
-    },
-    {
-      "filename": "brandon-mcmanus.php",
-      "fpid": 13274,
-      "mflid": 11947,
-      "name": "Brandon McManus",
+      "filename": "joshua-karty.php",
+      "fpid": 26478,
+      "mflid": 16775,
+      "name": "Joshua Karty",
       "position_id": "K",
       "stats": {
         "fg": 0,
@@ -585,10 +553,42 @@
       "team_id": "LAR"
     },
     {
-      "filename": "graham-gano.php",
-      "fpid": 9232,
-      "mflid": 9694,
-      "name": "Graham Gano",
+      "filename": "charlie-smyth.php",
+      "fpid": 26444,
+      "mflid": 17424,
+      "name": "Charlie Smyth",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "NO"
+    },
+    {
+      "filename": "tanner-brown.php",
+      "fpid": 25616,
+      "mflid": 16410,
+      "name": "Tanner Brown",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
+    },
+    {
+      "filename": "lucas-havrisik.php",
+      "fpid": 25222,
+      "mflid": 16043,
+      "name": "Lucas Havrisik",
       "position_id": "K",
       "stats": {
         "fg": 0,
@@ -633,10 +633,26 @@
       "team_id": "ATL"
     },
     {
-      "filename": "tanner-brown.php",
-      "fpid": 25616,
-      "mflid": 16410,
-      "name": "Tanner Brown",
+      "filename": "jason-sanders.php",
+      "fpid": 17533,
+      "mflid": 13832,
+      "name": "Jason Sanders",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "NYJ"
+    },
+    {
+      "filename": "younghoe-koo.php",
+      "fpid": 16910,
+      "mflid": 13403,
+      "name": "Younghoe Koo",
       "position_id": "K",
       "stats": {
         "fg": 0,
@@ -647,38 +663,6 @@
         "xpt": 0
       },
       "team_id": "FA"
-    },
-    {
-      "filename": "lucas-havrisik.php",
-      "fpid": 25222,
-      "mflid": 16043,
-      "name": "Lucas Havrisik",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "FA"
-    },
-    {
-      "filename": "joshua-karty.php",
-      "fpid": 26478,
-      "mflid": 16775,
-      "name": "Joshua Karty",
-      "position_id": "K",
-      "stats": {
-        "fg": 0,
-        "fga": 0,
-        "points": 0,
-        "points_half": 0,
-        "points_ppr": 0,
-        "xpt": 0
-      },
-      "team_id": "LAR"
     },
     {
       "filename": "zane-gonzalez.php",
@@ -697,10 +681,10 @@
       "team_id": "MIA"
     },
     {
-      "filename": "charlie-smyth.php",
-      "fpid": 26444,
-      "mflid": 17424,
-      "name": "Charlie Smyth",
+      "filename": "brandon-mcmanus.php",
+      "fpid": 13274,
+      "mflid": 11947,
+      "name": "Brandon McManus",
       "position_id": "K",
       "stats": {
         "fg": 0,
@@ -710,7 +694,23 @@
         "points_ppr": 0,
         "xpt": 0
       },
-      "team_id": "NO"
+      "team_id": "LAR"
+    },
+    {
+      "filename": "graham-gano.php",
+      "fpid": 9232,
+      "mflid": 9694,
+      "name": "Graham Gano",
+      "position_id": "K",
+      "stats": {
+        "fg": 0,
+        "fga": 0,
+        "points": 0,
+        "points_half": 0,
+        "points_ppr": 0,
+        "xpt": 0
+      },
+      "team_id": "FA"
     }
   ],
   "positions": "K",
