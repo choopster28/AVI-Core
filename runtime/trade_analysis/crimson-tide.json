@@ -1,5 +1,343 @@
 [
   {
+    "id": "mwgxqm6i-88480fe2",
+    "createdAt": 1794692824476,
+    "expiresAt": 1795124824476,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Crimson Tide Pods ↔ Badland Banditos",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "perspectiveMode": "franchise",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Badland Banditos",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Emmett Johnson",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2027 1st · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Crimson Tide Pods attempts to capitalize on rookie RB Emmett Johnson's sudden Week 10 spot-start opportunity for the Kansas City Chiefs by trading him to contender Badland Banditos—who rosters injured starter Kenneth Walker III—for a 2027 1st-round pick. While capturing a 2027 1st for a reserve running back is an extraordinary return for a rebuilding roster, Badland Banditos is unlikely to pay a premium 1st-round selection straight up for a rotational handcuff. A slight package revision adding a 2027 2nd-round pick bridges the gap and creates a realistic path to completion.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Emmett Johnson",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 23,
+              "cavi": 35.9,
+              "davi": 72.7,
+              "publicMarket": 68,
+              "leagueMarket": 70
+            }
+          ],
+          "sideB": [
+            {
+              "name": "2027 1st · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Badland Banditos",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "C",
+            "otherGrade": "D+",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Crimson Tide Pods gains significant dynasty value (+6.6 D-AVI) and high-leverage 1st-round liquid draft capital while selling high on a 5th-round rookie RB. Badland Banditos overpays heavily by giving up a 1st-round pick for a temporary spot-starter and handcuff, damaging long-term asset efficiency."
+          },
+          "recommended": {
+            "userGrade": "A-",
+            "otherGrade": "B",
+            "userShare": 53,
+            "otherShare": 47,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "By pairing Emmett Johnson with a 2027 2nd-round pick, Crimson Tide Pods upgrades a 2nd into a 1st-round pick while Badland Banditos secures essential backfield insurance for Kenneth Walker III without surrendering net round capital."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Minor drop in immediate startable depth, which aligns perfectly with a non-contending rebuilding posture."
+            },
+            "dynastyOutlook": {
+              "score": 35,
+              "summary": "Secures an appreciating 2027 1st-round pick (79.3 D-AVI) while moving a high-variance running back asset."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Removes Johnson (35.9 C-AVI) from active FLEX consideration in the immediate term."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Slightly thins out running back depth behind Jadarian Price and Chris Rodriguez Jr."
+            },
+            "flexibilityLiquidity": {
+              "score": 60,
+              "summary": "Adds a 6th 2027 1st-round pick to an already massive war chest of liquid trading assets."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Crimson Tide Pods gains significant dynasty value (+6.6 D-AVI) and high-leverage 1st-round liquid draft capital while selling high on a 5th-round rookie RB. Badland Banditos overpays heavily by giving up a 1st-round pick for a temporary spot-starter and handcuff, damaging long-term asset efficiency."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Gains key backfield insurance (35.9 C-AVI) for Kenneth Walker III during his current groin injury absence."
+            },
+            "dynastyOutlook": {
+              "score": -30,
+              "summary": "Depletes future draft capital by trading a 1st-round asset for a day-three rookie RB."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Provides a temporary starting RB option while Kenneth Walker III is sidelined."
+            },
+            "depthResilience": {
+              "score": 25,
+              "summary": "Protects the franchise against complete backfield collapse if Walker's injury lingers."
+            },
+            "flexibilityLiquidity": {
+              "score": -45,
+              "summary": "Drains valuable future trade currency that could be used for higher-tier deadline upgrades."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Crimson Tide Pods gains significant dynasty value (+6.6 D-AVI) and high-leverage 1st-round liquid draft capital while selling high on a 5th-round rookie RB. Badland Banditos overpays heavily by giving up a 1st-round pick for a temporary spot-starter and handcuff, damaging long-term asset efficiency."
+            }
+          },
+          "explanation": "Crimson Tide Pods gains liquid dynasty draft assets to fuel a rebuild, while Badland Banditos overpays in future capital to secure immediate backfield insurance for starter Kenneth Walker III."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Crimson Tide Pods surrenders 35.9 C-AVI in immediate lineup utility, which is negligible for a rebuilding roster focused on future horizons.",
+          "sideADynastyImpact": "Crimson Tide Pods gains +6.6 D-AVI overall while converting a volatile 72.7 D-AVI running back into a liquid 79.3 D-AVI 1st-round asset.",
+          "sideARosterImpact": "Frees up a roster slot and concentrates franchise value into elite 2027 draft capital.",
+          "sideBChampionshipImpact": "Badland Banditos gains a short-term C-AVI bump (35.9) to cover Kenneth Walker III's Week 10 injury absence.",
+          "sideBDynastyImpact": "Badland Banditos loses net dynasty value (-6.6 D-AVI) by sacrificing a 1st-round pick for a handcuff RB.",
+          "sideBRosterImpact": "Locks up the Kansas City Chiefs backfield stack alongside Kenneth Walker III.",
+          "valueAssessment": "The submitted deal heavily favors Crimson Tide Pods in pure asset value and strategic alignment."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Emmett Johnson's public market value has spiked following news that Kenneth Walker III is out for Week 10 with a groin injury, elevating Johnson into his first career NFL start for the Chiefs.",
+          "aviVsMarket": "Public market consensus views Johnson as a high-upside waiver/stash worth a 2nd-round pick, whereas this offer asks for a full 1st-round pick.",
+          "relevantContext": [
+            "Kenneth Walker III ruled out Week 10 (groin injury); Emmett Johnson making first career start.",
+            "Johnson has flashed efficiency (73-yard catch-and-run TD in Week 8) but remains a 5th-round rookie on a limited sample size.",
+            "Badland Banditos manager IcebergSlim69 owns Kenneth Walker III, creating direct handcuff motivation."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "IcebergSlim69 (Badland Banditos) wants to protect his championship window while starter Kenneth Walker III is sidelined, making backfield depth attractive.",
+          "packageFit": "Providing Walker's direct NFL backup fills an immediate emergency need, but demanding an unprotected 1st-round pick exceeds normal market price.",
+          "lineupReplacement": "Emmett Johnson fills an immediate void at RB2/FLEX while Walker is out, outproducing current bench reserves Audric Estime (34.4 C-AVI) and Devin Singletary (22.4 C-AVI).",
+          "competitiveWindowFit": "Badland Banditos is in an active 'Win Championship' window, making short-term production vital, though prudent contenders avoid overpaying 1st-rounders for backup RBs.",
+          "positionalScarcity": "In a 16-team league, startable RBs during injury weeks command a premium, but a 1st-round pick remains the threshold for proven long-term starters."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 12,
+            "packageMatch": 8,
+            "lineupReplacement": 12,
+            "competitiveWindow": 6
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 58,
+          "classification": "Stretch",
+          "explanation": "While Badland Banditos needs RB coverage due to Kenneth Walker's groin injury, manager IcebergSlim69 is unlikely to accept spending a 1st-round pick on a backup RB straight up."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "The submitted offer is a massive win for Crimson Tide Pods, but has a low acceptance probability (38%) because Badland Banditos will resist paying a 1st-round pick for Emmett Johnson alone. Adding a 2027 2nd-round pick to Emmett Johnson sweetens the offer, allowing Crimson Tide Pods to effectively trade up from a 2nd to a 1st while providing the contender a fair deal for backfield insurance.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Emmett Johnson",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 23,
+              "cavi": 35.9,
+              "davi": 72.7,
+              "publicMarket": 68,
+              "leagueMarket": 70
+            },
+            {
+              "name": "2027 Round 2 (Crimson Tide Pods)",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "2027 1st · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Badland Banditos",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "whyUserShouldDoIt": "Allows Crimson Tide Pods to package a temporary-use RB asset and a 2nd-round pick to secure a premium 2027 1st-round asset, advancing the franchise rebuild efficiently.",
+          "whyOpponentMightAccept": "Badland Banditos gets Kenneth Walker's immediate starter replacement and handcuff protection without giving up net pick volume, merely sliding back from the 1st to the 2nd round."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Emmett Johnson",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 23,
+              "cavi": 35.9,
+              "davi": 72.7,
+              "publicMarket": 68,
+              "leagueMarket": 70
+            }
+          ],
+          "receive": [
+            {
+              "name": "2029 Round 2 (Badland Banditos)",
+              "assetType": "pick",
+              "owner": "Badland Banditos",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "rationale": "If Badland Banditos refuses to move any 1st-round pick, acquiring a clean 2nd-round pick for a 5th-round backup RB is still a highly profitable transaction for a rebuilding team."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Emmett Johnson nfl draft",
+          "Emmett Johnson football player",
+          "Emmett Johnson running back"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0zBJyFbHgv30dDEhdm2OZ6EqQciWBlGAi1nI9a5sALWnQeLLjZidmaF1pchtaungN8ZdD--ln8K-rTvK-6BCKLwsYwNToB2gV_q_23rTu_Ijh93Gj50Y23yhxHiz-5PFBzvEKck-7V4t9SaCgeMI=",
+            "title": "chiefs.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH23mbbO1e1VP5r6j-7oOnHE0bUCTEjb_Wfv2628PefybNzzK8jWOcGHa4QBmrQ4SsnzovOz4Nyr-sZvOzwEuClYqvHVHllltQDf2cmmmDp1qFcH6hi1eIWfldMxE85are7K05Z2MEt5yVlHBY9JvZZzMjYlRVQNe-KeL9hqvik8XCFQPndCRB0YRy-FI00u64yKI-UDXG1HcHMAmoDzgZbAwAtreWqH3bvcve9KjkV-ausOkJ_blFuRVBK0QfoEmECysqBWSBqT6mtNw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx-_fiYnbXD41VJoX3_QXtIZ7WkNrSh0mXjxI6D-UHJ5qyXjQs703uvqYj-yyP3siGvHLrnHA0Y5KFK9rU_lAj33TkrFdoMbNfB99C2kDSkO061P8xtU6OvpslzTKSJDSojGhQMHWfIk9CRemOOEolxVwe10OibpbTviE3fcYaQK-MvELUOQIVJxdnOlbEJx715HWP-GnobiyU",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXP5pOKaPVQk4PIk1mpG44rv9wXStvwDZmWAvu6ZLBx3XmV4jyTsdm0ySdCasgxL6zXCfKrBFbba9Tuh0sQqh2NqmhNjW-q50F48j3IAn7v5-RWFl61pKDLM99WHQIlZ4K_Crmx52dNNOxHIB2jzZM_UibxgCUCm7pPUdY-yMHvTok-S9_64bS4q4BvxEvAiZ8BKSpaG8TxakgH__Q1PVrLgMo-_mIUW3jS1HJyYmA0gHaTPzOrqciYreA-bJHegaR",
+            "title": "247sports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExAf_o3HCh_Fw3D9o8azPT-UmAWMlVWNK5LwdMKi5qjpE55azeBX5qM7NLc-AyDooYgeAib9xsdEKuRDT1jySYwNh60RmMRuXoXVzPaLp_siLGdGE8GPYYsApASDK-owNlzw3GBM8_j5jw4CalLKo4Tqo=",
+            "title": "pro-football-reference.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrr66WSOanK0WbrVkHxxTFQQPRMX-fKtfCPL7bOFkq9MW5rwYRR3YqhE0bemZrYDlobTR9VLFkutYaJYd5kuxIsjnTDIALty4l6bh8VeSEMEwgyGZ9K9I1Mv_UrApAY_dtVRL281BTWQcUoM4eN6PxOz5wJs8UBan2K2r374BQeN4yEG8=",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9immcjXZX7dmfRQaWBybTWlFo7KmW29El7F0QCSP-l6j8nMO0HOmD-2gT5JRgWqgYDEMTHoYbax4_kHqjWPc0VSVPlTNk9hy1ZhxQ-3M6LkBcKFgaeIoe8_AEgybq_cY=",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "f0b313dd5905abd8b892dc13b50da00f4f5f112a",
+        "aviCoreCommittedAt": "2026-11-14T19:37:00Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 89329,
+        "groundedMarketChars": 2639,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
+  },
+  {
     "id": "mwgxdpla-43e3641f",
     "createdAt": 1794692211375,
     "expiresAt": 1795124211375,
