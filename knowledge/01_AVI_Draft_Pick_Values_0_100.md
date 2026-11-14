@@ -3890,8 +3890,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Mile High Royal Lions
 - Original roster ID: 4
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
+- Current owner team: Ravens Regime
+- Current owner roster ID: 3
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd

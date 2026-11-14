@@ -9,35 +9,35 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 992908759074680832
 - Division: 3
 - Waiver position: 10
-- Last updated from Sleeper exports: 2026-11-13
+- Last updated from Sleeper exports: 2026-11-14
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 22
-- offense: 17
+- total_players: 21
+- offense: 16
 - kickers: 1
 - idp: 4
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 412.2
-- championship_lineup_c_avi_avg: 51.52
-- offensive_roster_c_avi_sum: 733.6
-- offensive_roster_c_avi_avg: 43.15
-- offensive_roster_d_avi_sum: 1256.5
-- offensive_roster_d_avi_avg: 73.91
+- championship_lineup_c_avi_sum: 460.7
+- championship_lineup_c_avi_avg: 57.59
+- offensive_roster_c_avi_sum: 720.5
+- offensive_roster_c_avi_avg: 45.03
+- offensive_roster_d_avi_sum: 1181.0
+- offensive_roster_d_avi_avg: 73.81
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Bryce Young | C-AVI: 52.2 | D-AVI: 70.4
-- RB: Derrick Henry | C-AVI: 79.0 | D-AVI: 86.7
-- RB: Blake Corum | C-AVI: 56.2 | D-AVI: 79.2
+- RB: Derrick Henry | C-AVI: 79.0 | D-AVI: 86.4
+- RB: Blake Corum | C-AVI: 56.2 | D-AVI: 79.5
 - WR: Zay Flowers | C-AVI: 77.2 | D-AVI: 93.1
 - WR: KC Concepcion Jr. | C-AVI: 56.0 | D-AVI: 83.9
-- TE: Eli Raridon | C-AVI: 21.9 | D-AVI: 64.7
-- FLEX: Deebo Samuel Sr. | C-AVI: 38.4 | D-AVI: 69.2
-- FLEX: Jordyn Tyson | C-AVI: 31.3 | D-AVI: 80.1
+- TE: Travis Kelce | C-AVI: 79.3 | D-AVI: 79.7
+- FLEX: Jordyn Tyson | C-AVI: 31.4 | D-AVI: 80.1
+- FLEX: Ja'Kobi Lane | C-AVI: 29.4 | D-AVI: 69.6
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -88,7 +88,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 28.5
-- Dynasty AVI (D-AVI, 0-100): 64.3
+- Dynasty AVI (D-AVI, 0-100): 63.6
 - Projected PPR points: 227.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -105,7 +105,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 32.0
 - Championship AVI (C-AVI, 0-100): 79.0
-- Dynasty AVI (D-AVI, 0-100): 86.7
+- Dynasty AVI (D-AVI, 0-100): 86.4
 - Projected PPR points: 246.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -122,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 56.2
-- Dynasty AVI (D-AVI, 0-100): 79.2
+- Dynasty AVI (D-AVI, 0-100): 79.5
 - Projected PPR points: 135.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 49.5
-- Dynasty AVI (D-AVI, 0-100): 78.7
+- Championship AVI (C-AVI, 0-100): 49.4
+- Dynasty AVI (D-AVI, 0-100): 78.3
 - Projected PPR points: 154.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -156,7 +156,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 25.4
-- Dynasty AVI (D-AVI, 0-100): 64.9
+- Dynasty AVI (D-AVI, 0-100): 64.5
 - Projected PPR points: 114.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -212,23 +212,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Jaylen Waddle
-- Player name: Jaylen Waddle
-- Player ID: 7526
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: DEN
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 54.0
-- Dynasty AVI (D-AVI, 0-100): 84.0
-- Projected PPR points: 221.0
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Carnell Tate
 - Player name: Carnell Tate
 - Player ID: 13279
@@ -240,26 +223,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 53.7
-- Dynasty AVI (D-AVI, 0-100): 86.9
+- Championship AVI (C-AVI, 0-100): 53.8
+- Dynasty AVI (D-AVI, 0-100): 87.5
 - Projected PPR points: 177.3
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Deebo Samuel Sr.
-- Player name: Deebo Samuel Sr.
-- Player ID: 5872
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: SF
-- Active: True
-- Status: Active
-- Age: 30.0
-- Championship AVI (C-AVI, 0-100): 38.4
-- Dynasty AVI (D-AVI, 0-100): 69.2
-- Projected PPR points: 155.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -274,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 31.3
+- Championship AVI (C-AVI, 0-100): 31.4
 - Dynasty AVI (D-AVI, 0-100): 80.1
 - Projected PPR points: 111.0
 - Category: offense
@@ -292,7 +258,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 29.4
-- Dynasty AVI (D-AVI, 0-100): 69.9
+- Dynasty AVI (D-AVI, 0-100): 69.6
 - Projected PPR points: 104.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -308,9 +274,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 18.1
-- Dynasty AVI (D-AVI, 0-100): 43.9
+- Championship AVI (C-AVI, 0-100): 18.0
+- Dynasty AVI (D-AVI, 0-100): 42.6
 - Projected PPR points: 26.1
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Travis Kelce
+- Player name: Travis Kelce
+- Player ID: 1466
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: KC
+- Active: True
+- Status: Active
+- Age: 37.0
+- Championship AVI (C-AVI, 0-100): 79.3
+- Dynasty AVI (D-AVI, 0-100): 79.7
+- Projected PPR points: 171.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -326,7 +309,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 21.9
-- Dynasty AVI (D-AVI, 0-100): 64.7
+- Dynasty AVI (D-AVI, 0-100): 65.2
 - Projected PPR points: 33.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

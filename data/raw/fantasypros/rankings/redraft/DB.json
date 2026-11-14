@@ -2534,17 +2534,17 @@
       "player_filename": "kendal-daniels.php",
       "player_id": 28290,
       "player_name": "Kendal Daniels",
-      "player_owned_avg": 9.5,
-      "player_owned_espn": 5.1,
-      "player_owned_yahoo": 21,
+      "player_owned_avg": 0,
+      "player_owned_espn": 0,
+      "player_owned_yahoo": 0,
       "player_page_url": "https://www.fantasypros.com/nfl/players/kendal-daniels.php",
-      "player_position_id": "S",
-      "player_positions": "S",
+      "player_position_id": "LB",
+      "player_positions": "LB",
       "player_short_name": "K. Daniels",
       "player_team_id": "ATL",
       "player_yahoo_id": "42756",
       "player_yahoo_positions": "LB",
-      "pos_rank": "S69",
+      "pos_rank": "LB8",
       "rank_ecr": 111,
       "sportsdata_id": "268ce1f0-3ddd-4c15-80a8-0d6c1b6fbafa",
       "tier": 9
@@ -2613,7 +2613,7 @@
       "player_team_id": "BUF",
       "player_yahoo_id": "32889",
       "player_yahoo_positions": "S",
-      "pos_rank": "S70",
+      "pos_rank": "S69",
       "rank_ecr": 114,
       "sportsdata_id": "95f3b8ac-e10f-4f0d-8650-b464b37ded86",
       "tier": 9
@@ -2705,7 +2705,7 @@
       "player_team_id": "DAL",
       "player_yahoo_id": "30128",
       "player_yahoo_positions": "S",
-      "pos_rank": "S71",
+      "pos_rank": "S70",
       "rank_ecr": 118,
       "sportsdata_id": "3cb26a5c-9c90-46ad-b539-e29ad6934e30",
       "tier": 9
@@ -2820,7 +2820,7 @@
       "player_team_id": "ATL",
       "player_yahoo_id": "41911",
       "player_yahoo_positions": "S",
-      "pos_rank": "S72",
+      "pos_rank": "S71",
       "rank_ecr": 123,
       "sportsdata_id": "4f423d1f-622b-45e7-a8c7-18d37d27978b",
       "tier": 9
@@ -2889,7 +2889,7 @@
       "player_team_id": "WAS",
       "player_yahoo_id": "40087",
       "player_yahoo_positions": "DB,S,CB",
-      "pos_rank": "S73",
+      "pos_rank": "S72",
       "rank_ecr": 126,
       "sportsdata_id": "e52e1ff1-7a48-4b89-84c1-35841460ab0d",
       "tier": 9
@@ -2958,7 +2958,7 @@
       "player_team_id": "SF",
       "player_yahoo_id": "31040",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB8",
+      "pos_rank": "LB9",
       "rank_ecr": 129,
       "sportsdata_id": "75a74283-5ab6-49d4-bf2f-e6fcaf91ec36"
     },
@@ -2980,7 +2980,7 @@
       "player_team_id": "NYJ",
       "player_yahoo_id": "33534",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB9",
+      "pos_rank": "LB10",
       "rank_ecr": 130,
       "sportsdata_id": "0e9ea316-700d-4368-86c1-d1181fc64f52"
     },
@@ -3002,7 +3002,7 @@
       "player_team_id": "PHI",
       "player_yahoo_id": "32744",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB10",
+      "pos_rank": "LB11",
       "rank_ecr": 131,
       "sportsdata_id": "719a7e8e-8286-453e-8aee-d2487c45e53f"
     },
@@ -3047,7 +3047,7 @@
       "player_team_id": "CLE",
       "player_yahoo_id": "42680",
       "player_yahoo_positions": "S",
-      "pos_rank": "S74",
+      "pos_rank": "S73",
       "rank_ecr": 133,
       "sportsdata_id": "376f585c-79e1-42c3-ae3b-1accec884dc0",
       "tier": 9
@@ -3116,7 +3116,7 @@
       "player_team_id": "KC",
       "player_yahoo_id": "33446",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB11",
+      "pos_rank": "LB12",
       "rank_ecr": 136,
       "sportsdata_id": "83ad043c-d1e6-45b3-9e06-3f148538db46"
     },
@@ -3138,7 +3138,7 @@
       "player_team_id": "TEN",
       "player_yahoo_id": "40988",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB12",
+      "pos_rank": "LB13",
       "rank_ecr": 137,
       "sportsdata_id": "bc424a1d-0931-404a-8997-5278b1a50d73"
     },
@@ -3388,7 +3388,7 @@
       "player_team_id": "LV",
       "player_yahoo_id": "33977",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB13",
+      "pos_rank": "LB14",
       "rank_ecr": 148,
       "sportsdata_id": "f05149f9-c13f-4af8-858f-ad1e380961cd"
     },
@@ -3433,7 +3433,7 @@
       "player_team_id": "LAR",
       "player_yahoo_id": "34291",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB14",
+      "pos_rank": "LB15",
       "rank_ecr": 150,
       "sportsdata_id": "7fe2ddd0-cc7f-11ec-8d55-87af3a9174bd"
     },
@@ -3455,7 +3455,7 @@
       "player_team_id": "BAL",
       "player_yahoo_id": "33969",
       "player_yahoo_positions": "S",
-      "pos_rank": "S75",
+      "pos_rank": "S74",
       "rank_ecr": 151,
       "sportsdata_id": "c4172123-905a-4f80-8418-1469b9b10a4f",
       "tier": 1
@@ -3523,7 +3523,7 @@
       "player_team_id": "MIA",
       "player_yahoo_id": "42787",
       "player_yahoo_positions": "S",
-      "pos_rank": "S76",
+      "pos_rank": "S75",
       "rank_ecr": 154,
       "sportsdata_id": "4977558a-22f9-4e38-bf83-190bb751de15",
       "tier": 10
@@ -3546,7 +3546,7 @@
       "player_team_id": "BAL",
       "player_yahoo_id": "30226",
       "player_yahoo_positions": "S",
-      "pos_rank": "S77",
+      "pos_rank": "S76",
       "rank_ecr": 155,
       "sportsdata_id": "18f174c9-a956-4c14-bd23-9e799fef6dc7",
       "tier": 10
@@ -3707,7 +3707,7 @@
       "player_team_id": "DEN",
       "player_yahoo_id": "28716",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB15",
+      "pos_rank": "LB16",
       "rank_ecr": 162,
       "sportsdata_id": "954d9ed8-41ed-4222-b0d8-b3cc8d1755a5"
     },
@@ -3729,7 +3729,7 @@
       "player_team_id": "TEN",
       "player_yahoo_id": "41112",
       "player_yahoo_positions": "LB",
-      "pos_rank": "S78",
+      "pos_rank": "S77",
       "rank_ecr": 163,
       "sportsdata_id": "3c58378b-d327-4d25-b2b9-1aead2975bcb",
       "tier": 10
@@ -3798,7 +3798,7 @@
       "player_team_id": "DET",
       "player_yahoo_id": "33453",
       "player_yahoo_positions": "S",
-      "pos_rank": "S79",
+      "pos_rank": "S78",
       "rank_ecr": 166,
       "sportsdata_id": "250da6c8-2222-4438-9800-60d7bbb449d7",
       "tier": 10
@@ -3844,7 +3844,7 @@
       "player_team_id": "BAL",
       "player_yahoo_id": "32804",
       "player_yahoo_positions": "S",
-      "pos_rank": "S80",
+      "pos_rank": "S79",
       "rank_ecr": 168,
       "sportsdata_id": "c588e277-fc9e-4187-9358-2b9e1a2b0cd9",
       "tier": 10
@@ -3867,7 +3867,7 @@
       "player_team_id": "NYG",
       "player_yahoo_id": "30986",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB16",
+      "pos_rank": "LB17",
       "rank_ecr": 169,
       "sportsdata_id": "88976fed-0ffd-40a8-98ea-0c6c55010000"
     },
@@ -3935,7 +3935,7 @@
       "player_team_id": "GB",
       "player_yahoo_id": "40938",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB17",
+      "pos_rank": "LB18",
       "rank_ecr": 172,
       "sportsdata_id": "5424462c-3f8e-4e2a-832d-c29916d395cb"
     },
@@ -3957,7 +3957,7 @@
       "player_team_id": "GB",
       "player_yahoo_id": "31205",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB18",
+      "pos_rank": "LB19",
       "rank_ecr": 173,
       "sportsdata_id": "b0ad00bc-3b30-41ce-8892-f8105e0943e2"
     },
@@ -4025,7 +4025,7 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "30987",
       "player_yahoo_positions": "S",
-      "pos_rank": "S81",
+      "pos_rank": "S80",
       "rank_ecr": 176,
       "sportsdata_id": "01c52412-7257-4213-b8b3-effa7c5dd5c7",
       "tier": 1
@@ -4071,7 +4071,7 @@
       "player_team_id": "WAS",
       "player_yahoo_id": "34052",
       "player_yahoo_positions": "S",
-      "pos_rank": "S82",
+      "pos_rank": "S81",
       "rank_ecr": 178,
       "sportsdata_id": "2804d41d-19c7-41ff-a1ea-a208fc0fad35",
       "tier": 1
@@ -4140,7 +4140,7 @@
       "player_team_id": "MIA",
       "player_yahoo_id": "33877",
       "player_yahoo_positions": "S",
-      "pos_rank": "LB19",
+      "pos_rank": "LB20",
       "rank_ecr": 181,
       "sportsdata_id": "6fd330e6-8cab-4351-b9e8-bc6ffb125b1c",
       "tier": 10
@@ -4232,7 +4232,7 @@
       "player_team_id": "WAS",
       "player_yahoo_id": "42629",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB20",
+      "pos_rank": "LB21",
       "rank_ecr": 185,
       "sportsdata_id": "dae1087c-1a37-4ca9-bc9f-a35c212ffd21"
     },
@@ -4254,7 +4254,7 @@
       "player_team_id": "TB",
       "player_yahoo_id": "40953",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S83",
+      "pos_rank": "S82",
       "rank_ecr": 186,
       "sportsdata_id": "1ebc26a2-8705-4db2-b177-1b5acc21b5fa",
       "tier": 1
@@ -4277,7 +4277,7 @@
       "player_team_id": "CAR",
       "player_yahoo_id": "33982",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB21",
+      "pos_rank": "LB22",
       "rank_ecr": 187,
       "sportsdata_id": "95490459-68e2-4c72-bb60-eae1aab0ecb3"
     },
@@ -4322,7 +4322,7 @@
       "player_team_id": "NE",
       "player_yahoo_id": "31708",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB22",
+      "pos_rank": "LB23",
       "rank_ecr": 189,
       "sportsdata_id": "3b59e08c-0c3b-42c9-a4e2-9b79103ea715"
     },
@@ -4367,7 +4367,7 @@
       "player_team_id": "SEA",
       "player_yahoo_id": "41820",
       "player_yahoo_positions": "S,CB",
-      "pos_rank": "S84",
+      "pos_rank": "S83",
       "rank_ecr": 191,
       "sportsdata_id": "03af2f58-94a2-403d-b183-0ffad62795fa",
       "tier": 2
@@ -4413,7 +4413,7 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "27081",
       "player_yahoo_positions": "S",
-      "pos_rank": "S85",
+      "pos_rank": "S84",
       "rank_ecr": 193,
       "sportsdata_id": "7690ab6a-2ae0-4449-abd5-74ec54403f2e",
       "tier": 10
@@ -4436,7 +4436,7 @@
       "player_team_id": "CHI",
       "player_yahoo_id": "31842",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB23",
+      "pos_rank": "LB24",
       "rank_ecr": 194,
       "sportsdata_id": "ab5d4d72-fb1c-4aeb-887b-f6ca35f679bf"
     },
@@ -4458,7 +4458,7 @@
       "player_team_id": "NO",
       "player_yahoo_id": "32076",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB24",
+      "pos_rank": "LB25",
       "rank_ecr": 195,
       "sportsdata_id": "7c51883f-8ea7-4f54-8c03-a562b4524858"
     },
@@ -4480,7 +4480,7 @@
       "player_team_id": "SF",
       "player_yahoo_id": "41946",
       "player_yahoo_positions": "S,CB",
-      "pos_rank": "S86",
+      "pos_rank": "S85",
       "rank_ecr": 196,
       "sportsdata_id": "617c4aee-a205-49de-8a16-655bb6f08143",
       "tier": 10
@@ -4503,7 +4503,7 @@
       "player_team_id": "ARI",
       "player_yahoo_id": "30149",
       "player_yahoo_positions": "S",
-      "pos_rank": "S87",
+      "pos_rank": "S86",
       "rank_ecr": 197,
       "sportsdata_id": "5ce20f3e-0f02-4f53-a2ef-5b076361f2b1",
       "tier": 1
@@ -4526,7 +4526,7 @@
       "player_team_id": "LV",
       "player_yahoo_id": "34039",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB25",
+      "pos_rank": "LB26",
       "rank_ecr": 198,
       "sportsdata_id": "119e79fa-0453-4253-9b3d-9a8ef03a48ec"
     },
@@ -4548,7 +4548,7 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "40113",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB26",
+      "pos_rank": "LB27",
       "rank_ecr": 199,
       "sportsdata_id": "93f17bc5-55d5-441a-a29d-d419ed4725e7"
     },
@@ -4616,7 +4616,7 @@
       "player_team_id": "IND",
       "player_yahoo_id": "42029",
       "player_yahoo_positions": "S",
-      "pos_rank": "S88",
+      "pos_rank": "S87",
       "rank_ecr": 202,
       "sportsdata_id": "9a8eac53-759b-4594-bec9-cecd5b296760",
       "tier": 10
@@ -4685,7 +4685,7 @@
       "player_team_id": "CHI",
       "player_yahoo_id": "32403",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB27",
+      "pos_rank": "LB28",
       "rank_ecr": 205,
       "sportsdata_id": "a7b4b50a-9431-4551-89e1-6b8cb80536d7"
     },
@@ -4730,7 +4730,7 @@
       "player_team_id": "LAR",
       "player_yahoo_id": "32886",
       "player_yahoo_positions": "S",
-      "pos_rank": "S89",
+      "pos_rank": "S88",
       "rank_ecr": 207,
       "sportsdata_id": "eff8e3ec-98e4-49c8-b865-436e3abb0870",
       "tier": 2
@@ -4799,7 +4799,7 @@
       "player_team_id": "LV",
       "player_yahoo_id": "32734",
       "player_yahoo_positions": "S",
-      "pos_rank": "S90",
+      "pos_rank": "S89",
       "rank_ecr": 210,
       "sportsdata_id": "5f623fbc-415e-4035-b423-7850cf1153b4",
       "tier": 2
@@ -4844,7 +4844,7 @@
       "player_team_id": "CAR",
       "player_yahoo_id": "33431",
       "player_yahoo_positions": "S",
-      "pos_rank": "S91",
+      "pos_rank": "S90",
       "rank_ecr": 212,
       "sportsdata_id": "c8f74b89-065c-4857-be4e-4fcf897a5bc0",
       "tier": 2
@@ -4890,7 +4890,7 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "41987",
       "player_yahoo_positions": "S",
-      "pos_rank": "S92",
+      "pos_rank": "S91",
       "rank_ecr": 214,
       "sportsdata_id": "9fafb31c-10c8-4299-822c-8d532904b6fb",
       "tier": 11
@@ -4959,7 +4959,7 @@
       "player_team_id": "HOU",
       "player_yahoo_id": "32318",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB28",
+      "pos_rank": "LB29",
       "rank_ecr": 217,
       "sportsdata_id": "e9348fc5-273d-4ac3-9760-462f37c025dc"
     },
@@ -5027,7 +5027,7 @@
       "player_team_id": "CIN",
       "player_yahoo_id": "32710",
       "player_yahoo_positions": "S",
-      "pos_rank": "S93",
+      "pos_rank": "S92",
       "rank_ecr": 220,
       "sportsdata_id": "1d8d5c04-15e7-4346-9d1f-f128e4df3adb",
       "tier": 11
@@ -5073,7 +5073,7 @@
       "player_team_id": "JAC",
       "player_yahoo_id": "31024",
       "player_yahoo_positions": "S",
-      "pos_rank": "S94",
+      "pos_rank": "S93",
       "rank_ecr": 222,
       "sportsdata_id": "89c84a59-18ad-4aeb-8879-d4ba7dd1491e",
       "tier": 2
@@ -5142,7 +5142,7 @@
       "player_team_id": "NYG",
       "player_yahoo_id": "33563",
       "player_yahoo_positions": "S",
-      "pos_rank": "S95",
+      "pos_rank": "S94",
       "rank_ecr": 225,
       "sportsdata_id": "8ca53dc6-9a7f-41a6-9b69-d199a6784013",
       "tier": 11
@@ -5188,7 +5188,7 @@
       "player_team_id": "TEN",
       "player_yahoo_id": "34355",
       "player_yahoo_positions": "S",
-      "pos_rank": "S96",
+      "pos_rank": "S95",
       "rank_ecr": 227,
       "sportsdata_id": "8774aba0-d3be-11ec-96a0-c3471a31202c",
       "tier": 11
@@ -5257,7 +5257,7 @@
       "player_team_id": "DET",
       "player_yahoo_id": "40681",
       "player_yahoo_positions": "S,CB",
-      "pos_rank": "S97",
+      "pos_rank": "S96",
       "rank_ecr": 230,
       "sportsdata_id": "6ccf5140-f1c9-11ed-a984-a58c04943ad8",
       "tier": 11
@@ -5326,7 +5326,7 @@
       "player_team_id": "CIN",
       "player_yahoo_id": "41906",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB29",
+      "pos_rank": "LB30",
       "rank_ecr": 233,
       "sportsdata_id": "92ddcecf-9837-460b-9117-b3ec5447e356"
     },
@@ -5348,7 +5348,7 @@
       "player_team_id": "CLE",
       "player_yahoo_id": "31930",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB30",
+      "pos_rank": "LB31",
       "rank_ecr": 234,
       "sportsdata_id": "8227621d-ad2e-4dea-aef5-64d4f154adb2"
     },
@@ -5370,7 +5370,7 @@
       "player_team_id": "IND",
       "player_yahoo_id": "42675",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB31",
+      "pos_rank": "LB32",
       "rank_ecr": 235,
       "sportsdata_id": "0b551444-1410-470d-afc3-0ba370d70bbd"
     },
@@ -5392,7 +5392,7 @@
       "player_team_id": "PIT",
       "player_yahoo_id": "32698",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB32",
+      "pos_rank": "LB33",
       "rank_ecr": 236,
       "sportsdata_id": "bc4c0c7d-a6f4-4cff-95ec-a4d0523c2232"
     },
@@ -5437,7 +5437,7 @@
       "player_team_id": "DEN",
       "player_yahoo_id": "33568",
       "player_yahoo_positions": "S",
-      "pos_rank": "S98",
+      "pos_rank": "S97",
       "rank_ecr": 238,
       "sportsdata_id": "a1a2f797-77ac-4f13-8456-50a10a7fd61a",
       "tier": 2
@@ -5506,7 +5506,7 @@
       "player_team_id": "BUF",
       "player_yahoo_id": "34045",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB33",
+      "pos_rank": "LB34",
       "rank_ecr": 241,
       "sportsdata_id": "5978e634-af6b-4317-bcc3-1ad024421d13"
     },
@@ -5528,7 +5528,7 @@
       "player_team_id": "NYJ",
       "player_yahoo_id": "25787",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB34",
+      "pos_rank": "LB35",
       "rank_ecr": 242,
       "sportsdata_id": "e6221da0-1ce0-4f60-85b5-f2094e9d2863"
     },
@@ -5550,7 +5550,7 @@
       "player_team_id": "CIN",
       "player_yahoo_id": "40117",
       "player_yahoo_positions": "S",
-      "pos_rank": "S99",
+      "pos_rank": "S98",
       "rank_ecr": 243,
       "sportsdata_id": "a462797c-d8d9-404c-b663-3ced76d6fc93",
       "tier": 3
@@ -5573,7 +5573,7 @@
       "player_team_id": "KC",
       "player_yahoo_id": "40160",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S100",
+      "pos_rank": "S99",
       "rank_ecr": 244,
       "sportsdata_id": "cc4627f1-1af2-4a3d-aa78-c5f905a8a43d",
       "tier": 3
@@ -5619,7 +5619,7 @@
       "player_team_id": "TB",
       "player_yahoo_id": "32715",
       "player_yahoo_positions": "S",
-      "pos_rank": "S101",
+      "pos_rank": "S100",
       "rank_ecr": 246,
       "sportsdata_id": "27732f2b-2009-4954-a0a0-d29f5ce1abdf",
       "tier": 3
@@ -5688,7 +5688,7 @@
       "player_team_id": "GB",
       "player_yahoo_id": "32706",
       "player_yahoo_positions": "S",
-      "pos_rank": "S102",
+      "pos_rank": "S101",
       "rank_ecr": 249,
       "sportsdata_id": "dbeff2ee-8d26-48f3-b345-3cd88c374c87",
       "tier": 3
@@ -5711,7 +5711,7 @@
       "player_team_id": "NE",
       "player_yahoo_id": "29298",
       "player_yahoo_positions": "S",
-      "pos_rank": "S103",
+      "pos_rank": "S102",
       "rank_ecr": 250,
       "sportsdata_id": "c909532a-693e-4e8f-b853-fbf41037c100",
       "tier": 3
@@ -5734,7 +5734,7 @@
       "player_team_id": "ARI",
       "player_yahoo_id": "31987",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB35",
+      "pos_rank": "LB36",
       "rank_ecr": 251,
       "sportsdata_id": "0790a8d6-5316-4204-91a6-8508ca48973b"
     },
@@ -5779,7 +5779,7 @@
       "player_team_id": "TB",
       "player_yahoo_id": "30189",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB36",
+      "pos_rank": "LB37",
       "rank_ecr": 253,
       "sportsdata_id": "8bb2d40a-6dd2-4108-9810-5def1b45f192"
     },
@@ -5801,7 +5801,7 @@
       "player_team_id": "ATL",
       "player_yahoo_id": "33468",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB37",
+      "pos_rank": "LB38",
       "rank_ecr": 254,
       "sportsdata_id": "f50ae8f1-aebd-4e3d-bbf9-f92921044e72"
     },
@@ -5869,7 +5869,7 @@
       "player_team_id": "NE",
       "player_yahoo_id": "41413",
       "player_yahoo_positions": "S",
-      "pos_rank": "S104",
+      "pos_rank": "S103",
       "rank_ecr": 257,
       "sportsdata_id": "48abbb80-075a-11ef-a2f5-8dc558cf6193",
       "tier": 11
@@ -5892,7 +5892,7 @@
       "player_team_id": "DET",
       "player_yahoo_id": "30299",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S105",
+      "pos_rank": "S104",
       "rank_ecr": 258,
       "sportsdata_id": "1105ae60-a4b6-4246-a77e-0849179b07b2",
       "tier": 11
@@ -5938,7 +5938,7 @@
       "player_team_id": "MIA",
       "player_yahoo_id": "31063",
       "player_yahoo_positions": "DB,LB,S",
-      "pos_rank": "S106",
+      "pos_rank": "S105",
       "rank_ecr": 260,
       "sportsdata_id": "9b96ef63-04bd-41ae-b59c-acc0f2561d19",
       "tier": 11
@@ -5961,7 +5961,7 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "42753",
       "player_yahoo_positions": "S",
-      "pos_rank": "S107",
+      "pos_rank": "S106",
       "rank_ecr": 261,
       "sportsdata_id": "81772ad1-db17-4271-bc35-ef0db2b54816",
       "tier": 11
@@ -6030,7 +6030,7 @@
       "player_team_id": "DAL",
       "player_yahoo_id": "32164",
       "player_yahoo_positions": "S",
-      "pos_rank": "S108",
+      "pos_rank": "S107",
       "rank_ecr": 264,
       "sportsdata_id": "155980c2-e289-48c4-a047-09c08d0ce7ae",
       "tier": 12
@@ -6053,7 +6053,7 @@
       "player_team_id": "JAC",
       "player_yahoo_id": "42722",
       "player_yahoo_positions": "S",
-      "pos_rank": "S109",
+      "pos_rank": "S108",
       "rank_ecr": 265,
       "sportsdata_id": "0ee91fce-62c7-48cd-913e-c95e30c9397c",
       "tier": 12
@@ -6076,7 +6076,7 @@
       "player_team_id": "DAL",
       "player_yahoo_id": "40099",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB38",
+      "pos_rank": "LB39",
       "rank_ecr": 266,
       "sportsdata_id": "2df409f7-2d3a-4dc3-98aa-0b261594bb1f"
     },
@@ -6143,7 +6143,7 @@
       "player_team_id": "KC",
       "player_yahoo_id": "40977",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S110",
+      "pos_rank": "S109",
       "rank_ecr": 269,
       "sportsdata_id": "3e4f799d-5567-4239-9513-86a16a674073",
       "tier": 12
@@ -6166,7 +6166,7 @@
       "player_team_id": "LAR",
       "player_yahoo_id": "34167",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S111",
+      "pos_rank": "S110",
       "rank_ecr": 270,
       "sportsdata_id": "c2c112f0-13bd-44a8-a447-f3429c4f3e65",
       "tier": 3
@@ -6211,7 +6211,7 @@
       "player_team_id": "JAC",
       "player_yahoo_id": "41978",
       "player_yahoo_positions": "S",
-      "pos_rank": "S112",
+      "pos_rank": "S111",
       "rank_ecr": 272,
       "sportsdata_id": "6f511f3c-2288-4726-8fff-39cd874907dd",
       "tier": 12
@@ -6257,7 +6257,7 @@
       "player_team_id": "PIT",
       "player_yahoo_id": "40975",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB39",
+      "pos_rank": "LB40",
       "rank_ecr": 274,
       "sportsdata_id": "6a7047a5-52ab-4e2d-8ab0-6d27b6930822"
     },
@@ -6279,7 +6279,7 @@
       "player_team_id": "HOU",
       "player_yahoo_id": "42765",
       "player_yahoo_positions": "S",
-      "pos_rank": "S113",
+      "pos_rank": "S112",
       "rank_ecr": 275,
       "sportsdata_id": "0946cbee-dffc-4c74-93e5-e57393055807",
       "tier": 12
@@ -6302,7 +6302,7 @@
       "player_team_id": "PIT",
       "player_yahoo_id": "30143",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB40",
+      "pos_rank": "LB41",
       "rank_ecr": 276,
       "sportsdata_id": "f340201b-a1b1-43ba-a47a-484a44334553"
     },
@@ -6324,7 +6324,7 @@
       "player_team_id": "MIN",
       "player_yahoo_id": "30448",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB41",
+      "pos_rank": "LB42",
       "rank_ecr": 277,
       "sportsdata_id": "bfe704fc-266d-4f6a-afbf-c903b5934e23"
     },
@@ -6369,7 +6369,7 @@
       "player_team_id": "ATL",
       "player_yahoo_id": "40278",
       "player_yahoo_positions": "S",
-      "pos_rank": "S114",
+      "pos_rank": "S113",
       "rank_ecr": 279,
       "sportsdata_id": "b9fbbcf2-35cb-4de4-9622-16630b51c792",
       "tier": 12
@@ -6392,7 +6392,7 @@
       "player_team_id": "DEN",
       "player_yahoo_id": "33883",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S115",
+      "pos_rank": "S114",
       "rank_ecr": 280,
       "sportsdata_id": "83b719f1-e6ac-4611-8235-c2f6bd198fa3",
       "tier": 12
@@ -6415,7 +6415,7 @@
       "player_team_id": "PHI",
       "player_yahoo_id": "33542",
       "player_yahoo_positions": "CB",
-      "pos_rank": "S116",
+      "pos_rank": "S115",
       "rank_ecr": 281,
       "sportsdata_id": "117d2769-60b3-47f0-be7f-f47fe36e0ac9",
       "tier": 12
@@ -6461,7 +6461,7 @@
       "player_team_id": "BUF",
       "player_yahoo_id": "33600",
       "player_yahoo_positions": "S",
-      "pos_rank": "S117",
+      "pos_rank": "S116",
       "rank_ecr": 283,
       "sportsdata_id": "3a6b8eac-9a76-47e0-b791-b6ee245ae924",
       "tier": 12
@@ -6507,7 +6507,7 @@
       "player_team_id": "ATL",
       "player_yahoo_id": "41883",
       "player_yahoo_positions": "S",
-      "pos_rank": "S118",
+      "pos_rank": "S117",
       "rank_ecr": 285,
       "sportsdata_id": "c28798ce-a253-434d-b312-7c95449fcb63",
       "tier": 4
@@ -6530,7 +6530,7 @@
       "player_team_id": "LAR",
       "player_yahoo_id": "41447",
       "player_yahoo_positions": "S",
-      "pos_rank": "S119",
+      "pos_rank": "S118",
       "rank_ecr": 286,
       "sportsdata_id": "e3f6e380-07c3-11ef-8c61-79ad930f01f9",
       "tier": 12
@@ -6599,7 +6599,7 @@
       "player_team_id": "HOU",
       "player_yahoo_id": "33992",
       "player_yahoo_positions": "S",
-      "pos_rank": "S120",
+      "pos_rank": "S119",
       "rank_ecr": 289,
       "sportsdata_id": "7ec32a97-e677-487c-a000-74a26de95931",
       "tier": 4
@@ -6645,7 +6645,7 @@
       "player_team_id": "PHI",
       "player_yahoo_id": "41816",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB42",
+      "pos_rank": "LB43",
       "rank_ecr": 291,
       "sportsdata_id": "d57e75e5-bd90-41be-97e9-c2d2cea5512b"
     },
@@ -6689,7 +6689,7 @@
       "player_team_id": "SEA",
       "player_yahoo_id": "31940",
       "player_yahoo_positions": "S",
-      "pos_rank": "S121",
+      "pos_rank": "S120",
       "rank_ecr": 293,
       "sportsdata_id": "a1052a59-114e-4340-8936-bffb17431300",
       "tier": 4
@@ -6712,7 +6712,7 @@
       "player_team_id": "NYG",
       "player_yahoo_id": "42627",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB43",
+      "pos_rank": "LB44",
       "rank_ecr": 294,
       "sportsdata_id": "8095554c-7eae-4e7c-9213-01f24ceb0185"
     },
@@ -6756,7 +6756,7 @@
       "player_team_id": "KC",
       "player_yahoo_id": "31962",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB44",
+      "pos_rank": "LB45",
       "rank_ecr": 296,
       "sportsdata_id": "d468dfe5-8ad2-4c8b-b7ba-0962316a2156"
     },
@@ -6778,7 +6778,7 @@
       "player_team_id": "SEA",
       "player_yahoo_id": "40730",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB45",
+      "pos_rank": "LB46",
       "rank_ecr": 297,
       "sportsdata_id": "55023e20-f335-11ed-a768-e94cb2c005ac"
     },
@@ -6938,7 +6938,7 @@
       "player_team_id": "MIN",
       "player_yahoo_id": "31983",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB46",
+      "pos_rank": "LB47",
       "rank_ecr": 304,
       "sportsdata_id": "7b47d190-168b-44bc-bb91-a688fe28f768"
     },
@@ -6960,7 +6960,7 @@
       "player_team_id": "SEA",
       "player_yahoo_id": "42686",
       "player_yahoo_positions": "S",
-      "pos_rank": "S122",
+      "pos_rank": "S121",
       "rank_ecr": 305,
       "sportsdata_id": "056e91ac-fb38-426b-855a-6c3e16d69eee",
       "tier": 12
@@ -6983,7 +6983,7 @@
       "player_team_id": "IND",
       "player_yahoo_id": "41040",
       "player_yahoo_positions": "DB,LB,S",
-      "pos_rank": "LB47",
+      "pos_rank": "LB48",
       "rank_ecr": 306,
       "sportsdata_id": "dd21aafb-0647-4b85-aa55-603fb75a859f",
       "tier": 12
@@ -7006,7 +7006,7 @@
       "player_team_id": "CIN",
       "player_yahoo_id": "41834",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB48",
+      "pos_rank": "LB49",
       "rank_ecr": 307,
       "sportsdata_id": "f54f5e3b-da40-4296-a252-8e6a054b35ef"
     },
@@ -7028,7 +7028,7 @@
       "player_team_id": "CHI",
       "player_yahoo_id": "42647",
       "player_yahoo_positions": "S",
-      "pos_rank": "S123",
+      "pos_rank": "S122",
       "rank_ecr": 308,
       "sportsdata_id": "e6d0faa6-8920-4928-8951-8cb29d8c914b",
       "tier": 4
@@ -7073,7 +7073,7 @@
       "player_team_id": "DAL",
       "player_yahoo_id": "40227",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB49",
+      "pos_rank": "LB50",
       "rank_ecr": 310,
       "sportsdata_id": "a362249b-336e-48d3-a6ee-02de7274b4e6"
     },
@@ -7118,7 +7118,7 @@
       "player_team_id": "TB",
       "player_yahoo_id": "29345",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S124",
+      "pos_rank": "S123",
       "rank_ecr": 312,
       "sportsdata_id": "4419b655-867f-436b-8233-6d45f4dfef77",
       "tier": 12
@@ -7141,7 +7141,7 @@
       "player_team_id": "FA",
       "player_yahoo_id": "31913",
       "player_yahoo_positions": "S,CB",
-      "pos_rank": "S125",
+      "pos_rank": "S124",
       "rank_ecr": 313,
       "sportsdata_id": "cae34950-dcb7-4021-ad21-0a8ae7cf47f1",
       "tier": 12
@@ -7164,7 +7164,7 @@
       "player_team_id": "DAL",
       "player_yahoo_id": "42633",
       "player_yahoo_positions": "S",
-      "pos_rank": "S126",
+      "pos_rank": "S125",
       "rank_ecr": 314,
       "sportsdata_id": "c354a922-5300-4dbc-80e6-d11208cdf386",
       "tier": 4
@@ -7210,7 +7210,7 @@
       "player_team_id": "WAS",
       "player_yahoo_id": "31503",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB50",
+      "pos_rank": "LB51",
       "rank_ecr": 316,
       "sportsdata_id": "717ebb17-f54f-4052-b9fb-af641a25ebe2"
     },
@@ -7232,7 +7232,7 @@
       "player_team_id": "PIT",
       "player_yahoo_id": "34003",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S127",
+      "pos_rank": "S126",
       "rank_ecr": 317,
       "sportsdata_id": "965096f8-96e9-4998-9681-133174582621",
       "tier": 4
@@ -7324,7 +7324,7 @@
       "player_team_id": "BUF",
       "player_yahoo_id": "42769",
       "player_yahoo_positions": "S",
-      "pos_rank": "S128",
+      "pos_rank": "S127",
       "rank_ecr": 321,
       "sportsdata_id": "713039d2-2233-4753-8696-cf079ed0d665",
       "tier": 12
@@ -7392,7 +7392,7 @@
       "player_team_id": "PIT",
       "player_yahoo_id": "32772",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB51",
+      "pos_rank": "LB52",
       "rank_ecr": 324,
       "sportsdata_id": "3f4025d1-5782-43e4-9f42-8eee2da66a95"
     },
@@ -7414,7 +7414,7 @@
       "player_team_id": "MIA",
       "player_yahoo_id": "42665",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB52",
+      "pos_rank": "LB53",
       "rank_ecr": 325,
       "sportsdata_id": "60d720f0-e962-43fb-82f3-9594e0a03d73"
     },
@@ -7436,7 +7436,7 @@
       "player_team_id": "DET",
       "player_yahoo_id": "41146",
       "player_yahoo_positions": "S",
-      "pos_rank": "S129",
+      "pos_rank": "S128",
       "rank_ecr": 326,
       "sportsdata_id": "cc1d5cf0-0500-11ef-bb66-eba00fd362a6",
       "tier": 12
@@ -7526,7 +7526,7 @@
       "player_team_id": "HOU",
       "player_yahoo_id": "40189",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB53",
+      "pos_rank": "LB54",
       "rank_ecr": 330,
       "sportsdata_id": "b3523130-926a-4d1c-bfde-775975583398"
     },
@@ -7616,7 +7616,7 @@
       "player_team_id": "JAC",
       "player_yahoo_id": "40155",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB54",
+      "pos_rank": "LB55",
       "rank_ecr": 334,
       "sportsdata_id": "adcc651b-c635-4d09-a411-63452f8192fa"
     },
@@ -7638,7 +7638,7 @@
       "player_team_id": "MIN",
       "player_yahoo_id": "32875",
       "player_yahoo_positions": "S,CB",
-      "pos_rank": "S130",
+      "pos_rank": "S129",
       "rank_ecr": 335,
       "sportsdata_id": "e135eaa4-1688-487a-a924-4d83b16977df",
       "tier": 4
@@ -7661,7 +7661,7 @@
       "player_team_id": "IND",
       "player_yahoo_id": "32777",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB55",
+      "pos_rank": "LB56",
       "rank_ecr": 336,
       "sportsdata_id": "d152b2d5-402d-47f4-a6d1-7870e5a32df5"
     },
@@ -7683,7 +7683,7 @@
       "player_team_id": "MIN",
       "player_yahoo_id": "42720",
       "player_yahoo_positions": "S",
-      "pos_rank": "S131",
+      "pos_rank": "S130",
       "rank_ecr": 337,
       "sportsdata_id": "5d66091e-c05f-42b8-9229-9d169c8c6273",
       "tier": 12
@@ -7706,7 +7706,7 @@
       "player_team_id": "FA",
       "player_yahoo_id": "34638",
       "player_yahoo_positions": "S",
-      "pos_rank": "S132",
+      "pos_rank": "S131",
       "rank_ecr": 338,
       "sportsdata_id": "a49160a0-ca2e-11ec-be96-e90abdfa0fef",
       "tier": 12
@@ -7935,7 +7935,7 @@
       "player_team_id": "NYG",
       "player_yahoo_id": "33788",
       "player_yahoo_positions": "S,CB",
-      "pos_rank": "S133",
+      "pos_rank": "S132",
       "rank_ecr": 348,
       "sportsdata_id": "76647249-62a0-4038-a597-8d0aad1ef3b5",
       "tier": 13
@@ -8027,7 +8027,7 @@
       "player_team_id": "NE",
       "player_yahoo_id": "41991",
       "player_yahoo_positions": "S",
-      "pos_rank": "S134",
+      "pos_rank": "S133",
       "rank_ecr": 352,
       "sportsdata_id": "ba695d50-4e27-4804-91ed-4ec9321b3346",
       "tier": 13
@@ -8050,7 +8050,7 @@
       "player_team_id": "CAR",
       "player_yahoo_id": "42785",
       "player_yahoo_positions": "S",
-      "pos_rank": "S135",
+      "pos_rank": "S134",
       "rank_ecr": 353,
       "sportsdata_id": "c03e3030-aaac-4ebd-a784-84d4ea00a709",
       "tier": 13
@@ -8096,7 +8096,7 @@
       "player_team_id": "ATL",
       "player_yahoo_id": "40123",
       "player_yahoo_positions": "S",
-      "pos_rank": "S136",
+      "pos_rank": "S135",
       "rank_ecr": 355,
       "sportsdata_id": "c9da2c23-478b-48a8-8a98-408caf3f0d16",
       "tier": 13
@@ -8142,7 +8142,7 @@
       "player_team_id": "ARI",
       "player_yahoo_id": "41918",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB56",
+      "pos_rank": "LB57",
       "rank_ecr": 357,
       "sportsdata_id": "bb0b9a85-f3f0-40e5-86fe-0434494caf17"
     },
@@ -8164,7 +8164,7 @@
       "player_team_id": "SF",
       "player_yahoo_id": "31980",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB57",
+      "pos_rank": "LB58",
       "rank_ecr": 358,
       "sportsdata_id": "e6eb9d50-9231-44ff-89eb-7f7b996e042f"
     },
@@ -8186,7 +8186,7 @@
       "player_team_id": "NYJ",
       "player_yahoo_id": "30981",
       "player_yahoo_positions": "S",
-      "pos_rank": "S137",
+      "pos_rank": "S136",
       "rank_ecr": 359,
       "sportsdata_id": "1aede0b9-557c-444d-9a2f-4cc690e1563c",
       "tier": 4
@@ -8209,7 +8209,7 @@
       "player_team_id": "TEN",
       "player_yahoo_id": "41857",
       "player_yahoo_positions": "S",
-      "pos_rank": "S138",
+      "pos_rank": "S137",
       "rank_ecr": 360,
       "sportsdata_id": "1dd1308d-3ca4-4972-abc4-0dae40726900",
       "tier": 4
@@ -8232,7 +8232,7 @@
       "player_team_id": "CAR",
       "player_yahoo_id": "32411",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB58",
+      "pos_rank": "LB59",
       "rank_ecr": 361,
       "sportsdata_id": "1881d1a7-218b-4690-9065-497946d1ec1e"
     },
@@ -8254,7 +8254,7 @@
       "player_team_id": "IND",
       "player_yahoo_id": "42700",
       "player_yahoo_positions": "S",
-      "pos_rank": "S139",
+      "pos_rank": "S138",
       "rank_ecr": 362,
       "sportsdata_id": "0450a472-1ec8-481a-8196-1982729592f9",
       "tier": 5
@@ -8277,7 +8277,7 @@
       "player_team_id": "NO",
       "player_yahoo_id": "40199",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S140",
+      "pos_rank": "S139",
       "rank_ecr": 363,
       "sportsdata_id": "e33aa81a-83e9-411b-8265-f31da58a33b9",
       "tier": 13
@@ -8346,7 +8346,7 @@
       "player_team_id": "DAL",
       "player_yahoo_id": "32623",
       "player_yahoo_positions": "S",
-      "pos_rank": "S141",
+      "pos_rank": "S140",
       "rank_ecr": 366,
       "sportsdata_id": "56992f39-70e7-4b6a-86da-0a4776504e7a",
       "tier": 4
@@ -8391,7 +8391,7 @@
       "player_team_id": "DEN",
       "player_yahoo_id": "32740",
       "player_yahoo_positions": "S",
-      "pos_rank": "S142",
+      "pos_rank": "S141",
       "rank_ecr": 368,
       "sportsdata_id": "f0c60c6e-513b-40df-9794-d555ed59202f",
       "tier": 4
@@ -8437,7 +8437,7 @@
       "player_team_id": "BAL",
       "player_yahoo_id": "42471",
       "player_yahoo_positions": "S",
-      "pos_rank": "S143",
+      "pos_rank": "S142",
       "rank_ecr": 370,
       "sportsdata_id": "0b430e60-2928-11f0-bd0c-e93618a2a03b",
       "tier": 13
@@ -8574,7 +8574,7 @@
       "player_team_id": "TB",
       "player_yahoo_id": "42668",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB59",
+      "pos_rank": "LB60",
       "rank_ecr": 376,
       "sportsdata_id": "58320436-f09f-41b8-9179-4076cd3e136b"
     },
@@ -8642,7 +8642,7 @@
       "player_team_id": "DET",
       "player_yahoo_id": "40067",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S144",
+      "pos_rank": "S143",
       "rank_ecr": 379,
       "sportsdata_id": "3e01cc5d-ca6c-4604-a6c1-249a1aa9df3a",
       "tier": 5
@@ -8665,7 +8665,7 @@
       "player_team_id": "PIT",
       "player_yahoo_id": "31160",
       "player_yahoo_positions": "S",
-      "pos_rank": "S145",
+      "pos_rank": "S144",
       "rank_ecr": 380,
       "sportsdata_id": "83128a20-392f-4ca7-878e-689c6e6dfbfc",
       "tier": 5
@@ -8688,7 +8688,7 @@
       "player_team_id": "IND",
       "player_yahoo_id": "31318",
       "player_yahoo_positions": "S",
-      "pos_rank": "S146",
+      "pos_rank": "S145",
       "rank_ecr": 381,
       "sportsdata_id": "411c2af8-64c9-4982-8d72-3ba4c683c0db",
       "tier": 13
@@ -8755,7 +8755,7 @@
       "player_team_id": "GB",
       "player_yahoo_id": "33400",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB60",
+      "pos_rank": "LB61",
       "rank_ecr": 384,
       "sportsdata_id": "b4eab0bf-9e1f-43f8-912f-d33ac517bc46"
     },
@@ -8777,7 +8777,7 @@
       "player_team_id": "NE",
       "player_yahoo_id": "33778",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB61",
+      "pos_rank": "LB62",
       "rank_ecr": 385,
       "sportsdata_id": "c3ef92f7-29f7-43db-bbef-4e9875d756e9"
     },
@@ -8799,7 +8799,7 @@
       "player_team_id": "TEN",
       "player_yahoo_id": "32774",
       "player_yahoo_positions": "S",
-      "pos_rank": "S147",
+      "pos_rank": "S146",
       "rank_ecr": 386,
       "sportsdata_id": "b222de39-0a5e-4bbe-b239-083a500194bb",
       "tier": 13
@@ -8888,7 +8888,7 @@
       "player_team_id": "BUF",
       "player_yahoo_id": "42066",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB62",
+      "pos_rank": "LB63",
       "rank_ecr": 390,
       "sportsdata_id": "10cef890-230a-11f0-96b2-7337577f8157",
       "tier": 13
@@ -8957,7 +8957,7 @@
       "player_team_id": "BUF",
       "player_yahoo_id": "40912",
       "player_yahoo_positions": "S",
-      "pos_rank": "S148",
+      "pos_rank": "S147",
       "rank_ecr": 393,
       "sportsdata_id": "9098b52a-bc60-4a3d-9eaa-4611966a576e",
       "tier": 4
@@ -9003,7 +9003,7 @@
       "player_team_id": "BAL",
       "player_yahoo_id": "41908",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB63",
+      "pos_rank": "LB64",
       "rank_ecr": 395,
       "sportsdata_id": "3dbb3f2f-f605-4a09-bced-2c45d985c994"
     },
@@ -9092,7 +9092,7 @@
       "player_team_id": "CLE",
       "player_yahoo_id": "32714",
       "player_yahoo_positions": "S",
-      "pos_rank": "S149",
+      "pos_rank": "S148",
       "rank_ecr": 399,
       "sportsdata_id": "1bbe7ce0-3707-4d4d-b8f6-7577008f1763",
       "tier": 5
@@ -9115,7 +9115,7 @@
       "player_team_id": "CAR",
       "player_yahoo_id": "31921",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB64",
+      "pos_rank": "LB65",
       "rank_ecr": 400,
       "sportsdata_id": "6c338c70-42d9-4d35-bf87-04fe7e2f690a"
     },
@@ -9181,7 +9181,7 @@
       "player_team_id": "PIT",
       "player_yahoo_id": "42846",
       "player_yahoo_positions": "S",
-      "pos_rank": "S150",
+      "pos_rank": "S149",
       "rank_ecr": 403,
       "sportsdata_id": "6106f504-8af8-46a6-9960-95cbfb3f6aef",
       "tier": 13
@@ -9319,7 +9319,7 @@
       "player_team_id": "LV",
       "player_yahoo_id": "42788",
       "player_yahoo_positions": "S",
-      "pos_rank": "S151",
+      "pos_rank": "S150",
       "rank_ecr": 409,
       "sportsdata_id": "d817af4e-30fb-4904-adea-4bf9b960d5d1",
       "tier": 13
@@ -9342,7 +9342,7 @@
       "player_team_id": "LV",
       "player_yahoo_id": "34602",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S152",
+      "pos_rank": "S151",
       "rank_ecr": 410,
       "sportsdata_id": "151a3910-c966-11ec-9af6-61153bad5574",
       "tier": 13
@@ -9457,7 +9457,7 @@
       "player_team_id": "SF",
       "player_yahoo_id": "40997",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S153",
+      "pos_rank": "S152",
       "rank_ecr": 415,
       "sportsdata_id": "b9500cb3-e259-4d5e-a75c-66b2611c0454",
       "tier": 5
@@ -9503,7 +9503,7 @@
       "player_team_id": "SF",
       "player_yahoo_id": "32738",
       "player_yahoo_positions": "S",
-      "pos_rank": "S154",
+      "pos_rank": "S153",
       "rank_ecr": 417,
       "sportsdata_id": "7d491979-7d1b-4b55-9f3a-f68db22d8bb1",
       "tier": 13
@@ -9526,7 +9526,7 @@
       "player_team_id": "NYG",
       "player_yahoo_id": "40935",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S155",
+      "pos_rank": "S154",
       "rank_ecr": 418,
       "sportsdata_id": "be2b6a6f-0e18-4394-a681-d414a3a306b8",
       "tier": 5
@@ -9572,7 +9572,7 @@
       "player_team_id": "WAS",
       "player_yahoo_id": "34069",
       "player_yahoo_positions": "S",
-      "pos_rank": "S156",
+      "pos_rank": "S155",
       "rank_ecr": 420,
       "sportsdata_id": "5f70ae1d-2014-4f95-b0f5-26c9d4920ccc",
       "tier": 13
@@ -9595,7 +9595,7 @@
       "player_team_id": "NO",
       "player_yahoo_id": "42800",
       "player_yahoo_positions": "S",
-      "pos_rank": "S157",
+      "pos_rank": "S156",
       "rank_ecr": 421,
       "sportsdata_id": "e4081e40-ea80-4a5e-b8a3-57d8f9492d25",
       "tier": 14
@@ -9662,7 +9662,7 @@
       "player_team_id": "TEN",
       "player_yahoo_id": "42682",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB65",
+      "pos_rank": "LB66",
       "rank_ecr": 424,
       "sportsdata_id": "ae7f0bc0-acad-4089-8579-54822b07d8e1"
     },
@@ -9707,7 +9707,7 @@
       "player_team_id": "FA",
       "player_yahoo_id": "34624",
       "player_yahoo_positions": "LB,S",
-      "pos_rank": "S158",
+      "pos_rank": "S157",
       "rank_ecr": 426,
       "sportsdata_id": null,
       "tier": 14
@@ -9730,7 +9730,7 @@
       "player_team_id": "ARI",
       "player_yahoo_id": "42016",
       "player_yahoo_positions": "S",
-      "pos_rank": "S159",
+      "pos_rank": "S158",
       "rank_ecr": 427,
       "sportsdata_id": "4c752c92-6699-40b0-b436-035f152af376",
       "tier": 14
@@ -9798,7 +9798,7 @@
       "player_team_id": "GB",
       "player_yahoo_id": "41035",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S160",
+      "pos_rank": "S159",
       "rank_ecr": 430,
       "sportsdata_id": "abc5dadd-fe68-4a0e-8b64-6b6ca2717858",
       "tier": 14
@@ -9821,7 +9821,7 @@
       "player_team_id": "CIN",
       "player_yahoo_id": "41358",
       "player_yahoo_positions": "S",
-      "pos_rank": "S161",
+      "pos_rank": "S160",
       "rank_ecr": 431,
       "sportsdata_id": "3a9818a0-0727-11ef-a006-5971d281be7d",
       "tier": 14
@@ -9935,7 +9935,7 @@
       "player_team_id": "NO",
       "player_yahoo_id": "33448",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB66",
+      "pos_rank": "LB67",
       "rank_ecr": 436,
       "sportsdata_id": "09bdc469-0d82-4bce-8d49-810a44a550da"
     },
@@ -9957,7 +9957,7 @@
       "player_team_id": "IND",
       "player_yahoo_id": "33513",
       "player_yahoo_positions": "S",
-      "pos_rank": "S162",
+      "pos_rank": "S161",
       "rank_ecr": 437,
       "sportsdata_id": "450f301e-e19b-4111-a6be-4bb20fbf7f2a",
       "tier": 5
@@ -10071,7 +10071,7 @@
       "player_team_id": "GB",
       "player_yahoo_id": "41007",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S163",
+      "pos_rank": "S162",
       "rank_ecr": 442,
       "sportsdata_id": "8fbc9bcf-c367-46bc-8017-ce87e84aeaff",
       "tier": 5
@@ -10117,7 +10117,7 @@
       "player_team_id": "LAR",
       "player_yahoo_id": "40389",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S164",
+      "pos_rank": "S163",
       "rank_ecr": 444,
       "sportsdata_id": "99d4bd70-e84f-11ed-bf28-3f40de530c54",
       "tier": 14
@@ -10140,7 +10140,7 @@
       "player_team_id": "TEN",
       "player_yahoo_id": "31920",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB67",
+      "pos_rank": "LB68",
       "rank_ecr": 445,
       "sportsdata_id": "577dfac0-3f0b-45ee-afff-c851c6aebb1e"
     },
@@ -10207,7 +10207,7 @@
       "player_team_id": "BUF",
       "player_yahoo_id": "31948",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S165",
+      "pos_rank": "S164",
       "rank_ecr": 448,
       "sportsdata_id": "aac96096-362f-4254-952a-5b3b04472f19",
       "tier": 5
@@ -10297,7 +10297,7 @@
       "player_team_id": "PHI",
       "player_yahoo_id": "43162",
       "player_yahoo_positions": "S",
-      "pos_rank": "S166",
+      "pos_rank": "S165",
       "rank_ecr": 452,
       "sportsdata_id": "191b3600-42ba-11f1-b015-6d5e50d45356",
       "tier": 14
@@ -10320,7 +10320,7 @@
       "player_team_id": "PHI",
       "player_yahoo_id": "41384",
       "player_yahoo_positions": "S",
-      "pos_rank": "S167",
+      "pos_rank": "S166",
       "rank_ecr": 453,
       "sportsdata_id": "9d76b520-072d-11ef-a877-6b032c0eabad",
       "tier": 14
@@ -10366,7 +10366,7 @@
       "player_team_id": "FA",
       "player_yahoo_id": "31937",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S168",
+      "pos_rank": "S167",
       "rank_ecr": 455,
       "sportsdata_id": "5fb6e9f1-2efa-44c9-876f-4d635484be88",
       "tier": 5
@@ -10412,7 +10412,7 @@
       "player_team_id": "HOU",
       "player_yahoo_id": "34376",
       "player_yahoo_positions": "S",
-      "pos_rank": "S169",
+      "pos_rank": "S168",
       "rank_ecr": 457,
       "sportsdata_id": "f67efd90-ce17-11ec-bebb-4fec1e38b0e5",
       "tier": 5
@@ -10435,7 +10435,7 @@
       "player_team_id": "BUF",
       "player_yahoo_id": "30975",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB68",
+      "pos_rank": "LB69",
       "rank_ecr": 458,
       "sportsdata_id": "66313049-299d-4e58-beb9-8e051ab6548a"
     },
@@ -10480,7 +10480,7 @@
       "player_team_id": "CIN",
       "player_yahoo_id": "34018",
       "player_yahoo_positions": "S",
-      "pos_rank": "S170",
+      "pos_rank": "S169",
       "rank_ecr": 460,
       "sportsdata_id": "21a56bce-7c06-44d7-b641-99f499111739",
       "tier": 7
@@ -10503,7 +10503,7 @@
       "player_team_id": "DAL",
       "player_yahoo_id": "31844",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB69",
+      "pos_rank": "LB70",
       "rank_ecr": 461,
       "sportsdata_id": "99847f76-5bf2-4cbe-8573-9a477f7fb472"
     },
@@ -10638,7 +10638,7 @@
       "player_team_id": "WAS",
       "player_yahoo_id": "41222",
       "player_yahoo_positions": "S",
-      "pos_rank": "S171",
+      "pos_rank": "S170",
       "rank_ecr": 467,
       "sportsdata_id": "782d0d60-0655-11ef-bea4-a5fd3793027b",
       "tier": 14
@@ -10661,7 +10661,7 @@
       "player_team_id": "MIN",
       "player_yahoo_id": "42920",
       "player_yahoo_positions": "S",
-      "pos_rank": "S172",
+      "pos_rank": "S171",
       "rank_ecr": 468,
       "sportsdata_id": "4d4f66c0-41a3-11f1-a352-c13b6429c211",
       "tier": 14
@@ -10843,7 +10843,7 @@
       "player_team_id": "KC",
       "player_yahoo_id": "43123",
       "player_yahoo_positions": "S",
-      "pos_rank": "S173",
+      "pos_rank": "S172",
       "rank_ecr": 476,
       "sportsdata_id": "554515e0-4294-11f1-8189-7d44b99d6999",
       "tier": 14
@@ -10866,7 +10866,7 @@
       "player_team_id": "ARI",
       "player_yahoo_id": "42981",
       "player_yahoo_positions": "S",
-      "pos_rank": "S174",
+      "pos_rank": "S173",
       "rank_ecr": 477,
       "sportsdata_id": "b8189f60-4259-11f1-95c1-a74e41699e98",
       "tier": 14
@@ -10912,7 +10912,7 @@
       "player_team_id": "CAR",
       "player_yahoo_id": "32075",
       "player_yahoo_positions": "S",
-      "pos_rank": "S175",
+      "pos_rank": "S174",
       "rank_ecr": 479,
       "sportsdata_id": "4d383922-53ab-48f8-bb8a-29176ea3ffbc",
       "tier": 7
@@ -11004,7 +11004,7 @@
       "player_team_id": "KC",
       "player_yahoo_id": "32856",
       "player_yahoo_positions": "S",
-      "pos_rank": "S176",
+      "pos_rank": "S175",
       "rank_ecr": 483,
       "sportsdata_id": "f3a7ab39-ead2-4dbf-b760-d652b8a26853",
       "tier": 7
@@ -11050,7 +11050,7 @@
       "player_team_id": "BAL",
       "player_yahoo_id": "41812",
       "player_yahoo_positions": "S",
-      "pos_rank": "S177",
+      "pos_rank": "S176",
       "rank_ecr": 485,
       "sportsdata_id": "5a92d12b-a8df-47fb-9d07-93a042702a36",
       "tier": 6
@@ -11096,7 +11096,7 @@
       "player_team_id": "MIA",
       "player_yahoo_id": "41400",
       "player_yahoo_positions": "S",
-      "pos_rank": "S178",
+      "pos_rank": "S177",
       "rank_ecr": 487,
       "sportsdata_id": "a7011ca0-072f-11ef-aee1-63cc61868faa",
       "tier": 14
@@ -11188,7 +11188,7 @@
       "player_team_id": "DEN",
       "player_yahoo_id": "40230",
       "player_yahoo_positions": "S",
-      "pos_rank": "S179",
+      "pos_rank": "S178",
       "rank_ecr": 491,
       "sportsdata_id": "ad57b64a-befa-40fd-ae40-9c438ced7ea2",
       "tier": 14
@@ -11211,7 +11211,7 @@
       "player_team_id": "NO",
       "player_yahoo_id": "31038",
       "player_yahoo_positions": "S",
-      "pos_rank": "S180",
+      "pos_rank": "S179",
       "rank_ecr": 492,
       "sportsdata_id": "bb9db665-7f9f-425d-9e4b-df78c65c8b97",
       "tier": 7
@@ -11234,7 +11234,7 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "40248",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S181",
+      "pos_rank": "S180",
       "rank_ecr": 493,
       "sportsdata_id": "1fc883fc-46f4-403d-aff6-7d6018d7a718",
       "tier": 14
@@ -11257,7 +11257,7 @@
       "player_team_id": "DAL",
       "player_yahoo_id": "",
       "player_yahoo_positions": null,
-      "pos_rank": "S182",
+      "pos_rank": "S181",
       "rank_ecr": 494,
       "sportsdata_id": "546a44e0-d314-11ec-8b77-45b1765fd110",
       "tier": 14
@@ -11280,7 +11280,7 @@
       "player_team_id": "IND",
       "player_yahoo_id": "43163",
       "player_yahoo_positions": "S",
-      "pos_rank": "S183",
+      "pos_rank": "S182",
       "rank_ecr": 495,
       "sportsdata_id": "d246e300-42b9-11f1-8e20-218fdf46acf6",
       "tier": 14
@@ -11372,7 +11372,7 @@
       "player_team_id": "BUF",
       "player_yahoo_id": "33137",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "LB70",
+      "pos_rank": "LB71",
       "rank_ecr": 499,
       "sportsdata_id": "3b1bb0da-607a-4502-8855-8ab5095334da",
       "tier": 14
@@ -11441,7 +11441,7 @@
       "player_team_id": "NO",
       "player_yahoo_id": "32755",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S184",
+      "pos_rank": "S183",
       "rank_ecr": 502,
       "sportsdata_id": "c2ec4712-147c-49b1-b6ec-fdb298913080",
       "tier": 7
@@ -11464,7 +11464,7 @@
       "player_team_id": "CHI",
       "player_yahoo_id": "34210",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S185",
+      "pos_rank": "S184",
       "rank_ecr": 503,
       "sportsdata_id": "85ad179c-3812-4070-a6eb-28f33b9b2d0d",
       "tier": 15
@@ -11487,7 +11487,7 @@
       "player_team_id": "NYG",
       "player_yahoo_id": "31451",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S186",
+      "pos_rank": "S185",
       "rank_ecr": 504,
       "sportsdata_id": "98166be9-2705-496d-ae1c-3bbcc2fe60bb",
       "tier": 15
@@ -11533,7 +11533,7 @@
       "player_team_id": "CLE",
       "player_yahoo_id": "42083",
       "player_yahoo_positions": "S",
-      "pos_rank": "S187",
+      "pos_rank": "S186",
       "rank_ecr": 506,
       "sportsdata_id": "2c001bf0-2317-11f0-aeaa-cdcf4993617b",
       "tier": 15
@@ -11625,7 +11625,7 @@
       "player_team_id": "CLE",
       "player_yahoo_id": "32827",
       "player_yahoo_positions": "S",
-      "pos_rank": "S188",
+      "pos_rank": "S187",
       "rank_ecr": 510,
       "sportsdata_id": "15a6249f-f4cf-47c2-8251-8a3a802b3db0",
       "tier": 15
@@ -11648,7 +11648,7 @@
       "player_team_id": "NYJ",
       "player_yahoo_id": "34070",
       "player_yahoo_positions": "S",
-      "pos_rank": "S189",
+      "pos_rank": "S188",
       "rank_ecr": 511,
       "sportsdata_id": "08696187-da1c-41d4-b156-9a9f844e4167",
       "tier": 7
@@ -11763,7 +11763,7 @@
       "player_team_id": "DAL",
       "player_yahoo_id": "42157",
       "player_yahoo_positions": "S",
-      "pos_rank": "S190",
+      "pos_rank": "S189",
       "rank_ecr": 516,
       "sportsdata_id": "503614b0-243a-11f0-a456-558ce379768a",
       "tier": 15
@@ -11831,7 +11831,7 @@
       "player_team_id": "NE",
       "player_yahoo_id": "34429",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S191",
+      "pos_rank": "S190",
       "rank_ecr": 519,
       "sportsdata_id": "711a03f0-cfea-11ec-8762-8dfa2bbad12c",
       "tier": 15
@@ -11900,7 +11900,7 @@
       "player_team_id": "NYJ",
       "player_yahoo_id": "42850",
       "player_yahoo_positions": "S",
-      "pos_rank": "S192",
+      "pos_rank": "S191",
       "rank_ecr": 522,
       "sportsdata_id": "f66aa70b-803d-413c-ad5d-13358c100244",
       "tier": 15
@@ -11992,7 +11992,7 @@
       "player_team_id": "MIN",
       "player_yahoo_id": "30119",
       "player_yahoo_positions": "LB",
-      "pos_rank": "S193",
+      "pos_rank": "S192",
       "rank_ecr": 526,
       "sportsdata_id": "1a92b0ad-3eb2-4df3-bf02-04c4d9ffe10c",
       "tier": 15
@@ -12152,7 +12152,7 @@
       "player_team_id": "JAC",
       "player_yahoo_id": "40166",
       "player_yahoo_positions": "S",
-      "pos_rank": "S194",
+      "pos_rank": "S193",
       "rank_ecr": 533,
       "sportsdata_id": "078c2a41-ec84-4425-b64e-8d92cee16305",
       "tier": 6
@@ -12290,7 +12290,7 @@
       "player_team_id": "CIN",
       "player_yahoo_id": "33986",
       "player_yahoo_positions": "S,CB",
-      "pos_rank": "S195",
+      "pos_rank": "S194",
       "rank_ecr": 539,
       "sportsdata_id": "46b69ef9-920c-4645-abf7-139738e3fd9c",
       "tier": 6
@@ -12358,7 +12358,7 @@
       "player_team_id": "ARI",
       "player_yahoo_id": "34454",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB71",
+      "pos_rank": "LB72",
       "rank_ecr": 542,
       "sportsdata_id": "aa030100-cca0-11ec-80d0-652593cc1bb6"
     },
@@ -12426,7 +12426,7 @@
       "player_team_id": "NO",
       "player_yahoo_id": "41879",
       "player_yahoo_positions": "S",
-      "pos_rank": "S196",
+      "pos_rank": "S195",
       "rank_ecr": 545,
       "sportsdata_id": "910ab530-d255-47be-b041-135ee92b1abf",
       "tier": 6
@@ -12471,7 +12471,7 @@
       "player_team_id": "PIT",
       "player_yahoo_id": "40139",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB72",
+      "pos_rank": "LB73",
       "rank_ecr": 547,
       "sportsdata_id": "59b7b521-a0be-4ee5-8809-362601c2c80e"
     },
@@ -12493,7 +12493,7 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "27533",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB73",
+      "pos_rank": "LB74",
       "rank_ecr": 548,
       "sportsdata_id": "33c74bf8-7621-48be-a769-e219703988d9"
     },
@@ -12537,7 +12537,7 @@
       "player_team_id": "NE",
       "player_yahoo_id": "41897",
       "player_yahoo_positions": "S",
-      "pos_rank": "S197",
+      "pos_rank": "S196",
       "rank_ecr": 550,
       "sportsdata_id": "2ed92c83-4e76-4632-abb8-704a2c6c6a2c",
       "tier": 7
@@ -12582,7 +12582,7 @@
       "player_team_id": "PHI",
       "player_yahoo_id": "40968",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB74",
+      "pos_rank": "LB75",
       "rank_ecr": 552,
       "sportsdata_id": "b779251c-3250-405f-ae4a-3cadbf6925d9"
     },
@@ -12604,7 +12604,7 @@
       "player_team_id": "MIA",
       "player_yahoo_id": "41941",
       "player_yahoo_positions": "S",
-      "pos_rank": "S198",
+      "pos_rank": "S197",
       "rank_ecr": 553,
       "sportsdata_id": "a4eabafc-a847-4a0d-8f67-28d3b422c14f",
       "tier": 7
@@ -12650,7 +12650,7 @@
       "player_team_id": "ARI",
       "player_yahoo_id": "32105",
       "player_yahoo_positions": "S",
-      "pos_rank": "S199",
+      "pos_rank": "S198",
       "rank_ecr": 555,
       "sportsdata_id": "65e778fa-4639-4973-bb82-c76efa2ff309",
       "tier": 7
@@ -12739,7 +12739,7 @@
       "player_team_id": "LAR",
       "player_yahoo_id": "40973",
       "player_yahoo_positions": "S",
-      "pos_rank": "S200",
+      "pos_rank": "S199",
       "rank_ecr": 559,
       "sportsdata_id": "c4c31524-3ac6-4337-bd99-4085f92d4a13",
       "tier": 6
@@ -12762,7 +12762,7 @@
       "player_team_id": "CHI",
       "player_yahoo_id": "41042",
       "player_yahoo_positions": "DL,DE",
-      "pos_rank": "LB75",
+      "pos_rank": "LB76",
       "rank_ecr": 560,
       "sportsdata_id": "e062739b-9948-47aa-aa50-604483c45b8b"
     },
@@ -12784,7 +12784,7 @@
       "player_team_id": "DET",
       "player_yahoo_id": "31837",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB76",
+      "pos_rank": "LB77",
       "rank_ecr": 561,
       "sportsdata_id": "37849d01-7d7e-4a35-8840-e17cacd73d85"
     },
@@ -12919,7 +12919,7 @@
       "player_team_id": "IND",
       "player_yahoo_id": "42757",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB77",
+      "pos_rank": "LB78",
       "rank_ecr": 567,
       "sportsdata_id": "8ee9120d-e919-4749-9c17-6f78f6e673c1"
     },
@@ -12985,7 +12985,7 @@
       "player_team_id": "SEA",
       "player_yahoo_id": "40469",
       "player_yahoo_positions": "S",
-      "pos_rank": "S201",
+      "pos_rank": "S200",
       "rank_ecr": 570,
       "sportsdata_id": "2be7e030-ea16-11ed-8d34-41182339b277",
       "tier": 8
@@ -13008,7 +13008,7 @@
       "player_team_id": "BUF",
       "player_yahoo_id": "42748",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB78",
+      "pos_rank": "LB79",
       "rank_ecr": 571,
       "sportsdata_id": "a3515518-82a0-4c3f-b5d2-bb1ae0810298"
     },
@@ -13042,17 +13042,17 @@
       "player_filename": "kendal-daniels.php",
       "player_id": 28290,
       "player_name": "Kendal Daniels",
-      "player_owned_avg": 9.5,
-      "player_owned_espn": 5.1,
-      "player_owned_yahoo": 21,
+      "player_owned_avg": 0,
+      "player_owned_espn": 0,
+      "player_owned_yahoo": 0,
       "player_page_url": "https://www.fantasypros.com/nfl/players/kendal-daniels.php",
-      "player_position_id": "S",
-      "player_positions": "S",
+      "player_position_id": "LB",
+      "player_positions": "LB",
       "player_short_name": "K. Daniels",
       "player_team_id": "ATL",
       "player_yahoo_id": "42756",
       "player_yahoo_positions": "LB",
-      "pos_rank": "S202",
+      "pos_rank": "LB80",
       "rank_ecr": 573,
       "sportsdata_id": "268ce1f0-3ddd-4c15-80a8-0d6c1b6fbafa",
       "tier": 9
@@ -13075,7 +13075,7 @@
       "player_team_id": "LAR",
       "player_yahoo_id": "41449",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB79",
+      "pos_rank": "LB81",
       "rank_ecr": 574,
       "sportsdata_id": "c24e8e40-07c3-11ef-b253-11c65affe8a4"
     },
@@ -13097,7 +13097,7 @@
       "player_team_id": "NYG",
       "player_yahoo_id": "33424",
       "player_yahoo_positions": "S",
-      "pos_rank": "S203",
+      "pos_rank": "S201",
       "rank_ecr": 575,
       "sportsdata_id": "30915dd4-f19f-48cd-8425-f2cf29246b66",
       "tier": 6
@@ -13120,7 +13120,7 @@
       "player_team_id": "WAS",
       "player_yahoo_id": "34059",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB80",
+      "pos_rank": "LB82",
       "rank_ecr": 576,
       "sportsdata_id": "c7929fb3-5437-42cc-a3c2-10b73ebb1fa0"
     },
@@ -13142,7 +13142,7 @@
       "player_team_id": "NE",
       "player_yahoo_id": "31011",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB81",
+      "pos_rank": "LB83",
       "rank_ecr": 577,
       "sportsdata_id": "60d5e71e-e127-463b-8e6b-26a7dac3db76"
     },
@@ -13231,7 +13231,7 @@
       "player_team_id": "PHI",
       "player_yahoo_id": "41849",
       "player_yahoo_positions": "S",
-      "pos_rank": "S204",
+      "pos_rank": "S202",
       "rank_ecr": 581,
       "sportsdata_id": "0cb34ce3-42de-42d3-88a4-d242e43b2e34",
       "tier": 7
@@ -13277,7 +13277,7 @@
       "player_team_id": "CLE",
       "player_yahoo_id": "40597",
       "player_yahoo_positions": "S",
-      "pos_rank": "S205",
+      "pos_rank": "S203",
       "rank_ecr": 583,
       "sportsdata_id": "3e601120-ec77-11ed-b8b6-ffd66a389c6b",
       "tier": 7
@@ -13345,7 +13345,7 @@
       "player_team_id": "SF",
       "player_yahoo_id": "41123",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB82",
+      "pos_rank": "LB84",
       "rank_ecr": 586,
       "sportsdata_id": "5eb6ff1f-98c2-499b-9d11-37c3d1173993"
     },
@@ -13367,7 +13367,7 @@
       "player_team_id": "WAS",
       "player_yahoo_id": "31582",
       "player_yahoo_positions": "S",
-      "pos_rank": "S206",
+      "pos_rank": "S204",
       "rank_ecr": 587,
       "sportsdata_id": "186a4bda-d3b3-48c1-8ed7-cb4ad1014062",
       "tier": 8
@@ -13436,7 +13436,7 @@
       "player_team_id": "TB",
       "player_yahoo_id": "33261",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB83",
+      "pos_rank": "LB85",
       "rank_ecr": 590,
       "sportsdata_id": "49abd11f-fe2b-4d15-99ed-f316d2ec67e1"
     },
@@ -13458,7 +13458,7 @@
       "player_team_id": "SEA",
       "player_yahoo_id": "31018",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB84",
+      "pos_rank": "LB86",
       "rank_ecr": 591,
       "sportsdata_id": "40941261-cfd0-4e8d-b895-21fb7e20b407"
     },
@@ -13480,7 +13480,7 @@
       "player_team_id": "BUF",
       "player_yahoo_id": "40098",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB85",
+      "pos_rank": "LB87",
       "rank_ecr": 592,
       "sportsdata_id": "2d51bf60-ea75-4142-a00a-8b152a91e59f"
     },
@@ -13502,7 +13502,7 @@
       "player_team_id": "HOU",
       "player_yahoo_id": "40948",
       "player_yahoo_positions": "S",
-      "pos_rank": "S207",
+      "pos_rank": "S205",
       "rank_ecr": 593,
       "sportsdata_id": "f53fd561-f47b-4db2-8318-022246e447ae",
       "tier": 7
@@ -13640,7 +13640,7 @@
       "player_team_id": "GB",
       "player_yahoo_id": "40937",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S208",
+      "pos_rank": "S206",
       "rank_ecr": 599,
       "sportsdata_id": "0bf54af0-cd8f-48ac-96b9-b742562a3e53",
       "tier": 8
@@ -13686,7 +13686,7 @@
       "player_team_id": "LV",
       "player_yahoo_id": "34556",
       "player_yahoo_positions": "S",
-      "pos_rank": "S209",
+      "pos_rank": "S207",
       "rank_ecr": 601,
       "sportsdata_id": "03dc3660-d3a9-11ec-96a0-c3471a31202c",
       "tier": 8
@@ -13709,7 +13709,7 @@
       "player_team_id": "DAL",
       "player_yahoo_id": "41938",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB86",
+      "pos_rank": "LB88",
       "rank_ecr": 602,
       "sportsdata_id": "5c012614-be18-4d9f-8134-112e40e5f54f"
     },
@@ -13800,7 +13800,7 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "28436",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB87",
+      "pos_rank": "LB89",
       "rank_ecr": 606,
       "sportsdata_id": "9fc6e49f-c863-419d-9dca-8f0da3f3c9c7"
     },
@@ -13822,7 +13822,7 @@
       "player_team_id": "ATL",
       "player_yahoo_id": "34031",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB88",
+      "pos_rank": "LB90",
       "rank_ecr": 607,
       "sportsdata_id": "54bd7952-4bec-4b5a-beb0-d65421408293"
     },
@@ -13844,7 +13844,7 @@
       "player_team_id": "TB",
       "player_yahoo_id": "40194",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB89",
+      "pos_rank": "LB91",
       "rank_ecr": 608,
       "sportsdata_id": "c5a8f0e1-b5ff-4018-b4da-3676ac12207e"
     },
@@ -13866,7 +13866,7 @@
       "player_team_id": "WAS",
       "player_yahoo_id": "40087",
       "player_yahoo_positions": "DB,S,CB",
-      "pos_rank": "S210",
+      "pos_rank": "S208",
       "rank_ecr": 609,
       "sportsdata_id": "e52e1ff1-7a48-4b89-84c1-35841460ab0d",
       "tier": 9
@@ -13912,7 +13912,7 @@
       "player_team_id": "BUF",
       "player_yahoo_id": "32889",
       "player_yahoo_positions": "S",
-      "pos_rank": "S211",
+      "pos_rank": "S209",
       "rank_ecr": 611,
       "sportsdata_id": "95f3b8ac-e10f-4f0d-8650-b464b37ded86",
       "tier": 9
@@ -13980,7 +13980,7 @@
       "player_team_id": "ARI",
       "player_yahoo_id": "40999",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S212",
+      "pos_rank": "S210",
       "rank_ecr": 614,
       "sportsdata_id": "ed59f931-fb26-4809-b862-a29fb7825942",
       "tier": 7
@@ -14025,7 +14025,7 @@
       "player_team_id": "DEN",
       "player_yahoo_id": "32848",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB90",
+      "pos_rank": "LB92",
       "rank_ecr": 616,
       "sportsdata_id": "f8f0760e-8f04-45bf-9371-fa33c945bc1c"
     },
@@ -14116,7 +14116,7 @@
       "player_team_id": "SF",
       "player_yahoo_id": "40106",
       "player_yahoo_positions": "S",
-      "pos_rank": "S213",
+      "pos_rank": "S211",
       "rank_ecr": 620,
       "sportsdata_id": "626586f3-5706-443e-a272-c6d9e6239784",
       "tier": 7
@@ -14139,7 +14139,7 @@
       "player_team_id": "DAL",
       "player_yahoo_id": "42714",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB91",
+      "pos_rank": "LB93",
       "rank_ecr": 621,
       "sportsdata_id": "d90c5cda-3e46-4f95-af0c-c06c7ac6ea32"
     },
@@ -14161,7 +14161,7 @@
       "player_team_id": "DET",
       "player_yahoo_id": "33501",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB92",
+      "pos_rank": "LB94",
       "rank_ecr": 622,
       "sportsdata_id": "16c53e66-de15-43da-931c-bf3a3e056505"
     },
@@ -14206,7 +14206,7 @@
       "player_team_id": "TEN",
       "player_yahoo_id": "41112",
       "player_yahoo_positions": "LB",
-      "pos_rank": "S214",
+      "pos_rank": "S212",
       "rank_ecr": 624,
       "sportsdata_id": "3c58378b-d327-4d25-b2b9-1aead2975bcb",
       "tier": 10
@@ -14343,7 +14343,7 @@
       "player_team_id": "FA",
       "player_yahoo_id": "32735",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB93",
+      "pos_rank": "LB95",
       "rank_ecr": 630,
       "sportsdata_id": "05cb1d47-3517-4410-a61b-75adabbfb910"
     },
@@ -14434,7 +14434,7 @@
       "player_team_id": "FA",
       "player_yahoo_id": "25768",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB94",
+      "pos_rank": "LB96",
       "rank_ecr": 634,
       "sportsdata_id": "9a612961-9fdf-47d0-b7ca-32b55adb1f61"
     },
@@ -14456,7 +14456,7 @@
       "player_team_id": "NO",
       "player_yahoo_id": "41914",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB95",
+      "pos_rank": "LB97",
       "rank_ecr": 635,
       "sportsdata_id": "1dea6eaf-2631-4fa0-80a8-476bbd93af92"
     },
@@ -14478,7 +14478,7 @@
       "player_team_id": "CLE",
       "player_yahoo_id": "41367",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB96",
+      "pos_rank": "LB98",
       "rank_ecr": 636,
       "sportsdata_id": "f3790430-072a-11ef-a3a3-25be50b73d84"
     },
@@ -14500,7 +14500,7 @@
       "player_team_id": "ATL",
       "player_yahoo_id": "41911",
       "player_yahoo_positions": "S",
-      "pos_rank": "S215",
+      "pos_rank": "S213",
       "rank_ecr": 637,
       "sportsdata_id": "4f423d1f-622b-45e7-a8c7-18d37d27978b",
       "tier": 9
@@ -14591,7 +14591,7 @@
       "player_team_id": "BAL",
       "player_yahoo_id": "30226",
       "player_yahoo_positions": "S",
-      "pos_rank": "S216",
+      "pos_rank": "S214",
       "rank_ecr": 641,
       "sportsdata_id": "18f174c9-a956-4c14-bd23-9e799fef6dc7",
       "tier": 10
@@ -14660,7 +14660,7 @@
       "player_team_id": "MIN",
       "player_yahoo_id": "42673",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB97",
+      "pos_rank": "LB99",
       "rank_ecr": 644,
       "sportsdata_id": "a305134e-4758-4b7f-a59a-44be06d4f7e0"
     },
@@ -14705,7 +14705,7 @@
       "player_team_id": "DET",
       "player_yahoo_id": "34053",
       "player_yahoo_positions": "S",
-      "pos_rank": "S217",
+      "pos_rank": "S215",
       "rank_ecr": 646,
       "sportsdata_id": "2e49dfd3-44e3-4554-a81c-de2f53460cc7",
       "tier": 7
@@ -14840,7 +14840,7 @@
       "player_team_id": "DET",
       "player_yahoo_id": "34144",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB98",
+      "pos_rank": "LB100",
       "rank_ecr": 652,
       "sportsdata_id": "654b6b85-44e3-4a6e-a7ff-ebcdaa49fe51"
     },
@@ -14951,7 +14951,7 @@
       "player_team_id": "MIA",
       "player_yahoo_id": "42787",
       "player_yahoo_positions": "S",
-      "pos_rank": "S218",
+      "pos_rank": "S216",
       "rank_ecr": 657,
       "sportsdata_id": "4977558a-22f9-4e38-bf83-190bb751de15",
       "tier": 10
@@ -14974,7 +14974,7 @@
       "player_team_id": "FA",
       "player_yahoo_id": "28472",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB99",
+      "pos_rank": "LB101",
       "rank_ecr": 658,
       "sportsdata_id": "4f090881-03fc-4a34-b02f-fd1df1e411de"
     },
@@ -15018,7 +15018,7 @@
       "player_team_id": "PHI",
       "player_yahoo_id": "42866",
       "player_yahoo_positions": "S",
-      "pos_rank": "S219",
+      "pos_rank": "S217",
       "rank_ecr": 660,
       "sportsdata_id": "73f21d98-4c7f-4725-9a83-1a75f207a8ed",
       "tier": 15
@@ -15041,7 +15041,7 @@
       "player_team_id": "PHI",
       "player_yahoo_id": "32023",
       "player_yahoo_positions": "S",
-      "pos_rank": "S220",
+      "pos_rank": "S218",
       "rank_ecr": 661,
       "sportsdata_id": "4dcf9e8a-fc5c-43a2-9b83-4ca295490a9b",
       "tier": 9
@@ -15247,7 +15247,7 @@
       "player_team_id": "CHI",
       "player_yahoo_id": "34117",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB100",
+      "pos_rank": "LB102",
       "rank_ecr": 670,
       "sportsdata_id": "64326335-69b6-4dff-9e02-42b8e2a5bd8d"
     },
@@ -15269,7 +15269,7 @@
       "player_team_id": "CLE",
       "player_yahoo_id": "42680",
       "player_yahoo_positions": "S",
-      "pos_rank": "S221",
+      "pos_rank": "S219",
       "rank_ecr": 671,
       "sportsdata_id": "376f585c-79e1-42c3-ae3b-1accec884dc0",
       "tier": 9
@@ -15428,7 +15428,7 @@
       "player_team_id": "BAL",
       "player_yahoo_id": "40116",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB101",
+      "pos_rank": "LB103",
       "rank_ecr": 678,
       "sportsdata_id": "a2ceb68a-71c0-465c-8548-36967d302cc9"
     },
@@ -15450,7 +15450,7 @@
       "player_team_id": "GB",
       "player_yahoo_id": "33608",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB102",
+      "pos_rank": "LB104",
       "rank_ecr": 679,
       "sportsdata_id": "92e24ebb-25e5-413a-95d4-26936bdb6a70"
     },
@@ -15561,7 +15561,7 @@
       "player_team_id": "DAL",
       "player_yahoo_id": "30128",
       "player_yahoo_positions": "S",
-      "pos_rank": "S222",
+      "pos_rank": "S220",
       "rank_ecr": 684,
       "sportsdata_id": "3cb26a5c-9c90-46ad-b539-e29ad6934e30",
       "tier": 9
@@ -15628,7 +15628,7 @@
       "player_team_id": "KC",
       "player_yahoo_id": "41942",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB103",
+      "pos_rank": "LB105",
       "rank_ecr": 687,
       "sportsdata_id": "fb38f3cd-8e90-4c41-b10e-0ed37d97c3bc"
     },
@@ -15718,7 +15718,7 @@
       "player_team_id": "ARI",
       "player_yahoo_id": "33404",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB104",
+      "pos_rank": "LB106",
       "rank_ecr": 691,
       "sportsdata_id": "61fda7fc-a8d7-435f-9397-5657662cd6b2"
     },
@@ -15808,7 +15808,7 @@
       "player_team_id": "MIN",
       "player_yahoo_id": "25739",
       "player_yahoo_positions": "S",
-      "pos_rank": "S223",
+      "pos_rank": "S221",
       "rank_ecr": 695,
       "sportsdata_id": "407f1923-6659-4564-800f-25b8746d6d3e",
       "tier": 9
@@ -15946,7 +15946,7 @@
       "player_team_id": "SF",
       "player_yahoo_id": "41946",
       "player_yahoo_positions": "S,CB",
-      "pos_rank": "S224",
+      "pos_rank": "S222",
       "rank_ecr": 701,
       "sportsdata_id": "617c4aee-a205-49de-8a16-655bb6f08143",
       "tier": 10
@@ -15969,7 +15969,7 @@
       "player_team_id": "JAC",
       "player_yahoo_id": "42216",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB105",
+      "pos_rank": "LB107",
       "rank_ecr": 702,
       "sportsdata_id": "ff9ef130-249c-11f0-8c08-114b3355c43b"
     },
@@ -16152,7 +16152,7 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "32118",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB106",
+      "pos_rank": "LB108",
       "rank_ecr": 710,
       "sportsdata_id": "a3d59d11-8d6a-4cfa-9c5d-3387d20de7f9"
     },
@@ -16174,7 +16174,7 @@
       "player_team_id": "BAL",
       "player_yahoo_id": "32804",
       "player_yahoo_positions": "S",
-      "pos_rank": "S225",
+      "pos_rank": "S223",
       "rank_ecr": 711,
       "sportsdata_id": "c588e277-fc9e-4187-9358-2b9e1a2b0cd9",
       "tier": 10
@@ -16243,7 +16243,7 @@
       "player_team_id": "DET",
       "player_yahoo_id": "30299",
       "player_yahoo_positions": "DB,S",
-      "pos_rank": "S226",
+      "pos_rank": "S224",
       "rank_ecr": 714,
       "sportsdata_id": "1105ae60-a4b6-4246-a77e-0849179b07b2",
       "tier": 11
@@ -16377,7 +16377,7 @@
       "player_team_id": "TEN",
       "player_yahoo_id": "31156",
       "player_yahoo_positions": "DE",
-      "pos_rank": "LB107",
+      "pos_rank": "LB109",
       "rank_ecr": 720,
       "sportsdata_id": "b7337487-017c-42f4-b500-6802a35efbfc"
     },
@@ -16399,7 +16399,7 @@
       "player_team_id": "FA",
       "player_yahoo_id": "30304",
       "player_yahoo_positions": "S",
-      "pos_rank": "S227",
+      "pos_rank": "S225",
       "rank_ecr": 721,
       "sportsdata_id": "cd09c042-0bfc-4866-8d3f-a14ef4c3d7fc",
       "tier": 8
@@ -16422,7 +16422,7 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "27081",
       "player_yahoo_positions": "S",
-      "pos_rank": "S228",
+      "pos_rank": "S226",
       "rank_ecr": 722,
       "sportsdata_id": "7690ab6a-2ae0-4449-abd5-74ec54403f2e",
       "tier": 10
@@ -16467,7 +16467,7 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "32802",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB108",
+      "pos_rank": "LB110",
       "rank_ecr": 724,
       "sportsdata_id": "f070d4ef-1904-47f2-87d3-b9e2788789ed"
     },
@@ -16535,7 +16535,7 @@
       "player_team_id": "JAC",
       "player_yahoo_id": "31299",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB109",
+      "pos_rank": "LB111",
       "rank_ecr": 727,
       "sportsdata_id": "48700b7b-210c-4ced-9c57-3e21162e7752"
     },
@@ -16646,7 +16646,7 @@
       "player_team_id": "JAC",
       "player_yahoo_id": "31875",
       "player_yahoo_positions": "LB,DE",
-      "pos_rank": "LB110",
+      "pos_rank": "LB112",
       "rank_ecr": 732,
       "sportsdata_id": "dfb05fbc-7329-4893-8dc1-3d30033e49d0"
     },
@@ -16826,7 +16826,7 @@
       "player_team_id": "NYJ",
       "player_yahoo_id": "40956",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB111",
+      "pos_rank": "LB113",
       "rank_ecr": 740,
       "sportsdata_id": "578f063e-30e5-4a2c-b3cc-09aaaf3d0a7c"
     },
@@ -16914,7 +16914,7 @@
       "player_team_id": "KC",
       "player_yahoo_id": "42491",
       "player_yahoo_positions": "LB",
-      "pos_rank": "LB112",
+      "pos_rank": "LB114",
       "rank_ecr": 744,
       "sportsdata_id": "fa96e690-2ac6-11f0-ac7e-b50f952a60f6"
     },
@@ -17049,7 +17049,7 @@
       "player_team_id": "LAC",
       "player_yahoo_id": "42753",
       "player_yahoo_positions": "S",
-      "pos_rank": "S229",
+      "pos_rank": "S227",
       "rank_ecr": 750,
       "sportsdata_id": "81772ad1-db17-4271-bc35-ef0db2b54816",
       "tier": 11
@@ -17117,7 +17117,7 @@
       "player_team_id": "FA",
       "player_yahoo_id": "41432",
       "player_yahoo_positions": "S",
-      "pos_rank": "S230",
+      "pos_rank": "S228",
       "rank_ecr": 753,
       "sportsdata_id": "fbf1c040-07be-11ef-b417-4394f6821d19",
       "tier": 15

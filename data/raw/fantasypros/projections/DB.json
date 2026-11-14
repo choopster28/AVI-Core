@@ -1,5 +1,5 @@
 {
-  "count": "205",
+  "count": "204",
   "experts": [],
   "last_updated": null,
   "players": [
@@ -4372,29 +4372,6 @@
         "points_ppr": 55.59
       },
       "team_id": "WAS"
-    },
-    {
-      "filename": "kendal-daniels.php",
-      "fpid": 28290,
-      "mflid": 17628,
-      "name": "Kendal Daniels",
-      "position_id": "DB",
-      "stats": {
-        "def_assist": 12.14,
-        "def_ff": 0.16,
-        "def_fr": 0.11,
-        "def_int": 0.15,
-        "def_pd": 0.95,
-        "def_sack": 0.4,
-        "def_safety": 0,
-        "def_tackle": 27.44,
-        "def_td": 0.03,
-        "def_tlost": 0,
-        "points": 55.3,
-        "points_half": 55.3,
-        "points_ppr": 55.3
-      },
-      "team_id": "ATL"
     },
     {
       "filename": "dangelo-ponds.php",

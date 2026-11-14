@@ -17,28 +17,28 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **100**
-- Owner trade participations: **202**
-- Two-team trades: **98**
+- Unique completed trades: **101**
+- Owner trade participations: **204**
+- Two-team trades: **99**
 - Three-team trades: **2**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **57**
+- 2026 completed trades: **58**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-11-12T23:59:26.854000+00:00**
+- Latest verified trade: **2026-11-13T14:53:58.314000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | 1 | Corgi Loaf Baking Co.  | awang1900 | **29** | 7 | 4 | 18 | 41 | 40 | 10 | 17 | 7 | 10 |
-| 2 | Ravens Regime  | Mentomorii | **25** | 3 | 3 | 19 | 25 | 30 | 7 | 12 | 2 | 4 |
+| 2 | Ravens Regime  | Mentomorii | **26** | 3 | 3 | 20 | 26 | 32 | 8 | 12 | 3 | 4 |
 | 3 | Big Balder Brand | Choopski | **23** | 7 | 2 | 14 | 35 | 36 | 3 | 10 | 1 | 4 |
 | 4 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
 | 5 | Northside Kings  | srsmith95 | **19** | 6 | 5 | 8 | 19 | 16 | 13 | 5 | 5 | 3 |
 | 6 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
 | 7 | Badland Banditos  | IcebergSlim69 | **11** | 4 | 4 | 3 | 12 | 12 | 4 | 8 | 1 | 3 |
-| 8 | Mile High Royal Lions | shawnh56 | **10** | 0 | 8 | 2 | 10 | 13 | 5 | 4 | 1 | 2 |
+| 8 | Mile High Royal Lions | shawnh56 | **11** | 0 | 8 | 3 | 12 | 14 | 5 | 5 | 1 | 3 |
 | 9 | Crimson Tide Pods | nickas | **9** | 0 | 1 | 8 | 14 | 12 | 11 | 2 | 5 | 0 |
 | 10 | Lightskin Legends ✊🏽 | MadDawgMatt | **8** | 2 | 3 | 3 | 11 | 6 | 2 | 3 | 0 | 0 |
 | 11 | Rapid Valley Annihilation | FuzzyRaptor | **8** | 0 | 3 | 5 | 9 | 12 | 9 | 2 | 3 | 0 |
@@ -61,7 +61,7 @@
 | DMV Fantasy | Big Balder Brand | 7 |
 | Gringo’s Goblins  | Ravens Regime  | 2 |
 | Lightskin Legends ✊🏽 | Conquistadors | 3 |
-| Mile High Royal Lions | Northside Kings , All Hail King Jesus | 2 |
+| Mile High Royal Lions | Ravens Regime , Northside Kings , All Hail King Jesus | 2 |
 | Northside Kings  | Conquistadors | 5 |
 | Phalhala or Bust | Ravens Regime , Big Balder Brand | 1 |
 | Rapid Valley Annihilation | Corgi Loaf Baking Co.  | 5 |
@@ -70,6 +70,24 @@
 | Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽 | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1426982453695774720
+- Season: 2026
+- Week: 10
+- Created at UTC: 2026-11-13T14:53:58.314000+00:00
+- Teams involved: 2
+
+#### Ravens Regime  (Mentomorii)
+- Players received: Travis Kelce
+- Players sent: Deebo Samuel Sr., Jaylen Waddle
+- Picks received: 2028 Round 1 (original roster 4)
+- Picks sent: None
+
+#### Mile High Royal Lions (shawnh56)
+- Players received: Deebo Samuel Sr., Jaylen Waddle
+- Players sent: Travis Kelce
+- Picks received: None
+- Picks sent: 2028 Round 1 (original roster 4)
 
 ### TRADE: 1426757339272220672
 - Season: 2026

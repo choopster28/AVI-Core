@@ -444,27 +444,6 @@
       }
     },
     {
-      "average": 11.6,
-      "filename": "kendal-daniels.php",
-      "games": 9,
-      "player_id": 28290,
-      "player_name": "Kendal Daniels",
-      "points": 104.25,
-      "position_id": "S",
-      "team_id": "ATL",
-      "weeks": {
-        "1": 3.8,
-        "2": 7,
-        "3": 6.3,
-        "4": 4.5,
-        "5": 16.8,
-        "6": 12.3,
-        "7": 28,
-        "8": 14.3,
-        "9": 11.5
-      }
-    },
-    {
       "average": 8,
       "filename": "antoine-winfield-s.php",
       "games": 6,

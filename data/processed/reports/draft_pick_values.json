@@ -5,7 +5,7 @@
     2028,
     2029
   ],
-  "generated_at_utc": "2026-11-13T21:05:38.339721+00:00",
+  "generated_at_utc": "2026-11-14T02:32:20.262623+00:00",
   "league_id": "1312185568032997376",
   "max_rounds": 20,
   "ownership_source": "Sleeper traded_picks + native original ownership",
@@ -4535,8 +4535,8 @@
     },
     {
       "avi_category": "Premium Starter",
-      "current_owner_roster_id": 4,
-      "current_owner_team": "Mile High Royal Lions",
+      "current_owner_roster_id": 3,
+      "current_owner_team": "Ravens Regime",
       "draft_pick_avi": 79.3,
       "original_roster_id": 4,
       "original_team": "Mile High Royal Lions",
