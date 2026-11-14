@@ -1,5 +1,447 @@
 [
   {
+    "id": "mwgy0oh5-73ff0541",
+    "createdAt": 1794693299860,
+    "expiresAt": 1795125299860,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Crimson Tide Pods ↔ Badland Banditos",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "perspectiveMode": "franchise",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Badland Banditos",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Emmett Johnson",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 2nd · Lightskin · Projected Mid · original owner Lightskin Legends",
+            "assetType": "pick"
+          },
+          {
+            "name": "2027 3rd · Corgi Loaf · Projected Late · original owner Corgi Loaf Baking Co.",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Brian Thomas Jr.",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 1st · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Crimson Tide Pods receives a massive rebuild boost by swapping spot-starter RB Emmett Johnson and mid-to-late 2nd/3rd round draft capital for former 1st-round NFL talent Brian Thomas Jr. and a premium 2027 1st-round draft pick. For a rebuilding franchise, securing a 2027 1st and a 24-year-old wide receiver with elite raw talent for a backup running back whose value is currently spiked due to Kenneth Walker III's temporary injury is an exceptional ROI. While Badland Banditos gains immediate backfield depth during Walker's injury, paying a 2027 1st-round pick and BTJ is a steep price for a contender. Crimson Tide Pods should enthusiastically smash ACCEPT if offered.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Emmett Johnson",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 23,
+              "cavi": 35.9,
+              "davi": 72.7,
+              "publicMarket": 72.7,
+              "leagueMarket": 72.7
+            },
+            {
+              "name": "2027 2nd · Lightskin · Projected Mid · original owner Lightskin Legends",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2027 3rd · Corgi Loaf · Projected Late · original owner Corgi Loaf Baking Co.",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Brian Thomas Jr.",
+              "assetType": "player",
+              "owner": "Badland Banditos",
+              "position": "WR",
+              "age": 24,
+              "cavi": 39.8,
+              "davi": 79.9,
+              "publicMarket": 79.9,
+              "leagueMarket": 79.9
+            },
+            {
+              "name": "2027 1st · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Badland Banditos",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "C-",
+            "userShare": 56,
+            "otherShare": 44,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Crimson Tide Pods gains 159.2 total D-AVI asset value while surrendering 137.7 D-AVI. Beyond raw value, converting a 5th-round NFL backup RB into a 2027 1st-round pick and a 24-year-old WR with 1,200-yard rookie pedigree is a masterclass in sell-high rebuilding strategy."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "C-",
+            "userShare": 56,
+            "otherShare": 44,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Crimson Tide Pods gains 159.2 total D-AVI asset value while surrendering 137.7 D-AVI. Beyond raw value, converting a 5th-round NFL backup RB into a 2027 1st-round pick and a 24-year-old WR with 1,200-yard rookie pedigree is a masterclass in sell-high rebuilding strategy."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 5,
+              "summary": "Negligible current-season impact, which aligns perfectly with a rebuild phase."
+            },
+            "dynastyOutlook": {
+              "score": 90,
+              "summary": "Substantially boosts multi-year outlook by securing a 2027 1st and Brian Thomas Jr."
+            },
+            "lineupQuality": {
+              "score": 15,
+              "summary": "Adds Brian Thomas Jr. to a young receiving core while sacrificing temporary RB depth."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Depletes backfield depth by moving Emmett Johnson."
+            },
+            "flexibilityLiquidity": {
+              "score": 95,
+              "summary": "Acquires highly liquid 2027 1st-round draft capital."
+            },
+            "overall": {
+              "score": 12,
+              "summary": "Crimson Tide Pods gains 159.2 total D-AVI asset value while surrendering 137.7 D-AVI. Beyond raw value, converting a 5th-round NFL backup RB into a 2027 1st-round pick and a 24-year-old WR with 1,200-yard rookie pedigree is a masterclass in sell-high rebuilding strategy."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Provides immediate Week 10 starting RB utility with Kenneth Walker III sidelined."
+            },
+            "dynastyOutlook": {
+              "score": -60,
+              "summary": "Surrenders significant dynasty equity by giving up a 1st-round pick and Brian Thomas Jr."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Solves an immediate starter spot at RB while Walker recovers."
+            },
+            "depthResilience": {
+              "score": 15,
+              "summary": "Strengthens RB depth for a playoff push."
+            },
+            "flexibilityLiquidity": {
+              "score": -55,
+              "summary": "Drains future draft capital liquidity."
+            },
+            "overall": {
+              "score": -12,
+              "summary": "Crimson Tide Pods gains 159.2 total D-AVI asset value while surrendering 137.7 D-AVI. Beyond raw value, converting a 5th-round NFL backup RB into a 2027 1st-round pick and a 24-year-old WR with 1,200-yard rookie pedigree is a masterclass in sell-high rebuilding strategy."
+            }
+          },
+          "explanation": "Crimson Tide Pods captures substantial dynasty upside and future liquidity, making this an ideal trade for a rebuilding team. Badland Banditos secures immediate RB coverage for Kenneth Walker's injury but suffers a significant long-term value deficit."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Crimson Tide Pods sees minimal current-season C-AVI change (Brian Thomas Jr. 39.8 C-AVI vs Emmett Johnson 35.9 C-AVI), perfectly suited for a Rebuild goal.",
+          "sideADynastyImpact": "Dynasty AVI increases significantly, adding 159.2 D-AVI in incoming assets (BTJ 79.9 D-AVI + 2027 1st 79.3 D-AVI) against 137.7 D-AVI outgoing.",
+          "sideARosterImpact": "Fills out long-term receiver depth and stockpiles elite 2027 draft capital while liquidating a day-3 NFL draft running back at peak market value.",
+          "sideBChampionshipImpact": "Badland Banditos gains immediate startable RB insurance in Emmett Johnson (35.9 C-AVI) during Kenneth Walker III's injury absence.",
+          "sideBDynastyImpact": "Badland Banditos takes a heavy long-term D-AVI hit (-21.5 net D-AVI balance) and surrenders their primary 2027 1st-round pick.",
+          "sideBRosterImpact": "Solves a short-term backfield emergency but creates a long-term deficit in receiver upside and future draft flexibility.",
+          "valueAssessment": "Decisively favors Crimson Tide Pods. A 2027 1st plus Brian Thomas Jr. is a premium package return for Emmett Johnson, a 2027 2nd, and a 2027 3rd."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Brian Thomas Jr. is experiencing a 2026 sophomore slump and role reduction in Jacksonville, depressing his immediate redraft value. However, his elite rookie profile (1,282 yards, 10 TDs in 2024) makes him a prime buy-low candidate in dynasty. Meanwhile, Emmett Johnson is enjoying a temporary value surge as a confirmed Week 10 starter while Kenneth Walker III recovers from a groin tweak.",
+          "aviVsMarket": "Public market sentiment prices Emmett Johnson as an explosive short-term spot starter with long-term backup projection (5th-round NFL capital behind Walker in KC). Market sentiment on BTJ remains higher long-term than his 2026 production suggests due to 1st-round NFL draft capital.",
+          "relevantContext": [
+            "Kenneth Walker III ruled out Week 10 with a groin injury, thrusting Emmett Johnson into KC starting lineup.",
+            "Brian Thomas Jr. retained through the 2026 NFL trade deadline by Jacksonville, holding long-term turnaround potential.",
+            "16-team league depth elevates the value of 1st-round draft picks significantly."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Badland Banditos is an Elite Contender pushing for a championship and facing a backfield shortage with Kenneth Walker III injured. Acquiring Walker's Chiefs teammate/handcuff Emmett Johnson provides instant insurance, but giving up a 1st-round pick and BTJ exceeds reasonable panic-buying limits.",
+          "packageFit": "Fits Crimson Tide Pods' rebuild timeline seamlessly by acquiring liquid 2027 1st-round draft capital and a high-pedigree wide receiver.",
+          "lineupReplacement": "Badland Banditos replaces BTJ's bench depth easily with Chase, Evans, Diggs, McLaurin, and Tucker, while slotting Johnson into their starting RB slot immediately.",
+          "competitiveWindowFit": "Crimson Tide Pods extends its future competitive window; Badland Banditos sacrifices future window for immediate RB depth.",
+          "positionalScarcity": "In a 16-team league, usable starting RBs carry extreme short-term leverage, but 1st-round picks remain the ultimate currency."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 25,
+            "opposingGmMotivation": 10,
+            "packageMatch": 8,
+            "lineupReplacement": 12,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 59,
+          "classification": "Stretch",
+          "explanation": "While this offer is a home run for Crimson Tide Pods, Badland Banditos (Win Championship) is unlikely to accept giving up their 2027 1st-round pick AND Brian Thomas Jr. for a temporary RB starter (Emmett Johnson) plus mid/late day-two and day-three picks. If Badland Banditos initiated this proposal, accept immediately. If Crimson Tide Pods is proposing it, expect Badlands to demand a lesser return or refuse to include their 1st."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "From the perspective of Crimson Tide Pods (Rebuild), this trade is an absolute smash win. Acquiring a 2027 1st-round pick and a 24-year-old receiver with proven 1,200-yard NFL ceiling for a spot-starting 5th-round RB and minor pick swaps accelerates your rebuild timeline dramatically.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Emmett Johnson",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 23,
+              "cavi": 35.9,
+              "davi": 72.7,
+              "publicMarket": 72.7,
+              "leagueMarket": 72.7
+            },
+            {
+              "name": "2027 2nd · Lightskin · Projected Mid · original owner Lightskin Legends",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2027 3rd · Corgi Loaf · Projected Late · original owner Corgi Loaf Baking Co.",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Brian Thomas Jr.",
+              "assetType": "player",
+              "owner": "Badland Banditos",
+              "position": "WR",
+              "age": 24,
+              "cavi": 39.8,
+              "davi": 79.9,
+              "publicMarket": 79.9,
+              "leagueMarket": 79.9
+            },
+            {
+              "name": "2027 1st · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Badland Banditos",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "whyUserShouldDoIt": "You secure a premier 2027 1st-round draft pick and a buy-low 24-year-old WR1 candidate while selling high on a backup running back during a temporary injury window.",
+          "whyOpponentMightAccept": "Badland Banditos secures immediate RB starting volume with Emmett Johnson to keep their championship push intact while Kenneth Walker III is sidelined."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Emmett Johnson",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "RB",
+              "age": 23,
+              "cavi": 35.9,
+              "davi": 72.7,
+              "publicMarket": 72.7,
+              "leagueMarket": 72.7
+            },
+            {
+              "name": "2027 2nd · Lightskin · Projected Mid · original owner Lightskin Legends",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "Brian Thomas Jr.",
+              "assetType": "player",
+              "owner": "Badland Banditos",
+              "position": "WR",
+              "age": 24,
+              "cavi": 39.8,
+              "davi": 79.9,
+              "publicMarket": 79.9,
+              "leagueMarket": 79.9
+            },
+            {
+              "name": "2027 2nd · Badlands · Projected Late · original owner Badland Banditos",
+              "assetType": "pick",
+              "owner": "Badland Banditos",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "rationale": "If Badland Banditos refuses to give up their 2027 1st-round pick for Emmett Johnson, pivoting to a BTJ swap plus a 2nd-round pick swap still represents a strong buy-low move for your rebuild."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Emmett Johnson football player",
+          "Brian Thomas Jr NFL 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUECMPEiBUYgoKTU4IS0EfSwHezD0PafFaWAZLWMqeZvTBMeyFgoGy47yJZr3nrQRmjWMY3q3P2GBrIdvHOPyNOxkRycb6g961kOZCfXSZYFmS9ZsqJ-hyuefACb_RANivALt-aiKbMSVk397GATGG",
+            "title": "chiefs.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMuMmspUskEqHvh8N3U8p3rYvMNzmWm5Zcs0eLUFnvbofSfZDRrhn1O1MEefI9p50P8rpgtXKn8fzdzaj-eegP3ff0J4mAdyxgTZNBIJHJJFEd8pwlohAHfATKVnzhIAuf78Fc7YwEPenRUlBwyCw8EkYQQWq6R-k9HqYXTSmfx1jJCEDfmBo=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWPXOnORnrYQMjpKZbVQIUjvvzjOYTZEuVwiSOLNlovEik8WXLSX-SMEZfLSRoWJbxyUJoEEeYq-F6xy4tAHqsvpxynyQapw0RT4ZyKOggtlgHmIonsLIIognmVPMJeL99MVaVR2Z8hqLQxylKgc_9bS6_YvbnOTwQQ_6Z1A0V2h1mqALC",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyU1A6gYd7zXk0Pw1pxUUr26R9AeyTwTMlJIlQ9CwdKMUWGSXGx2mxUNfCk9swZoa6L4P3z7juo28dEIf_YqmBr29RVxMfzjHi4wkx-W82W11y-0RK_CUUmIdwl6_YddP_J8_1tBoJpGCY-EJj03BLUS-1",
+            "title": "pro-football-reference.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaFndhibOJV1MjwppQhEFq-B1yrbbWgLE1iMsAi7V48L_Ei6Uo-mm9W83ZCcMxKI96Yb4R6kQTKfInLz-dDdYAqXnqHYbvy_wHI0KIlg2LBAMMLReA26Bu20kMU3jr32DwUzkvH4_xxSAIqrbRldh7lBJrKKRUjIvCWMne8NpTcbVUiFbe-hUCqGeP7G737CahY4AU88kVhKh2R10fUKTbvi1u8f_6SVPUgiw6_7pDAK7T6pTgRnw9SYrLqejZlKopxQ==",
+            "title": "247sports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM-Cpxx1Ad4vGum3G5xp9IQ85rGIIRP-iwdUtrFbNTAw1od11i3cNKQDxSQmGYNzbv_xB8TWZ54VbxOWows7iowglx9Swel9MbL5lPbPPzOlZs_S8mR9aMqb_l28blV6WkZaI9aKzPCrwrPwC12jqEfrm25nyUhoUzAtzo4W_os5iGgeyzDr58hoiE3WIVFE0XGigJKHcZQlP72JERrjXKPTuYOZf_a_GKdykNcgzNZMsRProiTdrFbZaSH54wAc3dKJWMzQHP-VI2a1Q=",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqFt3EWYbmSDqY0kH1U1e0vs4WPC6eKXPOrvxnauhcWcAqE9pR6kZ36TWGHEyxQG7w5p5fJZh8zwfbjrrbniiSx8ta-xytkHd88A3HdTySAqf4yML8uSHX6PYN9AaWu_mr3WYd",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTgtxKbgH92VxtIPrz3_3R7VzIuoywbcvVoOrWi55kEb0Yv2_sTLbkDvQDlRcTQfngfe0b8_1jJ4DFuLc-eKnrEKp2pNLGqjlqDetmvSpsFCnlEe7eD-FqTWq2CS-UXiVjPpALaXA9ntXlvmPVKeJsHundeJAmca5ED7md4tWG3kxebeMEh5V8Kkuv1Gw-k7U=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEexZgQ3zFLkgk7tDioOi3GzJL99rjDNDhK9f0MPZcmob2dkji0sqzbkqezLfTUtjCFSmw0C8xqiNz-B-U3HNeRx-ZIT8zV3ZYPCOyWmk9zf4qt573Y7XKb0opZeeP6pD8hGZAtD9Tb4id5XKxxLFhpuZQd0MYZNoMfwQRYNXl_opD1hq56EiVEB4N8Na0mqkcl7s77yyOD63b9mI-o6kYXeofm",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6kLOxYB9pg-mHe4d6ipsawSX94NKh5bJrPcn48oJ4Mf02KD74ENAB_lWJkE76R_kZbDZmfG93AeeHarSE2CEwcUzZ5nDz8cdJ2csaApO5oadMFbuHUCuMuXjLQJ8U6yowgzCyMc_FdjecYUzOqE1lqg51PeBowetOzMYJLPgoZDlByl560X3nnBhCzHrcUXxvo1a-6A==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwcnSJQ-NQdV27THAZsg9ABTDOLqKvKJvnrVzVL1VHcwOFXdaL6YJq9G8RJzsmkHOAMeKg7hVMDLOjPwis1MhzuFUeVQlDolP5amPUlmd-XMm6GU-Rao0YkstTT8nsJNK5olsygJUExLmFSQHveIwbgTI=",
+            "title": "nfl.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "f0b313dd5905abd8b892dc13b50da00f4f5f112a",
+        "aviCoreCommittedAt": "2026-11-14T19:37:00Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 89882,
+        "groundedMarketChars": 3860,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
+  },
+  {
     "id": "mwgxuoos-397430e4",
     "createdAt": 1794693033779,
     "expiresAt": 1795125033779,
