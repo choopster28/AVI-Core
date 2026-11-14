@@ -1,5 +1,46 @@
 [
   {
+    "id": "mwgx62dp-bc3fd07c",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "perspectiveMode": "franchise",
+      "goal": "Rebuild",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Badland Banditos",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Jakobi Meyers",
+            "assetType": "player"
+          },
+          {
+            "name": "Emmett Johnson",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Brian Thomas Jr.",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 1st · Badlands · Projected Late · original owner Badland Banditos",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794691814029,
+    "updatedAt": 1794691814029,
+    "expiresAt": 1795123814029,
+    "status": "queued"
+  },
+  {
     "id": "mwgwyv14-95a5a0be",
     "phase": "initial",
     "mode": "analyze_trade",
