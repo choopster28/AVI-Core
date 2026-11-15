@@ -21,16 +21,15 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 430.8
-- championship_lineup_c_avi_avg: 61.54
-- offensive_roster_c_avi_sum: 598.9
-- offensive_roster_c_avi_avg: 46.07
-- offensive_roster_d_avi_sum: 921.6
-- offensive_roster_d_avi_avg: 70.89
+- championship_lineup_c_avi_sum: 341.8
+- championship_lineup_c_avi_avg: 56.97
+- offensive_roster_c_avi_sum: 596.0
+- offensive_roster_c_avi_avg: 45.85
+- offensive_roster_d_avi_sum: 921.1
+- offensive_roster_d_avi_avg: 70.85
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Drake Maye | C-AVI: 89.0 | D-AVI: 90.7
 - RB: Emanuel Wilson | C-AVI: 40.8 | D-AVI: 63.9
 - WR: Tetairoa McMillan | C-AVI: 86.1 | D-AVI: 95.0
 - WR: Luther Burden III | C-AVI: 79.9 | D-AVI: 92.1
@@ -52,8 +51,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 89.0
-- Dynasty AVI (D-AVI, 0-100): 90.7
+- Championship AVI (C-AVI, 0-100): 86.0
+- Dynasty AVI (D-AVI, 0-100): 90.2
 - Projected PPR points: 320.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -222,7 +221,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 34.2
+- Championship AVI (C-AVI, 0-100): 34.3
 - Dynasty AVI (D-AVI, 0-100): 55.8
 - Projected PPR points: 57.6
 - Category: offense

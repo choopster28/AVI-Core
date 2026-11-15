@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 506.1
-- championship_lineup_c_avi_avg: 63.26
-- offensive_roster_c_avi_sum: 739.5
-- offensive_roster_c_avi_avg: 43.50
-- offensive_roster_d_avi_sum: 1199.7
-- offensive_roster_d_avi_avg: 70.57
+- championship_lineup_c_avi_sum: 513.6
+- championship_lineup_c_avi_avg: 64.20
+- offensive_roster_c_avi_sum: 747.0
+- offensive_roster_c_avi_avg: 43.94
+- offensive_roster_d_avi_sum: 1200.9
+- offensive_roster_d_avi_avg: 70.64
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Parker Washington | C-AVI: 78.2 | D-AVI: 90.3
 - WR: Ladd McConkey | C-AVI: 58.8 | D-AVI: 86.8
 - TE: Kyle Pitts Sr. | C-AVI: 47.2 | D-AVI: 80.1
-- FLEX: Travis Etienne Jr. | C-AVI: 46.6 | D-AVI: 80.1
+- FLEX: Travis Etienne Jr. | C-AVI: 54.1 | D-AVI: 81.3
 - FLEX: Mike Gesicki | C-AVI: 44.0 | D-AVI: 62.3
 
 ## Current Roster — All Player Cards
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 46.6
-- Dynasty AVI (D-AVI, 0-100): 80.1
+- Championship AVI (C-AVI, 0-100): 54.1
+- Dynasty AVI (D-AVI, 0-100): 81.3
 - Projected PPR points: 207.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

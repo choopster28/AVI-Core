@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 346.1
-- championship_lineup_c_avi_avg: 43.26
-- offensive_roster_c_avi_sum: 580.7
-- offensive_roster_c_avi_avg: 38.71
-- offensive_roster_d_avi_sum: 1027.3
-- offensive_roster_d_avi_avg: 68.49
+- championship_lineup_c_avi_sum: 342.3
+- championship_lineup_c_avi_avg: 42.79
+- offensive_roster_c_avi_sum: 579.1
+- offensive_roster_c_avi_avg: 38.61
+- offensive_roster_d_avi_sum: 1027.1
+- offensive_roster_d_avi_avg: 68.47
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Malik Washington | C-AVI: 40.9 | D-AVI: 66.1
 - TE: Kenyon Sadiq | C-AVI: 34.7 | D-AVI: 76.3
 - FLEX: Xavier Worthy | C-AVI: 36.9 | D-AVI: 74.7
-- FLEX: Jordan Addison | C-AVI: 35.5 | D-AVI: 77.6
+- FLEX: Rashid Shaheed | C-AVI: 31.7 | D-AVI: 68.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 35.5
-- Dynasty AVI (D-AVI, 0-100): 77.6
+- Championship AVI (C-AVI, 0-100): 34.0
+- Dynasty AVI (D-AVI, 0-100): 77.4
 - Projected PPR points: 171.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -257,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 16.5
+- Championship AVI (C-AVI, 0-100): 16.4
 - Dynasty AVI (D-AVI, 0-100): 38.9
 - Projected PPR points: 28.8
 - Category: offense

@@ -9,8 +9,8 @@
       "valid_players": 388
     },
     "stats_week_10": {
-      "reason": "ValueError",
-      "status": "fantasypros_fallback"
+      "status": "sleeper",
+      "valid_players": 168
     },
     "stats_week_2": {
       "status": "sleeper",

@@ -183,14 +183,15 @@
     {
       "average": 10.3,
       "filename": "chuck-clark.php",
-      "games": 8,
+      "games": 9,
       "player_id": 16558,
       "player_name": "Chuck Clark",
-      "points": 82.75,
+      "points": 92.75,
       "position_id": "S",
       "team_id": "DET",
       "weeks": {
         "1": 10.3,
+        "10": 10,
         "2": 11.3,
         "3": 18,
         "4": 9.8,
@@ -502,16 +503,17 @@
       }
     },
     {
-      "average": 8.9,
+      "average": 8.4,
       "filename": "craig-woodson.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27242,
       "player_name": "Craig Woodson",
-      "points": 71.25,
+      "points": 75.75,
       "position_id": "S",
       "team_id": "NE",
       "weeks": {
         "1": 7.5,
+        "10": 4.5,
         "2": 9.8,
         "4": 9.5,
         "5": 7.8,
@@ -2009,16 +2011,17 @@
       }
     },
     {
-      "average": 6.6,
+      "average": 7.7,
       "filename": "kevin-byard.php",
-      "games": 9,
+      "games": 10,
       "player_id": 15635,
       "player_name": "Kevin Byard III",
-      "points": 59,
+      "points": 76.75,
       "position_id": "S",
       "team_id": "NE",
       "weeks": {
         "1": 5.3,
+        "10": 17.8,
         "2": 4.5,
         "3": 6,
         "4": 4.5,
@@ -2555,15 +2558,16 @@
       }
     },
     {
-      "average": 0.8,
+      "average": 0.7,
       "filename": "mike-brown-s-2.php",
-      "games": 7,
+      "games": 8,
       "player_id": 24585,
       "player_name": "Mike Brown",
       "points": 5.25,
       "position_id": "S",
       "team_id": "NE",
       "weeks": {
+        "10": 0,
         "3": 0.8,
         "4": 0,
         "5": 4.5,
@@ -2851,15 +2855,16 @@
       }
     },
     {
-      "average": 7.4,
+      "average": 8.3,
       "filename": "brian-branch.php",
-      "games": 3,
+      "games": 4,
       "player_id": 25235,
       "player_name": "Brian Branch",
-      "points": 22.25,
+      "points": 33,
       "position_id": "S",
       "team_id": "DET",
       "weeks": {
+        "10": 10.8,
         "7": 10.3,
         "8": 3.8,
         "9": 8.3

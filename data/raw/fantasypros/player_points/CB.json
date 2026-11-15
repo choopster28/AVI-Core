@@ -701,16 +701,17 @@
       }
     },
     {
-      "average": 8.1,
+      "average": 8.9,
       "filename": "roger-mccreary.php",
-      "games": 8,
+      "games": 9,
       "player_id": 23713,
       "player_name": "Roger McCreary",
-      "points": 64.5,
+      "points": 80,
       "position_id": "CB",
       "team_id": "DET",
       "weeks": {
         "1": 16.5,
+        "10": 15.5,
         "2": 0,
         "3": 8.3,
         "4": 3,
@@ -1313,16 +1314,17 @@
       }
     },
     {
-      "average": 0.4,
+      "average": 0.5,
       "filename": "channing-canada.php",
-      "games": 4,
+      "games": 5,
       "player_id": 28690,
       "player_name": "Channing Canada",
-      "points": 1.5,
+      "points": 2.25,
       "position_id": "CB",
       "team_id": "NE",
       "weeks": {
         "1": 0,
+        "10": 0.8,
         "2": 0,
         "3": 1.5,
         "9": 0
@@ -2073,16 +2075,17 @@
       }
     },
     {
-      "average": 6,
+      "average": 5.4,
       "filename": "charles-woods.php",
-      "games": 8,
+      "games": 9,
       "player_id": 26192,
       "player_name": "Charles Woods",
-      "points": 48,
+      "points": 48.75,
       "position_id": "CB",
       "team_id": "NE",
       "weeks": {
         "1": 0,
+        "10": 0.8,
         "2": 15,
         "3": 5.3,
         "4": 2.3,
@@ -2232,16 +2235,17 @@
       }
     },
     {
-      "average": 9.1,
+      "average": 8.7,
       "filename": "marcus-jones.php",
-      "games": 9,
+      "games": 10,
       "player_id": 23890,
       "player_name": "Marcus Jones",
-      "points": 81.75,
+      "points": 87,
       "position_id": "CB",
       "team_id": "NE",
       "weeks": {
         "1": 5.3,
+        "10": 5.3,
         "2": 2.3,
         "3": 14.8,
         "4": 8.3,
@@ -2392,16 +2396,17 @@
       }
     },
     {
-      "average": 4.8,
+      "average": 5,
       "filename": "rock-ya-sin.php",
-      "games": 7,
+      "games": 8,
       "player_id": 18524,
       "player_name": "Rock Ya-Sin",
-      "points": 33.25,
+      "points": 40.25,
       "position_id": "CB",
       "team_id": "DET",
       "weeks": {
         "1": 10.5,
+        "10": 7,
         "2": 8.3,
         "3": 3,
         "4": 0,
@@ -2860,16 +2865,17 @@
       }
     },
     {
-      "average": 7.5,
+      "average": 7.8,
       "filename": "christian-gonzalez.php",
-      "games": 7,
+      "games": 8,
       "player_id": 25238,
       "player_name": "Christian Gonzalez",
-      "points": 52.5,
+      "points": 62,
       "position_id": "CB",
       "team_id": "NE",
       "weeks": {
         "1": 6,
+        "10": 9.5,
         "2": 8.3,
         "3": 4.5,
         "6": 8.3,
@@ -2881,14 +2887,15 @@
     {
       "average": 1.6,
       "filename": "khalil-dorsey.php",
-      "games": 8,
+      "games": 9,
       "player_id": 19872,
       "player_name": "Khalil Dorsey",
-      "points": 13,
+      "points": 14.5,
       "position_id": "CB",
       "team_id": "DET",
       "weeks": {
         "1": 0,
+        "10": 1.5,
         "2": 4,
         "3": 0,
         "4": 0,
@@ -3492,15 +3499,16 @@
       }
     },
     {
-      "average": 3.4,
+      "average": 2.9,
       "filename": "ennis-rakestraw-jr.php",
-      "games": 6,
+      "games": 7,
       "player_id": 26220,
       "player_name": "Ennis Rakestraw Jr.",
       "points": 20.5,
       "position_id": "CB",
       "team_id": "DET",
       "weeks": {
+        "10": 0,
         "3": 2.3,
         "4": 10,
         "5": 3.8,
@@ -4091,7 +4099,7 @@
       "player_name": "Terell Smith",
       "points": 0,
       "position_id": "CB",
-      "team_id": "PIT",
+      "team_id": "FA",
       "weeks": {
         "8": 0
       }
@@ -4218,15 +4226,16 @@
       }
     },
     {
-      "average": 1.5,
+      "average": 0.8,
       "filename": "nick-whiteside.php",
-      "games": 1,
+      "games": 2,
       "player_id": 25636,
       "player_name": "Nick Whiteside II",
       "points": 1.5,
       "position_id": "CB",
       "team_id": "DET",
       "weeks": {
+        "10": 0,
         "9": 1.5
       }
     },

@@ -398,16 +398,17 @@
       }
     },
     {
-      "average": 19.7,
+      "average": 20.4,
       "filename": "amonra-stbrown.php",
-      "games": 8,
+      "games": 9,
       "player_id": 19799,
       "player_name": "Amon-Ra St. Brown",
-      "points": 157.6,
+      "points": 183.4,
       "position_id": "WR",
       "team_id": "DET",
       "weeks": {
         "1": 28.7,
+        "10": 25.8,
         "2": 35.2,
         "3": 11.9,
         "4": 15.5,
@@ -890,9 +891,9 @@
       }
     },
     {
-      "average": 4.2,
+      "average": 3.8,
       "filename": "kyle-williams-wr-2025.php",
-      "games": 9,
+      "games": 10,
       "player_id": 27487,
       "player_name": "Kyle Williams",
       "points": 38,
@@ -900,6 +901,7 @@
       "team_id": "NE",
       "weeks": {
         "1": 0,
+        "10": 0,
         "2": 2,
         "3": 4.4,
         "4": 0,
@@ -990,16 +992,17 @@
       }
     },
     {
-      "average": 3.9,
+      "average": 4.6,
       "filename": "isaac-teslaa.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27446,
       "player_name": "Isaac TeSlaa",
-      "points": 31.599999999999998,
+      "points": 41.5,
       "position_id": "WR",
       "team_id": "DET",
       "weeks": {
         "1": 0,
+        "10": 9.9,
         "2": 4.6,
         "3": 9.6,
         "4": 13.5,
@@ -1302,16 +1305,17 @@
       }
     },
     {
-      "average": 13.2,
+      "average": 12.7,
       "filename": "jameson-williams.php",
-      "games": 8,
+      "games": 9,
       "player_id": 23677,
       "player_name": "Jameson Williams",
-      "points": 105.70000000000002,
+      "points": 114.70000000000002,
       "position_id": "WR",
       "team_id": "DET",
       "weeks": {
         "1": 8.5,
+        "10": 9,
         "2": 5.3,
         "3": 8.9,
         "4": 16.2,
@@ -1854,9 +1858,9 @@
       }
     },
     {
-      "average": 0.3,
+      "average": 0.2,
       "filename": "tay-martin.php",
-      "games": 8,
+      "games": 9,
       "player_id": 24029,
       "player_name": "Tay Martin",
       "points": 2.1,
@@ -1864,6 +1868,7 @@
       "team_id": "DET",
       "weeks": {
         "1": 0,
+        "10": 0,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1937,14 +1942,15 @@
     {
       "average": 9.7,
       "filename": "mack-hollins.php",
-      "games": 5,
+      "games": 6,
       "player_id": 16489,
       "player_name": "Mack Hollins",
-      "points": 48.5,
+      "points": 58.3,
       "position_id": "WR",
       "team_id": "NE",
       "weeks": {
         "1": 9.1,
+        "10": 9.8,
         "2": 3.8,
         "3": 14.7,
         "4": 8.3,
@@ -1973,16 +1979,17 @@
       }
     },
     {
-      "average": 10.7,
+      "average": 9.8,
       "filename": "demario-douglas.php",
-      "games": 9,
+      "games": 10,
       "player_id": 25304,
       "player_name": "DeMario Douglas",
-      "points": 96.40000000000002,
+      "points": 97.80000000000003,
       "position_id": "WR",
       "team_id": "NE",
       "weeks": {
         "1": 7,
+        "10": 1.4,
         "2": 1.9,
         "3": 4.8,
         "4": 3.5,
@@ -2276,16 +2283,17 @@
       }
     },
     {
-      "average": 6.4,
+      "average": 6,
       "filename": "aj-brown.php",
-      "games": 3,
+      "games": 4,
       "player_id": 18218,
       "player_name": "A.J. Brown",
-      "points": 19.1,
+      "points": 23.8,
       "position_id": "WR",
       "team_id": "NE",
       "weeks": {
         "1": 5.6,
+        "10": 4.7,
         "6": 5.7,
         "7": 7.8
       }
@@ -3389,15 +3397,16 @@
       }
     },
     {
-      "average": 6.4,
+      "average": 5.6,
       "filename": "efton-chismi.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27445,
       "player_name": "Efton Chism III",
       "points": 50.84,
       "position_id": "WR",
       "team_id": "NE",
       "weeks": {
+        "10": 0,
         "2": 0.8,
         "3": 1.7,
         "4": 12.2,
@@ -4147,15 +4156,16 @@
       }
     },
     {
-      "average": 0.5,
+      "average": 0.4,
       "filename": "deandre-carter.php",
-      "games": 3,
+      "games": 4,
       "player_id": 14103,
       "player_name": "DeAndre Carter",
       "points": 1.5,
       "position_id": "WR",
       "team_id": "DET",
       "weeks": {
+        "10": 0,
         "7": 0,
         "8": 0,
         "9": 1.5

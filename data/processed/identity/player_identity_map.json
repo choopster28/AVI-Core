@@ -3222,9 +3222,9 @@
     "sleeper_id": "13278"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "22728",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "TEN",
     "player_name": "Michael Carter",
     "position": "RB",

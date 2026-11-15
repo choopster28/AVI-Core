@@ -14,19 +14,19 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 
 ## Roster Counts
 - total_players: 22
-- offense: 17
+- offense: 18
 - kickers: 1
-- idp: 4
+- idp: 3
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 500.8
-- championship_lineup_c_avi_avg: 62.60
-- offensive_roster_c_avi_sum: 850.3
-- offensive_roster_c_avi_avg: 50.02
-- offensive_roster_d_avi_sum: 1275.3
-- offensive_roster_d_avi_avg: 75.02
+- championship_lineup_c_avi_sum: 502.3
+- championship_lineup_c_avi_avg: 62.79
+- offensive_roster_c_avi_sum: 860.6
+- offensive_roster_c_avi_avg: 47.81
+- offensive_roster_d_avi_sum: 1315.8
+- offensive_roster_d_avi_avg: 73.10
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,7 +34,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Jahmyr Gibbs | C-AVI: 98.6 | D-AVI: 98.3
 - RB: Jonah Coleman | C-AVI: 55.5 | D-AVI: 81.2
 - WR: Drake London | C-AVI: 83.4 | D-AVI: 95.5
-- WR: Garrett Wilson | C-AVI: 76.8 | D-AVI: 91.4
+- WR: Garrett Wilson | C-AVI: 78.3 | D-AVI: 91.6
 - TE: Dalton Schultz | C-AVI: 51.5 | D-AVI: 70.8
 - FLEX: Deebo Samuel Sr. | C-AVI: 44.4 | D-AVI: 69.9
 - FLEX: Courtland Sutton | C-AVI: 41.5 | D-AVI: 74.4
@@ -127,23 +127,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: J.K. Dobbins
-- Player name: J.K. Dobbins
-- Player ID: 6806
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: DEN
-- Active: True
-- Status: Active
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 37.8
-- Dynasty AVI (D-AVI, 0-100): 69.8
-- Projected PPR points: 160.2
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Justice Hill
 - Player name: Justice Hill
 - Player ID: 5995
@@ -158,6 +141,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 33.5
 - Dynasty AVI (D-AVI, 0-100): 56.6
 - Projected PPR points: 67.7
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Zonovan Knight
+- Player name: Zonovan Knight
+- Player ID: 8122
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: ARI
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 18.7
+- Dynasty AVI (D-AVI, 0-100): 47.8
+- Projected PPR points: 10.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 76.8
-- Dynasty AVI (D-AVI, 0-100): 91.4
+- Championship AVI (C-AVI, 0-100): 78.3
+- Dynasty AVI (D-AVI, 0-100): 91.6
 - Projected PPR points: 224.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -274,7 +274,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 36.4
+- Championship AVI (C-AVI, 0-100): 36.5
 - Dynasty AVI (D-AVI, 0-100): 78.9
 - Projected PPR points: 186.2
 - Category: offense
@@ -311,6 +311,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 29.8
 - Dynasty AVI (D-AVI, 0-100): 52.8
 - Projected PPR points: 36.7
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Chimere Dike
+- Player name: Chimere Dike
+- Player ID: 12540
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 27.8
+- Dynasty AVI (D-AVI, 0-100): 62.3
+- Projected PPR points: 89.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -376,23 +393,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Brandon Jones
-- Player name: Brandon Jones
-- Player ID: 6911
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Position: DB
-- Fantasy positions: ['DB']
-- NFL team: DEN
-- Active: True
-- Status: Active
-- Age: 28.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
