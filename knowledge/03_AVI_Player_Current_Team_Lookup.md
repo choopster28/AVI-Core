@@ -332,6 +332,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 12
 - Team file: 12_DMV_Fantasy.md
 
+## PLAYER LOOKUP: Chimere Dike
+- Player name: Chimere Dike
+- Player ID: 12540
+- Position: WR
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Team file: 04_Mile_High_Royal_Lions.md
+
 ## PLAYER LOOKUP: Chris Bell
 - Player name: Chris Bell
 - Player ID: 13311
@@ -835,14 +843,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Phalhala or Bust
 - Current owner roster ID: 14
 - Team file: 14_Phalhala_or_Bust.md
-
-## PLAYER LOOKUP: J.K. Dobbins
-- Player name: J.K. Dobbins
-- Player ID: 6806
-- Position: RB
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Team file: 04_Mile_High_Royal_Lions.md
 
 ## PLAYER LOOKUP: Ja'Kobi Lane
 - Player name: Ja'Kobi Lane
@@ -2020,6 +2020,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
 
+## PLAYER LOOKUP: Zonovan Knight
+- Player name: Zonovan Knight
+- Player ID: 8122
+- Position: RB
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Team file: 04_Mile_High_Royal_Lions.md
+
 ## Available Player Board
 
 ## AVAILABLE PLAYER: Jaylin Noel
@@ -2029,6 +2037,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: HOU
 - Championship AVI (C-AVI, 0-100): 38.2
 - Dynasty AVI (D-AVI, 0-100): 67.7
+- Availability: available
+
+## AVAILABLE PLAYER: J.K. Dobbins
+- Player name: J.K. Dobbins
+- Player ID: 6806
+- Position: RB
+- NFL team: DEN
+- Championship AVI (C-AVI, 0-100): 37.8
+- Dynasty AVI (D-AVI, 0-100): 69.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Mason Taylor
@@ -2065,15 +2082,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: BAL
 - Championship AVI (C-AVI, 0-100): 29.4
 - Dynasty AVI (D-AVI, 0-100): 55.4
-- Availability: available
-
-## AVAILABLE PLAYER: Chimere Dike
-- Player name: Chimere Dike
-- Player ID: 12540
-- Position: WR
-- NFL team: TEN
-- Championship AVI (C-AVI, 0-100): 27.8
-- Dynasty AVI (D-AVI, 0-100): 62.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Tory Horton
@@ -2803,15 +2811,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: MIN
 - Championship AVI (C-AVI, 0-100): 18.8
 - Dynasty AVI (D-AVI, 0-100): 31.8
-- Availability: available
-
-## AVAILABLE PLAYER: Zonovan Knight
-- Player name: Zonovan Knight
-- Player ID: 8122
-- Position: RB
-- NFL team: ARI
-- Championship AVI (C-AVI, 0-100): 18.8
-- Dynasty AVI (D-AVI, 0-100): 47.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Jimmy Horn Jr.
