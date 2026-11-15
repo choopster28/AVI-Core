@@ -1383,6 +1383,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011557",
+      "c_avi": 16.4,
+      "d_avi": 39.5,
+      "nfl_team": "PHI",
+      "player_name": "Joe Milton",
+      "position": "QB",
+      "sleeper_id": "11557",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00000827",
       "c_avi": 16.4,
       "d_avi": 24.7,
@@ -2714,8 +2726,8 @@
     }
   ],
   "counts": {
-    "available_players": 226,
-    "rostered_players": 253
+    "available_players": 227,
+    "rostered_players": 252
   },
   "rostered_players": [
     {
@@ -4797,22 +4809,6 @@
       "status": "Active",
       "team_file": "07_Badland_Banditos.md",
       "team_name": "Badland Banditos "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00011557",
-      "c_avi": 16.4,
-      "d_avi": 39.5,
-      "nfl_team": "PHI",
-      "owner_id": "863881053000011776",
-      "player_name": "Joe Milton",
-      "position": "QB",
-      "roster_id": 9,
-      "sleeper_id": "11557",
-      "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
