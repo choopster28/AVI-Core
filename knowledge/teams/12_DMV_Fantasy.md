@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1129546394534158336
 - Division: 4
 - Waiver position: 12
-- Last updated from Sleeper exports: 2026-11-14
+- Last updated from Sleeper exports: 2026-11-15
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,18 +21,18 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 298.9
-- championship_lineup_c_avi_avg: 37.36
-- offensive_roster_c_avi_sum: 444.7
-- offensive_roster_c_avi_avg: 31.76
-- offensive_roster_d_avi_sum: 936.3
-- offensive_roster_d_avi_avg: 66.88
+- championship_lineup_c_avi_sum: 300.5
+- championship_lineup_c_avi_avg: 37.56
+- offensive_roster_c_avi_sum: 446.3
+- offensive_roster_c_avi_avg: 31.88
+- offensive_roster_d_avi_sum: 936.5
+- offensive_roster_d_avi_avg: 66.89
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Baker Mayfield | C-AVI: 28.6 | D-AVI: 65.9
-- RB: Rachaad White | C-AVI: 42.6 | D-AVI: 72.3
-- RB: Keaton Mitchell | C-AVI: 28.5 | D-AVI: 66.4
+- RB: Rachaad White | C-AVI: 42.7 | D-AVI: 72.3
+- RB: Keaton Mitchell | C-AVI: 30.0 | D-AVI: 66.6
 - WR: Jalen Coker | C-AVI: 60.0 | D-AVI: 82.1
 - WR: Antonio Williams | C-AVI: 31.5 | D-AVI: 75.0
 - TE: Brenton Strange | C-AVI: 46.4 | D-AVI: 78.1
@@ -121,9 +121,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 42.6
+- Championship AVI (C-AVI, 0-100): 42.7
 - Dynasty AVI (D-AVI, 0-100): 72.3
 - Projected PPR points: 128.1
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Keaton Mitchell
+- Player name: Keaton Mitchell
+- Player ID: 9511
+- Current owner team: DMV Fantasy
+- Current owner roster ID: 12
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: LAC
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 30.0
+- Dynasty AVI (D-AVI, 0-100): 66.6
+- Projected PPR points: 96.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -141,23 +158,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 29.1
 - Dynasty AVI (D-AVI, 0-100): 71.5
 - Projected PPR points: 127.9
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Keaton Mitchell
-- Player name: Keaton Mitchell
-- Player ID: 9511
-- Current owner team: DMV Fantasy
-- Current owner roster ID: 12
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: LAC
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 28.5
-- Dynasty AVI (D-AVI, 0-100): 66.4
-- Projected PPR points: 96.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

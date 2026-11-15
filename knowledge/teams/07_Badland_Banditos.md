@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 14
-- Last updated from Sleeper exports: 2026-11-14
+- Last updated from Sleeper exports: 2026-11-15
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,22 +21,22 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 4
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 566.1
-- championship_lineup_c_avi_avg: 70.76
-- offensive_roster_c_avi_sum: 894.2
-- offensive_roster_c_avi_avg: 55.89
-- offensive_roster_d_avi_sum: 1187.5
-- offensive_roster_d_avi_avg: 74.22
+- championship_lineup_c_avi_sum: 567.5
+- championship_lineup_c_avi_avg: 70.94
+- offensive_roster_c_avi_sum: 890.3
+- offensive_roster_c_avi_avg: 55.64
+- offensive_roster_d_avi_sum: 1180.3
+- offensive_roster_d_avi_avg: 73.77
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Joe Burrow | C-AVI: 90.7 | D-AVI: 89.3
 - RB: Bucky Irving | C-AVI: 82.9 | D-AVI: 91.5
-- RB: Audric Estime | C-AVI: 34.4 | D-AVI: 52.9
+- RB: Emmett Johnson | C-AVI: 35.9 | D-AVI: 72.7
 - WR: Ja'Marr Chase | C-AVI: 96.1 | D-AVI: 99.1
 - WR: Stefon Diggs | C-AVI: 61.8 | D-AVI: 74.2
 - TE: Brock Bowers | C-AVI: 95.0 | D-AVI: 93.5
-- FLEX: Tre Tucker | C-AVI: 56.3 | D-AVI: 70.5
+- FLEX: Tre Tucker | C-AVI: 56.2 | D-AVI: 70.4
 - FLEX: Caleb Douglas | C-AVI: 48.9 | D-AVI: 70.1
 
 ## Current Roster — All Player Cards
@@ -110,6 +110,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Emmett Johnson
+- Player name: Emmett Johnson
+- Player ID: 13337
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: KC
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 35.9
+- Dynasty AVI (D-AVI, 0-100): 72.7
+- Projected PPR points: 65.2
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Audric Estime
 - Player name: Audric Estime
 - Player ID: 11579
@@ -121,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 34.4
-- Dynasty AVI (D-AVI, 0-100): 52.9
+- Championship AVI (C-AVI, 0-100): 34.5
+- Dynasty AVI (D-AVI, 0-100): 53.0
 - Projected PPR points: 22.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 56.3
-- Dynasty AVI (D-AVI, 0-100): 70.5
+- Championship AVI (C-AVI, 0-100): 56.2
+- Dynasty AVI (D-AVI, 0-100): 70.4
 - Projected PPR points: 125.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -260,23 +277,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 48.9
 - Dynasty AVI (D-AVI, 0-100): 70.1
 - Projected PPR points: 94.8
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Brian Thomas Jr.
-- Player name: Brian Thomas Jr.
-- Player ID: 11631
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: JAX
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 39.8
-- Dynasty AVI (D-AVI, 0-100): 79.9
-- Projected PPR points: 195.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

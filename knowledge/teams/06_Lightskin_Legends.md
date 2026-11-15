@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872509429436829696
 - Division: 2
 - Waiver position: 15
-- Last updated from Sleeper exports: 2026-11-14
+- Last updated from Sleeper exports: 2026-11-15
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 500.1
-- championship_lineup_c_avi_avg: 62.51
-- offensive_roster_c_avi_sum: 738.0
-- offensive_roster_c_avi_avg: 43.41
-- offensive_roster_d_avi_sum: 1199.4
-- offensive_roster_d_avi_avg: 70.55
+- championship_lineup_c_avi_sum: 506.1
+- championship_lineup_c_avi_avg: 63.26
+- offensive_roster_c_avi_sum: 739.5
+- offensive_roster_c_avi_avg: 43.50
+- offensive_roster_d_avi_sum: 1199.7
+- offensive_roster_d_avi_avg: 70.57
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,8 +36,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Parker Washington | C-AVI: 78.2 | D-AVI: 90.3
 - WR: Ladd McConkey | C-AVI: 58.8 | D-AVI: 86.8
 - TE: Kyle Pitts Sr. | C-AVI: 47.2 | D-AVI: 80.1
+- FLEX: Travis Etienne Jr. | C-AVI: 46.6 | D-AVI: 80.1
 - FLEX: Mike Gesicki | C-AVI: 44.0 | D-AVI: 62.3
-- FLEX: Josh Downs | C-AVI: 40.6 | D-AVI: 77.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -119,10 +119,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Fantasy positions: ['RB']
 - NFL team: NO
 - Active: True
-- Status: Inactive
+- Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 45.1
-- Dynasty AVI (D-AVI, 0-100): 79.8
+- Championship AVI (C-AVI, 0-100): 46.6
+- Dynasty AVI (D-AVI, 0-100): 80.1
 - Projected PPR points: 207.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
