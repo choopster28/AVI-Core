@@ -1,5 +1,2434 @@
 [
   {
+    "id": "mwjqszqg-f0c0d2a8",
+    "createdAt": 1794862575655,
+    "expiresAt": 1795294575655,
+    "mode": "shop_assets",
+    "title": "Initial Shop Assets · Big Balder Brand ↔ Mile High Royal Lions",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "franchise",
+      "goal": "",
+      "targetTeam": "Mile High Royal Lions",
+      "assetsToShop": [
+        {
+          "name": "Chuba Hubbard",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Found 2 qualifying offers for Big Balder Brand.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Retool",
+          "strengths": [
+            "Young franchise quarterback core with Jayden Daniels and C.J. Stroud",
+            "Productive starting running back surplus in Chuba Hubbard and Bhayshul Tuten",
+            "Elite tight end anchor in Tyler Warren"
+          ],
+          "priorityNeeds": [
+            "Young cornerstone wide receivers to align with quarterback window",
+            "Replenishment of future draft pick capital"
+          ],
+          "tradeableSurplus": [
+            "Chuba Hubbard (RB)"
+          ],
+          "constraintsApplied": [
+            "Must trade Chuba Hubbard to single specified target team (Mile High Royal Lions)",
+            "Target goal override applied: Increase Playoff Odds for Mile High Royal Lions",
+            "Retool goal evaluation applied: maximize long-term dynasty keeper value and draft capital"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 1,
+          "managersEliminated": 0,
+          "eliminationReasons": []
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Mile High Royal Lions",
+            "targetGoal": "Increase Playoff Odds",
+            "targetAssets": [
+              {
+                "name": "Jaylen Waddle",
+                "assetType": "player",
+                "owner": "Mile High Royal Lions",
+                "position": "WR",
+                "age": 27,
+                "cavi": 54.1,
+                "davi": 84.9,
+                "publicMarket": 78,
+                "leagueMarket": 82
+              },
+              {
+                "name": "2027 Round 2 (All Hail King Jesus)",
+                "assetType": "pick",
+                "owner": "Mile High Royal Lions",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Chuba Hubbard",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 27,
+                "cavi": 73,
+                "davi": 85.1,
+                "publicMarket": 70,
+                "leagueMarket": 73
+              }
+            ],
+            "scenarioType": "Proven Starter & Draft Capital Swap",
+            "strategicGoal": "Acquire Proven Dynasty WR & Draft Pick",
+            "scoring": {
+              "availability": 21,
+              "opposingGmMotivation": 21,
+              "packageMatch": 16,
+              "lineupReplacement": 11,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 77,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Jaylen Waddle provides proven WR2/WR1 upside with a 84.9 D-AVI, perfect for a 1-2 year retool window.",
+            "whyOpponentMightAccept": "Waddle has missed time with injury (C-AVI 54.1), whereas Hubbard gives Mile High an immediate active starter to fill backfield gaps during their playoff push.",
+            "championshipImpact": "Surrenders temporary RB points to acquire a long-term WR starter.",
+            "dynastyImpact": "Gains a 27-year-old dynamic pass-catcher and future draft capital.",
+            "rosterImpact": "Balances user roster by converting surplus backfield points into WR starting caliber.",
+            "publicMarketContext": "Waddle remains highly valued in dynasty consensus despite minor nagging injuries in Denver's offense.",
+            "risks": [
+              "Waddle experiences continued injury nagging in Denver's system"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Hubbard for Waddle and 2027 2nd, highlighting Hubbard's 19+ weekly PPR ceiling.",
+              "acceptableConcession": "Shift draft pick to 2028 2nd round if 2027 pick is held firm.",
+              "walkAwayPoint": "Walk away if no draft pick is included alongside Waddle."
+            },
+            "playoffImpact": [
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 10,
+                "opponent": "crimson-tide",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 19.84
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 19
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.74
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 15.37
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.87
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 12.61
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Tyler Allgeier",
+                      "points": 9.53
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Omarion Hampton",
+                      "points": 7.75
+                    }
+                  ],
+                  "holes": [],
+                  "points": 112.71
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 19.84
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.74
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Tyler Allgeier",
+                      "points": 9.53
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 15.37
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.87
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 12.61
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Omarion Hampton",
+                      "points": 7.75
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Greg Dulcich",
+                      "points": 7.63
+                    }
+                  ],
+                  "holes": [],
+                  "points": 101.34
+                },
+                "delta": -11.37,
+                "unavailable": [
+                  "Jaylen Waddle (bye)"
+                ]
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 11,
+                "opponent": "conquistadors",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "C.J. Stroud",
+                      "points": 23.14
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.68
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 15.19
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.94
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 10.76
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 12.7
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Godwin Jr.",
+                      "points": 9.09
+                    }
+                  ],
+                  "holes": [],
+                  "points": 117.5
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "C.J. Stroud",
+                      "points": 23.14
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 15.19
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Omarion Hampton",
+                      "points": 8.76
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.94
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 10.76
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 12.7
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jaylen Waddle",
+                      "points": 11.08
+                    }
+                  ],
+                  "holes": [],
+                  "points": 112.57
+                },
+                "delta": -4.93,
+                "unavailable": []
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 12,
+                "opponent": "northside",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 26.38
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.22
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.18
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.04
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.48
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.46
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 14.47
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.99
+                    }
+                  ],
+                  "holes": [],
+                  "points": 128.22
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 26.38
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.22
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Tyler Allgeier",
+                      "points": 11.55
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.04
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.48
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.46
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 14.47
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.99
+                    }
+                  ],
+                  "holes": [],
+                  "points": 124.59
+                },
+                "delta": -3.63,
+                "unavailable": []
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 13,
+                "opponent": "crimson-tide",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 21.73
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.75
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.2
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.65
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Greg Dulcich",
+                      "points": 6.85
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.9
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 12.81
+                    }
+                  ],
+                  "holes": [],
+                  "points": 117.95
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 21.73
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Tyler Allgeier",
+                      "points": 10.44
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.2
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.65
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Greg Dulcich",
+                      "points": 6.85
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.9
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jaylen Waddle",
+                      "points": 12.89
+                    }
+                  ],
+                  "holes": [],
+                  "points": 112.72
+                },
+                "delta": -5.23,
+                "unavailable": []
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 14,
+                "opponent": "conquistadors",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "C.J. Stroud",
+                      "points": 23.65
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 18.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.53
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 17.08
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 15.38
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 13.81
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 12.34
+                    }
+                  ],
+                  "holes": [],
+                  "points": 125.31
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "C.J. Stroud",
+                      "points": 23.65
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.53
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Omarion Hampton",
+                      "points": 9.83
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 17.08
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 15.38
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 13.81
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 12.34
+                    }
+                  ],
+                  "holes": [],
+                  "points": 116.77
+                },
+                "delta": -8.54,
+                "unavailable": []
+              },
+              {
+                "team": "Mile High Royal Lions",
+                "risk": "bubble",
+                "week": 10,
+                "opponent": "dmv",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Matthew Stafford",
+                      "points": 18.1
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 24.35
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Zonovan Knight",
+                      "points": 8.19
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 16.18
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 14.16
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 7.93
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 11
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chimere Dike",
+                      "points": 8.7
+                    }
+                  ],
+                  "holes": [],
+                  "points": 108.61
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Matthew Stafford",
+                      "points": 18.1
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 24.35
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 19
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 16.18
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 14.16
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 7.93
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 11
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chimere Dike",
+                      "points": 8.7
+                    }
+                  ],
+                  "holes": [],
+                  "points": 119.42
+                },
+                "delta": 10.81,
+                "unavailable": []
+              },
+              {
+                "team": "Mile High Royal Lions",
+                "risk": "bubble",
+                "week": 11,
+                "opponent": "king-jesus",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": null,
+                      "points": null
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 23.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jonah Coleman",
+                      "points": 16.82
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 14.32
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaylen Waddle",
+                      "points": 11.08
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 8.85
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Pat Bryant",
+                      "points": 8.4
+                    }
+                  ],
+                  "holes": [
+                    "QB"
+                  ],
+                  "points": 91.02
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": null,
+                      "points": null
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 23.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jonah Coleman",
+                      "points": 16.82
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 14.32
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 8.85
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chuba Hubbard",
+                      "points": 15.68
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Pat Bryant",
+                      "points": 8.4
+                    }
+                  ],
+                  "holes": [
+                    "QB"
+                  ],
+                  "points": 95.62
+                },
+                "delta": 4.6,
+                "unavailable": []
+              },
+              {
+                "team": "Mile High Royal Lions",
+                "risk": "bubble",
+                "week": 12,
+                "opponent": "goblins",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Matthew Stafford",
+                      "points": 13.87
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 27.24
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jonah Coleman",
+                      "points": 13.96
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 16.37
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 15.29
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.25
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jaylen Waddle",
+                      "points": 11.47
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 9.29
+                    }
+                  ],
+                  "holes": [],
+                  "points": 115.74
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Matthew Stafford",
+                      "points": 13.87
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 27.24
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.18
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 16.37
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 15.29
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.25
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jonah Coleman",
+                      "points": 13.96
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 9.29
+                    }
+                  ],
+                  "holes": [],
+                  "points": 119.45
+                },
+                "delta": 3.71,
+                "unavailable": []
+              },
+              {
+                "team": "Mile High Royal Lions",
+                "risk": "bubble",
+                "week": 13,
+                "opponent": "dmv",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Michael Penix Jr.",
+                      "points": 18.58
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 26.15
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jonah Coleman",
+                      "points": 14.76
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 17.91
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaylen Waddle",
+                      "points": 12.89
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.34
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 10.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Pat Bryant",
+                      "points": 9.4
+                    }
+                  ],
+                  "holes": [],
+                  "points": 118.18
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Michael Penix Jr.",
+                      "points": 18.58
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 26.15
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.75
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 17.91
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 10.15
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.34
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jonah Coleman",
+                      "points": 14.76
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Pat Bryant",
+                      "points": 9.4
+                    }
+                  ],
+                  "holes": [],
+                  "points": 121.04
+                },
+                "delta": 2.86,
+                "unavailable": []
+              },
+              {
+                "team": "Mile High Royal Lions",
+                "risk": "bubble",
+                "week": 14,
+                "opponent": "king-jesus",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Matthew Stafford",
+                      "points": 15.81
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 27.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jonah Coleman",
+                      "points": 13.49
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 16.05
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 13.42
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.93
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jaylen Waddle",
+                      "points": 11.48
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 9.38
+                    }
+                  ],
+                  "holes": [],
+                  "points": 115.93
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Matthew Stafford",
+                      "points": 15.81
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 27.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 18.37
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 16.05
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 13.42
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.93
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jonah Coleman",
+                      "points": 13.49
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 9.38
+                    }
+                  ],
+                  "holes": [],
+                  "points": 122.82
+                },
+                "delta": 6.89,
+                "unavailable": []
+              }
+            ],
+            "playoffRace": [
+              {
+                "team": "Mile High Royal Lions",
+                "risk": "bubble",
+                "seed": 7,
+                "record": "6-3",
+                "opponent": "DMV Fantasy",
+                "winsToMatchTodaysWildcardRecord": 0,
+                "pointsFromTodaysWildcard": 121.5
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "seed": 15,
+                "record": "1-8",
+                "opponent": "Crimson Tide Pods",
+                "winsToMatchTodaysWildcardRecord": 4,
+                "pointsFromTodaysWildcard": -109.4
+              }
+            ],
+            "validationNotes": [],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Mile High Royal Lions",
+            "targetGoal": "Increase Playoff Odds",
+            "targetAssets": [
+              {
+                "name": "Jaylen Waddle",
+                "assetType": "player",
+                "owner": "Mile High Royal Lions",
+                "position": "WR",
+                "age": 27,
+                "cavi": 54.1,
+                "davi": 84.9,
+                "publicMarket": 78,
+                "leagueMarket": 82
+              },
+              {
+                "name": "2028 Round 2 (Mile High Royal Lions)",
+                "assetType": "pick",
+                "owner": "Mile High Royal Lions",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 48.5,
+                "publicMarket": 48.5,
+                "leagueMarket": 48.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Chuba Hubbard",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 27,
+                "cavi": 73,
+                "davi": 85.1,
+                "publicMarket": 70,
+                "leagueMarket": 73
+              }
+            ],
+            "scenarioType": "Alternative Draft Capital Structure",
+            "strategicGoal": "Acquire Dynasty WR & Future Asset",
+            "scoring": {
+              "availability": 21,
+              "opposingGmMotivation": 20,
+              "packageMatch": 15,
+              "lineupReplacement": 11,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 75,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Provides a clean fallback option to secure Jaylen Waddle while still capturing a 2nd-round draft asset in 2028.",
+            "whyOpponentMightAccept": "Preserves Mile High's near-term 2027 draft capital while immediately solving their urgent Week 10+ RB starting hole.",
+            "championshipImpact": "Sells high on Hubbard's current workload to lock in future WR starting output.",
+            "dynastyImpact": "Extends competitive window with a prime 27-year-old WR and long-term pick liquidity.",
+            "rosterImpact": "Strengthens WR depth for upcoming seasons.",
+            "publicMarketContext": "Retains strong market consensus alignment for both player assets.",
+            "risks": [
+              "Distant 2028 pick delays draft capital realization"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer as a flexible counter-proposal if Mile High protects their 2027 picks.",
+              "acceptableConcession": "Accept 2028 2nd without additional filler.",
+              "walkAwayPoint": "Walk away if opponent refuses to yield any top-2 round draft capital."
+            },
+            "playoffImpact": [
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 10,
+                "opponent": "crimson-tide",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 19.84
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 19
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.74
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 15.37
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.87
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 12.61
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Tyler Allgeier",
+                      "points": 9.53
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Omarion Hampton",
+                      "points": 7.75
+                    }
+                  ],
+                  "holes": [],
+                  "points": 112.71
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 19.84
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.74
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Tyler Allgeier",
+                      "points": 9.53
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 15.37
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.87
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 12.61
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Omarion Hampton",
+                      "points": 7.75
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Greg Dulcich",
+                      "points": 7.63
+                    }
+                  ],
+                  "holes": [],
+                  "points": 101.34
+                },
+                "delta": -11.37,
+                "unavailable": [
+                  "Jaylen Waddle (bye)"
+                ]
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 11,
+                "opponent": "conquistadors",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "C.J. Stroud",
+                      "points": 23.14
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.68
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 15.19
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.94
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 10.76
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 12.7
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Godwin Jr.",
+                      "points": 9.09
+                    }
+                  ],
+                  "holes": [],
+                  "points": 117.5
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "C.J. Stroud",
+                      "points": 23.14
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 15.19
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Omarion Hampton",
+                      "points": 8.76
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.94
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 10.76
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 12.7
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jaylen Waddle",
+                      "points": 11.08
+                    }
+                  ],
+                  "holes": [],
+                  "points": 112.57
+                },
+                "delta": -4.93,
+                "unavailable": []
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 12,
+                "opponent": "northside",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 26.38
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.22
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.18
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.04
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.48
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.46
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 14.47
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.99
+                    }
+                  ],
+                  "holes": [],
+                  "points": 128.22
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 26.38
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.22
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Tyler Allgeier",
+                      "points": 11.55
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.04
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.48
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.46
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 14.47
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.99
+                    }
+                  ],
+                  "holes": [],
+                  "points": 124.59
+                },
+                "delta": -3.63,
+                "unavailable": []
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 13,
+                "opponent": "crimson-tide",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 21.73
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.75
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.2
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.65
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Greg Dulcich",
+                      "points": 6.85
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.9
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 12.81
+                    }
+                  ],
+                  "holes": [],
+                  "points": 117.95
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 21.73
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Tyler Allgeier",
+                      "points": 10.44
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.2
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.65
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Greg Dulcich",
+                      "points": 6.85
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.9
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jaylen Waddle",
+                      "points": 12.89
+                    }
+                  ],
+                  "holes": [],
+                  "points": 112.72
+                },
+                "delta": -5.23,
+                "unavailable": []
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 14,
+                "opponent": "conquistadors",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "C.J. Stroud",
+                      "points": 23.65
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 18.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.53
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 17.08
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 15.38
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 13.81
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 12.34
+                    }
+                  ],
+                  "holes": [],
+                  "points": 125.31
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "C.J. Stroud",
+                      "points": 23.65
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.53
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Omarion Hampton",
+                      "points": 9.83
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 17.08
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 15.38
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 13.81
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 12.34
+                    }
+                  ],
+                  "holes": [],
+                  "points": 116.77
+                },
+                "delta": -8.54,
+                "unavailable": []
+              },
+              {
+                "team": "Mile High Royal Lions",
+                "risk": "bubble",
+                "week": 10,
+                "opponent": "dmv",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Matthew Stafford",
+                      "points": 18.1
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 24.35
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Zonovan Knight",
+                      "points": 8.19
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 16.18
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 14.16
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 7.93
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 11
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chimere Dike",
+                      "points": 8.7
+                    }
+                  ],
+                  "holes": [],
+                  "points": 108.61
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Matthew Stafford",
+                      "points": 18.1
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 24.35
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 19
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 16.18
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 14.16
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 7.93
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 11
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chimere Dike",
+                      "points": 8.7
+                    }
+                  ],
+                  "holes": [],
+                  "points": 119.42
+                },
+                "delta": 10.81,
+                "unavailable": []
+              },
+              {
+                "team": "Mile High Royal Lions",
+                "risk": "bubble",
+                "week": 11,
+                "opponent": "king-jesus",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": null,
+                      "points": null
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 23.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jonah Coleman",
+                      "points": 16.82
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 14.32
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaylen Waddle",
+                      "points": 11.08
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 8.85
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Pat Bryant",
+                      "points": 8.4
+                    }
+                  ],
+                  "holes": [
+                    "QB"
+                  ],
+                  "points": 91.02
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": null,
+                      "points": null
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 23.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jonah Coleman",
+                      "points": 16.82
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 14.32
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 8.85
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chuba Hubbard",
+                      "points": 15.68
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Pat Bryant",
+                      "points": 8.4
+                    }
+                  ],
+                  "holes": [
+                    "QB"
+                  ],
+                  "points": 95.62
+                },
+                "delta": 4.6,
+                "unavailable": []
+              },
+              {
+                "team": "Mile High Royal Lions",
+                "risk": "bubble",
+                "week": 12,
+                "opponent": "goblins",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Matthew Stafford",
+                      "points": 13.87
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 27.24
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jonah Coleman",
+                      "points": 13.96
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 16.37
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 15.29
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.25
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jaylen Waddle",
+                      "points": 11.47
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 9.29
+                    }
+                  ],
+                  "holes": [],
+                  "points": 115.74
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Matthew Stafford",
+                      "points": 13.87
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 27.24
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.18
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 16.37
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 15.29
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.25
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jonah Coleman",
+                      "points": 13.96
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 9.29
+                    }
+                  ],
+                  "holes": [],
+                  "points": 119.45
+                },
+                "delta": 3.71,
+                "unavailable": []
+              },
+              {
+                "team": "Mile High Royal Lions",
+                "risk": "bubble",
+                "week": 13,
+                "opponent": "dmv",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Michael Penix Jr.",
+                      "points": 18.58
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 26.15
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jonah Coleman",
+                      "points": 14.76
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 17.91
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaylen Waddle",
+                      "points": 12.89
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.34
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 10.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Pat Bryant",
+                      "points": 9.4
+                    }
+                  ],
+                  "holes": [],
+                  "points": 118.18
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Michael Penix Jr.",
+                      "points": 18.58
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 26.15
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.75
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 17.91
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 10.15
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.34
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jonah Coleman",
+                      "points": 14.76
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Pat Bryant",
+                      "points": 9.4
+                    }
+                  ],
+                  "holes": [],
+                  "points": 121.04
+                },
+                "delta": 2.86,
+                "unavailable": []
+              },
+              {
+                "team": "Mile High Royal Lions",
+                "risk": "bubble",
+                "week": 14,
+                "opponent": "king-jesus",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Matthew Stafford",
+                      "points": 15.81
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 27.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jonah Coleman",
+                      "points": 13.49
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 16.05
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 13.42
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.93
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jaylen Waddle",
+                      "points": 11.48
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 9.38
+                    }
+                  ],
+                  "holes": [],
+                  "points": 115.93
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Matthew Stafford",
+                      "points": 15.81
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jahmyr Gibbs",
+                      "points": 27.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 18.37
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Drake London",
+                      "points": 16.05
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Garrett Wilson",
+                      "points": 13.42
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Schultz",
+                      "points": 8.93
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jonah Coleman",
+                      "points": 13.49
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Deebo Samuel Sr.",
+                      "points": 9.38
+                    }
+                  ],
+                  "holes": [],
+                  "points": 122.82
+                },
+                "delta": 6.89,
+                "unavailable": []
+              }
+            ],
+            "playoffRace": [
+              {
+                "team": "Mile High Royal Lions",
+                "risk": "bubble",
+                "seed": 7,
+                "record": "6-3",
+                "opponent": "DMV Fantasy",
+                "winsToMatchTodaysWildcardRecord": 0,
+                "pointsFromTodaysWildcard": 121.5
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "seed": 15,
+                "record": "1-8",
+                "opponent": "Crimson Tide Pods",
+                "winsToMatchTodaysWildcardRecord": 4,
+                "pointsFromTodaysWildcard": -109.4
+              }
+            ],
+            "validationNotes": [],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "searchCoverage": {
+          "scope": "Mile High Royal Lions",
+          "rostersCompared": 1,
+          "packagesReturnedForValidation": 3
+        },
+        "organizationGoals": [
+          {
+            "team": "Big Balder Brand",
+            "goal": "Retool",
+            "source": "playoff picture",
+            "reason": "Deep outside the bracket. Needs 4 of 5 remaining wins just to match today’s provisional wildcard record.",
+            "status": "Playoff Push"
+          },
+          {
+            "team": "Mile High Royal Lions",
+            "goal": "Increase Playoff Odds",
+            "source": "playoff picture",
+            "reason": "Verified bubble or must-win playoff race.",
+            "status": "Playoff Push"
+          }
+        ],
+        "playoffRace": [
+          {
+            "team": "Mile High Royal Lions",
+            "risk": "bubble",
+            "seed": 7,
+            "record": "6-3",
+            "opponent": "DMV Fantasy",
+            "winsToMatchTodaysWildcardRecord": 0,
+            "pointsFromTodaysWildcard": 121.5
+          },
+          {
+            "team": "Big Balder Brand",
+            "risk": "in the race",
+            "seed": 15,
+            "record": "1-8",
+            "opponent": "Crimson Tide Pods",
+            "winsToMatchTodaysWildcardRecord": 4,
+            "pointsFromTodaysWildcard": -109.4
+          }
+        ]
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jaylen Waddle news 2026",
+          "Marvin Harrison Jr news 2026",
+          "Chuba Hubbard news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbeRG8eDdJZ7XL5ZdCZei_UbkJiurXExCUkJdTgcukxV2w8HeI-Xj_Ce_VogfLp73B4ItHfUgkOIT3KyzffR_cnvK7pw6K_PPTTCtZE11ZWnWodV6XcJ4gwek7f1ftWT4L600fTJ_LCRyEo663e8Z1SOxsfqfQ4zQ6zNAndBmFrT3v0dmYT9OweOMW1QM=",
+            "title": "raisingzona.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmtpw5Oyy9s1PQ78R2Fmj-uISSiTc71YsX6j5Fqmiug7QGe4nocgOjEVSkGQZOvDEkJEn8DGfaadjLYI9NX26rDQbzQyAnfvRzY2DfPvbeCLelvXX-ZJwum2FJpuetneYmqAmPtco3BXagtQ30MmJ5eHjoBeLjhdTxcJel9EB8pK2ZxKl-JxTqK0i1zdD0K3QDGzdbwHPWEEU=",
+            "title": "azcardinals.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiC8bJDDHc1rSE6Pc_jPiY2yxMmNxLbADPt-I423jH53_oCtgAMeFh77A-miI77XFyzmRwe5LwrqGuAaJa2kovHI5uMrlLP_5h4VHrbm8IMuRwlqxdSNumsyYOzg8FFjDo2IpgC_qnT-JhhZDxvis6s927i5B3MFNo2qDmK19UAZn8eXx6yEUC5ppy_OxXN6VBBOfQO7M09oGHjInJj-DUqSo5P1hB4jeVfUpjTj51IjM=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmnCo7jYw0MAQES0n51LB7cNZ9GEDkDjxGzdM1vBiJ487R_jN7a9xvZylCEGvQVWPNBhqT7NpCEzX_1lrHLVu2TP6Jc-jTwq73qgzL1fDlLFX1qEqkBniAqtMop-gE6OSIXxHwDjIcvkrkITt7GeF1T3o_lZNfukK9unK0Wra4NFzTqzqfSrrU1dkq287i3TX7CNgSanddVTq4Ad9slMmX-xJzsg==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENEklES6Vk63j7DaSyjxBqzAzAcpuRxqsumB80mFRGCJbKtCsIxbZUly_KuDhsvxEVnkCwgwg8Fn7d1hR9gl-XmYZvvqi8VHKqFSV6kTE2t1QVM9qx1x9D1slbsXkM8jA50nwE09QWQFIApZyLJxA2AJe4wDmx1JxbvCtbh5mclO8X6tDSAKvWGUC0d3Ia8yZFgFdb9im6S9sx7SxCwj_VITmugcm6zMiN2Q==",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF41Z-kzrTUSYDHumLhoQeBJ5faiJCjrpS18AQO91YWLosRVRA563WzmykThJDPz85kTIlVsjHxbsjVUUHp1pqa2rP8Yena4YDCru0f7dBt2CBPuoQbt3kn1ruoiiJcwqhp_UwmzAM5Udo1M7te0enY7jjVCamUqXvCSE1kTW1qoEJlU4lAxPy4MK6Qz2y4uvTlZpnh6sY=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHUjI1lVEANRVOz79uKL91MWAM8Owcody0sYbv6eBTj1DDnO7GL7SD0-ZAi7Dq9hXBscCla1O-R1NEhKt7iz6_6UzltAs-TENvjMMnAiEDOZUtpzXgikuaX494AsHhsltfhvruUhHxwS2aB3C7P20q6t89L9eLhQgVI19DS50GpsJbh9OMyG1q6ALnaEw9c_OeSGqCCZtg2mME_KucQAD83zM=",
+            "title": "panthers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGk6yH40ckXkLxIuKwP2T9MtSt1bVuN7thMmLbAe4N3G4D591_yQ6RxQeiJIUKkDb_dgEx8GjlrvzVRkW-SDUzxxDlvVHM2ZSW81wVLTL7vq_oJnUbFIoDoa-iNoB7UGaOFIyDJ0nT1G3lUjNRUw==",
+            "title": "sportspyder.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeh2Hh5yPcFxnOUYzedzmoCA06abeRzs-LVtWLwtFAHkpMC0qRyGgltGeX1jbjgUolFpMIip2zhBmpDzgBnm22VnFSFRaokU-FzH50x34qZgwaKQRN7lBVQ4xLrZ5t8w7C0uIucBfDzlBfQ4I5L4ouBijOyVAQ0qaNye1Uapfv78cq7RP8u-K5LUV1qWEF2uJlAYNKzzHq8QbuL5FFX91WoA8nDQg6BVCXqmsl",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG39X6HWHq-ZY3B5oYDrg_qdCxMJ0xjZ11DwWW05H5yhhwgrSCFPXaCDwVQWfRozApouHTwnsPq_LM88rc4FdlXdCmVLsEZc9o91o128CF3odNLKutBXOmuLYR0g8hI6nArOFO0S7VKuQ==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0kZ44DlfJOfkBjQC4aOXBt6Im_ryFdzRD_kprqJRnFLAG-sHTSILTGqKRA9BS2oZ_aQx7kkK5xstcc5uMnXyfoy4eYCngEd5X5YDsFnw8tWZ1fbxPVxoD80dfMvm-flRHkQYmXU3xEIZRiiKF2kFH2quoCyBkg7rLLg8ExYcmbms=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7YiNZXueTRZfjojFJmSqJUtUN7Y8G5BG1YvCMcymjtE1-UUwG7bgQBPxVyoA88mTUlHdNhKQ6CRvsbBsjiOvmJEsYeW5gKAMOG006uXtBiepEhSPHLdP646_iYR5N6u85kUAJ_u6r3Xo8LDMyKQlwKIg7rzd6y2Vr7b7ZW2JCdj4BlSgqYTJUSVeTIsdLl9K5",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7o6pCKilSVJRodnTfGxQ3f3PjeM0wIZqForeHy_EYokIv6MICxKiI7dJ0RaRk6ELNQnkPrzVHvZYvPDnzOXVQJ8r6X6A0ssVEbvWyzuYcmUK5KhTx1BG67PfDg9-WCIQyA_J8zE-8wyGq_bUkUtIOLVEMqWaA8dCGNNCX",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdjp11ynDCkQNohQ7EByPdkfsfomVMl0uCY64ZZ1a4qxwbOVxwUkn6zb6PzRyumOrMEXDFS5yHc3N3k3LoTAYgps3O2WWDCl5XhehCItZfh4fND25wrcIRW0eNNiXjJwZre2zIckLeWFmqH-d-xLvKJN32SnL41ajnqUsbgn5Am0-32JyG9KDu5VuCI7GpCRloq7QQKw==",
+            "title": "athlonsports.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Marvin Harrison Jr.",
+          "Chuba Hubbard",
+          "Jaylen Waddle"
+        ],
+        "aviCoreCommitSha": "d978695f6bc2888acea0e9751f284113c4b564d5",
+        "aviCoreCommittedAt": "2026-11-16T20:35:59Z",
+        "sourcesUsed": [
+          "derived/late-season-playoff-push",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 624834,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 253,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mwjqqcpq-07ef9864",
     "createdAt": 1794862472895,
     "expiresAt": 1795294472895,
