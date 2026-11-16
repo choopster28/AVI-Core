@@ -18,9 +18,1270 @@
       "maxResults": 3
     },
     "createdAt": 1794862401759,
-    "updatedAt": 1794862403665,
+    "updatedAt": 1794862471433,
     "expiresAt": 1795294401759,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Found 1 qualifying offer for Big Balder Brand.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Retool",
+          "strengths": [
+            "Elite young quarterback foundation featuring Jayden Daniels (D-AVI 85.9) and C.J. Stroud (D-AVI 77.8)",
+            "High-end wide receiver core anchored by Nico Collins (D-AVI 94.9) and DeVonta Smith (D-AVI 90.4)",
+            "Promising young running back volume led by Bhayshul Tuten (D-AVI 89.9) and Omarion Hampton (D-AVI 86.1)"
+          ],
+          "priorityNeeds": [
+            "Accumulating premium 2027/2028 draft capital to support the retooling window",
+            "Acquiring high-upside young wide receivers and tight ends for future contention"
+          ],
+          "tradeableSurplus": [
+            "Chuba Hubbard (Peak veteran RB value ideal for flipping to playoff-push contenders)"
+          ],
+          "constraintsApplied": [
+            "Retool Goal: Prioritize high-value future draft capital and young ascending players over stale immediate production",
+            "Starter-for-Starter Realism: Ensure all incoming player assets belong to the league-relative starter/FLEX pool",
+            "Two-Organization Alignment: Solve the buyer's must-win playoff push needs while fulfilling user retool goals"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Eliminated rebuilders (Crimson Tide Pods, DMV Fantasy, Southside Savages) who have no interest in buying veteran running back production",
+            "Eliminated elite title favorites (Conquistadors, Corgi Loaf Baking Co., Smoky Valley Wheat Warriors) whose existing S-tier running back depth renders Hubbard a non-essential upgrade for their price",
+            "Eliminated teams lacking current 2027 1st-round draft picks or young starter-caliber assets required to meet Market Reality standards"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Lightskin Legends",
+            "targetGoal": "Increase Playoff Odds",
+            "targetAssets": [
+              {
+                "name": "Josh Downs",
+                "assetType": "player",
+                "owner": "Lightskin Legends ✊🏽",
+                "position": "WR",
+                "age": 25,
+                "cavi": 40.6,
+                "davi": 79.2,
+                "publicMarket": 75,
+                "leagueMarket": 77
+              },
+              {
+                "name": "2027 Round 1 (Lightskin Legends ✊🏽)",
+                "assetType": "pick",
+                "owner": "Lightskin Legends ✊🏽",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Chuba Hubbard",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 27,
+                "cavi": 73,
+                "davi": 85.1,
+                "publicMarket": 75,
+                "leagueMarket": 78
+              }
+            ],
+            "scenarioType": "Playoff Push Value Capture",
+            "strategicGoal": "Trade Chuba Hubbard to a bubble team needing backfield firepower in exchange for a 2027 1st-round pick and productive 25-year-old slot receiver Josh Downs.",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 22,
+              "packageMatch": 17,
+              "lineupReplacement": 12,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 82,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Josh Downs provides high-floor PPR slot production (D-AVI 79.2, age 25) that complements Nico Collins and DeVonta Smith, paired with a valuable 2027 1st-round draft pick.",
+            "whyOpponentMightAccept": "Lightskin Legends (4-5, seed 10) is fighting for a wildcard berth and lacks reliable backfield depth behind Javonte Williams and Chase Brown. Hubbard provides an immediate starting RB/FLEX upgrade.",
+            "championshipImpact": "Lightskin Legends increases their weekly scoring floor and playoff qualification odds, while Big Balder Brand secures long-term asset appreciation.",
+            "dynastyImpact": "Big Balder Brand adds a 2027 1st-round pick and a young, proven PPR receiver in Josh Downs, bolstering future lineup flexibility.",
+            "rosterImpact": "Josh Downs slots directly into Big Balder Brand's FLEX/WR rotation, adding consistent targets to a young passing attack.",
+            "publicMarketContext": "Josh Downs is recognized as a premier target-earner in PPR formats, while Hubbard's high-volume role commands strong contender interest.",
+            "risks": [
+              "Downs operates primarily in the slot, capping high-end TD upside",
+              "Lightskin Legends' 2027 1st could slide late if Hubbard propels them deep into the playoffs"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Chuba Hubbard for 2027 1st (Lightskin Legends) and Josh Downs, highlighting Hubbard's immediate impact on their must-win matchups.",
+              "acceptableConcession": "If Downs is unavailable, accept 2027 1st (Lightskin Legends) plus TE Terrance Ferguson or WR Keon Coleman.",
+              "walkAwayPoint": "Walk away if Lightskin Legends refuses to include a 2027 1st-round selection."
+            },
+            "playoffImpact": [
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 10,
+                "opponent": "crimson-tide",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 19.84
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 19
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.74
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 15.37
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.87
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 12.61
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Tyler Allgeier",
+                      "points": 9.53
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Omarion Hampton",
+                      "points": 7.75
+                    }
+                  ],
+                  "holes": [],
+                  "points": 112.71
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 19.84
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.74
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Tyler Allgeier",
+                      "points": 9.53
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 15.37
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.87
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 12.61
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Omarion Hampton",
+                      "points": 7.75
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Greg Dulcich",
+                      "points": 7.63
+                    }
+                  ],
+                  "holes": [],
+                  "points": 101.34
+                },
+                "delta": -11.37,
+                "unavailable": []
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 11,
+                "opponent": "conquistadors",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "C.J. Stroud",
+                      "points": 23.14
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.68
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 15.19
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.94
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 10.76
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 12.7
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Godwin Jr.",
+                      "points": 9.09
+                    }
+                  ],
+                  "holes": [],
+                  "points": 117.5
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "C.J. Stroud",
+                      "points": 23.14
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 15.19
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Omarion Hampton",
+                      "points": 8.76
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.94
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 10.76
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 12.7
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Godwin Jr.",
+                      "points": 9.09
+                    }
+                  ],
+                  "holes": [],
+                  "points": 110.58
+                },
+                "delta": -6.92,
+                "unavailable": []
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 12,
+                "opponent": "northside",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 26.38
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.22
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.18
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.04
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.48
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.46
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 14.47
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.9
+                    }
+                  ],
+                  "holes": [],
+                  "points": 128.13
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 26.38
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.22
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Tyler Allgeier",
+                      "points": 11.55
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.04
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.48
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.46
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 14.47
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.9
+                    }
+                  ],
+                  "holes": [],
+                  "points": 124.5
+                },
+                "delta": -3.63,
+                "unavailable": []
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 13,
+                "opponent": "crimson-tide",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 21.73
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.75
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.2
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.65
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Greg Dulcich",
+                      "points": 6.85
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.9
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 12.81
+                    }
+                  ],
+                  "holes": [],
+                  "points": 117.95
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 21.73
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Tyler Allgeier",
+                      "points": 10.44
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.2
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.65
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Greg Dulcich",
+                      "points": 6.85
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.9
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 12.81
+                    }
+                  ],
+                  "holes": [],
+                  "points": 112.64
+                },
+                "delta": -5.31,
+                "unavailable": []
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 14,
+                "opponent": "conquistadors",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "C.J. Stroud",
+                      "points": 23.65
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 18.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.53
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 17.08
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 15.38
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 13.81
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 12.34
+                    }
+                  ],
+                  "holes": [],
+                  "points": 125.31
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "C.J. Stroud",
+                      "points": 23.65
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.53
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Omarion Hampton",
+                      "points": 9.83
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 17.08
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 15.38
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 13.81
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 12.34
+                    }
+                  ],
+                  "holes": [],
+                  "points": 116.77
+                },
+                "delta": -8.54,
+                "unavailable": []
+              },
+              {
+                "team": "Lightskin Legends",
+                "risk": "bubble",
+                "week": 10,
+                "opponent": "southside",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jared Goff",
+                      "points": 20.9
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Javonte Williams",
+                      "points": 17.27
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chase Brown",
+                      "points": 13.46
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Parker Washington",
+                      "points": 15.12
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Josh Downs",
+                      "points": 7.51
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Mike Gesicki",
+                      "points": 9.74
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Kyle Pitts Sr.",
+                      "points": 9.17
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Travis Etienne Jr.",
+                      "points": 8.32
+                    }
+                  ],
+                  "holes": [],
+                  "points": 101.49
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jared Goff",
+                      "points": 20.9
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 19
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Javonte Williams",
+                      "points": 17.27
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Parker Washington",
+                      "points": 15.12
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Keon Coleman",
+                      "points": 7.45
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Mike Gesicki",
+                      "points": 9.74
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chase Brown",
+                      "points": 13.46
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Kyle Pitts Sr.",
+                      "points": 9.17
+                    }
+                  ],
+                  "holes": [],
+                  "points": 112.11
+                },
+                "delta": 10.62,
+                "unavailable": []
+              },
+              {
+                "team": "Lightskin Legends",
+                "risk": "bubble",
+                "week": 11,
+                "opponent": "wheat-warriors",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Dak Prescott",
+                      "points": 23.16
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Javonte Williams",
+                      "points": 19.63
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chase Brown",
+                      "points": 14.39
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Parker Washington",
+                      "points": 14.93
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Ladd McConkey",
+                      "points": 11.77
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Mike Gesicki",
+                      "points": 10.73
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Keon Coleman",
+                      "points": 9.05
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Josh Downs",
+                      "points": 8.76
+                    }
+                  ],
+                  "holes": [],
+                  "points": 112.42
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Dak Prescott",
+                      "points": 23.16
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Javonte Williams",
+                      "points": 19.63
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.68
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Parker Washington",
+                      "points": 14.93
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Ladd McConkey",
+                      "points": 11.77
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Mike Gesicki",
+                      "points": 10.73
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chase Brown",
+                      "points": 14.39
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Keon Coleman",
+                      "points": 9.05
+                    }
+                  ],
+                  "holes": [],
+                  "points": 119.34
+                },
+                "delta": 6.92,
+                "unavailable": []
+              },
+              {
+                "team": "Lightskin Legends",
+                "risk": "bubble",
+                "week": 12,
+                "opponent": "rapid-valley",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jared Goff",
+                      "points": 23.99
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Javonte Williams",
+                      "points": 16.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chase Brown",
+                      "points": 15.36
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Parker Washington",
+                      "points": 16.74
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Ladd McConkey",
+                      "points": 11.89
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Mike Gesicki",
+                      "points": 9.99
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Travis Etienne Jr.",
+                      "points": 10.73
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Kyle Pitts Sr.",
+                      "points": 8.39
+                    }
+                  ],
+                  "holes": [],
+                  "points": 113.15
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jared Goff",
+                      "points": 23.99
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Javonte Williams",
+                      "points": 16.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chase Brown",
+                      "points": 15.36
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Parker Washington",
+                      "points": 16.74
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Ladd McConkey",
+                      "points": 11.89
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Mike Gesicki",
+                      "points": 9.99
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chuba Hubbard",
+                      "points": 15.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Travis Etienne Jr.",
+                      "points": 10.73
+                    }
+                  ],
+                  "holes": [],
+                  "points": 119.94
+                },
+                "delta": 6.79,
+                "unavailable": []
+              },
+              {
+                "team": "Lightskin Legends",
+                "risk": "bubble",
+                "week": 13,
+                "opponent": "southside",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jared Goff",
+                      "points": 21.49
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Javonte Williams",
+                      "points": 14.94
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chase Brown",
+                      "points": 13.68
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Parker Washington",
+                      "points": 16.54
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Ladd McConkey",
+                      "points": 11.47
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Kyle Pitts Sr.",
+                      "points": 9.84
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Mike Gesicki",
+                      "points": 9.4
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Travis Etienne Jr.",
+                      "points": 9.39
+                    }
+                  ],
+                  "holes": [],
+                  "points": 106.75
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jared Goff",
+                      "points": 21.49
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.75
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Javonte Williams",
+                      "points": 14.94
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Parker Washington",
+                      "points": 16.54
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Ladd McConkey",
+                      "points": 11.47
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Kyle Pitts Sr.",
+                      "points": 9.84
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chase Brown",
+                      "points": 13.68
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Mike Gesicki",
+                      "points": 9.4
+                    }
+                  ],
+                  "holes": [],
+                  "points": 113.11
+                },
+                "delta": 6.36,
+                "unavailable": []
+              },
+              {
+                "team": "Lightskin Legends",
+                "risk": "bubble",
+                "week": 14,
+                "opponent": "wheat-warriors",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jared Goff",
+                      "points": 21.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chase Brown",
+                      "points": 12.44
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Travis Etienne Jr.",
+                      "points": 10.52
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Parker Washington",
+                      "points": 16.05
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Ladd McConkey",
+                      "points": 12.35
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Mike Gesicki",
+                      "points": 9.24
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Josh Downs",
+                      "points": 8.88
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Kyle Pitts Sr.",
+                      "points": 8.81
+                    }
+                  ],
+                  "holes": [],
+                  "points": 99.66
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jared Goff",
+                      "points": 21.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 18.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chase Brown",
+                      "points": 12.44
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Parker Washington",
+                      "points": 16.05
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Ladd McConkey",
+                      "points": 12.35
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Mike Gesicki",
+                      "points": 9.24
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Travis Etienne Jr.",
+                      "points": 10.52
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Kyle Pitts Sr.",
+                      "points": 8.81
+                    }
+                  ],
+                  "holes": [],
+                  "points": 109.15
+                },
+                "delta": 9.49,
+                "unavailable": []
+              }
+            ],
+            "playoffRace": [
+              {
+                "team": "Lightskin Legends",
+                "risk": "bubble",
+                "seed": 10,
+                "record": "4-5",
+                "opponent": "Southside Savages",
+                "winsToMatchTodaysWildcardRecord": 1,
+                "pointsFromTodaysWildcard": 5.7
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "seed": 15,
+                "record": "1-8",
+                "opponent": "Crimson Tide Pods",
+                "winsToMatchTodaysWildcardRecord": 4,
+                "pointsFromTodaysWildcard": -109.4
+              }
+            ],
+            "validationNotes": [],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "searchCoverage": {
+          "scope": "All other teams",
+          "rostersCompared": 15,
+          "packagesReturnedForValidation": 3
+        },
+        "organizationGoals": [
+          {
+            "team": "Big Balder Brand",
+            "goal": "Retool",
+            "source": "playoff picture",
+            "reason": "Deep outside the bracket. Needs 4 of 5 remaining wins just to match today’s provisional wildcard record.",
+            "status": "Playoff Push"
+          },
+          {
+            "team": "Lightskin Legends",
+            "goal": "Increase Playoff Odds",
+            "source": "playoff picture",
+            "reason": "Verified bubble or must-win playoff race.",
+            "status": "Playoff Push"
+          }
+        ],
+        "playoffRace": [
+          {
+            "team": "Big Balder Brand",
+            "risk": "in the race",
+            "seed": 15,
+            "record": "1-8",
+            "opponent": "Crimson Tide Pods",
+            "winsToMatchTodaysWildcardRecord": 4,
+            "pointsFromTodaysWildcard": -109.4
+          }
+        ]
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Terrance Ferguson NFL draft 2026",
+          "Emeka Egbuka NFL draft 2026",
+          "Woody Marks NFL draft 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNR-uK-CJatA7AkWsrlC4ggqu34ORXdF14e_v1EoCOsn5l-lpE06siEXkQBilZrMLIz6WFbC9QusofXRvPfwt29XV__xMKiCEpR-VKvU0xkQdL1_yjapB5jaLYLGtnsf_Z7eMwHHNUCP0c_FXebchBCmNQ9nFVBEWLvRveBKcGvmIa637X8C9LoPKGgMDJafY=",
+            "title": "ramblinfan.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb0z1dRV9K2lBteeEjL1hLEIGYgU71JbnBBM4Z49hdM8u6yJD6COtz-JwP1LWV5czEHdFuGrXV3Y62wk3o_mqE8apaceRiMElALqspvO4tKAVPBtTyFaJ-WZZNRWOX0HLokkc2mFK5n0H38bQp5T9qtF2lNz4jlrCFBXrKwl47",
+            "title": "pewterreport.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzbACbpoUM4O12z9ytO9TGGmY0K868WwiSE5Gq5x1IffWBpgyCC3hvYVAvIuoyDbqeGZOUlxVxf_QNwJMRtjoc0zbsbyt4TntuWjvU3Bq_KGoflqaXcQLyzltR7o9edrNUDj-aaHOOaJpQiAnjq7QTgWEkURCMD8pv1lJm1GAfEgDLtAc8k9Vcx5Q942Uu4PgVDxA=",
+            "title": "profootballnetwork.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Xavier Worthy",
+          "Chuba Hubbard",
+          "Jake Ferguson",
+          "Terrance Ferguson",
+          "Michael Wilson",
+          "Puka Nacua",
+          "Marvin Harrison Jr.",
+          "Jaylen Warren",
+          "Josh Downs",
+          "Emeka Egbuka",
+          "Woody Marks",
+          "Tucker Kraft",
+          "DJ Moore",
+          "Joe Burrow"
+        ],
+        "aviCoreCommitSha": "d978695f6bc2888acea0e9751f284113c4b564d5",
+        "aviCoreCommittedAt": "2026-11-16T20:35:59Z",
+        "sourcesUsed": [
+          "derived/late-season-playoff-push",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 735610,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 253,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
   },
   {
     "id": "mwjqextj-4ed828ed",
