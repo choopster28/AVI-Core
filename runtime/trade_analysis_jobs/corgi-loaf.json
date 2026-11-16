@@ -1,5 +1,32 @@
 [
   {
+    "id": "mwjikgeh-7b6bcce1",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1794848689674,
+    "updatedAt": 1794848689674,
+    "expiresAt": 1795280689674,
+    "status": "queued"
+  },
+  {
     "id": "mwji8xqp-43282902",
     "phase": "initial",
     "mode": "shop_assets",
