@@ -1,5 +1,30 @@
 [
   {
+    "id": "mwjp96yu-7f0c000a",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "franchise",
+      "goal": "Retool",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "assetsToShop": [
+        {
+          "name": "Chuba Hubbard",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1794859921542,
+    "updatedAt": 1794859921542,
+    "expiresAt": 1795291921542,
+    "status": "queued"
+  },
+  {
     "id": "mwjp1tzr-e4a10325",
     "phase": "initial",
     "mode": "shop_assets",
