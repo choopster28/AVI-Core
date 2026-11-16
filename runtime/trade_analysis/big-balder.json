@@ -1,5 +1,3560 @@
 [
   {
+    "id": "mwjptpra-c086cf83",
+    "createdAt": 1794860943521,
+    "expiresAt": 1795292943521,
+    "mode": "shop_assets",
+    "title": "Initial Shop Assets · Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Found 3 qualifying offers for Corgi Loaf Baking Co..",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite WR starting core featuring Jaxon Smith-Njigba and Malik Nabers",
+            "Top-tier TE positional anchor in Trey McBride",
+            "Division 3 leader with strong 8-1 record and secured playoff push"
+          ],
+          "priorityNeeds": [
+            "Immediate weekly scoring floor upgrade in FLEX/RB/TE slots to maximize championship odds",
+            "Capitalizing on Saquon Barkley's high dynasty valuation before late-season attrition"
+          ],
+          "tradeableSurplus": [
+            "Saquon Barkley (high D-AVI running back asset)"
+          ],
+          "constraintsApplied": [
+            "Must send Saquon Barkley in all proposed trade packages",
+            "Every candidate must satisfy both Corgi Loaf Baking Co.'s Win Championship goal and target team's goal",
+            "Target assets must belong to starter-caliber pool and verified roster owners"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Eliminated pure rebuilders unwilling to absorb 29-year-old running back contract profile without deep draft capital",
+            "Eliminated direct divisional rivals lacking surplus starter-caliber TE/RB assets",
+            "Eliminated teams with unaligned competitive windows or unverified roster assets"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Smoky Valley Wheat Warriors",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "George Kittle",
+                "assetType": "player",
+                "owner": "SmokyValleyWheatWarriors",
+                "position": "TE",
+                "age": 33,
+                "cavi": 81.7,
+                "davi": 85.3,
+                "publicMarket": 82,
+                "leagueMarket": 81.7
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 52.2,
+                "davi": 85.3,
+                "publicMarket": 84,
+                "leagueMarket": 85.3
+              }
+            ],
+            "scenarioType": "Star-for-Star Positional Swap",
+            "strategicGoal": "Win Championship",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 22,
+              "packageMatch": 18,
+              "lineupReplacement": 14,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 88,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Acquiring George Kittle (81.7 C-AVI) instantly elevates Corgi Loaf's second FLEX slot with an elite 15+ PPG tight end ceiling alongside Trey McBride, providing a massive weekly scoring boost over Saquon Barkley's capped current output.",
+            "whyOpponentMightAccept": "Smoky Valley Wheat Warriors hold Mark Andrews as tight end depth and get a marquee RB in Saquon Barkley to pair with Christian McCaffrey and James Cook III for an all-out championship push.",
+            "championshipImpact": "Increases projected weekly starting lineup points by ~8-12 PPR points through elite TE/FLEX production.",
+            "dynastyImpact": "Swaps equal D-AVI assets (85.3 vs 85.3), maintaining total franchise asset valuation while realigning positional ceiling.",
+            "rosterImpact": "Establishes a double-TE lineup advantage with Trey McBride and George Kittle starting concurrently.",
+            "publicMarketContext": "George Kittle is producing at an elite level in 2026, while Saquon Barkley retains top-tier public dynasty brand value.",
+            "risks": [
+              "Age curve risk with 33-year-old Kittle relative to 29-year-old Barkley"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose straight-up Saquon Barkley for George Kittle, highlighting Wheat Warriors' tight end surplus with Mark Andrews.",
+              "acceptableConcession": "Offer to swap 2028 3rd round picks if Wheat Warriors require minor pick sweetener.",
+              "walkAwayPoint": "Walk away if Wheat Warriors demand Trey McBride or additional 1st/2nd round draft picks."
+            },
+            "playoffImpact": [
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "week": 10,
+                "opponent": "phalhala",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 22.27
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 12.11
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 22.75
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.34
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 14.55
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 11.98
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Ryan Flournoy",
+                      "points": 8.89
+                    }
+                  ],
+                  "holes": [],
+                  "points": 121.26
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 22.27
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 12.11
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 22.75
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.34
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "George Kittle",
+                      "points": 15.24
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Trey McBride",
+                      "points": 14.55
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 11.98
+                    }
+                  ],
+                  "holes": [],
+                  "points": 127.61
+                },
+                "delta": 6.35,
+                "unavailable": []
+              },
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "week": 11,
+                "opponent": "dakota-danglers",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 25.67
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 16.51
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 12.5
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.27
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DJ Moore",
+                      "points": 13.46
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 13.55
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Ryan Flournoy",
+                      "points": 10.45
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Michael Mayer",
+                      "points": 8.5
+                    }
+                  ],
+                  "holes": [],
+                  "points": 116.91
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 25.67
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 16.51
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Mike Washington Jr.",
+                      "points": 5.24
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.27
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DJ Moore",
+                      "points": 13.46
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 13.55
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "George Kittle",
+                      "points": 12.5
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Ryan Flournoy",
+                      "points": 10.45
+                    }
+                  ],
+                  "holes": [],
+                  "points": 113.65
+                },
+                "delta": -3.26,
+                "unavailable": []
+              },
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "week": 12,
+                "opponent": "ravens-regime",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 20.75
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 18.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 15.95
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 24.35
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.36
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 18.34
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rhamondre Stevenson",
+                      "points": 13.91
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 12.29
+                    }
+                  ],
+                  "holes": [],
+                  "points": 140.01
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 20.75
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 18.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Rhamondre Stevenson",
+                      "points": 13.91
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 24.35
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.36
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 18.34
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "George Kittle",
+                      "points": 13.66
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 12.29
+                    }
+                  ],
+                  "holes": [],
+                  "points": 137.72
+                },
+                "delta": -2.29,
+                "unavailable": []
+              },
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "week": 13,
+                "opponent": "phalhala",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 18.05
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 15.17
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 13.06
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 26.29
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 15.34
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 16.35
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 13.68
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.54
+                    }
+                  ],
+                  "holes": [],
+                  "points": 130.48
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 18.05
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 13.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.54
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 26.29
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 15.34
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 16.35
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "George Kittle",
+                      "points": 14.63
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 13.68
+                    }
+                  ],
+                  "holes": [],
+                  "points": 129.94
+                },
+                "delta": -0.54,
+                "unavailable": []
+              },
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "week": 14,
+                "opponent": "dakota-danglers",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 22.03
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 17.29
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 12.69
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 24.6
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 14.32
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Michael Mayer",
+                      "points": 8.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 13.02
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.35
+                    }
+                  ],
+                  "holes": [],
+                  "points": 124.48
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 22.03
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 12.69
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.35
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 24.6
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 14.32
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "George Kittle",
+                      "points": 13.89
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 13.02
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Michael Mayer",
+                      "points": 8.18
+                    }
+                  ],
+                  "holes": [],
+                  "points": 121.08
+                },
+                "delta": -3.4,
+                "unavailable": []
+              },
+              {
+                "team": "Smoky Valley Wheat Warriors",
+                "risk": "in the race",
+                "week": 10,
+                "opponent": "rapid-valley",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Trevor Lawrence",
+                      "points": 22.14
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Christian McCaffrey",
+                      "points": 22.28
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "James Cook III",
+                      "points": 17.34
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "CeeDee Lamb",
+                      "points": 19.88
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Chris Olave",
+                      "points": 16.06
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "George Kittle",
+                      "points": 15.24
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Wan'Dale Robinson",
+                      "points": 11.19
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rico Dowdle",
+                      "points": 9.76
+                    }
+                  ],
+                  "holes": [],
+                  "points": 133.89
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Trevor Lawrence",
+                      "points": 22.14
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Christian McCaffrey",
+                      "points": 22.28
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "James Cook III",
+                      "points": 17.34
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "CeeDee Lamb",
+                      "points": 19.88
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Chris Olave",
+                      "points": 16.06
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Mark Andrews",
+                      "points": 6.93
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Wan'Dale Robinson",
+                      "points": 11.19
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rico Dowdle",
+                      "points": 9.76
+                    }
+                  ],
+                  "holes": [],
+                  "points": 125.58
+                },
+                "delta": -8.31,
+                "unavailable": [
+                  "Saquon Barkley (bye)"
+                ]
+              },
+              {
+                "team": "Smoky Valley Wheat Warriors",
+                "risk": "in the race",
+                "week": 11,
+                "opponent": "lightskin",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Trevor Lawrence",
+                      "points": 22.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Christian McCaffrey",
+                      "points": 19.62
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "James Cook III",
+                      "points": 17.87
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "CeeDee Lamb",
+                      "points": 22.08
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Chris Olave",
+                      "points": 15.59
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "George Kittle",
+                      "points": 12.5
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Wan'Dale Robinson",
+                      "points": 9.77
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rico Dowdle",
+                      "points": 8.36
+                    }
+                  ],
+                  "holes": [],
+                  "points": 128.16
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Trevor Lawrence",
+                      "points": 22.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Christian McCaffrey",
+                      "points": 19.62
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "James Cook III",
+                      "points": 17.87
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "CeeDee Lamb",
+                      "points": 22.08
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Chris Olave",
+                      "points": 15.59
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Mark Andrews",
+                      "points": 6.23
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Saquon Barkley",
+                      "points": 12.5
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Wan'Dale Robinson",
+                      "points": 9.77
+                    }
+                  ],
+                  "holes": [],
+                  "points": 126.03
+                },
+                "delta": -2.13,
+                "unavailable": []
+              },
+              {
+                "team": "Smoky Valley Wheat Warriors",
+                "risk": "in the race",
+                "week": 12,
+                "opponent": "southside",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Trevor Lawrence",
+                      "points": 24.38
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Christian McCaffrey",
+                      "points": 20.28
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "James Cook III",
+                      "points": 16.54
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "CeeDee Lamb",
+                      "points": 18.47
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Chris Olave",
+                      "points": 16.41
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "George Kittle",
+                      "points": 13.66
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Wan'Dale Robinson",
+                      "points": 9.59
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Woody Marks",
+                      "points": 7.74
+                    }
+                  ],
+                  "holes": [],
+                  "points": 127.07
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Trevor Lawrence",
+                      "points": 24.38
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Christian McCaffrey",
+                      "points": 20.28
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "James Cook III",
+                      "points": 16.54
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "CeeDee Lamb",
+                      "points": 18.47
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Chris Olave",
+                      "points": 16.41
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Mark Andrews",
+                      "points": 6.81
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Saquon Barkley",
+                      "points": 15.95
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Wan'Dale Robinson",
+                      "points": 9.59
+                    }
+                  ],
+                  "holes": [],
+                  "points": 128.43
+                },
+                "delta": 1.36,
+                "unavailable": []
+              },
+              {
+                "team": "Smoky Valley Wheat Warriors",
+                "risk": "in the race",
+                "week": 13,
+                "opponent": "rapid-valley",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Trevor Lawrence",
+                      "points": 26.77
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Christian McCaffrey",
+                      "points": 22.74
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "James Cook III",
+                      "points": 18.11
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "CeeDee Lamb",
+                      "points": 17.55
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Chris Olave",
+                      "points": 15.38
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "George Kittle",
+                      "points": 14.63
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Wan'Dale Robinson",
+                      "points": 10.38
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rico Dowdle",
+                      "points": 8.18
+                    }
+                  ],
+                  "holes": [],
+                  "points": 133.74
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Trevor Lawrence",
+                      "points": 26.77
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Christian McCaffrey",
+                      "points": 22.74
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "James Cook III",
+                      "points": 18.11
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "CeeDee Lamb",
+                      "points": 17.55
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Chris Olave",
+                      "points": 15.38
+                    },
+                    {
+                      "slot": "TE",
+                      "name": null,
+                      "points": null
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Saquon Barkley",
+                      "points": 15.17
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Wan'Dale Robinson",
+                      "points": 10.38
+                    }
+                  ],
+                  "holes": [
+                    "TE"
+                  ],
+                  "points": 126.1
+                },
+                "delta": -7.64,
+                "unavailable": []
+              },
+              {
+                "team": "Smoky Valley Wheat Warriors",
+                "risk": "in the race",
+                "week": 14,
+                "opponent": "lightskin",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Trevor Lawrence",
+                      "points": 23.57
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Christian McCaffrey",
+                      "points": 20.03
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "James Cook III",
+                      "points": 17.6
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Chris Olave",
+                      "points": 14.88
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Wan'Dale Robinson",
+                      "points": 10.2
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "George Kittle",
+                      "points": 13.89
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Woody Marks",
+                      "points": 8.55
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rico Dowdle",
+                      "points": 7.6
+                    }
+                  ],
+                  "holes": [],
+                  "points": 116.32
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Trevor Lawrence",
+                      "points": 23.57
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Christian McCaffrey",
+                      "points": 20.03
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "James Cook III",
+                      "points": 17.6
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Chris Olave",
+                      "points": 14.88
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Wan'Dale Robinson",
+                      "points": 10.2
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Mark Andrews",
+                      "points": 6.75
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Saquon Barkley",
+                      "points": 17.29
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Woody Marks",
+                      "points": 8.55
+                    }
+                  ],
+                  "holes": [],
+                  "points": 118.87
+                },
+                "delta": 2.55,
+                "unavailable": []
+              }
+            ],
+            "playoffRace": [
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "seed": 3,
+                "record": "8-1",
+                "opponent": "Phalhala or Bust",
+                "winsToMatchTodaysWildcardRecord": 0,
+                "pointsFromTodaysWildcard": 211.5
+              },
+              {
+                "team": "Smoky Valley Wheat Warriors",
+                "risk": "in the race",
+                "seed": 4,
+                "record": "5-4",
+                "opponent": "Rapid Valley Annihilation",
+                "winsToMatchTodaysWildcardRecord": 0,
+                "pointsFromTodaysWildcard": 197.6
+              }
+            ],
+            "validationNotes": [],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Ravens Regime",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Travis Kelce",
+                "assetType": "player",
+                "owner": "Ravens Regime",
+                "position": "TE",
+                "age": 37,
+                "cavi": 77.9,
+                "davi": 80.5,
+                "publicMarket": 76,
+                "leagueMarket": 77.9
+              },
+              {
+                "name": "2028 Round 3 (Ravens Regime)",
+                "assetType": "pick",
+                "owner": "Ravens Regime",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 16.5,
+                "publicMarket": 16.5,
+                "leagueMarket": 16.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 52.2,
+                "davi": 85.3,
+                "publicMarket": 84,
+                "leagueMarket": 85.3
+              }
+            ],
+            "scenarioType": "Contender TE Upgrade for Retooling Age Pivoting",
+            "strategicGoal": "Win Championship",
+            "scoring": {
+              "availability": 24,
+              "opposingGmMotivation": 21,
+              "packageMatch": 17,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 84,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Travis Kelce provides immediate 77.9 C-AVI production in Patrick Mahomes' offense, giving Corgi Loaf a proven playoff winner for the 2026 title run plus future pick capital.",
+            "whyOpponentMightAccept": "Ravens Regime is Retooling and turns 37-year-old Travis Kelce into 29-year-old Saquon Barkley (85.3 D-AVI), gaining 8 years of age curve advantage at a marquee position.",
+            "championshipImpact": "Adds reliable 13-16 PPR weekly floor to active FLEX/TE starting lineup.",
+            "dynastyImpact": "Exchanges short-term TE points for a major age upgrade for the seller while netting 2028 draft capital.",
+            "rosterImpact": "Locks in Patrick Mahomes + Travis Kelce stack in Kansas City for the championship run.",
+            "publicMarketContext": "Kelce remains a high-volume target safety valve, while Barkley offers retoolers marquee dynasty RB status.",
+            "risks": [
+              "Travis Kelce's potential end-of-season retirement consideration"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Barkley for Kelce and 2028 3rd round pick, leveraging the 8-year age gap in favor of Ravens Regime's retool.",
+              "acceptableConcession": "Accept Kelce straight up if draft pick is firmly rejected.",
+              "walkAwayPoint": "Walk away if Ravens Regime asks Corgi Loaf to attach any 2027 draft picks."
+            },
+            "playoffImpact": [
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "week": 10,
+                "opponent": "phalhala",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 22.27
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 12.11
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 22.75
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.34
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 14.55
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 11.98
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Ryan Flournoy",
+                      "points": 8.89
+                    }
+                  ],
+                  "holes": [],
+                  "points": 121.26
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 22.27
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 12.11
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 22.75
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.34
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 14.55
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Travis Kelce",
+                      "points": 12.79
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 11.98
+                    }
+                  ],
+                  "holes": [],
+                  "points": 125.16
+                },
+                "delta": 3.9,
+                "unavailable": []
+              },
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "week": 11,
+                "opponent": "dakota-danglers",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 25.67
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 16.51
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 12.5
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.27
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DJ Moore",
+                      "points": 13.46
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 13.55
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Ryan Flournoy",
+                      "points": 10.45
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Michael Mayer",
+                      "points": 8.5
+                    }
+                  ],
+                  "holes": [],
+                  "points": 116.91
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 25.67
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 16.51
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Mike Washington Jr.",
+                      "points": 5.24
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.27
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DJ Moore",
+                      "points": 13.46
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 13.55
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Travis Kelce",
+                      "points": 12.5
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Ryan Flournoy",
+                      "points": 10.45
+                    }
+                  ],
+                  "holes": [],
+                  "points": 113.65
+                },
+                "delta": -3.26,
+                "unavailable": []
+              },
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "week": 12,
+                "opponent": "ravens-regime",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 20.75
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 18.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 15.95
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 24.35
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.36
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 18.34
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rhamondre Stevenson",
+                      "points": 13.91
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 12.29
+                    }
+                  ],
+                  "holes": [],
+                  "points": 140.01
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 20.75
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 18.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Rhamondre Stevenson",
+                      "points": 13.91
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 24.35
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.36
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 18.34
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 12.29
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Travis Kelce",
+                      "points": 11.63
+                    }
+                  ],
+                  "holes": [],
+                  "points": 135.69
+                },
+                "delta": -4.32,
+                "unavailable": []
+              },
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "week": 13,
+                "opponent": "phalhala",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 18.05
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 15.17
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 13.06
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 26.29
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 15.34
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 16.35
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 13.68
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.54
+                    }
+                  ],
+                  "holes": [],
+                  "points": 130.48
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 18.05
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 13.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.54
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 26.29
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 15.34
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 16.35
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 13.68
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Travis Kelce",
+                      "points": 11.6
+                    }
+                  ],
+                  "holes": [],
+                  "points": 126.91
+                },
+                "delta": -3.57,
+                "unavailable": []
+              },
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "week": 14,
+                "opponent": "dakota-danglers",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 22.03
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 17.29
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 12.69
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 24.6
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 14.32
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Michael Mayer",
+                      "points": 8.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 13.02
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.35
+                    }
+                  ],
+                  "holes": [],
+                  "points": 124.48
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 22.03
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 12.69
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.35
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 24.6
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 14.32
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Travis Kelce",
+                      "points": 12.81
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 13.02
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Michael Mayer",
+                      "points": 8.18
+                    }
+                  ],
+                  "holes": [],
+                  "points": 120
+                },
+                "delta": -4.48,
+                "unavailable": []
+              },
+              {
+                "team": "Ravens Regime",
+                "risk": "in the race",
+                "week": 10,
+                "opponent": "dakota-danglers",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bryce Young",
+                      "points": 21.26
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Derrick Henry",
+                      "points": 15.16
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Blake Corum",
+                      "points": 10.89
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Zay Flowers",
+                      "points": 15.98
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "KC Concepcion Jr.",
+                      "points": 10.79
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Travis Kelce",
+                      "points": 12.79
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jordyn Tyson",
+                      "points": 9.02
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Reggie Virgil",
+                      "points": 6.17
+                    }
+                  ],
+                  "holes": [],
+                  "points": 102.06
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bryce Young",
+                      "points": 21.26
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Derrick Henry",
+                      "points": 15.16
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Blake Corum",
+                      "points": 10.89
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Zay Flowers",
+                      "points": 15.98
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "KC Concepcion Jr.",
+                      "points": 10.79
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Eli Raridon",
+                      "points": 5.95
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jordyn Tyson",
+                      "points": 9.02
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Reggie Virgil",
+                      "points": 6.17
+                    }
+                  ],
+                  "holes": [],
+                  "points": 95.22
+                },
+                "delta": -6.84,
+                "unavailable": [
+                  "Saquon Barkley (bye)"
+                ]
+              },
+              {
+                "team": "Ravens Regime",
+                "risk": "in the race",
+                "week": 11,
+                "opponent": "phalhala",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bryce Young",
+                      "points": 20.32
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Derrick Henry",
+                      "points": 15.31
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "David Montgomery",
+                      "points": 13.64
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Zay Flowers",
+                      "points": 14.71
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Carnell Tate",
+                      "points": 12.26
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Travis Kelce",
+                      "points": 12.5
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jordyn Tyson",
+                      "points": 11.43
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Kyle Monangai",
+                      "points": 8.35
+                    }
+                  ],
+                  "holes": [],
+                  "points": 108.52
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bryce Young",
+                      "points": 20.32
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Derrick Henry",
+                      "points": 15.31
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "David Montgomery",
+                      "points": 13.64
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Zay Flowers",
+                      "points": 14.71
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Carnell Tate",
+                      "points": 12.26
+                    },
+                    {
+                      "slot": "TE",
+                      "name": null,
+                      "points": null
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Saquon Barkley",
+                      "points": 12.5
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jordyn Tyson",
+                      "points": 11.43
+                    }
+                  ],
+                  "holes": [
+                    "TE"
+                  ],
+                  "points": 100.17
+                },
+                "delta": -8.35,
+                "unavailable": []
+              },
+              {
+                "team": "Ravens Regime",
+                "risk": "in the race",
+                "week": 12,
+                "opponent": "corgi-loaf",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bryce Young",
+                      "points": 16.75
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Derrick Henry",
+                      "points": 14.39
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Blake Corum",
+                      "points": 10.4
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Zay Flowers",
+                      "points": 15.81
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jordyn Tyson",
+                      "points": 12.08
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Travis Kelce",
+                      "points": 11.63
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Carnell Tate",
+                      "points": 12.02
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "KC Concepcion Jr.",
+                      "points": 11.78
+                    }
+                  ],
+                  "holes": [],
+                  "points": 104.86
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bryce Young",
+                      "points": 16.75
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 15.95
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Derrick Henry",
+                      "points": 14.39
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Zay Flowers",
+                      "points": 15.81
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jordyn Tyson",
+                      "points": 12.08
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Eli Raridon",
+                      "points": 5.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Carnell Tate",
+                      "points": 12.02
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "KC Concepcion Jr.",
+                      "points": 11.78
+                    }
+                  ],
+                  "holes": [],
+                  "points": 103.96
+                },
+                "delta": -0.9,
+                "unavailable": []
+              },
+              {
+                "team": "Ravens Regime",
+                "risk": "in the race",
+                "week": 13,
+                "opponent": "dakota-danglers",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Cam Ward",
+                      "points": 17.17
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "David Montgomery",
+                      "points": 9.57
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Blake Corum",
+                      "points": 9.52
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Carnell Tate",
+                      "points": 12.97
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "KC Concepcion Jr.",
+                      "points": 11.35
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Travis Kelce",
+                      "points": 11.6
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jordyn Tyson",
+                      "points": 11.3
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Kyle Monangai",
+                      "points": 6.76
+                    }
+                  ],
+                  "holes": [],
+                  "points": 90.24
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Cam Ward",
+                      "points": 17.17
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 15.17
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "David Montgomery",
+                      "points": 9.57
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Carnell Tate",
+                      "points": 12.97
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "KC Concepcion Jr.",
+                      "points": 11.35
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Eli Raridon",
+                      "points": 4.62
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jordyn Tyson",
+                      "points": 11.3
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Blake Corum",
+                      "points": 9.52
+                    }
+                  ],
+                  "holes": [],
+                  "points": 91.67
+                },
+                "delta": 1.43,
+                "unavailable": []
+              },
+              {
+                "team": "Ravens Regime",
+                "risk": "in the race",
+                "week": 14,
+                "opponent": "phalhala",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bryce Young",
+                      "points": 21.05
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Derrick Henry",
+                      "points": 12.82
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "David Montgomery",
+                      "points": 10.53
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Zay Flowers",
+                      "points": 15.83
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Carnell Tate",
+                      "points": 13.38
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Travis Kelce",
+                      "points": 12.81
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "KC Concepcion Jr.",
+                      "points": 11.01
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jordyn Tyson",
+                      "points": 10.91
+                    }
+                  ],
+                  "holes": [],
+                  "points": 108.34
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bryce Young",
+                      "points": 21.05
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 17.29
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Derrick Henry",
+                      "points": 12.82
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Zay Flowers",
+                      "points": 15.83
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Carnell Tate",
+                      "points": 13.38
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Eli Raridon",
+                      "points": 4.5
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "KC Concepcion Jr.",
+                      "points": 11.01
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jordyn Tyson",
+                      "points": 10.91
+                    }
+                  ],
+                  "holes": [],
+                  "points": 106.79
+                },
+                "delta": -1.55,
+                "unavailable": []
+              }
+            ],
+            "playoffRace": [
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "seed": 3,
+                "record": "8-1",
+                "opponent": "Phalhala or Bust",
+                "winsToMatchTodaysWildcardRecord": 0,
+                "pointsFromTodaysWildcard": 211.5
+              },
+              {
+                "team": "Ravens Regime",
+                "risk": "in the race",
+                "seed": 5,
+                "record": "7-2",
+                "opponent": "Badland Banditos",
+                "winsToMatchTodaysWildcardRecord": 0,
+                "pointsFromTodaysWildcard": 45.9
+              }
+            ],
+            "validationNotes": [],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Big Balder Brand",
+            "targetGoal": "Increase Playoff Odds",
+            "targetAssets": [
+              {
+                "name": "Chuba Hubbard",
+                "assetType": "player",
+                "owner": "Big Balder Brand",
+                "position": "RB",
+                "age": 27,
+                "cavi": 73,
+                "davi": 85.1,
+                "publicMarket": 75,
+                "leagueMarket": 73
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 52.2,
+                "davi": 85.3,
+                "publicMarket": 84,
+                "leagueMarket": 85.3
+              }
+            ],
+            "scenarioType": "Current Scoring Floor for Dynasty Prestige Swap",
+            "strategicGoal": "Win Championship",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 20,
+              "packageMatch": 16,
+              "lineupReplacement": 12,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 78,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Chuba Hubbard is handling true workhorse volume (73.0 C-AVI) and provides immediate starting RB production to solidify Corgi Loaf's backfield depth alongside Rhamondre Stevenson and Cam Skattebo.",
+            "whyOpponentMightAccept": "Big Balder Brand is pushing to Increase Playoff Odds and upgrades long-term dynasty value by acquiring elite cornerstone Saquon Barkley.",
+            "championshipImpact": "Immediate +20.8 C-AVI improvement in RB starting slot value for Corgi Loaf.",
+            "dynastyImpact": "Near-equal D-AVI swap (85.3 vs 85.1) with 2-year younger RB returning to Corgi Loaf.",
+            "rosterImpact": "Replaces volatile RB production with locked-in 20+ touch weekly starter.",
+            "publicMarketContext": "Chuba Hubbard is coming off a monster 32-touch performance, while Barkley commands elite brand capital.",
+            "risks": [
+              "Carolina backfield split risk if Jonathan Brooks volume expands late in season"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Saquon Barkley for Chuba Hubbard straight up, pitching Barkley's elite star status.",
+              "acceptableConcession": "Include a future 4th round pick if Big Balder Brand hesitates on Chuba's recent volume.",
+              "walkAwayPoint": "Walk away if Big Balder Brand demands any 1st or 2nd round draft assets."
+            },
+            "playoffImpact": [
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "week": 10,
+                "opponent": "phalhala",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 22.27
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 12.11
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 22.75
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.34
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 14.55
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 11.98
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Ryan Flournoy",
+                      "points": 8.89
+                    }
+                  ],
+                  "holes": [],
+                  "points": 121.26
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 22.27
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 19
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.37
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 22.75
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.34
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 14.55
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Cam Skattebo",
+                      "points": 12.11
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 11.98
+                    }
+                  ],
+                  "holes": [],
+                  "points": 131.37
+                },
+                "delta": 10.11,
+                "unavailable": []
+              },
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "week": 11,
+                "opponent": "dakota-danglers",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 25.67
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 16.51
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 12.5
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.27
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DJ Moore",
+                      "points": 13.46
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 13.55
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Ryan Flournoy",
+                      "points": 10.45
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Michael Mayer",
+                      "points": 8.5
+                    }
+                  ],
+                  "holes": [],
+                  "points": 116.91
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 25.67
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 16.51
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.68
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.27
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DJ Moore",
+                      "points": 13.46
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 13.55
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Ryan Flournoy",
+                      "points": 10.45
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Michael Mayer",
+                      "points": 8.5
+                    }
+                  ],
+                  "holes": [],
+                  "points": 120.09
+                },
+                "delta": 3.18,
+                "unavailable": []
+              },
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "week": 12,
+                "opponent": "ravens-regime",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 20.75
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 18.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 15.95
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 24.35
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.36
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 18.34
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rhamondre Stevenson",
+                      "points": 13.91
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 12.29
+                    }
+                  ],
+                  "holes": [],
+                  "points": 140.01
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 20.75
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 18.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.18
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 24.35
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 16.36
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 18.34
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rhamondre Stevenson",
+                      "points": 13.91
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 12.29
+                    }
+                  ],
+                  "holes": [],
+                  "points": 139.24
+                },
+                "delta": -0.77,
+                "unavailable": []
+              },
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "week": 13,
+                "opponent": "phalhala",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 18.05
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 15.17
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 13.06
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 26.29
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 15.34
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 16.35
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 13.68
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.54
+                    }
+                  ],
+                  "holes": [],
+                  "points": 130.48
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 18.05
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.75
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 13.06
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 26.29
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 15.34
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Trey McBride",
+                      "points": 16.35
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 13.68
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.54
+                    }
+                  ],
+                  "holes": [],
+                  "points": 131.06
+                },
+                "delta": 0.58,
+                "unavailable": []
+              },
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "week": 14,
+                "opponent": "dakota-danglers",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 22.03
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 17.29
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 12.69
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 24.6
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 14.32
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Michael Mayer",
+                      "points": 8.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 13.02
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.35
+                    }
+                  ],
+                  "holes": [],
+                  "points": 124.48
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Patrick Mahomes",
+                      "points": 22.03
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 18.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Cam Skattebo",
+                      "points": 12.69
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jaxon Smith-Njigba",
+                      "points": 24.6
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Nabers",
+                      "points": 14.32
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Michael Mayer",
+                      "points": 8.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DJ Moore",
+                      "points": 13.02
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rhamondre Stevenson",
+                      "points": 12.35
+                    }
+                  ],
+                  "holes": [],
+                  "points": 125.56
+                },
+                "delta": 1.08,
+                "unavailable": []
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 10,
+                "opponent": "crimson-tide",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 19.84
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 19
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.74
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 15.37
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.87
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 12.61
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Tyler Allgeier",
+                      "points": 9.53
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Omarion Hampton",
+                      "points": 7.75
+                    }
+                  ],
+                  "holes": [],
+                  "points": 112.71
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 19.84
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.74
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Tyler Allgeier",
+                      "points": 9.53
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 15.37
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.87
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 12.61
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Omarion Hampton",
+                      "points": 7.75
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Greg Dulcich",
+                      "points": 7.63
+                    }
+                  ],
+                  "holes": [],
+                  "points": 101.34
+                },
+                "delta": -11.37,
+                "unavailable": [
+                  "Saquon Barkley (bye)"
+                ]
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 11,
+                "opponent": "conquistadors",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 23.05
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.68
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 15.3
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.01
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.94
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 10.84
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 12.56
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Godwin Jr.",
+                      "points": 9.09
+                    }
+                  ],
+                  "holes": [],
+                  "points": 117.47
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 23.05
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 15.3
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 12.5
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.01
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 14.94
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 10.84
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 12.56
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Godwin Jr.",
+                      "points": 9.09
+                    }
+                  ],
+                  "holes": [],
+                  "points": 114.29
+                },
+                "delta": -3.18,
+                "unavailable": []
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 12,
+                "opponent": "northside",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 26.38
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.22
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.18
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.04
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.48
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.46
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 14.47
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.9
+                    }
+                  ],
+                  "holes": [],
+                  "points": 128.13
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 26.38
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.22
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 15.95
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.04
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.48
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.46
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 14.47
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.9
+                    }
+                  ],
+                  "holes": [],
+                  "points": 128.9
+                },
+                "delta": 0.77,
+                "unavailable": []
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 13,
+                "opponent": "crimson-tide",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 21.73
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 15.75
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.2
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.65
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Greg Dulcich",
+                      "points": 6.85
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.9
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 12.81
+                    }
+                  ],
+                  "holes": [],
+                  "points": 117.95
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jayden Daniels",
+                      "points": 21.73
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 16.06
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 15.17
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 16.2
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "DeVonta Smith",
+                      "points": 14.65
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Greg Dulcich",
+                      "points": 6.85
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashee Rice",
+                      "points": 13.9
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 12.81
+                    }
+                  ],
+                  "holes": [],
+                  "points": 117.37
+                },
+                "delta": -0.58,
+                "unavailable": []
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "week": 14,
+                "opponent": "conquistadors",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "C.J. Stroud",
+                      "points": 23.65
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chuba Hubbard",
+                      "points": 18.37
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.53
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 17.08
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 15.38
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 13.81
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 12.34
+                    }
+                  ],
+                  "holes": [],
+                  "points": 125.31
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "C.J. Stroud",
+                      "points": 23.65
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Saquon Barkley",
+                      "points": 17.29
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Bhayshul Tuten",
+                      "points": 13.53
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Nico Collins",
+                      "points": 17.08
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Rashee Rice",
+                      "points": 15.38
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Tyler Warren",
+                      "points": 11.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "DeVonta Smith",
+                      "points": 13.81
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "A.J. Brown",
+                      "points": 12.34
+                    }
+                  ],
+                  "holes": [],
+                  "points": 124.23
+                },
+                "delta": -1.08,
+                "unavailable": []
+              }
+            ],
+            "playoffRace": [
+              {
+                "team": "Corgi Loaf Baking Co.",
+                "risk": "in the race",
+                "seed": 3,
+                "record": "8-1",
+                "opponent": "Phalhala or Bust",
+                "winsToMatchTodaysWildcardRecord": 0,
+                "pointsFromTodaysWildcard": 211.5
+              },
+              {
+                "team": "Big Balder Brand",
+                "risk": "in the race",
+                "seed": 15,
+                "record": "1-8",
+                "opponent": "Crimson Tide Pods",
+                "winsToMatchTodaysWildcardRecord": 4,
+                "pointsFromTodaysWildcard": -109.4
+              }
+            ],
+            "validationNotes": [],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "searchCoverage": {
+          "scope": "All other teams",
+          "rostersCompared": 15,
+          "packagesReturnedForValidation": 3
+        },
+        "playoffRace": [
+          {
+            "team": "Corgi Loaf Baking Co.",
+            "risk": "in the race",
+            "seed": 3,
+            "record": "8-1",
+            "opponent": "Phalhala or Bust",
+            "winsToMatchTodaysWildcardRecord": 0,
+            "pointsFromTodaysWildcard": 211.5
+          }
+        ]
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "George Kittle news 2026",
+          "Saquon Barkley news 2026",
+          "Travis Kelce news 2026",
+          "Mike Evans news 2026",
+          "Jameson Williams news 2026",
+          "Isaiah Likely news 2026",
+          "Chuba Hubbard news 2026",
+          "D'Andre Swift news 2026",
+          "Jonah Coleman college football 2026",
+          "Ollie Gordon II NFL draft 2026 2027"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJqfxb0UF8VfjAOpkenxu8_TSaL5kT4MjMCdiOtlgQ_8Uuv0oj9oaxjc4lRhI5lw8EBS9mhGk3jbP5vTZUF0nGIun8PMLjNhypN8j0sTbgiuHEIC-VJjypRmKfhOPk3vTCjfOAQaPLKV6KOSbv3lpECFsZ4y_nbXSwwXDNwVwQoo1VT3vQzFLCgImxwzr7mg==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYZ4jNKi5Ndj008Cpm5ZMuTNdRUaEMb1vu1J6Gk2ioJHTPQbKCwp5C-xYT-slFAFC3uhetR10gIKVgcqiOlzbtenbGAs5oOiX02v9-hKOzOMlsNNLbFwwQ4ZrYUfJtMp-vVkTdVFHvjTwvBLqPg4XfXaOBUwsG1xCtjAsew_GTbslqzi4a0qAyoMA__-FCciVHMcr6uzR4XRzcqks1MaSo7OI=",
+            "title": "panthers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQkK7sa7eTqD8nGZPZ7VDSURzlTynWfeDFXHzJowfROBMLE3lqkh63zB0cdwo031KScUyLgxAQ1v7HxGKjC7w5soxwdPeQktDWydy2fKYRsLLBkSe0bsJXbjpouLDw8ROxT3dOIqXsIFqWdBED_N8F6-l4VoiRNStjvMeLo2gBCXyBXYvdgKn_auXlGul5dWOklPB0pWs=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdZSUmGfUR7tMMimNg1aCZsDw-pzOCE3Yx9JVLuxN3jYqUu2OnbQrPYszJ6zGuR-5xhSp5V1ArMsOP0fKj2-ODfv-hjQcCZJMLwP-KnlH5IjgpgozBNN4riv61sNDdf3FFW2YpsB0PzYca4aHucJwReuCM2nzlo_0uoLXGc7y0F3w_mMveuREZBb8j4u2eWBYBhgImwFBPYY1bmPusErr8ejiGsCqXndTsyHm3",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlDjCy6fZWkPPJ-YUQFXafy2XokMAhv2xb5knFyrYLutvYdcaGI_92weJNV9OG2Hm5mGmJOXfKZCDr0HnVBbYkRZKZwNFYHMEj-IRUphYnB7CpkcXD1pBofEicAMpL3hx0A0NmsWwHsVYVvqGsPPeYqg2CnWt-xRzEJEmmacuInF9AaGPA_BFa9dF0rmQU6j9Hnw==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx2MW9MYm9wtiHtYw6ja8Rjc9Lbcr9S-T2Jo733bdrOUQHNDz_Fv8pDZPR1qWMY0qAZyzGmegtN5LwDD4jWMWGhMUlUZoNm82rYBzblRjpWWrNsejG8Yt-FOYHu6XnBTB0E_iZMVPTj7fPAtz70M9nvWqo4wNN9UToXJBjGswMFCNe1HNxHSS5B3pEzpHjKdaW_WLLH0zVl25a_osLDhnLjcO5QIY=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGne-PtV9eLh743p9AIfgpYmG0CQGDgOcNYTqsgmSAAHEtEWGxn-uY-nFmwl8PFuQ2HP_HXLnZ_CCFSf0g1ShkyQFxpMLA2Zkfjns5BOa-OzEwcLpMWb8tMGA4ZOcqmpIqHTGpKwHs4Js4QV98LFho1Raqosv_T4fjOXoV6g1vawiWi63LBpYFYfeM-f86MkVktzyQfpVSfsEi_PBg=",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG54l5nPd4aRm8CdII-4CenwZ3opxymiwGSZltqE3HI2KfDJI6hb6y-K0SdkHm16WDh99f9M_2yrldjo7DhsTKC_3F-LFXnLFzA5H5E4aCDEP89ApcWsXxvUJBB5790BCsqTrI8cjK8jXAzxKIl6c-lF7jnbTutw7TyVdscJn9e0UP4-g2VlxMpuwJ4Ko-zFC_D8essE88Yji1iWIvRCD24nYg",
+            "title": "phillyvoice.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo1VTafRmeKzhQ3MPMMBueCSBDWNjyQXfGHtBqw14znjzeugUKfMXAxY8E6_zMBL_qFenpAL3VIPLb0Po2_oIuRyKzQoysNDX8vG9qMMzZszBuILr5W5pwr6njiU9VT-_3V0Lt-vfoMQFD-N0PxlgiJqmFzGVJ7Wjyc6awK1KkBOl0EyQy_ZycKNmDrG4=",
+            "title": "heavy.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtgRBTLRvBizBG6kFcoH_DyOyiq2e157YdLMN8VIGRSkqvrqsLOnSO9nLRI0rexTg4gVuZQTtnLMcvMKBC9XJc9UQqR_W9s616xQbugCMOfq9AJDPa99EFqEGTwoK-fToHqxBgzO5QuHlbMBTmEFFQ6bjt-vOwEs-eHNkJky8gj7tTEgfpHV7N39rYaf9O6BOrWiAvVeqnAVPvefH-HYvkdtbuOPWuG-pcCsLNUm7nnQ==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg8RCWoNuwyL5gW_5FOY-fb0ENpFlTa4Vu4jAm-Biz3pvOZKz6Ns-ktL3WTsDD8vBR4wRRW4Wwpl1uCDOOUSm7ZzRb7mBGjYkv4Plmki_z-FsNvPJoIlIltJ_ed5If-qHRxLRREz_jhMlvibwJiWYxHHag5NrzNw_u_2hhhQo0fWdubwHrNhvvkSi8vtGyHC2yGRpFGkIhHJ74ekfJnlRK01nN76sK",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsOeT3aCfMFOKr9dJbEFzr-5KlkB-jN6XdC1jPp2Mdudx3UlbX-k9FR50hU8Gk_fgtvOf-HK8PQ8YDJMi8F5aJJkd0_PjEOm2nUTPjx0G8Sa_nDSL4ENYWgN3SAlGA0VQTwQQSwqRrZ3xPcfSkyN5Iahpp7tCTwwobjqZMPgMRLZjvPfn1e698zdwqSEGLpjvhKpU6n5jQg841jnWq8C_dlzeaRn6VH14-FPEPiWhDviyHuKMgxenkUxP6Rr9GFtGN_22NZT_KY12lkfxL69VSATKkHZsuKPhJoYCTDqgg29hHC_wW6RBSBDnFqV978lcBVki95w==",
+            "title": "indiatimes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTPBMvcK1RBolIZkV_yNeAXBjCdVSVcVmTSakiM6YyFW5CFQIkSORNjlEexoIr1-kVh94mRgZ8vLrlcc0SCywDHt-DYbnHrRVYMvGox58mkjb68AW9k7IY58cm05lnv-stlP8j0WCIg0gxW5uehGXsOE8fFo3-6_GPWWMorRNFj8_GWGvHgk1QJAb-97RT4lAO9thILNSFef4yrWz4",
+            "title": "arrowheadaddict.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhZx_uePGGw0rQgh-4RtJnVhaqIIrluSwPIf8QW5WenGVFBYJSrwFZs1MgFdaAMEnu6l6l1I5L6wgqcQ2GtdYzw75tNoqmU1UDXf47kuyMZNAMZllyqvjLf_obqenytg64wvN5TWRVKo1vuiNV",
+            "title": "speaks.co.in"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS6emR3DnwDoCVi4-ER-WrF5ir5ucf9hrwK5CNW6NYLjVcS3qYPHYuCUN5wuK4tLr0SX_fxDmI9veUwGK9UtDcx90doHlFlojmvEM_Z2n3MwWgZC-LYh4tkn-FUAcrcXTcUMaXuabTLbmp22O9J2MrAY7BB80kRtky5S94B0n0C-oePTZIkpOetrft",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEKavKQOSjIpcMq54uhLDzey8yxskzyf8rS7Q2Hgx4uPOyxu1fguo8p2DLMNE23ehrn7M9TjuRcnsHmsilb9Aw71sWl40aMB_r7LNbiZ_B9TB_YtJf3NdtaSFL1wim2M-ML-0uyxIHLEmj3gKJjsXIiEc29VR0a0R3JV7nLrFi624xZJCIGaX95Q==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeU18M5RiYQ5u94rIhyqz9tgCACpNSNpeUWli_wE6v12wv97P7FxE3Nx2yt242FSdCvBElzqX5pFncTbM8Th0HG4DHgCufM-q9pSfVgzfPnLm1Skb8mRDZpl-_71K2FDY3aZkDkqG-6N2BXC0YnrbkRtAomXJ-j-oV4hmb__qC4-I_tQfJJ_uOXYIMWhxhgposem7NtCumMDqR8bneIlid7czxhzjcnmwaKA==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZlSZwnOYLm-BYj2QIclmlvfu-Ctg1S8cKhqYECvTAisq0ZdAelK-UtWJl12BiVrYmMQNTjhI21VNuTPu2Z3_FINsCYjymngIoCm-K-jtSltt7HgUnyGHiMfoFdjVks36xpBDNtPVIeB_l8OEGzXQNp0ZkkNMvzERWVudaAZ77pZLfc4_XrYl5g-Y7z58ehtuZzLfAv_ISG7DQPi3ddw8=",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKEZD2Q13TPyu7lNCmNFCu-EaYTN_IG9w26jyZHif7qRY3RetnCcfSZROcoLdfNdSEh5ot5vhqoEu0EX1sj7vXmX24l4VxteL7iA1wJReTwmRtm2REVlfpf31HV4AuQ6Rqt-JKbGWbI1g5ZXMupnneZdYiCkOtrHdwkXKrbqIFyJlgC3XNo0dbTMQ1O0hyLR6upV8WgNhPMlrL3UjVRPIQYavnEzF4F51u-TGW7qELvCStrrjwV9jXczFbtfsNmLlHj8xYb_r73Q==",
+            "title": "operationsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETcSjRjiF0AMD8ZXAv-YZ1aV2MF_fYOa7ZwFGepJr4s6J-OkBZGHaa_fIjScyWKukBMATewHmBLJhSgkw4svX-6be76pNKecnt4CxZwKp0hquJMENUeqm-6kICsG7e8eZtGCdkzqROE0CrdxrXsLBcmSBd7t3lSq0SWrRi_S_aIRpdtEP02B4eyI7jQmDUGCI=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI4eZQeI0WXYREQIkWUXsrRz9yu2n2L5YBrhrU0CXMIFyYPT7VlRUCFEebsjJVgEqPtzqptbLe5XCjr9GvcAv09kxMeugBKEhUbAAglhNaOxiy-ygT3ocEL1aK_H6TdPVlQm2erIRLUkW-jmKiBqlMbmG5FMucfEODnqC-8A26c-WYxspcE89zwMVC0wyf",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPwa_a3jxYPjCvn-4znatTxVp6KzOlTFegpFfmvqQn5lrbzxEgoQETszzSiHMgQsxaftvXnQNUwUN7RVWWXzaA5fnDStbC2p3fr5hPQ4Hx2Ady89xHPTF6fGc2b-pQ6WBadD4dpFqj",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQBbqEDniishZyyWpOlEtZcXKDqSwO8TikcEan7TEPnVmIZ1LjLW90ub7GNLAsyyAbo7cg7x6ZUgsTR31rapPpnnbgzvOuX-5KNXciuwpGhqLOyANWc3bM2g2pEffcs7oG28JBzznaCvVEVrsTS1a4QeSaWWqEk73d2CK52M6Qrt3yEFrlnGKSK4tOuq6ciWXlsMJux4L7ehooqz8Dy8RBDNFRXgpO0DU-F0TJvfA1g3RBNBY=",
+            "title": "sportsmockery.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH83RXX1AOF1mGhaOIngF7LuR_TwapBKoBf_eKN6b1jTXOLbV90l6sVVqqorYgjMRzP579XLtuxrrRpeXAGa6XWfVxP6YaGUOI88rN19-nfLI3LC5O4GUTuridI13gjDev8b_He3KYG57NSF9UfPVC8uU8m5ZJA-6AD7h0zlv094fZgJFTdQc5oBEkMElLPh4Ar8YtTeGNCUmPY-J7YudglzKrtJ72tTYO0-QgpAyQil3XgwNLu",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPJM8e-rpsmMU3wd6z4qWAG8_4y9cwaONLWleiD-eWsU9cKVCJz2mHLfvA9Z7v8XtyfsLq1-u6m0vxYZM1CR-Eutqyo2szIZolmnFkyZYo_zlR5eaZqs6ZiMVXvpkhA6YU",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQVoFW8EWGpLQ1fhgn2RbH111N4x13IjP7hBJYHj4ZsV1WuVMJRv-cB_-IXmvuD2T33T1dvmGsAeC61S1ZVCpyNfYrsh9qCVdI-QNZi8X7UY9N5SouXd2ynjelcKC55bAalz8YW25Omc_kcxZKWm04G6yttKNuBs_PEpNsJRaqeivHJrn1xCA3Jjqm9wm6d63oz5Z67Z9NCDeKHxE6YP9nrKvh3gTD7ktbu2Kkyw==",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6MHCgKiUIJCrNfSFqvqQThpCKnxIOUiDZTCcer6aqJh5_ZpG0yX8r1OVae9Dop2nq03aZPFQ6fZfMY86RLycYg3N-nFxcvdWDUYc9EPGvT8Kt7vqGnrgIRYIH-GgCN7_4",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBIklKXjyXgIogP-eNGX-LsLHyp-xrGMwhc8GfNi6CIy7teeRYgv_TeLdPTAZ-JqqarBv4d9SO9mpzfq0b0fpMv5xc5HWscHV35MrmEuAuvLSo2d9zKkVRh7QPovO2R8iAVstbft99fK1Puvfq8WRKAhp_3EZIt4gDdkR57Q==",
+            "title": "miamidolphins.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFidQ74vsB0ELQhaQoD9GxpxF8TTOhQJ7GDfRMOzpw1uAkYB4Nq1C2vR82qtl4lDps6xdNbpFKEZDBK7OE406oGXuZvLIU5Nog_FaPlCc0jQiPT5lFDbihGwwYPh5iXIuM-",
+            "title": "youtube.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Travis Kelce",
+          "Saquon Barkley",
+          "Mike Evans",
+          "George Kittle",
+          "Isaiah Likely",
+          "Chuba Hubbard",
+          "Jameson Williams",
+          "D'Andre Swift",
+          "Jonah Coleman",
+          "Ollie Gordon II"
+        ],
+        "aviCoreCommitSha": "b5a1f82d5c4823b95cf09e2e0013a42030c69154",
+        "aviCoreCommittedAt": "2026-11-16T10:22:55Z",
+        "sourcesUsed": [
+          "derived/late-season-playoff-push",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 733507,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 253,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mwjp96yu-7f0c000a",
     "createdAt": 1794859979005,
     "expiresAt": 1795291979005,
