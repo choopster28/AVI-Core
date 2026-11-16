@@ -2035,8 +2035,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12536
 - Position: WR
 - NFL team: HOU
-- Championship AVI (C-AVI, 0-100): 38.2
-- Dynasty AVI (D-AVI, 0-100): 67.7
+- Championship AVI (C-AVI, 0-100): 38.3
+- Dynasty AVI (D-AVI, 0-100): 70.7
 - Availability: available
 
 ## AVAILABLE PLAYER: J.K. Dobbins
@@ -2044,8 +2044,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 6806
 - Position: RB
 - NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 37.8
-- Dynasty AVI (D-AVI, 0-100): 69.8
+- Championship AVI (C-AVI, 0-100): 38.0
+- Dynasty AVI (D-AVI, 0-100): 73.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Mason Taylor
@@ -2053,8 +2053,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12498
 - Position: TE
 - NFL team: NYJ
-- Championship AVI (C-AVI, 0-100): 35.6
-- Dynasty AVI (D-AVI, 0-100): 66.0
+- Championship AVI (C-AVI, 0-100): 35.7
+- Dynasty AVI (D-AVI, 0-100): 67.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Tyquan Thornton
@@ -2062,8 +2062,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 8188
 - Position: WR
 - NFL team: KC
-- Championship AVI (C-AVI, 0-100): 32.9
-- Dynasty AVI (D-AVI, 0-100): 54.3
+- Championship AVI (C-AVI, 0-100): 33.2
+- Dynasty AVI (D-AVI, 0-100): 59.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Jerry Jeudy
@@ -2071,8 +2071,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 6783
 - Position: WR
 - NFL team: CLE
-- Championship AVI (C-AVI, 0-100): 30.2
-- Dynasty AVI (D-AVI, 0-100): 65.5
+- Championship AVI (C-AVI, 0-100): 30.4
+- Dynasty AVI (D-AVI, 0-100): 68.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Jacoby Brissett
@@ -2080,8 +2080,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 3257
 - Position: QB
 - NFL team: BAL
-- Championship AVI (C-AVI, 0-100): 29.4
-- Dynasty AVI (D-AVI, 0-100): 55.4
+- Championship AVI (C-AVI, 0-100): 29.7
+- Dynasty AVI (D-AVI, 0-100): 60.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Tory Horton
@@ -2089,8 +2089,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12497
 - Position: WR
 - NFL team: SEA
-- Championship AVI (C-AVI, 0-100): 27.5
-- Dynasty AVI (D-AVI, 0-100): 63.0
+- Championship AVI (C-AVI, 0-100): 27.7
+- Dynasty AVI (D-AVI, 0-100): 66.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Cyrus Allen
@@ -2098,17 +2098,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 13413
 - Position: WR
 - NFL team: KC
-- Championship AVI (C-AVI, 0-100): 27.3
-- Dynasty AVI (D-AVI, 0-100): 59.8
-- Availability: available
-
-## AVAILABLE PLAYER: Malik Willis
-- Player name: Malik Willis
-- Player ID: 8161
-- Position: QB
-- NFL team: MIA
-- Championship AVI (C-AVI, 0-100): 27.2
-- Dynasty AVI (D-AVI, 0-100): 64.2
+- Championship AVI (C-AVI, 0-100): 27.5
+- Dynasty AVI (D-AVI, 0-100): 63.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Calvin Ridley
@@ -2116,8 +2107,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 4981
 - Position: WR
 - NFL team: TEN
-- Championship AVI (C-AVI, 0-100): 27.1
-- Dynasty AVI (D-AVI, 0-100): 58.8
+- Championship AVI (C-AVI, 0-100): 27.3
+- Dynasty AVI (D-AVI, 0-100): 62.6
+- Availability: available
+
+## AVAILABLE PLAYER: Malik Willis
+- Player name: Malik Willis
+- Player ID: 8161
+- Position: QB
+- NFL team: MIA
+- Championship AVI (C-AVI, 0-100): 27.3
+- Dynasty AVI (D-AVI, 0-100): 66.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Ray Davis
@@ -2125,8 +2125,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11575
 - Position: RB
 - NFL team: BUF
-- Championship AVI (C-AVI, 0-100): 27.1
-- Dynasty AVI (D-AVI, 0-100): 62.1
+- Championship AVI (C-AVI, 0-100): 27.3
+- Dynasty AVI (D-AVI, 0-100): 66.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Jack Bech
@@ -2134,8 +2134,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12483
 - Position: WR
 - NFL team: LVR
-- Championship AVI (C-AVI, 0-100): 26.7
-- Dynasty AVI (D-AVI, 0-100): 62.3
+- Championship AVI (C-AVI, 0-100): 26.9
+- Dynasty AVI (D-AVI, 0-100): 65.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Theo Johnson
@@ -2143,8 +2143,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11597
 - Position: TE
 - NFL team: NYG
-- Championship AVI (C-AVI, 0-100): 26.6
-- Dynasty AVI (D-AVI, 0-100): 61.3
+- Championship AVI (C-AVI, 0-100): 26.7
+- Dynasty AVI (D-AVI, 0-100): 63.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Darnell Mooney
@@ -2152,17 +2152,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 7090
 - Position: WR
 - NFL team: NYG
-- Championship AVI (C-AVI, 0-100): 26.4
-- Dynasty AVI (D-AVI, 0-100): 58.9
-- Availability: available
-
-## AVAILABLE PLAYER: Evan Engram
-- Player name: Evan Engram
-- Player ID: 4066
-- Position: TE
-- NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 26.0
-- Dynasty AVI (D-AVI, 0-100): 60.5
+- Championship AVI (C-AVI, 0-100): 26.6
+- Dynasty AVI (D-AVI, 0-100): 62.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Kalif Raymond
@@ -2170,8 +2161,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 3634
 - Position: WR
 - NFL team: CHI
-- Championship AVI (C-AVI, 0-100): 25.9
-- Dynasty AVI (D-AVI, 0-100): 46.6
+- Championship AVI (C-AVI, 0-100): 26.3
+- Dynasty AVI (D-AVI, 0-100): 54.1
+- Availability: available
+
+## AVAILABLE PLAYER: Evan Engram
+- Player name: Evan Engram
+- Player ID: 4066
+- Position: TE
+- NFL team: DEN
+- Championship AVI (C-AVI, 0-100): 26.1
+- Dynasty AVI (D-AVI, 0-100): 62.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Troy Franklin
@@ -2179,17 +2179,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11627
 - Position: WR
 - NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 25.6
-- Dynasty AVI (D-AVI, 0-100): 63.5
-- Availability: available
-
-## AVAILABLE PLAYER: Sean Tucker
-- Player name: Sean Tucker
-- Player ID: 9506
-- Position: RB
-- NFL team: TB
-- Championship AVI (C-AVI, 0-100): 25.3
-- Dynasty AVI (D-AVI, 0-100): 60.5
+- Championship AVI (C-AVI, 0-100): 25.7
+- Dynasty AVI (D-AVI, 0-100): 66.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Ty Johnson
@@ -2197,26 +2188,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 6039
 - Position: RB
 - NFL team: BUF
-- Championship AVI (C-AVI, 0-100): 25.3
-- Dynasty AVI (D-AVI, 0-100): 52.5
-- Availability: available
-
-## AVAILABLE PLAYER: Isaiah Davis
-- Player name: Isaiah Davis
-- Player ID: 11571
-- Position: RB
-- NFL team: NYJ
-- Championship AVI (C-AVI, 0-100): 25.2
-- Dynasty AVI (D-AVI, 0-100): 58.6
-- Availability: available
-
-## AVAILABLE PLAYER: Noah Gray
-- Player name: Noah Gray
-- Player ID: 7828
-- Position: TE
-- NFL team: KC
-- Championship AVI (C-AVI, 0-100): 25.2
-- Dynasty AVI (D-AVI, 0-100): 47.9
+- Championship AVI (C-AVI, 0-100): 25.6
+- Dynasty AVI (D-AVI, 0-100): 59.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Darius Slayton
@@ -2224,8 +2197,35 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 6149
 - Position: WR
 - NFL team: FA
-- Championship AVI (C-AVI, 0-100): 25.1
-- Dynasty AVI (D-AVI, 0-100): 48.6
+- Championship AVI (C-AVI, 0-100): 25.5
+- Dynasty AVI (D-AVI, 0-100): 54.1
+- Availability: available
+
+## AVAILABLE PLAYER: Isaiah Davis
+- Player name: Isaiah Davis
+- Player ID: 11571
+- Position: RB
+- NFL team: NYJ
+- Championship AVI (C-AVI, 0-100): 25.5
+- Dynasty AVI (D-AVI, 0-100): 63.9
+- Availability: available
+
+## AVAILABLE PLAYER: Sean Tucker
+- Player name: Sean Tucker
+- Player ID: 9506
+- Position: RB
+- NFL team: TB
+- Championship AVI (C-AVI, 0-100): 25.5
+- Dynasty AVI (D-AVI, 0-100): 65.7
+- Availability: available
+
+## AVAILABLE PLAYER: Noah Gray
+- Player name: Noah Gray
+- Player ID: 7828
+- Position: TE
+- NFL team: KC
+- Championship AVI (C-AVI, 0-100): 25.4
+- Dynasty AVI (D-AVI, 0-100): 51.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Dawson Knox
@@ -2233,8 +2233,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 5906
 - Position: TE
 - NFL team: BUF
-- Championship AVI (C-AVI, 0-100): 25.1
-- Dynasty AVI (D-AVI, 0-100): 47.5
+- Championship AVI (C-AVI, 0-100): 25.3
+- Dynasty AVI (D-AVI, 0-100): 51.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Marvin Mims Jr.
@@ -2242,17 +2242,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 9494
 - Position: WR
 - NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 25.1
-- Dynasty AVI (D-AVI, 0-100): 57.3
-- Availability: available
-
-## AVAILABLE PLAYER: Xavier Legette
-- Player name: Xavier Legette
-- Player ID: 11626
-- Position: WR
-- NFL team: CAR
-- Championship AVI (C-AVI, 0-100): 25.0
-- Dynasty AVI (D-AVI, 0-100): 57.8
+- Championship AVI (C-AVI, 0-100): 25.3
+- Dynasty AVI (D-AVI, 0-100): 61.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Marquise Brown
@@ -2260,8 +2251,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 5848
 - Position: WR
 - NFL team: PHI
-- Championship AVI (C-AVI, 0-100): 24.9
-- Dynasty AVI (D-AVI, 0-100): 56.2
+- Championship AVI (C-AVI, 0-100): 25.1
+- Dynasty AVI (D-AVI, 0-100): 60.6
+- Availability: available
+
+## AVAILABLE PLAYER: Xavier Legette
+- Player name: Xavier Legette
+- Player ID: 11626
+- Position: WR
+- NFL team: CAR
+- Championship AVI (C-AVI, 0-100): 25.1
+- Dynasty AVI (D-AVI, 0-100): 61.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Kaytron Allen
@@ -2269,8 +2269,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 13405
 - Position: RB
 - NFL team: MIA
-- Championship AVI (C-AVI, 0-100): 24.7
-- Dynasty AVI (D-AVI, 0-100): 61.8
+- Championship AVI (C-AVI, 0-100): 25.0
+- Dynasty AVI (D-AVI, 0-100): 66.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Chris Brooks
@@ -2278,7 +2278,16 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11370
 - Position: RB
 - NFL team: GB
-- Championship AVI (C-AVI, 0-100): 24.5
+- Championship AVI (C-AVI, 0-100): 24.8
+- Dynasty AVI (D-AVI, 0-100): 59.3
+- Availability: available
+
+## AVAILABLE PLAYER: Olamide Zaccheaus
+- Player name: Olamide Zaccheaus
+- Player ID: 6271
+- Position: WR
+- NFL team: ATL
+- Championship AVI (C-AVI, 0-100): 24.8
 - Dynasty AVI (D-AVI, 0-100): 52.8
 - Availability: available
 
@@ -2287,8 +2296,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 13268
 - Position: WR
 - NFL team: BAL
-- Championship AVI (C-AVI, 0-100): 24.5
-- Dynasty AVI (D-AVI, 0-100): 62.5
+- Championship AVI (C-AVI, 0-100): 24.6
+- Dynasty AVI (D-AVI, 0-100): 65.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Skyler Bell
@@ -2296,35 +2305,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 13402
 - Position: WR
 - NFL team: BUF
-- Championship AVI (C-AVI, 0-100): 24.5
-- Dynasty AVI (D-AVI, 0-100): 58.8
-- Availability: available
-
-## AVAILABLE PLAYER: Olamide Zaccheaus
-- Player name: Olamide Zaccheaus
-- Player ID: 6271
-- Position: WR
-- NFL team: ATL
-- Championship AVI (C-AVI, 0-100): 24.4
-- Dynasty AVI (D-AVI, 0-100): 45.6
-- Availability: available
-
-## AVAILABLE PLAYER: Elic Ayomanor
-- Player name: Elic Ayomanor
-- Player ID: 12499
-- Position: WR
-- NFL team: TEN
-- Championship AVI (C-AVI, 0-100): 24.1
-- Dynasty AVI (D-AVI, 0-100): 60.2
-- Availability: available
-
-## AVAILABLE PLAYER: Isaiah Bond
-- Player name: Isaiah Bond
-- Player ID: 12503
-- Position: WR
-- NFL team: CLE
-- Championship AVI (C-AVI, 0-100): 24.1
-- Dynasty AVI (D-AVI, 0-100): 56.6
+- Championship AVI (C-AVI, 0-100): 24.6
+- Dynasty AVI (D-AVI, 0-100): 62.5
 - Availability: available
 
 ## AVAILABLE PLAYER: LeQuint Allen Jr.
@@ -2332,8 +2314,26 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12544
 - Position: RB
 - NFL team: JAC
-- Championship AVI (C-AVI, 0-100): 24.1
-- Dynasty AVI (D-AVI, 0-100): 54.4
+- Championship AVI (C-AVI, 0-100): 24.5
+- Dynasty AVI (D-AVI, 0-100): 60.9
+- Availability: available
+
+## AVAILABLE PLAYER: Elic Ayomanor
+- Player name: Elic Ayomanor
+- Player ID: 12499
+- Position: WR
+- NFL team: TEN
+- Championship AVI (C-AVI, 0-100): 24.4
+- Dynasty AVI (D-AVI, 0-100): 63.7
+- Availability: available
+
+## AVAILABLE PLAYER: Isaiah Bond
+- Player name: Isaiah Bond
+- Player ID: 12503
+- Position: WR
+- NFL team: CLE
+- Championship AVI (C-AVI, 0-100): 24.3
+- Dynasty AVI (D-AVI, 0-100): 60.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Max Klare
@@ -2342,16 +2342,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: TE
 - NFL team: LAR
 - Championship AVI (C-AVI, 0-100): 23.7
-- Dynasty AVI (D-AVI, 0-100): 64.2
-- Availability: available
-
-## AVAILABLE PLAYER: Oscar Delp
-- Player name: Oscar Delp
-- Player ID: 13319
-- Position: TE
-- NFL team: NO
-- Championship AVI (C-AVI, 0-100): 23.5
-- Dynasty AVI (D-AVI, 0-100): 61.5
+- Dynasty AVI (D-AVI, 0-100): 65.6
 - Availability: available
 
 ## AVAILABLE PLAYER: KaVontae Turpin
@@ -2359,8 +2350,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 8917
 - Position: WR
 - NFL team: DAL
-- Championship AVI (C-AVI, 0-100): 23.3
-- Dynasty AVI (D-AVI, 0-100): 43.7
+- Championship AVI (C-AVI, 0-100): 23.6
+- Dynasty AVI (D-AVI, 0-100): 48.7
+- Availability: available
+
+## AVAILABLE PLAYER: Oscar Delp
+- Player name: Oscar Delp
+- Player ID: 13319
+- Position: TE
+- NFL team: NO
+- Championship AVI (C-AVI, 0-100): 23.6
+- Dynasty AVI (D-AVI, 0-100): 63.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Charlie Kolar
@@ -2368,17 +2368,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 8127
 - Position: TE
 - NFL team: LAC
-- Championship AVI (C-AVI, 0-100): 23.0
-- Dynasty AVI (D-AVI, 0-100): 56.1
-- Availability: available
-
-## AVAILABLE PLAYER: Kyle Williams
-- Player name: Kyle Williams
-- Player ID: 12547
-- Position: WR
-- NFL team: NE
-- Championship AVI (C-AVI, 0-100): 22.9
-- Dynasty AVI (D-AVI, 0-100): 61.4
+- Championship AVI (C-AVI, 0-100): 23.2
+- Dynasty AVI (D-AVI, 0-100): 58.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Tua Tagovailoa
@@ -2386,17 +2377,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 6768
 - Position: QB
 - NFL team: ATL
-- Championship AVI (C-AVI, 0-100): 22.9
-- Dynasty AVI (D-AVI, 0-100): 53.5
+- Championship AVI (C-AVI, 0-100): 23.2
+- Dynasty AVI (D-AVI, 0-100): 58.8
 - Availability: available
 
-## AVAILABLE PLAYER: Malik Benson
-- Player name: Malik Benson
-- Player ID: 13329
+## AVAILABLE PLAYER: Kyle Williams
+- Player name: Kyle Williams
+- Player ID: 12547
 - Position: WR
-- NFL team: LVR
-- Championship AVI (C-AVI, 0-100): 22.7
-- Dynasty AVI (D-AVI, 0-100): 49.3
+- NFL team: NE
+- Championship AVI (C-AVI, 0-100): 23.1
+- Dynasty AVI (D-AVI, 0-100): 64.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Bryce Lance
@@ -2404,17 +2395,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 13420
 - Position: WR
 - NFL team: NO
-- Championship AVI (C-AVI, 0-100): 22.6
-- Dynasty AVI (D-AVI, 0-100): 55.9
-- Availability: available
-
-## AVAILABLE PLAYER: Tez Johnson
-- Player name: Tez Johnson
-- Player ID: 12485
-- Position: WR
-- NFL team: TB
-- Championship AVI (C-AVI, 0-100): 22.4
-- Dynasty AVI (D-AVI, 0-100): 54.8
+- Championship AVI (C-AVI, 0-100): 22.8
+- Dynasty AVI (D-AVI, 0-100): 59.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Barion Brown
@@ -2422,26 +2404,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 13533
 - Position: WR
 - NFL team: NO
-- Championship AVI (C-AVI, 0-100): 22.3
-- Dynasty AVI (D-AVI, 0-100): 48.5
-- Availability: available
-
-## AVAILABLE PLAYER: Will Kacmarek
-- Player name: Will Kacmarek
-- Player ID: 13434
-- Position: TE
-- NFL team: MIA
-- Championship AVI (C-AVI, 0-100): 22.3
-- Dynasty AVI (D-AVI, 0-100): 40.6
-- Availability: available
-
-## AVAILABLE PLAYER: Jordan James
-- Player name: Jordan James
-- Player ID: 12467
-- Position: RB
-- NFL team: SF
-- Championship AVI (C-AVI, 0-100): 22.2
-- Dynasty AVI (D-AVI, 0-100): 56.0
+- Championship AVI (C-AVI, 0-100): 22.7
+- Dynasty AVI (D-AVI, 0-100): 55.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Najee Harris
@@ -2449,35 +2413,35 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 7528
 - Position: RB
 - NFL team: NYG
-- Championship AVI (C-AVI, 0-100): 22.2
-- Dynasty AVI (D-AVI, 0-100): 47.2
+- Championship AVI (C-AVI, 0-100): 22.6
+- Dynasty AVI (D-AVI, 0-100): 53.9
 - Availability: available
 
-## AVAILABLE PLAYER: Noah Fant
-- Player name: Noah Fant
-- Player ID: 5857
+## AVAILABLE PLAYER: Tez Johnson
+- Player name: Tez Johnson
+- Player ID: 12485
+- Position: WR
+- NFL team: TB
+- Championship AVI (C-AVI, 0-100): 22.6
+- Dynasty AVI (D-AVI, 0-100): 59.0
+- Availability: available
+
+## AVAILABLE PLAYER: Will Kacmarek
+- Player name: Will Kacmarek
+- Player ID: 13434
 - Position: TE
-- NFL team: NO
-- Championship AVI (C-AVI, 0-100): 22.2
-- Dynasty AVI (D-AVI, 0-100): 49.7
+- NFL team: MIA
+- Championship AVI (C-AVI, 0-100): 22.6
+- Dynasty AVI (D-AVI, 0-100): 48.6
 - Availability: available
 
-## AVAILABLE PLAYER: DJ Giddens
-- Player name: DJ Giddens
-- Player ID: 12471
+## AVAILABLE PLAYER: Jordan James
+- Player name: Jordan James
+- Player ID: 12467
 - Position: RB
-- NFL team: IND
-- Championship AVI (C-AVI, 0-100): 22.0
-- Dynasty AVI (D-AVI, 0-100): 58.0
-- Availability: available
-
-## AVAILABLE PLAYER: Nate Boerkircher
-- Player name: Nate Boerkircher
-- Player ID: 13299
-- Position: TE
-- NFL team: JAC
-- Championship AVI (C-AVI, 0-100): 22.0
-- Dynasty AVI (D-AVI, 0-100): 47.2
+- NFL team: SF
+- Championship AVI (C-AVI, 0-100): 22.5
+- Dynasty AVI (D-AVI, 0-100): 60.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Trevor Etienne
@@ -2485,17 +2449,35 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12531
 - Position: RB
 - NFL team: CAR
-- Championship AVI (C-AVI, 0-100): 22.0
-- Dynasty AVI (D-AVI, 0-100): 53.6
+- Championship AVI (C-AVI, 0-100): 22.4
+- Dynasty AVI (D-AVI, 0-100): 60.9
 - Availability: available
 
-## AVAILABLE PLAYER: Daniel Bellinger
-- Player name: Daniel Bellinger
-- Player ID: 8225
+## AVAILABLE PLAYER: DJ Giddens
+- Player name: DJ Giddens
+- Player ID: 12471
+- Position: RB
+- NFL team: IND
+- Championship AVI (C-AVI, 0-100): 22.3
+- Dynasty AVI (D-AVI, 0-100): 63.3
+- Availability: available
+
+## AVAILABLE PLAYER: Noah Fant
+- Player name: Noah Fant
+- Player ID: 5857
 - Position: TE
-- NFL team: TEN
-- Championship AVI (C-AVI, 0-100): 21.9
-- Dynasty AVI (D-AVI, 0-100): 40.9
+- NFL team: NO
+- Championship AVI (C-AVI, 0-100): 22.3
+- Dynasty AVI (D-AVI, 0-100): 52.6
+- Availability: available
+
+## AVAILABLE PLAYER: Nate Boerkircher
+- Player name: Nate Boerkircher
+- Player ID: 13299
+- Position: TE
+- NFL team: JAC
+- Championship AVI (C-AVI, 0-100): 22.2
+- Dynasty AVI (D-AVI, 0-100): 51.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Elijah Higgins
@@ -2503,8 +2485,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 10231
 - Position: TE
 - NFL team: ARI
-- Championship AVI (C-AVI, 0-100): 21.9
-- Dynasty AVI (D-AVI, 0-100): 45.6
+- Championship AVI (C-AVI, 0-100): 22.1
+- Dynasty AVI (D-AVI, 0-100): 47.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Jalen McMillan
@@ -2512,8 +2494,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11618
 - Position: WR
 - NFL team: TB
-- Championship AVI (C-AVI, 0-100): 21.9
-- Dynasty AVI (D-AVI, 0-100): 67.2
+- Championship AVI (C-AVI, 0-100): 22.1
+- Dynasty AVI (D-AVI, 0-100): 69.9
+- Availability: available
+
+## AVAILABLE PLAYER: Daniel Bellinger
+- Player name: Daniel Bellinger
+- Player ID: 8225
+- Position: TE
+- NFL team: TEN
+- Championship AVI (C-AVI, 0-100): 22.0
+- Dynasty AVI (D-AVI, 0-100): 42.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Tommy Tremble
@@ -2521,17 +2512,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 7694
 - Position: TE
 - NFL team: CAR
-- Championship AVI (C-AVI, 0-100): 21.8
-- Dynasty AVI (D-AVI, 0-100): 47.9
-- Availability: available
-
-## AVAILABLE PLAYER: Jalen Tolbert
-- Player name: Jalen Tolbert
-- Player ID: 8117
-- Position: WR
-- NFL team: MIA
-- Championship AVI (C-AVI, 0-100): 21.7
-- Dynasty AVI (D-AVI, 0-100): 49.8
+- Championship AVI (C-AVI, 0-100): 21.9
+- Dynasty AVI (D-AVI, 0-100): 49.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Jalen Royals
@@ -2539,8 +2521,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12505
 - Position: WR
 - NFL team: KC
-- Championship AVI (C-AVI, 0-100): 21.6
-- Dynasty AVI (D-AVI, 0-100): 54.8
+- Championship AVI (C-AVI, 0-100): 21.8
+- Dynasty AVI (D-AVI, 0-100): 59.0
+- Availability: available
+
+## AVAILABLE PLAYER: Jalen Tolbert
+- Player name: Jalen Tolbert
+- Player ID: 8117
+- Position: WR
+- NFL team: MIA
+- Championship AVI (C-AVI, 0-100): 21.8
+- Dynasty AVI (D-AVI, 0-100): 50.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Devin Neal
@@ -2548,8 +2539,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12476
 - Position: RB
 - NFL team: WAS
-- Championship AVI (C-AVI, 0-100): 21.3
-- Dynasty AVI (D-AVI, 0-100): 49.2
+- Championship AVI (C-AVI, 0-100): 21.7
+- Dynasty AVI (D-AVI, 0-100): 56.6
 - Availability: available
 
 ## AVAILABLE PLAYER: John Metchie III
@@ -2557,8 +2548,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 8147
 - Position: WR
 - NFL team: CAR
-- Championship AVI (C-AVI, 0-100): 21.3
-- Dynasty AVI (D-AVI, 0-100): 45.8
+- Championship AVI (C-AVI, 0-100): 21.7
+- Dynasty AVI (D-AVI, 0-100): 54.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Justin Fields
@@ -2566,8 +2557,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 7591
 - Position: QB
 - NFL team: KC
-- Championship AVI (C-AVI, 0-100): 21.2
-- Dynasty AVI (D-AVI, 0-100): 51.1
+- Championship AVI (C-AVI, 0-100): 21.5
+- Dynasty AVI (D-AVI, 0-100): 56.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Rasheen Ali
@@ -2575,8 +2566,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11570
 - Position: RB
 - NFL team: BAL
-- Championship AVI (C-AVI, 0-100): 21.1
-- Dynasty AVI (D-AVI, 0-100): 44.3
+- Championship AVI (C-AVI, 0-100): 21.5
+- Dynasty AVI (D-AVI, 0-100): 54.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Jonnu Smith
@@ -2584,8 +2575,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 4144
 - Position: TE
 - NFL team: GB
-- Championship AVI (C-AVI, 0-100): 20.9
-- Dynasty AVI (D-AVI, 0-100): 42.2
+- Championship AVI (C-AVI, 0-100): 21.2
+- Dynasty AVI (D-AVI, 0-100): 47.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Kevin Coleman Jr.
@@ -2593,8 +2584,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 13338
 - Position: WR
 - NFL team: MIA
-- Championship AVI (C-AVI, 0-100): 20.9
-- Dynasty AVI (D-AVI, 0-100): 55.0
+- Championship AVI (C-AVI, 0-100): 21.1
+- Dynasty AVI (D-AVI, 0-100): 59.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Tahj Brooks
@@ -2602,8 +2593,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12543
 - Position: RB
 - NFL team: CIN
-- Championship AVI (C-AVI, 0-100): 20.8
-- Dynasty AVI (D-AVI, 0-100): 56.0
+- Championship AVI (C-AVI, 0-100): 21.1
+- Dynasty AVI (D-AVI, 0-100): 61.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Mac Jones
@@ -2611,8 +2602,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 7527
 - Position: QB
 - NFL team: SF
-- Championship AVI (C-AVI, 0-100): 20.6
-- Dynasty AVI (D-AVI, 0-100): 51.6
+- Championship AVI (C-AVI, 0-100): 20.8
+- Dynasty AVI (D-AVI, 0-100): 57.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Cole Kmet
@@ -2620,8 +2611,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 6826
 - Position: TE
 - NFL team: CHI
+- Championship AVI (C-AVI, 0-100): 20.6
+- Dynasty AVI (D-AVI, 0-100): 58.3
+- Availability: available
+
+## AVAILABLE PLAYER: Austin Hooper
+- Player name: Austin Hooper
+- Player ID: 3202
+- Position: TE
+- NFL team: ATL
 - Championship AVI (C-AVI, 0-100): 20.4
-- Dynasty AVI (D-AVI, 0-100): 55.1
+- Dynasty AVI (D-AVI, 0-100): 47.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Jacob Saylors
@@ -2633,13 +2633,22 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 51.9
 - Availability: available
 
-## AVAILABLE PLAYER: Austin Hooper
-- Player name: Austin Hooper
-- Player ID: 3202
-- Position: TE
-- NFL team: ATL
-- Championship AVI (C-AVI, 0-100): 20.2
-- Dynasty AVI (D-AVI, 0-100): 41.0
+## AVAILABLE PLAYER: Joe Flacco
+- Player name: Joe Flacco
+- Player ID: 19
+- Position: QB
+- NFL team: CIN
+- Championship AVI (C-AVI, 0-100): 20.4
+- Dynasty AVI (D-AVI, 0-100): 45.8
+- Availability: available
+
+## AVAILABLE PLAYER: KeAndre Lambert-Smith
+- Player name: KeAndre Lambert-Smith
+- Player ID: 12670
+- Position: WR
+- NFL team: LAC
+- Championship AVI (C-AVI, 0-100): 20.3
+- Dynasty AVI (D-AVI, 0-100): 53.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Colbie Young
@@ -2648,25 +2657,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: WR
 - NFL team: CIN
 - Championship AVI (C-AVI, 0-100): 20.0
-- Dynasty AVI (D-AVI, 0-100): 48.9
-- Availability: available
-
-## AVAILABLE PLAYER: KeAndre Lambert-Smith
-- Player name: KeAndre Lambert-Smith
-- Player ID: 12670
-- Position: WR
-- NFL team: LAC
-- Championship AVI (C-AVI, 0-100): 20.0
-- Dynasty AVI (D-AVI, 0-100): 46.6
-- Availability: available
-
-## AVAILABLE PLAYER: Joe Flacco
-- Player name: Joe Flacco
-- Player ID: 19
-- Position: QB
-- NFL team: CIN
-- Championship AVI (C-AVI, 0-100): 19.9
-- Dynasty AVI (D-AVI, 0-100): 34.5
+- Dynasty AVI (D-AVI, 0-100): 50.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Sam Roush
@@ -2674,8 +2665,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 13322
 - Position: TE
 - NFL team: CHI
-- Championship AVI (C-AVI, 0-100): 19.9
-- Dynasty AVI (D-AVI, 0-100): 56.6
+- Championship AVI (C-AVI, 0-100): 20.0
+- Dynasty AVI (D-AVI, 0-100): 58.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Cade Klubnik
@@ -2683,17 +2674,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 13303
 - Position: QB
 - NFL team: NYJ
-- Championship AVI (C-AVI, 0-100): 19.5
-- Dynasty AVI (D-AVI, 0-100): 47.3
-- Availability: available
-
-## AVAILABLE PLAYER: Cade Stover
-- Player name: Cade Stover
-- Player ID: 11599
-- Position: TE
-- NFL team: HOU
-- Championship AVI (C-AVI, 0-100): 19.5
-- Dynasty AVI (D-AVI, 0-100): 45.6
+- Championship AVI (C-AVI, 0-100): 19.8
+- Dynasty AVI (D-AVI, 0-100): 53.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Anthony Richardson Sr.
@@ -2701,8 +2683,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 9229
 - Position: QB
 - NFL team: IND
-- Championship AVI (C-AVI, 0-100): 19.4
-- Dynasty AVI (D-AVI, 0-100): 49.9
+- Championship AVI (C-AVI, 0-100): 19.7
+- Dynasty AVI (D-AVI, 0-100): 55.8
+- Availability: available
+
+## AVAILABLE PLAYER: Cade Stover
+- Player name: Cade Stover
+- Player ID: 11599
+- Position: TE
+- NFL team: HOU
+- Championship AVI (C-AVI, 0-100): 19.7
+- Dynasty AVI (D-AVI, 0-100): 49.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Devontez Walker
@@ -2710,35 +2701,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11629
 - Position: WR
 - NFL team: BAL
-- Championship AVI (C-AVI, 0-100): 19.4
-- Dynasty AVI (D-AVI, 0-100): 46.9
-- Availability: available
-
-## AVAILABLE PLAYER: Tanner Koziol
-- Player name: Tanner Koziol
-- Player ID: 13408
-- Position: TE
-- NFL team: JAC
-- Championship AVI (C-AVI, 0-100): 19.3
-- Dynasty AVI (D-AVI, 0-100): 51.2
-- Availability: available
-
-## AVAILABLE PLAYER: Ty Simpson
-- Player name: Ty Simpson
-- Player ID: 13275
-- Position: QB
-- NFL team: LAR
-- Championship AVI (C-AVI, 0-100): 19.3
-- Dynasty AVI (D-AVI, 0-100): 58.7
-- Availability: available
-
-## AVAILABLE PLAYER: Eli Heidenreich
-- Player name: Eli Heidenreich
-- Player ID: 13423
-- Position: RB
-- NFL team: PIT
-- Championship AVI (C-AVI, 0-100): 19.2
-- Dynasty AVI (D-AVI, 0-100): 49.0
+- Championship AVI (C-AVI, 0-100): 19.5
+- Dynasty AVI (D-AVI, 0-100): 49.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Isaiah Williams
@@ -2746,8 +2710,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11608
 - Position: WR
 - NFL team: NYJ
-- Championship AVI (C-AVI, 0-100): 19.2
-- Dynasty AVI (D-AVI, 0-100): 40.5
+- Championship AVI (C-AVI, 0-100): 19.4
+- Dynasty AVI (D-AVI, 0-100): 45.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Nicholas Singleton
@@ -2755,8 +2719,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 13288
 - Position: RB
 - NFL team: TEN
-- Championship AVI (C-AVI, 0-100): 19.1
-- Dynasty AVI (D-AVI, 0-100): 63.5
+- Championship AVI (C-AVI, 0-100): 19.4
+- Dynasty AVI (D-AVI, 0-100): 67.9
+- Availability: available
+
+## AVAILABLE PLAYER: Tanner Koziol
+- Player name: Tanner Koziol
+- Player ID: 13408
+- Position: TE
+- NFL team: JAC
+- Championship AVI (C-AVI, 0-100): 19.4
+- Dynasty AVI (D-AVI, 0-100): 53.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Tai Felton
@@ -2764,26 +2737,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12496
 - Position: WR
 - NFL team: MIN
-- Championship AVI (C-AVI, 0-100): 19.1
-- Dynasty AVI (D-AVI, 0-100): 47.9
-- Availability: available
-
-## AVAILABLE PLAYER: Ben Sinnott
-- Player name: Ben Sinnott
-- Player ID: 11596
-- Position: TE
-- NFL team: WAS
-- Championship AVI (C-AVI, 0-100): 18.9
-- Dynasty AVI (D-AVI, 0-100): 53.0
-- Availability: available
-
-## AVAILABLE PLAYER: Luke McCaffrey
-- Player name: Luke McCaffrey
-- Player ID: 11650
-- Position: WR
-- NFL team: WAS
-- Championship AVI (C-AVI, 0-100): 18.9
-- Dynasty AVI (D-AVI, 0-100): 48.7
+- Championship AVI (C-AVI, 0-100): 19.2
+- Dynasty AVI (D-AVI, 0-100): 49.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Jarquez Hunter
@@ -2791,8 +2746,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11569
 - Position: RB
 - NFL team: MIA
-- Championship AVI (C-AVI, 0-100): 18.8
-- Dynasty AVI (D-AVI, 0-100): 53.7
+- Championship AVI (C-AVI, 0-100): 19.1
+- Dynasty AVI (D-AVI, 0-100): 60.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Kendre Miller
@@ -2800,8 +2755,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 9757
 - Position: RB
 - NFL team: DAL
-- Championship AVI (C-AVI, 0-100): 18.8
-- Dynasty AVI (D-AVI, 0-100): 57.4
+- Championship AVI (C-AVI, 0-100): 19.1
+- Dynasty AVI (D-AVI, 0-100): 62.6
+- Availability: available
+
+## AVAILABLE PLAYER: Luke McCaffrey
+- Player name: Luke McCaffrey
+- Player ID: 11650
+- Position: WR
+- NFL team: WAS
+- Championship AVI (C-AVI, 0-100): 19.1
+- Dynasty AVI (D-AVI, 0-100): 55.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Odell Beckham Jr.
@@ -2809,8 +2773,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 2078
 - Position: WR
 - NFL team: MIN
-- Championship AVI (C-AVI, 0-100): 18.8
-- Dynasty AVI (D-AVI, 0-100): 31.8
+- Championship AVI (C-AVI, 0-100): 19.1
+- Dynasty AVI (D-AVI, 0-100): 39.6
+- Availability: available
+
+## AVAILABLE PLAYER: Ben Sinnott
+- Player name: Ben Sinnott
+- Player ID: 11596
+- Position: TE
+- NFL team: WAS
+- Championship AVI (C-AVI, 0-100): 19.0
+- Dynasty AVI (D-AVI, 0-100): 55.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Jimmy Horn Jr.
@@ -2818,8 +2791,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12523
 - Position: WR
 - NFL team: CLE
-- Championship AVI (C-AVI, 0-100): 18.6
-- Dynasty AVI (D-AVI, 0-100): 35.8
+- Championship AVI (C-AVI, 0-100): 19.0
+- Dynasty AVI (D-AVI, 0-100): 43.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Nick Westbrook-Ikhine
@@ -2827,8 +2800,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 7496
 - Position: WR
 - NFL team: IND
-- Championship AVI (C-AVI, 0-100): 18.6
-- Dynasty AVI (D-AVI, 0-100): 38.5
+- Championship AVI (C-AVI, 0-100): 18.9
+- Dynasty AVI (D-AVI, 0-100): 44.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Elijah Arroyo
@@ -2836,17 +2809,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12521
 - Position: TE
 - NFL team: SEA
-- Championship AVI (C-AVI, 0-100): 18.5
-- Dynasty AVI (D-AVI, 0-100): 58.3
-- Availability: available
-
-## AVAILABLE PLAYER: Marlin Klein
-- Player name: Marlin Klein
-- Player ID: 13307
-- Position: TE
-- NFL team: HOU
-- Championship AVI (C-AVI, 0-100): 18.5
-- Dynasty AVI (D-AVI, 0-100): 49.8
+- Championship AVI (C-AVI, 0-100): 18.6
+- Dynasty AVI (D-AVI, 0-100): 60.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Jackson Hawes
@@ -2854,26 +2818,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12658
 - Position: TE
 - NFL team: BUF
-- Championship AVI (C-AVI, 0-100): 18.3
-- Dynasty AVI (D-AVI, 0-100): 27.5
-- Availability: available
-
-## AVAILABLE PLAYER: Drew Allar
-- Player name: Drew Allar
-- Player ID: 13289
-- Position: QB
-- NFL team: PIT
-- Championship AVI (C-AVI, 0-100): 18.2
-- Dynasty AVI (D-AVI, 0-100): 49.1
-- Availability: available
-
-## AVAILABLE PLAYER: Dylan Laube
-- Player name: Dylan Laube
-- Player ID: 11574
-- Position: RB
-- NFL team: LVR
-- Championship AVI (C-AVI, 0-100): 18.2
-- Dynasty AVI (D-AVI, 0-100): 44.6
+- Championship AVI (C-AVI, 0-100): 18.6
+- Dynasty AVI (D-AVI, 0-100): 32.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Jaleel McLaughlin
@@ -2881,8 +2827,35 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11439
 - Position: RB
 - NFL team: CLE
-- Championship AVI (C-AVI, 0-100): 18.2
-- Dynasty AVI (D-AVI, 0-100): 49.0
+- Championship AVI (C-AVI, 0-100): 18.6
+- Dynasty AVI (D-AVI, 0-100): 56.5
+- Availability: available
+
+## AVAILABLE PLAYER: Marlin Klein
+- Player name: Marlin Klein
+- Player ID: 13307
+- Position: TE
+- NFL team: HOU
+- Championship AVI (C-AVI, 0-100): 18.6
+- Dynasty AVI (D-AVI, 0-100): 52.6
+- Availability: available
+
+## AVAILABLE PLAYER: Dylan Laube
+- Player name: Dylan Laube
+- Player ID: 11574
+- Position: RB
+- NFL team: LVR
+- Championship AVI (C-AVI, 0-100): 18.5
+- Dynasty AVI (D-AVI, 0-100): 51.4
+- Availability: available
+
+## AVAILABLE PLAYER: Malik Benson
+- Player name: Malik Benson
+- Player ID: 13329
+- Position: WR
+- NFL team: LVR
+- Championship AVI (C-AVI, 0-100): 18.3
+- Dynasty AVI (D-AVI, 0-100): 50.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Roschon Johnson
@@ -2890,8 +2863,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 10235
 - Position: RB
 - NFL team: CHI
-- Championship AVI (C-AVI, 0-100): 17.9
-- Dynasty AVI (D-AVI, 0-100): 49.3
+- Championship AVI (C-AVI, 0-100): 18.2
+- Dynasty AVI (D-AVI, 0-100): 55.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Jahdae Walker
@@ -2899,8 +2872,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 13079
 - Position: WR
 - NFL team: CHI
-- Championship AVI (C-AVI, 0-100): 17.7
-- Dynasty AVI (D-AVI, 0-100): 32.1
+- Championship AVI (C-AVI, 0-100): 18.0
+- Dynasty AVI (D-AVI, 0-100): 39.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Marcus Mariota
@@ -2908,8 +2881,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 2307
 - Position: QB
 - NFL team: WAS
-- Championship AVI (C-AVI, 0-100): 17.7
-- Dynasty AVI (D-AVI, 0-100): 44.0
+- Championship AVI (C-AVI, 0-100): 18.0
+- Dynasty AVI (D-AVI, 0-100): 50.5
 - Availability: available
 
 ## AVAILABLE PLAYER: John Bates
@@ -2917,8 +2890,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 7716
 - Position: TE
 - NFL team: WAS
-- Championship AVI (C-AVI, 0-100): 17.6
-- Dynasty AVI (D-AVI, 0-100): 18.5
+- Championship AVI (C-AVI, 0-100): 17.9
+- Dynasty AVI (D-AVI, 0-100): 25.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Mitchell Evans
@@ -2926,26 +2899,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12473
 - Position: TE
 - NFL team: CAR
-- Championship AVI (C-AVI, 0-100): 17.6
-- Dynasty AVI (D-AVI, 0-100): 48.0
-- Availability: available
-
-## AVAILABLE PLAYER: Luke Schoonmaker
-- Player name: Luke Schoonmaker
-- Player ID: 10871
-- Position: TE
-- NFL team: DAL
-- Championship AVI (C-AVI, 0-100): 17.5
-- Dynasty AVI (D-AVI, 0-100): 35.1
-- Availability: available
-
-## AVAILABLE PLAYER: Andrei Iosivas
-- Player name: Andrei Iosivas
-- Player ID: 10226
-- Position: WR
-- NFL team: CIN
-- Championship AVI (C-AVI, 0-100): 17.4
-- Dynasty AVI (D-AVI, 0-100): 53.6
+- Championship AVI (C-AVI, 0-100): 17.8
+- Dynasty AVI (D-AVI, 0-100): 50.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Adam Trautman
@@ -2953,8 +2908,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 6869
 - Position: TE
 - NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 17.3
-- Dynasty AVI (D-AVI, 0-100): 37.1
+- Championship AVI (C-AVI, 0-100): 17.6
+- Dynasty AVI (D-AVI, 0-100): 42.5
+- Availability: available
+
+## AVAILABLE PLAYER: Andrei Iosivas
+- Player name: Andrei Iosivas
+- Player ID: 10226
+- Position: WR
+- NFL team: CIN
+- Championship AVI (C-AVI, 0-100): 17.6
+- Dynasty AVI (D-AVI, 0-100): 58.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Jameis Winston
@@ -2962,17 +2926,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 2306
 - Position: QB
 - NFL team: NYG
-- Championship AVI (C-AVI, 0-100): 17.3
-- Dynasty AVI (D-AVI, 0-100): 42.5
+- Championship AVI (C-AVI, 0-100): 17.6
+- Dynasty AVI (D-AVI, 0-100): 49.3
 - Availability: available
 
-## AVAILABLE PLAYER: Tay Martin
-- Player name: Tay Martin
-- Player ID: 8250
-- Position: WR
-- NFL team: DET
-- Championship AVI (C-AVI, 0-100): 17.1
-- Dynasty AVI (D-AVI, 0-100): 52.2
+## AVAILABLE PLAYER: Luke Schoonmaker
+- Player name: Luke Schoonmaker
+- Player ID: 10871
+- Position: TE
+- NFL team: DAL
+- Championship AVI (C-AVI, 0-100): 17.6
+- Dynasty AVI (D-AVI, 0-100): 38.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Xavier Smith
@@ -2980,8 +2944,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11168
 - Position: WR
 - NFL team: LAR
-- Championship AVI (C-AVI, 0-100): 17.0
-- Dynasty AVI (D-AVI, 0-100): 28.0
+- Championship AVI (C-AVI, 0-100): 17.4
+- Dynasty AVI (D-AVI, 0-100): 34.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Efton Chism III
@@ -2989,17 +2953,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12542
 - Position: WR
 - NFL team: NE
-- Championship AVI (C-AVI, 0-100): 16.8
-- Dynasty AVI (D-AVI, 0-100): 49.1
+- Championship AVI (C-AVI, 0-100): 17.0
+- Dynasty AVI (D-AVI, 0-100): 54.4
 - Availability: available
 
-## AVAILABLE PLAYER: Joe Milton
-- Player name: Joe Milton
-- Player ID: 11557
-- Position: QB
-- NFL team: PHI
-- Championship AVI (C-AVI, 0-100): 16.6
-- Dynasty AVI (D-AVI, 0-100): 39.6
+## AVAILABLE PLAYER: Tay Martin
+- Player name: Tay Martin
+- Player ID: 8250
+- Position: WR
+- NFL team: DET
+- Championship AVI (C-AVI, 0-100): 17.0
+- Dynasty AVI (D-AVI, 0-100): 52.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Drew Sample
@@ -3007,26 +2971,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 6001
 - Position: TE
 - NFL team: CIN
-- Championship AVI (C-AVI, 0-100): 16.5
-- Dynasty AVI (D-AVI, 0-100): 22.5
-- Availability: available
-
-## AVAILABLE PLAYER: Brock Wright
-- Player name: Brock Wright
-- Player ID: 7891
-- Position: TE
-- NFL team: DET
-- Championship AVI (C-AVI, 0-100): 16.4
-- Dynasty AVI (D-AVI, 0-100): 35.8
-- Availability: available
-
-## AVAILABLE PLAYER: Erick All Jr.
-- Player name: Erick All Jr.
-- Player ID: 11592
-- Position: TE
-- NFL team: CIN
-- Championship AVI (C-AVI, 0-100): 16.4
-- Dynasty AVI (D-AVI, 0-100): 51.5
+- Championship AVI (C-AVI, 0-100): 16.9
+- Dynasty AVI (D-AVI, 0-100): 31.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Tyrod Taylor
@@ -3034,8 +2980,98 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 827
 - Position: QB
 - NFL team: GB
+- Championship AVI (C-AVI, 0-100): 16.9
+- Dynasty AVI (D-AVI, 0-100): 35.7
+- Availability: available
+
+## AVAILABLE PLAYER: Brock Wright
+- Player name: Brock Wright
+- Player ID: 7891
+- Position: TE
+- NFL team: DET
+- Championship AVI (C-AVI, 0-100): 16.7
+- Dynasty AVI (D-AVI, 0-100): 41.3
+- Availability: available
+
+## AVAILABLE PLAYER: Erick All Jr.
+- Player name: Erick All Jr.
+- Player ID: 11592
+- Position: TE
+- NFL team: CIN
+- Championship AVI (C-AVI, 0-100): 16.6
+- Dynasty AVI (D-AVI, 0-100): 54.1
+- Availability: available
+
+## AVAILABLE PLAYER: Tyson Bagent
+- Player name: Tyson Bagent
+- Player ID: 11256
+- Position: QB
+- NFL team: CHI
+- Championship AVI (C-AVI, 0-100): 16.6
+- Dynasty AVI (D-AVI, 0-100): 51.2
+- Availability: available
+
+## AVAILABLE PLAYER: Jacob Cowing
+- Player name: Jacob Cowing
+- Player ID: 11616
+- Position: WR
+- NFL team: SF
+- Championship AVI (C-AVI, 0-100): 16.5
+- Dynasty AVI (D-AVI, 0-100): 47.4
+- Availability: available
+
+## AVAILABLE PLAYER: James Conner
+- Player name: James Conner
+- Player ID: 4137
+- Position: RB
+- NFL team: ARI
+- Championship AVI (C-AVI, 0-100): 16.5
+- Dynasty AVI (D-AVI, 0-100): 62.1
+- Availability: available
+
+## AVAILABLE PLAYER: Joe Milton
+- Player name: Joe Milton
+- Player ID: 11557
+- Position: QB
+- NFL team: PHI
+- Championship AVI (C-AVI, 0-100): 16.5
+- Dynasty AVI (D-AVI, 0-100): 43.1
+- Availability: available
+
+## AVAILABLE PLAYER: David Njoku
+- Player name: David Njoku
+- Player ID: 4033
+- Position: TE
+- NFL team: LAC
 - Championship AVI (C-AVI, 0-100): 16.4
-- Dynasty AVI (D-AVI, 0-100): 24.7
+- Dynasty AVI (D-AVI, 0-100): 61.7
+- Availability: available
+
+## AVAILABLE PLAYER: Jake Tonges
+- Player name: Jake Tonges
+- Player ID: 8698
+- Position: TE
+- NFL team: SF
+- Championship AVI (C-AVI, 0-100): 16.4
+- Dynasty AVI (D-AVI, 0-100): 56.6
+- Availability: available
+
+## AVAILABLE PLAYER: Kaden Wetjen
+- Player name: Kaden Wetjen
+- Player ID: 13491
+- Position: WR
+- NFL team: PIT
+- Championship AVI (C-AVI, 0-100): 16.4
+- Dynasty AVI (D-AVI, 0-100): 40.1
+- Availability: available
+
+## AVAILABLE PLAYER: Kene Nwangwu
+- Player name: Kene Nwangwu
+- Player ID: 7720
+- Position: RB
+- NFL team: NYJ
+- Championship AVI (C-AVI, 0-100): 16.4
+- Dynasty AVI (D-AVI, 0-100): 40.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Chris Blair
@@ -3047,76 +3083,22 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 50.8
 - Availability: available
 
-## AVAILABLE PLAYER: David Njoku
-- Player name: David Njoku
-- Player ID: 4033
-- Position: TE
-- NFL team: LAC
-- Championship AVI (C-AVI, 0-100): 16.3
-- Dynasty AVI (D-AVI, 0-100): 59.9
-- Availability: available
-
-## AVAILABLE PLAYER: Jacob Cowing
-- Player name: Jacob Cowing
-- Player ID: 11616
-- Position: WR
-- NFL team: SF
-- Championship AVI (C-AVI, 0-100): 16.3
-- Dynasty AVI (D-AVI, 0-100): 42.4
-- Availability: available
-
-## AVAILABLE PLAYER: Jake Tonges
-- Player name: Jake Tonges
-- Player ID: 8698
-- Position: TE
-- NFL team: SF
-- Championship AVI (C-AVI, 0-100): 16.3
-- Dynasty AVI (D-AVI, 0-100): 53.7
-- Availability: available
-
-## AVAILABLE PLAYER: James Conner
-- Player name: James Conner
-- Player ID: 4137
+## AVAILABLE PLAYER: Ronnie Rivers
+- Player name: Ronnie Rivers
+- Player ID: 8195
 - Position: RB
-- NFL team: ARI
+- NFL team: LAR
 - Championship AVI (C-AVI, 0-100): 16.3
-- Dynasty AVI (D-AVI, 0-100): 56.7
+- Dynasty AVI (D-AVI, 0-100): 46.1
 - Availability: available
 
-## AVAILABLE PLAYER: Tyson Bagent
-- Player name: Tyson Bagent
-- Player ID: 11256
-- Position: QB
-- NFL team: CHI
-- Championship AVI (C-AVI, 0-100): 16.2
-- Dynasty AVI (D-AVI, 0-100): 44.3
-- Availability: available
-
-## AVAILABLE PLAYER: Bo Melton
-- Player name: Bo Melton
-- Player ID: 8204
-- Position: WR
-- NFL team: GB
-- Championship AVI (C-AVI, 0-100): 16.1
-- Dynasty AVI (D-AVI, 0-100): 38.4
-- Availability: available
-
-## AVAILABLE PLAYER: Kaden Wetjen
-- Player name: Kaden Wetjen
-- Player ID: 13491
-- Position: WR
-- NFL team: PIT
-- Championship AVI (C-AVI, 0-100): 16.1
-- Dynasty AVI (D-AVI, 0-100): 34.1
-- Availability: available
-
-## AVAILABLE PLAYER: Kene Nwangwu
-- Player name: Kene Nwangwu
-- Player ID: 7720
+## AVAILABLE PLAYER: Ameer Abdullah
+- Player name: Ameer Abdullah
+- Player ID: 2359
 - Position: RB
-- NFL team: NYJ
-- Championship AVI (C-AVI, 0-100): 15.9
-- Dynasty AVI (D-AVI, 0-100): 31.8
+- NFL team: JAC
+- Championship AVI (C-AVI, 0-100): 16.1
+- Dynasty AVI (D-AVI, 0-100): 45.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Isiah Pacheco
@@ -3124,8 +3106,35 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 8205
 - Position: RB
 - NFL team: DET
+- Championship AVI (C-AVI, 0-100): 16.0
+- Dynasty AVI (D-AVI, 0-100): 63.0
+- Availability: available
+
+## AVAILABLE PLAYER: Spencer Rattler
+- Player name: Spencer Rattler
+- Player ID: 11562
+- Position: QB
+- NFL team: NO
+- Championship AVI (C-AVI, 0-100): 16.0
+- Dynasty AVI (D-AVI, 0-100): 46.8
+- Availability: available
+
+## AVAILABLE PLAYER: AJ Dillon
+- Player name: AJ Dillon
+- Player ID: 6828
+- Position: RB
+- NFL team: CAR
 - Championship AVI (C-AVI, 0-100): 15.8
-- Dynasty AVI (D-AVI, 0-100): 57.9
+- Dynasty AVI (D-AVI, 0-100): 50.1
+- Availability: available
+
+## AVAILABLE PLAYER: Malik Davis
+- Player name: Malik Davis
+- Player ID: 8800
+- Position: RB
+- NFL team: DAL
+- Championship AVI (C-AVI, 0-100): 15.8
+- Dynasty AVI (D-AVI, 0-100): 55.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Foster Moreau
@@ -3134,79 +3143,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: TE
 - NFL team: HOU
 - Championship AVI (C-AVI, 0-100): 15.7
-- Dynasty AVI (D-AVI, 0-100): 40.3
-- Availability: available
-
-## AVAILABLE PLAYER: Ronnie Rivers
-- Player name: Ronnie Rivers
-- Player ID: 8195
-- Position: RB
-- NFL team: LAR
-- Championship AVI (C-AVI, 0-100): 15.7
-- Dynasty AVI (D-AVI, 0-100): 35.9
-- Availability: available
-
-## AVAILABLE PLAYER: Spencer Rattler
-- Player name: Spencer Rattler
-- Player ID: 11562
-- Position: QB
-- NFL team: NO
-- Championship AVI (C-AVI, 0-100): 15.7
-- Dynasty AVI (D-AVI, 0-100): 38.1
-- Availability: available
-
-## AVAILABLE PLAYER: Ameer Abdullah
-- Player name: Ameer Abdullah
-- Player ID: 2359
-- Position: RB
-- NFL team: JAC
-- Championship AVI (C-AVI, 0-100): 15.5
-- Dynasty AVI (D-AVI, 0-100): 36.5
-- Availability: available
-
-## AVAILABLE PLAYER: Malik Davis
-- Player name: Malik Davis
-- Player ID: 8800
-- Position: RB
-- NFL team: DAL
-- Championship AVI (C-AVI, 0-100): 15.4
-- Dynasty AVI (D-AVI, 0-100): 48.0
-- Availability: available
-
-## AVAILABLE PLAYER: AJ Dillon
-- Player name: AJ Dillon
-- Player ID: 6828
-- Position: RB
-- NFL team: CAR
-- Championship AVI (C-AVI, 0-100): 15.3
-- Dynasty AVI (D-AVI, 0-100): 40.3
-- Availability: available
-
-## AVAILABLE PLAYER: Davis Mills
-- Player name: Davis Mills
-- Player ID: 7585
-- Position: QB
-- NFL team: HOU
-- Championship AVI (C-AVI, 0-100): 15.2
-- Dynasty AVI (D-AVI, 0-100): 35.2
-- Availability: available
-
-## AVAILABLE PLAYER: Julius Chestnut
-- Player name: Julius Chestnut
-- Player ID: 8254
-- Position: RB
-- NFL team: TEN
-- Championship AVI (C-AVI, 0-100): 15.1
-- Dynasty AVI (D-AVI, 0-100): 34.3
-- Availability: available
-
-## AVAILABLE PLAYER: Reggie Gilliam
-- Player name: Reggie Gilliam
-- Player ID: 7204
-- Position: RB
-- NFL team: NE
-- Championship AVI (C-AVI, 0-100): 14.9
-- Dynasty AVI (D-AVI, 0-100): 47.0
+- Dynasty AVI (D-AVI, 0-100): 40.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Terrell Jennings
@@ -3214,17 +3151,35 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12412
 - Position: RB
 - NFL team: NE
-- Championship AVI (C-AVI, 0-100): 14.9
-- Dynasty AVI (D-AVI, 0-100): 30.6
+- Championship AVI (C-AVI, 0-100): 15.6
+- Dynasty AVI (D-AVI, 0-100): 41.6
 - Availability: available
 
-## AVAILABLE PLAYER: Max Bredeson
-- Player name: Max Bredeson
-- Player ID: 13516
+## AVAILABLE PLAYER: Davis Mills
+- Player name: Davis Mills
+- Player ID: 7585
+- Position: QB
+- NFL team: HOU
+- Championship AVI (C-AVI, 0-100): 15.5
+- Dynasty AVI (D-AVI, 0-100): 41.8
+- Availability: available
+
+## AVAILABLE PLAYER: Julius Chestnut
+- Player name: Julius Chestnut
+- Player ID: 8254
 - Position: RB
-- NFL team: MIN
-- Championship AVI (C-AVI, 0-100): 14.8
-- Dynasty AVI (D-AVI, 0-100): 46.9
+- NFL team: TEN
+- Championship AVI (C-AVI, 0-100): 15.4
+- Dynasty AVI (D-AVI, 0-100): 40.1
+- Availability: available
+
+## AVAILABLE PLAYER: Bo Melton
+- Player name: Bo Melton
+- Player ID: 8204
+- Position: WR
+- NFL team: GB
+- Championship AVI (C-AVI, 0-100): 14.9
+- Dynasty AVI (D-AVI, 0-100): 45.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Jordan Whittington
@@ -3232,8 +3187,26 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11623
 - Position: WR
 - NFL team: LAR
+- Championship AVI (C-AVI, 0-100): 14.8
+- Dynasty AVI (D-AVI, 0-100): 56.4
+- Availability: available
+
+## AVAILABLE PLAYER: Max Bredeson
+- Player name: Max Bredeson
+- Player ID: 13516
+- Position: RB
+- NFL team: MIN
 - Championship AVI (C-AVI, 0-100): 14.7
-- Dynasty AVI (D-AVI, 0-100): 51.8
+- Dynasty AVI (D-AVI, 0-100): 46.9
+- Availability: available
+
+## AVAILABLE PLAYER: Reggie Gilliam
+- Player name: Reggie Gilliam
+- Player ID: 7204
+- Position: RB
+- NFL team: NE
+- Championship AVI (C-AVI, 0-100): 14.7
+- Dynasty AVI (D-AVI, 0-100): 46.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Savion Williams
@@ -3241,8 +3214,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12482
 - Position: WR
 - NFL team: GB
-- Championship AVI (C-AVI, 0-100): 14.5
-- Dynasty AVI (D-AVI, 0-100): 48.8
+- Championship AVI (C-AVI, 0-100): 14.7
+- Dynasty AVI (D-AVI, 0-100): 54.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Theo Wease Jr.
@@ -3250,17 +3223,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12860
 - Position: WR
 - NFL team: LAC
-- Championship AVI (C-AVI, 0-100): 14.5
-- Dynasty AVI (D-AVI, 0-100): 30.6
-- Availability: available
-
-## AVAILABLE PLAYER: Christian Kirk
-- Player name: Christian Kirk
-- Player ID: 4950
-- Position: WR
-- NFL team: SF
-- Championship AVI (C-AVI, 0-100): 14.4
-- Dynasty AVI (D-AVI, 0-100): 55.1
+- Championship AVI (C-AVI, 0-100): 14.7
+- Dynasty AVI (D-AVI, 0-100): 38.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Joshua Palmer
@@ -3268,8 +3232,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 7670
 - Position: WR
 - NFL team: BUF
-- Championship AVI (C-AVI, 0-100): 14.3
-- Dynasty AVI (D-AVI, 0-100): 49.9
+- Championship AVI (C-AVI, 0-100): 14.6
+- Dynasty AVI (D-AVI, 0-100): 55.3
+- Availability: available
+
+## AVAILABLE PLAYER: Christian Kirk
+- Player name: Christian Kirk
+- Player ID: 4950
+- Position: WR
+- NFL team: SF
+- Championship AVI (C-AVI, 0-100): 14.5
+- Dynasty AVI (D-AVI, 0-100): 58.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Justin Joly
@@ -3277,8 +3250,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 13400
 - Position: TE
 - NFL team: MIA
-- Championship AVI (C-AVI, 0-100): 14.1
-- Dynasty AVI (D-AVI, 0-100): 51.7
+- Championship AVI (C-AVI, 0-100): 14.2
+- Dynasty AVI (D-AVI, 0-100): 54.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Tyler Conklin
@@ -3286,8 +3259,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 5133
 - Position: TE
 - NFL team: DET
-- Championship AVI (C-AVI, 0-100): 13.9
-- Dynasty AVI (D-AVI, 0-100): 29.0
+- Championship AVI (C-AVI, 0-100): 14.2
+- Dynasty AVI (D-AVI, 0-100): 34.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Brenen Thompson
@@ -3295,8 +3268,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 13380
 - Position: WR
 - NFL team: LAC
-- Championship AVI (C-AVI, 0-100): 13.7
-- Dynasty AVI (D-AVI, 0-100): 53.1
+- Championship AVI (C-AVI, 0-100): 13.9
+- Dynasty AVI (D-AVI, 0-100): 57.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Will Shipley
@@ -3304,8 +3277,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11577
 - Position: RB
 - NFL team: PHI
-- Championship AVI (C-AVI, 0-100): 13.7
-- Dynasty AVI (D-AVI, 0-100): 53.9
+- Championship AVI (C-AVI, 0-100): 13.9
+- Dynasty AVI (D-AVI, 0-100): 58.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Brashard Smith
@@ -3313,8 +3286,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12455
 - Position: RB
 - NFL team: KC
-- Championship AVI (C-AVI, 0-100): 13.2
-- Dynasty AVI (D-AVI, 0-100): 54.1
+- Championship AVI (C-AVI, 0-100): 13.5
+- Dynasty AVI (D-AVI, 0-100): 60.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Sam Howell
@@ -3322,17 +3295,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 8162
 - Position: QB
 - NFL team: DAL
-- Championship AVI (C-AVI, 0-100): 13.2
-- Dynasty AVI (D-AVI, 0-100): 29.3
-- Availability: available
-
-## AVAILABLE PLAYER: Demond Claiborne
-- Player name: Demond Claiborne
-- Player ID: 13347
-- Position: RB
-- NFL team: MIN
-- Championship AVI (C-AVI, 0-100): 12.9
-- Dynasty AVI (D-AVI, 0-100): 57.8
+- Championship AVI (C-AVI, 0-100): 13.5
+- Dynasty AVI (D-AVI, 0-100): 38.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Mason Rudolph
@@ -3340,26 +3304,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 4972
 - Position: QB
 - NFL team: PIT
-- Championship AVI (C-AVI, 0-100): 12.8
-- Dynasty AVI (D-AVI, 0-100): 34.1
+- Championship AVI (C-AVI, 0-100): 13.3
+- Dynasty AVI (D-AVI, 0-100): 45.1
 - Availability: available
 
-## AVAILABLE PLAYER: DeeJay Dallas
-- Player name: DeeJay Dallas
-- Player ID: 6931
+## AVAILABLE PLAYER: Demond Claiborne
+- Player name: Demond Claiborne
+- Player ID: 13347
 - Position: RB
 - NFL team: MIN
-- Championship AVI (C-AVI, 0-100): 12.6
-- Dynasty AVI (D-AVI, 0-100): 37.7
-- Availability: available
-
-## AVAILABLE PLAYER: Johnny Mundt
-- Player name: Johnny Mundt
-- Player ID: 4314
-- Position: TE
-- NFL team: PHI
-- Championship AVI (C-AVI, 0-100): 12.6
-- Dynasty AVI (D-AVI, 0-100): 16.9
+- Championship AVI (C-AVI, 0-100): 13.1
+- Dynasty AVI (D-AVI, 0-100): 63.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Kendall Milton
@@ -3367,17 +3322,26 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11649
 - Position: RB
 - NFL team: CIN
-- Championship AVI (C-AVI, 0-100): 12.5
-- Dynasty AVI (D-AVI, 0-100): 22.4
+- Championship AVI (C-AVI, 0-100): 13.1
+- Dynasty AVI (D-AVI, 0-100): 35.3
 - Availability: available
 
-## AVAILABLE PLAYER: Luke Musgrave
-- Player name: Luke Musgrave
-- Player ID: 9481
+## AVAILABLE PLAYER: DeeJay Dallas
+- Player name: DeeJay Dallas
+- Player ID: 6931
+- Position: RB
+- NFL team: MIN
+- Championship AVI (C-AVI, 0-100): 13.0
+- Dynasty AVI (D-AVI, 0-100): 47.3
+- Availability: available
+
+## AVAILABLE PLAYER: Johnny Mundt
+- Player name: Johnny Mundt
+- Player ID: 4314
 - Position: TE
-- NFL team: GB
-- Championship AVI (C-AVI, 0-100): 12.1
-- Dynasty AVI (D-AVI, 0-100): 42.4
+- NFL team: PHI
+- Championship AVI (C-AVI, 0-100): 12.9
+- Dynasty AVI (D-AVI, 0-100): 21.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Jaylin Lane
@@ -3385,8 +3349,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12641
 - Position: WR
 - NFL team: WAS
-- Championship AVI (C-AVI, 0-100): 12.0
-- Dynasty AVI (D-AVI, 0-100): 44.0
+- Championship AVI (C-AVI, 0-100): 12.4
+- Dynasty AVI (D-AVI, 0-100): 51.8
+- Availability: available
+
+## AVAILABLE PLAYER: Luke Musgrave
+- Player name: Luke Musgrave
+- Player ID: 9481
+- Position: TE
+- NFL team: GB
+- Championship AVI (C-AVI, 0-100): 12.3
+- Dynasty AVI (D-AVI, 0-100): 47.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Dyami Brown
@@ -3394,8 +3367,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 7587
 - Position: WR
 - NFL team: WAS
-- Championship AVI (C-AVI, 0-100): 11.9
-- Dynasty AVI (D-AVI, 0-100): 41.9
+- Championship AVI (C-AVI, 0-100): 12.1
+- Dynasty AVI (D-AVI, 0-100): 47.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Trey Benson
@@ -3403,26 +3376,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11589
 - Position: RB
 - NFL team: ARI
-- Championship AVI (C-AVI, 0-100): 10.7
-- Dynasty AVI (D-AVI, 0-100): 54.9
+- Championship AVI (C-AVI, 0-100): 11.0
+- Dynasty AVI (D-AVI, 0-100): 60.4
 - Availability: available
 
-## AVAILABLE PLAYER: Dont'e Thornton Jr.
-- Player name: Dont'e Thornton Jr.
-- Player ID: 12541
-- Position: WR
-- NFL team: LVR
-- Championship AVI (C-AVI, 0-100): 10.1
-- Dynasty AVI (D-AVI, 0-100): 43.0
-- Availability: available
-
-## AVAILABLE PLAYER: Jelani Woods
-- Player name: Jelani Woods
-- Player ID: 8219
-- Position: TE
-- NFL team: NYJ
-- Championship AVI (C-AVI, 0-100): 10.0
-- Dynasty AVI (D-AVI, 0-100): 32.5
+## AVAILABLE PLAYER: Eli Heidenreich
+- Player name: Eli Heidenreich
+- Player ID: 13423
+- Position: RB
+- NFL team: PIT
+- Championship AVI (C-AVI, 0-100): 10.5
+- Dynasty AVI (D-AVI, 0-100): 54.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Gardner Minshew II
@@ -3430,8 +3394,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 6011
 - Position: QB
 - NFL team: ARI
-- Championship AVI (C-AVI, 0-100): 9.9
-- Dynasty AVI (D-AVI, 0-100): 40.3
+- Championship AVI (C-AVI, 0-100): 10.5
+- Dynasty AVI (D-AVI, 0-100): 47.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Jake Browning
@@ -3439,8 +3403,26 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 6111
 - Position: QB
 - NFL team: LAC
-- Championship AVI (C-AVI, 0-100): 9.9
-- Dynasty AVI (D-AVI, 0-100): 17.8
+- Championship AVI (C-AVI, 0-100): 10.5
+- Dynasty AVI (D-AVI, 0-100): 29.5
+- Availability: available
+
+## AVAILABLE PLAYER: Ty Simpson
+- Player name: Ty Simpson
+- Player ID: 13275
+- Position: QB
+- NFL team: LAR
+- Championship AVI (C-AVI, 0-100): 10.4
+- Dynasty AVI (D-AVI, 0-100): 61.1
+- Availability: available
+
+## AVAILABLE PLAYER: Jelani Woods
+- Player name: Jelani Woods
+- Player ID: 8219
+- Position: TE
+- NFL team: NYJ
+- Championship AVI (C-AVI, 0-100): 10.3
+- Dynasty AVI (D-AVI, 0-100): 38.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Raheim Sanders
@@ -3448,17 +3430,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12472
 - Position: RB
 - NFL team: CLE
-- Championship AVI (C-AVI, 0-100): 9.5
-- Dynasty AVI (D-AVI, 0-100): 48.1
-- Availability: available
-
-## AVAILABLE PLAYER: Ja'Tavion Sanders
-- Player name: Ja'Tavion Sanders
-- Player ID: 11600
-- Position: TE
-- NFL team: CAR
-- Championship AVI (C-AVI, 0-100): 9.4
-- Dynasty AVI (D-AVI, 0-100): 50.8
+- Championship AVI (C-AVI, 0-100): 10.0
+- Dynasty AVI (D-AVI, 0-100): 54.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Lil'Jordan Humphrey
@@ -3466,8 +3439,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 5938
 - Position: WR
 - NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 9.2
-- Dynasty AVI (D-AVI, 0-100): 32.5
+- Championship AVI (C-AVI, 0-100): 9.7
+- Dynasty AVI (D-AVI, 0-100): 39.6
+- Availability: available
+
+## AVAILABLE PLAYER: Ja'Tavion Sanders
+- Player name: Ja'Tavion Sanders
+- Player ID: 11600
+- Position: TE
+- NFL team: CAR
+- Championship AVI (C-AVI, 0-100): 9.5
+- Dynasty AVI (D-AVI, 0-100): 53.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Isaac Guerendo
@@ -3475,8 +3457,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11651
 - Position: RB
 - NFL team: SF
-- Championship AVI (C-AVI, 0-100): 9.1
-- Dynasty AVI (D-AVI, 0-100): 49.9
+- Championship AVI (C-AVI, 0-100): 9.4
+- Dynasty AVI (D-AVI, 0-100): 56.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Josh Oliver
@@ -3484,8 +3466,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 5973
 - Position: TE
 - NFL team: MIN
-- Championship AVI (C-AVI, 0-100): 9.1
-- Dynasty AVI (D-AVI, 0-100): 37.4
+- Championship AVI (C-AVI, 0-100): 9.4
+- Dynasty AVI (D-AVI, 0-100): 44.0
+- Availability: available
+
+## AVAILABLE PLAYER: Drew Allar
+- Player name: Drew Allar
+- Player ID: 13289
+- Position: QB
+- NFL team: PIT
+- Championship AVI (C-AVI, 0-100): 9.3
+- Dynasty AVI (D-AVI, 0-100): 53.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Trey Lance
@@ -3493,8 +3484,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 7610
 - Position: QB
 - NFL team: LAC
-- Championship AVI (C-AVI, 0-100): 8.5
-- Dynasty AVI (D-AVI, 0-100): 35.1
+- Championship AVI (C-AVI, 0-100): 8.9
+- Dynasty AVI (D-AVI, 0-100): 43.2
+- Availability: available
+
+## AVAILABLE PLAYER: Dont'e Thornton Jr.
+- Player name: Dont'e Thornton Jr.
+- Player ID: 12541
+- Position: WR
+- NFL team: LVR
+- Championship AVI (C-AVI, 0-100): 8.8
+- Dynasty AVI (D-AVI, 0-100): 46.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Tyler Badie
@@ -3502,8 +3502,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 8208
 - Position: RB
 - NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 8.4
-- Dynasty AVI (D-AVI, 0-100): 42.1
+- Championship AVI (C-AVI, 0-100): 8.8
+- Dynasty AVI (D-AVI, 0-100): 49.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Tim Patrick
@@ -3511,8 +3511,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 4351
 - Position: WR
 - NFL team: NYJ
-- Championship AVI (C-AVI, 0-100): 7.9
-- Dynasty AVI (D-AVI, 0-100): 31.2
+- Championship AVI (C-AVI, 0-100): 8.2
+- Dynasty AVI (D-AVI, 0-100): 39.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Jeremy McNichols
@@ -3520,8 +3520,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 4219
 - Position: RB
 - NFL team: WAS
-- Championship AVI (C-AVI, 0-100): 7.8
-- Dynasty AVI (D-AVI, 0-100): 39.6
+- Championship AVI (C-AVI, 0-100): 8.1
+- Dynasty AVI (D-AVI, 0-100): 48.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Jerome Ford
@@ -3529,8 +3529,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 8143
 - Position: RB
 - NFL team: ARI
-- Championship AVI (C-AVI, 0-100): 7.3
-- Dynasty AVI (D-AVI, 0-100): 45.2
+- Championship AVI (C-AVI, 0-100): 7.7
+- Dynasty AVI (D-AVI, 0-100): 52.9
 - Availability: available
 
 ## AVAILABLE PLAYER: British Brooks
@@ -3538,17 +3538,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12171
 - Position: RB
 - NFL team: HOU
-- Championship AVI (C-AVI, 0-100): 7.2
-- Dynasty AVI (D-AVI, 0-100): 43.9
-- Availability: available
-
-## AVAILABLE PLAYER: Tanner Hudson
-- Player name: Tanner Hudson
-- Player ID: 5409
-- Position: TE
-- NFL team: CIN
-- Championship AVI (C-AVI, 0-100): 6.1
-- Dynasty AVI (D-AVI, 0-100): 28.8
+- Championship AVI (C-AVI, 0-100): 7.1
+- Dynasty AVI (D-AVI, 0-100): 43.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Durham Smythe
@@ -3556,8 +3547,17 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 5008
 - Position: TE
 - NFL team: BAL
-- Championship AVI (C-AVI, 0-100): 5.9
-- Dynasty AVI (D-AVI, 0-100): 21.5
+- Championship AVI (C-AVI, 0-100): 6.3
+- Dynasty AVI (D-AVI, 0-100): 30.1
+- Availability: available
+
+## AVAILABLE PLAYER: Tanner Hudson
+- Player name: Tanner Hudson
+- Player ID: 5409
+- Position: TE
+- NFL team: CIN
+- Championship AVI (C-AVI, 0-100): 6.3
+- Dynasty AVI (D-AVI, 0-100): 33.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Riley Leonard
@@ -3565,8 +3565,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 12470
 - Position: QB
 - NFL team: IND
-- Championship AVI (C-AVI, 0-100): 5.2
-- Dynasty AVI (D-AVI, 0-100): 29.5
+- Championship AVI (C-AVI, 0-100): 5.8
+- Dynasty AVI (D-AVI, 0-100): 40.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Zavier Scott
@@ -3574,8 +3574,8 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player ID: 11299
 - Position: RB
 - NFL team: CHI
-- Championship AVI (C-AVI, 0-100): 5.2
-- Dynasty AVI (D-AVI, 0-100): 42.2
+- Championship AVI (C-AVI, 0-100): 5.0
+- Dynasty AVI (D-AVI, 0-100): 31.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Alexander Mattison
@@ -3584,7 +3584,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 15.9
+- Dynasty AVI (D-AVI, 0-100): 30.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Antonio Gibson
@@ -3593,7 +3593,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 19.8
+- Dynasty AVI (D-AVI, 0-100): 32.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Antonio Williams
@@ -3611,7 +3611,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: WR
 - NFL team: SF
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 40.8
+- Dynasty AVI (D-AVI, 0-100): 45.8
 - Availability: available
 
 ## AVAILABLE PLAYER: CJ Donaldson
@@ -3620,7 +3620,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: NO
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 33.1
+- Dynasty AVI (D-AVI, 0-100): 41.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Carson Wentz
@@ -3629,7 +3629,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: QB
 - NFL team: MIN
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 25.9
+- Dynasty AVI (D-AVI, 0-100): 34.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Cash Jones
@@ -3647,7 +3647,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: WR
 - NFL team: NO
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 28.8
+- Dynasty AVI (D-AVI, 0-100): 38.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Dameon Pierce
@@ -3656,7 +3656,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: PHI
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 32.2
+- Dynasty AVI (D-AVI, 0-100): 39.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Damien Martinez
@@ -3665,7 +3665,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 18.9
+- Dynasty AVI (D-AVI, 0-100): 31.9
 - Availability: available
 
 ## AVAILABLE PLAYER: DeAndre Hopkins
@@ -3674,7 +3674,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: WR
 - NFL team: BAL
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 19.6
+- Dynasty AVI (D-AVI, 0-100): 26.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Dean Connors
@@ -3683,7 +3683,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: LAR
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 27.1
+- Dynasty AVI (D-AVI, 0-100): 37.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Dillon Gabriel
@@ -3692,7 +3692,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: QB
 - NFL team: CLE
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 30.1
+- Dynasty AVI (D-AVI, 0-100): 42.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Diontae Johnson
@@ -3701,7 +3701,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: WR
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 9.5
+- Dynasty AVI (D-AVI, 0-100): 20.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Elijah Moore
@@ -3710,7 +3710,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: WR
 - NFL team: PHI
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 20.3
+- Dynasty AVI (D-AVI, 0-100): 29.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Frank Gore Jr.
@@ -3719,7 +3719,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: BUF
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 3.9
+- Dynasty AVI (D-AVI, 0-100): 18.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Gabe Davis
@@ -3728,7 +3728,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: WR
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 13.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Greg Dortch
@@ -3737,7 +3737,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: WR
 - NFL team: BUF
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 19.9
+- Dynasty AVI (D-AVI, 0-100): 28.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Hassan Haskins
@@ -3746,7 +3746,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: CLE
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 15.0
+- Dynasty AVI (D-AVI, 0-100): 28.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Haynes King
@@ -3755,7 +3755,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: QB
 - NFL team: CAR
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 20.1
+- Dynasty AVI (D-AVI, 0-100): 29.7
 - Availability: available
 
 ## AVAILABLE PLAYER: J'Mari Taylor
@@ -3764,7 +3764,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: JAC
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 32.7
+- Dynasty AVI (D-AVI, 0-100): 43.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Jack Strand
@@ -3773,7 +3773,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: QB
 - NFL team: ATL
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 21.7
+- Dynasty AVI (D-AVI, 0-100): 31.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Jalen Reagor
@@ -3782,7 +3782,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: WR
 - NFL team: MIA
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 2.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Jam Miller
@@ -3791,7 +3791,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: ATL
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 21.5
+- Dynasty AVI (D-AVI, 0-100): 33.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Jawhar Jordan
@@ -3800,7 +3800,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: HOU
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 29.2
+- Dynasty AVI (D-AVI, 0-100): 38.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Jaydon Blue
@@ -3809,7 +3809,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: PHI
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 43.4
+- Dynasty AVI (D-AVI, 0-100): 51.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Jermaine Burton
@@ -3818,7 +3818,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: WR
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 9.2
+- Dynasty AVI (D-AVI, 0-100): 20.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Joe Mixon
@@ -3827,7 +3827,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 28.4
+- Dynasty AVI (D-AVI, 0-100): 39.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Josh Williams
@@ -3845,7 +3845,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: TEN
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 18.0
+- Dynasty AVI (D-AVI, 0-100): 29.5
 - Availability: available
 
 ## AVAILABLE PLAYER: Kareem Hunt
@@ -3854,7 +3854,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 26.6
+- Dynasty AVI (D-AVI, 0-100): 37.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Kendrick Law
@@ -3863,7 +3863,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: WR
 - NFL team: DET
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 20.9
+- Dynasty AVI (D-AVI, 0-100): 28.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Khalil Herbert
@@ -3872,7 +3872,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: ATL
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 24.5
+- Dynasty AVI (D-AVI, 0-100): 35.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Lew Nichols
@@ -3881,7 +3881,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: PIT
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 13.3
+- Dynasty AVI (D-AVI, 0-100): 22.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Marquez Valdes-Scantling
@@ -3890,7 +3890,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: WR
 - NFL team: PIT
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 19.0
+- Dynasty AVI (D-AVI, 0-100): 26.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Matt Hibner
@@ -3899,7 +3899,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: TE
 - NFL team: BAL
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 50.4
+- Dynasty AVI (D-AVI, 0-100): 51.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Michael Carter
@@ -3908,7 +3908,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: TEN
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 23.6
+- Dynasty AVI (D-AVI, 0-100): 34.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Michael Woods
@@ -3926,7 +3926,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 22.3
+- Dynasty AVI (D-AVI, 0-100): 35.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Noah Whittington
@@ -3935,7 +3935,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: HOU
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 18.5
+- Dynasty AVI (D-AVI, 0-100): 30.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Phil Mafah
@@ -3944,7 +3944,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: NYG
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 20.6
+- Dynasty AVI (D-AVI, 0-100): 32.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Pierre Strong Jr.
@@ -3953,7 +3953,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: GB
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 27.5
+- Dynasty AVI (D-AVI, 0-100): 35.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Raheem Mostert
@@ -3962,7 +3962,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: LVR
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 24.1
+- Dynasty AVI (D-AVI, 0-100): 36.0
 - Availability: available
 
 ## AVAILABLE PLAYER: Robert Henry Jr.
@@ -3971,7 +3971,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: WAS
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 28.8
+- Dynasty AVI (D-AVI, 0-100): 40.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Roman Hemby
@@ -3980,7 +3980,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: LVR
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 29.7
+- Dynasty AVI (D-AVI, 0-100): 40.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Scotty Miller
@@ -3989,7 +3989,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: WR
 - NFL team: CHI
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 1.3
+- Dynasty AVI (D-AVI, 0-100): 12.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Sincere McCormick
@@ -3998,7 +3998,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: SF
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 13.8
+- Dynasty AVI (D-AVI, 0-100): 29.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Taylen Green
@@ -4007,7 +4007,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: QB
 - NFL team: CLE
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 41.8
+- Dynasty AVI (D-AVI, 0-100): 49.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Taysom Hill
@@ -4016,7 +4016,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: TE
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 0.0
+- Dynasty AVI (D-AVI, 0-100): 12.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Tyler Goodson
@@ -4025,7 +4025,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: DAL
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 30.1
+- Dynasty AVI (D-AVI, 0-100): 41.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Tyler Lockett
@@ -4034,7 +4034,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: WR
 - NFL team: LVR
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 13.1
+- Dynasty AVI (D-AVI, 0-100): 22.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Xavier Restrepo
@@ -4043,7 +4043,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: WR
 - NFL team: TEN
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 13.7
+- Dynasty AVI (D-AVI, 0-100): 23.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Zach Ertz
@@ -4052,7 +4052,7 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: TE
 - NFL team: PHI
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 29.3
+- Dynasty AVI (D-AVI, 0-100): 36.9
 - Availability: available
 
 ## AVAILABLE PLAYER: Zamir White
@@ -4061,5 +4061,5 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Position: RB
 - NFL team: NO
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 17.2
+- Dynasty AVI (D-AVI, 0-100): 29.9
 - Availability: available

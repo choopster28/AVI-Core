@@ -1,16 +1,17 @@
 {
   "players": [
     {
-      "average": 8.6,
+      "average": 8,
       "filename": "jason-myers.php",
-      "games": 9,
+      "games": 10,
       "player_id": 14003,
       "player_name": "Jason Myers",
-      "points": 77,
+      "points": 80,
       "position_id": "K",
       "team_id": "SEA",
       "weeks": {
         "1": 7,
+        "10": 3,
         "2": 7,
         "3": 9,
         "4": 6,
@@ -61,16 +62,17 @@
       }
     },
     {
-      "average": 6.5,
+      "average": 6.7,
       "filename": "eddy-pineiro.php",
-      "games": 8,
+      "games": 9,
       "player_id": 17575,
       "player_name": "Eddy Pineiro",
-      "points": 52,
+      "points": 60,
       "position_id": "K",
       "team_id": "SF",
       "weeks": {
         "1": 11,
+        "10": 8,
         "2": 5,
         "3": 8,
         "4": 6,
@@ -81,16 +83,17 @@
       }
     },
     {
-      "average": 8.1,
+      "average": 8.6,
       "filename": "ryan-fitzgerald.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27261,
       "player_name": "Ryan Fitzgerald",
-      "points": 65,
+      "points": 77,
       "position_id": "K",
       "team_id": "CAR",
       "weeks": {
         "1": 8,
+        "10": 12,
         "2": 10,
         "3": 15,
         "4": 9,
@@ -203,16 +206,17 @@
       }
     },
     {
-      "average": 11.6,
+      "average": 11.1,
       "filename": "kaimi-fairbairn.php",
-      "games": 8,
+      "games": 9,
       "player_id": 15756,
       "player_name": "Ka'imi Fairbairn",
-      "points": 93,
+      "points": 100,
       "position_id": "K",
       "team_id": "HOU",
       "weeks": {
         "1": 9,
+        "10": 7,
         "2": 7,
         "3": 5,
         "4": 16,
@@ -223,16 +227,17 @@
       }
     },
     {
-      "average": 11.4,
+      "average": 10.9,
       "filename": "tyler-bass.php",
-      "games": 8,
+      "games": 9,
       "player_id": 19760,
       "player_name": "Tyler Bass",
-      "points": 91,
+      "points": 98,
       "position_id": "K",
       "team_id": "BUF",
       "weeks": {
         "1": 13,
+        "10": 7,
         "2": 5,
         "3": 6,
         "4": 8,
@@ -243,16 +248,17 @@
       }
     },
     {
-      "average": 11.8,
+      "average": 11.4,
       "filename": "spencer-shrader.php",
-      "games": 9,
+      "games": 10,
       "player_id": 26763,
       "player_name": "Spencer Shrader",
-      "points": 106,
+      "points": 114,
       "position_id": "K",
       "team_id": "IND",
       "weeks": {
         "1": 7,
+        "10": 8,
         "2": 14,
         "3": 17,
         "4": 16,
@@ -284,16 +290,17 @@
       }
     },
     {
-      "average": 10,
+      "average": 11,
       "filename": "cam-little.php",
-      "games": 8,
+      "games": 9,
       "player_id": 26475,
       "player_name": "Cam Little",
-      "points": 80,
+      "points": 99,
       "position_id": "K",
       "team_id": "JAC",
       "weeks": {
         "1": 12,
+        "10": 19,
         "2": 8,
         "3": 5,
         "4": 14,
@@ -304,16 +311,17 @@
       }
     },
     {
-      "average": 9.1,
+      "average": 9.2,
       "filename": "andre-szmyt.php",
-      "games": 9,
+      "games": 10,
       "player_id": 25713,
       "player_name": "Andre Szmyt",
-      "points": 82,
+      "points": 92,
       "position_id": "K",
       "team_id": "CLE",
       "weeks": {
         "1": 4,
+        "10": 10,
         "2": 13,
         "3": 9,
         "4": 12,
@@ -366,16 +374,17 @@
       }
     },
     {
-      "average": 6.8,
+      "average": 7.9,
       "filename": "joey-slye.php",
-      "games": 8,
+      "games": 9,
       "player_id": 19028,
       "player_name": "Joey Slye",
-      "points": 54,
+      "points": 71,
       "position_id": "K",
       "team_id": "TEN",
       "weeks": {
         "1": 5,
+        "10": 17,
         "2": 8,
         "3": 1,
         "4": 4,
@@ -386,16 +395,17 @@
       }
     },
     {
-      "average": 9.9,
+      "average": 10.3,
       "filename": "jason-sanders.php",
-      "games": 9,
+      "games": 10,
       "player_id": 17533,
       "player_name": "Jason Sanders",
-      "points": 89,
+      "points": 103,
       "position_id": "K",
       "team_id": "NYJ",
       "weeks": {
         "1": 15,
+        "10": 14,
         "2": 5,
         "3": 5,
         "4": 6,
@@ -427,16 +437,17 @@
       }
     },
     {
-      "average": 9.4,
+      "average": 9.3,
       "filename": "chad-ryland.php",
-      "games": 9,
+      "games": 10,
       "player_id": 25354,
       "player_name": "Chad Ryland",
-      "points": 85,
+      "points": 93,
       "position_id": "K",
       "team_id": "ARI",
       "weeks": {
         "1": 16,
+        "10": 8,
         "2": 1,
         "3": 14,
         "4": 8,
@@ -448,16 +459,17 @@
       }
     },
     {
-      "average": 10,
+      "average": 9.8,
       "filename": "matt-gay.php",
-      "games": 9,
+      "games": 10,
       "player_id": 18545,
       "player_name": "Matt Gay",
-      "points": 90,
+      "points": 98,
       "position_id": "K",
       "team_id": "LV",
       "weeks": {
         "1": 10,
+        "10": 8,
         "2": 8,
         "3": 12,
         "4": 16,
@@ -471,14 +483,15 @@
     {
       "average": 11.4,
       "filename": "will-reichard.php",
-      "games": 8,
+      "games": 9,
       "player_id": 26341,
       "player_name": "Will Reichard",
-      "points": 91,
+      "points": 103,
       "position_id": "K",
       "team_id": "MIN",
       "weeks": {
         "1": 7,
+        "10": 12,
         "2": 10,
         "3": 16,
         "4": 19,
@@ -489,16 +502,17 @@
       }
     },
     {
-      "average": 8,
+      "average": 7.7,
       "filename": "trey-smack.php",
-      "games": 9,
+      "games": 10,
       "player_id": 28507,
       "player_name": "Trey Smack",
-      "points": 72,
+      "points": 77,
       "position_id": "K",
       "team_id": "GB",
       "weeks": {
         "1": 13,
+        "10": 5,
         "2": 8,
         "3": 2,
         "4": 7,
@@ -573,16 +587,17 @@
       }
     },
     {
-      "average": 9.3,
+      "average": 9.6,
       "filename": "brandon-aubrey.php",
-      "games": 9,
+      "games": 10,
       "player_id": 26068,
       "player_name": "Brandon Aubrey",
-      "points": 84,
+      "points": 96,
       "position_id": "K",
       "team_id": "DAL",
       "weeks": {
         "1": 2,
+        "10": 12,
         "2": 16,
         "3": 11,
         "4": 12,
@@ -594,16 +609,17 @@
       }
     },
     {
-      "average": 8.3,
+      "average": 7.9,
       "filename": "harrison-butker.php",
-      "games": 8,
+      "games": 9,
       "player_id": 16712,
       "player_name": "Harrison Butker",
-      "points": 66,
+      "points": 71,
       "position_id": "K",
       "team_id": "KC",
       "weeks": {
         "1": 7,
+        "10": 5,
         "2": 17,
         "3": 6,
         "4": 6,
@@ -665,30 +681,32 @@
       }
     },
     {
-      "average": 8,
+      "average": 7.5,
       "filename": "zane-gonzalez.php",
-      "games": 3,
+      "games": 4,
       "player_id": 16548,
       "player_name": "Zane Gonzalez",
-      "points": 24,
+      "points": 30,
       "position_id": "K",
       "team_id": "MIA",
       "weeks": {
+        "10": 6,
         "7": 4,
         "8": 9,
         "9": 11
       }
     },
     {
-      "average": 6.3,
+      "average": 7.5,
       "filename": "brandon-mcmanus.php",
-      "games": 3,
+      "games": 4,
       "player_id": 13274,
       "player_name": "Brandon McManus",
-      "points": 19,
+      "points": 30,
       "position_id": "K",
       "team_id": "LAR",
       "weeks": {
+        "10": 11,
         "7": 5,
         "8": 6,
         "9": 8
@@ -697,40 +715,43 @@
     {
       "average": 0,
       "filename": "joshua-karty.php",
-      "games": 2,
+      "games": 3,
       "player_id": 26478,
       "player_name": "Joshua Karty",
       "points": 0,
       "position_id": "K",
       "team_id": "LAR",
       "weeks": {
+        "10": 0,
         "8": 0,
         "9": 0
       }
     },
     {
-      "average": 6,
+      "average": 6.5,
       "filename": "jake-moody.php",
-      "games": 1,
+      "games": 2,
       "player_id": 24009,
       "player_name": "Jake Moody",
-      "points": 6,
+      "points": 13,
       "position_id": "K",
       "team_id": "ATL",
       "weeks": {
+        "10": 7,
         "9": 6
       }
     },
     {
-      "average": 12,
+      "average": 9.5,
       "filename": "charlie-smyth.php",
-      "games": 1,
+      "games": 2,
       "player_id": 26444,
       "player_name": "Charlie Smyth",
-      "points": 12,
+      "points": 19,
       "position_id": "K",
       "team_id": "NO",
       "weeks": {
+        "10": 7,
         "9": 12
       }
     }
