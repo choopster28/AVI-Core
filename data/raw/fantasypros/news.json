@@ -1,438 +1,96 @@
 {
-  "count": 25,
+  "count": 24,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Garrett Ball",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-16 02:10:58",
-      "created_formated": "Mon, Nov 16th 2:10am UTC",
-      "desc": "Elic Ayomanor caught 5 of 10 targets for 79 yards in the Titans' 40-23 loss to the Jaguars on Sunday.",
-      "id": 620403,
-      "impact": "Ayomanor has seen 7, 5, and 10 targets in the last three weeks, with 44, 34, and now 79 yards to show for it. It's a bit inefficient; he's caught only 50% of his targets in that span, but nothing terrible in terms of yardage. He's a flex play at best, but only in deep formats.",
-      "link": "https://www.fantasypros.com/nfl/news/620403/elic-ayomanor-goes-79-yards-loss-to-jags.php",
-      "player_id": 27059,
+      "created": "2026-11-16 21:21:23",
+      "created_formated": "Mon, Nov 16th 9:21pm UTC",
+      "desc": "The Chargers activated LB Denzel Perryman from injured reserve. ",
+      "id": 620596,
+      "impact": "Perryman will be good to go for Monday's game against the Ravens. ",
+      "link": "https://www.fantasypros.com/nfl/news/620596/denzel-perryman-activated-from-ir.php",
+      "player_id": 14047,
       "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Elic Ayomanor goes for 79 yards in loss to Jags"
+      "team_id": "LAC",
+      "title": "Denzel Perryman activated from IR"
     },
     {
-      "author": "Chris Schommer",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-16 02:10:25",
-      "created_formated": "Mon, Nov 16th 2:10am UTC",
-      "desc": "George Kittle hauled in six of his nine targets for 74 yards in the 49ers' 46-40 Week 10 win over the Cowboys.",
-      "id": 620402,
-      "impact": "Kittle continues a solid stretch in the San Francisco offense, recording four or more receptions in each of his last eight games. The tight end remains one of the more reliable pass-catchers for head coach Kyle Shanahan ahead of a Week 11 matchup against an aggressive Minnesota Vikings defense.",
-      "link": "https://www.fantasypros.com/nfl/news/620402/george-kittle-hauls-six-passes-week-10-win.php",
-      "player_id": 16499,
+      "created": "2026-11-16 21:20:03",
+      "created_formated": "Mon, Nov 16th 9:20pm UTC",
+      "desc": "The Chargers activated TE David Njoku from injured reserve. ",
+      "id": 620595,
+      "impact": "Njoku will return for Monday's game against the Ravens. He remains off the fantasy radar. ",
+      "link": "https://www.fantasypros.com/nfl/news/620595/david-njoku-fibula-activated-from-ir.php",
+      "player_id": 16399,
       "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "George Kittle hauls in six passes in Week 10 win "
+      "team_id": "LAC",
+      "title": "David Njoku (fibula) activated from IR"
     },
     {
-      "author": "Garrett Ball",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-16 02:07:38",
-      "created_formated": "Mon, Nov 16th 2:07am UTC",
-      "desc": "Chimere Dike caught two of three targets for 16 yards in the Titans' 40-23 loss to the Jaguars on Sunday.",
-      "id": 620401,
-      "impact": "Dike went off for 71 yards and a touchdown last week, but was held to minimal production against the Jags' improved secondary. When Carnell Tate returns to the lineup, it will be hard for him to get another crack at fantasy production, aside from injuries to others ahead of him,",
-      "link": "https://www.fantasypros.com/nfl/news/620401/chimere-dike-goes-quiet-week-10-loss.php",
-      "player_id": 27315,
+      "created": "2026-11-16 21:10:48",
+      "created_formated": "Mon, Nov 16th 9:10pm UTC",
+      "desc": "Luther Burden III was practicing on Monday. ",
+      "id": 620591,
+      "impact": "Burden left the Bears last game before their bye week with a concussion. He should be good to go, but he'll still need to be monitored in practice. ",
+      "link": "https://www.fantasypros.com/nfl/news/620591/luther-burden-iii-concussion-practices-monday.php",
+      "player_id": 27016,
       "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Chimere Dike goes quiet in Week 10 loss"
+      "team_id": "CHI",
+      "title": "Luther Burden III (concussion) practices Monday "
     },
     {
-      "author": "Chris Schommer",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-16 02:07:14",
-      "created_formated": "Mon, Nov 16th 2:07am UTC",
-      "desc": "Keenan Allen caught five of his seven targets for 61 yards in the 49ers' 46-40 Week 10 win over the Cowboys.",
-      "id": 620400,
-      "impact": "Allen was impactful in his first game action since being acquired from the Colts, logging over 60 receiving yards for the third time in his last five contests. The veteran wideout offers head coach Kyle Shanahan another stable pass-catching option as part of an injury-riddled wideout room entering a Week 11 matchup against the Minnesota Vikings.",
-      "link": "https://www.fantasypros.com/nfl/news/620400/keenan-allen-catches-five-passes-week-10-win.php",
-      "player_id": 11616,
+      "created": "2026-11-16 21:07:26",
+      "created_formated": "Mon, Nov 16th 9:07pm UTC",
+      "desc": "Kyle Monangai was practicing on Monday. ",
+      "id": 620589,
+      "impact": "Monangai will have a chance to return out of the bye week for the Bears. He will still need to be monitored in practice the rest of the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/620589/kyle-monangai-thumbtoe-practices-monday.php",
+      "player_id": 27131,
       "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Keenan Allen catches five passes in Week 10 win"
+      "team_id": "CHI",
+      "title": "Kyle Monangai (thumb/toe) practices Monday "
     },
     {
-      "author": "Garrett Ball",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-16 02:05:07",
-      "created_formated": "Mon, Nov 16th 2:05am UTC",
-      "desc": " Wan'Dale Robinson caught three of four targets for 10 yards in the Titans' 40-23 loss to the Jaguars on Sunday.",
-      "id": 620399,
-      "impact": "Robinson was way down the pecking order in this game, finishing fourth on the team in receptions and near the bottom in yards. He's a tough start given his lack of efficiency when targeted.",
-      "link": "https://www.fantasypros.com/nfl/news/620399/wandale-robinson-quiet-loss-to-jags.php",
-      "player_id": 22985,
+      "created": "2026-11-16 21:03:33",
+      "created_formated": "Mon, Nov 16th 9:03pm UTC",
+      "desc": "Raiders head coach Klint Kubiak confirmed that Brock Bowers is day to day with his ankle injury.",
+      "id": 620586,
+      "impact": "\"It's not as bad as we thought, but still a significant injury,\" Kubiak said. Bowers is uncertain heading into Week 11 against the Broncos. ",
+      "link": "https://www.fantasypros.com/nfl/news/620586/brock-bowers-ankle-confirmed-to-be-day-to-day.php",
+      "player_id": 22955,
       "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Wan'Dale Robinson quiet in loss to Jags"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 02:03:32",
-      "created_formated": "Mon, Nov 16th 2:03am UTC",
-      "desc": "Dalton Schultz caught 1-of-2 targets for an 11-yard touchdown in Sunday's 27-24 loss to the Browns. ",
-      "id": 620398,
-      "impact": "Schultz failed to catch multiple passes for the first time this season in Sunday's loss. He did, however, make his one reception count, scoring for the first time this season. The veteran TE is averaging four grabs and just over 40 yards per game to this point on the season. ",
-      "link": "https://www.fantasypros.com/nfl/news/620398/dalton-schultz-hauls-td-week-10-loss.php",
-      "player_id": 17349,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Dalton Schultz hauls in TD in Week 10 loss"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 02:02:44",
-      "created_formated": "Mon, Nov 16th 2:02am UTC",
-      "desc": "Tony Pollard ran 9 times for 33 yards and caught 8 of 9 targets for 66 yards and a touchdown in the Titans' 40-23 loss to the Jaguars on Sunday.",
-      "id": 620397,
-      "impact": "Pollard ended Sunday's game one yard shy of 100 yards on the day. His 66 receiving yards were the second-most on the team, and his eight catches led the team. Tyjae Spears had more efficiency on his four rushing attempts, but played clear second fiddle to Pollard. Keep Pollard in lineups as a volume RB3 with RB2 upside, especially if the Titans keep up their newfound energy.",
-      "link": "https://www.fantasypros.com/nfl/news/620397/tony-pollard-explodes-66-receiving-yards-loss.php",
-      "player_id": 18705,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Tony Pollard explodes for 66 receiving yards in loss"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 02:02:14",
-      "created_formated": "Mon, Nov 16th 2:02am UTC",
-      "desc": "Jordan Watkins caught two of his three targets for 49 yards in the 49ers' 46-40 win over the Cowboys in Week 10.",
-      "id": 620396,
-      "impact": "Watkins has struggled to make an impact in the San Francisco offense of late, finishing with under 60 receiving yards in five of his last six contests. The 24-year-old remains one of the more risky pass-catching options entering a Week 11 contest against the Minnesota Vikings.",
-      "link": "https://www.fantasypros.com/nfl/news/620396/jordan-watkins-quiet-week-10.php",
-      "player_id": 27486,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Jordan Watkins quiet in Week 10"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 01:57:23",
-      "created_formated": "Mon, Nov 16th 1:57am UTC",
-      "desc": "Cam Ward completed 28 of 39 passes for 231 yards, two touchdowns and a pick in the Titans' 40-23 loss to the Jaguars on Sunday. He also ran three times for 39 yards.",
-      "id": 620395,
-      "impact": "Ward had a decent game, all things considered. He now has four touchdown passes in the last two weeks, as many as he had in the previous seven games. His rushing production is also a welcome sight, going for 80 total rushing yards in that same two-game span. He had 71 total rushing yards in his first seven games. He certainly seems to have turned a corner these last two games; here's to hoping they can build some momentum and that this lasts.",
-      "link": "https://www.fantasypros.com/nfl/news/620395/cam-ward-tosses-two-touchdowns-loss.php",
-      "player_id": 24755,
-      "sport_id": "NFL",
-      "team_id": "TEN",
-      "title": "Cam Ward tosses two touchdowns in loss"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 01:56:57",
-      "created_formated": "Mon, Nov 16th 1:56am UTC",
-      "desc": "Ka'imi Fairbairn made his only field-goal attempt and all three PATs in Sunday's 27-24 loss to the Browns. ",
-      "id": 620394,
-      "impact": "Fairbairn continues another solid season. The veteran kicker has missed just one of his 20 FG attempts this season, and he's perfect on 24 PATs. Fairbairn is one of the most reliable kickers in the league. ",
-      "link": "https://www.fantasypros.com/nfl/news/620394/kaimi-fairbairn-contributes-six-points-week-10-loss.php",
-      "player_id": 15756,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Ka'imi Fairbairn contributes six points in Week 10 loss"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 01:56:36",
-      "created_formated": "Mon, Nov 16th 1:56am UTC",
-      "desc": "The 49ers D/ST recorded one sack while also forcing two turnovers (one interception, one fumble recovery) in a 46-40 win over the Cowboys in Week 10.",
-      "id": 620393,
-      "impact": "The defense struggled to hold the Dallas passing attack in check, allowing five touchdowns and over 340 passing yards in the win. The unit will look to get back on track against an inconsistent Minnesota Vikings offense in Week 11.",
-      "link": "https://www.fantasypros.com/nfl/news/620393/49ers-dst-shredded-week-10.php",
-      "player_id": 8270,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "49ers D/ST shredded in Week 10"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 01:53:45",
-      "created_formated": "Mon, Nov 16th 1:53am UTC",
-      "desc": "Eddy Piniero converted his lone field goal attempt as well as all five of his extra point attempts to finish with eight points in the 49ers' 46-40 win over the Cowboys in Week 10.",
-      "id": 620392,
-      "impact": "Piniero continues a solid stretch to this point, finishing with five or more points in eight of nine contests. The kicker will look for another stable performance against the Minnesota Vikings in Week 11.",
-      "link": "https://www.fantasypros.com/nfl/news/620392/eddy-piniero-perfect-week-10.php",
-      "player_id": 17575,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Eddy Piniero perfect in Week 10"
-    },
-    {
-      "author": "Nate Miller",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 01:50:33",
-      "created_formated": "Mon, Nov 16th 1:50am UTC",
-      "desc": "The Texans D/ST allowed 27 points and 379 yards of total offense, registering four sacks and one interception in Sunday's 27-24 loss to the Browns. ",
-      "id": 620391,
-      "impact": "The Texans' defense made some impact plays Sunday, but ultimately the unit could not keep Browns QB Deshaun Watson from passing for over 300 yards and rushing for nearly 50 more. The Texans have been inconsistent on the defensive side for the most part, but an inviting matchup against the Colts awaits on Thursday. ",
-      "link": "https://www.fantasypros.com/nfl/news/620391/texans-defense-comes-up-with-four-sacks-week-10-loss.php",
-      "player_id": 8120,
-      "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Texans defense comes up with four sacks in Week 10 loss"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 00:44:13",
-      "created_formated": "Mon, Nov 16th 12:44am UTC",
-      "desc": "Khalil Herbert caught two of his three targets for seven yards in the Falcons' 35-13 loss to the Chiefs in Week 10.",
-      "id": 620382,
-      "impact": "Herbert has struggled to make an impact out of the Atlanta backfield, finishing with less than 30 offensive yards in each of his four games. The running back can remain off rosters in all formats as the team enters its Week 11 bye.",
-      "link": "https://www.fantasypros.com/nfl/news/620382/khalil-herbert-catches-two-passes-week-10.php",
-      "player_id": 22763,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Khalil Herbert catches two passes in Week 10"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 00:40:02",
-      "created_formated": "Mon, Nov 16th 12:40am UTC",
-      "desc": "Jahan Dotson hauled in three of his six targets for 63 yards in the Falcons' 35-13 Week 10 loss to the Chiefs.",
-      "id": 620381,
-      "impact": "Dotson has made the most of inconsistent quarterback play of late, finishing with over 60 receiving yards in three of his last six contests. The wideout remains one of the more reliable pass-catching options in an inconsistent Atlanta passing attack as the team enters its Week 11 bye before facing a tough Minnesota Vikings defense in Week 12.",
-      "link": "https://www.fantasypros.com/nfl/news/620381/jahan-dotson-hauls-three-passes-week-10-loss.php",
-      "player_id": 23101,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Jahan Dotson hauls in three passes in Week 10 loss"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 00:36:45",
-      "created_formated": "Mon, Nov 16th 12:36am UTC",
-      "desc": "Kyle Pitts Sr. caught four of his five targets for 50 yards in the Falcons' 35-13 Week 10 loss to the Chiefs.",
-      "id": 620380,
-      "impact": "Pitts Sr. has struggled to make a consistent impact on offense to this point, finishing with less than 60 receiving yards in nine of 10 games. The tight end remains a risky pass-catching option in an inconsistent Atlanta offense for head coach Kevin Stefanski entering the team's Week 11 bye.",
-      "link": "https://www.fantasypros.com/nfl/news/620380/kyle-pitts-sr-catches-four-passes-week-10-loss.php",
-      "player_id": 20164,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Kyle Pitts Sr. catches four passes in Week 10 loss"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 00:33:47",
-      "created_formated": "Mon, Nov 16th 12:33am UTC",
-      "desc": "Olamide Zaccheaus caught two of his four targets for 17 yards in the Falcons' 35-13 loss to the Chiefs in Week 10.",
-      "id": 620379,
-      "impact": "Zaccheaus has struggled to make an impact on offense to this point, recording less than 20 receiving yards in each of his nine games. The wideout can be left off rosters in all formats as the team enters its Week 11 bye.",
-      "link": "https://www.fantasypros.com/nfl/news/620379/olamide-zaccheaus-quiet-week-10.php",
-      "player_id": 18864,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Olamide Zaccheaus quiet in Week 10"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 00:31:11",
-      "created_formated": "Mon, Nov 16th 12:31am UTC",
-      "desc": "Chris Blair caught one of his four targets for 26 yards in the Falcons' 35-13 loss to the Chiefs in Week 10.",
-      "id": 620378,
-      "impact": "Blair has been a non-factor in the Atlanta offense to this point, recording a catch for the first time in eight games. The wideout can remain off rosters in all formats entering the team's Week 11 bye.",
-      "link": "https://www.fantasypros.com/nfl/news/620378/chris-blair-sees-four-targets-week-10.php",
-      "player_id": 22684,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Chris Blair sees four targets in Week 10"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 00:28:38",
-      "created_formated": "Mon, Nov 16th 12:28am UTC",
-      "desc": "Austin Hooper caught his only target for eight yards in the Falcons' 35-13 loss to the Chiefs in Week 10.",
-      "id": 620377,
-      "impact": "Hooper has seen minimal involvement in the Atlanta offense, recording two receptions or less in each of his last eight contests. The tight end remains difficult to trust behind TE1 Kyle Pitts Sr. in an inconsistent Falcons offense entering the team's Week 11 bye.",
-      "link": "https://www.fantasypros.com/nfl/news/620377/austin-hooper-catches-pass-week-10.php",
-      "player_id": 15581,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Austin Hooper catches pass in Week 10"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 00:20:30",
-      "created_formated": "Mon, Nov 16th 12:20am UTC",
-      "desc": "Beaux Collins failed to catch either of his two targets in the Falcons' 35-13 loss to the Chiefs in Week 10.",
-      "id": 620376,
-      "impact": "Collins has been a non-factor in the Atlanta offense, failing to catch a pass in both of his contests. The wideout can remain off rosters in all formats entering the team's Week 11 bye.",
-      "link": "https://www.fantasypros.com/nfl/news/620376/beaux-collins-sees-two-targets-week-10.php",
-      "player_id": 22925,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Beaux Collins sees two targets in Week 10"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 00:18:22",
-      "created_formated": "Mon, Nov 16th 12:18am UTC",
-      "desc": "Michael Penix Jr. completed 23-of-43 pass attempts for 286 yards and one interception while also rushing four times for 29 yards in the Falcons' 35-13 Week 10 loss to the Chiefs.",
-      "id": 620375,
-      "impact": "Penix Jr. has struggled to make an impact behind center of late, throwing one or more interceptions in each of the last three games. The quarterback faces a disruptive Minnesota Vikings defense in Week 12 after the team's Week 11 bye.",
-      "link": "https://www.fantasypros.com/nfl/news/620375/michael-penix-jr-bottled-up-week-10-loss-to-chiefs.php",
-      "player_id": 22973,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Michael Penix Jr. bottled up in Week 10 loss to Chiefs"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 00:14:04",
-      "created_formated": "Mon, Nov 16th 12:14am UTC",
-      "desc": "Drake London hauled in six of his team-leading 12 targets for 109 yards in the Falcons' 35-13 Week 10 loss to the Chiefs.",
-      "id": 620374,
-      "impact": "London has made the most of inconsistent quarterback play, registering five or more receptions in five of his last seven contests. The wideout remains one of the few impactful options on offense for head coach Kevin Stefanski as the team enters its bye week.",
-      "link": "https://www.fantasypros.com/nfl/news/620374/drake-london-surpasses-100-yards-week-10-loss-to-chiefs.php",
-      "player_id": 23163,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Drake London surpasses 100 yards in Week 10 loss to Chiefs"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 00:11:16",
-      "created_formated": "Mon, Nov 16th 12:11am UTC",
-      "desc": "Bijan Robinson carried the ball 16 times for 71 yards and one touchdown while also catching four of his five targets for six yards in the Falcons' 35-13 Week 10 loss to the Chiefs.",
-      "id": 620373,
-      "impact": "Robinson was one of the few bright spots in the Atlanta offense Sunday, finishing with over 70 offensive yards in nine of 10 games. The running back remains locked in as a reliable RB1 option in all formats entering the team's Week 11 bye.",
-      "link": "https://www.fantasypros.com/nfl/news/620373/bijan-robinson-reaches-end-zone-week-10-loss-to-chiefs.php",
-      "player_id": 23133,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Bijan Robinson reaches end zone in Week 10 loss to Chiefs"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-16 00:08:09",
-      "created_formated": "Mon, Nov 16th 12:08am UTC",
-      "desc": "The Falcons D/ST registered one sack while failing to force any turnovers in a 35-13 loss to the Chiefs in Week 10.",
-      "id": 620372,
-      "impact": "The defense had no answers for an explosive Kansas City offense, allowing five touchdowns through the air and 461 offensive yards in the loss. The unit can remain off rosters entering the team's Week 11 bye.",
-      "link": "https://www.fantasypros.com/nfl/news/620372/falcons-dst-torched-week-10.php",
-      "player_id": 8010,
-      "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Falcons D/ST torched in Week 10"
+      "team_id": "LV",
+      "title": "Brock Bowers (ankle) confirmed to be day-to-day "
     },
     {
       "author": "Chris Schommer",
@@ -441,16 +99,337 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-16 00:05:27",
-      "created_formated": "Mon, Nov 16th 12:05am UTC",
-      "desc": "Pat Freiermuth (illness) is active for Week 10 for the Pittsburgh Steelers against the Cincinnati Bengals.",
-      "id": 620371,
-      "impact": "Freiermuth is good to go after entering the weekend with a questionable designation with a late-week illness, providing quarterback Aaron Rodgers with his inconsistent TE1 against the Bengals Sunday night.",
-      "link": "https://www.fantasypros.com/nfl/news/620371/pat-freiermuth-illness-active-week-10.php",
+      "created": "2026-11-16 20:31:13",
+      "created_formated": "Mon, Nov 16th 8:31pm UTC",
+      "desc": "Micah Parsons (knee) is trending toward returning in Week 12 for the Green Bay Packers according to Adam Schefter.",
+      "id": 620579,
+      "impact": "Parsons still has \"some hurdles to clear\" according to Green Bay head coach Matt LaFleur, but barring any setbacks seems poised to return to the field on Thanksgiving Eve in a matchup against the Los Angeles Rams.",
+      "link": "https://www.fantasypros.com/nfl/news/620579/micah-parsons-knee-trending-towards-week-12-return.php",
+      "player_id": 19784,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Micah Parsons (knee) trending towards Week 12 return"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-16 19:20:11",
+      "created_formated": "Mon, Nov 16th 7:20pm UTC",
+      "desc": "Jets head coach Aaron Glenn said Geno Smith will undergo an MRI on Monday. ",
+      "id": 620578,
+      "impact": "Smith left Sunday's game early against the Bills with an ankle injury. There should be an update on his status later this week. ",
+      "link": "https://www.fantasypros.com/nfl/news/620578/geno-smith-ankle-to-undergo-mri-monday.php",
+      "player_id": 11687,
+      "sport_id": "NFL",
+      "team_id": "NYJ",
+      "title": "Geno Smith (ankle) to undergo MRI Monday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-16 19:10:45",
+      "created_formated": "Mon, Nov 16th 7:10pm UTC",
+      "desc": "Seahawks RB George Holani suffered an MCL sprain and is considered to be week-to-week. ",
+      "id": 620577,
+      "impact": "Holani is hopeful to avoid a stint on injured reserve. He will be re-evaluated next week. ",
+      "link": "https://www.fantasypros.com/nfl/news/620577/george-holani-week-to-week-with-mcl-sprain.php",
+      "player_id": 22915,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "George Holani week-to-week with MCL sprain"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-16 18:43:37",
+      "created_formated": "Mon, Nov 16th 6:43pm UTC",
+      "desc": "The Eagles signed TE Zach Ertz to their active roster.",
+      "id": 620563,
+      "impact": "Ertz will continue to add depth in the tight end room for Philadelphia. He will remain off the fantasy radar. ",
+      "link": "https://www.fantasypros.com/nfl/news/620563/zach-ertz-signs-with-eagles-active-roster.php",
+      "player_id": 11689,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Zach Ertz signs with Eagles active roster"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-16 18:42:30",
+      "created_formated": "Mon, Nov 16th 6:42pm UTC",
+      "desc": "Vikings head coach Kevin O'Connell said Jordan Addison is expected to be placed on short-term IR. ",
+      "id": 620562,
+      "impact": "Addison has a thumb injury that's going to require surgery. He will likely miss at least a few weeks. ",
+      "link": "https://www.fantasypros.com/nfl/news/620562/jordan-addison-thumb-to-likely-go-on-short-term-ir.php",
+      "player_id": 23107,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Jordan Addison (thumb) to likely go on short-term IR"
+    },
+    {
+      "author": "Kelly Kirby",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-16 18:24:01",
+      "created_formated": "Mon, Nov 16th 6:24pm UTC",
+      "desc": "Vikings LB Andrew Van Ginkel left Sunday's 30-10 win over the Packers with a quad injury, according to ESPN's Kevin Seifert. He was last on the field with 26 seconds left in the third quarter, when he grabbed his right leg after a pass rush.",
+      "id": 620561,
+      "impact": "Van Ginkel had three solo tackles, a sack, and a QB hit before he left. His Week 11 status is unclear until the Vikings release their first injury report of the week. If he misses time, Dallas Turner moves into a bigger role. ",
+      "link": "https://www.fantasypros.com/nfl/news/620561/andrew-van-ginkel-exits-week-10-with-quad-injury.php",
+      "player_id": 18573,
+      "sport_id": "NFL",
+      "team_id": "MIN",
+      "title": "Andrew Van Ginkel exits Week 10 with quad injury"
+    },
+    {
+      "author": "Kelly Kirby",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-16 17:59:43",
+      "created_formated": "Mon, Nov 16th 5:59pm UTC",
+      "desc": "Seahawks head coach Mike Macdonald told Seattle Sports radio hosts Brock Huard and Mike Salk on Monday that the team is \"really optimistic\" QB Sam Darnold (quad) will get enough practice reps next week to start Nov. 29 against the 49ers, according to ESPN's Brady Henderson. Macdonald said Drew Lock has been great, \"but Sam's our quarterback.\"",
+      "id": 620560,
+      "impact": "Darnold has missed the last two games with a quad injury he suffered in Week 8 against the Bears, after also playing through a cracked rib. With Seattle on bye in Week 11, the extra week gives him more time to heal. Darnold could return as a QB2 against San Francisco if he practices fully next week. Lock remains a stash in superflex and 2QB leagues until Darnold's status is confirmed.",
+      "link": "https://www.fantasypros.com/nfl/news/620560/sam-darnold-could-return-week-12.php",
+      "player_id": 17236,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Sam Darnold could return in Week 12"
+    },
+    {
+      "author": "Kelly Kirby",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-16 17:24:59",
+      "created_formated": "Mon, Nov 16th 5:24pm UTC",
+      "desc": "Dolphins coach Jeff Hafley said Monday that no decision has been made on whether QB Malik Willis (groin/core) needs surgery.",
+      "id": 620559,
+      "impact": "Miami placed Willis on injured reserve last week after an MRI showed his lingering groin issue had become a core muscle injury. He'll miss at least three more games. The team expected him back before the season ended, but potential surgery puts that return in doubt. He is only worth holding in deep superflex and 2QB leagues until there's an update. Kyle McCord remains Miami's starter. ",
+      "link": "https://www.fantasypros.com/nfl/news/620559/malik-willis-surgery-decision-still-pending.php",
+      "player_id": 23499,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Malik Willis' surgery decision still pending"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-16 17:24:35",
+      "created_formated": "Mon, Nov 16th 5:24pm UTC",
+      "desc": "Cooper Rush is signing with the Tampa Bay practice squad due to the injury to Baker Mayfield.",
+      "id": 620558,
+      "impact": "With Mayfield dealing with a foot injury, the Bucs are bringing in Rush as extra depth. It's safe to assume Jalon Daniels would be the starter if Mayfield misses time, and Rush would be the backup in that situation.",
+      "link": "https://www.fantasypros.com/nfl/news/620558/cooper-rush-signs-with-tampa-bay-practice-squad.php",
+      "player_id": 16477,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Cooper Rush signs with Tampa Bay practice squad"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-16 16:46:29",
+      "created_formated": "Mon, Nov 16th 4:46pm UTC",
+      "desc": "DaRon Bland left Sunday's game early against the 49ers with an ankle injury. ",
+      "id": 620557,
+      "impact": "The Cowboys are determining the extent of the injury for Bland. ",
+      "link": "https://www.fantasypros.com/nfl/news/620557/daron-bland-suffers-ankle-injury-sunday.php",
+      "player_id": 24551,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "DaRon Bland suffers ankle injury Sunday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-16 16:36:10",
+      "created_formated": "Mon, Nov 16th 4:36pm UTC",
+      "desc": "The Dolphins waived kicker Zane Gonzalez.",
+      "id": 620555,
+      "impact": "Gonzalez missed two field goals in Sunday's two point loss against the Colts. They will seek another kicker this week. ",
+      "link": "https://www.fantasypros.com/nfl/news/620555/zane-gonzalez-waived-by-dolphins.php",
+      "player_id": 16548,
+      "sport_id": "NFL",
+      "team_id": "MIA",
+      "title": "Zane Gonzalez waived by Dolphins "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-16 16:34:13",
+      "created_formated": "Mon, Nov 16th 4:34pm UTC",
+      "desc": "Cowboys OG suffered a high-ankle sprain in Sunday's game against the 49ers. ",
+      "id": 620554,
+      "impact": "Booker is expected to miss at least the next four weeks. Rapoport notes that Booker suffered a similar injury kept him out three games last season. ",
+      "link": "https://www.fantasypros.com/nfl/news/620554/tyler-booker-suffers-high-ankle-sprain.php",
+      "player_id": 27028,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Tyler Booker suffers high ankle sprain"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-16 16:34:03",
+      "created_formated": "Mon, Nov 16th 4:34pm UTC",
+      "desc": "The Steelers' D/ST logged one sack and allowed 38 points in Sunday's loss to the Cincinnati Bengals.",
+      "id": 620553,
+      "impact": "Pittsburgh's defense was terrible on Sunday night. They allowed 38 points over the course of the game, and they weren't able to log many big plays to help out their own offense. This unit should bounce back in a favorable matchup against the Eagles next week, however.",
+      "link": "https://www.fantasypros.com/nfl/news/620553/steelers-dst-dismal-loss-sunday.php",
+      "player_id": 8240,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Steelers D/ST dismal in loss Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-16 16:32:19",
+      "created_formated": "Mon, Nov 16th 4:32pm UTC",
+      "desc": "Chris Boswell made his lone field-goal attempt and his lone extra-point attempt in Sunday's 38-18 loss to the Cincinnati Bengals.",
+      "id": 620552,
+      "impact": "Boswell did his job on Sunday, making both of his kicks to rack up a total of four points. He wasn't able to put up a good fantasy performance, however, just because the Steelers' offense wasn't able to get him into scoring range on many occasions.",
+      "link": "https://www.fantasypros.com/nfl/news/620552/chris-boswell-perfect-loss-sunday.php",
+      "player_id": 13029,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Chris Boswell perfect in loss Sunday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-16 16:31:03",
+      "created_formated": "Mon, Nov 16th 4:31pm UTC",
+      "desc": "The Patriots are concerned that QB Drake Maye fractured his ankle. ",
+      "id": 620551,
+      "impact": "Schefter notes that Maye remained in Germany to undergo additional testing to determine whether he needs surgery. He is feared to be out for the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/620551/drake-maye-ankle-out-indefinitely.php",
+      "player_id": 23046,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Drake Maye (ankle) out indefinitely"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-16 16:30:12",
+      "created_formated": "Mon, Nov 16th 4:30pm UTC",
+      "desc": "Darnell Washington caught 1-of-3 targets for five yards in Sunday's 38-18 loss to the Cincinnati Bengals.",
+      "id": 620550,
+      "impact": "Washington didn't contribute much on Sunday. He caught just one pass for five yards over the course of the game, which left him with a poor fantasy total. He has week-to-week upside but won't be consistent moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/620550/darnell-washington-uninvolved-loss-sunday.php",
+      "player_id": 22967,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Darnell Washington uninvolved in loss Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-16 16:28:13",
+      "created_formated": "Mon, Nov 16th 4:28pm UTC",
+      "desc": "Pat Freiermuth caught 2-of-3 targets for 35 yards and a touchdown in Sunday's 38-18 loss to the Cincinnati Bengals.",
+      "id": 620549,
+      "impact": "Freiermuth was a meaningful contributor for the Steelers on Sunday. He hauled in a touchdown on one of his two catches and racked up 35 yards in the process. He will continue to be fantasy relevant moving forward, although he's not immune from having bad games on a game-to-game basis.",
+      "link": "https://www.fantasypros.com/nfl/news/620549/pat-freiermuth-finds-end-zone-sunday.php",
       "player_id": 20163,
       "sport_id": "NFL",
       "team_id": "PIT",
-      "title": "Pat Freiermuth (illness) active for Week 10"
+      "title": "Pat Freiermuth finds end zone Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-16 16:24:47",
+      "created_formated": "Mon, Nov 16th 4:24pm UTC",
+      "desc": "Germie Bernard didn't haul in any of his three targets in Sunday's 38-18 loss to the Cincinnati Bengals.",
+      "id": 620548,
+      "impact": "The rookie was locked down on Sunday night. He saw three targets over the course of the game but couldn't haul in any of them, leaving him with a goose egg in most categories on the stat sheet. He should not be started in any league formats for the foreseeable future.",
+      "link": "https://www.fantasypros.com/nfl/news/620548/germie-bernard-held-without-catch-loss-sunday.php",
+      "player_id": 26039,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Germie Bernard held without catch in loss Sunday"
+    },
+    {
+      "author": "Leo Sells",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-16 16:22:44",
+      "created_formated": "Mon, Nov 16th 4:22pm UTC",
+      "desc": "Rico Dowdle rushed the ball five times for 26 yards and caught two passes for eight yards in Sunday's 38-18 loss to the Cincinnati Bengals.",
+      "id": 620547,
+      "impact": "Dowdle wasn't effective on Sunday, finishing with just 34 scoreless yards on seven total touches. He will continue to see involvement in this offense moving forward but shouldn't be regarded as much more than a handcuff fantasy asset behind Jaylen Warren for the foreseeable future.",
+      "link": "https://www.fantasypros.com/nfl/news/620547/rico-dowdle-quiet-loss-sunday.php",
+      "player_id": 19647,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Rico Dowdle quiet in loss Sunday"
     }
   ],
   "public_api": true,

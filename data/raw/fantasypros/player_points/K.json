@@ -125,16 +125,17 @@
       }
     },
     {
-      "average": 9.6,
+      "average": 9.4,
       "filename": "evan-mcpherson.php",
-      "games": 8,
+      "games": 9,
       "player_id": 23297,
       "player_name": "Evan McPherson",
-      "points": 77,
+      "points": 85,
       "position_id": "K",
       "team_id": "CIN",
       "weeks": {
         "1": 19,
+        "10": 8,
         "2": 12,
         "3": 11,
         "4": 5,
@@ -333,16 +334,17 @@
       }
     },
     {
-      "average": 10.3,
+      "average": 9.7,
       "filename": "chris-boswell.php",
-      "games": 8,
+      "games": 9,
       "player_id": 13029,
       "player_name": "Chris Boswell",
-      "points": 82,
+      "points": 87,
       "position_id": "K",
       "team_id": "PIT",
       "weeks": {
         "1": 9,
+        "10": 5,
         "2": 5,
         "3": 13,
         "4": 4,
@@ -688,7 +690,7 @@
       "player_name": "Zane Gonzalez",
       "points": 30,
       "position_id": "K",
-      "team_id": "MIA",
+      "team_id": "FA",
       "weeks": {
         "10": 6,
         "7": 4,

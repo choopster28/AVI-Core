@@ -94,16 +94,17 @@
       }
     },
     {
-      "average": 22,
+      "average": 23.1,
       "filename": "brock-purdy.php",
-      "games": 8,
+      "games": 9,
       "player_id": 19797,
       "player_name": "Brock Purdy",
-      "points": 176.3,
+      "points": 207.96,
       "position_id": "QB",
       "team_id": "SF",
       "weeks": {
         "1": 22.1,
+        "10": 31.7,
         "2": 28.5,
         "3": 31.3,
         "4": 19.6,
@@ -168,16 +169,17 @@
       }
     },
     {
-      "average": 25.6,
+      "average": 26.5,
       "filename": "joe-burrow.php",
-      "games": 8,
+      "games": 9,
       "player_id": 19196,
       "player_name": "Joe Burrow",
-      "points": 205.14,
+      "points": 238.29999999999998,
       "position_id": "QB",
       "team_id": "CIN",
       "weeks": {
         "1": 15.2,
+        "10": 33.2,
         "2": 16.2,
         "3": 22.6,
         "4": 25.7,
@@ -400,14 +402,15 @@
     {
       "average": 15.4,
       "filename": "aaron-rodgers.php",
-      "games": 8,
+      "games": 9,
       "player_id": 9001,
       "player_name": "Aaron Rodgers",
-      "points": 123.13999999999999,
+      "points": 138.76,
       "position_id": "QB",
       "team_id": "PIT",
       "weeks": {
         "1": 12.5,
+        "10": 15.6,
         "2": 5,
         "3": 23.7,
         "4": 24,
@@ -425,7 +428,7 @@
       "player_name": "Cooper Rush",
       "points": 9.16,
       "position_id": "QB",
-      "team_id": "FA",
+      "team_id": "TB",
       "weeks": {
         "1": 7.7,
         "2": 1.4
@@ -642,16 +645,17 @@
       }
     },
     {
-      "average": 19.2,
+      "average": 20.8,
       "filename": "dak-prescott.php",
-      "games": 9,
+      "games": 10,
       "player_id": 15600,
       "player_name": "Dak Prescott",
-      "points": 172.44000000000003,
+      "points": 207.86,
       "position_id": "QB",
       "team_id": "DAL",
       "weeks": {
         "1": 15.4,
+        "10": 35.4,
         "2": 29.8,
         "3": 18.9,
         "4": 18.1,
@@ -766,15 +770,16 @@
       }
     },
     {
-      "average": 0,
+      "average": 0.3,
       "filename": "mason-rudolph.php",
-      "games": 3,
+      "games": 4,
       "player_id": 17234,
       "player_name": "Mason Rudolph",
-      "points": 0.09999999999999998,
+      "points": 1.08,
       "position_id": "QB",
       "team_id": "PIT",
       "weeks": {
+        "10": 1,
         "2": 0.3,
         "5": -0.2,
         "8": 0
@@ -1260,19 +1265,6 @@
       }
     },
     {
-      "average": 7.1,
-      "filename": "cade-klubnik.php",
-      "games": 1,
-      "player_id": 24361,
-      "player_name": "Cade Klubnik",
-      "points": 7.08,
-      "position_id": "QB",
-      "team_id": "NYJ",
-      "weeks": {
-        "10": 7.1
-      }
-    },
-    {
       "average": 12.8,
       "filename": "kyle-mccord.php",
       "games": 1,
@@ -1283,6 +1275,19 @@
       "team_id": "MIA",
       "weeks": {
         "10": 12.8
+      }
+    },
+    {
+      "average": 7.1,
+      "filename": "cade-klubnik.php",
+      "games": 1,
+      "player_id": 24361,
+      "player_name": "Cade Klubnik",
+      "points": 7.08,
+      "position_id": "QB",
+      "team_id": "NYJ",
+      "weeks": {
+        "10": 7.1
       }
     },
     {

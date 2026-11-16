@@ -13,8 +13,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 22
-- offense: 17
+- total_players: 23
+- offense: 18
 - kickers: 1
 - idp: 4
 - other: 0
@@ -23,21 +23,21 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 460.4
 - championship_lineup_c_avi_avg: 57.55
-- offensive_roster_c_avi_sum: 746.3
-- offensive_roster_c_avi_avg: 43.90
-- offensive_roster_d_avi_sum: 1270.4
-- offensive_roster_d_avi_avg: 74.73
+- offensive_roster_c_avi_sum: 791.3
+- offensive_roster_c_avi_avg: 43.96
+- offensive_roster_d_avi_sum: 1349.3
+- offensive_roster_d_avi_avg: 74.96
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Bryce Young | C-AVI: 52.3 | D-AVI: 73.1
 - RB: Derrick Henry | C-AVI: 79.1 | D-AVI: 88.2
-- RB: Blake Corum | C-AVI: 56.3 | D-AVI: 81.6
+- RB: Blake Corum | C-AVI: 56.3 | D-AVI: 81.9
 - WR: Zay Flowers | C-AVI: 77.2 | D-AVI: 93.3
 - WR: KC Concepcion Jr. | C-AVI: 56.1 | D-AVI: 85.1
 - TE: Travis Kelce | C-AVI: 77.9 | D-AVI: 80.5
 - FLEX: Jordyn Tyson | C-AVI: 31.4 | D-AVI: 81.0
-- FLEX: Tyjae Spears | C-AVI: 30.1 | D-AVI: 69.4
+- FLEX: Tyjae Spears | C-AVI: 30.1 | D-AVI: 69.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -122,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 56.3
-- Dynasty AVI (D-AVI, 0-100): 81.6
+- Dynasty AVI (D-AVI, 0-100): 81.9
 - Projected PPR points: 135.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -138,9 +138,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 49.5
-- Dynasty AVI (D-AVI, 0-100): 80.4
+- Championship AVI (C-AVI, 0-100): 49.6
+- Dynasty AVI (D-AVI, 0-100): 80.5
 - Projected PPR points: 154.6
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: David Montgomery
+- Player name: David Montgomery
+- Player ID: 5892
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: HOU
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 45.0
+- Dynasty AVI (D-AVI, 0-100): 78.8
+- Projected PPR points: 206.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -156,7 +173,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 30.1
-- Dynasty AVI (D-AVI, 0-100): 69.4
+- Dynasty AVI (D-AVI, 0-100): 69.7
 - Projected PPR points: 114.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -173,7 +190,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 13.0
-- Dynasty AVI (D-AVI, 0-100): 60.4
+- Dynasty AVI (D-AVI, 0-100): 59.8
 - Projected PPR points: 30.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,7 +240,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 53.8
+- Championship AVI (C-AVI, 0-100): 53.7
 - Dynasty AVI (D-AVI, 0-100): 87.7
 - Projected PPR points: 177.3
 - Category: offense

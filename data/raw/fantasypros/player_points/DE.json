@@ -1111,16 +1111,17 @@
       }
     },
     {
-      "average": 10,
+      "average": 9.9,
       "filename": "boye-mafe.php",
-      "games": 8,
+      "games": 9,
       "player_id": 23736,
       "player_name": "Boye Mafe",
-      "points": 80,
+      "points": 89.5,
       "position_id": "DE",
       "team_id": "CIN",
       "weeks": {
         "1": 16,
+        "10": 9.5,
         "2": 2.3,
         "3": 0.8,
         "4": 17.5,
@@ -2023,16 +2024,17 @@
       }
     },
     {
-      "average": 3.6,
+      "average": 4.1,
       "filename": "myles-murphy.php",
-      "games": 8,
+      "games": 9,
       "player_id": 24709,
       "player_name": "Myles Murphy",
-      "points": 29,
+      "points": 37,
       "position_id": "DE",
       "team_id": "CIN",
       "weeks": {
         "1": 8.3,
+        "10": 8,
         "2": 1.5,
         "3": 0,
         "4": 8.8,

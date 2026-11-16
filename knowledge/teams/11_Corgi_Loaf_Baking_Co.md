@@ -13,8 +13,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 20
-- offense: 16
+- total_players: 19
+- offense: 15
 - kickers: 1
 - idp: 3
 - other: 0
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 553.4
 - championship_lineup_c_avi_avg: 69.17
-- offensive_roster_c_avi_sum: 845.0
-- offensive_roster_c_avi_avg: 52.81
-- offensive_roster_d_avi_sum: 1262.2
-- offensive_roster_d_avi_avg: 78.89
+- offensive_roster_c_avi_sum: 799.9
+- offensive_roster_c_avi_avg: 53.33
+- offensive_roster_d_avi_sum: 1184.8
+- offensive_roster_d_avi_avg: 78.99
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -127,23 +127,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: David Montgomery
-- Player name: David Montgomery
-- Player ID: 5892
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: HOU
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 45.0
-- Dynasty AVI (D-AVI, 0-100): 78.8
-- Projected PPR points: 206.1
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Mike Washington Jr.
 - Player name: Mike Washington Jr.
 - Player ID: 13305
@@ -155,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 29.8
+- Championship AVI (C-AVI, 0-100): 29.7
 - Dynasty AVI (D-AVI, 0-100): 74.0
 - Projected PPR points: 97.5
 - Category: offense
@@ -173,7 +156,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 18.7
-- Dynasty AVI (D-AVI, 0-100): 52.8
+- Dynasty AVI (D-AVI, 0-100): 54.2
 - Projected PPR points: 15.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

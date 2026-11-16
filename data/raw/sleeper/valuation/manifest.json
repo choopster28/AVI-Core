@@ -2,7 +2,7 @@
   "feeds": {
     "projections_season": {
       "status": "sleeper",
-      "valid_players": 1480
+      "valid_players": 1481
     },
     "stats_week_1": {
       "status": "sleeper",
@@ -10,7 +10,7 @@
     },
     "stats_week_10": {
       "status": "sleeper",
-      "valid_players": 315
+      "valid_players": 328
     },
     "stats_week_2": {
       "status": "sleeper",
