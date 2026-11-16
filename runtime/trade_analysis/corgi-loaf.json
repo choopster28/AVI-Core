@@ -1,5 +1,447 @@
 [
   {
+    "id": "mwji8xqp-43282902",
+    "createdAt": 1794848229475,
+    "expiresAt": 1795280229475,
+    "mode": "shop_assets",
+    "title": "Initial Shop Assets · Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Rhamondre Stevenson",
+          "assetType": "player"
+        },
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (54% estimated).",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite young wide receiver core featuring Jaxon Smith-Njigba and Malik Nabers",
+            "Elite tight end production led by Trey McBride",
+            "High-end quarterback stability anchored by Patrick Mahomes"
+          ],
+          "priorityNeeds": [
+            "Consolidate running back depth into a dominant weekly RB1 starter",
+            "Maximize current-season starting lineup floor and ceiling for the title run"
+          ],
+          "tradeableSurplus": [
+            "Rhamondre Stevenson",
+            "Saquon Barkley",
+            "2028 1st · Mile High · Unslotted future pick · standardized round value"
+          ],
+          "constraintsApplied": [
+            "Must advance user's Win Championship goal without violating trade partners' Win Championship goal",
+            "Evaluated league-wide for top starter consolidation targets"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 13,
+          "eliminationReasons": [
+            "Win Championship contenders refuse to degrade immediate starting WR1/RB1 slots for future capital or mid-tier RB depth",
+            "Rebuilding and Retooling teams lack elite tier-1 win-now cornerstones that justify surrendering Corgi Loaf's top assets"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "All Hail King Jesus",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Amon-Ra St. Brown",
+                "assetType": "player",
+                "owner": "All Hail King Jesus",
+                "position": "WR",
+                "age": 27,
+                "cavi": 94.8,
+                "davi": 98.4,
+                "publicMarket": 96,
+                "leagueMarket": 94.8
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Rhamondre Stevenson",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 28,
+                "cavi": 63.7,
+                "davi": 82.8,
+                "publicMarket": 65,
+                "leagueMarket": 63.7
+              },
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 52.2,
+                "davi": 85.3,
+                "publicMarket": 70,
+                "leagueMarket": 52.2
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Speculative Target Discovery",
+            "strategicGoal": "Win Championship",
+            "scoring": {
+              "availability": 30,
+              "opposingGmMotivation": 12,
+              "packageMatch": 0,
+              "lineupReplacement": 7,
+              "competitiveWindow": 5
+            },
+            "validations": {
+              "managerMotivationPassed": false,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": false,
+              "competitiveWindowPassed": false
+            },
+            "acceptanceProbability": 54,
+            "classification": "Stretch",
+            "whyUserShouldDoIt": "Acquiring Amon-Ra St. Brown gives Corgi Loaf an unstoppable wide receiver trio alongside Jaxon Smith-Njigba and Malik Nabers, solidifying an unmatched weekly scoring ceiling.",
+            "whyOpponentMightAccept": "Amon-Ra St. Brown is confirmed publicly available on the Autobots trade block, and receiving two starting-caliber running backs provides depth across multiple FLEX/RB spots.",
+            "championshipImpact": "Massively boosts Corgi Loaf's championship probability while creating a starting lineup void at wide receiver for the trade partner.",
+            "dynastyImpact": "Secures a perennial top-5 dynasty wide receiver cornerstone in exchange for two aging running backs.",
+            "rosterImpact": "Consolidates running back depth and opens up roster flexibility to start Nabers, Smith-Njigba, and St. Brown simultaneously.",
+            "publicMarketContext": "St. Brown is viewed as an elite dynasty wide receiver who commands a centerpiece alpha return rather than two non-cornerstone running backs.",
+            "risks": [
+              "Trade partner operates under a Win Championship goal and will likely reject surrendering their top wide receiver without a direct same-position tier-1 replacement.",
+              "Thinning running back depth leaves Corgi Loaf vulnerable if David Montgomery or Cam Skattebo sustain injuries.",
+              "Elite target Amon-Ra St. Brown requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets.",
+              "Does not meet the 70% Market Reality requirement (54% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Highlight St. Brown's confirmed trade block status and offer immediate starting volume at running back with Stevenson and Barkley.",
+              "acceptableConcession": "Include a future 2nd-round pick or young wide receiver depth like Ryan Flournoy.",
+              "walkAwayPoint": "Walk away if the partner demands Jaxon Smith-Njigba or Malik Nabers in return."
+            },
+            "deterministicRejectionReasons": [
+              "Elite target Amon-Ra St. Brown requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "SmokyValleyWheatWarriors",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Christian McCaffrey",
+                "assetType": "player",
+                "owner": "SmokyValleyWheatWarriors",
+                "position": "RB",
+                "age": 30,
+                "cavi": 94.5,
+                "davi": 94,
+                "publicMarket": 95,
+                "leagueMarket": 94.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 52.2,
+                "davi": 85.3,
+                "publicMarket": 70,
+                "leagueMarket": 52.2
+              },
+              {
+                "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Speculative Upgrade",
+            "strategicGoal": "Win Championship",
+            "scoring": {
+              "availability": 10,
+              "opposingGmMotivation": 8,
+              "packageMatch": 12,
+              "lineupReplacement": 8,
+              "competitiveWindow": 5
+            },
+            "validations": {
+              "managerMotivationPassed": false,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": false,
+              "competitiveWindowPassed": false
+            },
+            "acceptanceProbability": 43,
+            "classification": "Unlikely",
+            "whyUserShouldDoIt": "Swapping Barkley for McCaffrey gives Corgi Loaf the highest-scoring PPR running back in fantasy football for the stretch run.",
+            "whyOpponentMightAccept": "The trade partner receives Saquon Barkley as an immediate replacement starter while adding a valuable future 1st-round draft pick.",
+            "championshipImpact": "Upgrades Corgi Loaf's active RB slot by over 40 C-AVI points per week, directly elevating title odds.",
+            "dynastyImpact": "Surrenders long-term draft capital for short-term elite championship production.",
+            "rosterImpact": "Direct RB1 swap in the starting lineup with no structural roster footprint change.",
+            "publicMarketContext": "McCaffrey is in peak form with massive weekly fantasy point production, making contenders unwilling to move him.",
+            "risks": [
+              "SmokyValleyWheatWarriors are an Elite Contender (Win Championship goal) and trading away McCaffrey degrades their starting lineup.",
+              "Future draft pick capital does not solve the partner's immediate 2026 title push.",
+              "Does not meet the 70% Market Reality requirement (43% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Propose Barkley plus the 2028 1st as a premium package that provides both a starting RB replacement and future liquidity.",
+              "acceptableConcession": "Upgrade the draft capital or substitute Stevenson for Barkley if preferred.",
+              "walkAwayPoint": "Walk away if required to give up additional premium starting WR/TE assets."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 3,
+            "targetTeam": "SmokyValleyWheatWarriors",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "CeeDee Lamb",
+                "assetType": "player",
+                "owner": "SmokyValleyWheatWarriors",
+                "position": "WR",
+                "age": 27,
+                "cavi": 97.4,
+                "davi": 98.4,
+                "publicMarket": 98,
+                "leagueMarket": 97.4
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Rhamondre Stevenson",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 28,
+                "cavi": 63.7,
+                "davi": 82.8,
+                "publicMarket": 65,
+                "leagueMarket": 63.7
+              },
+              {
+                "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": 79.3,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "scenarioType": "Best available proposal — below 70% Market Reality threshold · Speculative Cornerstone Offer",
+            "strategicGoal": "Win Championship",
+            "scoring": {
+              "availability": 5,
+              "opposingGmMotivation": 5,
+              "packageMatch": 0,
+              "lineupReplacement": 5,
+              "competitiveWindow": 4
+            },
+            "validations": {
+              "managerMotivationPassed": false,
+              "packageMatchPassed": false,
+              "lineupReplacementPassed": false,
+              "competitiveWindowPassed": false
+            },
+            "acceptanceProbability": 19,
+            "classification": "Impossible",
+            "whyUserShouldDoIt": "Acquiring CeeDee Lamb pairs an unshakeable elite wide receiver cornerstone with Jaxon Smith-Njigba for years to come.",
+            "whyOpponentMightAccept": "Provides a starting RB2 in Stevenson alongside premium future 1st-round draft capital.",
+            "championshipImpact": "Dramatically improves Corgi Loaf's starting FLEX/WR scoring ceiling while severely weakening a primary championship rival.",
+            "dynastyImpact": "Gains an unshakeable tier-1 dynasty wide receiver.",
+            "rosterImpact": "Adds elite starting depth to Corgi Loaf's wide receiver group.",
+            "publicMarketContext": "CeeDee Lamb is an untouchable elite cornerstone who commands multiple 1st-round picks plus an elite player return.",
+            "risks": [
+              "SmokyValleyWheatWarriors will reject this package outright as it directly weakens their championship starting lineup.",
+              "Stevenson and a single 1st do not meet the market price for an S-tier wide receiver.",
+              "Elite target CeeDee Lamb requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets.",
+              "Does not meet the 70% Market Reality requirement (19% estimated); this is a speculative opening offer, not a forecast of acceptance."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Test interest with Stevenson and the 2028 1st pick.",
+              "acceptableConcession": "Add another starting-caliber player or pick if discussions advance.",
+              "walkAwayPoint": "Walk away immediately when partner demands core starters like Nabers or Smith-Njigba."
+            },
+            "deterministicRejectionReasons": [
+              "Elite target CeeDee Lamb requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets."
+            ],
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": {
+          "summary": "No verified proposal cleared the 70% Market Reality requirement. Even so, AVI presents the best ownership-verified construction below as a speculative opening offer (54% estimated).",
+          "primaryObstacles": [
+            "Elite target Amon-Ra St. Brown requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets.",
+            "Elite target CeeDee Lamb requires a premium near-peer anchor; this package relies too heavily on lower-tier, aging, or secondary assets.",
+            "Seller acceptance remains uncertain; trade-block listing is not required to explore an offer."
+          ],
+          "userConstraintImpact": "The proposed offer respects verified ownership, but has not met every market/fit criterion.",
+          "closestPathToDeal": "Use the displayed verified construction as a negotiating starting point, not an accepted or 70%+ realistic trade."
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Rhamondre Stevenson news 2026 NFL fantasy",
+          "Saquon Barkley news 2026 NFL fantasy",
+          "Christian McCaffrey news 2026 NFL fantasy",
+          "CeeDee Lamb news 2026 NFL fantasy",
+          "Amon-Ra St. Brown news 2026 NFL fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOI74Vrn4mQb37HoW_CjRZtENzEObCM04fySANjktVn62S-PL0GfuJA3Fk37hDDUInb0jLLFW7Zw2axKycqZSQ3-siCaAkh6cH-1r_cvLOESHK17MtUeyCAbDA9ELQFgtYmrLCIXLU7hH80OqlFDJl7gdqPT99WlrOvqQ=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfcZ8zdiVi-FjfHSV5ex1I8LZezNzzyj4LtNQQxslFzFhJmrsU9fcaWwyhbtL2CKsLfYBQpu-xN23f5vqVU2WizkSoVwDPXf9DGk7u0m302WNGGcqxf2NgZIpWSB45CgkUKVgChlceFgM5WYgeKiIqer5USt2g3BbhMhbIR6WLb8uQabHvUjOAR1vbiKnboRwkYeMZsMKBctvyMMTee0NA",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAIz1wPPyL5SgQ7COumj6N4ceh7wH86sYpjdixC-DlVDgHEOX36WtYgYgYqDo9iTUnzAXxlRyUwGUWwuRoAg8bD3gPDSDnGzuHwDuDrI_3Kesq2sIyqGN-nY7P1fXPpGs0c3Pz3iTZV8GcUGPZagLBTbg01Tzb-_Bzo8NW9IE7kcdq0Av6QruVeqErTwtr2YLnM8rWt5IoS0efOwoH2BGmzbmtVAd6DojlbnowbKNUo-d3cn_QTso=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcGE1VbfnDe6DIFF0yYKLJEewbNCGXzykENVwjNzgdcXiaawvndcxvCs35_EQqvjAwm5DqRDgigPR7huy_9GAuOCbObVnBFfQG4aKUDEQtOiGU0sv7I4LDQxxypeU8K2ZFcV3hf8bbKRa9KP9NNoR5QPCTWw==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm42UD12ML_buUKhXIfxqCuQHqMorbWktab5sN5EF5hM0v4dkxum2HY8QKOtygUd8CXIZ51TcN5w6FtmG1mE3fXgQ1USF8Wfe2K__SjPzqxfmLT8oZ_xaeUiD3jcbayyHkV4GFPiyvrK2qEgHJazvd5EjFjGGU",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElonAsRnC75Rj19XCt1xAkwkkHa6VCtEYP3uIz47OvqRhg4udvsU7p9TuIYLssVdT3w8kwtkdcEH8teY2KZc2vRig1Oi60HmSYwZJLEBCxxIuQ-M_1cjtnGEj7b_gl9pBWESlWhp_SJGcW15Zl",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH168bwN7rjDzU-OoN0JuHTjvoPAEaqm9s2qPRRxRSrLcGi7pRsc60BBYuHmUB0vg0LPvfmQSmgC7vc8fdSAIumGRKKUrWdTRfRiHQUfaDGyQQUFwDN1l5A1181Qj8vnpB_SHQEhXF5-c9mZx4Z0-NWw4GK",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPjWTEBBhpXDxfd-KmZoh86aJXqL8jzdNUuHMxgCxIYwPnWma27SH22R7I_KtWod-FRZv3-_l7IEd-w3PI0oiqUuTIbHxwDi69WBp8sOCtLEi-J3iLwtVohPwypBdBPRjhLpg03SD74qGHaUI=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEsGVh-1PH3shJT2sABwBb2pdZZjo5nUKCXqLyfPmNReCYaqgea88G3VQko3NaxwOvA_st6VGYW53VF7h8o1F-ZLFZjilyTBS4x_GGgvSJ6bjFJU6DuTF7LAxRAyFX6XI-5fKpxuVaEaLLo8ThstuCqeHaKp_SAUHFNNXzsoPDE5g7D3j8z3ba-K69L7mgZv5DV0D6U767JQ==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpIdd5yncvDraOBEszN14IzmS1KY-GfH-lmmnfpzfkfOE1_N-gIe_q2bCZrdeu77Ms_gIxm7ujnmHohKAv8V73Syd1-9zy8KCX3cO9-vxrCXx8b2y2GB_t0LyHIDcRnqrAr1A9sPSLcRSb9VMPDZwz9beEq10GVnh68G4=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiYHuqqbaKtTTn6aWZk-_JlkXDdn8n2fbqcf1KNkpUHTVP-V23pvGL6d-PcsOV0oiEaCadlo3TaKV2oaiY609ysOTgFRCq_koSMtEbTw7H7RNZocXUzAQPuzkVgtIwxohSTBCDvLR8YwdSMnt8ZuiFoU3cXv3xUrt2ERUeEk1mcUSdckseyqFYJJjDydUZS0-TTA==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBjIjk2tbW8-2KqeNOx4268mPxysBhFGAOntU-o_GIIy1DtdwGuKVknJEVpfu2Wo4_RGQpsAEzzjtmFU8Mexn40vIjdF0CEVOhiSPBQCH4DBYJVVWZrsZwSiwiY0Z_0oNuW2ueGtZKTYqvt74R0DzeIQ_jw7P3kSK7mHTUwfP6",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9PVAaWcRK133uOcBIzZDqHcJHXeIPaWJjeGcJmuWCKfrU6ycAp9zYQx8ZV5saMIT5LIeZxIEe4-wp2ZYjerqKoR2rTUKvqDHUT4zhW_ft03YZwqLjV8m6mBlzlzJr7_Ywy0pbhtZy2Mopc6xDUN7_TP3GCIWzpiv2bw==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMSSooYbLwXvoEActJMPuAOQJIDZPSMXJzUIqVccrN-LMnYKM4Cj2st3xD5xzxY2hNNKoZI_Js__or1RhqmN46cWVf_s3yBwLGGy-GKgIo8B1-OP7xWqJrgdR1yfs1iH4B0etu3IDB8p8K3qtpiZIccsoMLYFtErFH7i0qGx4WoA6_ITQLP-CIEIBnDuaxWuw0hSLwQIt6XvUTmQ6kwYL3TJWbJqkDLad1DT9D",
+            "title": "draftsharks.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Christian McCaffrey",
+          "Saquon Barkley",
+          "CeeDee Lamb",
+          "Rhamondre Stevenson",
+          "Amon-Ra St. Brown"
+        ],
+        "aviCoreCommitSha": "b5a1f82d5c4823b95cf09e2e0013a42030c69154",
+        "aviCoreCommittedAt": "2026-11-16T10:22:55Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 547979,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 253,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mwfm3s59-37f24483",
     "createdAt": 1794612837837,
     "expiresAt": 1795044837837,
