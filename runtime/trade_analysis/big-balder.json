@@ -1,5 +1,361 @@
 [
   {
+    "id": "mwjqwm43-fcfa0d90",
+    "createdAt": 1794862737401,
+    "expiresAt": 1795294737401,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Big Balder Brand ↔ Mile High Royal Lions",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "franchise",
+      "goal": "",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jonah Coleman",
+            "assetType": "player"
+          },
+          {
+            "name": "2029 1st · Mile High · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This transaction is an exemplary retooling move for Big Balder Brand (1-8 record). By capitalizing on Mile High Royal Lions' urgent playoff push (6-3, bubble team seeking starter upgrades), Big Balder Brand converts 27-year-old running back Chuba Hubbard into 23-year-old rookie running back Jonah Coleman plus a liquid, high-ceiling 2029 1st-round draft pick. Big Balder Brand sacrifices short-term points while accumulating 162.6 total D-AVI in return for 85.1 D-AVI surrendered. Mile High Royal Lions secures an immediate RB2 upgrade to push for a postseason berth, making this win-win package highly realistic for trade execution.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 73,
+              "davi": 85.1,
+              "publicMarket": 75,
+              "leagueMarket": 75
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Jonah Coleman",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 23,
+              "cavi": 55.5,
+              "davi": 82.6,
+              "publicMarket": 65,
+              "leagueMarket": 65
+            },
+            {
+              "name": "2029 1st · Mile High · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 80,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 56,
+            "otherShare": 44,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand achieves a flawless retooling outcome by liquidating an aging RB asset (Chuba Hubbard) for a 23-year-old developmental RB (Jonah Coleman) and a future 1st-round pick. Mile High Royal Lions pays a reasonable price to bolster its active RB2 slot for an immediate playoff run."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "B+",
+            "userShare": 56,
+            "otherShare": 44,
+            "advantageFranchise": "Big Balder Brand",
+            "summary": "Big Balder Brand achieves a flawless retooling outcome by liquidating an aging RB asset (Chuba Hubbard) for a 23-year-old developmental RB (Jonah Coleman) and a future 1st-round pick. Mile High Royal Lions pays a reasonable price to bolster its active RB2 slot for an immediate playoff run."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -20,
+              "summary": "Reduces immediate 2026 weekly points, consistent with a 1-8 franchise pivoting away from current-season contention."
+            },
+            "dynastyOutlook": {
+              "score": 75,
+              "summary": "Acquires a 23-year-old RB along with a premium future 1st-round pick, netting +77.5 total D-AVI."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Swaps a high-volume current starter (Hubbard) for a developmental committee back (Coleman)."
+            },
+            "depthResilience": {
+              "score": 10,
+              "summary": "Maintains RB depth with Coleman while expanding overall roster flexibility."
+            },
+            "flexibilityLiquidity": {
+              "score": 85,
+              "summary": "Adds a highly liquid 2029 1st-round pick to power future trade moves or draft acquisitions."
+            },
+            "overall": {
+              "score": 12,
+              "summary": "Big Balder Brand achieves a flawless retooling outcome by liquidating an aging RB asset (Chuba Hubbard) for a 23-year-old developmental RB (Jonah Coleman) and a future 1st-round pick. Mile High Royal Lions pays a reasonable price to bolster its active RB2 slot for an immediate playoff run."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 45,
+              "summary": "Significantly upgrades the active RB2 slot with a proven, high-touch starter in Chuba Hubbard."
+            },
+            "dynastyOutlook": {
+              "score": -30,
+              "summary": "Parts with a 2029 1st-round pick and a young rookie RB asset."
+            },
+            "lineupQuality": {
+              "score": 50,
+              "summary": "Increases projected weekly lineup output by replacing a committee rookie with a clear lead back."
+            },
+            "depthResilience": {
+              "score": 25,
+              "summary": "Establishes a sturdy RB tandem of Jahmyr Gibbs and Chuba Hubbard."
+            },
+            "flexibilityLiquidity": {
+              "score": -35,
+              "summary": "Commits future 1st-round draft currency to satisfy near-term competitive urgency."
+            },
+            "overall": {
+              "score": -12,
+              "summary": "Big Balder Brand achieves a flawless retooling outcome by liquidating an aging RB asset (Chuba Hubbard) for a 23-year-old developmental RB (Jonah Coleman) and a future 1st-round pick. Mile High Royal Lions pays a reasonable price to bolster its active RB2 slot for an immediate playoff run."
+            }
+          },
+          "explanation": "Big Balder Brand leverages the current market environment to exchange present-day points for multi-year dynasty value, while Mile High Royal Lions achieves its objective of raising its near-term lineup floor and ceiling for the 2026 playoff push."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Chuba Hubbard carries a 73.0 C-AVI. Surrendering him lowers current-season projected weekly totals, which is entirely aligned with Big Balder Brand's 1-8 retooling directive.",
+          "sideADynastyImpact": "Big Balder Brand surrenders 85.1 D-AVI (Hubbard) and acquires 162.6 total D-AVI (Coleman 82.6 + 2029 1st 80.0), yielding a massive net dynasty gain of +77.5 D-AVI.",
+          "sideARosterImpact": "Removes a 27-year-old starter from the active lineup, allowing young backs like Bhayshul Tuten and Omarion Hampton to take center stage while stashing Coleman.",
+          "sideBChampionshipImpact": "Mile High Royal Lions adds +17.5 C-AVI differential at RB2 (Hubbard 73.0 vs Coleman 55.5), directly strengthening its starting lineup for must-win regular season games.",
+          "sideBDynastyImpact": "Mile High Royal Lions trades away youth and long-term draft capital, prioritizing 2026 postseason qualification over 2029 optionality.",
+          "sideBRosterImpact": "Pairs Chuba Hubbard alongside Jahmyr Gibbs, solving Denver/Mile High's RB2 instability and eliminating volatile weekly starter gaps.",
+          "valueAssessment": "Highly balanced exchange when calibrated against both managers' organizational goals. Big Balder Brand wins the long-term asset value trade, while Mile High Royal Lions wins the immediate lineup utility trade."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus views Chuba Hubbard as a prime 'win-now' sell candidate for retooling teams following his strong 2024 extension and sustained 2026 touch volume. Jonah Coleman is valued as an intriguing 23-year-old rookie with solid draft capital, while a future 1st-round pick remains the gold standard for liquidity.",
+          "aviVsMarket": "AVI and public market consensus are tightly aligned: Hubbard holds peak market value for contenders, while Coleman + 1st represents premium return capital for a retooling manager.",
+          "relevantContext": [
+            "Chuba Hubbard is under a secure multi-year Panthers contract through 2028, ensuring touch volume for contender Mile High.",
+            "Jonah Coleman is a 23-year-old rookie with multi-year runway, fitting Big Balder Brand's age curve.",
+            "Mile High Royal Lions is 6-3 (Seed 7) and urgently seeking lineup improvements to lock in a playoff spot."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions (shawnh56) is fighting on the playoff bubble at 6-3. Acquiring Chuba Hubbard replaces low-ceiling RB2 options with a locked-in volume starter, directly advancing their 'Increase Playoff Odds' objective.",
+          "packageFit": "The trade provides Mile High with immediate starter help while offering Big Balder Brand age relief (23 vs 27) and a premium future 1st-round pick.",
+          "lineupReplacement": "Mile High directly replaces Jonah Coleman in their starting RB2 slot with Chuba Hubbard, creating an immediate +17.5 C-AVI upgrade.",
+          "competitiveWindowFit": "Perfect alignment: Big Balder Brand (1-8, Retool) sells short-term production; Mile High (6-3, Playoff Push) buys immediate production.",
+          "positionalScarcity": "Running back volume is extremely scarce in a 16-team league; trading a true lead back commands a 1st-round pick plus a young player."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 22,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 95,
+          "classification": "Highly Realistic",
+          "explanation": "Mile High Royal Lions needs immediate RB help to secure a playoff berth. Paying Jonah Coleman and a 2029 1st for a proven volume starter in Chuba Hubbard directly fulfills their operational goal without gutting their core starter lineup."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "As a 1-8 retooling franchise, trading a 27-year-old running back for a 23-year-old rookie back AND a future 1st-round pick is an ideal strategic move. It maximizes Hubbard's current market value while building a younger, more flexible dynasty foundation.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Chuba Hubbard",
+              "assetType": "player",
+              "owner": "Big Balder Brand",
+              "position": "RB",
+              "age": 27,
+              "cavi": 73,
+              "davi": 85.1,
+              "publicMarket": 75,
+              "leagueMarket": 75
+            }
+          ],
+          "receive": [
+            {
+              "name": "Jonah Coleman",
+              "assetType": "player",
+              "owner": "Mile High Royal Lions",
+              "position": "RB",
+              "age": 23,
+              "cavi": 55.5,
+              "davi": 82.6,
+              "publicMarket": 65,
+              "leagueMarket": 65
+            },
+            {
+              "name": "2029 1st · Mile High · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 80,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            }
+          ],
+          "whyUserShouldDoIt": "You capitalize on Hubbard's peak 2026 production to acquire a 23-year-old RB plus a high-value 1st-round draft pick, perfectly accelerating your retool.",
+          "whyOpponentMightAccept": "Mile High Royal Lions gets a proven lead back in Chuba Hubbard to lock down their RB2 slot and secure a 2026 playoff spot."
+        },
+        "alternateOffer": null,
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": [],
+        "organizationGoals": [
+          {
+            "team": "Big Balder Brand",
+            "goal": "Retool",
+            "source": "playoff picture",
+            "reason": "Deep outside the bracket. Needs 4 of 5 remaining wins just to match today’s provisional wildcard record.",
+            "status": "Playoff Push"
+          },
+          {
+            "team": "Mile High Royal Lions",
+            "goal": "Increase Playoff Odds",
+            "source": "playoff picture",
+            "reason": "Verified bubble or must-win playoff race.",
+            "status": "Playoff Push"
+          }
+        ]
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Chuba Hubbard current team news contract 2026",
+          "Jonah Coleman football player NFL draft college"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZOL6PcgJvpi_2B6FQSgdSEAPH3lWkJHc4z4kNOMj4MH9QSN4Hcx1UToP3b6ygsjiENWbbxFMUqPrj2p02t26P2vc49niwSCf92LEidce4qfRwClLJl6q1a1daxtaKmY15NTyFTUKk0_3Jleca4Kcu5bOxwxjL9xN67DX28IEA5fZ0kiixL0Xl8kQ_Pp3Wjg0qbPYIi4-xpfN1p1FpVSM=",
+            "title": "tsn.ca"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHllQLiVUikmEBXD5fe0FMyMQmCRts6YrsRyp6u36rOV7514w-sy4UPNePKKxlHjiWpmvyjyBWF50xJamqDO2MdRzLRE_A3bIs7gd-jd_lua2MUL6npNRNBO-fU3xk0_kI=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7zBg_i5v_TL8PZSYmTspzI0g5qgOBLk66GPXrsycHtqGml3PtXR6dhIt5J_rTvF2D2AXel2TTnVGulFI74j1OoL_JEHyXya65ZRZlsPAJAPSkKHRqr2xFZKdJZshJWt1Q1ieb9HtMya-M4xUetVl38yW3A3Wn_08f-8u4Wq14r7n9zSsynX23cPU9178=",
+            "title": "panthers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHaZ2LQJDyCeT8U0e88OO1vNnaF6wrREHbjnzkilqnNSR_edSvP9nVhv-yiJGJoLNGWbFv-PVScGyY3a1BVmhjtpdWDjm25FCKM3xnoTiri5iqJQOGmMqkzWO9xyXV79vE8qMkC-UJt8XvRWNusfiFoyN13Zpxw4fg_mP9zztLg03aMJt_Lf0dzVBkmdmMN4E7NNNvhLAE8DBUh3k5NrC6nXUfxDa-3i5DIkahib_TkeIRLN17x6lgOSzTxCPv9qOev8PIb-w5xNg=",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMy94u-5ICCzwkIexrVqDGUIX5uQ8Nk_h_pRfokkSi3yuGR61vbKE2f_rsTOJb62Fj6ayAIasyaQbUdTb-XErQvgEEdWOH8VVb_9iU0NeX0J8aFgEAAeI1W2tpuyvMsb4lRv4N1swz3EqtQohI_ZW3zfEaxYRfyw780XKZHMBOy4j4Cbq2gr4LUwqsbDWAkUCKkSUGKwwmdo5QMSs=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9x5lj-oJZdR7vhTJRJsQCcsXrHumOlbgZQ4fD-eaSSJQbK68fRUqmdly0CCkCI1w7ZzdHDgKvvfLzWwh4A5UgdyOYdsO2TyRdlHAFvHCk8hxkLt7WlbZWAW7NBxPi7GabZ2_JehbpenxSvIn4lTk=",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhd9kkgZuKNgkmrLApHnHdcoy_ZhmIDKtdU6rjOlWGrubusyZGdFdMZTXJvPcsZB3M7c_3xIJKRnJmezbMw4ujYkAw4LLAYABiI9JpZCuIiLD-hrVKEsoOF-thJIUV9dgP4JO0WPleX21D7w7CzLvSvv8gBdGXmN10GBDlapZU2Ed6IAH9A7KZdDhVZ-03LpHs2vIouW7LJyXA3fi6UyJ8sV-jXA==",
+            "title": "reddit.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm-iqVvBLGN10_4lapyQv6uZdIjy1RTEp9qt2wAYJM32r_v0UiH5a7IRCL4uaSGUBZYMA3mL-c5oh0H3D2HH3BgDu3C2zdoCMkDHpn8UeYAaSuAFMsBOLEnsEsWuCkbhQ=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc5t3CB5SgXdX3aarAafpPfAY1ln7e77CBAYSIZu3VGUbylMZAPHBe66m962j7skM9WGQOglPdbcwDND7Qf8hvjcmzFJIuj_9gdUKhTrlpUMK15Y6vwl1iryEIXnh5o8c6QE3AqHlh3k-oGLOzU6RBzOzh8EpTq9zL-zw-JTfa8hZ15cJd",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUIExdSh3pmbf2yDM6TznVs3NzgRSsdiyvAncD-lrLFpb7mwVxuH7X-vDVSf5EW5GITa5AXxLGWMhj5_AQ61APVe-mQRyHMao8DlANPEEqycxR12dDuJrEyFWKNVg22OXd3Lnil9waosgbI4pAXAD8Oea27f3Kjovcjqi38W7UIGI88q-mfFeS00titZzZvwV2RZa2PZ1LtYmJC3zhiI4TGQ==",
+            "title": "denverbroncos.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsTnNFUrZa3-HAYeHArDsgUe6vU5NOZl_Gx9m4HUzFwO9TrK43wcUvKCa8jRa7hUuFZ3HAFSHzHbqcwpNnQqiMNHWa1I1EKpizh-BUxCurZ9A6DHMs7P87aIzpYiby1Bl1d_HZD2vYmYYhE-uvvmH2t-zH9Y2Y",
+            "title": "sports-reference.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "d978695f6bc2888acea0e9751f284113c4b564d5",
+        "aviCoreCommittedAt": "2026-11-16T20:35:59Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/late-season-playoff-push",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 164657,
+        "groundedMarketChars": 4972,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
+  },
+  {
     "id": "mwjqszqg-f0c0d2a8",
     "createdAt": 1794862575655,
     "expiresAt": 1795294575655,
