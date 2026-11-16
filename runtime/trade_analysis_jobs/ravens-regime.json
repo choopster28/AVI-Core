@@ -1,5 +1,47 @@
 [
   {
+    "id": "mwjfbeap-082da2e4",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "DMV Fantasy",
+      "perspectiveMode": "neutral",
+      "goal": "Rebuild",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Josh Cameron",
+          "assetType": "player"
+        },
+        {
+          "name": "Reggie Virgil",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Jalen Coker",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · DMV · Projected Early · original owner DMV Fantasy",
+          "assetType": "pick"
+        }
+      ]
+    },
+    "createdAt": 1794843228193,
+    "updatedAt": 1794843228193,
+    "expiresAt": 1795275228193,
+    "status": "queued"
+  },
+  {
     "id": "mwf00hu8-aab23501",
     "phase": "final",
     "mode": "propose_trade",
