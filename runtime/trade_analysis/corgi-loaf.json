@@ -1,5 +1,213 @@
 [
   {
+    "id": "mwjp612r-17ad7570",
+    "createdAt": 1794859859872,
+    "expiresAt": 1795291859872,
+    "mode": "shop_assets",
+    "title": "Initial Shop Assets · Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "No offer from this search passed every check. That does not mean there is no trade market for these assets.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Win Championship",
+          "strengths": [
+            "Elite wide receiver cornerstone pairing in Jaxon Smith-Njigba (C-AVI 99.2) and Malik Nabers (C-AVI 89.3)",
+            "Premier tight end positional advantage anchored by Trey McBride (C-AVI 94.7)",
+            "Solid weekly quarterback scoring floor with Patrick Mahomes (C-AVI 49.0) and Tyler Shough (C-AVI 47.5)"
+          ],
+          "priorityNeeds": [
+            "Immediate, high-volume RB1 stability to maximize weekly scoring during the Week 10+ playoff push",
+            "Lineup floor protection against Saquon Barkley's lingering 2026 injury profile (C-AVI 52.2)"
+          ],
+          "tradeableSurplus": [
+            "Saquon Barkley (D-AVI 85.3 dynasty asset value)",
+            "Secondary TE depth with Michael Mayer (C-AVI 40.2)"
+          ],
+          "constraintsApplied": [
+            "Ownership Integrity Audit: Draft pick current owner string verified against league ledger",
+            "Two-Organization Goal Compatibility: Contenders cannot surrender immediate C-AVI starter points",
+            "Starter-for-Starter Realism Gate: True backups excluded from package construction"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 15,
+          "eliminationReasons": [
+            "Ownership Integrity: 2028 1st (Mile High) is currently owned by Ravens Regime (Roster ID 3), prohibiting Corgi Loaf Baking Co. from sending it in outgoing offers",
+            "Win Championship Seller Conflict: Elite contenders (Conquistadors, Wheat Warriors, King Jesus) refuse to downgrade from active top-tier RB1s (Jonathan Taylor, James Cook III, D'Andre Swift) to Saquon Barkley (C-AVI 52.2)",
+            "Retool / Rebuild Mismatch: Non-contending teams holding startable RB assets require active young production or verifiable premium draft capital rather than aging RB injury risk"
+          ]
+        },
+        "opportunities": [],
+        "noDealExplanation": {
+          "summary": "No offer from this search passed every check. That does not mean there is no trade market for these assets.",
+          "primaryObstacles": [
+            "The search considered the rosters but did not return a package for final scoring."
+          ],
+          "userConstraintImpact": "No personal context was provided in the request.",
+          "closestPathToDeal": "Try a different return profile or shop a package that includes a second asset."
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "searchCoverage": {
+          "scope": "All other teams",
+          "rostersCompared": 15,
+          "packagesReturnedForValidation": 0
+        },
+        "playoffRace": [
+          {
+            "team": "Corgi Loaf Baking Co.",
+            "risk": "in the race",
+            "seed": 3,
+            "record": "8-1",
+            "opponent": "Phalhala or Bust",
+            "winsToMatchTodaysWildcardRecord": 0,
+            "pointsFromTodaysWildcard": 211.5
+          }
+        ]
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Saquon Barkley news 2026 NFL fantasy",
+          "Jonathan Taylor news 2026 NFL fantasy",
+          "James Cook III news 2026 NFL fantasy",
+          "D'Andre Swift news 2026 NFL fantasy"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKsACYPlL4BoqDQP2o0jjw18dR5SE6Yw-lkIXj0svlu7mTzBnsKuexrwpQAPsO2EasgKzOl7UbP_Odh5ZQGEMPPAAxQpR-0Q51JScyIYizW_wZqVMPxG0S4tTiNqbw1M6hRWGSJFAtql1E9XnSD_79hWkfrL1Lag==",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3kUFGBAgz2Q05I_1xh6s7wJLiknY6E9B8LO85x9pDv_gDamHmOSoAKL4XiJuz7e0S9VaiBUtAqxEDJ45YtJXiMaXLkFbW0a3llPoBn6a80jL-cf61KOwGlXDfZbDKwW3wURYhsFv1A2hRDXU1yW6emD2PnqXXjyDXVJOWC44v5-3HUGIqee0pK6kZPwNHdhqc11LIDiQxIjpHwClFpQYxTNeVrJLZ6pE2",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4_d7YehbeH-dtaTh19l-iyga-a2JXtmQ0Pu-Y2YpPtKh_jHQLB4ckohy14Puc4uutlzleWS4QwFCyaxqYGzzVmelIyXFL6G9RddORE_eLbspQHWqzOw7_vYY8blr6z6W4BR7sV0sLyCWOtH8do-a5hITXVD4S5pxI3f2xcqDu7vCeJRwx398tMzITH95n0hNifBFVxw0Kn2kClby4lA==",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEQn7-gXrCPmsRGmuWtTH7QR6oXimqBRiVs9kwZAy_IV878sr_hiU6Rby3U6w6CqQqGiSqKB7Qs-pcuqHotptw7t_9SV3BvjcY5TwmlUmQ8azvPelvB4W29mo8rpl93ofPjqi4JgVfXmKFkPGPMnogXvpU_2PI",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSYqh1SukIydv5rIu0pehJHFS1O8EN13NFrJeaQ-3ZHlTKgdJu_kfB-TWfiCprs4LxhX-N4t3NDebMxI6MQpBwHsRhz62qUX_aC4bZ81RDLvRousgqrEYIxf50flMkAdY1yDYnGzBkkd_dsALg",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeRPC-5H3e10cVrsoiz49RknGjQFTIQI_68wEO89FwMXZZrm_g82M2xDGOdpInVyvbeItxik7-9Yj9hibMLRKMLyEDYZnWPef_PJJTflYHL2r_42u4KvEhbF2HeQ_W674F5RMaT3hjJ0R-AHM4woq9PrrVolu4",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0rhvGCtg8-E0o60wyg0M3cdd8YkLmUma9lCNApZtR3QWUcEmrQ5v6Le_4wYM3N-ZoHOptwjNd3U693lSsqOS6k0h_RQkwsY9kI7P5cGxHDUE7eklPI8rhWEjIPLI3YysbJI8SPXJs1rJysiQf",
+            "title": "fantasybot.ai"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8QbxyR-dAffvZyCfK6tUozYxPwYeYj0S5tMy4VmBY8w1lPbFw_er6dI9DbrDwS7366trrjwajBUBBkERv43KwfYThzpP4YgKfILSIltpzrG2hzjg14GETXwdX7JO0ze9yHPdlJLzihcdLA_UcjlZpbDM1bTkpS9D0LHORjZSyAN3RcTI5KV1OzNqHRlU=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpJq9WUPSwgbnV3LMgXfATtP_Q3JP25jG8bJVTFhjjnoxc1fJNYNOc-AysBvi1P5AA88zUR_bLg3ayAshtDkFW0NJyA7RDuUArsOslMKvZU_OP79PfuBL64LDp5fXUQAl9IucdWwUsguTBzaCiVSEz6s84ZSM46eWvVnuh3wYOrOniRkd1aFHR6oJ00YM-eEnX",
+            "title": "profootballnetwork.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7UUykHu7YIAdzyeR2P05t4l7UWB2v5ZBTFdvmn-C6LmA2Vc2UTdvvLanmYCSf5EukQd3GysVweJF42m1vEsLgYuoig_OPr37Xr9THsaISikKCwGZYGmx2biJmOsEuWMd-yYmDfyRUPSvzapvG8H8Sshf0Txu4HkVEPSRk2XNegH9xp9eCENAKZ-gapF9QawBSFpLIK6ZOHw==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXdKUb8qm0W9OJzFS7aGzrsPoubpZ-VwDSNI_RylqbHfdEd_qhR-HW6VzxbBjf92EfYh-0dUvk2vGmlWyVXgeHV9PTU9rNOwucjTt0lCGbqsbWnF4rNdkxycgLeZZ53B_Ex8-WgCPS07-QRz2H6syXw-R_L4o=",
+            "title": "fantasyfootballcalculator.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3YQ-YJ6duxRhciD61QQrQWWcm5Cs7XaMo-kBtSenJ0UUPW0qHWuXBSzgGihdPRK-bzRX1ebxHofSn5O97RUnXEt5Stv9H8AHmzZWYjJMsMqnxcrtAbpqO6-rIkEf3Fi2VeRIkbqiqmk1oUrTuCXQhMgmGoQzO6Fat-L1E6eFokTDlL9RlN2r35wOdxG_MCW4FGklnRpEEWy7YfXmk4IN1dJtlp75O8eUny59KvtZO",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUpI6AyuFa5UCF6brRAHx9ZrrURR4MVc3gvh6pKg6BH_W0vg2-nsDf15QpBClmKmnOB_7Qg3aUmlipWZsAk3KlJ9E4cgAl9XcBZF4PGiK0cbRW1QLTG7edv2R6lvrXgyOlo7SMTIzhCluhMTQ-wz3xIaREaZfrBlc8PjiA7pVlHu616mOl751T3P8qDfOaalhTCcCCIxKvsrZ6yr2Zm6CmC5HcltQ3GrpOe_e1myUMc4AxL6w=",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Jonathan Taylor",
+          "Saquon Barkley",
+          "James Cook III",
+          "D'Andre Swift"
+        ],
+        "aviCoreCommitSha": "b5a1f82d5c4823b95cf09e2e0013a42030c69154",
+        "aviCoreCommittedAt": "2026-11-16T10:22:55Z",
+        "sourcesUsed": [
+          "derived/late-season-playoff-push",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 733507,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 253,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mwjikgeh-7b6bcce1",
     "createdAt": 1794848752153,
     "expiresAt": 1795280752153,
