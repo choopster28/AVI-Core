@@ -25,9 +25,343 @@
       ]
     },
     "createdAt": 1794843524495,
-    "updatedAt": 1794843530012,
+    "updatedAt": 1794843616386,
     "expiresAt": 1795275524495,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Ravens Regime (seeking to Increase Playoff Odds) proposes sending a 2028 1st-round pick (Mile High Royal Lions) to Corgi Loaf Baking Co. (Win Championship) for RB David Montgomery. Montgomery is currently Corgi Loaf's RB4 behind Rhamondre Stevenson, Cam Skattebo, and Saquon Barkley, keeping him on their bench. While Montgomery is currently ruled out for Week 10 with a groin injury and targets a Week 11 return, his rest-of-season baseline offers Ravens Regime valuable starting RB/FLEX scoring to push for a playoff spot. For Corgi Loaf, converting a non-starting RB into a liquid 2028 1st-round pick adds immense capital without harming their active lineup. Because surrendering a 1st-round pick straight up for an injured 29-year-old running back is a mild overpay, AVI recommends revising the offer to request Corgi Loaf's 2029 3rd-round pick in return.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "2028 Round 1 (Mile High Royal Lions)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "sideB": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 45,
+              "davi": 78.8,
+              "publicMarket": 65,
+              "leagueMarket": 72
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B-",
+            "otherGrade": "A-",
+            "userShare": 46,
+            "otherShare": 54,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "Corgi Loaf Baking Co. gains major dynasty liquidity by netting a 2028 1st (79.3 AVI) for a bench RB (45.0 C-AVI / 78.8 D-AVI) without touching their active starting lineup. Ravens Regime secures necessary rest-of-season RB/FLEX depth once Montgomery clears his groin strain, but pays a full 1st-round pick for an aging, currently sidelined back."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Even",
+            "summary": "Adding Corgi Loaf Baking Co.'s 2029 3rd-round pick back to Ravens Regime balances the trade equity, giving Ravens Regime crucial rest-of-season RB depth while clawing back draft value, while Corgi Loaf still secures a premium future 1st."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": -8,
+              "summary": "Corgi Loaf Baking Co. gains major dynasty liquidity by netting a 2028 1st (79.3 AVI) for a bench RB (45.0 C-AVI / 78.8 D-AVI) without touching their active starting lineup. Ravens Regime secures necessary rest-of-season RB/FLEX depth once Montgomery clears his groin strain, but pays a full 1st-round pick for an aging, currently sidelined back."
+            },
+            "championshipOutlook": {
+              "score": 20,
+              "summary": "Adds a proven 200+ projected PPR RB to bolster FLEX scoring once cleared from his groin injury."
+            },
+            "dynastyOutlook": {
+              "score": -25,
+              "summary": "Trades away a premium 2028 1st-round pick for a 29-year-old running back."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Upgrades starting FLEX depth over low-floor bench options upon his expected Week 11 return."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Provides strong RB depth alongside Derrick Henry and Blake Corum."
+            },
+            "flexibilityLiquidity": {
+              "score": -35,
+              "summary": "Reduces long-term draft assets by sending out a 2028 1st."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 8,
+              "summary": "Corgi Loaf Baking Co. gains major dynasty liquidity by netting a 2028 1st (79.3 AVI) for a bench RB (45.0 C-AVI / 78.8 D-AVI) without touching their active starting lineup. Ravens Regime secures necessary rest-of-season RB/FLEX depth once Montgomery clears his groin strain, but pays a full 1st-round pick for an aging, currently sidelined back."
+            },
+            "championshipOutlook": {
+              "score": 0,
+              "summary": "Starting lineup remains completely intact as Montgomery sits behind Stevenson, Skattebo, and Barkley."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Acquires a liquid 2028 1st-round pick for an aging 29-year-old RB."
+            },
+            "lineupQuality": {
+              "score": 0,
+              "summary": "Zero negative impact on active top 8 championship starters."
+            },
+            "depthResilience": {
+              "score": -15,
+              "summary": "Slightly reduces RB depth, though Stevenson, Skattebo, Barkley, and Washington remain rostered."
+            },
+            "flexibilityLiquidity": {
+              "score": 50,
+              "summary": "Gains a highly liquid 2028 1st-round pick for future in-season acquisition flexibility."
+            }
+          },
+          "explanation": "The trade converts Corgi Loaf Baking Co.'s depth RB into top-tier draft capital without affecting their title-contending starting lineup. For Ravens Regime, it injects vital rest-of-season starting production to increase playoff odds at the expense of future draft liquidity."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Surrenders 79.3 pick AVI for 45.0 current C-AVI. While Montgomery is inactive for Week 10, his expected Week 11 return provides an incremental boost over lower-tier FLEX options across the final stretch.",
+          "sideADynastyImpact": "Gives up a 2028 1st (79.3 D-AVI) for a 29-year-old RB (78.8 D-AVI), taking on age progression and injury recovery risk.",
+          "sideARosterImpact": "Strengthens the RB/FLEX group alongside Derrick Henry and Blake Corum, providing a reliable weekly floor when healthy.",
+          "sideBChampionshipImpact": "Zero impact on Week 10 starting lineup C-AVI as Montgomery sits behind Stevenson, Skattebo, and Barkley.",
+          "sideBDynastyImpact": "Gains a liquid 2028 1st-round pick (79.3 D-AVI) while moving an aging RB in Houston's backfield.",
+          "sideBRosterImpact": "Maintains elite starting lineup integrity while converting redundant RB depth into elite future capital.",
+          "valueAssessment": "The submitted 1-for-1 proposal slightly favors Corgi Loaf Baking Co. on raw trade value, but aligns well with both team strategic goals."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus views David Montgomery as a volatile volume-dependent RB currently sidelined with a groin strain, targeting a Week 11 return. In dynasty markets, a 2028 1st is valued above a 29-year-old RB, making this a premium price for immediate rest-of-season volume.",
+          "aviVsMarket": "AVI evaluates Montgomery at 45.0 C-AVI (reflecting current groin injury inactivity) and 78.8 D-AVI. Market consensus agrees that a 2028 1st holds higher dynasty market value than an aging, injured RB.",
+          "relevantContext": [
+            "Montgomery signed a 2-year contract with Houston through the 2027 season.",
+            "Montgomery is ruled out for Week 10 with a groin injury, targeting a Week 11 return against Indianapolis.",
+            "Corgi Loaf Baking Co. rosters Stevenson, Skattebo, and Barkley, leaving Montgomery as an available bench piece."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. is an Elite Contender with a Win Championship goal. They are motivated to trade a 4th RB for a 2028 1st because it provides premium trade liquidity without weakening their active starting eight.",
+          "packageFit": "A 2028 1st is a premier trade asset that aligns with Corgi Loaf's long-term flexibility, while Montgomery fits Ravens Regime's goal of Increasing Playoff Odds with usable RB/FLEX depth.",
+          "lineupReplacement": "Corgi Loaf easily absorbs the loss of Montgomery as Saquon Barkley, Rhamondre Stevenson, and Cam Skattebo fill the RB/FLEX slots. Ravens Regime gains starter-quality depth upon Montgomery's return.",
+          "competitiveWindowFit": "Corgi Loaf preserves its current championship window while securing future capital. Ravens Regime enhances its playoff qualification odds by adding proven PPR production.",
+          "positionalScarcity": "In a 16-team full PPR league, starting-caliber RBs carry significant value, justifying a strong pick offer from a playoff-hungry manager."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 23,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 85,
+          "classification": "Realistic",
+          "explanation": "Corgi Loaf Baking Co. has an 85% probability of accepting this proposal. As a championship contender with deep RB coverage, trading a non-starting, currently injured RB for a 2028 1st is an exceptionally attractive liquidity move that causes zero active starting lineup harm."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "The offer is realistic to execute and advances your goal of Increasing Playoff Odds once Montgomery returns from his groin strain (targeting Week 11). However, paying a 2028 1st straight up for a 29-year-old injured runner is a mild overpay. Revise the offer by requesting Corgi Loaf's 2029 3rd-round pick in return to balance the value while keeping acceptance probability high.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "2028 Round 1 (Mile High Royal Lions)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 45,
+              "davi": 78.8,
+              "publicMarket": 65,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2029 Round 3 (Corgi Loaf Baking Co.)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "whyUserShouldDoIt": "Secures a proven RB2/FLEX starter for the stretch run to boost playoff qualification odds, while retrieving a 3rd-round pick to offset the 1st-round draft cost.",
+          "whyOpponentMightAccept": "Corgi Loaf Baking Co. converts a non-starting RB4 into a premium 2028 1st-round pick, giving their championship organization elite trade currency while giving up only a minor future 3rd."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "2029 Round 2 (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2028 Round 3 (Ravens Regime)",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 16.5,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "receive": [
+            {
+              "name": "David Montgomery",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 45,
+              "davi": 78.8,
+              "publicMarket": 65,
+              "leagueMarket": 72
+            }
+          ],
+          "rationale": "If Ravens Regime prefers to keep their 2028 1st-round pick, offering a 2029 2nd and 2028 3rd provides fair mid-round draft compensation for an aging, currently inactive depth RB."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "David Montgomery injury status fantasy 2026",
+          "David Montgomery NFL stats contract news 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjylpa49kDvPIQ_JTnfqO2PFPHTuhqsHpMwa0-1QiQwMUkU7wesfDUwMTuyplFlZ8SFk-saiFmjdzpenpeZdt5irmmZ0CjDrBEfotm8td4L-2IBRrq9HoypKfOFaXn3f-0umB0XyK-ImmmMNh8BVdWc-XD-gwPkylIO5KGifeSz_iQuYN7eT_6zKGFz3xKheM=",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy-sKXRkZ8MCMXveKX-j7yNlxlFtg40xquO-0i5sBHeuOOfq4Qq9Lx2sNcVNZCBEyCe-GoCd06djQpsIicpLbY8geNbYAdpY6HwYq5Nes1DNuXsD2vsVEkwio28sFS_ULasjA_Mul4GQ8rkB_zXE6Pf4I=",
+            "title": "playerprofiler.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgrw-ySBJl_nDfYnalIDDt1VhcWBYvO0E6nrY44JjdVqI0dca2b3UPrndxQJGMs-BmrCCq0EFN7LHRMCJ0KM45BxbIG_moCARUBOJL7GgFAU7XHnuqjh2DUq1oGhX3YUnmTARnNTr9dJxyv4pQllctBNzJlGEmtPc_LNihbXEYxSwNeaXO",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8I2GVJTEPVgkKloDegimnFT1Sy-nApldN4NmCZnuRsHEoo55wkHZ3VdY4tWtFaCUl7BGOa7n57KjHEyrnKocRUQ0Sc0Pjm5-kyv4NUr2yyGzzsNWjBRn0MYiqHXnwIK2u9fdk47i3snVH6aQ5wSHqhOpiWeEOeR4vDA7uNYt6S0Qmkc0nULXkztGqrqLw-OJ58W7MNb_HLxx9rSHtr9C4Fcar5KfGSJGmAxidCDCe",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_5RK-vqpDvKX3TX98QN1I_n7rDSRPDRxBlHw6CUE78PWy_8ahl_RLNwImu-RqOriR1vW8podqLjbkFNxuvtESGyF96KqOVQ3QIAumM2t3lvknUhYtlqqMMZh3om78K038gPQDITOiwCmUOC4_5b0DqwSOlw==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmBmeiysupxsD6sOV2uDt8C8FUEtBI_4lOWjA2IPOYEPHxSrhcvolbakDgCjS16ExDN70367vUR1Va_ubo1e-VZct-vVSk6-HzpWbJ47zTwN1tPz-w2PDlvbDIRD5YwSHpbu13bfc2m1jnA4mMgIIIpXjZPhTZjZTVx38jOO2HwzwBrbDd4bFCnAJV2Zk3aA==",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH-nxD6XB-j3vd00lDaRut36HMm7XB8yJHzYz50kRd2TmPflloPP-AEu6A5YwK2wndodfIi1akquzc7qG8yun_hfNwSYU_wQJAUuUP4yYpuQQdmsZm16HGaLQPaVwKKuToZLf0PdKRSpR9wLATpWQzae0STlWBg23xRJ38ZysuQFvPByDBiZMNHBMj6d8-tw-7-KHCE-iXqPYxzLAM_dDGLsMOGQ==",
+            "title": "yardbarker.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKocPAuXAdpbxMLE-hLcibbF93YBfddRiXGFD9t8lGdfrN9pZRgWpigVS42WMa3AO2T_btJN31mbGY06RDe8GL6noZbRgejPumFo7Yf-Aeb72A14ya9AKz0rgC99FcvkwHKkDgtx0cS1beajuTzkvvBvI=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVv0q2gLO81TA-TFb4X9XPQ8zFngSAvrPrNlzAvNK-DEMsTNVR4o3CsTXUnUThwhDTeI2bc217bDACU_RqH4aJI2eAXMqZsh4nEf37t4OhvkyUeMv7514AZ2fmr2UmKhKRbE1nSQhCojgMbRHEdDb5CGPvL-vE7sLxFbb9V_yZ8xJewLC4O3AmC5MzKVP_b8pVEKqccQf1DPHmUguTKceav8XBif8W9g==",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTGq3C6TZaETElSz217N4zR6pweRHzwyNKndt9gEPE-cfymyGV2z_h99PR6X230lMAI4RlOmfEzkxrsZR73A7RJPVIIv0MdsOGhya_U01whCcc1Eff9q3PkcsYTzXuPEUJmAJQxxot8nf87xDgroH28CFIlcli4f19q0Oa_GgNWD9R6YpREON8F1nELxTishgYH0fP",
+            "title": "thefantasyfootballers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdrI7B40p7-xSn4VAE9u3XOchLLDq9KblurpaLy1KpbmW8qfaTDVbBAvRrNKF6dtORMHofXOH-R3rzcNnEVF3I0Ft10Qnu0nfv484VV7KBpnq2G9I6wLGQoprCwLHf5kOFLi4Xp1zTpEQRhmrC_E1-RyxSTCNAq6M3iRFuMe0VtIJGFuorQuZfw3ca0C5wKTEswVv9ylAlSfCM-TPdfOGBYL4=",
+            "title": "si.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "b5a1f82d5c4823b95cf09e2e0013a42030c69154",
+        "aviCoreCommittedAt": "2026-11-16T10:22:55Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 95541,
+        "groundedMarketChars": 3254,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
   },
   {
     "id": "mwjfbeap-082da2e4",
