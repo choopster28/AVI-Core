@@ -1,5 +1,29 @@
 [
   {
+    "id": "mwjqszqg-f0c0d2a8",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "franchise",
+      "goal": "",
+      "targetTeam": "Mile High Royal Lions",
+      "assetsToShop": [
+        {
+          "name": "Chuba Hubbard",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1794862524904,
+    "updatedAt": 1794862524904,
+    "expiresAt": 1795294524904,
+    "status": "queued"
+  },
+  {
     "id": "mwjqqcpq-07ef9864",
     "phase": "initial",
     "mode": "shop_assets",
