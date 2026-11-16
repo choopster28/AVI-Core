@@ -1,5 +1,35 @@
 [
   {
+    "id": "mwjfhqxa-68d52123",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Ravens Regime",
+      "perspectiveMode": "franchise",
+      "goal": "Increase Playoff Odds",
+      "partnerGoal": "Win Championship",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "David Montgomery",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ]
+    },
+    "createdAt": 1794843524495,
+    "updatedAt": 1794843524495,
+    "expiresAt": 1795275524495,
+    "status": "queued"
+  },
+  {
     "id": "mwjfbeap-082da2e4",
     "phase": "initial",
     "mode": "propose_trade",
