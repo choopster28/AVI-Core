@@ -1,5 +1,28 @@
 [
   {
+    "id": "mwjptpra-c086cf83",
+    "phase": "initial",
+    "mode": "shop_assets",
+    "endpoint": "/api/ai/trade/assist",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        }
+      ],
+      "maxResults": 3
+    },
+    "createdAt": 1794860879014,
+    "updatedAt": 1794860879014,
+    "expiresAt": 1795292879014,
+    "status": "queued"
+  },
+  {
     "id": "mwjp96yu-7f0c000a",
     "phase": "initial",
     "mode": "shop_assets",
