@@ -1,5 +1,354 @@
 [
   {
+    "id": "mwjfbeap-082da2e4",
+    "createdAt": 1794843302494,
+    "expiresAt": 1795275302494,
+    "mode": "propose_trade",
+    "title": "Initial Build Offer · DMV Fantasy ↔ Ravens Regime",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "DMV Fantasy",
+      "perspectiveMode": "neutral",
+      "goal": "Rebuild",
+      "partnerGoal": "Increase Playoff Odds",
+      "targetTeam": "Ravens Regime",
+      "targetAssets": [
+        {
+          "name": "Josh Cameron",
+          "assetType": "player"
+        },
+        {
+          "name": "Reggie Virgil",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Jalen Coker",
+          "assetType": "player"
+        },
+        {
+          "name": "2027 2nd · DMV · Projected Early · original owner DMV Fantasy",
+          "assetType": "pick"
+        }
+      ]
+    },
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This trade proposal between DMV Fantasy (Rebuilding) and Ravens Regime (Increasing Playoff Odds) establishes strong strategic alignment for both organizations. DMV Fantasy trades starting wide receiver Jalen Coker (60.0 C-AVI) and an early 2027 2nd-round pick to secure a premium 2028 1st-round draft pick (Mile High) alongside two young developmental receiver fliers in Josh Cameron and Reggie Virgil. Concurrently, Ravens Regime acquires an immediate starting FLEX upgrade in Coker (+28.6 starting C-AVI boost) to strengthen their playoff push without forfeiting any active starters, while reclaiming 2027 2nd-round capital.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jalen Coker",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "WR",
+              "age": 25,
+              "cavi": 60,
+              "davi": 83.4,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            },
+            {
+              "name": "2027 2nd · DMV · Projected Early",
+              "assetType": "pick",
+              "owner": "DMV Fantasy",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 50
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Josh Cameron",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 23,
+              "cavi": 21.2,
+              "davi": 52.9,
+              "publicMarket": 35,
+              "leagueMarket": 35
+            },
+            {
+              "name": "Reggie Virgil",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 22,
+              "cavi": 18.3,
+              "davi": 49.1,
+              "publicMarket": 30,
+              "leagueMarket": 30
+            },
+            {
+              "name": "2028 1st · Mile High · Unslotted future pick",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 52,
+            "otherShare": 48,
+            "advantageFranchise": "DMV Fantasy",
+            "summary": "DMV Fantasy nets +49.4 D-AVI in long-term dynasty value by securing a premium 2028 1st pick suited for a rebuild. Ravens Regime achieves a direct +28.6 starting C-AVI boost at FLEX with Jalen Coker to maximize near-term playoff qualification odds while mitigating pick outlay by receiving an early 2027 2nd."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 4,
+              "summary": "DMV Fantasy nets +49.4 D-AVI in long-term dynasty value by securing a premium 2028 1st pick suited for a rebuild. Ravens Regime achieves a direct +28.6 starting C-AVI boost at FLEX with Jalen Coker to maximize near-term playoff qualification odds while mitigating pick outlay by receiving an early 2027 2nd."
+            },
+            "championshipOutlook": {
+              "score": -20,
+              "summary": "Trading starter Jalen Coker lowers near-term weekly scoring floor."
+            },
+            "dynastyOutlook": {
+              "score": 55,
+              "summary": "Adds a premium 2028 1st pick and expands multi-year roster assets."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Downgrades current WR/FLEX starting slot to developmental depth."
+            },
+            "depthResilience": {
+              "score": 20,
+              "summary": "Adds two young 2026 rookie receiver fliers in Cameron and Virgil."
+            },
+            "flexibilityLiquidity": {
+              "score": 60,
+              "summary": "Net upgrade in future draft capital with a highly tradeable 2028 1st."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -4,
+              "summary": "DMV Fantasy nets +49.4 D-AVI in long-term dynasty value by securing a premium 2028 1st pick suited for a rebuild. Ravens Regime achieves a direct +28.6 starting C-AVI boost at FLEX with Jalen Coker to maximize near-term playoff qualification odds while mitigating pick outlay by receiving an early 2027 2nd."
+            },
+            "championshipOutlook": {
+              "score": 50,
+              "summary": "Jalen Coker immediately upgrades the starting FLEX/WR slot by +28.6 C-AVI."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Outflows a future 1st for active starting production, cushioned by receiving a 2027 2nd."
+            },
+            "lineupQuality": {
+              "score": 55,
+              "summary": "Significantly enhances weekly PPR scoring potential during regular season stretch."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Sheds back-end receiver depth to consolidate into a top-flight starter."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Surrenders 2028 1st pick but regains 2027 2nd-round flexibility."
+            }
+          },
+          "explanation": "DMV Fantasy accumulates future draft equity and young assets for a rebuild, while Ravens Regime fortifies its immediate starting lineup for playoff qualification."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "DMV Fantasy yields 60.0 C-AVI in exchange for 39.5 C-AVI in player assets plus future pick capital, matching a rebuilder's priority.",
+          "sideADynastyImpact": "DMV Fantasy expands total dynasty asset value by acquiring a 79.3 D-AVI 1st-round draft pick and two rookie receiver fliers.",
+          "sideARosterImpact": "Opens immediate starting volume for younger roster depth while establishing long-term draft capital flexibility.",
+          "sideBChampionshipImpact": "Ravens Regime gains Jalen Coker (60.0 C-AVI / 165.9 projected PPR points), providing an immediate starting lineup improvement.",
+          "sideBDynastyImpact": "Ravens Regime converts future pick capital into active lineup production while maintaining second-round draft position in 2027.",
+          "sideBRosterImpact": "Solidifies starting FLEX production for a playoff stretch run without losing any active starting contributors.",
+          "valueAssessment": "The deal exchanges immediate starting production for future capital at fair market value for both franchises."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Jalen Coker holds solid consensus WR3/FLEX dynasty value following strong target share in Carolina, while Cameron and Virgil represent end-of-bench rookie fliers.",
+          "aviVsMarket": "AVI aligns closely with public market consensus on draft pick values and Coker's dynasty tier.",
+          "relevantContext": [
+            "Jalen Coker has established a consistent PPR floor in Carolina.",
+            "Josh Cameron and Reggie Virgil are 2026 late-round rookies with developmental projection.",
+            "2028 1st-round picks carry high liquidity among contenders looking to trade future capital for immediate lineup help."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Ravens Regime's stated objective to Increase Playoff Odds requires immediate starting point production at WR/FLEX.",
+          "packageFit": "Jalen Coker provides a clear starting upgrade, while receiving a 2027 2nd cushions the outlay of the 2028 1st.",
+          "lineupReplacement": "Cameron and Virgil are non-starting bench pieces; losing them causes zero disruption to Ravens Regime's starting lineup.",
+          "competitiveWindowFit": "Fits a franchise contending for a playoff spot that can afford to part with a 2028 1st-round pick for active scoring.",
+          "positionalScarcity": "Starting-caliber wide receivers with reliable PPR target share carry elevated value in 16-team full-PPR formats."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 22,
+            "packageMatch": 17,
+            "lineupReplacement": 15,
+            "competitiveWindow": 9
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 93,
+          "classification": "Highly Realistic",
+          "explanation": "Ravens Regime obtains a direct starting FLEX upgrade in Jalen Coker for a playoff push while receiving a 2027 2nd-round pick to offset sending a 2028 1st. Cameron and Virgil are depth pieces that do not impact their starting roster."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "The submitted trade may offer value, but partner acceptance remains an obstacle: Ravens Regime obtains a direct starting FLEX upgrade in Jalen Coker for a playoff push while receiving a 2027 2nd-round pick to offset sending a 2028 1st. Cameron and Virgil are depth pieces that do not impact their starting roster. No verified alternative package was generated. The original trade is NOT a revised recommendation.",
+          "confidence": "High"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jalen Coker",
+              "assetType": "player",
+              "owner": "DMV Fantasy",
+              "position": "WR",
+              "age": 25,
+              "cavi": 60,
+              "davi": 83.4,
+              "publicMarket": 70,
+              "leagueMarket": 72
+            }
+          ],
+          "receive": [
+            {
+              "name": "Josh Cameron",
+              "assetType": "player",
+              "owner": "Ravens Regime",
+              "position": "WR",
+              "age": 23,
+              "cavi": 21.2,
+              "davi": 52.9,
+              "publicMarket": 35,
+              "leagueMarket": 35
+            },
+            {
+              "name": "2028 1st · Mile High · Unslotted future pick",
+              "assetType": "pick",
+              "owner": "Ravens Regime",
+              "position": null,
+              "age": null,
+              "cavi": 79.3,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 78
+            }
+          ],
+          "rationale": "Removes the pick swap and Reggie Virgil for a clean 2-for-1 asset transaction if Ravens Regime prefers to hold their 2028 1st without exchanging 2027/2028 draft pick tiers."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": []
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Reggie Virgil football player NFL",
+          "Josh Cameron football player NFL",
+          "Josh Cameron stats profile",
+          "Reggie Virgil stats profile"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYjwzh1OutrJNY3Rs832C6JE-hr_2XYXfa1FOsuhwrYTd3g-EWwaZkek0NvlFCJpX7RuBhIeQT1hCJnOGx8fun9Ob4CGXSLGBlYsY6uatRm_9JH2h0SJdU-5DvvHq-yXMunpNFL5PCFERrYAjP7mg7Bwnp0A==",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQBb5GXXzjFin0alOS1cDMiQTor9iuOVBB3kEmSVGTw6aDUdKlZSsoDxfWM-UvlvxPhbbKQWdU7QjXrYyyzRo-SZHsJWO2AV3J8IBnepXHvSNYmj3BIxmtWZWNQts5nMS-ZIFkaC8yVOQfvKIryRs=",
+            "title": "jaguars.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDXlR2E9N_Dji2cM8TT99wB-DUO0JArUFuIDWjUNCv9OZHrxnGH9XeaFxHkpTbgmzKwv6ioYmgePV_TSANms3FPo4YVwNSE9q-2sXWG_GUyEC7Bw6XG0D1y2n8EbzEhGn4_ON49cNZB5VdkNdBHKEnuHDA-nc=",
+            "title": "jaguars.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zWY3fEsaxw8dOq_zcu7hlNALrr_PT3ppVRqrnnQHUFteCDcRj0uX8bEIi75S520g-kSw3v7OLnLcxHSqY3iGEeMbEEkXHpu-FoTyNcVSOI1TOMZ5-teSFbLAoZBmDiBpjgPdxM5BT8N97vTmSQFTBhP0",
+            "title": "pro-football-reference.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm-EmJST5mRz3hQCb012NLVXV6A4Mbbfmj9DLBZr1U0ZjITzsUcd6QO3ceQviF2zx_8_SkIOUUh0aCWsZy2IMOckoZqdC4QN_O-kmPWDwZMk6OGEokWKCNJJzoKHbzbk6ybRtYNq0fH5m1RaXCwXnQ71e1xw==",
+            "title": "azcardinals.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJCJEt5m2C_-IPaaJdU_onV2Qisp_mzMUF9mO-XHNbo75UbgojXcHq39BpdQ1jaAm2gwYm7U8hrHkRQgvjD4ys14IpxVS4ETwhxB9OuaIUGVk89_YAEzI=",
+            "title": "nflwag.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2jRZXNLburGRg62HjOw9FYujCDMhPPqddsLZyQajLXFDkaYyzS_4geXdjbBkvgZL3c02hV1uyXEUfu_MZNo6AYYG7vypOIPc_F96IcCPdgxi31PzkKjNXp3AliC21Gf4QfBvZXNXT",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXGpy0Nnb6VV0NhqNmbRGUCZhVPRgHMyypl34LhqR2ulLLXgWETnRkztSgmz_gtbdBr9qmgugQhTwrRA8lPgwEm2Ek15jkupJXeE-JYemK6bptG0zcOV0ZeLkrTI32ikt2KJ2pGetuLjPO",
+            "title": "ourlads.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "b5a1f82d5c4823b95cf09e2e0013a42030c69154",
+        "aviCoreCommittedAt": "2026-11-16T10:22:55Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 95339,
+        "groundedMarketChars": 3638,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
+  },
+  {
     "id": "mwf00hu8-aab23501",
     "createdAt": 1794575677282,
     "expiresAt": 1795007677282,
