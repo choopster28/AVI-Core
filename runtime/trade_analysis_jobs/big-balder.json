@@ -1,5 +1,41 @@
 [
   {
+    "id": "mwjqwm43-fcfa0d90",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "franchise",
+      "goal": "",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Jonah Coleman",
+            "assetType": "player"
+          },
+          {
+            "name": "2029 1st · Mile High · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794862693875,
+    "updatedAt": 1794862693875,
+    "expiresAt": 1795294693875,
+    "status": "queued"
+  },
+  {
     "id": "mwjqszqg-f0c0d2a8",
     "phase": "initial",
     "mode": "shop_assets",
