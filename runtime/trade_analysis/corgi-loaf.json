@@ -1,5 +1,350 @@
 [
   {
+    "id": "mwjikgeh-7b6bcce1",
+    "createdAt": 1794848752153,
+    "expiresAt": 1795280752153,
+    "mode": "shop_assets",
+    "title": "Initial Shop Assets · Corgi Loaf Baking Co.",
+    "request": {
+      "mode": "shop_assets",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "goal": "Win Championship",
+      "assetsToShop": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        },
+        {
+          "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+          "assetType": "pick"
+        }
+      ],
+      "maxResults": 3
+    },
+    "response": {
+      "ok": true,
+      "mode": "shop_assets",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Shopping Saquon Barkley alongside future draft capital while pursuing a Win Championship strategy requires converting a high-mileage veteran back into immediate, high-efficiency starting production to elevate weekly scoring ceilings. Market analysis identifies three viable trade partners whose organizational goals aligned with this package, offering actionable paths to upgrade running back reliability and championship output.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Contender",
+          "strengths": [
+            "Elite young wide receiver foundation featuring Jaxon Smith-Njigba and Malik Nabers",
+            "Premier tight end anchor in Trey McBride",
+            "Solid depth across skill positions"
+          ],
+          "priorityNeeds": [
+            "High-floor weekly RB scoring ceiling for playoff matchups",
+            "Consolidating depth into top-tier starting lineup production"
+          ],
+          "tradeableSurplus": [
+            "Veteran running back production (Saquon Barkley)",
+            "2028 1st-round draft capital"
+          ],
+          "constraintsApplied": [
+            "Win Championship goal requires immediate starting lineup upgrades",
+            "Must not surrender net current-season scoring power without receiving equal or higher weekly projection"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding franchises rejected Saquon Barkley due to age curve and short window mismatch",
+            "Contenders lacked starting-caliber RB depth to trade away",
+            "Insufficient package value match for elite cornerstones on rival rosters"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Rapid Valley Annihilation",
+            "targetGoal": "Retool",
+            "targetAssets": [
+              {
+                "name": "Quinshon Judkins",
+                "assetType": "player",
+                "owner": "Rapid Valley Annihilation",
+                "position": "RB",
+                "age": 23,
+                "cavi": 63.9,
+                "davi": 87.6,
+                "publicMarket": 85,
+                "leagueMarket": 86
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 52.2,
+                "davi": 85.3,
+                "publicMarket": 78,
+                "leagueMarket": 80
+              },
+              {
+                "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+                "assetType": "pick",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "scenarioType": "Youth & Production Consolidation",
+            "strategicGoal": "Acquire high-upside young RB to boost current weekly ceiling while extending title window",
+            "scoring": {
+              "availability": 22,
+              "opposingGmMotivation": 22,
+              "packageMatch": 18,
+              "lineupReplacement": 12,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 83,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Quinshon Judkins provides immediate startable production with a significantly younger age profile, insulating your roster against Barkley's age-related decline while improving your championship lineup C-AVI.",
+            "whyOpponentMightAccept": "Rapid Valley Annihilation is in a Retool window and acquires a premier future 1st-round pick plus a star veteran back to remain competitive while building draft capital.",
+            "championshipImpact": "Upgrades starting RB slot with higher projectable volume and explosive run potential.",
+            "dynastyImpact": "Shaves six years off your starting RB position while maintaining top-tier dynasty asset value.",
+            "rosterImpact": "Replaces an aging RB1 with a cornerstone sophomore back without breaking lineup cohesion.",
+            "publicMarketContext": "Judkins is seeing backfield competition in Cleveland from Dylan Sampson, creating a buy-low opportunity before his workload stabilizes.",
+            "risks": [
+              "Judkins currently shares touches with Dylan Sampson in Cleveland",
+              "Surrendering a future 1st-round draft pick reduces long-term draft flexibility"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Saquon Barkley and a 2028 2nd-round pick as an initial proposal.",
+              "acceptableConcession": "Include the 2028 1st-round pick if Rapid Valley adds a late-round draft pick or depth piece.",
+              "walkAwayPoint": "Walk away if required to give up additional starting players alongside the 2028 1st."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          },
+          {
+            "rank": 2,
+            "targetTeam": "All Hail King Jesus",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "D'Andre Swift",
+                "assetType": "player",
+                "owner": "All Hail King Jesus",
+                "position": "RB",
+                "age": 27,
+                "cavi": 81.8,
+                "davi": 90,
+                "publicMarket": 82,
+                "leagueMarket": 84
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Saquon Barkley",
+                "assetType": "player",
+                "owner": "Corgi Loaf Baking Co.",
+                "position": "RB",
+                "age": 29,
+                "cavi": 52.2,
+                "davi": 85.3,
+                "publicMarket": 78,
+                "leagueMarket": 80
+              }
+            ],
+            "scenarioType": "Near-Peer Contender Swap",
+            "strategicGoal": "Lateral asset realignment to gain weekly consistency and favorable offense context",
+            "scoring": {
+              "availability": 20,
+              "opposingGmMotivation": 19,
+              "packageMatch": 17,
+              "lineupReplacement": 10,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 74,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Swift offers an immediate C-AVI upgrade (81.8 vs 52.2) operating in a stable Chicago offense, giving you greater weekly consistency without giving up draft picks.",
+            "whyOpponentMightAccept": "All Hail King Jesus gains Barkley's unmatched explosive ceiling and name value for playoff matchups while banking on a bounce-back.",
+            "championshipImpact": "Solidifies RB2/FLEX position with guaranteed volume and multi-year contract stability.",
+            "dynastyImpact": "Gains two years in age curve and secures a back with $27.5M in guaranteed contract support.",
+            "rosterImpact": "Provides immediate lineup stabilization without draining draft pick inventory.",
+            "publicMarketContext": "Swift holds a secure contract in Chicago's ascending offense, while Barkley is navigating Philadelphia's depleted, Hurts-less offensive environment.",
+            "risks": [
+              "Swift shares backfield touches when Kyle Monangai is fully healthy",
+              "Barkley retains higher individual game-winning ceiling if Philadelphia rebounds"
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Saquon Barkley straight-up for D'Andre Swift.",
+              "acceptableConcession": "Include a mid-round pick swap (e.g. 3rd for 4th) to close the deal.",
+              "walkAwayPoint": "Walk away if required to include any 1st or 2nd round draft capital."
+            },
+            "ownershipVerified": true,
+            "explicitConstraintsPassed": true
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        }
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Saquon Barkley 2026 NFL season",
+          "Quinshon Judkins NFL 2026 news",
+          "James Cook III 2026 NFL season",
+          "D'Andre Swift 2026 NFL season"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtaOMvtoYzEWDC2rb1Fff6MjZwTJqantusOC-nE7o5AnHMb1FzIAf4yD-9M7onboDUO9lIuSy_e_LKagGn1IDseuhuKR6LF-egyC6ahMcmhzkouJ2wTm_imx7D4eEPX36Xe0-hHyElNfCe3dF13F0FRR3cWxgveW1Tc8IPEAZXKSKw9lYdO1wVBKbN--i3p5PQBXn9bNZJdAZPfQA=",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Dbv7W8MpdVOPO_z-Z2pt6h5Dj4XN3R_baUMUQfKUgTN3cXuTdqupL1vydNG-eAwGlo0CDVAThAqMWvlxJwQwNnPFjsDB5lLZhubferftXm2Bi4X5o3GWdHDOa10jwALs-N8rKXv7d2HQ3H5JmOy5i4d8QeMG5PnuLRzqoRkxEk5V1WL5GkGlFDyhR_d6B_b3BvL53j8L9csoGONkNTzDpJh2cRpPFLbrIxyYr8m3LOhyzngbHii0rhT3zrxX9qYcAGDbbr0=",
+            "title": "247sports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyVgCDyTzt04aLX1MpPpZGvUsrtWicXRmAMaCPeB0ts8ExMHbjHtC7nOabff-wzkcY1R-7vT-2OJQWKtQg44r2n6G2aRhYja5JK-n9EPz9uTiRBHixdgl0fjwDhdzDh0qwnwXv4-nK9iLap_PxZ0WsDIZkI1XL-RM6UyreqVNsXevsbsfsZWtBpNobbKUxnf346T6S0tMM1E3Tu54fk7JTtM1wjRTZwTU=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgCOITYqF44MWOvS4V8uydYxbIhEmK23JRmYHka6BBfS2rBcpDG9c8Fe6-y12a8GsyupaV6csYJAtAaB-QWsRXxahIWzZuZucFcuOvzOIPs2sf2GVnWRuo0MyUuHZj-Ao_Nr2y1qdrgDINm_4OAr12Y8wmmtWfEJhmsx6O48Wu6E2Nw0S1Blof44-kOywoygOkREk2fBsVR7UVmU4Kwn2zuWZ9DrA=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx6Aa-ETuH_x-Glf7QiodgdB59loQw7tgEqa9tmJ4ABqMBVCHCpPyEK-YWmZUD2lYRU152Q8ExrVImYwWptli4nsjgPWgLP1tjITG2NshqpuE0sbhRQK6FVI9MMni2Ma8rqgLG3TfKeEsHtZmfo93RTP41Rk8J_ZRt3McOqhpIfL_Q2DeVBRuNlriOJ4aAETpEeGFbaHyRR_hv9stQWpf0OtD8Zvui",
+            "title": "nbcsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAXheH5tSvAntiIOILdZ9VA_iMwu-f7AeBGCbs0a9lakwKr15kMXnV03BG-2xtU36-xVVlADwmp2dv9GKmqoInibetAnf0Ajb04xMsj5zFeIfuGG9iWVneIsuR7G3RU5ZaLPzc77EALd2BAnvybAcy8ChVTFos7KVaZVj4TfYiE_Ho2qTbG194C84eqJv9DRdN3VFi5M3V8g==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcLZWL95elKcv1dzy8_USDL7CBOIR9tb6Iuud7PK8dnXWhzH3_d_vj20B_jxrcYMSOFmoiceGxyT6gCHxBQ--YD7-XvoKzQeEnJ9LIL77fPe1p87FnpzCuggDm07QuC2YWK4i5__rchcRhWamJLsXhvOwTqRKAdY4dWEzROYSmhW6xpE86s_Pjg-_pHb6z9WtNh1IyDWBGdXuxJIMaGgbfCb8w-SCbhVhJNvdExVIz2iH88SBx",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELLE86G-Z_xREgcZ8gGauFys4FUyQRjrPFwT_vYRj3nu06BhMgN22-X7ptTujaZyif40oi280DZvIXRKmrTSaEbI-vaXai0mcyVwEt4y9vbbYSbLTEj7LYT6yLTJZwKLJc2UNlPnbgnyn1Woo-XE_D7z_8Y1QqC8mjqA73JkE2WWrlH8ieaX6vtXxt7ogejJ5GsxFYy_U=",
+            "title": "athlonsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfNm9eJEZ7Eunpzm21moO9pOJzPgVtNR6FmSWdJkYj_cq256cYnLL4NFNSsmrPtxXQc9h7h33EXUCAn1Ew_NTFCIew_wyYR52e9BjFjBh1GV2ZvzZc0ssPhbj4zfv0Azqkhl5mr8uCWS-E2Ude5C8aZw==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVB22mCUN3LNzj7rDvXLzZRsv-ytoX6KCFym26fsTlUHhhkL33NfVJEGj7IhJ9_oR596u4hB8gD_KQEeZE__JCcbda4uQtnJM1zQpApOXziIrV58USLi2nwzhphbI=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8ByxpDbpyrjJMGlFPGAlizLWjTEqGI0Up15_t9-9BGtgw9MUKu1hiFEl74jBKgf9e5WVrDGyl40ofIUEcZ2cHPH4dkIjrk9Fg5_KAehnWMJYp87DJxLW4bkRdxqXvCcPS9juZn3bdTStTCd9Y5cQsuZQ53apAKA==",
+            "title": "statmuse.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP1v3TKvbv12vin8eiP0CEG6K-cH8kw19Q7i_QPpHAsABbxdKToobD-oA-wcNFwopfl1S5IZ_ZutNHW95dZa25R8TLvxmDW6mX312gYWE3BlAtGN5-Bkfa08BGYscVLKE4uIuVGigl9enHq-IH",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBxKwfZRr_R-2gG9B0ytUgLw8XBiLjfY_BRuYtfCr8rrfnkCy9-yzpeOspmmWpdALdOg3owDB8tGIYp5iRTiIQ9v5ruwKo-jT4fZf8VQzL6Ulln68o_Xg=",
+            "title": "statyx.io"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrrPhk8Po61lCHfRW8sPO-EEjcAbFjXlXk8mSJLKdggyVRUj4AQGds4jcwgrX_VfJCo5zvw5Y7GuqLmkyZ_LZKg7Lc7SsnHX1fWW88wmQFPlr5qJxbN8L5RvRm4bZFfd-X31iBPv0fxU7-1ZBN_a99O6EXuoE6K6gLLSm5FZVhf7QqVqG06xnc0KT4Lmfk",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE59X4bj29Rhnv42I5lt4YM7t--KK7iRoqBaw8DqgSZp1U_i5DMvRTHV9YVzAgPz1b2qb0W5vu1lNfxwoai6QKpa0tUBxbdkM45treoksUnfGul1SrYnFoqyvj5Fc79ZyVv",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAlyyDjbY911SykKr32u6jg9aBgqplofz4huVSqsPYXpOZQCt32pBX-sXyQcyknkWG-LeG_dC9eVb0zRgkz6JR3uCfcF9pRHUdLKOhQF5OvLfLwc-bwbVpnLu7P6QCxBc=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU05zue9G8GkYROqDVl8q6Q5XVVXx5zAwYKj7QV_EgIQMnJwIFGo-3xh7hF6JRlDcs6DusboNvMQfeiT8DWMosIUy_v0-GUeCgiqqRIm6YacT1elJ_5gs5Tqg9GiFx9hp0ZqzPXmXwMGIv4-Tq4FqrPK1_31Q54UXrV574kzVEbjIIfUczjUWAxg37plM=",
+            "title": "dawindycity.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe4YRu-pLGNtfhPl0KchEocZLYtfIgetkZYgiWf3ys1p78XLXhsAerxudQhwVEtXQUk5gPtOHFBd-r8RdrMvE2W-AEE3IxdsF8BJxYe68dyUYjvSzMzE1fNDs0QPFRFqf1g7wnU25_PaYdTsf43hI=",
+            "title": "statmuse.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Quinshon Judkins",
+          "Saquon Barkley",
+          "James Cook III",
+          "D'Andre Swift"
+        ],
+        "aviCoreCommitSha": "b5a1f82d5c4823b95cf09e2e0013a42030c69154",
+        "aviCoreCommittedAt": "2026-11-16T10:22:55Z",
+        "sourcesUsed": [
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 547979,
+        "personalContextProvided": false,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 253,
+          "starterCaliberPoolSize": 128
+        }
+      }
+    }
+  },
+  {
     "id": "mwji8xqp-43282902",
     "createdAt": 1794848229475,
     "expiresAt": 1795280229475,
