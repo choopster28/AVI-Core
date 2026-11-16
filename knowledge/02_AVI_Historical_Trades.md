@@ -17,22 +17,22 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **102**
-- Owner trade participations: **206**
-- Two-team trades: **100**
+- Unique completed trades: **103**
+- Owner trade participations: **208**
+- Two-team trades: **101**
 - Three-team trades: **2**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **59**
+- 2026 completed trades: **60**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-11-14T21:57:29.481000+00:00**
+- Latest verified trade: **2026-11-16T16:02:18.961000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | Corgi Loaf Baking Co.  | awang1900 | **29** | 7 | 4 | 18 | 41 | 40 | 10 | 17 | 7 | 10 |
-| 2 | Ravens Regime  | Mentomorii | **26** | 3 | 3 | 20 | 26 | 32 | 8 | 12 | 3 | 4 |
+| 1 | Corgi Loaf Baking Co.  | awang1900 | **30** | 7 | 4 | 19 | 41 | 41 | 11 | 19 | 8 | 10 |
+| 2 | Ravens Regime  | Mentomorii | **27** | 3 | 3 | 21 | 27 | 32 | 10 | 13 | 3 | 5 |
 | 3 | Big Balder Brand | Choopski | **23** | 7 | 2 | 14 | 35 | 36 | 3 | 10 | 1 | 4 |
 | 4 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
 | 5 | Northside Kings  | srsmith95 | **19** | 6 | 5 | 8 | 19 | 16 | 13 | 5 | 5 | 3 |
@@ -56,7 +56,7 @@
 | Badland Banditos  | DMV Fantasy | 3 |
 | Big Balder Brand | DMV Fantasy | 7 |
 | Conquistadors | Northside Kings  | 5 |
-| Corgi Loaf Baking Co.  | Rapid Valley Annihilation, Big Balder Brand | 5 |
+| Corgi Loaf Baking Co.  | Rapid Valley Annihilation, Ravens Regime , Big Balder Brand | 5 |
 | Crimson Tide Pods | Corgi Loaf Baking Co.  | 3 |
 | DMV Fantasy | Big Balder Brand | 7 |
 | Gringo’s Goblins  | Ravens Regime  | 2 |
@@ -65,11 +65,29 @@
 | Northside Kings  | Conquistadors | 5 |
 | Phalhala or Bust | Ravens Regime , Big Balder Brand | 1 |
 | Rapid Valley Annihilation | Corgi Loaf Baking Co.  | 5 |
-| Ravens Regime  | Corgi Loaf Baking Co.  | 4 |
+| Ravens Regime  | Corgi Loaf Baking Co.  | 5 |
 | SmokyValleyWheatWarriors | Conquistadors | 3 |
 | Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽 | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1428086816648470528
+- Season: 2026
+- Week: 10
+- Created at UTC: 2026-11-16T16:02:18.961000+00:00
+- Teams involved: 2
+
+#### Ravens Regime  (Mentomorii)
+- Players received: David Montgomery
+- Players sent: None
+- Picks received: 2029 Round 3 (original roster 11), 2027 Round 4 (original roster 8)
+- Picks sent: 2028 Round 1 (original roster 4)
+
+#### Corgi Loaf Baking Co.  (awang1900)
+- Players received: None
+- Players sent: David Montgomery
+- Picks received: 2028 Round 1 (original roster 4)
+- Picks sent: 2029 Round 3 (original roster 11), 2027 Round 4 (original roster 8)
 
 ### TRADE: 1427451423720759296
 - Season: 2026
