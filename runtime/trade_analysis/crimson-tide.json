@@ -1,5 +1,385 @@
 [
   {
+    "id": "mwl3dobw-9c9f18df",
+    "createdAt": 1794944181804,
+    "expiresAt": 1795376181804,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Crimson Tide Pods ↔ Mile High Royal Lions",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "perspectiveMode": "franchise",
+      "goal": "",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Jakobi Meyers",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+            "assetType": "pick"
+          },
+          {
+            "name": "2027 3rd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Crimson Tide Pods (1-9, Rebuild) sends 30-year-old veteran receiver Jakobi Meyers to Mile High Royal Lions (7-3, Win Championship) for a 2027 2nd-round pick and a 2027 3rd-round pick (both originally owned by All Hail King Jesus). This deal presents strong strategic alignment for both franchises: Crimson Tide Pods liquidates an aging receiver approaching the dynasty value cliff to accumulate 65.0 D-AVI in future draft capital, while Mile High Royal Lions acquires immediate WR/FLEX starter stability during a playoff push hampered by injuries to Waddle, Harrison Jr., and Adams without relinquishing any 1st-round capital or active starters. The trade is highly realistic and recommended for acceptance.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 30,
+              "cavi": 46.5,
+              "davi": 77.8,
+              "publicMarket": 35,
+              "leagueMarket": 45
+            }
+          ],
+          "sideB": [
+            {
+              "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2027 3rd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Even",
+            "summary": "Crimson Tide Pods exchanges Jakobi Meyers (77.8 D-AVI, 46.5 C-AVI) for 65.0 combined D-AVI in 2027 2nd and 3rd round draft picks. Although raw dynasty value favors Mile High Royal Lions slightly (55/45 split), the trade strongly fulfills Crimson Tide Pods' Rebuild goal by securing liquid draft assets before Meyers' age-30 value decay accelerates."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "A-",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Even",
+            "summary": "Crimson Tide Pods exchanges Jakobi Meyers (77.8 D-AVI, 46.5 C-AVI) for 65.0 combined D-AVI in 2027 2nd and 3rd round draft picks. Although raw dynasty value favors Mile High Royal Lions slightly (55/45 split), the trade strongly fulfills Crimson Tide Pods' Rebuild goal by securing liquid draft assets before Meyers' age-30 value decay accelerates."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -15,
+              "summary": "Relinquishes short-term weekly scoring floor, which has zero negative impact on a team out of playoff contention."
+            },
+            "dynastyOutlook": {
+              "score": 40,
+              "summary": "Replaces age-depreciating player value with multi-year draft pick liquidity."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Removes Jakobi Meyers from active starting WR/FLEX options."
+            },
+            "depthResilience": {
+              "score": -10,
+              "summary": "Slightly reduces active WR bench depth while opening opportunity for younger receiver evaluation."
+            },
+            "flexibilityLiquidity": {
+              "score": 45,
+              "summary": "Adds two flexible draft picks for future rookie drafts or mid-season trade leverage."
+            },
+            "overall": {
+              "score": 0,
+              "summary": "Crimson Tide Pods exchanges Jakobi Meyers (77.8 D-AVI, 46.5 C-AVI) for 65.0 combined D-AVI in 2027 2nd and 3rd round draft picks. Although raw dynasty value favors Mile High Royal Lions slightly (55/45 split), the trade strongly fulfills Crimson Tide Pods' Rebuild goal by securing liquid draft assets before Meyers' age-30 value decay accelerates."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 30,
+              "summary": "Provides vital WR/FLEX weekly insurance during injuries to Waddle, Harrison Jr., and Adams."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Surrenders secondary draft picks in the 2027 class."
+            },
+            "lineupQuality": {
+              "score": 20,
+              "summary": "Stabilizes starting FLEX options with a consistent possession wide receiver."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Substantially elevates receiver depth during the remaining Weeks 11-14 push to the playoffs."
+            },
+            "flexibilityLiquidity": {
+              "score": -20,
+              "summary": "Expends mid-round future pick capital."
+            },
+            "overall": {
+              "score": 0,
+              "summary": "Crimson Tide Pods exchanges Jakobi Meyers (77.8 D-AVI, 46.5 C-AVI) for 65.0 combined D-AVI in 2027 2nd and 3rd round draft picks. Although raw dynasty value favors Mile High Royal Lions slightly (55/45 split), the trade strongly fulfills Crimson Tide Pods' Rebuild goal by securing liquid draft assets before Meyers' age-30 value decay accelerates."
+            }
+          },
+          "explanation": "The visual impact demonstrates a clear win-win tradeoff: Crimson Tide Pods sacrifices immediate points for long-term roster liquidity (+45 flexibility), while Mile High Royal Lions converts future draft capital into active playoff lineup insurance (+30 championship outlook)."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Crimson Tide Pods forfeits Jakobi Meyers' 46.5 C-AVI weekly floor, but with a 1-9 record and no playoff viability, current C-AVI loss is strategically irrelevant.",
+          "sideADynastyImpact": "Crimson Tide Pods converts a 30-year-old receiver (77.8 D-AVI) into 65.0 total D-AVI across a 2027 2nd and 3rd pick, capturing value prior to steep age decline.",
+          "sideARosterImpact": "Frees up starting WR/FLEX reps for younger wideouts like Brian Thomas Jr., Germie Bernard, and Jahan Dotson.",
+          "sideBChampionshipImpact": "Mile High Royal Lions gains 46.5 C-AVI in Jakobi Meyers, creating vital WR/FLEX floor protection while Jaylen Waddle and Marvin Harrison Jr. miss time.",
+          "sideBDynastyImpact": "Spending a 2027 2nd (48.5 D-AVI) and 2027 3rd (16.5 D-AVI) represents a low-risk move for a top-tier contender.",
+          "sideBRosterImpact": "Improves receiver depth without displacing any active core starters.",
+          "valueAssessment": "Fair market calibration. The minor D-AVI deficit absorbed by Crimson Tide Pods is justified by age dynamics and rebuilding window alignment."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public market consensus values Jakobi Meyers around a mid-to-late 2nd-round pick. Adding a 3rd-round pick matches prevailing KeepTradeCut and public valuation benchmarks for a 30-year-old veteran receiver.",
+          "aviVsMarket": "AVI assigns Meyers a 77.8 D-AVI based on his contract security through 2027 and target consistency, whereas public markets discount him slightly due to age apex. The proposed return aligns with market expectations.",
+          "relevantContext": [
+            "Jakobi Meyers turns 30 years old in November 2026 and is under contract through 2027.",
+            "Mile High Royal Lions is managing active receiver injuries to Jaylen Waddle, Marvin Harrison Jr., and Davante Adams during a 7-3 playoff campaign.",
+            "Crimson Tide Pods is 1-9 and mathematically out of playoff contention."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions (7-3, 2-seed) needs reliable WR/FLEX starters due to multiple receiver injuries. Meyers supplies immediate starting floor at a manageable cost.",
+          "packageFit": "A 2027 2nd and 3rd round pick represents an efficient cost for a contender reinforcing its playoff push.",
+          "lineupReplacement": "Mile High gives up zero active starters, maintaining full starting lineup integrity.",
+          "competitiveWindowFit": "Ideal fit for both sides. Mile High optimizes present title odds while Crimson Tide Pods builds future draft capital.",
+          "positionalScarcity": "Wide receiver starter depth is essential in a 16-team league requiring 2 WR and 2 FLEX starters."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 24,
+            "packageMatch": 19,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 98,
+          "classification": "Highly Realistic",
+          "explanation": "Mile High Royal Lions is a 7-3 contender facing receiver injuries and receives a dependable veteran starter for mid-round draft picks without losing active starters."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "For a rebuilding franchise at 1-9, trading 30-year-old Jakobi Meyers for a 2027 2nd-round pick and a 2027 3rd-round pick is optimal dynasty execution. It secures future draft capital before age decay reduces Meyers' market value while helping a contender address immediate lineup needs.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 30,
+              "cavi": 46.5,
+              "davi": 77.8,
+              "publicMarket": 35,
+              "leagueMarket": 45
+            }
+          ],
+          "receive": [
+            {
+              "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2027 3rd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "whyUserShouldDoIt": "Executes your Rebuild strategy by locking in two 2027 draft picks for an aging receiver before his market value declines.",
+          "whyOpponentMightAccept": "Provides Mile High Royal Lions immediate, dependable WR/FLEX depth for their playoff push without requiring them to give up a 1st-round pick or active starter."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Jakobi Meyers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "WR",
+              "age": 30,
+              "cavi": 46.5,
+              "davi": 77.8,
+              "publicMarket": 35,
+              "leagueMarket": 45
+            }
+          ],
+          "receive": [
+            {
+              "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            },
+            {
+              "name": "2028 2nd · Mile High Royal Lions · Projected Late · original owner Mile High Royal Lions",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ],
+          "rationale": "If Mile High Royal Lions hesitates on sending two picks in the same draft class, swapping the 2027 3rd for a future 2028 2nd gives Crimson Tide Pods even stronger long-term return."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": [],
+        "organizationGoals": [
+          {
+            "team": "Crimson Tide Pods",
+            "goal": "Rebuild",
+            "source": "playoff picture",
+            "reason": "Deep outside the bracket. Needs 4 of 4 remaining wins just to match today’s provisional wildcard record.",
+            "status": "Rebuilder"
+          },
+          {
+            "team": "Mile High Royal Lions",
+            "goal": "Win Championship",
+            "source": "playoff picture",
+            "reason": "Currently in the top six of the verified eight-team bracket.",
+            "status": "Playoff Push"
+          }
+        ]
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Jakobi Meyers fantasy value dynasty 2026",
+          "Jakobi Meyers news contract stats 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDcHKnZb4qbaVcUwaxV08_zYHGLvM3qQe3FKjFREQHFwgrBTOODOoRKs2Tc3O22ti8-8bSiFAOD3ibhCy05TrdAkct0mglYtjJKmWnZIBjNc3zvrHkXfkO_2wkI3WcizVFMjkJIKY0ijsEYsw9F35lQA==",
+            "title": "rotowire.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeA7UoeSrccMI81ydyUvS1RPtU9mW1c9nLUbnZuSYO3tDxfYW0DKGKB_8o9pBXCNGaA5E-SJ51fhxscBvYyn_Uh2Fsk-p3gl5V_R0K17rIrMamNbfMkijDeP03pF9XBz0RoAfpc8mhkndtf0XPLdCNcT7YfjVgV7gjKKGjOWYLi0LiDw==",
+            "title": "jaguars.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2aLUJRadZHvFijC_Sf9G_8GN4ih5rZ1rmz7PR0WybNjKCrKRE_sHCdoLWthYmFTvaykZOJRhWS3T-BRg241OuZ3k0S4AN_-Sw8Mf_tgKwdTZtjH-EuEA9uP6XlBPAYeqmPPMS1eSAiRWngXk=",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKLPnQJxKuc6zQ0tcJBuLrDU8PFeCTtdAcsROXdElX5yKl2znS_rVDrujKwsD-PMEEv5Evih74quArUXQddVbpFPkgRFA3HVPOrIdLn0q90p885bjYAT2C7voevdrXQDkyC8KyXaQaGIInoOPWojvJqEa9RXzQAQ==",
+            "title": "keeptradecut.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh-s6ehZ4Vfdzek1TF24HldDpL-5tYKXdUJc961SObzWnBE7aVksSlH-I05w48Slp_PtHMX-2RoMR9mV8N9BSGxDoSAcUt8Xax9t6J1HZ3s1KmsUFOM83KhcOWT7vzvTsSX_l1T1c3QAxov55UBh-rR8BfvVEtgJHA_mbOqYCIjiB3bhKX8sLQMAqDRi-_h24dK6sdDFYiU983wZq8CSWINkNOrTTPr8WT54XvLgM=",
+            "title": "bleachernation.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-6fDJfJMAEZKvgy4eaXyQr00aheMYRW7XRYiRt4Sxjv9mqSZSls3XerybSrzzIwUVhYyxSBcKaoipthB4JOpOYVAStsU7o9KuyFgn1P9LVsDzgh-PZk7QmlAAHx4VtTZeNTH2",
+            "title": "dynastydealer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH35B3Qe-fytYaTQJnobeNnBOZgnaHUwaGQSGH0EkiP8iJn5NWUr2TYH1uetoldfdFeuxX4atRy7MqVRuBcOmvcJkOGLqUc_F8CZcZt1Gy4fagnv5p6HDWMMYoWwJW_AOKxRocfA8yiY3xdZUwYZllSFrbgQosNQA5bbTBUMblO2V-RHeE0YMR2NayVn15PbUKQu_RazhQ4XZJDfRAUdSYJWJg=",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "1f4917277771cf534db27f4793efe924c0859ba3",
+        "aviCoreCommittedAt": "2026-11-17T16:58:55Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/late-season-playoff-push",
+          "derived/keeper-contracts",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 154607,
+        "groundedMarketChars": 3074,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": true,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
+  },
+  {
     "id": "mwl34bos-44bb51c2",
     "createdAt": 1794943696093,
     "expiresAt": 1795375696093,
