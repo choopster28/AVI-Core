@@ -1,5 +1,24 @@
 [
   {
+    "id": "mwl34bos-44bb51c2",
+    "phase": "final",
+    "mode": "improve_team",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "improve_team",
+      "userTeam": "Crimson Tide Pods",
+      "perspectiveMode": "franchise",
+      "goal": "",
+      "targetPosition": "RB, WR, TE, QB",
+      "maxResults": 3,
+      "personalContext": "Young running backs"
+    },
+    "createdAt": 1794943675339,
+    "updatedAt": 1794943675339,
+    "expiresAt": 1795375675339,
+    "status": "queued"
+  },
+  {
     "id": "mwl301xa-b61e8830",
     "phase": "initial",
     "mode": "improve_team",
