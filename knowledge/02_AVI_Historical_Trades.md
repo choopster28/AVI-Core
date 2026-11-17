@@ -17,15 +17,15 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **103**
-- Owner trade participations: **208**
-- Two-team trades: **101**
+- Unique completed trades: **104**
+- Owner trade participations: **210**
+- Two-team trades: **102**
 - Three-team trades: **2**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **60**
+- 2026 completed trades: **61**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-11-16T16:02:18.961000+00:00**
+- Latest verified trade: **2026-11-17T17:05:47.737000+00:00**
 
 ## Trades by Owner
 
@@ -38,8 +38,8 @@
 | 5 | Northside Kings  | srsmith95 | **19** | 6 | 5 | 8 | 19 | 16 | 13 | 5 | 5 | 3 |
 | 6 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
 | 7 | Badland Banditos  | IcebergSlim69 | **12** | 4 | 4 | 4 | 13 | 13 | 6 | 9 | 1 | 4 |
-| 8 | Mile High Royal Lions | shawnh56 | **11** | 0 | 8 | 3 | 12 | 14 | 5 | 5 | 1 | 3 |
-| 9 | Crimson Tide Pods | nickas | **10** | 0 | 1 | 9 | 15 | 13 | 12 | 4 | 6 | 0 |
+| 8 | Mile High Royal Lions | shawnh56 | **12** | 0 | 8 | 4 | 13 | 14 | 6 | 6 | 1 | 3 |
+| 9 | Crimson Tide Pods | nickas | **11** | 0 | 1 | 10 | 15 | 14 | 13 | 5 | 6 | 0 |
 | 10 | Lightskin Legends ✊🏽 | MadDawgMatt | **8** | 2 | 3 | 3 | 11 | 6 | 2 | 3 | 0 | 0 |
 | 11 | Rapid Valley Annihilation | FuzzyRaptor | **8** | 0 | 3 | 5 | 9 | 12 | 9 | 2 | 3 | 0 |
 | 12 | All Hail King Jesus | Hofer51 | **7** | 0 | 4 | 3 | 9 | 7 | 1 | 8 | 0 | 3 |
@@ -70,6 +70,24 @@
 | Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽 | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1428465179678482432
+- Season: 2026
+- Week: 10
+- Created at UTC: 2026-11-17T17:05:47.737000+00:00
+- Teams involved: 2
+
+#### Mile High Royal Lions (shawnh56)
+- Players received: Aaron Rodgers
+- Players sent: None
+- Picks received: 2027 Round 4 (original roster 16)
+- Picks sent: 2028 Round 2 (original roster 4)
+
+#### Crimson Tide Pods (nickas)
+- Players received: None
+- Players sent: Aaron Rodgers
+- Picks received: 2028 Round 2 (original roster 4)
+- Picks sent: 2027 Round 4 (original roster 16)
 
 ### TRADE: 1428086816648470528
 - Season: 2026

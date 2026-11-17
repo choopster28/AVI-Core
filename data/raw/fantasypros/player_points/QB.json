@@ -192,7 +192,7 @@
     {
       "average": 0,
       "filename": "joe-flacco.php",
-      "games": 2,
+      "games": 3,
       "player_id": 9300,
       "player_name": "Joe Flacco",
       "points": 0,
@@ -200,6 +200,7 @@
       "team_id": "CIN",
       "weeks": {
         "1": 0,
+        "10": 0,
         "7": 0
       }
     },
@@ -478,16 +479,17 @@
       }
     },
     {
-      "average": 11.5,
+      "average": 12,
       "filename": "justin-herbert.php",
-      "games": 8,
+      "games": 9,
       "player_id": 18635,
       "player_name": "Justin Herbert",
-      "points": 91.64000000000001,
+      "points": 107.90000000000002,
       "position_id": "QB",
       "team_id": "LAC",
       "weeks": {
         "1": 14.3,
+        "10": 16.3,
         "2": 9.9,
         "3": 13.7,
         "4": 11.6,
@@ -498,16 +500,17 @@
       }
     },
     {
-      "average": 14.8,
+      "average": 14.6,
       "filename": "jacoby-brissett.php",
-      "games": 8,
+      "games": 9,
       "player_id": 15642,
       "player_name": "Jacoby Brissett",
-      "points": 118.16,
+      "points": 130.96,
       "position_id": "QB",
       "team_id": "BAL",
       "weeks": {
         "1": 16.5,
+        "10": 12.8,
         "2": 7.5,
         "3": 25.6,
         "4": 13.4,

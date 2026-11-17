@@ -770,8 +770,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Crimson Tide Pods
 - Original roster ID: 16
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
@@ -4082,8 +4082,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Mile High Royal Lions
 - Original roster ID: 4
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
 - Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd

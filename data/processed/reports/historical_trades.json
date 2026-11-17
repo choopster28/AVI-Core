@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-11-17T16:58:53.181942+00:00",
+  "generated_at_utc": "2026-11-17T20:49:56.385178+00:00",
   "statistics": {
-    "owner_trade_participations": 208,
+    "owner_trade_participations": 210,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -263,34 +263,34 @@
       {
         "by_season": {
           "2025": 8,
-          "2026": 3
+          "2026": 4
         },
         "firsts_in": 1,
         "firsts_out": 3,
         "owner_display_name": "shawnh56",
-        "picks_in": 5,
-        "picks_out": 5,
-        "players_in": 12,
+        "picks_in": 6,
+        "picks_out": 6,
+        "players_in": 13,
         "players_out": 14,
         "roster_id": 4,
         "team_name": "Mile High Royal Lions",
-        "total": 11
+        "total": 12
       },
       {
         "by_season": {
           "2025": 1,
-          "2026": 9
+          "2026": 10
         },
         "firsts_in": 6,
         "firsts_out": 0,
         "owner_display_name": "nickas",
-        "picks_in": 12,
-        "picks_out": 4,
+        "picks_in": 13,
+        "picks_out": 5,
         "players_in": 15,
-        "players_out": 13,
+        "players_out": 14,
         "roster_id": 16,
         "team_name": "Crimson Tide Pods",
-        "total": 10
+        "total": 11
       },
       {
         "by_season": {
@@ -409,10 +409,10 @@
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 60
+      "2026": 61
     },
-    "two_team_trades": 101,
-    "unique_completed_trades": 103
+    "two_team_trades": 102,
+    "unique_completed_trades": 104
   },
   "trades": [
     {
@@ -7715,6 +7715,76 @@
         }
       ],
       "transaction_id": "1428086816648470528",
+      "week": 10
+    },
+    {
+      "created_at_utc": "2026-11-17T17:05:47.737000+00:00",
+      "created_timestamp_ms": 1794935147737,
+      "roster_ids": [
+        4,
+        16
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "shawnh56",
+          "owner_id": "736992907139158016",
+          "picks_received": [
+            {
+              "original_roster_id": 16,
+              "round": 4,
+              "season": "2027"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 4,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "96",
+              "player_name": "Aaron Rodgers"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 4,
+          "season": 2026,
+          "team_name": "Mile High Royal Lions"
+        },
+        {
+          "owner_display_name": "nickas",
+          "owner_id": "471824466389757952",
+          "picks_received": [
+            {
+              "original_roster_id": 4,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [
+            {
+              "original_roster_id": 16,
+              "round": 4,
+              "season": "2027"
+            }
+          ],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "96",
+              "player_name": "Aaron Rodgers"
+            }
+          ],
+          "roster_id": 16,
+          "season": 2026,
+          "team_name": "Crimson Tide Pods"
+        }
+      ],
+      "transaction_id": "1428465179678482432",
       "week": 10
     }
   ]

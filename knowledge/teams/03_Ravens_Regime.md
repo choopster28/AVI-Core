@@ -13,20 +13,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 23
+- total_players: 22
 - offense: 18
 - kickers: 1
-- idp: 4
+- idp: 3
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 471.5
-- championship_lineup_c_avi_avg: 58.94
-- offensive_roster_c_avi_sum: 795.9
-- offensive_roster_c_avi_avg: 44.22
-- offensive_roster_d_avi_sum: 1353.4
-- offensive_roster_d_avi_avg: 75.19
+- championship_lineup_c_avi_sum: 472.1
+- championship_lineup_c_avi_avg: 59.01
+- offensive_roster_c_avi_sum: 790.0
+- offensive_roster_c_avi_avg: 43.89
+- offensive_roster_d_avi_sum: 1350.9
+- offensive_roster_d_avi_avg: 75.05
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,28 +36,11 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Zay Flowers | C-AVI: 77.0 | D-AVI: 93.2
 - WR: KC Concepcion Jr. | C-AVI: 58.0 | D-AVI: 85.2
 - TE: Travis Kelce | C-AVI: 74.8 | D-AVI: 80.0
-- FLEX: Jordyn Tyson | C-AVI: 47.2 | D-AVI: 83.7
+- FLEX: Jordyn Tyson | C-AVI: 47.8 | D-AVI: 83.8
 - FLEX: Tyjae Spears | C-AVI: 30.1 | D-AVI: 69.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
-
-### PLAYER: Lamar Jackson
-- Player name: Lamar Jackson
-- Player ID: 4881
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: QB
-- Fantasy positions: ['QB']
-- NFL team: BAL
-- Active: True
-- Status: Inactive
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 50.0
-- Dynasty AVI (D-AVI, 0-100): 82.3
-- Projected PPR points: 326.0
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Bryce Young
 - Player name: Bryce Young
@@ -73,6 +56,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 45.4
 - Dynasty AVI (D-AVI, 0-100): 72.0
 - Projected PPR points: 235.6
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Lamar Jackson
+- Player name: Lamar Jackson
+- Player ID: 4881
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: BAL
+- Active: True
+- Status: Inactive
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 42.9
+- Dynasty AVI (D-AVI, 0-100): 80.5
+- Projected PPR points: 326.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 51.7
-- Dynasty AVI (D-AVI, 0-100): 87.2
+- Championship AVI (C-AVI, 0-100): 52.3
+- Dynasty AVI (D-AVI, 0-100): 87.3
 - Projected PPR points: 177.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 47.2
-- Dynasty AVI (D-AVI, 0-100): 83.7
+- Championship AVI (C-AVI, 0-100): 47.8
+- Dynasty AVI (D-AVI, 0-100): 83.8
 - Projected PPR points: 111.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -343,7 +343,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 21.9
-- Dynasty AVI (D-AVI, 0-100): 66.0
+- Dynasty AVI (D-AVI, 0-100): 65.1
 - Projected PPR points: 33.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -376,23 +376,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: idp
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Quinnen Williams
-- Player name: Quinnen Williams
-- Player ID: 6118
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: DL
-- Fantasy positions: ['DL']
-- NFL team: DAL
-- Active: True
-- Status: Active
-- Age: 28.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

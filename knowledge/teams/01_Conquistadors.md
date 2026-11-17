@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 676.1
 - championship_lineup_c_avi_avg: 84.51
-- offensive_roster_c_avi_sum: 909.3
-- offensive_roster_c_avi_avg: 50.52
-- offensive_roster_d_avi_sum: 1377.1
-- offensive_roster_d_avi_avg: 76.51
+- offensive_roster_c_avi_sum: 902.2
+- offensive_roster_c_avi_avg: 50.12
+- offensive_roster_d_avi_sum: 1375.9
+- offensive_roster_d_avi_avg: 76.44
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 24.0
+- Championship AVI (C-AVI, 0-100): 23.9
 - Dynasty AVI (D-AVI, 0-100): 65.4
 - Projected PPR points: 36.3
 - Category: offense
@@ -195,23 +195,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Puka Nacua
-- Player name: Puka Nacua
-- Player ID: 9493
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: LAR
-- Active: True
-- Status: Inactive
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 50.0
-- Dynasty AVI (D-AVI, 0-100): 91.2
-- Projected PPR points: 312.5
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Devaughn Vele
 - Player name: Devaughn Vele
 - Player ID: 11834
@@ -226,6 +209,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 44.3
 - Dynasty AVI (D-AVI, 0-100): 66.9
 - Projected PPR points: 110.6
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Puka Nacua
+- Player name: Puka Nacua
+- Player ID: 9493
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: LAR
+- Active: True
+- Status: Inactive
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 42.9
+- Dynasty AVI (D-AVI, 0-100): 90.0
+- Projected PPR points: 312.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -274,7 +274,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 20.1
+- Championship AVI (C-AVI, 0-100): 20.2
 - Dynasty AVI (D-AVI, 0-100): 51.0
 - Projected PPR points: 36.0
 - Category: offense

@@ -1,6 +1,6 @@
 {
-  "avi_generated_at_utc": "2026-11-17T04:36:22.443662+00:00",
-  "checked_at_utc": "2026-11-17T04:36:24.028497+00:00",
+  "avi_generated_at_utc": "2026-11-17T20:49:55.786412+00:00",
+  "checked_at_utc": "2026-11-17T20:49:56.638458+00:00",
   "counts": {
     "avi_players": 479,
     "player_lookup": 479,
@@ -15,12 +15,12 @@
       "Sleeper NFL state",
       "ESPN NFL scoreboard"
     ],
-    "current_week_schedule_complete": true,
+    "current_week_schedule_complete": null,
     "fantasypros_max_observed_week": 10,
     "mapped_player_point_records": 433,
     "nfl_season": "2026",
     "nfl_season_type": "regular",
-    "nfl_week": 10,
+    "nfl_week": 11,
     "production_source_priority": [
       "sleeper",
       "fantasypros"

@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 396.7
-- championship_lineup_c_avi_avg: 49.59
-- offensive_roster_c_avi_sum: 641.7
-- offensive_roster_c_avi_avg: 37.75
-- offensive_roster_d_avi_sum: 1237.7
-- offensive_roster_d_avi_avg: 72.81
+- championship_lineup_c_avi_sum: 397.5
+- championship_lineup_c_avi_avg: 49.69
+- offensive_roster_c_avi_sum: 635.0
+- offensive_roster_c_avi_avg: 37.35
+- offensive_roster_d_avi_sum: 1236.4
+- offensive_roster_d_avi_avg: 72.73
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Caleb Williams | C-AVI: 65.4 | D-AVI: 85.6
 - RB: Quinshon Judkins | C-AVI: 63.6 | D-AVI: 87.6
-- RB: Ollie Gordon II | C-AVI: 40.3 | D-AVI: 73.1
-- WR: Denzel Boston | C-AVI: 49.9 | D-AVI: 83.3
+- RB: Ollie Gordon II | C-AVI: 40.2 | D-AVI: 73.1
+- WR: Denzel Boston | C-AVI: 50.5 | D-AVI: 83.4
 - WR: Adonai Mitchell | C-AVI: 41.4 | D-AVI: 76.6
 - TE: Colston Loveland | C-AVI: 66.9 | D-AVI: 87.9
 - FLEX: AJ Barner | C-AVI: 35.1 | D-AVI: 71.5
-- FLEX: Quentin Johnston | C-AVI: 34.1 | D-AVI: 74.2
+- FLEX: Quentin Johnston | C-AVI: 34.4 | D-AVI: 74.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -104,7 +104,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 40.3
+- Championship AVI (C-AVI, 0-100): 40.2
 - Dynasty AVI (D-AVI, 0-100): 73.1
 - Projected PPR points: 23.2
 - Category: offense
@@ -138,26 +138,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 49.9
-- Dynasty AVI (D-AVI, 0-100): 83.3
+- Championship AVI (C-AVI, 0-100): 50.5
+- Dynasty AVI (D-AVI, 0-100): 83.4
 - Projected PPR points: 134.7
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Omar Cooper Jr.
-- Player name: Omar Cooper Jr.
-- Player ID: 13276
-- Current owner team: Rapid Valley Annihilation
-- Current owner roster ID: 2
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: NYJ
-- Active: True
-- Status: Active
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): 44.8
-- Dynasty AVI (D-AVI, 0-100): 80.6
-- Projected PPR points: 127.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -178,6 +161,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Omar Cooper Jr.
+- Player name: Omar Cooper Jr.
+- Player ID: 13276
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: NYJ
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 37.3
+- Dynasty AVI (D-AVI, 0-100): 79.1
+- Projected PPR points: 127.1
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Quentin Johnston
 - Player name: Quentin Johnston
 - Player ID: 9754
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 34.1
-- Dynasty AVI (D-AVI, 0-100): 74.2
+- Championship AVI (C-AVI, 0-100): 34.4
+- Dynasty AVI (D-AVI, 0-100): 74.3
 - Projected PPR points: 163.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

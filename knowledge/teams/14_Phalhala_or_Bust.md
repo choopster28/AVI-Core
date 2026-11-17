@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 465.5
-- championship_lineup_c_avi_avg: 58.19
-- offensive_roster_c_avi_sum: 650.6
-- offensive_roster_c_avi_avg: 46.47
-- offensive_roster_d_avi_sum: 1041.1
-- offensive_roster_d_avi_avg: 74.36
+- championship_lineup_c_avi_sum: 465.9
+- championship_lineup_c_avi_avg: 58.24
+- offensive_roster_c_avi_sum: 639.8
+- offensive_roster_c_avi_avg: 45.70
+- offensive_roster_d_avi_sum: 1039.2
+- offensive_roster_d_avi_avg: 74.23
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,7 +34,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Ashton Jeanty | C-AVI: 81.9 | D-AVI: 94.3
 - RB: Jaylen Warren | C-AVI: 76.2 | D-AVI: 88.0
 - WR: Rome Odunze | C-AVI: 59.7 | D-AVI: 85.8
-- WR: Makai Lemon | C-AVI: 46.3 | D-AVI: 83.3
+- WR: Makai Lemon | C-AVI: 46.7 | D-AVI: 83.3
 - TE: Sam LaPorta | C-AVI: 69.0 | D-AVI: 86.3
 - FLEX: Hunter Henry | C-AVI: 45.3 | D-AVI: 72.6
 - FLEX: Jordan Mason | C-AVI: 33.0 | D-AVI: 73.5
@@ -161,23 +161,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Michael Wilson
-- Player name: Michael Wilson
-- Player ID: 10232
-- Current owner team: Phalhala or Bust
-- Current owner roster ID: 14
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: ARI
-- Active: True
-- Status: Inactive
-- Age: 26.0
-- Championship AVI (C-AVI, 0-100): 50.0
-- Dynasty AVI (D-AVI, 0-100): 82.5
-- Projected PPR points: 166.0
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Makai Lemon
 - Player name: Makai Lemon
 - Player ID: 13294
@@ -189,9 +172,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 46.3
+- Championship AVI (C-AVI, 0-100): 46.7
 - Dynasty AVI (D-AVI, 0-100): 83.3
 - Projected PPR points: 168.5
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Michael Wilson
+- Player name: Michael Wilson
+- Player ID: 10232
+- Current owner team: Phalhala or Bust
+- Current owner roster ID: 14
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: ARI
+- Active: True
+- Status: Inactive
+- Age: 26.0
+- Championship AVI (C-AVI, 0-100): 42.9
+- Dynasty AVI (D-AVI, 0-100): 81.3
+- Projected PPR points: 166.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -206,7 +206,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 31.5
+- Championship AVI (C-AVI, 0-100): 31.7
 - Dynasty AVI (D-AVI, 0-100): 63.0
 - Projected PPR points: 86.4
 - Category: offense
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 27.8
-- Dynasty AVI (D-AVI, 0-100): 49.8
+- Championship AVI (C-AVI, 0-100): 23.5
+- Dynasty AVI (D-AVI, 0-100): 49.1
 - Projected PPR points: 73.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
