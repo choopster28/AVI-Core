@@ -1,5 +1,46 @@
 [
   {
+    "id": "mwlarf5d-d74e44dc",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "neutral",
+      "goal": "",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          },
+          {
+            "name": "Tyler Warren",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Rhamondre Stevenson",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": [],
+      "personalContext": "Stevenson has minimal value this season, especially with Maye out for the year. Corgi doesn’t trust him at all. His other starting RBs are Saquon and Skattebo, both of which have been dealing with their own injuries so adding a true rb1 like Chuba increases his championship ceiling this year, and next, as Chuba is a top 5-7 for the rest of this year. McBride is having to play with rookie Carson beck which will inevitably limit his production and potentially hurt his championship potential going down the stretch of the fantasy season"
+    },
+    "createdAt": 1794956510282,
+    "updatedAt": 1794956510282,
+    "expiresAt": 1795388510282,
+    "status": "queued"
+  },
+  {
     "id": "mwlangq4-42a75878",
     "phase": "final",
     "mode": "analyze_trade",
