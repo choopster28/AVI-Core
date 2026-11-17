@@ -1,5 +1,45 @@
 [
   {
+    "id": "mwl9jmbe-05e5e5e3",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "goal": "",
+      "targetTeam": "Conquistadors",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Isaiah Likely",
+            "assetType": "player"
+          },
+          {
+            "name": "Matthew Golden",
+            "assetType": "player"
+          },
+          {
+            "name": "De'Von Achane",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794954466490,
+    "updatedAt": 1794954466490,
+    "expiresAt": 1795386466490,
+    "status": "queued"
+  },
+  {
     "id": "mwl37xgg-bfc51925",
     "phase": "final",
     "mode": "analyze_trade",
