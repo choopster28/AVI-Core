@@ -1,5 +1,42 @@
 [
   {
+    "id": "mwkzuy09-59259c0c",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "goal": "",
+      "targetTeam": "Rapid Valley Annihilation",
+      "trade": {
+        "sideA": [
+          {
+            "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Ollie Gordon II",
+            "assetType": "player"
+          },
+          {
+            "name": "2028 3rd · Rapid Valley · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": [],
+      "personalContext": "Rb core is not premium. Saquon has been injured and the eagles offense is league worst. Stevenson has been average at best, and Maye is hurt now so the patriots offense will take a step back."
+    },
+    "createdAt": 1794938198956,
+    "updatedAt": 1794938198956,
+    "expiresAt": 1795370198956,
+    "status": "queued"
+  },
+  {
     "id": "mwkzrmr7-1c11a89b",
     "phase": "initial",
     "mode": "analyze_trade",
