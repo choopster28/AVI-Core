@@ -1,5 +1,37 @@
 [
   {
+    "id": "mwkz3nrd-bf4b9b63",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "goal": "",
+      "targetTeam": "Rapid Valley Annihilation",
+      "trade": {
+        "sideA": [
+          {
+            "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Ollie Gordon II",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794936925705,
+    "updatedAt": 1794936925705,
+    "expiresAt": 1795368925705,
+    "status": "queued"
+  },
+  {
     "id": "mwkz0hg4-799b9f4d",
     "phase": "initial",
     "mode": "analyze_trade",
