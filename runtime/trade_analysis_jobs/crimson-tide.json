@@ -1,5 +1,41 @@
 [
   {
+    "id": "mwl3dobw-9c9f18df",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "perspectiveMode": "franchise",
+      "goal": "",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Jakobi Meyers",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2027 2nd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+            "assetType": "pick"
+          },
+          {
+            "name": "2027 3rd · King Jesus · Projected Mid · original owner All Hail King Jesus",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794944111468,
+    "updatedAt": 1794944111468,
+    "expiresAt": 1795376111468,
+    "status": "queued"
+  },
+  {
     "id": "mwl34bos-44bb51c2",
     "phase": "final",
     "mode": "improve_team",
