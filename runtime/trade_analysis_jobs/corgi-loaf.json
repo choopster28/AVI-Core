@@ -36,9 +36,355 @@
       "alternateAssets": []
     },
     "createdAt": 1794943053530,
-    "updatedAt": 1794943055492,
+    "updatedAt": 1794943126330,
     "expiresAt": 1795375053530,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This analysis evaluates the submitted trade between Corgi Loaf Baking Co. (9-1, Win Championship) and Rapid Valley Annihilation (2-8, Retool). Corgi Loaf sends a 2028 1st (Mile High) and 2029 4th in exchange for 22-year-old running back Ollie Gordon II and Corgi Loaf's own 2027 2nd round pick. While Corgi Loaf addresses immediate running back availability during Saquon Barkley's rest-of-season uncertainty, the package requires Rapid Valley to overpay by surrendering a valuable 2027 2nd alongside an active 15-20 touch RB just to acquire one distant 2028 1st. Rapid Valley's front office is unlikely to accept the proposal as constructed, making 'Revise Offer' the optimal front-office recommendation.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2029 4th · Corgi Loaf · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 10,
+              "publicMarket": 10,
+              "leagueMarket": 10
+            }
+          ],
+          "sideB": [
+            {
+              "name": "Ollie Gordon II",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 22,
+              "cavi": 40.3,
+              "davi": 73.1,
+              "publicMarket": 73.1,
+              "leagueMarket": 73.1
+            },
+            {
+              "name": "2027 2nd · Corgi Loaf · Projected Late · original owner Corgi Loaf Baking Co.",
+              "assetType": "pick",
+              "owner": "Rapid Valley Annihilation",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 48.5,
+              "publicMarket": 48.5,
+              "leagueMarket": 48.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A-",
+            "otherGrade": "D+",
+            "userShare": 58,
+            "otherShare": 42,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The submitted construction strongly favors Corgi Loaf Baking Co. Corgi Loaf gains +40.3 C-AVI in active RB contribution through Ollie Gordon II while reclaiming a 2027 2nd round pick (48.5 D-AVI), surrendering only a 2028 1st (79.3 D-AVI) and 2029 4th. Rapid Valley suffers a net loss of 32.3 D-AVI, giving up a 22-year-old starter and a 2nd round pick to tier up to a single 1st round pick."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Even",
+            "summary": "By replacing the 2027 2nd round pick with a 2027 3rd round pick (or removing pick returns entirely), the value exchange balances at approximately 89.3 D-AVI sent vs 89.6 D-AVI received. This satisfies Rapid Valley's retooling objective for 1st-round draft capital without stripping their pick inventory."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 35,
+              "summary": "Adds active weekly RB touch volume (15-20 carries/game in MIA) to hedge against Saquon Barkley's health uncertainty."
+            },
+            "dynastyOutlook": {
+              "score": 25,
+              "summary": "Nets +32.3 total D-AVI while securing a 22-year-old running back."
+            },
+            "lineupQuality": {
+              "score": 30,
+              "summary": "Gordon immediately fills a starting RB/FLEX slot during playoff push weeks."
+            },
+            "depthResilience": {
+              "score": 40,
+              "summary": "Strengthens RB depth alongside Cam Skattebo and Rhamondre Stevenson."
+            },
+            "flexibilityLiquidity": {
+              "score": 15,
+              "summary": "Reclaims native 2027 2nd round pick while relinquishing a 2028 1st."
+            },
+            "overall": {
+              "score": 16,
+              "summary": "The submitted construction strongly favors Corgi Loaf Baking Co. Corgi Loaf gains +40.3 C-AVI in active RB contribution through Ollie Gordon II while reclaiming a 2027 2nd round pick (48.5 D-AVI), surrendering only a 2028 1st (79.3 D-AVI) and 2029 4th. Rapid Valley suffers a net loss of 32.3 D-AVI, giving up a 22-year-old starter and a 2nd round pick to tier up to a single 1st round pick."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -15,
+              "summary": "Loses starting RB production, though team is already 2-8 and out of contention."
+            },
+            "dynastyOutlook": {
+              "score": -30,
+              "summary": "Deficit of 32.3 D-AVI weakens total dynasty asset portfolio."
+            },
+            "lineupQuality": {
+              "score": -20,
+              "summary": "Depletes active starting lineup at running back."
+            },
+            "depthResilience": {
+              "score": -25,
+              "summary": "Removes a young core RB and surrenders a top-50 rookie draft pick asset."
+            },
+            "flexibilityLiquidity": {
+              "score": 20,
+              "summary": "Adds a liquid 2028 1st round pick to support retooling."
+            },
+            "overall": {
+              "score": -16,
+              "summary": "The submitted construction strongly favors Corgi Loaf Baking Co. Corgi Loaf gains +40.3 C-AVI in active RB contribution through Ollie Gordon II while reclaiming a 2027 2nd round pick (48.5 D-AVI), surrendering only a 2028 1st (79.3 D-AVI) and 2029 4th. Rapid Valley suffers a net loss of 32.3 D-AVI, giving up a 22-year-old starter and a 2nd round pick to tier up to a single 1st round pick."
+            }
+          },
+          "explanation": "Corgi Loaf Baking Co. experiences positive gains across championship outlook and depth resilience by acquiring a starter and a pick. Rapid Valley Annihilation gains draft liquidity but suffers significant score drops in dynasty outlook and depth resilience due to overpaying with a 2027 2nd round pick."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf gains +40.3 C-AVI via Ollie Gordon II, providing vital starting RB/FLEX production during Saquon Barkley's rest-of-season uncertainty.",
+          "sideADynastyImpact": "Corgi Loaf receives 121.6 D-AVI (Gordon + 2027 2nd) while giving up 89.3 D-AVI (2028 1st + 2029 4th), generating a net positive dynasty shift of +32.3 D-AVI.",
+          "sideARosterImpact": "Fortifies the active 8-player starting lineup for the 9-1 championship contender while restoring 2027 draft pick assets.",
+          "sideBChampionshipImpact": "Rapid Valley relinquishes 40.3 C-AVI. Given their 2-8 record, immediate C-AVI loss is secondary to their retooling objective.",
+          "sideBDynastyImpact": "Rapid Valley surrenders 121.6 D-AVI and receives 89.3 D-AVI, resulting in a -32.3 D-AVI loss.",
+          "sideBRosterImpact": "Leaves Jaylen Wright as primary internal RB depth and reduces 2027 draft capital by giving away a 2nd round pick.",
+          "valueAssessment": "The trade is asymmetrical. Asking a retooling team to package a 22-year-old active starter AND a 2nd round pick for a distant 1st round pick represents an unreasonable value surcharge."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public dynasty consensus values Ollie Gordon II as a rising 22-year-old RB who has sustained 15-20 touches per game over recent weeks in Miami. A 2028 1st round pick is a valuable asset for a retooling franchise, but market consensus does not support attaching a 2027 2nd round pick to Gordon to move up to a single 1st.",
+          "aviVsMarket": "AVI and public market consensus closely match on Gordon's D-AVI (73.1). The public market views attaching a 2nd round pick to Gordon as an overpay for a future 1st.",
+          "relevantContext": [
+            "Ollie Gordon II has recorded 15+ carries in four consecutive games for the Miami Dolphins.",
+            "Rapid Valley Annihilation is 2-8 and mathematically out of playoff push contention, prioritizing draft capital.",
+            "Corgi Loaf Baking Co. is 9-1 and seeking RB depth due to Saquon Barkley's uncertain rest-of-season availability."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Rapid Valley wants 1st-round draft capital to rebuild long-term liquidity. However, their GM will resist giving up a 2027 2nd round pick on top of a young starting RB.",
+          "packageFit": "The 2028 1st fits Rapid Valley's retooling timeline, but the inclusion of the 2027 2nd on Side B breaks package balance.",
+          "lineupReplacement": "Rapid Valley loses Gordon from their active lineup, leaving Jaylen Wright and bench depth as internal replacements.",
+          "competitiveWindowFit": "Aligns with Corgi Loaf's Win Championship window and Rapid Valley's Retool window, but the pick terms are unbalanced.",
+          "positionalScarcity": "Starting RB touch volume is scarce in 16-team PPR leagues, elevating Gordon's trade value."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 12,
+            "packageMatch": 10,
+            "lineupReplacement": 8,
+            "competitiveWindow": 5
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 65,
+          "classification": "Stretch",
+          "explanation": "Rapid Valley Annihilation is retooling and motivated to acquire 1st-round capital, but surrendering a 2027 2nd round pick alongside a 22-year-old starter (Ollie Gordon II) creates an unacceptable net loss of 32.3 D-AVI. Rapid Valley's GM is expected to decline or ask to remove the 2027 2nd round pick."
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "The strategic logic is sound for both teams: Corgi Loaf needs running back starters for a championship run, and Rapid Valley wants 1st-round capital for a retool. However, demanding Rapid Valley's 2027 2nd round pick makes the offer unacceptably lopsided. Corgi Loaf should revise the offer by swapping the 2027 2nd for a 2027 3rd round pick to close the deal.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            }
+          ],
+          "receive": [
+            {
+              "name": "Ollie Gordon II",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 22,
+              "cavi": 40.3,
+              "davi": 73.1,
+              "publicMarket": 73.1,
+              "leagueMarket": 73.1
+            },
+            {
+              "name": "2027 3rd · Rapid Valley · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Rapid Valley Annihilation",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 16.5,
+              "publicMarket": 16.5,
+              "leagueMarket": 16.5
+            }
+          ],
+          "whyUserShouldDoIt": "Corgi Loaf acquires an active 22-year-old running back getting 15-20 touches per week to secure their championship run, while maintaining fair trade equity by taking back a 3rd round pick instead of pushing for an unreasonable 2nd.",
+          "whyOpponentMightAccept": "Rapid Valley secures a premium 2028 1st round pick to advance their retooling objective without forfeiting a valuable 2027 2nd round pick asset."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 79.3,
+              "publicMarket": 79.3,
+              "leagueMarket": 79.3
+            },
+            {
+              "name": "2029 4th · Corgi Loaf · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": null,
+              "davi": 10,
+              "publicMarket": 10,
+              "leagueMarket": 10
+            }
+          ],
+          "receive": [
+            {
+              "name": "Ollie Gordon II",
+              "assetType": "player",
+              "owner": "Rapid Valley Annihilation",
+              "position": "RB",
+              "age": 22,
+              "cavi": 40.3,
+              "davi": 73.1,
+              "publicMarket": 73.1,
+              "leagueMarket": 73.1
+            }
+          ],
+          "rationale": "A straight player-for-pick trade (2028 1st + 2029 4th for Ollie Gordon II) gives Rapid Valley full value for their starting RB while granting Corgi Loaf immediate championship depth."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "Evaluated Corgi Loaf's need for running back starters given Saquon Barkley's uncertain rest-of-season status, while factoring in Ollie Gordon II's active workload in Miami and long-term backup role dynamic behind De'Von Achane."
+        },
+        "alternateScenarios": [],
+        "organizationGoals": [
+          {
+            "team": "Corgi Loaf Baking Co.",
+            "goal": "Win Championship",
+            "source": "playoff picture",
+            "reason": "Currently in the top six of the verified eight-team bracket.",
+            "status": "Elite Contender"
+          },
+          {
+            "team": "Rapid Valley Annihilation",
+            "goal": "Retool",
+            "source": "playoff picture",
+            "reason": "Deep outside the bracket. Needs 3 of 4 remaining wins just to match today’s provisional wildcard record.",
+            "status": "Retooling"
+          }
+        ]
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Ollie Gordon II football stats news",
+          "Ollie Gordon II NFL draft team 2025 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb2ghPT6X_lVItObGOyy87CMpl1VUUyzezWM8_8p4mFC4aWyhZb83BtIcWJuzrCsCZELbUqpFOh93EJDECZ57kb0CRol4hwKB5Ykz4byEMTyfK1EL579OdJp-F0BQPJ_tDMHe5uP_SydApHA3rQooK-LSnTltXVAU=",
+            "title": "miamidolphins.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyle2hx6Kq2XusVCpjmtdM-UIbzmSHSoNgjXxpsru1RQNhlhNXD2fUjtHwa791ssyZdIAMl8KMG-kXhqy2yvWxiNec60msqDhCusu35oAcxaGwaD_UAdZP875hWCAp82fonFU=",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM2lEJcuB7mgM4tK4hUbexhh3_GQOa9otU3rm6cXEWsHZyUH4dffK-ohuB8pPo972HWuMCQdhEU_4ym_UTeP6su8gxMKFJH_6e-RYTRSSVYmVXkKIMsNw62RZEJTwwN1uH",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4zxnW8Rs7_414H0no9q2BwsOoejZerHwC0RZXFIR_dRr7rFJlfpcJWjnToXp7IYRAT6fLvJp4zOimDE-7LoSRgR03PRSW6TFHdzqTVbC8cZ8x7kSA_WX3qzt1RSnGQ0t090GKmWW6RLl3Ob71Kg8=",
+            "title": "nbcsports.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "1f4917277771cf534db27f4793efe924c0859ba3",
+        "aviCoreCommittedAt": "2026-11-17T16:58:55Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/late-season-playoff-push",
+          "derived/keeper-contracts",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 155444,
+        "groundedMarketChars": 3217,
+        "personalContextProvided": true,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
   },
   {
     "id": "mwkz3nrd-bf4b9b63",
