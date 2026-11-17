@@ -36,9 +36,10 @@
       "personalContext": "Stevenson has minimal value this season, especially with Maye out for the year. Corgi doesn’t trust him at all. His other starting RBs are Saquon and Skattebo, both of which have been dealing with their own injuries so adding a true rb1 like Chuba increases his championship ceiling this year, and next, as Chuba is a top 5-7 for the rest of this year. McBride is having to play with rookie Carson beck which will inevitably limit his production and potentially hurt his championship potential going down the stretch of the fantasy season"
     },
     "createdAt": 1794956510282,
-    "updatedAt": 1794956512616,
+    "updatedAt": 1794956532827,
     "expiresAt": 1795388510282,
-    "status": "running"
+    "status": "failed",
+    "error": "Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. "
   },
   {
     "id": "mwlangq4-42a75878",
