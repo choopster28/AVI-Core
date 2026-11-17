@@ -1,5 +1,359 @@
 [
   {
+    "id": "mwkwd01f-3b28ad47",
+    "createdAt": 1794932405487,
+    "expiresAt": 1795364405487,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Corgi Loaf Baking Co. ↔ All Hail King Jesus",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "goal": "",
+      "targetTeam": "All Hail King Jesus",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          },
+          {
+            "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "D'Andre Swift",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Corgi Loaf Baking Co. is proposing to trade Saquon Barkley and a 2028 1st-round pick (Mile High) to All Hail King Jesus for D'Andre Swift. While Swift offers a higher 2026 C-AVI (81.3 vs 51.4) and a slight boost to weekly PPR scoring during the stretch run, attaching a premium 2028 1st-round pick to Saquon Barkley represents a substantial overpay that unnecessarily drains Corgi Loaf's long-term dynasty value and future liquidity.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 51.4,
+              "davi": 85.2,
+              "publicMarket": 84,
+              "leagueMarket": 85.2
+            },
+            {
+              "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 79.3,
+              "publicMarket": 78,
+              "leagueMarket": 79.3
+            }
+          ],
+          "sideB": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 81.3,
+              "davi": 90.2,
+              "publicMarket": 88,
+              "leagueMarket": 90.2
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "D+",
+            "otherGrade": "A",
+            "userShare": 35,
+            "otherShare": 65,
+            "advantageFranchise": "All Hail King Jesus",
+            "summary": "Corgi Loaf Baking Co. overpays significantly by sending an elite starter in Saquon Barkley plus a 2028 1st-round pick for D'Andre Swift. Sacrificing a 1st-round pick for a near-tier RB swap inflicts severe damage on Corgi Loaf's dynasty portfolio."
+          },
+          "recommended": {
+            "userGrade": "B+",
+            "otherGrade": "B+",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Even",
+            "summary": "A straight 1-for-1 swap of Saquon Barkley for D'Andre Swift captures Swift's 2026 C-AVI bump (+29.9) while fully preserving Corgi Loaf's 2028 1st-round draft capital."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": 15,
+              "summary": "Slight near-term PPR increase with D'Andre Swift in the 2026 lineup."
+            },
+            "dynastyOutlook": {
+              "score": -65,
+              "summary": "Substantial erosion of dynasty value by forfeiting a 2028 1st round pick."
+            },
+            "lineupQuality": {
+              "score": 10,
+              "summary": "Modest weekly point bump at RB during the playoff push."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Reduces future asset depth and capital leverage."
+            },
+            "flexibilityLiquidity": {
+              "score": -75,
+              "summary": "Drains liquid 1st-round draft capital that could fuel bigger mid-season moves."
+            },
+            "overall": {
+              "score": -30,
+              "summary": "Corgi Loaf Baking Co. overpays significantly by sending an elite starter in Saquon Barkley plus a 2028 1st-round pick for D'Andre Swift. Sacrificing a 1st-round pick for a near-tier RB swap inflicts severe damage on Corgi Loaf's dynasty portfolio."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": -5,
+              "summary": "Minor step down in near-term C-AVI from Swift to Barkley."
+            },
+            "dynastyOutlook": {
+              "score": 70,
+              "summary": "Dramatically enhances dynasty portfolio with a premium 2028 1st round pick."
+            },
+            "lineupQuality": {
+              "score": -5,
+              "summary": "Barkley fills Swift's starting RB slot with minimal weekly degradation."
+            },
+            "depthResilience": {
+              "score": 30,
+              "summary": "Adds valuable future capital cushion for roster management."
+            },
+            "flexibilityLiquidity": {
+              "score": 75,
+              "summary": "Gains highly liquid 1st-round draft capital."
+            },
+            "overall": {
+              "score": 30,
+              "summary": "Corgi Loaf Baking Co. overpays significantly by sending an elite starter in Saquon Barkley plus a 2028 1st-round pick for D'Andre Swift. Sacrificing a 1st-round pick for a near-tier RB swap inflicts severe damage on Corgi Loaf's dynasty portfolio."
+            }
+          },
+          "explanation": "Corgi Loaf Baking Co. pays a heavy price in future capital for a marginal current-year upgrade, giving All Hail King Jesus an overwhelming long-term asset win."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf Baking Co. gains +29.9 C-AVI in the starting lineup by acquiring D'Andre Swift (81.3 C-AVI) to replace Saquon Barkley (51.4 C-AVI), providing minor weekly PPR stability for 2026.",
+          "sideADynastyImpact": "Dynasty portfolio suffers a net loss of -74.3 D-AVI, giving up Saquon Barkley (85.2 D-AVI) and a 2028 1st (79.3 D-AVI) for Swift (90.2 D-AVI).",
+          "sideARosterImpact": "Preserves current RB depth but completely strips Corgi Loaf of a key future 1st-round draft asset.",
+          "sideBChampionshipImpact": "All Hail King Jesus experiences a minor near-term C-AVI drop (-29.9 C-AVI) swapping Swift for Barkley.",
+          "sideBDynastyImpact": "All Hail King Jesus secures a massive dynasty net gain (+74.3 D-AVI), acquiring a 2028 1st pick alongside an elite bellcow RB.",
+          "sideBRosterImpact": "Maintains a startable RB slot with Saquon Barkley while substantially increasing draft asset liquidity.",
+          "valueAssessment": "The submitted package heavily favors All Hail King Jesus (65/35 value split). Corgi Loaf Baking Co. pays a 1st-round premium for a lateral positional swap."
+        },
+        "publicMarketAnalysis": {
+          "summary": "In public dynasty consensus, Saquon Barkley and D'Andre Swift reside in adjacent RB tiers, with Swift holding a slight age advantage (27 vs 29) and contract security through 2029 in Chicago. Barkley retains an elite three-down ceiling in Philadelphia.",
+          "aviVsMarket": "AVI models Swift at 81.3 C-AVI / 90.2 D-AVI and Barkley at 51.4 C-AVI / 85.2 D-AVI. Public market consensus views adding a 1st-round pick to Barkley as a major overpay.",
+          "relevantContext": [
+            "Barkley is locked in as Philadelphia's primary backfield focal point.",
+            "Swift signed a 3-year extension with Chicago under Ben Johnson, securing high-volume passing and red-zone work.",
+            "Trading a 2028 1st pick in a 16-team league severely limits future flexibility."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Hofer51 (All Hail King Jesus) is motivated by the opportunity to extract a free 2028 1st-round pick while retaining an elite starting RB in Saquon Barkley.",
+          "packageFit": "The package fits King Jesus extremely well, bolstering their future asset vault while keeping them competitive in the playoff race.",
+          "lineupReplacement": "Barkley directly replaces Swift at RB1 for King Jesus, ensuring minimal drop-off in weekly starting lineup viability.",
+          "competitiveWindowFit": "Fits King Jesus's dual goals of remaining competitive for the 2026 playoffs while accumulating long-term dynasty capital.",
+          "positionalScarcity": "RB depth is vital in a 16-team league; giving up a 1st-round pick in an RB swap is an unnecessary expenditure."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "classification": "Needs reassessment",
+          "explanation": "The roster fit and trade value are shown below, but there is no supported acceptance estimate for this package. A fresh analysis can reassess the partner's actual lineup and the cost of giving up its best asset.",
+          "assessmentNeedsReview": true
+        },
+        "verdict": {
+          "decision": "Revise Offer",
+          "rationale": "The roster fit and trade value are shown below, but there is no supported acceptance estimate for this package. A fresh analysis can reassess the partner's actual lineup and the cost of giving up its best asset.",
+          "confidence": "Low"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 51.4,
+              "davi": 85.2,
+              "publicMarket": 84,
+              "leagueMarket": 85.2
+            }
+          ],
+          "receive": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 81.3,
+              "davi": 90.2,
+              "publicMarket": 88,
+              "leagueMarket": 90.2
+            }
+          ],
+          "whyUserShouldDoIt": "Acquires D'Andre Swift's higher 2026 C-AVI (+29.9) and near-term PPR output to boost championship push without surrendering a 2028 1st-round pick.",
+          "whyOpponentMightAccept": "All Hail King Jesus acquires Saquon Barkley to maintain a high-ceiling RB1 starter for their playoff push while swapping similar-tier dynasty RBs."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Saquon Barkley",
+              "assetType": "player",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": "RB",
+              "age": 29,
+              "cavi": 51.4,
+              "davi": 85.2,
+              "publicMarket": 84,
+              "leagueMarket": 85.2
+            },
+            {
+              "name": "2027 Round 5 (Corgi Loaf Baking Co.)",
+              "assetType": "pick",
+              "owner": "Corgi Loaf Baking Co.",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 5,
+              "leagueMarket": 0
+            }
+          ],
+          "receive": [
+            {
+              "name": "D'Andre Swift",
+              "assetType": "player",
+              "owner": "All Hail King Jesus",
+              "position": "RB",
+              "age": 27,
+              "cavi": 81.3,
+              "davi": 90.2,
+              "publicMarket": 88,
+              "leagueMarket": 90.2
+            }
+          ],
+          "rationale": "If King Jesus demands a small sweetener to part with Swift, offering a late 5th-round pick instead of a 1st-round pick preserves Corgi Loaf's draft capital."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": [],
+        "organizationGoals": [
+          {
+            "team": "Corgi Loaf Baking Co.",
+            "goal": "Win Championship",
+            "source": "HQ window",
+            "status": "Elite Contender"
+          },
+          {
+            "team": "All Hail King Jesus",
+            "goal": "Increase Playoff Odds",
+            "source": "playoff picture",
+            "reason": "Verified bubble or must-win playoff race.",
+            "status": "Elite Contender"
+          }
+        ]
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Saquon Barkley news 2026 NFL",
+          "DAndre Swift news 2026 NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_xDSjbLa_yJJKPzBQn0_pR9XPncnfZCq9r_niqnN_Umam3CSluNH6u64G0_Y3X_-gB2uZsiOWq99gKWk_M4zD6zVviSKVg7jn2qLBuNBZC0Ds7aZX6tUWJoeoRFhDdSrCBXrlpUfn1lBnvnvtDZz6OuQjXk1dnrBvsXLnGHinEm_4PfD0923slgIdFEODyXIhMwUAuPI1SV4XtLN05L8iKzPg5yxZYqOnRp9Py2j8",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSG2uHEncr2jVS1f_KE-OztUE1Ok7LfwlMRV-FOIMEdDVWOGFsYFse3iodACfD7ay42UDeTeHTnf524I46VqibZO5T6Hm2K3095PHYMpCYcff_AxR1P1LfJsQ6B8KH1i2B-0ril6C1KffM0cv9k2BzMxK2HRaH5sSZ-Vi5TeCRDRmRpRYIf0c41vo13uEifvhVdafWhjVzuqUU0k1IC5weQUojqZ4F-BDJo1Wq4nykAUJ0Vu5vv45LxC7Ikg==",
+            "title": "foxsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjyHgoxSf8J896yopJzuTjwDPOlGOYon1KaJdO_9HY7p6XbompdAe0Wzk8k0zNHYkdyQvLcVbzS64r1O1Qz-3jsNMuS7IwFhC2JLJ5cioy3NbqXjo7xObVE7-jUJ0_KkEqz32bJVbn_J6rWL-JZUKaWDPQIdPvr0YAHCuyOBHobFTGSpbzIIRoG_dL5tIZe6NwufZJChWF0CXDUkINs6ghPKG0Fe2F0u4=",
+            "title": "roundtable.io"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwZgL-qUZ0Z2MNTHbfhYk36edX4Y3isX2OekvwNVdHTc6tx4WFkwDWP92azSI9sUebEuUA2QiO22pX4ClG4_XXiUmZn0lCbITk-YrqGC6mLfHNNGVe_ejyAi-9HrKtIi7JTEiZfsHbw-E8eGAUiyuAWzEKmvb-jkVv2mcXC_Zmf7sH3fsPtq2ssr3b2ig=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx1WWxQ-sVAOhSWDkj1CyU0y6fY6aQXOc7g0oiZUMoHVtlDcjvnqJ0Hf_1JbxRb8gaqAuhMKMfcQYMe1rRX2XY8txQkyTZY3yYqGLn7SFWqDKT90ggtuOYNe9mDE6RSJ0=",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK9C_OlsE_Ji3MszqLL6GV2zZ1eI546-aDQzlCJj_7nH6pun4DVW-yN4HWNPKHyHqKKkz0anYh9fcvGfbcwA3UQZcXDiCLklvFLtM4HXmBET1h429p4LG_T3G_F1QyjJt4r8i0liRHC7Q4yRWYKrNG82M_dvWzU5JQw0SGnB_OFgwgK9l74s5bjf2a47ohvVMvHkNn4wM98w==",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQNVltKEDtNyuXxMMOSUY23yR6MeDB-jkZXNzB780-DhcCvpMaLHWhbSCzIkCEkvi-Pjvq0Zbz1KTVcFuDqsg0Qyd0A8QoJWwTLmUvQGUBvLyVj02XREnnYykZU9lTjY9zb_Y5SG7V5TAVlxm2Q585VvJ4hkc5MPa7hho9Zk6pRFSFRwh9zZgUqV9yMwuM6apt4g_HhOgf2A_JsadDEkStx86EJ9cTQOCV",
+            "title": "thefantasyfootballers.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "081fa3cb284c1eb2051aeda3736901ad020c8d0b",
+        "aviCoreCommittedAt": "2026-11-17T15:11:34Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/late-season-playoff-push",
+          "derived/keeper-contracts",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 149170,
+        "groundedMarketChars": 3794,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
+  },
+  {
     "id": "mwjxxbo5-c44c392a",
     "createdAt": 1794874590286,
     "expiresAt": 1795306590286,
