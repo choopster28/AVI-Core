@@ -14,9 +14,2887 @@
       "personalContext": "Young running backs"
     },
     "createdAt": 1794943675339,
-    "updatedAt": 1794943677182,
+    "updatedAt": 1794943694138,
     "expiresAt": 1795375675339,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "improve_team",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "Found 3 qualifying offers for Crimson Tide Pods, refined to prioritize high-upside young running backs in accordance with the manager's personal context.",
+        "teamDiagnosis": {
+          "competitiveWindow": "Rebuild",
+          "strengths": [
+            "Promising young cornerstones in Brian Thomas Jr., Dalton Kincaid, and Jadarian Price",
+            "Extensive draft pick stockpile including four 2027 1st-round picks"
+          ],
+          "priorityNeeds": [
+            "Young high-ceiling RB and WR building blocks",
+            "Additional 2027/2028 premium draft capital"
+          ],
+          "tradeableSurplus": [
+            "Productive 30-year-old wide receiver Jakobi Meyers",
+            "Veteran running back depth"
+          ],
+          "constraintsApplied": [
+            "Mode: improve_team",
+            "User goal: Rebuild",
+            "Target positions: RB, WR, TE, QB",
+            "Max results: 3",
+            "Starter-caliber player filter enforced",
+            "Personal context: Young running backs"
+          ]
+        },
+        "marketRealitySummary": {
+          "managersEvaluated": 15,
+          "managersEliminated": 12,
+          "eliminationReasons": [
+            "Rebuilding teams have no incentive to trade future picks/youth for veteran production",
+            "Championship favorites unwilling to part with active starting cornerstones without overpay",
+            "Roster positional overlap and incompatible competitive windows"
+          ]
+        },
+        "opportunities": [
+          {
+            "rank": 1,
+            "targetTeam": "Ravens Regime",
+            "targetGoal": "Win Championship",
+            "targetAssets": [
+              {
+                "name": "Blake Corum",
+                "assetType": "player",
+                "owner": "Ravens Regime",
+                "position": "RB",
+                "age": 25,
+                "cavi": 60,
+                "davi": 82.5,
+                "publicMarket": 60,
+                "leagueMarket": 82.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Jakobi Meyers",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 30,
+                "cavi": 46.5,
+                "davi": 77.8,
+                "publicMarket": 46.5,
+                "leagueMarket": 77.8
+              },
+              {
+                "name": "2027 Round 3 (SmokyValleyWheatWarriors)",
+                "assetType": "pick",
+                "owner": "Crimson Tide Pods",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 16.5,
+                "publicMarket": 16.5,
+                "leagueMarket": 16.5
+              }
+            ],
+            "scenarioType": "Veteran Surplus for Young RB",
+            "strategicGoal": "Rebuild",
+            "scoring": {
+              "availability": 26,
+              "opposingGmMotivation": 23,
+              "packageMatch": 18,
+              "lineupReplacement": 13,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 89,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Directly targets young running back Blake Corum (age 25) to satisfy personal context, acquiring a high-upside backfield piece for a rebuilding team while shedding a 30-year-old veteran.",
+            "whyOpponentMightAccept": "Ravens Regime (7-3) is pushing for a championship and needs immediate wide receiver scoring depth to cover injuries.",
+            "championshipImpact": "Neutral for Crimson Tide Pods in 2026; strengthens Ravens Regime's title run.",
+            "dynastyImpact": "Injects elite positional youth at running back into the Crimson Tide Pods roster.",
+            "rosterImpact": "Crimson Tide Pods, Week 11: new starters Deion Burks (WR) · -4.79 projected offensive points · unavailable: Blake Corum (bye). Ravens Regime, Week 11: new starters Jakobi Meyers (FLEX) · +4.64 projected offensive points.",
+            "publicMarketContext": "Blake Corum commands strong dynasty value as a high-upside piece in Los Angeles.",
+            "risks": [
+              "Backfield touch distribution may fluctuate depending on health and scheme."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Jakobi Meyers and mid-round capital for Blake Corum.",
+              "acceptableConcession": "Upgrade the draft pick compensation slightly if required.",
+              "walkAwayPoint": "Walk away if premium 1st or 2nd round capital is demanded."
+            },
+            "playoffImpact": [
+              {
+                "team": "Crimson Tide Pods",
+                "risk": "must-win",
+                "week": 11,
+                "opponent": "northside",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 17.41
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 5.84
+                    },
+                    {
+                      "slot": "RB",
+                      "name": null,
+                      "points": null
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jakobi Meyers",
+                      "points": 8.76
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 7.04
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 10.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Gunnar Helm",
+                      "points": 6.03
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Oronde Gadsden",
+                      "points": 4.99
+                    }
+                  ],
+                  "holes": [
+                    "RB"
+                  ],
+                  "points": 60.22
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 17.41
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 5.84
+                    },
+                    {
+                      "slot": "RB",
+                      "name": null,
+                      "points": null
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 7.04
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Deion Burks",
+                      "points": 3.97
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 10.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Gunnar Helm",
+                      "points": 6.03
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Oronde Gadsden",
+                      "points": 4.99
+                    }
+                  ],
+                  "holes": [
+                    "RB"
+                  ],
+                  "points": 55.43
+                },
+                "delta": -4.79,
+                "unavailable": [
+                  "Blake Corum (bye)"
+                ],
+                "losesActiveStarter": true,
+                "getsActiveStarter": false,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Crimson Tide Pods",
+                "risk": "must-win",
+                "week": 12,
+                "opponent": "conquistadors",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 14.48
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 9.14
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jadarian Price",
+                      "points": 6.59
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jakobi Meyers",
+                      "points": 9.92
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.29
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 9.36
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jahan Dotson",
+                      "points": 6.74
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 6.24
+                    }
+                  ],
+                  "holes": [],
+                  "points": 70.76
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 14.48
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Blake Corum",
+                      "points": 10.4
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 9.14
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.29
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jahan Dotson",
+                      "points": 6.74
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 9.36
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jadarian Price",
+                      "points": 6.59
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 6.24
+                    }
+                  ],
+                  "holes": [],
+                  "points": 71.24
+                },
+                "delta": 0.48,
+                "unavailable": [],
+                "losesActiveStarter": true,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Crimson Tide Pods",
+                "risk": "must-win",
+                "week": 13,
+                "opponent": "big-balder",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 10.67
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 8.92
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jadarian Price",
+                      "points": 8.78
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jakobi Meyers",
+                      "points": 9.86
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.57
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 10.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jahan Dotson",
+                      "points": 7.89
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 6.1
+                    }
+                  ],
+                  "holes": [],
+                  "points": 70.97
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 10.67
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Blake Corum",
+                      "points": 9.52
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 8.92
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.57
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jahan Dotson",
+                      "points": 7.89
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 10.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jadarian Price",
+                      "points": 8.78
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 6.1
+                    }
+                  ],
+                  "holes": [],
+                  "points": 70.63
+                },
+                "delta": -0.34,
+                "unavailable": [],
+                "losesActiveStarter": true,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Crimson Tide Pods",
+                "risk": "must-win",
+                "week": 14,
+                "opponent": "northside",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 16.66
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 8.34
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jadarian Price",
+                      "points": 7.99
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jakobi Meyers",
+                      "points": 9.52
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.83
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 9.77
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jahan Dotson",
+                      "points": 7.07
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Gunnar Helm",
+                      "points": 5.65
+                    }
+                  ],
+                  "holes": [],
+                  "points": 73.83
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 16.66
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Blake Corum",
+                      "points": 9.29
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 8.34
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.83
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jahan Dotson",
+                      "points": 7.07
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 9.77
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jadarian Price",
+                      "points": 7.99
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Gunnar Helm",
+                      "points": 5.65
+                    }
+                  ],
+                  "holes": [],
+                  "points": 73.6
+                },
+                "delta": -0.23,
+                "unavailable": [],
+                "losesActiveStarter": true,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Ravens Regime",
+                "risk": "in the race",
+                "week": 11,
+                "opponent": "phalhala",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bryce Young",
+                      "points": 20.17
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Derrick Henry",
+                      "points": 15.29
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Tyjae Spears",
+                      "points": 7.38
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Zay Flowers",
+                      "points": 14.56
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jordyn Tyson",
+                      "points": 11.4
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Travis Kelce",
+                      "points": 12.45
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Ja'Kobi Lane",
+                      "points": 4.92
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Reggie Virgil",
+                      "points": 4.12
+                    }
+                  ],
+                  "holes": [],
+                  "points": 90.29
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bryce Young",
+                      "points": 20.17
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Derrick Henry",
+                      "points": 15.29
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Tyjae Spears",
+                      "points": 7.38
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Zay Flowers",
+                      "points": 14.56
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jordyn Tyson",
+                      "points": 11.4
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Travis Kelce",
+                      "points": 12.45
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jakobi Meyers",
+                      "points": 8.76
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Ja'Kobi Lane",
+                      "points": 4.92
+                    }
+                  ],
+                  "holes": [],
+                  "points": 94.93
+                },
+                "delta": 4.64,
+                "unavailable": [],
+                "losesActiveStarter": false,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Ravens Regime",
+                "risk": "in the race",
+                "week": 12,
+                "opponent": "corgi-loaf",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bryce Young",
+                      "points": 16.75
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Derrick Henry",
+                      "points": 14.39
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Blake Corum",
+                      "points": 10.4
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Zay Flowers",
+                      "points": 15.81
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jordyn Tyson",
+                      "points": 12.08
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Travis Kelce",
+                      "points": 11.75
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Carnell Tate",
+                      "points": 12.02
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "KC Concepcion Jr.",
+                      "points": 11.78
+                    }
+                  ],
+                  "holes": [],
+                  "points": 104.98
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bryce Young",
+                      "points": 16.75
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Derrick Henry",
+                      "points": 14.39
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "David Montgomery",
+                      "points": 9.71
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Zay Flowers",
+                      "points": 15.81
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jordyn Tyson",
+                      "points": 12.08
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Travis Kelce",
+                      "points": 11.75
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Carnell Tate",
+                      "points": 12.02
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "KC Concepcion Jr.",
+                      "points": 11.78
+                    }
+                  ],
+                  "holes": [],
+                  "points": 104.29
+                },
+                "delta": -0.69,
+                "unavailable": [],
+                "losesActiveStarter": true,
+                "getsActiveStarter": false,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Ravens Regime",
+                "risk": "in the race",
+                "week": 13,
+                "opponent": "dakota-danglers",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Cam Ward",
+                      "points": 17.17
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "David Montgomery",
+                      "points": 9.57
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Blake Corum",
+                      "points": 9.52
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Carnell Tate",
+                      "points": 12.97
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "KC Concepcion Jr.",
+                      "points": 11.35
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Travis Kelce",
+                      "points": 11.6
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jordyn Tyson",
+                      "points": 11.3
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Kyle Monangai",
+                      "points": 6.76
+                    }
+                  ],
+                  "holes": [],
+                  "points": 90.24
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Cam Ward",
+                      "points": 17.17
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "David Montgomery",
+                      "points": 9.57
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Kyle Monangai",
+                      "points": 6.76
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Carnell Tate",
+                      "points": 12.97
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "KC Concepcion Jr.",
+                      "points": 11.35
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Travis Kelce",
+                      "points": 11.6
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jordyn Tyson",
+                      "points": 11.3
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jakobi Meyers",
+                      "points": 9.86
+                    }
+                  ],
+                  "holes": [],
+                  "points": 90.58
+                },
+                "delta": 0.34,
+                "unavailable": [],
+                "losesActiveStarter": true,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Ravens Regime",
+                "risk": "in the race",
+                "week": 14,
+                "opponent": "phalhala",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bryce Young",
+                      "points": 21.05
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Derrick Henry",
+                      "points": 12.82
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "David Montgomery",
+                      "points": 10.53
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Zay Flowers",
+                      "points": 15.83
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Carnell Tate",
+                      "points": 13.38
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Travis Kelce",
+                      "points": 12.81
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "KC Concepcion Jr.",
+                      "points": 11.01
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jordyn Tyson",
+                      "points": 10.91
+                    }
+                  ],
+                  "holes": [],
+                  "points": 108.34
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bryce Young",
+                      "points": 21.05
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Derrick Henry",
+                      "points": 12.82
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "David Montgomery",
+                      "points": 10.53
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Zay Flowers",
+                      "points": 15.83
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Carnell Tate",
+                      "points": 13.38
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Travis Kelce",
+                      "points": 12.81
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "KC Concepcion Jr.",
+                      "points": 11.01
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jordyn Tyson",
+                      "points": 10.91
+                    }
+                  ],
+                  "holes": [],
+                  "points": 108.34
+                },
+                "delta": 0,
+                "unavailable": [],
+                "losesActiveStarter": false,
+                "getsActiveStarter": false,
+                "incomingPlayers": 1
+              }
+            ]
+          },
+          {
+            "rank": 2,
+            "targetTeam": "Gringo's Goblins",
+            "targetGoal": "Increase Playoff Odds",
+            "targetAssets": [
+              {
+                "name": "Braelon Allen",
+                "assetType": "player",
+                "owner": "Gringo’s Goblins",
+                "position": "RB",
+                "age": 22,
+                "cavi": 46.1,
+                "davi": 78,
+                "publicMarket": 46.1,
+                "leagueMarket": 78
+              },
+              {
+                "name": "2027 Round 3 (Gringo’s Goblins)",
+                "assetType": "pick",
+                "owner": "Gringo’s Goblins",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 16.5,
+                "publicMarket": 16.5,
+                "leagueMarket": 16.5
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Jakobi Meyers",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 30,
+                "cavi": 46.5,
+                "davi": 77.8,
+                "publicMarket": 46.5,
+                "leagueMarket": 77.8
+              }
+            ],
+            "scenarioType": "Player and Pick Package",
+            "strategicGoal": "Rebuild",
+            "scoring": {
+              "availability": 25,
+              "opposingGmMotivation": 22,
+              "packageMatch": 17,
+              "lineupReplacement": 13,
+              "competitiveWindow": 8
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 85,
+            "classification": "Realistic",
+            "whyUserShouldDoIt": "Acquires 22-year-old running back Braelon Allen, perfectly aligning with the user's focus on young running backs while adding a 2027 3rd-round pick.",
+            "whyOpponentMightAccept": "Gringo's Goblins needs reliable receiver production for their playoff push.",
+            "championshipImpact": "Zero impact on 2026 title aspirations for a rebuilding team.",
+            "dynastyImpact": "Braelon Allen represents elite age-value alignment for a rebuilding squad.",
+            "rosterImpact": "Crimson Tide Pods, Week 11: new starters Braelon Allen (RB), Deion Burks (WR) · +3.80 projected offensive points. Gringo's Goblins, Week 11: new starters Jakobi Meyers (FLEX) · +0.17 projected offensive points.",
+            "publicMarketContext": "Allen is valued as an ascending power back.",
+            "risks": [
+              "Time-share dynamics in the Jets backfield."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Offer Jakobi Meyers for Braelon Allen and the 3rd-round pick.",
+              "acceptableConcession": "Settle for Allen straight up if needed.",
+              "walkAwayPoint": "Walk away if Allen is removed from the deal."
+            },
+            "playoffImpact": [
+              {
+                "team": "Crimson Tide Pods",
+                "risk": "must-win",
+                "week": 11,
+                "opponent": "northside",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 17.41
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 5.84
+                    },
+                    {
+                      "slot": "RB",
+                      "name": null,
+                      "points": null
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jakobi Meyers",
+                      "points": 8.76
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 7.04
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 10.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Gunnar Helm",
+                      "points": 6.03
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Oronde Gadsden",
+                      "points": 4.99
+                    }
+                  ],
+                  "holes": [
+                    "RB"
+                  ],
+                  "points": 60.22
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 17.41
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Braelon Allen",
+                      "points": 8.59
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 5.84
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 7.04
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Deion Burks",
+                      "points": 3.97
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 10.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Gunnar Helm",
+                      "points": 6.03
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Oronde Gadsden",
+                      "points": 4.99
+                    }
+                  ],
+                  "holes": [],
+                  "points": 64.02
+                },
+                "delta": 3.8,
+                "unavailable": [],
+                "losesActiveStarter": true,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Crimson Tide Pods",
+                "risk": "must-win",
+                "week": 12,
+                "opponent": "conquistadors",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 14.48
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 9.14
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jadarian Price",
+                      "points": 6.59
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jakobi Meyers",
+                      "points": 9.92
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.29
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 9.36
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jahan Dotson",
+                      "points": 6.74
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 6.24
+                    }
+                  ],
+                  "holes": [],
+                  "points": 70.76
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 14.48
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 9.14
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Braelon Allen",
+                      "points": 8.76
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.29
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jahan Dotson",
+                      "points": 6.74
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 9.36
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jadarian Price",
+                      "points": 6.59
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 6.24
+                    }
+                  ],
+                  "holes": [],
+                  "points": 69.6
+                },
+                "delta": -1.16,
+                "unavailable": [],
+                "losesActiveStarter": true,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Crimson Tide Pods",
+                "risk": "must-win",
+                "week": 13,
+                "opponent": "big-balder",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 10.67
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 8.92
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jadarian Price",
+                      "points": 8.78
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jakobi Meyers",
+                      "points": 9.86
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.57
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 10.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jahan Dotson",
+                      "points": 7.89
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 6.1
+                    }
+                  ],
+                  "holes": [],
+                  "points": 70.97
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 10.67
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 8.92
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jadarian Price",
+                      "points": 8.78
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.57
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jahan Dotson",
+                      "points": 7.89
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 10.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 6.1
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Gunnar Helm",
+                      "points": 5.72
+                    }
+                  ],
+                  "holes": [],
+                  "points": 66.83
+                },
+                "delta": -4.14,
+                "unavailable": [
+                  "Braelon Allen (bye)"
+                ],
+                "losesActiveStarter": true,
+                "getsActiveStarter": false,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Crimson Tide Pods",
+                "risk": "must-win",
+                "week": 14,
+                "opponent": "northside",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 16.66
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 8.34
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jadarian Price",
+                      "points": 7.99
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jakobi Meyers",
+                      "points": 9.52
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.83
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 9.77
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jahan Dotson",
+                      "points": 7.07
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Gunnar Helm",
+                      "points": 5.65
+                    }
+                  ],
+                  "holes": [],
+                  "points": 73.83
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 16.66
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 8.34
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jadarian Price",
+                      "points": 7.99
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.83
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jahan Dotson",
+                      "points": 7.07
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 9.77
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Braelon Allen",
+                      "points": 7.96
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Gunnar Helm",
+                      "points": 5.65
+                    }
+                  ],
+                  "holes": [],
+                  "points": 72.27
+                },
+                "delta": -1.56,
+                "unavailable": [],
+                "losesActiveStarter": true,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Gringo's Goblins",
+                "risk": "bubble",
+                "week": 11,
+                "opponent": "dmv",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bo Nix",
+                      "points": 19.13
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Aaron Jones Sr.",
+                      "points": 8.69
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Braelon Allen",
+                      "points": 8.59
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jameson Williams",
+                      "points": 12.01
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Emeka Egbuka",
+                      "points": 10.23
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Juwan Johnson",
+                      "points": 8.74
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Samaje Perine",
+                      "points": 7.26
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Alvin Kamara",
+                      "points": 6.18
+                    }
+                  ],
+                  "holes": [],
+                  "points": 80.83
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bo Nix",
+                      "points": 19.13
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Aaron Jones Sr.",
+                      "points": 8.69
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Samaje Perine",
+                      "points": 7.26
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jameson Williams",
+                      "points": 12.01
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Emeka Egbuka",
+                      "points": 10.23
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Juwan Johnson",
+                      "points": 8.74
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jakobi Meyers",
+                      "points": 8.76
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Alvin Kamara",
+                      "points": 6.18
+                    }
+                  ],
+                  "holes": [],
+                  "points": 81
+                },
+                "delta": 0.17,
+                "unavailable": [],
+                "losesActiveStarter": true,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Gringo's Goblins",
+                "risk": "bubble",
+                "week": 12,
+                "opponent": "mile-high",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Geno Smith",
+                      "points": 19.81
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Kyren Williams",
+                      "points": 15.58
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Aaron Jones Sr.",
+                      "points": 10.13
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Christian Watson",
+                      "points": 15.83
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jameson Williams",
+                      "points": 13.22
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Juwan Johnson",
+                      "points": 9.47
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Emeka Egbuka",
+                      "points": 9.72
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Braelon Allen",
+                      "points": 8.76
+                    }
+                  ],
+                  "holes": [],
+                  "points": 102.52
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Geno Smith",
+                      "points": 19.81
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Kyren Williams",
+                      "points": 15.58
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Aaron Jones Sr.",
+                      "points": 10.13
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Christian Watson",
+                      "points": 15.83
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jameson Williams",
+                      "points": 13.22
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Juwan Johnson",
+                      "points": 9.47
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jakobi Meyers",
+                      "points": 9.92
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Emeka Egbuka",
+                      "points": 9.72
+                    }
+                  ],
+                  "holes": [],
+                  "points": 103.68
+                },
+                "delta": 1.16,
+                "unavailable": [],
+                "losesActiveStarter": true,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Gringo's Goblins",
+                "risk": "bubble",
+                "week": 13,
+                "opponent": "king-jesus",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bo Nix",
+                      "points": 21.1
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Kyren Williams",
+                      "points": 14.41
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Aaron Jones Sr.",
+                      "points": 10.49
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Christian Watson",
+                      "points": 17.2
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jameson Williams",
+                      "points": 12.57
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Juwan Johnson",
+                      "points": 8.98
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Emeka Egbuka",
+                      "points": 11.01
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jake Ferguson",
+                      "points": 8.09
+                    }
+                  ],
+                  "holes": [],
+                  "points": 103.85
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bo Nix",
+                      "points": 21.1
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Kyren Williams",
+                      "points": 14.41
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Aaron Jones Sr.",
+                      "points": 10.49
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Christian Watson",
+                      "points": 17.2
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jameson Williams",
+                      "points": 12.57
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Juwan Johnson",
+                      "points": 8.98
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Emeka Egbuka",
+                      "points": 11.01
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jakobi Meyers",
+                      "points": 9.86
+                    }
+                  ],
+                  "holes": [],
+                  "points": 105.62
+                },
+                "delta": 1.77,
+                "unavailable": [],
+                "losesActiveStarter": false,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Gringo's Goblins",
+                "risk": "bubble",
+                "week": 14,
+                "opponent": "dmv",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bo Nix",
+                      "points": 20.31
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Kyren Williams",
+                      "points": 14.27
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Aaron Jones Sr.",
+                      "points": 9.99
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Christian Watson",
+                      "points": 15.91
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jameson Williams",
+                      "points": 13.42
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Juwan Johnson",
+                      "points": 8.67
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Emeka Egbuka",
+                      "points": 10.47
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Braelon Allen",
+                      "points": 7.96
+                    }
+                  ],
+                  "holes": [],
+                  "points": 101
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Bo Nix",
+                      "points": 20.31
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Kyren Williams",
+                      "points": 14.27
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Aaron Jones Sr.",
+                      "points": 9.99
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Christian Watson",
+                      "points": 15.91
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jameson Williams",
+                      "points": 13.42
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Juwan Johnson",
+                      "points": 8.67
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Emeka Egbuka",
+                      "points": 10.47
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jakobi Meyers",
+                      "points": 9.52
+                    }
+                  ],
+                  "holes": [],
+                  "points": 102.56
+                },
+                "delta": 1.56,
+                "unavailable": [],
+                "losesActiveStarter": true,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              }
+            ]
+          },
+          {
+            "rank": 3,
+            "targetTeam": "Northside Kings",
+            "targetGoal": "Increase Playoff Odds",
+            "targetAssets": [
+              {
+                "name": "2027 Round 1 (Conquistadors)",
+                "assetType": "pick",
+                "owner": "Northside Kings",
+                "position": null,
+                "age": null,
+                "cavi": null,
+                "davi": 79.3,
+                "publicMarket": 79.3,
+                "leagueMarket": 79.3
+              }
+            ],
+            "sendAssets": [
+              {
+                "name": "Jakobi Meyers",
+                "assetType": "player",
+                "owner": "Crimson Tide Pods",
+                "position": "WR",
+                "age": 30,
+                "cavi": 46.5,
+                "davi": 77.8,
+                "publicMarket": 46.5,
+                "leagueMarket": 77.8
+              }
+            ],
+            "scenarioType": "Veteran for Premium Draft Capital",
+            "strategicGoal": "Rebuild",
+            "scoring": {
+              "availability": 28,
+              "opposingGmMotivation": 24,
+              "packageMatch": 18,
+              "lineupReplacement": 14,
+              "competitiveWindow": 9
+            },
+            "validations": {
+              "managerMotivationPassed": true,
+              "packageMatchPassed": true,
+              "lineupReplacementPassed": true,
+              "competitiveWindowPassed": true
+            },
+            "acceptanceProbability": 93,
+            "classification": "Highly Realistic",
+            "whyUserShouldDoIt": "Converts veteran production into a premium 2027 1st-round pick, giving Crimson Tide Pods maximum ammunition to draft elite young running backs or use capital in subsequent packages.",
+            "whyOpponentMightAccept": "Northside Kings needs immediate starting receiver production for a playoff push.",
+            "championshipImpact": "None for a rebuilding team.",
+            "dynastyImpact": "Adds another premium 1st-round asset to the stockpile.",
+            "rosterImpact": "Crimson Tide Pods, Week 11: new starters Deion Burks (WR) · -4.79 projected offensive points. Northside Kings, Week 11: new starters Jakobi Meyers (FLEX) · +8.76 projected offensive points.",
+            "publicMarketContext": "Meyers remains a high-demand target for contenders.",
+            "risks": [
+              "Contender pick volatility."
+            ],
+            "negotiationPlan": {
+              "openingApproach": "Straight swap of Meyers for the 2027 1st.",
+              "acceptableConcession": "Add late-round pick filler.",
+              "walkAwayPoint": "Walk away if core youth like Brian Thomas Jr. is requested."
+            },
+            "playoffImpact": [
+              {
+                "team": "Crimson Tide Pods",
+                "risk": "must-win",
+                "week": 11,
+                "opponent": "northside",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 17.41
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 5.84
+                    },
+                    {
+                      "slot": "RB",
+                      "name": null,
+                      "points": null
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jakobi Meyers",
+                      "points": 8.76
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 7.04
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 10.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Gunnar Helm",
+                      "points": 6.03
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Oronde Gadsden",
+                      "points": 4.99
+                    }
+                  ],
+                  "holes": [
+                    "RB"
+                  ],
+                  "points": 60.22
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 17.41
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 5.84
+                    },
+                    {
+                      "slot": "RB",
+                      "name": null,
+                      "points": null
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 7.04
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Deion Burks",
+                      "points": 3.97
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 10.15
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Gunnar Helm",
+                      "points": 6.03
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Oronde Gadsden",
+                      "points": 4.99
+                    }
+                  ],
+                  "holes": [
+                    "RB"
+                  ],
+                  "points": 55.43
+                },
+                "delta": -4.79,
+                "unavailable": [],
+                "losesActiveStarter": true,
+                "getsActiveStarter": false,
+                "incomingPlayers": 0
+              },
+              {
+                "team": "Crimson Tide Pods",
+                "risk": "must-win",
+                "week": 12,
+                "opponent": "conquistadors",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 14.48
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 9.14
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jadarian Price",
+                      "points": 6.59
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jakobi Meyers",
+                      "points": 9.92
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.29
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 9.36
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jahan Dotson",
+                      "points": 6.74
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 6.24
+                    }
+                  ],
+                  "holes": [],
+                  "points": 70.76
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 14.48
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 9.14
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jadarian Price",
+                      "points": 6.59
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.29
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jahan Dotson",
+                      "points": 6.74
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 9.36
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 6.24
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Gunnar Helm",
+                      "points": 5.26
+                    }
+                  ],
+                  "holes": [],
+                  "points": 66.1
+                },
+                "delta": -4.66,
+                "unavailable": [],
+                "losesActiveStarter": true,
+                "getsActiveStarter": false,
+                "incomingPlayers": 0
+              },
+              {
+                "team": "Crimson Tide Pods",
+                "risk": "must-win",
+                "week": 13,
+                "opponent": "big-balder",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 10.67
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 8.92
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jadarian Price",
+                      "points": 8.78
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jakobi Meyers",
+                      "points": 9.86
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.57
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 10.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jahan Dotson",
+                      "points": 7.89
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 6.1
+                    }
+                  ],
+                  "holes": [],
+                  "points": 70.97
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 10.67
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 8.92
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jadarian Price",
+                      "points": 8.78
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.57
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jahan Dotson",
+                      "points": 7.89
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 10.18
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Chris Rodriguez Jr.",
+                      "points": 6.1
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Gunnar Helm",
+                      "points": 5.72
+                    }
+                  ],
+                  "holes": [],
+                  "points": 66.83
+                },
+                "delta": -4.14,
+                "unavailable": [],
+                "losesActiveStarter": true,
+                "getsActiveStarter": false,
+                "incomingPlayers": 0
+              },
+              {
+                "team": "Crimson Tide Pods",
+                "risk": "must-win",
+                "week": 14,
+                "opponent": "northside",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 16.66
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 8.34
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jadarian Price",
+                      "points": 7.99
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jakobi Meyers",
+                      "points": 9.52
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.83
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 9.77
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jahan Dotson",
+                      "points": 7.07
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Gunnar Helm",
+                      "points": 5.65
+                    }
+                  ],
+                  "holes": [],
+                  "points": 73.83
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Justin Herbert",
+                      "points": 16.66
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Dylan Sampson",
+                      "points": 8.34
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Jadarian Price",
+                      "points": 7.99
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Germie Bernard",
+                      "points": 8.83
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jahan Dotson",
+                      "points": 7.07
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Dalton Kincaid",
+                      "points": 9.77
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Gunnar Helm",
+                      "points": 5.65
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Oronde Gadsden",
+                      "points": 5.21
+                    }
+                  ],
+                  "holes": [],
+                  "points": 69.52
+                },
+                "delta": -4.31,
+                "unavailable": [],
+                "losesActiveStarter": true,
+                "getsActiveStarter": false,
+                "incomingPlayers": 0
+              },
+              {
+                "team": "Northside Kings",
+                "risk": "bubble",
+                "week": 11,
+                "opponent": "crimson-tide",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": null,
+                      "points": null
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Emari Demercado",
+                      "points": 7.44
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Kenny Gainwell",
+                      "points": 6.56
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Khalil Shakir",
+                      "points": 10.43
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Washington",
+                      "points": 9.16
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Kenyon Sadiq",
+                      "points": 5.49
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Xavier Worthy",
+                      "points": 6.52
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": null,
+                      "points": null
+                    }
+                  ],
+                  "holes": [
+                    "QB",
+                    "FLEX"
+                  ],
+                  "points": 45.6
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": null,
+                      "points": null
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Emari Demercado",
+                      "points": 7.44
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Kenny Gainwell",
+                      "points": 6.56
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Khalil Shakir",
+                      "points": 10.43
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Washington",
+                      "points": 9.16
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "Kenyon Sadiq",
+                      "points": 5.49
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jakobi Meyers",
+                      "points": 8.76
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Xavier Worthy",
+                      "points": 6.52
+                    }
+                  ],
+                  "holes": [
+                    "QB"
+                  ],
+                  "points": 54.36
+                },
+                "delta": 8.76,
+                "unavailable": [],
+                "losesActiveStarter": false,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Northside Kings",
+                "risk": "bubble",
+                "week": 12,
+                "opponent": "big-balder",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jordan Love",
+                      "points": 17.88
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Kenny Gainwell",
+                      "points": 5.89
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "MarShawn Lloyd",
+                      "points": 3.51
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Washington",
+                      "points": 10.7
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Khalil Shakir",
+                      "points": 9.48
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "T.J. Hockenson",
+                      "points": 10.91
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Kenyon Sadiq",
+                      "points": 6.26
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashid Shaheed",
+                      "points": 6.16
+                    }
+                  ],
+                  "holes": [],
+                  "points": 70.79
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jordan Love",
+                      "points": 17.88
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Kenny Gainwell",
+                      "points": 5.89
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "MarShawn Lloyd",
+                      "points": 3.51
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Washington",
+                      "points": 10.7
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jakobi Meyers",
+                      "points": 9.92
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "T.J. Hockenson",
+                      "points": 10.91
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Khalil Shakir",
+                      "points": 9.48
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Kenyon Sadiq",
+                      "points": 6.26
+                    }
+                  ],
+                  "holes": [],
+                  "points": 74.55
+                },
+                "delta": 3.76,
+                "unavailable": [],
+                "losesActiveStarter": false,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Northside Kings",
+                "risk": "bubble",
+                "week": 13,
+                "opponent": "conquistadors",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jordan Love",
+                      "points": 22.78
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Kenny Gainwell",
+                      "points": 6.03
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "MarShawn Lloyd",
+                      "points": 3.32
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Khalil Shakir",
+                      "points": 10.42
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Washington",
+                      "points": 9.83
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "T.J. Hockenson",
+                      "points": 10.44
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jordan Addison",
+                      "points": 9
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Rashid Shaheed",
+                      "points": 6.98
+                    }
+                  ],
+                  "holes": [],
+                  "points": 78.8
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jordan Love",
+                      "points": 22.78
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Kenny Gainwell",
+                      "points": 6.03
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "MarShawn Lloyd",
+                      "points": 3.32
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Khalil Shakir",
+                      "points": 10.42
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jakobi Meyers",
+                      "points": 9.86
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "T.J. Hockenson",
+                      "points": 10.44
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Malik Washington",
+                      "points": 9.83
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jordan Addison",
+                      "points": 9
+                    }
+                  ],
+                  "holes": [],
+                  "points": 81.68
+                },
+                "delta": 2.88,
+                "unavailable": [],
+                "losesActiveStarter": false,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              },
+              {
+                "team": "Northside Kings",
+                "risk": "bubble",
+                "week": 14,
+                "opponent": "crimson-tide",
+                "before": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jordan Love",
+                      "points": 20.78
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Kenny Gainwell",
+                      "points": 5.32
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "MarShawn Lloyd",
+                      "points": 2.97
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Washington",
+                      "points": 11.27
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jordan Addison",
+                      "points": 9.94
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "T.J. Hockenson",
+                      "points": 11.43
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Khalil Shakir",
+                      "points": 9.89
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Xavier Worthy",
+                      "points": 6.65
+                    }
+                  ],
+                  "holes": [],
+                  "points": 78.25
+                },
+                "after": {
+                  "starters": [
+                    {
+                      "slot": "QB",
+                      "name": "Jordan Love",
+                      "points": 20.78
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "Kenny Gainwell",
+                      "points": 5.32
+                    },
+                    {
+                      "slot": "RB",
+                      "name": "MarShawn Lloyd",
+                      "points": 2.97
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Malik Washington",
+                      "points": 11.27
+                    },
+                    {
+                      "slot": "WR",
+                      "name": "Jordan Addison",
+                      "points": 9.94
+                    },
+                    {
+                      "slot": "TE",
+                      "name": "T.J. Hockenson",
+                      "points": 11.43
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Khalil Shakir",
+                      "points": 9.89
+                    },
+                    {
+                      "slot": "FLEX",
+                      "name": "Jakobi Meyers",
+                      "points": 9.52
+                    }
+                  ],
+                  "holes": [],
+                  "points": 81.12
+                },
+                "delta": 2.87,
+                "unavailable": [],
+                "losesActiveStarter": false,
+                "getsActiveStarter": true,
+                "incomingPlayers": 1
+              }
+            ]
+          }
+        ],
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": true,
+          "applied": true,
+          "summary": "The user emphasized a preference for 'Young running backs'. This personal context directly shaped the target prioritization, elevating young assets like Blake Corum and Braelon Allen into the primary recommendations alongside high-value draft capital."
+        },
+        "organizationGoals": [
+          {
+            "team": "Crimson Tide Pods",
+            "goal": "Rebuild",
+            "source": "playoff picture",
+            "reason": "Deep outside the bracket. Needs 4 of 4 remaining wins just to match today’s provisional wildcard record.",
+            "status": "Rebuilder"
+          },
+          {
+            "team": "Northside Kings",
+            "goal": "Increase Playoff Odds",
+            "source": "playoff picture",
+            "reason": "Verified bubble or must-win playoff race.",
+            "status": "Retooling"
+          },
+          {
+            "team": "Ravens Regime",
+            "goal": "Win Championship",
+            "source": "playoff picture",
+            "reason": "Currently in the top six of the verified eight-team bracket.",
+            "status": "Retooling"
+          },
+          {
+            "team": "Gringo's Goblins",
+            "goal": "Increase Playoff Odds",
+            "source": "playoff picture",
+            "reason": "Verified bubble or must-win playoff race.",
+            "status": "Playoff Push"
+          }
+        ]
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "discoveryModel": "gemini-3.5-flash-lite",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Fernando Mendoza quarterback football",
+          "Fernando Mendoza NFL draft 2026 2027"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz8V4eNxBuCob9qDTN9mOHgsRfM-K1ANw_pTlK26h7diF0BxUrSBWnjjAeGWBB30aG7uPFxcQWS1PSBhyX1P1vp_HHZO9PA1wBCr1fSKhcG_VlfgCoUZpFpGEkkw3qlfNCIkHQa9BjYdJeOovwC-54kZjZLOJBGOKCJ4jO-yrf6b-Tdois",
+            "title": "raiders.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjf86oFGJqAEmvBQbCOc5pkn5EKFVqZoF37JCbB42NCSpApXGDvT7X8_7nHUwfGD6wnliw42_sYRXdR9kL1aAALWgazeLQbFUStEWlpn-AtwCh83NjIphGiIwW15TrF-HhetpnjuoICACSr6JJgn-kt3lCtHEKEEM-FGkQ59fVKymTaQ79bmjHbhpB1O1hNiX8XeUJEDtxHLE1FCLDqoqhLctaETEYe3g=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcrVMAd6C3nuzM4ac0t6LIxqK2ZCx0Rrbv2p2UEIODghenR5heBeVyXBski7vVJBm9mIrJ9k2Byh_7yKajQ0hMuZy-sqC1opzj0V7GIdhzsRAxqHkfySzDMFEp78rKhjlDAsMWWz1rTa6GJ1sTU1Ul8O3NBCuWbZuTKpBH",
+            "title": "foxsports.com"
+          }
+        ],
+        "groundingError": null,
+        "researchedPlayers": [
+          "Jordan Love",
+          "Jakobi Meyers",
+          "Lamar Jackson",
+          "Fernando Mendoza",
+          "Kyle Pitts Sr.",
+          "De'Von Achane",
+          "Romeo Doubs",
+          "Chris Rodriguez Jr.",
+          "Marvin Harrison Jr.",
+          "Brian Thomas Jr.",
+          "Baker Mayfield",
+          "Trevor Lawrence",
+          "Ryan Flournoy",
+          "Tucker Kraft",
+          "Colby Parkinson",
+          "Deshaun Watson",
+          "Tre Tucker",
+          "Tank Bigsby"
+        ],
+        "aviCoreCommitSha": "1f4917277771cf534db27f4793efe924c0859ba3",
+        "aviCoreCommittedAt": "2026-11-17T16:58:55Z",
+        "sourcesUsed": [
+          "derived/late-season-playoff-push",
+          "derived/keeper-contracts",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/trade_block.json",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/teams/01_Conquistadors.md",
+          "knowledge/teams/02_Rapid_Valley_Annihilation.md",
+          "knowledge/teams/03_Ravens_Regime.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/teams/05_Northside_Kings.md",
+          "knowledge/teams/06_Lightskin_Legends.md",
+          "knowledge/teams/07_Badland_Banditos.md",
+          "knowledge/teams/08_All_Hail_King_Jesus.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/teams/10_SmokyValleyWheatWarriors.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/13_Southside_Savages.md",
+          "knowledge/teams/14_Phalhala_or_Bust.md",
+          "knowledge/teams/15_Gringo_s_Goblins.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md"
+        ],
+        "contextChars": 708601,
+        "personalContextProvided": true,
+        "starterCalibration": {
+          "method": "league-relative",
+          "leagueFormat": "16-team · 1QB · 2RB · 2WR · 1TE · 2FLEX",
+          "playerPoolSize": 253,
+          "starterCaliberPoolSize": 128
+        },
+        "refinementModel": "gemini-3.5-flash-lite",
+        "finalAnalysisMethod": "supplemental-personal-context",
+        "reusedInitialAnalysis": true,
+        "initialJobId": "mwl301xa-b61e8830",
+        "verifiedCandidateContext": true,
+        "refinementDataVersion": "1f4917277771cf534db27f4793efe924c0859ba3"
+      }
+    }
   },
   {
     "id": "mwl301xa-b61e8830",
