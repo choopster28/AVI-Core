@@ -1,5 +1,379 @@
 [
   {
+    "id": "mwkxz82e-67580a47",
+    "createdAt": 1794935088635,
+    "expiresAt": 1795367088635,
+    "mode": "analyze_trade",
+    "title": "Initial Trade Analysis · Crimson Tide Pods ↔ Mile High Royal Lions",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Crimson Tide Pods",
+      "perspectiveMode": "franchise",
+      "goal": "",
+      "targetTeam": "Mile High Royal Lions",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Aaron Rodgers",
+            "assetType": "player"
+          },
+          {
+            "name": "2027 4th · Crimson Tide · Projected Early · original owner Crimson Tide Pods",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "2028 2nd · Mile High · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "response": {
+      "ok": true,
+      "mode": "analyze_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "This transaction represents a classic, highly aligned win-win deal between a rebuilding roster and a 7-3 championship contender. Crimson Tide Pods (1-9, Rebuild) sends 42-year-old quarterback Aaron Rodgers—who has announced his retirement at the end of the 2026 season—and a low-value 2027 4th-round pick to Mile High Royal Lions (7-3, Win Championship) in exchange for a 2028 2nd-round draft pick (D-AVI 48.5). For Crimson Tide Pods, this extracts maximum long-term value from an expiring asset with zero post-2026 dynasty value. For Mile High Royal Lions, this solves an emergency zero-point QB starting hole in Week 11 caused by Matthew Stafford and Michael Penix Jr. being on bye while Jalen Hurts is on IR. The trade strongly advances both franchises' verified strategic goals.",
+        "trade": {
+          "sideA": [
+            {
+              "name": "Aaron Rodgers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "QB",
+              "age": 42,
+              "cavi": 31.7,
+              "davi": 62,
+              "publicMarket": 60,
+              "leagueMarket": 62
+            },
+            {
+              "name": "2027 4th · Crimson Tide · Projected Early · original owner Crimson Tide Pods",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 5,
+              "leagueMarket": 0
+            }
+          ],
+          "sideB": [
+            {
+              "name": "2028 2nd · Mile High · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ]
+        },
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Crimson Tide Pods captures excellent rebuild value by flipping a retiring 42-year-old veteran QB into a 2028 2nd-round pick (D-AVI 48.5). Mile High Royal Lions pays a fair price to solve an active Week 11 starting QB emergency for its playoff push."
+          },
+          "recommended": {
+            "userGrade": "A",
+            "otherGrade": "A-",
+            "userShare": 55,
+            "otherShare": 45,
+            "advantageFranchise": "Crimson Tide Pods",
+            "summary": "Crimson Tide Pods captures excellent rebuild value by flipping a retiring 42-year-old veteran QB into a 2028 2nd-round pick (D-AVI 48.5). Mile High Royal Lions pays a fair price to solve an active Week 11 starting QB emergency for its playoff push."
+          }
+        },
+        "visualImpact": {
+          "sideA": {
+            "championshipOutlook": {
+              "score": -10,
+              "summary": "Negligible impact on 2026 points for a non-contending 1-9 roster."
+            },
+            "dynastyOutlook": {
+              "score": 70,
+              "summary": "Converts an expiring asset with 0 post-2026 dynasty utility into a 2028 2nd-round pick (D-AVI 48.5)."
+            },
+            "lineupQuality": {
+              "score": -15,
+              "summary": "Justin Herbert remains the primary long-term QB1; Rodgers was only temporary depth."
+            },
+            "depthResilience": {
+              "score": -5,
+              "summary": "Slightly thins short-term QB depth for the remainder of 2026."
+            },
+            "flexibilityLiquidity": {
+              "score": 65,
+              "summary": "Adds valuable future draft capital that can be used in rookie drafts or subsequent trades."
+            },
+            "overall": {
+              "score": 10,
+              "summary": "Crimson Tide Pods captures excellent rebuild value by flipping a retiring 42-year-old veteran QB into a 2028 2nd-round pick (D-AVI 48.5). Mile High Royal Lions pays a fair price to solve an active Week 11 starting QB emergency for its playoff push."
+            }
+          },
+          "sideB": {
+            "championshipOutlook": {
+              "score": 65,
+              "summary": "Eliminates an active zero-point QB hole in Week 11 while Stafford and Penix are on bye and Hurts is injured."
+            },
+            "dynastyOutlook": {
+              "score": -20,
+              "summary": "Surrenders a 2028 2nd-round pick for short-term 2026 starting coverage."
+            },
+            "lineupQuality": {
+              "score": 40,
+              "summary": "Provides an immediate Week 11 starter with 20.05 projected points."
+            },
+            "depthResilience": {
+              "score": 35,
+              "summary": "Insures against late-season QB injuries or bye conflicts during the title push."
+            },
+            "flexibilityLiquidity": {
+              "score": -15,
+              "summary": "Commits future 2nd-round capital to secure immediate weekly points."
+            },
+            "overall": {
+              "score": -10,
+              "summary": "Crimson Tide Pods captures excellent rebuild value by flipping a retiring 42-year-old veteran QB into a 2028 2nd-round pick (D-AVI 48.5). Mile High Royal Lions pays a fair price to solve an active Week 11 starting QB emergency for its playoff push."
+            }
+          },
+          "explanation": "The visual metrics illustrate clear strategic alignment: Crimson Tide Pods gains long-term dynasty value and capital liquidity without harming its timeline, while Mile High Royal Lions boosts its immediate 2026 championship outlook to survive a Week 11 QB hole."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Losing Aaron Rodgers reduces short-term bench points, but because Crimson Tide Pods is 1-9 and out of the playoff race, 2026 championship points carry zero strategic value.",
+          "sideADynastyImpact": "Gaining the 2028 2nd (D-AVI 48.5) for Rodgers (retiring after 2026) is a significant long-term dynasty win, converting a expiring asset into lasting rookie capital.",
+          "sideARosterImpact": "Justin Herbert remains the cornerstone QB1. Surrendering Rodgers clears roster clutter while adding draft assets to fuel the teardown.",
+          "sideBChampionshipImpact": "Mile High Royal Lions is 7-3 (2nd seed) but faces a zero-point QB hole in Week 11 due to Stafford and Penix byes alongside Hurts' IR status. Rodgers provides 20.05 projected points immediately.",
+          "sideBDynastyImpact": "Parting with a 2028 2nd is a minor long-term cost, but fully justified for a contender protecting a top seed and playoff position.",
+          "sideBRosterImpact": "Plugs the Week 11 QB hole without forcing Mile High to trade any active positional starters from its core lineup.",
+          "valueAssessment": "Pure market value strongly favors the rebuilder receiving a 2nd-round pick for a 42-year-old retiring QB. However, contextual lineup urgency makes the transaction balanced and mutually beneficial."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus views Aaron Rodgers as an expiring rental asset given his confirmed 2026 retirement. A 2nd-round pick is considered premium return for a retiring single-QB veteran.",
+          "aviVsMarket": "AVI aligns with market consensus: Rodgers holds moderate short-term C-AVI (31.7) for contenders needing starts, but his post-2026 D-AVI is approaching zero. Converting him to a future 2nd is optimal market execution.",
+          "relevantContext": [
+            "Aaron Rodgers has explicitly confirmed 2026 is his final NFL season before retirement.",
+            "Mile High Royal Lions has no active, non-bye QB eligible to start in Week 11 without a trade.",
+            "Crimson Tide Pods is mathematically eliminated from realistic contention at 1-9."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Mile High Royal Lions is 7-3 and pushing for the #2 seed, but has a complete zero-point starter hole at QB in Week 11 due to Matthew Stafford (bye), Michael Penix Jr. (bye), and Jalen Hurts (IR). Acquiring Rodgers fills this emergency hole immediately.",
+          "packageFit": "Rodgers plus a late 4th for a future 2nd matches the classic contender-rebuilder trade template perfectly.",
+          "lineupReplacement": "Mile High surrenders zero active lineup starters, trading future draft capital to gain an immediate Week 11 starter.",
+          "competitiveWindowFit": "Fits both competitive windows: Mile High maximises 2026 title odds while Crimson Tide Pods accumulates draft capital for its rebuild.",
+          "positionalScarcity": "Starting QBs in 16-team formats carry severe scarcity, especially during heavy bye weeks."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 30,
+            "opposingGmMotivation": 25,
+            "packageMatch": 18,
+            "lineupReplacement": 15,
+            "competitiveWindow": 10
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": true,
+            "packageMatchPassed": true,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": true
+          },
+          "acceptanceProbability": 98,
+          "classification": "Highly Realistic",
+          "explanation": "The trade partner has an urgent, verified Week 11 starting QB hole while contending for a playoff bye. The cost of a 2028 2nd is modest and reasonable for a 7-3 title contender."
+        },
+        "verdict": {
+          "decision": "Accept",
+          "rationale": "As a rebuilding 1-9 team, trading a 42-year-old quarterback who will retire after this season for a 2028 2nd-round pick is an ideal execution of rebuild strategy. Your trade partner has a desperate Week 11 QB hole, making acceptance virtually guaranteed.",
+          "confidence": "High"
+        },
+        "recommendedOffer": {
+          "send": [
+            {
+              "name": "Aaron Rodgers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "QB",
+              "age": 42,
+              "cavi": 31.7,
+              "davi": 62,
+              "publicMarket": 60,
+              "leagueMarket": 62
+            },
+            {
+              "name": "2027 4th · Crimson Tide · Projected Early · original owner Crimson Tide Pods",
+              "assetType": "pick",
+              "owner": "Crimson Tide Pods",
+              "position": null,
+              "age": null,
+              "cavi": 0,
+              "davi": 0,
+              "publicMarket": 5,
+              "leagueMarket": 0
+            }
+          ],
+          "receive": [
+            {
+              "name": "2028 2nd · Mile High · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "whyUserShouldDoIt": "Secures a valuable 2028 2nd-round pick for a 42-year-old quarterback who carries zero long-term dynasty value due to his upcoming retirement.",
+          "whyOpponentMightAccept": "Plugs a severe Week 11 zero-point QB hole created by Stafford and Penix byes, allowing a 7-3 contender to stay on track for a top playoff seed."
+        },
+        "alternateOffer": {
+          "send": [
+            {
+              "name": "Aaron Rodgers",
+              "assetType": "player",
+              "owner": "Crimson Tide Pods",
+              "position": "QB",
+              "age": 42,
+              "cavi": 31.7,
+              "davi": 62,
+              "publicMarket": 60,
+              "leagueMarket": 62
+            }
+          ],
+          "receive": [
+            {
+              "name": "2028 2nd · Mile High · Unslotted future pick · standardized round value",
+              "assetType": "pick",
+              "owner": "Mile High Royal Lions",
+              "position": null,
+              "age": null,
+              "cavi": 48.5,
+              "davi": 48.5,
+              "publicMarket": 50,
+              "leagueMarket": 48.5
+            }
+          ],
+          "rationale": "If Mile High objects to receiving the 2027 4th, removing the pick swap and offering Rodgers 1-for-1 for the 2028 2nd still achieves the primary rebuild objective."
+        },
+        "noDealExplanation": null,
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": [],
+        "organizationGoals": [
+          {
+            "team": "Crimson Tide Pods",
+            "goal": "Rebuild",
+            "source": "playoff picture",
+            "reason": "Deep outside the bracket. Needs 4 of 4 remaining wins just to match today’s provisional wildcard record.",
+            "status": "Rebuilder"
+          },
+          {
+            "team": "Mile High Royal Lions",
+            "goal": "Win Championship",
+            "source": "playoff picture",
+            "reason": "Currently in the top six of the verified eight-team bracket.",
+            "status": "Playoff Push"
+          }
+        ]
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Aaron Rodgers NFL team 2026",
+          "Aaron Rodgers news 2026",
+          "Aaron Rodgers retirement status 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBSDsBTQPX4_XixxvbSNvYwoZ6lbRjUjQNQzHOQbJNz7gyN3gAv8nONYcK19_yB-oWYLZr5JYjhHldrAq-dm5-AzTDduki0ztd-iyQuel49TN_0itgydNZ3H_EoEGMXTQ=",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIP4W_kt3XKVO5KJA78kHycgxS8sBsbh6n7LhU8nWzl_RCj_K8J5OXIiesmcgzIrW0TiCMiEwNiTrLReq8abhD-19s2J8_CCWpZbdf8b_IEG6EIOSuhTSvuELLQzCfehAtzo-QYBB9K8MyjZbilbsA5JwTYA0fYAJqYolHkbXdwfmNBzfiNfMnbSX__A9FWeiTiGfBGcQQVcGuIXZt_K6Yp6KUaCL25rCU5pHiSg==",
+            "title": "latimes.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFRDJdD7Ttbg_GU2MwG5Pfxp45GfKIiszNSlXGP5YK7VbYyCRT2x5QMALz6z9fGYpu4b8peW1xMBU3qp3IkeLU-tsQlaFhYDuw5ls5cDdt0EvMdN1sUaaia3Fh5jADzQlgKHXA6tJtNqdigyjQ5MIUdaAwKtA5aLNQFXLyHk6xkukkDkEpLfh3WdyNSRrnJutNuZOxmgSz",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_eNLa-dOEIgnDDycPfeZ_jHCibDefSoAXFQJtKq_88rcsEuyPoTia-qHxz0kDOS2c5hWfHyJaM3QIatkvIH01bE2-HXThOlybSYsrHizefWtosuS9faIUhNshnPKwHm",
+            "title": "youtube.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs1urmYtvuAtIyNJd5_9E01hbJ1_9DK69675C8uzM0vhdgW6zqAc4Pr7LDmopvf8QZeIusYaMJk-gBPAVT0pmR73iFfThLmrOcgzQRCt1sIS-nWnOOQvIXSDDttP5vRfeU",
+            "title": "wikipedia.org"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5CqrNgliSqtCaV5TTJL4VnbMeI2F1Uj4tmqoJt45Aaj3QwW4yc5sZ8FE-uSmwt3avkb08eZgVdtEDH2BmOLAdo1NlhTpS2bdeE9bgJ_ibqh7K0ab1vT2UPIY9CrswQOBd-y731Vyakf6EmO-ZC14SojHXpFApNvl2QdeMdHtAhs1JVavOddCeCm7uAl2iKjY2Geyopw==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlLbNLs1_v2KzqYmfaTzbRyF1kAfJb0casDopi_pdhCsdVoX8P-e1itTNDItfaS9SgiP711idwGBqE8lHGQRFF80sEww0WL0-ZdsWS_kN1Wh0ba2ePLCMY_2t8fO7oGMJDGB5SlQpec1oR_LlE1NaRXv4ZZOuAwoyYNmCmDjjkU6V5s1TuX7FRaDObWMtp",
+            "title": "cbssports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbNBdR41MxsTxmhTE35Esog9zGnYkafOdlwbrN4r0d_jkff3NnidbM9sODKNf2HY3v3zUydDbAglOhOxXI3jkQCAK7o5XQz_iO47fF0p-BOecXrQwmfyYfNQVuWUzQzrksH3L9IK2OpA==",
+            "title": "foxsports.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "1f4917277771cf534db27f4793efe924c0859ba3",
+        "aviCoreCommittedAt": "2026-11-17T16:58:55Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/late-season-playoff-push",
+          "derived/keeper-contracts",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/16_Crimson_Tide_Pods.md",
+          "knowledge/teams/04_Mile_High_Royal_Lions.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 155032,
+        "groundedMarketChars": 2865,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
+  },
+  {
     "id": "mwgzdyez-41dcb611",
     "createdAt": 1794695596667,
     "expiresAt": 1795127596667,
