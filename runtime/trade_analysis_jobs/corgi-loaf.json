@@ -1,5 +1,42 @@
 [
   {
+    "id": "mwl37xgg-bfc51925",
+    "phase": "final",
+    "mode": "analyze_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "goal": "",
+      "targetTeam": "All Hail King Jesus",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Saquon Barkley",
+            "assetType": "player"
+          },
+          {
+            "name": "2028 1st · Mile High · Unslotted future pick · standardized round value",
+            "assetType": "pick"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "D'Andre Swift",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": [],
+      "personalContext": "Saquon has been hurt this year and rest of season is uncertain"
+    },
+    "createdAt": 1794943843549,
+    "updatedAt": 1794943843549,
+    "expiresAt": 1795375843549,
+    "status": "queued"
+  },
+  {
     "id": "mwl33fy7-f5d90c07",
     "phase": "initial",
     "mode": "analyze_trade",
