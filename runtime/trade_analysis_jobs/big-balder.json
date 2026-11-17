@@ -1,5 +1,45 @@
 [
   {
+    "id": "mwlah6qi-10847d93",
+    "phase": "initial",
+    "mode": "analyze_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "analyze_trade",
+      "userTeam": "Big Balder Brand",
+      "perspectiveMode": "neutral",
+      "goal": "",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "trade": {
+        "sideA": [
+          {
+            "name": "Chuba Hubbard",
+            "assetType": "player"
+          },
+          {
+            "name": "Tyler Warren",
+            "assetType": "player"
+          }
+        ],
+        "sideB": [
+          {
+            "name": "Trey McBride",
+            "assetType": "player"
+          },
+          {
+            "name": "Rhamondre Stevenson",
+            "assetType": "player"
+          }
+        ]
+      },
+      "alternateAssets": []
+    },
+    "createdAt": 1794956032602,
+    "updatedAt": 1794956032602,
+    "expiresAt": 1795388032602,
+    "status": "queued"
+  },
+  {
     "id": "mwkzuy09-59259c0c",
     "phase": "final",
     "mode": "analyze_trade",
