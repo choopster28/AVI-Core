@@ -3272,7 +3272,7 @@
       "player_name": "Nikko Reed",
       "points": 0,
       "position_id": "CB",
-      "team_id": "NYG",
+      "team_id": "FA",
       "weeks": {
         "2": 0,
         "3": 0,
@@ -3712,7 +3712,7 @@
       "player_name": "Shaun Wade",
       "points": 0,
       "position_id": "CB",
-      "team_id": "PHI",
+      "team_id": "FA",
       "weeks": {
         "4": 0
       }
@@ -4327,7 +4327,7 @@
       "player_name": "Nick Whiteside II",
       "points": 1.5,
       "position_id": "CB",
-      "team_id": "DET",
+      "team_id": "FA",
       "weeks": {
         "10": 0,
         "9": 1.5

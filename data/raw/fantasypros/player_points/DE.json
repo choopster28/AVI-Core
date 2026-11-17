@@ -292,7 +292,7 @@
       "player_name": "Bralen Trice",
       "points": 3.75,
       "position_id": "DE",
-      "team_id": "LV",
+      "team_id": "FA",
       "weeks": {
         "1": 1.5,
         "3": 1.5,
@@ -2101,7 +2101,7 @@
       "player_name": "Tyrus Wheat",
       "points": 1.5,
       "position_id": "DE",
-      "team_id": "FA",
+      "team_id": "DET",
       "weeks": {
         "2": 1.5,
         "3": 0,
