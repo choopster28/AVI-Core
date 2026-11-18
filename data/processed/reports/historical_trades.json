@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-11-18T00:13:50.923419+00:00",
+  "generated_at_utc": "2026-11-18T01:43:53.422804+00:00",
   "statistics": {
-    "owner_trade_participations": 214,
+    "owner_trade_participations": 218,
     "partner_matrix": [
       {
         "partner_count": 2,
@@ -133,7 +133,8 @@
         "partners": [
           "Conquistadors",
           "Ravens Regime ",
-          "Lightskin Legends ✊🏽"
+          "Lightskin Legends ✊🏽",
+          "Corgi Loaf Baking Co. "
         ],
         "roster_id": 13,
         "team_name": "Southside Savages"
@@ -144,18 +145,18 @@
         "by_season": {
           "2024": 7,
           "2025": 4,
-          "2026": 20
+          "2026": 22
         },
         "firsts_in": 8,
         "firsts_out": 11,
         "owner_display_name": "awang1900",
-        "picks_in": 12,
-        "picks_out": 20,
-        "players_in": 42,
-        "players_out": 41,
+        "picks_in": 15,
+        "picks_out": 22,
+        "players_in": 43,
+        "players_out": 42,
         "roster_id": 11,
         "team_name": "Corgi Loaf Baking Co. ",
-        "total": 31
+        "total": 33
       },
       {
         "by_season": {
@@ -326,6 +327,23 @@
       },
       {
         "by_season": {
+          "2024": 2,
+          "2025": 2,
+          "2026": 4
+        },
+        "firsts_in": 0,
+        "firsts_out": 1,
+        "owner_display_name": "AlexPete6800",
+        "picks_in": 4,
+        "picks_out": 9,
+        "players_in": 4,
+        "players_out": 5,
+        "roster_id": 10,
+        "team_name": "SmokyValleyWheatWarriors",
+        "total": 8
+      },
+      {
+        "by_season": {
           "2025": 4,
           "2026": 3
         },
@@ -338,23 +356,6 @@
         "players_out": 7,
         "roster_id": 8,
         "team_name": "All Hail King Jesus",
-        "total": 7
-      },
-      {
-        "by_season": {
-          "2024": 2,
-          "2025": 2,
-          "2026": 3
-        },
-        "firsts_in": 0,
-        "firsts_out": 1,
-        "owner_display_name": "AlexPete6800",
-        "picks_in": 4,
-        "picks_out": 6,
-        "players_in": 3,
-        "players_out": 5,
-        "roster_id": 10,
-        "team_name": "SmokyValleyWheatWarriors",
         "total": 7
       },
       {
@@ -374,6 +375,22 @@
       },
       {
         "by_season": {
+          "2025": 1,
+          "2026": 2
+        },
+        "firsts_in": 1,
+        "firsts_out": 0,
+        "owner_display_name": "GGEZGoNext",
+        "picks_in": 8,
+        "picks_out": 0,
+        "players_in": 3,
+        "players_out": 3,
+        "roster_id": 13,
+        "team_name": "Southside Savages",
+        "total": 3
+      },
+      {
+        "by_season": {
           "2026": 2
         },
         "firsts_in": 0,
@@ -386,32 +403,16 @@
         "roster_id": 14,
         "team_name": "Phalhala or Bust",
         "total": 2
-      },
-      {
-        "by_season": {
-          "2025": 1,
-          "2026": 1
-        },
-        "firsts_in": 1,
-        "firsts_out": 0,
-        "owner_display_name": "GGEZGoNext",
-        "picks_in": 6,
-        "picks_out": 0,
-        "players_in": 3,
-        "players_out": 2,
-        "roster_id": 13,
-        "team_name": "Southside Savages",
-        "total": 2
       }
     ],
     "three_team_trades": 2,
     "trades_by_season": {
       "2024": 21,
       "2025": 22,
-      "2026": 63
+      "2026": 65
     },
-    "two_team_trades": 104,
-    "unique_completed_trades": 106
+    "two_team_trades": 106,
+    "unique_completed_trades": 108
   },
   "trades": [
     {
@@ -7922,6 +7923,152 @@
         }
       ],
       "transaction_id": "1428528615674355712",
+      "week": 10
+    },
+    {
+      "created_at_utc": "2026-11-17T22:09:12.896000+00:00",
+      "created_timestamp_ms": 1794953352896,
+      "roster_ids": [
+        10,
+        11
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "AlexPete6800",
+          "owner_id": "308805697879937024",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 10,
+              "round": 2,
+              "season": "2028"
+            },
+            {
+              "original_roster_id": 10,
+              "round": 3,
+              "season": "2028"
+            },
+            {
+              "original_roster_id": 3,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "7611",
+              "player_name": "Rhamondre Stevenson"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 10,
+          "season": 2026,
+          "team_name": "SmokyValleyWheatWarriors"
+        },
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [
+            {
+              "original_roster_id": 10,
+              "round": 2,
+              "season": "2028"
+            },
+            {
+              "original_roster_id": 10,
+              "round": 3,
+              "season": "2028"
+            },
+            {
+              "original_roster_id": 3,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "7611",
+              "player_name": "Rhamondre Stevenson"
+            }
+          ],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        }
+      ],
+      "transaction_id": "1428541537653886976",
+      "week": 10
+    },
+    {
+      "created_at_utc": "2026-11-18T00:23:01.883000+00:00",
+      "created_timestamp_ms": 1794961381883,
+      "roster_ids": [
+        11,
+        13
+      ],
+      "season": 2026,
+      "team_count": 2,
+      "teams": [
+        {
+          "owner_display_name": "awang1900",
+          "owner_id": "986498458162970624",
+          "picks_received": [],
+          "picks_sent": [
+            {
+              "original_roster_id": 10,
+              "round": 2,
+              "season": "2028"
+            },
+            {
+              "original_roster_id": 3,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "players_received": [
+            {
+              "player_id": "5850",
+              "player_name": "Josh Jacobs"
+            }
+          ],
+          "players_sent": [],
+          "roster_id": 11,
+          "season": 2026,
+          "team_name": "Corgi Loaf Baking Co. "
+        },
+        {
+          "owner_display_name": "GGEZGoNext",
+          "owner_id": "998253660243054592",
+          "picks_received": [
+            {
+              "original_roster_id": 10,
+              "round": 2,
+              "season": "2028"
+            },
+            {
+              "original_roster_id": 3,
+              "round": 2,
+              "season": "2028"
+            }
+          ],
+          "picks_sent": [],
+          "players_received": [],
+          "players_sent": [
+            {
+              "player_id": "5850",
+              "player_name": "Josh Jacobs"
+            }
+          ],
+          "roster_id": 13,
+          "season": 2026,
+          "team_name": "Southside Savages"
+        }
+      ],
+      "transaction_id": "1428575213666177024",
       "week": 10
     }
   ]

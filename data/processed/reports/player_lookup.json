@@ -75,6 +75,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00008154",
+      "c_avi": 28.7,
+      "d_avi": 70.2,
+      "nfl_team": "ATL",
+      "player_name": "Brian Robinson Jr.",
+      "position": "RB",
+      "sleeper_id": "8154",
+      "status": "Inactive"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00012497",
       "c_avi": 27.6,
       "d_avi": 65.3,
@@ -2738,8 +2750,8 @@
     }
   ],
   "counts": {
-    "available_players": 228,
-    "rostered_players": 251
+    "available_players": 229,
+    "rostered_players": 250
   },
   "rostered_players": [
     {
@@ -3109,22 +3121,6 @@
       "status": "Active",
       "team_file": "12_DMV_Fantasy.md",
       "team_name": "DMV Fantasy"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00008154",
-      "c_avi": 28.7,
-      "d_avi": 70.2,
-      "nfl_team": "ATL",
-      "owner_id": "308805697879937024",
-      "player_name": "Brian Robinson Jr.",
-      "position": "RB",
-      "roster_id": 10,
-      "sleeper_id": "8154",
-      "status": "Inactive",
-      "team_file": "10_SmokyValleyWheatWarriors.md",
-      "team_name": "SmokyValleyWheatWarriors"
     },
     {
       "active": true,
@@ -4989,14 +4985,14 @@
       "c_avi": 46.1,
       "d_avi": 79.9,
       "nfl_team": "GB",
-      "owner_id": "998253660243054592",
+      "owner_id": "986498458162970624",
       "player_name": "Josh Jacobs",
       "position": "RB",
-      "roster_id": 13,
+      "roster_id": 11,
       "sleeper_id": "5850",
       "status": "Active",
-      "team_file": "13_Southside_Savages.md",
-      "team_name": "Southside Savages"
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,
@@ -5997,14 +5993,14 @@
       "c_avi": 59.3,
       "d_avi": 82.0,
       "nfl_team": "NE",
-      "owner_id": "986498458162970624",
+      "owner_id": "308805697879937024",
       "player_name": "Rhamondre Stevenson",
       "position": "RB",
-      "roster_id": 11,
+      "roster_id": 10,
       "sleeper_id": "7611",
       "status": "Active",
-      "team_file": "11_Corgi_Loaf_Baking_Co.md",
-      "team_name": "Corgi Loaf Baking Co. "
+      "team_file": "10_SmokyValleyWheatWarriors.md",
+      "team_name": "SmokyValleyWheatWarriors"
     },
     {
       "active": true,

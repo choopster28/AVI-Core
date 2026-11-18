@@ -188,14 +188,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 12
 - Team file: 12_DMV_Fantasy.md
 
-## PLAYER LOOKUP: Brian Robinson Jr.
-- Player name: Brian Robinson Jr.
-- Player ID: 8154
-- Position: RB
-- Current owner team: SmokyValleyWheatWarriors
-- Current owner roster ID: 10
-- Team file: 10_SmokyValleyWheatWarriors.md
-
 ## PLAYER LOOKUP: Brian Thomas Jr.
 - Player name: Brian Thomas Jr.
 - Player ID: 11631
@@ -1128,9 +1120,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Josh Jacobs
 - Player ID: 5850
 - Position: RB
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Team file: 13_Southside_Savages.md
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Justice Hill
 - Player name: Justice Hill
@@ -1632,9 +1624,9 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Rhamondre Stevenson
 - Player ID: 7611
 - Position: RB
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Team file: 10_SmokyValleyWheatWarriors.md
 
 ## PLAYER LOOKUP: Rico Dowdle
 - Player name: Rico Dowdle
@@ -2066,6 +2058,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: BAL
 - Championship AVI (C-AVI, 0-100): 30.2
 - Dynasty AVI (D-AVI, 0-100): 60.6
+- Availability: available
+
+## AVAILABLE PLAYER: Brian Robinson Jr.
+- Player name: Brian Robinson Jr.
+- Player ID: 8154
+- Position: RB
+- NFL team: ATL
+- Championship AVI (C-AVI, 0-100): 28.7
+- Dynasty AVI (D-AVI, 0-100): 70.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Tory Horton

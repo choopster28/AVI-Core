@@ -4070,8 +4070,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Ravens Regime
 - Original roster ID: 3
-- Current owner team: SmokyValleyWheatWarriors
-- Current owner roster ID: 10
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
 - Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
@@ -4154,8 +4154,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: SmokyValleyWheatWarriors
 - Original roster ID: 10
-- Current owner team: SmokyValleyWheatWarriors
-- Current owner roster ID: 10
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
 - Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
@@ -4346,8 +4346,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: SmokyValleyWheatWarriors
 - Original roster ID: 10
-- Current owner team: SmokyValleyWheatWarriors
-- Current owner roster ID: 10
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
 - Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd

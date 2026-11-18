@@ -17,21 +17,21 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **106**
-- Owner trade participations: **214**
-- Two-team trades: **104**
+- Unique completed trades: **108**
+- Owner trade participations: **218**
+- Two-team trades: **106**
 - Three-team trades: **2**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **63**
+- 2026 completed trades: **65**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-11-17T21:17:52.057000+00:00**
+- Latest verified trade: **2026-11-18T00:23:01.883000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | Corgi Loaf Baking Co.  | awang1900 | **31** | 7 | 4 | 20 | 42 | 41 | 12 | 20 | 8 | 11 |
+| 1 | Corgi Loaf Baking Co.  | awang1900 | **33** | 7 | 4 | 22 | 43 | 42 | 15 | 22 | 8 | 11 |
 | 2 | Ravens Regime  | Mentomorii | **27** | 3 | 3 | 21 | 27 | 32 | 10 | 13 | 3 | 5 |
 | 3 | Big Balder Brand | Choopski | **23** | 7 | 2 | 14 | 35 | 36 | 3 | 10 | 1 | 4 |
 | 4 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
@@ -42,11 +42,11 @@
 | 9 | Crimson Tide Pods | nickas | **12** | 0 | 1 | 11 | 15 | 15 | 15 | 5 | 6 | 0 |
 | 10 | Rapid Valley Annihilation | FuzzyRaptor | **9** | 0 | 3 | 6 | 9 | 13 | 10 | 3 | 4 | 0 |
 | 11 | Lightskin Legends ✊🏽 | MadDawgMatt | **8** | 2 | 3 | 3 | 11 | 6 | 2 | 3 | 0 | 0 |
-| 12 | All Hail King Jesus | Hofer51 | **7** | 0 | 4 | 3 | 9 | 7 | 1 | 8 | 0 | 3 |
-| 13 | SmokyValleyWheatWarriors | AlexPete6800 | **7** | 2 | 2 | 3 | 3 | 5 | 4 | 6 | 0 | 1 |
+| 12 | SmokyValleyWheatWarriors | AlexPete6800 | **8** | 2 | 2 | 4 | 4 | 5 | 4 | 9 | 0 | 1 |
+| 13 | All Hail King Jesus | Hofer51 | **7** | 0 | 4 | 3 | 9 | 7 | 1 | 8 | 0 | 3 |
 | 14 | Gringo’s Goblins  | Burnfaze | **4** | 0 | 0 | 4 | 8 | 7 | 2 | 3 | 2 | 0 |
-| 15 | Phalhala or Bust | PIFYAF | **2** | 0 | 0 | 2 | 2 | 2 | 2 | 0 | 0 | 0 |
-| 16 | Southside Savages | GGEZGoNext | **2** | 0 | 1 | 1 | 3 | 2 | 6 | 0 | 1 | 0 |
+| 15 | Southside Savages | GGEZGoNext | **3** | 0 | 1 | 2 | 3 | 3 | 8 | 0 | 1 | 0 |
+| 16 | Phalhala or Bust | PIFYAF | **2** | 0 | 0 | 2 | 2 | 2 | 2 | 0 | 0 | 0 |
 
 ## Trade-Partner Matrix
 
@@ -67,9 +67,45 @@
 | Rapid Valley Annihilation | Corgi Loaf Baking Co.  | 6 |
 | Ravens Regime  | Corgi Loaf Baking Co.  | 5 |
 | SmokyValleyWheatWarriors | Conquistadors | 3 |
-| Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽 | 1 |
+| Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽, Corgi Loaf Baking Co.  | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1428575213666177024
+- Season: 2026
+- Week: 10
+- Created at UTC: 2026-11-18T00:23:01.883000+00:00
+- Teams involved: 2
+
+#### Corgi Loaf Baking Co.  (awang1900)
+- Players received: Josh Jacobs
+- Players sent: None
+- Picks received: None
+- Picks sent: 2028 Round 2 (original roster 10), 2028 Round 2 (original roster 3)
+
+#### Southside Savages (GGEZGoNext)
+- Players received: None
+- Players sent: Josh Jacobs
+- Picks received: 2028 Round 2 (original roster 10), 2028 Round 2 (original roster 3)
+- Picks sent: None
+
+### TRADE: 1428541537653886976
+- Season: 2026
+- Week: 10
+- Created at UTC: 2026-11-17T22:09:12.896000+00:00
+- Teams involved: 2
+
+#### SmokyValleyWheatWarriors (AlexPete6800)
+- Players received: Rhamondre Stevenson
+- Players sent: None
+- Picks received: None
+- Picks sent: 2028 Round 2 (original roster 10), 2028 Round 3 (original roster 10), 2028 Round 2 (original roster 3)
+
+#### Corgi Loaf Baking Co.  (awang1900)
+- Players received: None
+- Players sent: Rhamondre Stevenson
+- Picks received: 2028 Round 2 (original roster 10), 2028 Round 3 (original roster 10), 2028 Round 2 (original roster 3)
+- Picks sent: None
 
 ### TRADE: 1428528615674355712
 - Season: 2026
