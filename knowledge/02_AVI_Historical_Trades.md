@@ -17,31 +17,31 @@
 
 ## Archive Integrity Summary
 
-- Unique completed trades: **104**
-- Owner trade participations: **210**
-- Two-team trades: **102**
+- Unique completed trades: **106**
+- Owner trade participations: **214**
+- Two-team trades: **104**
 - Three-team trades: **2**
 - 2024 completed trades: **21**
 - 2025 completed trades: **22**
-- 2026 completed trades: **61**
+- 2026 completed trades: **63**
 - Earliest verified trade: **2024-08-27T12:14:48.750000+00:00**
-- Latest verified trade: **2026-11-17T17:05:47.737000+00:00**
+- Latest verified trade: **2026-11-17T21:17:52.057000+00:00**
 
 ## Trades by Owner
 
 | Rank | Team | Owner | Total | 2024 | 2025 | 2026 | Players In | Players Out | Picks In | Picks Out | 1sts In | 1sts Out |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | Corgi Loaf Baking Co.  | awang1900 | **30** | 7 | 4 | 19 | 41 | 41 | 11 | 19 | 8 | 10 |
+| 1 | Corgi Loaf Baking Co.  | awang1900 | **31** | 7 | 4 | 20 | 42 | 41 | 12 | 20 | 8 | 11 |
 | 2 | Ravens Regime  | Mentomorii | **27** | 3 | 3 | 21 | 27 | 32 | 10 | 13 | 3 | 5 |
 | 3 | Big Balder Brand | Choopski | **23** | 7 | 2 | 14 | 35 | 36 | 3 | 10 | 1 | 4 |
 | 4 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
 | 5 | Northside Kings  | srsmith95 | **19** | 6 | 5 | 8 | 19 | 16 | 13 | 5 | 5 | 3 |
 | 6 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
-| 7 | Badland Banditos  | IcebergSlim69 | **12** | 4 | 4 | 4 | 13 | 13 | 6 | 9 | 1 | 4 |
-| 8 | Mile High Royal Lions | shawnh56 | **12** | 0 | 8 | 4 | 13 | 14 | 6 | 6 | 1 | 3 |
-| 9 | Crimson Tide Pods | nickas | **11** | 0 | 1 | 10 | 15 | 14 | 13 | 5 | 6 | 0 |
-| 10 | Lightskin Legends ✊🏽 | MadDawgMatt | **8** | 2 | 3 | 3 | 11 | 6 | 2 | 3 | 0 | 0 |
-| 11 | Rapid Valley Annihilation | FuzzyRaptor | **8** | 0 | 3 | 5 | 9 | 12 | 9 | 2 | 3 | 0 |
+| 7 | Mile High Royal Lions | shawnh56 | **13** | 0 | 8 | 5 | 14 | 14 | 6 | 8 | 1 | 3 |
+| 8 | Badland Banditos  | IcebergSlim69 | **12** | 4 | 4 | 4 | 13 | 13 | 6 | 9 | 1 | 4 |
+| 9 | Crimson Tide Pods | nickas | **12** | 0 | 1 | 11 | 15 | 15 | 15 | 5 | 6 | 0 |
+| 10 | Rapid Valley Annihilation | FuzzyRaptor | **9** | 0 | 3 | 6 | 9 | 13 | 10 | 3 | 4 | 0 |
+| 11 | Lightskin Legends ✊🏽 | MadDawgMatt | **8** | 2 | 3 | 3 | 11 | 6 | 2 | 3 | 0 | 0 |
 | 12 | All Hail King Jesus | Hofer51 | **7** | 0 | 4 | 3 | 9 | 7 | 1 | 8 | 0 | 3 |
 | 13 | SmokyValleyWheatWarriors | AlexPete6800 | **7** | 2 | 2 | 3 | 3 | 5 | 4 | 6 | 0 | 1 |
 | 14 | Gringo’s Goblins  | Burnfaze | **4** | 0 | 0 | 4 | 8 | 7 | 2 | 3 | 2 | 0 |
@@ -56,20 +56,56 @@
 | Badland Banditos  | DMV Fantasy | 3 |
 | Big Balder Brand | DMV Fantasy | 7 |
 | Conquistadors | Northside Kings  | 5 |
-| Corgi Loaf Baking Co.  | Rapid Valley Annihilation, Ravens Regime , Big Balder Brand | 5 |
+| Corgi Loaf Baking Co.  | Rapid Valley Annihilation | 6 |
 | Crimson Tide Pods | Corgi Loaf Baking Co.  | 3 |
 | DMV Fantasy | Big Balder Brand | 7 |
 | Gringo’s Goblins  | Ravens Regime  | 2 |
 | Lightskin Legends ✊🏽 | Conquistadors | 3 |
-| Mile High Royal Lions | Ravens Regime , Northside Kings , All Hail King Jesus | 2 |
+| Mile High Royal Lions | Ravens Regime , Northside Kings , All Hail King Jesus, Crimson Tide Pods | 2 |
 | Northside Kings  | Conquistadors | 5 |
 | Phalhala or Bust | Ravens Regime , Big Balder Brand | 1 |
-| Rapid Valley Annihilation | Corgi Loaf Baking Co.  | 5 |
+| Rapid Valley Annihilation | Corgi Loaf Baking Co.  | 6 |
 | Ravens Regime  | Corgi Loaf Baking Co.  | 5 |
 | SmokyValleyWheatWarriors | Conquistadors | 3 |
 | Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽 | 1 |
 
 ## Complete Trade Ledger
+
+### TRADE: 1428528615674355712
+- Season: 2026
+- Week: 10
+- Created at UTC: 2026-11-17T21:17:52.057000+00:00
+- Teams involved: 2
+
+#### Rapid Valley Annihilation (FuzzyRaptor)
+- Players received: None
+- Players sent: Ollie Gordon II
+- Picks received: 2028 Round 1 (original roster 4)
+- Picks sent: 2027 Round 3 (original roster 2)
+
+#### Corgi Loaf Baking Co.  (awang1900)
+- Players received: Ollie Gordon II
+- Players sent: None
+- Picks received: 2027 Round 3 (original roster 2)
+- Picks sent: 2028 Round 1 (original roster 4)
+
+### TRADE: 1428502412951298048
+- Season: 2026
+- Week: 10
+- Created at UTC: 2026-11-17T19:33:44.841000+00:00
+- Teams involved: 2
+
+#### Mile High Royal Lions (shawnh56)
+- Players received: Jakobi Meyers
+- Players sent: None
+- Picks received: None
+- Picks sent: 2027 Round 2 (original roster 8), 2027 Round 3 (original roster 8)
+
+#### Crimson Tide Pods (nickas)
+- Players received: None
+- Players sent: Jakobi Meyers
+- Picks received: 2027 Round 2 (original roster 8), 2027 Round 3 (original roster 8)
+- Picks sent: None
 
 ### TRADE: 1428465179678482432
 - Season: 2026

@@ -290,8 +290,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: All Hail King Jesus
 - Original roster ID: 8
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
 - Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
@@ -410,8 +410,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Rapid Valley Annihilation
 - Original roster ID: 2
-- Current owner team: Rapid Valley Annihilation
-- Current owner roster ID: 2
+- Current owner team: Corgi Loaf Baking Co.
+- Current owner roster ID: 11
 - Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
@@ -482,8 +482,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: All Hail King Jesus
 - Original roster ID: 8
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
 - Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
@@ -3890,8 +3890,8 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Mile High Royal Lions
 - Original roster ID: 4
-- Current owner team: Corgi Loaf Baking Co.
-- Current owner roster ID: 11
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
