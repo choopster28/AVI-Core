@@ -340,6 +340,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 6
 - Team file: 06_Lightskin_Legends.md
 
+## PLAYER LOOKUP: Chris Brooks
+- Player name: Chris Brooks
+- Player ID: 11370
+- Position: RB
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Team file: 05_Northside_Kings.md
+
 ## PLAYER LOOKUP: Chris Godwin Jr.
 - Player name: Chris Godwin Jr.
 - Player ID: 4037
@@ -411,14 +419,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Phalhala or Bust
 - Current owner roster ID: 14
 - Team file: 14_Phalhala_or_Bust.md
-
-## PLAYER LOOKUP: Corey Kiner
-- Player name: Corey Kiner
-- Player ID: 12491
-- Position: RB
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Team file: 11_Corgi_Loaf_Baking_Co.md
 
 ## PLAYER LOOKUP: Courtland Sutton
 - Player name: Courtland Sutton
@@ -683,6 +683,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Rapid Valley Annihilation
 - Current owner roster ID: 2
 - Team file: 02_Rapid_Valley_Annihilation.md
+
+## PLAYER LOOKUP: Elic Ayomanor
+- Player name: Elic Ayomanor
+- Player ID: 12499
+- Position: WR
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Team file: 10_SmokyValleyWheatWarriors.md
 
 ## PLAYER LOOKUP: Emanuel Wilson
 - Player name: Emanuel Wilson
@@ -2249,15 +2257,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 65.3
 - Availability: available
 
-## AVAILABLE PLAYER: Chris Brooks
-- Player name: Chris Brooks
-- Player ID: 11370
-- Position: RB
-- NFL team: GB
-- Championship AVI (C-AVI, 0-100): 24.8
-- Dynasty AVI (D-AVI, 0-100): 58.4
-- Availability: available
-
 ## AVAILABLE PLAYER: Olamide Zaccheaus
 - Player name: Olamide Zaccheaus
 - Player ID: 6271
@@ -2274,15 +2273,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: BUF
 - Championship AVI (C-AVI, 0-100): 24.7
 - Dynasty AVI (D-AVI, 0-100): 63.6
-- Availability: available
-
-## AVAILABLE PLAYER: Elic Ayomanor
-- Player name: Elic Ayomanor
-- Player ID: 12499
-- Position: WR
-- NFL team: TEN
-- Championship AVI (C-AVI, 0-100): 24.4
-- Dynasty AVI (D-AVI, 0-100): 65.3
 - Availability: available
 
 ## AVAILABLE PLAYER: LeQuint Allen Jr.
@@ -2796,6 +2786,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: IND
 - Championship AVI (C-AVI, 0-100): 18.9
 - Dynasty AVI (D-AVI, 0-100): 44.4
+- Availability: available
+
+## AVAILABLE PLAYER: Corey Kiner
+- Player name: Corey Kiner
+- Player ID: 12491
+- Position: RB
+- NFL team: NE
+- Championship AVI (C-AVI, 0-100): 18.7
+- Dynasty AVI (D-AVI, 0-100): 54.2
 - Availability: available
 
 ## AVAILABLE PLAYER: Jaleel McLaughlin
