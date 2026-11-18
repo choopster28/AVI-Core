@@ -164,14 +164,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
 
-## PLAYER LOOKUP: Brandin Cooks
-- Player name: Brandin Cooks
-- Player ID: 2197
-- Position: WR
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Team file: 05_Northside_Kings.md
-
 ## PLAYER LOOKUP: Breece Hall
 - Player name: Breece Hall
 - Player ID: 8155
@@ -836,6 +828,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 14
 - Team file: 14_Phalhala_or_Bust.md
 
+## PLAYER LOOKUP: J.K. Dobbins
+- Player name: J.K. Dobbins
+- Player ID: 6806
+- Position: RB
+- Current owner team: Rapid Valley Annihilation
+- Current owner roster ID: 2
+- Team file: 02_Rapid_Valley_Annihilation.md
+
 ## PLAYER LOOKUP: Ja'Kobi Lane
 - Player name: Ja'Kobi Lane
 - Player ID: 13293
@@ -851,6 +851,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
+
+## PLAYER LOOKUP: Jacoby Brissett
+- Player name: Jacoby Brissett
+- Player ID: 3257
+- Position: QB
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Team file: 05_Northside_Kings.md
 
 ## PLAYER LOOKUP: Jacory Croskey-Merritt
 - Player name: Jacory Croskey-Merritt
@@ -1131,14 +1139,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
-
-## PLAYER LOOKUP: Justice Hill
-- Player name: Justice Hill
-- Player ID: 5995
-- Position: RB
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Team file: 04_Mile_High_Royal_Lions.md
 
 ## PLAYER LOOKUP: Justin Herbert
 - Player name: Justin Herbert
@@ -2014,13 +2014,13 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 
 ## Available Player Board
 
-## AVAILABLE PLAYER: J.K. Dobbins
-- Player name: J.K. Dobbins
-- Player ID: 6806
+## AVAILABLE PLAYER: Justice Hill
+- Player name: Justice Hill
+- Player ID: 5995
 - Position: RB
-- NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 37.4
-- Dynasty AVI (D-AVI, 0-100): 73.0
+- NFL team: BAL
+- Championship AVI (C-AVI, 0-100): 36.7
+- Dynasty AVI (D-AVI, 0-100): 65.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Mason Taylor
@@ -2057,15 +2057,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CLE
 - Championship AVI (C-AVI, 0-100): 30.3
 - Dynasty AVI (D-AVI, 0-100): 67.8
-- Availability: available
-
-## AVAILABLE PLAYER: Jacoby Brissett
-- Player name: Jacoby Brissett
-- Player ID: 3257
-- Position: QB
-- NFL team: BAL
-- Championship AVI (C-AVI, 0-100): 30.2
-- Dynasty AVI (D-AVI, 0-100): 60.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Brian Robinson Jr.
@@ -3524,6 +3515,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: WAS
 - Championship AVI (C-AVI, 0-100): 8.1
 - Dynasty AVI (D-AVI, 0-100): 48.5
+- Availability: available
+
+## AVAILABLE PLAYER: Brandin Cooks
+- Player name: Brandin Cooks
+- Player ID: 2197
+- Position: WR
+- NFL team: SF
+- Championship AVI (C-AVI, 0-100): 7.8
+- Dynasty AVI (D-AVI, 0-100): 44.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Jerome Ford

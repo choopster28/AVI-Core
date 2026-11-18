@@ -3,13 +3,13 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00006806",
-      "c_avi": 37.4,
-      "d_avi": 73.0,
-      "nfl_team": "DEN",
-      "player_name": "J.K. Dobbins",
+      "avi_id": "AVI-00005995",
+      "c_avi": 36.7,
+      "d_avi": 65.3,
+      "nfl_team": "BAL",
+      "player_name": "Justice Hill",
       "position": "RB",
-      "sleeper_id": "6806",
+      "sleeper_id": "5995",
       "status": "Active"
     },
     {
@@ -58,18 +58,6 @@
       "player_name": "Jerry Jeudy",
       "position": "WR",
       "sleeper_id": "6783",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00003257",
-      "c_avi": 30.2,
-      "d_avi": 60.6,
-      "nfl_team": "BAL",
-      "player_name": "Jacoby Brissett",
-      "position": "QB",
-      "sleeper_id": "3257",
       "status": "Active"
     },
     {
@@ -2019,6 +2007,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00002197",
+      "c_avi": 7.8,
+      "d_avi": 44.4,
+      "nfl_team": "SF",
+      "player_name": "Brandin Cooks",
+      "position": "WR",
+      "sleeper_id": "2197",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00008143",
       "c_avi": 7.7,
       "d_avi": 52.9,
@@ -3061,22 +3061,6 @@
       "status": "Active",
       "team_file": "15_Gringo_s_Goblins.md",
       "team_name": "Gringo’s Goblins "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00002197",
-      "c_avi": 7.8,
-      "d_avi": 44.4,
-      "nfl_team": "SF",
-      "owner_id": "872351659366539264",
-      "player_name": "Brandin Cooks",
-      "position": "WR",
-      "roster_id": 5,
-      "sleeper_id": "2197",
-      "status": "Active",
-      "team_file": "05_Northside_Kings.md",
-      "team_name": "Northside Kings "
     },
     {
       "active": true,
@@ -4409,6 +4393,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00006806",
+      "c_avi": 37.4,
+      "d_avi": 73.0,
+      "nfl_team": "DEN",
+      "owner_id": "1178861684281753600",
+      "player_name": "J.K. Dobbins",
+      "position": "RB",
+      "roster_id": 2,
+      "sleeper_id": "6806",
+      "status": "Active",
+      "team_file": "02_Rapid_Valley_Annihilation.md",
+      "team_name": "Rapid Valley Annihilation"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00013293",
       "c_avi": 29.5,
       "d_avi": 72.4,
@@ -4437,6 +4437,22 @@
       "status": "Active",
       "team_file": "07_Badland_Banditos.md",
       "team_name": "Badland Banditos "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00003257",
+      "c_avi": 30.2,
+      "d_avi": 60.6,
+      "nfl_team": "BAL",
+      "owner_id": "872351659366539264",
+      "player_name": "Jacoby Brissett",
+      "position": "QB",
+      "roster_id": 5,
+      "sleeper_id": "3257",
+      "status": "Active",
+      "team_file": "05_Northside_Kings.md",
+      "team_name": "Northside Kings "
     },
     {
       "active": true,
@@ -4997,22 +5013,6 @@
       "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00005995",
-      "c_avi": 36.7,
-      "d_avi": 65.3,
-      "nfl_team": "BAL",
-      "owner_id": "736992907139158016",
-      "player_name": "Justice Hill",
-      "position": "RB",
-      "roster_id": 4,
-      "sleeper_id": "5995",
-      "status": "Active",
-      "team_file": "04_Mile_High_Royal_Lions.md",
-      "team_name": "Mile High Royal Lions"
     },
     {
       "active": true,
