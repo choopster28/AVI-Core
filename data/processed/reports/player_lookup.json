@@ -99,18 +99,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00012540",
-      "c_avi": 27.4,
-      "d_avi": 64.6,
-      "nfl_team": "TEN",
-      "player_name": "Chimere Dike",
-      "position": "WR",
-      "sleeper_id": "12540",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00004981",
       "c_avi": 27.3,
       "d_avi": 62.6,
@@ -843,6 +831,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00004454",
+      "c_avi": 19.7,
+      "d_avi": 53.8,
+      "nfl_team": "ARI",
+      "player_name": "Kendrick Bourne",
+      "position": "WR",
+      "sleeper_id": "4454",
+      "status": "Inactive"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00009229",
       "c_avi": 19.6,
       "d_avi": 55.2,
@@ -963,18 +963,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00008122",
-      "c_avi": 19.1,
-      "d_avi": 54.5,
-      "nfl_team": "ARI",
-      "player_name": "Zonovan Knight",
-      "position": "RB",
-      "sleeper_id": "8122",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00011596",
       "c_avi": 19.0,
       "d_avi": 55.4,
@@ -1078,6 +1066,18 @@
       "player_name": "Dylan Laube",
       "position": "RB",
       "sleeper_id": "11574",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00013297",
+      "c_avi": 18.3,
+      "d_avi": 49.1,
+      "nfl_team": "ARI",
+      "player_name": "Reggie Virgil",
+      "position": "WR",
+      "sleeper_id": "13297",
       "status": "Active"
     },
     {
@@ -1210,6 +1210,18 @@
       "player_name": "Xavier Smith",
       "position": "WR",
       "sleeper_id": "11168",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00006427",
+      "c_avi": 17.1,
+      "d_avi": 46.4,
+      "nfl_team": "IND",
+      "player_name": "Ashton Dulin",
+      "position": "WR",
+      "sleeper_id": "6427",
       "status": "Active"
     },
     {
@@ -2738,8 +2750,8 @@
     }
   ],
   "counts": {
-    "available_players": 228,
-    "rostered_players": 251
+    "available_players": 229,
+    "rostered_players": 250
   },
   "rostered_players": [
     {
@@ -2901,22 +2913,6 @@
       "status": "Active",
       "team_file": "12_DMV_Fantasy.md",
       "team_name": "DMV Fantasy"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00006427",
-      "c_avi": 17.1,
-      "d_avi": 46.4,
-      "nfl_team": "IND",
-      "owner_id": "736993578450030592",
-      "player_name": "Ashton Dulin",
-      "position": "WR",
-      "roster_id": 1,
-      "sleeper_id": "6427",
-      "status": "Active",
-      "team_file": "01_Conquistadors.md",
-      "team_name": "Conquistadors"
     },
     {
       "active": true,
@@ -3365,6 +3361,22 @@
       "status": "Active",
       "team_file": "12_DMV_Fantasy.md",
       "team_name": "DMV Fantasy"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00012540",
+      "c_avi": 27.4,
+      "d_avi": 64.6,
+      "nfl_team": "TEN",
+      "owner_id": "736993578450030592",
+      "player_name": "Chimere Dike",
+      "position": "WR",
+      "roster_id": 1,
+      "sleeper_id": "12540",
+      "status": "Active",
+      "team_file": "01_Conquistadors.md",
+      "team_name": "Conquistadors"
     },
     {
       "active": true,
@@ -5161,22 +5173,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00004454",
-      "c_avi": 19.7,
-      "d_avi": 53.8,
-      "nfl_team": "ARI",
-      "owner_id": "872509429436829696",
-      "player_name": "Kendrick Bourne",
-      "position": "WR",
-      "roster_id": 6,
-      "sleeper_id": "4454",
-      "status": "Inactive",
-      "team_file": "06_Lightskin_Legends.md",
-      "team_name": "Lightskin Legends ✊🏽"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00008151",
       "c_avi": 85.7,
       "d_avi": 95.3,
@@ -5977,22 +5973,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00013297",
-      "c_avi": 18.3,
-      "d_avi": 49.1,
-      "nfl_team": "ARI",
-      "owner_id": "992908759074680832",
-      "player_name": "Reggie Virgil",
-      "position": "WR",
-      "roster_id": 3,
-      "sleeper_id": "13297",
-      "status": "Active",
-      "team_file": "03_Ravens_Regime.md",
-      "team_name": "Ravens Regime "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00007611",
       "c_avi": 59.3,
       "d_avi": 82.0,
@@ -6757,6 +6737,22 @@
       "status": "Active",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00008122",
+      "c_avi": 19.1,
+      "d_avi": 54.5,
+      "nfl_team": "ARI",
+      "owner_id": "998253660243054592",
+      "player_name": "Zonovan Knight",
+      "position": "RB",
+      "roster_id": 13,
+      "sleeper_id": "8122",
+      "status": "Active",
+      "team_file": "13_Southside_Savages.md",
+      "team_name": "Southside Savages"
     }
   ]
 }

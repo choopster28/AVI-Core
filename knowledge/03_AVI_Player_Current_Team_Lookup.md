@@ -84,14 +84,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 12
 - Team file: 12_DMV_Fantasy.md
 
-## PLAYER LOOKUP: Ashton Dulin
-- Player name: Ashton Dulin
-- Player ID: 6427
-- Position: WR
-- Current owner team: Conquistadors
-- Current owner roster ID: 1
-- Team file: 01_Conquistadors.md
-
 ## PLAYER LOOKUP: Ashton Jeanty
 - Player name: Ashton Jeanty
 - Player ID: 12527
@@ -315,6 +307,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
 - Team file: 12_DMV_Fantasy.md
+
+## PLAYER LOOKUP: Chimere Dike
+- Player name: Chimere Dike
+- Player ID: 12540
+- Position: WR
+- Current owner team: Conquistadors
+- Current owner roster ID: 1
+- Team file: 01_Conquistadors.md
 
 ## PLAYER LOOKUP: Chris Bell
 - Player name: Chris Bell
@@ -1212,14 +1212,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 8
 - Team file: 08_All_Hail_King_Jesus.md
 
-## PLAYER LOOKUP: Kendrick Bourne
-- Player name: Kendrick Bourne
-- Player ID: 4454
-- Position: WR
-- Current owner team: Lightskin Legends ✊🏽
-- Current owner roster ID: 6
-- Team file: 06_Lightskin_Legends.md
-
 ## PLAYER LOOKUP: Kenneth Walker III
 - Player name: Kenneth Walker III
 - Player ID: 8151
@@ -1620,14 +1612,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 6
 - Team file: 06_Lightskin_Legends.md
 
-## PLAYER LOOKUP: Reggie Virgil
-- Player name: Reggie Virgil
-- Player ID: 13297
-- Position: WR
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Team file: 03_Ravens_Regime.md
-
 ## PLAYER LOOKUP: Rhamondre Stevenson
 - Player name: Rhamondre Stevenson
 - Player ID: 7611
@@ -2012,6 +1996,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 3
 - Team file: 03_Ravens_Regime.md
 
+## PLAYER LOOKUP: Zonovan Knight
+- Player name: Zonovan Knight
+- Player ID: 8122
+- Position: RB
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Team file: 13_Southside_Savages.md
+
 ## Available Player Board
 
 ## AVAILABLE PLAYER: Justice Hill
@@ -2084,15 +2076,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: KC
 - Championship AVI (C-AVI, 0-100): 27.5
 - Dynasty AVI (D-AVI, 0-100): 63.3
-- Availability: available
-
-## AVAILABLE PLAYER: Chimere Dike
-- Player name: Chimere Dike
-- Player ID: 12540
-- Position: WR
-- NFL team: TEN
-- Championship AVI (C-AVI, 0-100): 27.4
-- Dynasty AVI (D-AVI, 0-100): 64.6
 - Availability: available
 
 ## AVAILABLE PLAYER: Calvin Ridley
@@ -2644,6 +2627,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 53.7
 - Availability: available
 
+## AVAILABLE PLAYER: Kendrick Bourne
+- Player name: Kendrick Bourne
+- Player ID: 4454
+- Position: WR
+- NFL team: ARI
+- Championship AVI (C-AVI, 0-100): 19.7
+- Dynasty AVI (D-AVI, 0-100): 53.8
+- Availability: available
+
 ## AVAILABLE PLAYER: Anthony Richardson Sr.
 - Player name: Anthony Richardson Sr.
 - Player ID: 9229
@@ -2734,15 +2726,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 39.6
 - Availability: available
 
-## AVAILABLE PLAYER: Zonovan Knight
-- Player name: Zonovan Knight
-- Player ID: 8122
-- Position: RB
-- NFL team: ARI
-- Championship AVI (C-AVI, 0-100): 19.1
-- Dynasty AVI (D-AVI, 0-100): 54.5
-- Availability: available
-
 ## AVAILABLE PLAYER: Ben Sinnott
 - Player name: Ben Sinnott
 - Player ID: 11596
@@ -2822,6 +2805,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: LVR
 - Championship AVI (C-AVI, 0-100): 18.5
 - Dynasty AVI (D-AVI, 0-100): 51.4
+- Availability: available
+
+## AVAILABLE PLAYER: Reggie Virgil
+- Player name: Reggie Virgil
+- Player ID: 13297
+- Position: WR
+- NFL team: ARI
+- Championship AVI (C-AVI, 0-100): 18.3
+- Dynasty AVI (D-AVI, 0-100): 49.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Roschon Johnson
@@ -2921,6 +2913,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: LAR
 - Championship AVI (C-AVI, 0-100): 17.4
 - Dynasty AVI (D-AVI, 0-100): 34.0
+- Availability: available
+
+## AVAILABLE PLAYER: Ashton Dulin
+- Player name: Ashton Dulin
+- Player ID: 6427
+- Position: WR
+- NFL team: IND
+- Championship AVI (C-AVI, 0-100): 17.1
+- Dynasty AVI (D-AVI, 0-100): 46.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Efton Chism III
