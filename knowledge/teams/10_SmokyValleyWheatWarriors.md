@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 308805697879937024
 - Division: 2
 - Waiver position: 16
-- Last updated from Sleeper exports: 2026-11-17
+- Last updated from Sleeper exports: 2026-11-18
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 608.6
-- championship_lineup_c_avi_avg: 76.08
-- offensive_roster_c_avi_sum: 784.4
-- offensive_roster_c_avi_avg: 52.29
-- offensive_roster_d_avi_sum: 1152.8
-- offensive_roster_d_avi_avg: 76.85
+- championship_lineup_c_avi_sum: 626.9
+- championship_lineup_c_avi_avg: 78.36
+- offensive_roster_c_avi_sum: 812.6
+- offensive_roster_c_avi_avg: 54.17
+- offensive_roster_d_avi_sum: 1164.2
+- offensive_roster_d_avi_avg: 77.61
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -36,7 +36,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: CeeDee Lamb | C-AVI: 97.4 | D-AVI: 98.4
 - WR: Chris Olave | C-AVI: 86.3 | D-AVI: 95.4
 - TE: George Kittle | C-AVI: 83.4 | D-AVI: 85.6
-- FLEX: Wan'Dale Robinson | C-AVI: 41.0 | D-AVI: 77.9
+- FLEX: Rhamondre Stevenson | C-AVI: 59.3 | D-AVI: 82.0
 - FLEX: Mark Andrews | C-AVI: 40.1 | D-AVI: 72.5
 
 ## Current Roster — All Player Cards
@@ -127,6 +127,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Rhamondre Stevenson
+- Player name: Rhamondre Stevenson
+- Player ID: 7611
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: NE
+- Active: True
+- Status: Active
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): 59.3
+- Dynasty AVI (D-AVI, 0-100): 82.0
+- Projected PPR points: 169.0
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Rico Dowdle
 - Player name: Rico Dowdle
 - Player ID: 7021
@@ -161,23 +178,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Brian Robinson Jr.
-- Player name: Brian Robinson Jr.
-- Player ID: 8154
-- Current owner team: SmokyValleyWheatWarriors
-- Current owner roster ID: 10
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: ATL
-- Active: True
-- Status: Inactive
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 28.7
-- Dynasty AVI (D-AVI, 0-100): 70.2
-- Projected PPR points: 69.9
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Kaleb Johnson
 - Player name: Kaleb Johnson
 - Player ID: 12504
@@ -189,7 +189,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 23.7
+- Championship AVI (C-AVI, 0-100): 23.8
 - Dynasty AVI (D-AVI, 0-100): 66.4
 - Projected PPR points: 32.0
 - Category: offense
@@ -238,10 +238,10 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Fantasy positions: ['WR']
 - NFL team: TEN
 - Active: True
-- Status: Active
+- Status: Inactive
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 41.0
-- Dynasty AVI (D-AVI, 0-100): 77.9
+- Championship AVI (C-AVI, 0-100): 38.5
+- Dynasty AVI (D-AVI, 0-100): 77.5
 - Projected PPR points: 170.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

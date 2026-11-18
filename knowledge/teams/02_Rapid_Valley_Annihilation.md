@@ -9,34 +9,34 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1178861684281753600
 - Division: 2
 - Waiver position: 7
-- Last updated from Sleeper exports: 2026-11-17
+- Last updated from Sleeper exports: 2026-11-18
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 21
-- offense: 17
+- total_players: 20
+- offense: 16
 - kickers: 1
 - idp: 3
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 397.5
-- championship_lineup_c_avi_avg: 49.69
-- offensive_roster_c_avi_sum: 635.0
-- offensive_roster_c_avi_avg: 37.35
-- offensive_roster_d_avi_sum: 1236.4
-- offensive_roster_d_avi_avg: 72.73
+- championship_lineup_c_avi_sum: 381.8
+- championship_lineup_c_avi_avg: 47.73
+- offensive_roster_c_avi_sum: 594.8
+- offensive_roster_c_avi_avg: 37.17
+- offensive_roster_d_avi_sum: 1163.8
+- offensive_roster_d_avi_avg: 72.74
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Caleb Williams | C-AVI: 65.4 | D-AVI: 85.6
 - RB: Quinshon Judkins | C-AVI: 63.6 | D-AVI: 87.6
-- RB: Ollie Gordon II | C-AVI: 40.2 | D-AVI: 73.1
+- RB: Jaylen Wright | C-AVI: 24.5 | D-AVI: 64.4
 - WR: Denzel Boston | C-AVI: 50.5 | D-AVI: 83.4
 - WR: Adonai Mitchell | C-AVI: 41.4 | D-AVI: 76.6
 - TE: Colston Loveland | C-AVI: 66.9 | D-AVI: 87.9
-- FLEX: AJ Barner | C-AVI: 35.1 | D-AVI: 71.5
+- FLEX: AJ Barner | C-AVI: 35.1 | D-AVI: 72.0
 - FLEX: Quentin Johnston | C-AVI: 34.4 | D-AVI: 74.3
 
 ## Current Roster — All Player Cards
@@ -52,7 +52,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: CHI
 - Active: True
 - Status: Active
-- Age: 24.0
+- Age: 25.0
 - Championship AVI (C-AVI, 0-100): 65.4
 - Dynasty AVI (D-AVI, 0-100): 85.6
 - Projected PPR points: 299.3
@@ -90,23 +90,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 63.6
 - Dynasty AVI (D-AVI, 0-100): 87.6
 - Projected PPR points: 196.0
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Ollie Gordon II
-- Player name: Ollie Gordon II
-- Player ID: 12495
-- Current owner team: Rapid Valley Annihilation
-- Current owner roster ID: 2
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: MIA
-- Active: True
-- Status: Active
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): 40.2
-- Dynasty AVI (D-AVI, 0-100): 73.1
-- Projected PPR points: 23.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -309,7 +292,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 35.1
-- Dynasty AVI (D-AVI, 0-100): 71.5
+- Dynasty AVI (D-AVI, 0-100): 72.0
 - Projected PPR points: 142.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

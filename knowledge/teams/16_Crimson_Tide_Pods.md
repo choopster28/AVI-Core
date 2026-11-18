@@ -9,35 +9,35 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 471824466389757952
 - Division: 1
 - Waiver position: 2
-- Last updated from Sleeper exports: 2026-11-17
+- Last updated from Sleeper exports: 2026-11-18
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 21
-- offense: 15
+- total_players: 20
+- offense: 14
 - kickers: 1
 - idp: 5
 - other: 0
-- keepers: 1
+- keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 328.6
-- championship_lineup_c_avi_avg: 41.08
-- offensive_roster_c_avi_sum: 492.5
-- offensive_roster_c_avi_avg: 32.83
-- offensive_roster_d_avi_sum: 1070.2
-- offensive_roster_d_avi_avg: 71.35
+- championship_lineup_c_avi_sum: 311.9
+- championship_lineup_c_avi_avg: 38.99
+- offensive_roster_c_avi_sum: 445.8
+- offensive_roster_c_avi_avg: 31.84
+- offensive_roster_d_avi_sum: 992.8
+- offensive_roster_d_avi_avg: 70.91
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Justin Herbert | C-AVI: 36.7 | D-AVI: 73.6
 - RB: Jadarian Price | C-AVI: 36.6 | D-AVI: 81.1
 - RB: Dylan Sampson | C-AVI: 35.0 | D-AVI: 72.4
-- WR: Jakobi Meyers | C-AVI: 46.8 | D-AVI: 77.9
 - WR: Brian Thomas Jr. | C-AVI: 39.9 | D-AVI: 81.2
-- TE: Dalton Kincaid | C-AVI: 66.3 | D-AVI: 83.5
-- FLEX: Germie Bernard | C-AVI: 35.5 | D-AVI: 73.2
+- WR: Germie Bernard | C-AVI: 35.5 | D-AVI: 73.2
+- TE: Dalton Kincaid | C-AVI: 66.4 | D-AVI: 84.0
 - FLEX: Chris Rodriguez Jr. | C-AVI: 31.8 | D-AVI: 71.4
+- FLEX: Gunnar Helm | C-AVI: 30.0 | D-AVI: 69.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -107,23 +107,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 31.8
 - Dynasty AVI (D-AVI, 0-100): 71.4
 - Projected PPR points: 132.5
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Jakobi Meyers
-- Player name: Jakobi Meyers
-- Player ID: 5947
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: JAX
-- Active: True
-- Status: Active
-- Age: 30.0
-- Championship AVI (C-AVI, 0-100): 46.8
-- Dynasty AVI (D-AVI, 0-100): 77.9
-- Projected PPR points: 169.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -257,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 66.3
-- Dynasty AVI (D-AVI, 0-100): 83.5
+- Championship AVI (C-AVI, 0-100): 66.4
+- Dynasty AVI (D-AVI, 0-100): 84.0
 - Projected PPR points: 163.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

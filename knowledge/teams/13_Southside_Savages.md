@@ -9,12 +9,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 998253660243054592
 - Division: 2
 - Waiver position: 13
-- Last updated from Sleeper exports: 2026-11-17
+- Last updated from Sleeper exports: 2026-11-18
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 21
-- offense: 14
+- total_players: 20
+- offense: 13
 - kickers: 1
 - idp: 6
 - other: 0
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 304.9
 - championship_lineup_c_avi_avg: 60.98
-- offensive_roster_c_avi_sum: 584.0
-- offensive_roster_c_avi_avg: 44.92
-- offensive_roster_d_avi_sum: 955.3
-- offensive_roster_d_avi_avg: 73.48
+- offensive_roster_c_avi_sum: 538.0
+- offensive_roster_c_avi_avg: 44.83
+- offensive_roster_d_avi_sum: 875.8
+- offensive_roster_d_avi_avg: 72.98
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -73,23 +73,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: NOT_IN_AVI_OUTPUT
 
-### PLAYER: Josh Jacobs
-- Player name: Josh Jacobs
-- Player ID: 5850
-- Current owner team: Southside Savages
-- Current owner roster ID: 13
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: GB
-- Active: True
-- Status: Active
-- Age: 28.0
-- Championship AVI (C-AVI, 0-100): 46.1
-- Dynasty AVI (D-AVI, 0-100): 79.9
-- Projected PPR points: 139.4
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Emanuel Wilson
 - Player name: Emanuel Wilson
 - Player ID: 11435
@@ -118,7 +101,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 28.1
+- Championship AVI (C-AVI, 0-100): 28.2
 - Dynasty AVI (D-AVI, 0-100): 79.4
 - Projected PPR points: 171.0
 - Category: offense
@@ -220,8 +203,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 37.1
-- Dynasty AVI (D-AVI, 0-100): 60.4
+- Championship AVI (C-AVI, 0-100): 37.0
+- Dynasty AVI (D-AVI, 0-100): 60.3
 - Projected PPR points: 57.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -271,8 +254,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 28.5
-- Dynasty AVI (D-AVI, 0-100): 61.0
+- Championship AVI (C-AVI, 0-100): 28.6
+- Dynasty AVI (D-AVI, 0-100): 61.5
 - Projected PPR points: 76.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

@@ -9,30 +9,30 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 4
-- Last updated from Sleeper exports: 2026-11-17
+- Last updated from Sleeper exports: 2026-11-18
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 19
-- offense: 15
+- total_players: 20
+- offense: 16
 - kickers: 1
 - idp: 3
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 573.0
-- championship_lineup_c_avi_avg: 71.62
-- offensive_roster_c_avi_sum: 824.0
-- offensive_roster_c_avi_avg: 54.93
-- offensive_roster_d_avi_sum: 1191.0
-- offensive_roster_d_avi_avg: 79.40
+- championship_lineup_c_avi_sum: 565.1
+- championship_lineup_c_avi_avg: 70.64
+- offensive_roster_c_avi_sum: 851.4
+- offensive_roster_c_avi_avg: 53.21
+- offensive_roster_d_avi_sum: 1262.1
+- offensive_roster_d_avi_avg: 78.88
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Patrick Mahomes | C-AVI: 64.2 | D-AVI: 81.5
 - RB: Cam Skattebo | C-AVI: 62.6 | D-AVI: 85.3
-- RB: Rhamondre Stevenson | C-AVI: 59.3 | D-AVI: 82.0
+- RB: Saquon Barkley | C-AVI: 51.4 | D-AVI: 85.2
 - WR: Jaxon Smith-Njigba | C-AVI: 99.0 | D-AVI: 99.8
 - WR: Malik Nabers | C-AVI: 84.6 | D-AVI: 96.3
 - TE: Trey McBride | C-AVI: 93.0 | D-AVI: 92.7
@@ -93,23 +93,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Rhamondre Stevenson
-- Player name: Rhamondre Stevenson
-- Player ID: 7611
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: NE
-- Active: True
-- Status: Active
-- Age: 28.0
-- Championship AVI (C-AVI, 0-100): 59.3
-- Dynasty AVI (D-AVI, 0-100): 82.0
-- Projected PPR points: 169.0
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Saquon Barkley
 - Player name: Saquon Barkley
 - Player ID: 4866
@@ -127,6 +110,40 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Josh Jacobs
+- Player name: Josh Jacobs
+- Player ID: 5850
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: GB
+- Active: True
+- Status: Active
+- Age: 28.0
+- Championship AVI (C-AVI, 0-100): 46.2
+- Dynasty AVI (D-AVI, 0-100): 80.0
+- Projected PPR points: 139.4
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Ollie Gordon II
+- Player name: Ollie Gordon II
+- Player ID: 12495
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: MIA
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 40.3
+- Dynasty AVI (D-AVI, 0-100): 73.1
+- Projected PPR points: 23.2
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Mike Washington Jr.
 - Player name: Mike Washington Jr.
 - Player ID: 13305
@@ -138,7 +155,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 29.7
+- Championship AVI (C-AVI, 0-100): 29.8
 - Dynasty AVI (D-AVI, 0-100): 74.0
 - Projected PPR points: 97.5
 - Category: offense
@@ -257,7 +274,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 30.0
+- Championship AVI (C-AVI, 0-100): 30.1
 - Dynasty AVI (D-AVI, 0-100): 68.3
 - Projected PPR points: 51.9
 - Category: offense

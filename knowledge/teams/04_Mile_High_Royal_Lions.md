@@ -9,24 +9,24 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736992907139158016
 - Division: 4
 - Waiver position: 3
-- Last updated from Sleeper exports: 2026-11-17
+- Last updated from Sleeper exports: 2026-11-18
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 21
-- offense: 17
+- total_players: 22
+- offense: 18
 - kickers: 1
 - idp: 3
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 518.3
-- championship_lineup_c_avi_avg: 64.79
-- offensive_roster_c_avi_sum: 855.8
-- offensive_roster_c_avi_avg: 50.34
-- offensive_roster_d_avi_sum: 1307.5
-- offensive_roster_d_avi_avg: 76.91
+- championship_lineup_c_avi_sum: 523.4
+- championship_lineup_c_avi_avg: 65.42
+- offensive_roster_c_avi_sum: 902.4
+- offensive_roster_c_avi_avg: 50.13
+- offensive_roster_d_avi_sum: 1384.9
+- offensive_roster_d_avi_avg: 76.94
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,9 +35,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Jonah Coleman | C-AVI: 54.3 | D-AVI: 82.4
 - WR: Drake London | C-AVI: 81.4 | D-AVI: 95.2
 - WR: Garrett Wilson | C-AVI: 77.2 | D-AVI: 91.8
-- TE: Dalton Schultz | C-AVI: 54.2 | D-AVI: 72.6
+- TE: Dalton Schultz | C-AVI: 54.1 | D-AVI: 72.1
 - FLEX: Deebo Samuel Sr. | C-AVI: 63.4 | D-AVI: 76.2
-- FLEX: Courtland Sutton | C-AVI: 41.6 | D-AVI: 76.9
+- FLEX: Jakobi Meyers | C-AVI: 46.8 | D-AVI: 77.9
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -229,6 +229,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Jakobi Meyers
+- Player name: Jakobi Meyers
+- Player ID: 5947
+- Current owner team: Mile High Royal Lions
+- Current owner roster ID: 4
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: JAX
+- Active: True
+- Status: Active
+- Age: 30.0
+- Championship AVI (C-AVI, 0-100): 46.8
+- Dynasty AVI (D-AVI, 0-100): 77.9
+- Projected PPR points: 169.3
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Davante Adams
 - Player name: Davante Adams
 - Player ID: 2133
@@ -274,7 +291,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 35.9
+- Championship AVI (C-AVI, 0-100): 35.8
 - Dynasty AVI (D-AVI, 0-100): 80.1
 - Projected PPR points: 186.2
 - Category: offense
@@ -325,8 +342,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 54.2
-- Dynasty AVI (D-AVI, 0-100): 72.6
+- Championship AVI (C-AVI, 0-100): 54.1
+- Dynasty AVI (D-AVI, 0-100): 72.1
 - Projected PPR points: 150.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
