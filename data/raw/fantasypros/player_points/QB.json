@@ -1305,6 +1305,19 @@
       "weeks": {
         "10": 2.4
       }
+    },
+    {
+      "average": 0,
+      "filename": "jake-browning.php",
+      "games": 1,
+      "player_id": 18557,
+      "player_name": "Jake Browning",
+      "points": 0,
+      "position_id": "QB",
+      "team_id": "LAC",
+      "weeks": {
+        "10": 0
+      }
     }
   ],
   "public_api": true,

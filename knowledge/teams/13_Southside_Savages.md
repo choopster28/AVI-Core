@@ -8,33 +8,34 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: GGEZGoNext
 - Owner ID: 998253660243054592
 - Division: 2
-- Waiver position: 13
+- Waiver position: 15
 - Last updated from Sleeper exports: 2026-11-18
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 20
-- offense: 13
+- total_players: 21
+- offense: 14
 - kickers: 1
 - idp: 6
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 304.9
-- championship_lineup_c_avi_avg: 60.98
-- offensive_roster_c_avi_sum: 538.0
-- offensive_roster_c_avi_avg: 44.83
-- offensive_roster_d_avi_sum: 875.8
-- offensive_roster_d_avi_avg: 72.98
+- championship_lineup_c_avi_sum: 325.5
+- championship_lineup_c_avi_avg: 54.25
+- offensive_roster_c_avi_sum: 558.6
+- offensive_roster_c_avi_avg: 42.97
+- offensive_roster_d_avi_sum: 932.8
+- offensive_roster_d_avi_avg: 71.75
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
+- RB: Zonovan Knight | C-AVI: 19.1 | D-AVI: 55.3
 - WR: Tetairoa McMillan | C-AVI: 82.6 | D-AVI: 94.7
-- WR: Luther Burden III | C-AVI: 78.8 | D-AVI: 92.7
-- TE: Pat Freiermuth | C-AVI: 49.6 | D-AVI: 71.9
-- FLEX: DK Metcalf | C-AVI: 55.2 | D-AVI: 82.4
-- FLEX: Kayshon Boutte | C-AVI: 38.7 | D-AVI: 69.0
+- WR: Luther Burden III | C-AVI: 80.3 | D-AVI: 92.7
+- TE: Pat Freiermuth | C-AVI: 49.6 | D-AVI: 71.4
+- FLEX: DK Metcalf | C-AVI: 55.2 | D-AVI: 81.9
+- FLEX: Kayshon Boutte | C-AVI: 38.7 | D-AVI: 68.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -101,9 +102,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Inactive
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 28.2
+- Championship AVI (C-AVI, 0-100): 28.1
 - Dynasty AVI (D-AVI, 0-100): 79.4
 - Projected PPR points: 171.0
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Zonovan Knight
+- Player name: Zonovan Knight
+- Player ID: 8122
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: ARI
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 19.1
+- Dynasty AVI (D-AVI, 0-100): 55.3
+- Projected PPR points: 10.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -119,7 +137,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 33.6
+- Dynasty AVI (D-AVI, 0-100): 37.4
 - Projected PPR points: None
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
@@ -152,7 +170,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 78.8
+- Championship AVI (C-AVI, 0-100): 80.3
 - Dynasty AVI (D-AVI, 0-100): 92.7
 - Projected PPR points: 209.0
 - Category: offense
@@ -170,7 +188,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 28.0
 - Championship AVI (C-AVI, 0-100): 55.2
-- Dynasty AVI (D-AVI, 0-100): 82.4
+- Dynasty AVI (D-AVI, 0-100): 81.9
 - Projected PPR points: 183.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -187,7 +205,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 38.7
-- Dynasty AVI (D-AVI, 0-100): 69.0
+- Dynasty AVI (D-AVI, 0-100): 68.3
 - Projected PPR points: 125.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -203,8 +221,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 37.0
-- Dynasty AVI (D-AVI, 0-100): 60.3
+- Championship AVI (C-AVI, 0-100): 37.1
+- Dynasty AVI (D-AVI, 0-100): 60.1
 - Projected PPR points: 57.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -221,7 +239,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 30.6
-- Dynasty AVI (D-AVI, 0-100): 74.1
+- Dynasty AVI (D-AVI, 0-100): 73.9
 - Projected PPR points: 197.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -238,7 +256,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 28.0
 - Championship AVI (C-AVI, 0-100): 49.6
-- Dynasty AVI (D-AVI, 0-100): 71.9
+- Dynasty AVI (D-AVI, 0-100): 71.4
 - Projected PPR points: 128.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -260,17 +278,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Andy Borregales
-- Player name: Andy Borregales
-- Player ID: 12713
+### PLAYER: Drew Stevens
+- Player name: Drew Stevens
+- Player ID: 13968
 - Current owner team: Southside Savages
 - Current owner roster ID: 13
 - Position: K
 - Fantasy positions: ['K']
-- NFL team: NE
+- NFL team: WAS
 - Active: True
 - Status: Active
-- Age: 23.0
+- Age: 22.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

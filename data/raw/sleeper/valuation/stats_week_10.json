@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-11-18T03:47:11.475886+00:00",
+  "fetched_at_utc": "2026-11-18T20:26:47.623344+00:00",
   "players": {
     "10210": {
       "gms_active": 1.0,
@@ -5326,7 +5326,7 @@
       "rec_10_19": 3.0,
       "rec_20_29": 1.0,
       "rec_5_9": 1.0,
-      "rec_air_yd": 48.0,
+      "rec_air_yd": 50.0,
       "rec_drop": 1.0,
       "rec_fd": 2.0,
       "rec_lng": 23.0,
@@ -5334,7 +5334,7 @@
       "rec_td": 1.0,
       "rec_td_lng": 11.0,
       "rec_tgt": 7.0,
-      "rec_yar": 23.0,
+      "rec_yar": 21.0,
       "rec_yd": 71.0,
       "rec_ypr": 11.83,
       "rec_ypt": 10.14,
@@ -6505,7 +6505,6 @@
     },
     "12429": {
       "gms_active": 1.0,
-      "gp": 1.0,
       "pos_rank_half_ppr": 999.0,
       "pos_rank_ppr": 999.0,
       "pos_rank_std": 999.0
@@ -12665,7 +12664,6 @@
     },
     "13392": {
       "gms_active": 1.0,
-      "gp": 1.0,
       "pos_rank_half_ppr": 999.0,
       "pos_rank_ppr": 999.0,
       "pos_rank_std": 999.0
@@ -31489,14 +31487,14 @@
       "punts": 2.0,
       "qb_hit": 7.0,
       "rec": 30.0,
-      "rec_air_yd": 248.0,
+      "rec_air_yd": 250.0,
       "rec_drop": 4.0,
       "rec_lng": 39.0,
       "rec_rz_tgt": 8.0,
       "rec_td": 5.0,
       "rec_td_lng": 39.0,
       "rec_tgt": 49.0,
-      "rec_yar": 94.0,
+      "rec_yar": 92.0,
       "rec_yd": 342.0,
       "rec_ypr": 11.4,
       "rec_ypt": 6.98,

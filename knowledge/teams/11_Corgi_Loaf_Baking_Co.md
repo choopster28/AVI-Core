@@ -8,36 +8,36 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: awang1900
 - Owner ID: 986498458162970624
 - Division: 3
-- Waiver position: 4
+- Waiver position: 14
 - Last updated from Sleeper exports: 2026-11-18
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
 - total_players: 20
-- offense: 16
+- offense: 15
 - kickers: 1
-- idp: 3
+- idp: 4
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 565.1
-- championship_lineup_c_avi_avg: 70.64
-- offensive_roster_c_avi_sum: 851.4
-- offensive_roster_c_avi_avg: 53.21
-- offensive_roster_d_avi_sum: 1262.1
-- offensive_roster_d_avi_avg: 78.88
+- championship_lineup_c_avi_sum: 565.2
+- championship_lineup_c_avi_avg: 70.65
+- offensive_roster_c_avi_sum: 832.5
+- offensive_roster_c_avi_avg: 55.50
+- offensive_roster_d_avi_sum: 1208.4
+- offensive_roster_d_avi_avg: 80.56
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Patrick Mahomes | C-AVI: 64.2 | D-AVI: 81.5
-- RB: Cam Skattebo | C-AVI: 62.6 | D-AVI: 85.3
+- QB: Patrick Mahomes | C-AVI: 64.2 | D-AVI: 81.3
+- RB: Cam Skattebo | C-AVI: 62.7 | D-AVI: 86.1
 - RB: Saquon Barkley | C-AVI: 51.4 | D-AVI: 85.2
 - WR: Jaxon Smith-Njigba | C-AVI: 99.0 | D-AVI: 99.8
-- WR: Malik Nabers | C-AVI: 84.6 | D-AVI: 96.3
+- WR: Malik Nabers | C-AVI: 84.6 | D-AVI: 96.0
 - TE: Trey McBride | C-AVI: 93.0 | D-AVI: 92.7
 - FLEX: DJ Moore | C-AVI: 57.5 | D-AVI: 84.3
-- FLEX: Ryan Flournoy | C-AVI: 52.8 | D-AVI: 74.5
+- FLEX: Ryan Flournoy | C-AVI: 52.8 | D-AVI: 74.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -54,7 +54,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 64.2
-- Dynasty AVI (D-AVI, 0-100): 81.5
+- Dynasty AVI (D-AVI, 0-100): 81.3
 - Projected PPR points: 286.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -71,7 +71,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 49.7
-- Dynasty AVI (D-AVI, 0-100): 73.4
+- Dynasty AVI (D-AVI, 0-100): 72.9
 - Projected PPR points: 270.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 62.6
-- Dynasty AVI (D-AVI, 0-100): 85.3
+- Championship AVI (C-AVI, 0-100): 62.7
+- Dynasty AVI (D-AVI, 0-100): 86.1
 - Projected PPR points: 201.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 46.2
-- Dynasty AVI (D-AVI, 0-100): 80.0
+- Championship AVI (C-AVI, 0-100): 46.1
+- Dynasty AVI (D-AVI, 0-100): 80.2
 - Projected PPR points: 139.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 40.3
+- Championship AVI (C-AVI, 0-100): 40.2
 - Dynasty AVI (D-AVI, 0-100): 73.1
 - Projected PPR points: 23.2
 - Category: offense
@@ -155,26 +155,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 29.8
-- Dynasty AVI (D-AVI, 0-100): 74.0
+- Championship AVI (C-AVI, 0-100): 29.7
+- Dynasty AVI (D-AVI, 0-100): 73.5
 - Projected PPR points: 97.5
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Corey Kiner
-- Player name: Corey Kiner
-- Player ID: 12491
-- Current owner team: Corgi Loaf Baking Co. 
-- Current owner roster ID: 11
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: NE
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 18.7
-- Dynasty AVI (D-AVI, 0-100): 54.2
-- Projected PPR points: 15.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -207,7 +190,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 84.6
-- Dynasty AVI (D-AVI, 0-100): 96.3
+- Dynasty AVI (D-AVI, 0-100): 96.0
 - Projected PPR points: 236.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -241,7 +224,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 52.8
-- Dynasty AVI (D-AVI, 0-100): 74.5
+- Dynasty AVI (D-AVI, 0-100): 74.8
 - Projected PPR points: 121.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -258,7 +241,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 34.0
-- Dynasty AVI (D-AVI, 0-100): 72.7
+- Dynasty AVI (D-AVI, 0-100): 72.2
 - Projected PPR points: 105.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -275,7 +258,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 30.1
-- Dynasty AVI (D-AVI, 0-100): 68.3
+- Dynasty AVI (D-AVI, 0-100): 69.5
 - Projected PPR points: 51.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -331,17 +314,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Carl Granderson
-- Player name: Carl Granderson
-- Player ID: 5912
+### PLAYER: Quinnen Williams
+- Player name: Quinnen Williams
+- Player ID: 6118
 - Current owner team: Corgi Loaf Baking Co. 
 - Current owner roster ID: 11
 - Position: DL
-- Fantasy positions: ['DL', 'LB']
-- NFL team: NO
+- Fantasy positions: ['DL']
+- NFL team: DAL
 - Active: True
 - Status: Active
-- Age: 29.0
+- Age: 28.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
@@ -373,6 +356,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Position: DB
 - Fantasy positions: ['DB']
 - NFL team: GB
+- Active: True
+- Status: Active
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Jordan Battle
+- Player name: Jordan Battle
+- Player ID: 10927
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: CIN
 - Active: True
 - Status: Active
 - Age: 25.0

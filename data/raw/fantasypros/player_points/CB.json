@@ -340,17 +340,17 @@
       }
     },
     {
-      "average": 3.4,
+      "average": 5,
       "filename": "aj-terrell.php",
       "games": 6,
       "player_id": 19224,
       "player_name": "A.J. Terrell Jr.",
-      "points": 20.25,
+      "points": 30.25,
       "position_id": "CB",
       "team_id": "ATL",
       "weeks": {
         "1": 6.8,
-        "10": 0,
+        "10": 10,
         "2": 1.5,
         "7": 6,
         "8": 2.3,
@@ -1258,17 +1258,17 @@
       }
     },
     {
-      "average": 2.9,
+      "average": 1.8,
       "filename": "avieon-terrell.php",
       "games": 9,
       "player_id": 27981,
       "player_name": "Avieon Terrell",
-      "points": 26.5,
+      "points": 16.5,
       "position_id": "CB",
       "team_id": "ATL",
       "weeks": {
         "1": 1.5,
-        "10": 11.5,
+        "10": 1.5,
         "2": 1.5,
         "3": 0.8,
         "4": 0,

@@ -8386,8 +8386,8 @@
     "avi_id": "AVI-00007607",
     "canonical_name": "Michael Carter",
     "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
     },
     "nfl_team": "TEN",
     "normalized_name": "michael carter",
