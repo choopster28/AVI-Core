@@ -387,18 +387,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00006039",
-      "c_avi": 24.3,
-      "d_avi": 59.2,
-      "nfl_team": "BUF",
-      "player_name": "Ty Johnson",
-      "position": "RB",
-      "sleeper_id": "6039",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00008161",
       "c_avi": 24.1,
       "d_avi": 65.8,
@@ -562,18 +550,6 @@
       "player_name": "Nate Boerkircher",
       "position": "TE",
       "sleeper_id": "13299",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00012485",
-      "c_avi": 22.6,
-      "d_avi": 59.4,
-      "nfl_team": "TB",
-      "player_name": "Tez Johnson",
-      "position": "WR",
-      "sleeper_id": "12485",
       "status": "Active"
     },
     {
@@ -2750,8 +2726,8 @@
     }
   ],
   "counts": {
-    "available_players": 229,
-    "rostered_players": 250
+    "available_players": 227,
+    "rostered_players": 252
   },
   "rostered_players": [
     {
@@ -2830,7 +2806,7 @@
       "position": "RB",
       "roster_id": 3,
       "sleeper_id": "13302",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
     },
@@ -4894,7 +4870,7 @@
       "position": "WR",
       "roster_id": 5,
       "sleeper_id": "9756",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "05_Northside_Kings.md",
       "team_name": "Northside Kings "
     },
@@ -6325,6 +6301,22 @@
     {
       "active": true,
       "availability": "rostered",
+      "avi_id": "AVI-00012485",
+      "c_avi": 22.6,
+      "d_avi": 59.4,
+      "nfl_team": "TB",
+      "owner_id": "471824466389757952",
+      "player_name": "Tez Johnson",
+      "position": "WR",
+      "roster_id": 16,
+      "sleeper_id": "12485",
+      "status": "Active",
+      "team_file": "16_Crimson_Tide_Pods.md",
+      "team_name": "Crimson Tide Pods"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
       "avi_id": "AVI-00005967",
       "c_avi": 74.3,
       "d_avi": 83.6,
@@ -6497,6 +6489,22 @@
       "status": "Active",
       "team_file": "10_SmokyValleyWheatWarriors.md",
       "team_name": "SmokyValleyWheatWarriors"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00006039",
+      "c_avi": 24.3,
+      "d_avi": 59.2,
+      "nfl_team": "BUF",
+      "owner_id": "471824466389757952",
+      "player_name": "Ty Johnson",
+      "position": "RB",
+      "roster_id": 16,
+      "sleeper_id": "6039",
+      "status": "Active",
+      "team_file": "16_Crimson_Tide_Pods.md",
+      "team_name": "Crimson Tide Pods"
     },
     {
       "active": true,

@@ -1788,6 +1788,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 13
 - Team file: 13_Southside_Savages.md
 
+## PLAYER LOOKUP: Tez Johnson
+- Player name: Tez Johnson
+- Player ID: 12485
+- Position: WR
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
+
 ## PLAYER LOOKUP: Tony Pollard
 - Player name: Tony Pollard
 - Player ID: 5967
@@ -1875,6 +1883,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: SmokyValleyWheatWarriors
 - Current owner roster ID: 10
 - Team file: 10_SmokyValleyWheatWarriors.md
+
+## PLAYER LOOKUP: Ty Johnson
+- Player name: Ty Johnson
+- Player ID: 6039
+- Position: RB
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Team file: 16_Crimson_Tide_Pods.md
 
 ## PLAYER LOOKUP: Tyjae Spears
 - Player name: Tyjae Spears
@@ -2294,15 +2310,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 61.5
 - Availability: available
 
-## AVAILABLE PLAYER: Ty Johnson
-- Player name: Ty Johnson
-- Player ID: 6039
-- Position: RB
-- NFL team: BUF
-- Championship AVI (C-AVI, 0-100): 24.3
-- Dynasty AVI (D-AVI, 0-100): 59.2
-- Availability: available
-
 ## AVAILABLE PLAYER: Malik Willis
 - Player name: Malik Willis
 - Player ID: 8161
@@ -2427,15 +2434,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: JAC
 - Championship AVI (C-AVI, 0-100): 22.6
 - Dynasty AVI (D-AVI, 0-100): 49.4
-- Availability: available
-
-## AVAILABLE PLAYER: Tez Johnson
-- Player name: Tez Johnson
-- Player ID: 12485
-- Position: WR
-- NFL team: TB
-- Championship AVI (C-AVI, 0-100): 22.6
-- Dynasty AVI (D-AVI, 0-100): 59.4
 - Availability: available
 
 ## AVAILABLE PLAYER: Will Kacmarek
