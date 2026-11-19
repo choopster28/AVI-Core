@@ -9,35 +9,35 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 471824466389757952
 - Division: 1
 - Waiver position: 2
-- Last updated from Sleeper exports: 2026-11-18
+- Last updated from Sleeper exports: 2026-11-19
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 20
-- offense: 14
+- total_players: 22
+- offense: 16
 - kickers: 1
 - idp: 5
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 312.5
-- championship_lineup_c_avi_avg: 39.06
-- offensive_roster_c_avi_sum: 447.5
-- offensive_roster_c_avi_avg: 31.96
-- offensive_roster_d_avi_sum: 1005.8
-- offensive_roster_d_avi_avg: 71.84
+- championship_lineup_c_avi_sum: 309.5
+- championship_lineup_c_avi_avg: 38.69
+- offensive_roster_c_avi_sum: 491.4
+- offensive_roster_c_avi_avg: 30.71
+- offensive_roster_d_avi_sum: 1123.2
+- offensive_roster_d_avi_avg: 70.20
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Justin Herbert | C-AVI: 36.7 | D-AVI: 74.3
 - RB: Jadarian Price | C-AVI: 36.6 | D-AVI: 81.1
-- RB: Dylan Sampson | C-AVI: 35.0 | D-AVI: 72.7
-- WR: Brian Thomas Jr. | C-AVI: 39.9 | D-AVI: 81.2
+- RB: Dylan Sampson | C-AVI: 35.0 | D-AVI: 72.9
+- WR: Brian Thomas Jr. | C-AVI: 39.8 | D-AVI: 80.4
 - WR: Germie Bernard | C-AVI: 35.6 | D-AVI: 76.4
-- TE: Dalton Kincaid | C-AVI: 66.3 | D-AVI: 83.5
-- FLEX: Chris Rodriguez Jr. | C-AVI: 31.8 | D-AVI: 71.4
+- TE: Dalton Kincaid | C-AVI: 64.9 | D-AVI: 83.8
 - FLEX: Oronde Gadsden | C-AVI: 30.6 | D-AVI: 73.5
+- FLEX: Chris Rodriguez Jr. | C-AVI: 30.3 | D-AVI: 71.4
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -88,7 +88,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 35.0
-- Dynasty AVI (D-AVI, 0-100): 72.7
+- Dynasty AVI (D-AVI, 0-100): 72.9
 - Projected PPR points: 88.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -104,9 +104,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 31.8
+- Championship AVI (C-AVI, 0-100): 30.3
 - Dynasty AVI (D-AVI, 0-100): 71.4
 - Projected PPR points: 132.5
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Ty Johnson
+- Player name: Ty Johnson
+- Player ID: 6039
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: BUF
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 24.3
+- Dynasty AVI (D-AVI, 0-100): 59.2
+- Projected PPR points: 55.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -121,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 39.9
-- Dynasty AVI (D-AVI, 0-100): 81.2
+- Championship AVI (C-AVI, 0-100): 39.8
+- Dynasty AVI (D-AVI, 0-100): 80.4
 - Projected PPR points: 195.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -212,6 +229,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Tez Johnson
+- Player name: Tez Johnson
+- Player ID: 12485
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: TB
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 22.6
+- Dynasty AVI (D-AVI, 0-100): 59.4
+- Projected PPR points: 38.4
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Deion Burks
 - Player name: Deion Burks
 - Player ID: 13333
@@ -240,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 66.3
-- Dynasty AVI (D-AVI, 0-100): 83.5
+- Championship AVI (C-AVI, 0-100): 64.9
+- Dynasty AVI (D-AVI, 0-100): 83.8
 - Projected PPR points: 163.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -275,7 +309,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 30.0
-- Dynasty AVI (D-AVI, 0-100): 69.1
+- Dynasty AVI (D-AVI, 0-100): 68.2
 - Projected PPR points: 130.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
