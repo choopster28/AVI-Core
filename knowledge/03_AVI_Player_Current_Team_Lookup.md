@@ -428,6 +428,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
 
+## PLAYER LOOKUP: Cyrus Allen
+- Player name: Cyrus Allen
+- Player ID: 13413
+- Position: WR
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
+
 ## PLAYER LOOKUP: D'Andre Swift
 - Player name: D'Andre Swift
 - Player ID: 6790
@@ -2081,15 +2089,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: ATL
 - Championship AVI (C-AVI, 0-100): 28.7
 - Dynasty AVI (D-AVI, 0-100): 70.2
-- Availability: available
-
-## AVAILABLE PLAYER: Cyrus Allen
-- Player name: Cyrus Allen
-- Player ID: 13413
-- Position: WR
-- NFL team: KC
-- Championship AVI (C-AVI, 0-100): 27.5
-- Dynasty AVI (D-AVI, 0-100): 65.1
 - Availability: available
 
 ## AVAILABLE PLAYER: Tory Horton
