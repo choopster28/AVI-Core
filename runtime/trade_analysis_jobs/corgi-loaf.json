@@ -1,5 +1,34 @@
 [
   {
+    "id": "mwntiuhz-de538e34",
+    "phase": "initial",
+    "mode": "propose_trade",
+    "endpoint": "/api/ai/trade",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "Corgi Loaf Baking Co.",
+      "perspectiveMode": "franchise",
+      "goal": "",
+      "targetTeam": "Big Balder Brand",
+      "targetAssets": [
+        {
+          "name": "Chuba Hubbard",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        }
+      ]
+    },
+    "createdAt": 1795108955111,
+    "updatedAt": 1795108955111,
+    "expiresAt": 1795540955111,
+    "status": "queued"
+  },
+  {
     "id": "mwntfevs-5547355d",
     "phase": "initial",
     "mode": "propose_trade",
