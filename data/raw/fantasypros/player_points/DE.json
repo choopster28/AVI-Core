@@ -1199,7 +1199,7 @@
       "player_name": "Bralen Trice",
       "points": 3.75,
       "position_id": "DE",
-      "team_id": "FA",
+      "team_id": "DAL",
       "weeks": {
         "1": 1.5,
         "3": 1.5,
@@ -1633,17 +1633,17 @@
       }
     },
     {
-      "average": 5.4,
+      "average": 5.3,
       "filename": "dani-dennissutton.php",
       "games": 10,
       "player_id": 28180,
       "player_name": "Dani Dennis-Sutton",
-      "points": 53.75,
+      "points": 53,
       "position_id": "DE",
       "team_id": "GB",
       "weeks": {
         "1": 0.8,
-        "10": 3,
+        "10": 2.3,
         "2": 8,
         "3": 1.5,
         "4": 0.8,
@@ -2514,16 +2514,16 @@
       }
     },
     {
-      "average": 1.1,
+      "average": 0.4,
       "filename": "james-pearce-jr.php",
       "games": 2,
       "player_id": 27018,
       "player_name": "James Pearce Jr.",
-      "points": 2.25,
+      "points": 0.75,
       "position_id": "DE",
       "team_id": "ATL",
       "weeks": {
-        "10": 2.3,
+        "10": 0.8,
         "9": 0
       }
     },

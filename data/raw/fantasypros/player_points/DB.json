@@ -1279,17 +1279,17 @@
       }
     },
     {
-      "average": 5.7,
+      "average": 5.9,
       "filename": "james-pierre.php",
       "games": 9,
       "player_id": 19659,
       "player_name": "James Pierre",
-      "points": 51.25,
+      "points": 52.75,
       "position_id": "CB",
       "team_id": "MIN",
       "weeks": {
         "1": 12.5,
-        "10": 3,
+        "10": 4.5,
         "2": 4.5,
         "3": 4.5,
         "4": 0,

@@ -2103,17 +2103,17 @@
       }
     },
     {
-      "average": 8.7,
+      "average": 8.8,
       "filename": "isaiah-mcduffie.php",
       "games": 10,
       "player_id": 23292,
       "player_name": "Isaiah McDuffie",
-      "points": 86.75,
+      "points": 87.5,
       "position_id": "LB",
       "team_id": "GB",
       "weeks": {
         "1": 0,
-        "10": 9,
+        "10": 9.8,
         "2": 0,
         "3": 5.5,
         "4": 3.8,
