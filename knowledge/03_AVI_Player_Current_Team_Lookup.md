@@ -1148,6 +1148,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 11
 - Team file: 11_Corgi_Loaf_Baking_Co.md
 
+## PLAYER LOOKUP: Justice Hill
+- Player name: Justice Hill
+- Player ID: 5995
+- Position: RB
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Team file: 13_Southside_Savages.md
+
 ## PLAYER LOOKUP: Justin Herbert
 - Player name: Justin Herbert
 - Player ID: 6797
@@ -2029,15 +2037,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Team file: 13_Southside_Savages.md
 
 ## Available Player Board
-
-## AVAILABLE PLAYER: Justice Hill
-- Player name: Justice Hill
-- Player ID: 5995
-- Position: RB
-- NFL team: BAL
-- Championship AVI (C-AVI, 0-100): 36.7
-- Dynasty AVI (D-AVI, 0-100): 65.1
-- Availability: available
 
 ## AVAILABLE PLAYER: Mason Taylor
 - Player name: Mason Taylor

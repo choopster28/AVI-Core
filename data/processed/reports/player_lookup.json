@@ -3,18 +3,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00005995",
-      "c_avi": 36.7,
-      "d_avi": 65.1,
-      "nfl_team": "BAL",
-      "player_name": "Justice Hill",
-      "position": "RB",
-      "sleeper_id": "5995",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00012498",
       "c_avi": 35.7,
       "d_avi": 67.1,
@@ -2714,8 +2702,8 @@
     }
   ],
   "counts": {
-    "available_players": 226,
-    "rostered_players": 253
+    "available_players": 225,
+    "rostered_players": 254
   },
   "rostered_players": [
     {
@@ -5005,6 +4993,22 @@
       "status": "Active",
       "team_file": "11_Corgi_Loaf_Baking_Co.md",
       "team_name": "Corgi Loaf Baking Co. "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00005995",
+      "c_avi": 36.7,
+      "d_avi": 65.1,
+      "nfl_team": "BAL",
+      "owner_id": "998253660243054592",
+      "player_name": "Justice Hill",
+      "position": "RB",
+      "roster_id": 13,
+      "sleeper_id": "5995",
+      "status": "Active",
+      "team_file": "13_Southside_Savages.md",
+      "team_name": "Southside Savages"
     },
     {
       "active": true,
