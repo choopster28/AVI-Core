@@ -52,7 +52,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 9993,
-      "waiver_position": 16,
+      "waiver_position": 15,
       "wins": 9
     },
     "starters": [
@@ -867,6 +867,7 @@
       "10222",
       "11435",
       "11564",
+      "12491",
       "12494",
       "12519",
       "12526",
@@ -878,7 +879,6 @@
       "5346",
       "5846",
       "5991",
-      "6791",
       "6865",
       "7600",
       "7627",
@@ -902,8 +902,8 @@
       "ppts_decimal": 47,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 9683,
-      "waiver_position": 15,
+      "waiver_budget_used": 9688,
+      "waiver_position": 16,
       "wins": 2
     },
     "starters": [

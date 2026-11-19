@@ -999,18 +999,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00012491",
-      "c_avi": 18.9,
-      "d_avi": 57.0,
-      "nfl_team": "NE",
-      "player_name": "Corey Kiner",
-      "position": "RB",
-      "sleeper_id": "12491",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00012523",
       "c_avi": 18.9,
       "d_avi": 41.2,
@@ -2726,8 +2714,8 @@
     }
   ],
   "counts": {
-    "available_players": 227,
-    "rostered_players": 252
+    "available_players": 226,
+    "rostered_players": 253
   },
   "rostered_players": [
     {
@@ -3545,6 +3533,22 @@
       "status": "Active",
       "team_file": "14_Phalhala_or_Bust.md",
       "team_name": "Phalhala or Bust"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00012491",
+      "c_avi": 18.9,
+      "d_avi": 57.0,
+      "nfl_team": "NE",
+      "owner_id": "998253660243054592",
+      "player_name": "Corey Kiner",
+      "position": "RB",
+      "roster_id": 13,
+      "sleeper_id": "12491",
+      "status": "Active",
+      "team_file": "13_Southside_Savages.md",
+      "team_name": "Southside Savages"
     },
     {
       "active": true,
