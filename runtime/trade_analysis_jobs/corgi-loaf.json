@@ -19,9 +19,10 @@
       "foundationAssets": []
     },
     "createdAt": 1795108794904,
-    "updatedAt": 1795108796710,
+    "updatedAt": 1795108913705,
     "expiresAt": 1795540794904,
-    "status": "running"
+    "status": "failed",
+    "error": "Trade report failed current ownership/team factual verification; an inaccurate report was not published."
   },
   {
     "id": "mwnsj62n-737b154c",
