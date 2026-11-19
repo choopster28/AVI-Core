@@ -24,9 +24,297 @@
       ]
     },
     "createdAt": 1795108955111,
-    "updatedAt": 1795108956894,
+    "updatedAt": 1795109060011,
     "expiresAt": 1795540955111,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "No offer cleared the 70% Market Reality bar and both teams’ roster-fit checks.",
+        "trade": null,
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "A",
+            "otherGrade": "D",
+            "userShare": 62,
+            "otherShare": 38,
+            "advantageFranchise": "Corgi Loaf Baking Co.",
+            "summary": "The submitted 1-for-1 proposal heavily favors Corgi Loaf Baking Co. (+24.9 C-AVI gain at RB2). For Big Balder Brand (2-8, Retool), taking on a 29-year-old RB while surrendering a 27-year-old top-6 producer in Chuba Hubbard degrades their next-season keeper outlook without providing compensating premium draft capital."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 24,
+              "summary": "The submitted 1-for-1 proposal heavily favors Corgi Loaf Baking Co. (+24.9 C-AVI gain at RB2). For Big Balder Brand (2-8, Retool), taking on a 29-year-old RB while surrendering a 27-year-old top-6 producer in Chuba Hubbard degrades their next-season keeper outlook without providing compensating premium draft capital."
+            },
+            "championshipOutlook": {
+              "score": 60,
+              "summary": "Delivers an immediate +24.9 C-AVI gain at the starting RB2 slot."
+            },
+            "dynastyOutlook": {
+              "score": 5,
+              "summary": "Slight age reduction (27 vs 29) at running back."
+            },
+            "lineupQuality": {
+              "score": 55,
+              "summary": "Replaces Saquon Barkley with high-volume 2026 producer Chuba Hubbard."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Roster depth counts remain numerically static."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "No draft capital spent in the submitted proposal."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": -24,
+              "summary": "The submitted 1-for-1 proposal heavily favors Corgi Loaf Baking Co. (+24.9 C-AVI gain at RB2). For Big Balder Brand (2-8, Retool), taking on a 29-year-old RB while surrendering a 27-year-old top-6 producer in Chuba Hubbard degrades their next-season keeper outlook without providing compensating premium draft capital."
+            },
+            "championshipOutlook": {
+              "score": -45,
+              "summary": "Surrenders top-6 RB scoring efficiency during a retool campaign."
+            },
+            "dynastyOutlook": {
+              "score": -15,
+              "summary": "Takes on an older RB (29 vs 27) without accumulating future draft assets."
+            },
+            "lineupQuality": {
+              "score": -40,
+              "summary": "Starting lineup loses 24.9 C-AVI at running back."
+            },
+            "depthResilience": {
+              "score": 0,
+              "summary": "Running back depth count remains static."
+            },
+            "flexibilityLiquidity": {
+              "score": 0,
+              "summary": "Gains no future draft capital or trade liquidity."
+            }
+          },
+          "explanation": "Corgi Loaf Baking Co. secures a massive starting RB upgrade for its 9-1 championship push. However, Big Balder Brand receives an older player with lower current production, conflicting directly with its Retool objective."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Corgi Loaf Baking Co. adds Chuba Hubbard (76.3 C-AVI), providing elite RB2 production (~18.3 PPR PPG) alongside Cam Skattebo while Josh Jacobs remains sidelined with injury.",
+          "sideADynastyImpact": "Sheds two years of RB age (27 vs 29) while preserving strong long-term asset value (85.6 D-AVI vs 85.2 D-AVI).",
+          "sideARosterImpact": "Strengthens starting lineup quality without sacrificing WR or TE depth.",
+          "sideBChampionshipImpact": "Big Balder Brand loses 24.9 points of C-AVI at RB, dropping starting output.",
+          "sideBDynastyImpact": "Acquiring a 29-year-old RB in exchange for a 27-year-old performing at an RB1 level damages next-season keeper hold comparison and long-term retool alignment.",
+          "sideBRosterImpact": "Saquon Barkley slots into RB alongside Bhayshul Tuten and Omarion Hampton, but does not upgrade future core assets.",
+          "valueAssessment": "The deal strongly favors Corgi Loaf Baking Co. (+24.9 C-AVI). Big Balder Brand lacks strategic motivation to sell Chuba Hubbard without receiving premium draft capital (1st/2nd round pick) or a younger cornerstone."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Chuba Hubbard is producing at an elite level in 2026 (~18.3 PPR PPG, RB6 overall) following his 4-year contract extension with Carolina. Saquon Barkley remains a respected dynasty asset (85.2 D-AVI) but carries an age discount as a 29-year-old.",
+          "aviVsMarket": "Public markets value Hubbard as a high-end redraft RB1 while placing his dynasty rank around RB14-18 due to Jonathon Brooks' activation. AVI highlights his current 76.3 C-AVI relative to Saquon's 51.4 C-AVI.",
+          "relevantContext": [
+            "Chuba Hubbard turned in 172 scrimmage yards and 2 TDs in Week 10.",
+            "Jonathon Brooks is expected to be activated in Week 11, introducing potential touch-share division in Carolina.",
+            "Saquon Barkley and Chuba Hubbard were traded between these exact two franchises in Week 8 as part of a multi-player swap."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Big Balder Brand (managed by Choopski) is 2-8 and focused on Retooling. Trading 27-year-old Hubbard for 29-year-old Barkley degrades their next-season keeper hold comparison.",
+          "packageFit": "Saquon Barkley alone does not satisfy Big Balder Brand's retooling criteria, and Corgi Loaf lacks the 1st or 2nd round draft capital required to bridge the value gap.",
+          "lineupReplacement": "Saquon Barkley would replace Chuba Hubbard in Big Balder Brand's lineup, but at a net loss of 24.9 C-AVI.",
+          "competitiveWindowFit": "Corgi Loaf (9-1, 3rd seed) is competing for a championship. Big Balder Brand is out of the playoff race (2-8) and planning for 2027.",
+          "positionalScarcity": "In a 16-team league, high-volume starting RBs on multi-year extensions are premier assets that command high trade prices."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 20,
+            "opposingGmMotivation": 5,
+            "packageMatch": 5,
+            "lineupReplacement": 10,
+            "competitiveWindow": 4
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": true,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 44,
+          "classification": "Unlikely",
+          "explanation": "Big Balder Brand will not accept trading 27-year-old Chuba Hubbard for 29-year-old Saquon Barkley. Because Corgi Loaf Baking Co. has already traded away its 2027 and 2028 1st and 2nd round picks, Corgi Loaf cannot offer the premium draft capital required to make this transaction viable for a retooling franchise."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "No offer cleared the 70% Market Reality bar and both teams’ roster-fit checks.",
+          "confidence": "Low"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "No complete package was found around the selected assets.",
+          "summary": "No offer cleared the 70% Market Reality bar and both teams’ roster-fit checks.",
+          "failedFactors": [
+            {
+              "factor": "insufficientValue",
+              "explanation": "No complete package was found around the selected assets."
+            },
+            {
+              "factor": "managerMotivation",
+              "explanation": "Big Balder Brand (managed by Choopski) is 2-8 and focused on Retooling. Trading 27-year-old Hubbard for 29-year-old Barkley degrades their next-season keeper hold comparison."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "Saquon Barkley alone does not satisfy Big Balder Brand's retooling criteria, and Corgi Loaf lacks the 1st or 2nd round draft capital required to bridge the value gap."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "Corgi Loaf (9-1, 3rd seed) is competing for a championship. Big Balder Brand is out of the playoff race (2-8) and planning for 2027."
+            }
+          ],
+          "opponentPerspective": "Big Balder Brand (managed by Choopski) is 2-8 and focused on Retooling. Trading 27-year-old Hubbard for 29-year-old Barkley degrades their next-season keeper hold comparison.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Try changing a foundation asset or targeting a player whose manager has a clearer reason to trade.",
+          "whatWouldNeedToChange": [
+            "No complete package was found around the selected assets.",
+            "No complete package was found around the selected assets.",
+            "Big Balder Brand (managed by Choopski) is 2-8 and focused on Retooling. Trading 27-year-old Hubbard for 29-year-old Barkley degrades their next-season keeper hold comparison.",
+            "Saquon Barkley alone does not satisfy Big Balder Brand's retooling criteria, and Corgi Loaf lacks the 1st or 2nd round draft capital required to bridge the value gap.",
+            "Corgi Loaf (9-1, 3rd seed) is competing for a championship. Big Balder Brand is out of the playoff race (2-8) and planning for 2027."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": [],
+        "playoffRace": [
+          {
+            "team": "Corgi Loaf Baking Co.",
+            "risk": "in the race",
+            "seed": 3,
+            "record": "9-1",
+            "opponent": "Badland Banditos",
+            "winsToMatchTodaysWildcardRecord": 0,
+            "pointsFromTodaysWildcard": 74.3
+          },
+          {
+            "team": "Big Balder Brand",
+            "risk": "in the race",
+            "seed": 12,
+            "record": "2-8",
+            "opponent": "Conquistadors",
+            "winsToMatchTodaysWildcardRecord": 3,
+            "pointsFromTodaysWildcard": -264.6
+          }
+        ],
+        "playoffImpact": [],
+        "organizationGoals": [
+          {
+            "team": "Big Balder Brand",
+            "goal": "Retool",
+            "source": "playoff picture",
+            "reason": "Deep outside the bracket. Needs 3 of 4 remaining wins just to match today’s provisional wildcard record.",
+            "status": "Playoff Push"
+          },
+          {
+            "team": "Corgi Loaf Baking Co.",
+            "goal": "Win Championship",
+            "source": "playoff picture",
+            "reason": "Currently in the top six of the verified eight-team bracket.",
+            "status": "Playoff Push"
+          }
+        ]
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Chuba Hubbard contract NFL",
+          "Chuba Hubbard news 2026",
+          "Chuba Hubbard fantasy value 2026"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf-pF5z9WxiR0u92TZBka5AaUqtvcMCkkAFZnJKvFeyZpp2NKP1n-PaG_0xHCLYphYjwrVBW1oPID_3AR58QWVZI7UTaTrq1PDiY-lln7rlYwxfhw5deR3MWVhsf07N-AZdee-D6FbrFpKnKp1frG4baaWFrmrdo24djC_Oz7g4Jy2pbNj3kjDuScSjTt0xOFWHezJFz2o5D7ba2tO",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsyy-7_gwG56PkHCPciPCmSRtjFAlSqBlsMlb_qfkS2iFRr-36jq3rq_yjRrSOsiQ4ld_6iagmJ3pJEeaEhPXg3Og0FqkFf-BocOxFMeiAg-pLtrJfdsk2Zx5moqK4NH5b1JgduxCNMvK_JhSK0xMpj5J2HLagG3qNFwDIrCPhCHh4SD4CG7rijZJ1Ym3AvuPWCfWBPg==",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIq0TOYTVKPYgGXowYfvazbPvXnPXyIeVS5LEj4anytguQlbsDFPC5liC-skafGZAcbovItJsT-VhOH6qqki8YTt9iiwdhDEOEcIfiKq7Qcy4PW3BXLUXwwG5KtZc83aasf1_gGFdwHnkKH-vfACBZz7u-gVdbsp6ec5XOyxDg5J8LiCrabexi",
+            "title": "fieldlevelmedia.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiqaT-0PfyVdZoxqNLkYoONE2owQSZdgEXuqqP8W5jtCWSvt0VSjb39S6qn7gaWDdLbxyCpUdPAmUNc6DVPQcCu-ZaqHOTrFGTd1n2YuzxTO-J2EUjPsqEkKAl1fyWtrWKQ6YQ6sFYdWRgzbRhLZBc8KAwG7YSkt75hHyL09jHdPGDngNoE5Ea6Mu6Om7k9bI=",
+            "title": "rotoballer.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEDSnDKpSorhJu3gTnOg-bXTIzcz9ZhItBgvPx4NXNZW5w3Q1JOFJrclc-t6dUQP9gn5lLpl0iy4IfW9Ue3wsGYnk2fX8v-mHAiQdWfPXTEKGVNUqiDIKgDJKmH9wH8xDZ7f6uffVkVnf6hqKp2TocKLQn",
+            "title": "rototrade.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEecYtIV5rfKJ1wzmPsJW0-Orf7L6aodxl7ZZu2Y66f_X87wN4TE7GHWATezY6QjzQh9vDtf1d0QM1_S7mdYK82hfoliBmNyeEcwkCUI1gHIqUiviI26_kbVVdiei6ISnm2MQq9LhTBe63KVLI__5ySvPeT5HFZFoNiXS_9YIe7H-zGm_X_X4MwRGWFKA==",
+            "title": "catcrave.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSSElhA0YT7pyOg1cmIloLGmbnXybNCi-li4zTIWpuM8gjC6rmWE4zS_X76tk42ndLV2KvzS8bgpLt9qokBb3zrn726tx__Q2eDIzIZBz_JZNN4uMruOhFUIKp1FesIsXpItNsXtu9GiAFwKBq39thZCqm5ajH-aAHMK8L4b7UWUP2-O5yyzziGEwovETAI-m6m3imWXWGVcU3SHGgO49LyJPp9zSJc28A6W3X",
+            "title": "atozsports.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLWlP5wX4KMcH7GmKqULat_bPgdo56BIgHCPEq1HEG1JKB9tn2D5_kBwzCXJOME4rSDsuATmoB1FWUyd3tp-x3HkBIGLEoOC8YPSi-jWTaVCL2KfpWgiC2rkcz0SQt2QL3a5j1wjVMWjw8BRUR",
+            "title": "fantasydata.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwtMmyUuHrFyZmwYC2zo4k8zhPGNdMlIwNenYZe1nRDn3-NJtpqds_2D64rq1ENAdtgKXf85cCmJItCqbeXT7r6b_0xARaLiAWj-mcwzkkIAW8mot6wW6us1qWtfjeL4KxdaL7NIWmEhgV0JcRXq-cGSY6XGirYtZqMdPOvyIyOY_gsrDqzFH907i2wY0MIHOmz956MV7O1MeVjEf-fcjQeCwaBjfIm6lqZ1SE",
+            "title": "si.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkfClrEkYDkteVqiztOGJue97ZgINnU_1MuwNn79l1m2822aVI4HR7AIBUpMMCwt3p0Li1-NmjFWhXiTkqnn1Tynn0qtuHDU79YuIgAoLr2yaHcA9oz8x8BefHQVZuNJq64ZNnEbi08q7e_zAG_ZXoB38NNi0QbkzDqmGOD_wsDE2J2grGbA==",
+            "title": "fantasypros.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "8682397d1285625383899143c6be706d5afb5234",
+        "aviCoreCommittedAt": "2026-11-19T13:39:15Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/late-season-playoff-push",
+          "derived/keeper-contracts",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/teams/09_Big_Balder_Brand.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 156610,
+        "groundedMarketChars": 3883,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
   },
   {
     "id": "mwntfevs-5547355d",
