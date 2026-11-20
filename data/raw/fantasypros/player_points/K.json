@@ -207,17 +207,18 @@
       }
     },
     {
-      "average": 11.1,
+      "average": 10.6,
       "filename": "kaimi-fairbairn.php",
-      "games": 9,
+      "games": 10,
       "player_id": 15756,
       "player_name": "Ka'imi Fairbairn",
-      "points": 100,
+      "points": 106,
       "position_id": "K",
       "team_id": "HOU",
       "weeks": {
         "1": 9,
         "10": 7,
+        "11": 6,
         "2": 7,
         "3": 5,
         "4": 16,
@@ -249,17 +250,18 @@
       }
     },
     {
-      "average": 11.4,
+      "average": 10.6,
       "filename": "spencer-shrader.php",
-      "games": 10,
+      "games": 11,
       "player_id": 26763,
       "player_name": "Spencer Shrader",
-      "points": 114,
+      "points": 117,
       "position_id": "K",
       "team_id": "IND",
       "weeks": {
         "1": 7,
         "10": 8,
+        "11": 3,
         "2": 14,
         "3": 17,
         "4": 16,

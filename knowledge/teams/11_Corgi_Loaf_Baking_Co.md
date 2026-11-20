@@ -23,16 +23,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 565.2
 - championship_lineup_c_avi_avg: 70.65
-- offensive_roster_c_avi_sum: 832.6
-- offensive_roster_c_avi_avg: 55.51
-- offensive_roster_d_avi_sum: 1209.1
-- offensive_roster_d_avi_avg: 80.61
+- offensive_roster_c_avi_sum: 832.4
+- offensive_roster_c_avi_avg: 55.49
+- offensive_roster_d_avi_sum: 1208.5
+- offensive_roster_d_avi_avg: 80.57
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Patrick Mahomes | C-AVI: 64.2 | D-AVI: 81.3
 - RB: Cam Skattebo | C-AVI: 62.7 | D-AVI: 86.1
-- RB: Saquon Barkley | C-AVI: 51.4 | D-AVI: 85.2
+- RB: Saquon Barkley | C-AVI: 51.4 | D-AVI: 85.5
 - WR: Jaxon Smith-Njigba | C-AVI: 99.0 | D-AVI: 99.8
 - WR: Malik Nabers | C-AVI: 84.6 | D-AVI: 96.0
 - TE: Trey McBride | C-AVI: 93.0 | D-AVI: 92.7
@@ -105,7 +105,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 29.0
 - Championship AVI (C-AVI, 0-100): 51.4
-- Dynasty AVI (D-AVI, 0-100): 85.2
+- Dynasty AVI (D-AVI, 0-100): 85.5
 - Projected PPR points: 246.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 46.2
+- Championship AVI (C-AVI, 0-100): 46.1
 - Dynasty AVI (D-AVI, 0-100): 80.2
 - Projected PPR points: 139.4
 - Category: offense
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 29.7
-- Dynasty AVI (D-AVI, 0-100): 73.2
+- Championship AVI (C-AVI, 0-100): 29.6
+- Dynasty AVI (D-AVI, 0-100): 72.3
 - Projected PPR points: 97.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

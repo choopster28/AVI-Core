@@ -265,17 +265,18 @@
       }
     },
     {
-      "average": 20.8,
+      "average": 20.9,
       "filename": "cj-stroud.php",
-      "games": 9,
+      "games": 10,
       "player_id": 23071,
       "player_name": "C.J. Stroud",
-      "points": 187.48000000000002,
+      "points": 208.94000000000003,
       "position_id": "QB",
       "team_id": "HOU",
       "weeks": {
         "1": 16.5,
         "10": 21.4,
+        "11": 21.5,
         "2": 17,
         "3": 11.7,
         "4": 23.1,
@@ -307,17 +308,18 @@
       }
     },
     {
-      "average": 9.9,
+      "average": 9.4,
       "filename": "daniel-jones.php",
-      "games": 10,
+      "games": 11,
       "player_id": 18232,
       "player_name": "Daniel Jones",
-      "points": 98.7,
+      "points": 103.76,
       "position_id": "QB",
       "team_id": "IND",
       "weeks": {
         "1": 10,
         "10": 7.2,
+        "11": 5.1,
         "2": 12.4,
         "3": 8.9,
         "4": 8.9,
@@ -1190,15 +1192,16 @@
       }
     },
     {
-      "average": 0.7,
+      "average": 0.5,
       "filename": "anthony-richardson.php",
-      "games": 1,
+      "games": 2,
       "player_id": 24347,
       "player_name": "Anthony Richardson Sr.",
-      "points": 0.72,
+      "points": 0.9199999999999999,
       "position_id": "QB",
       "team_id": "IND",
       "weeks": {
+        "11": 0.2,
         "8": 0.7
       }
     },
