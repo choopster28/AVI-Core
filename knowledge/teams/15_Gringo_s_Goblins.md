@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 990097041671892992
 - Division: 4
 - Waiver position: 4
-- Last updated from Sleeper exports: 2026-11-19
+- Last updated from Sleeper exports: 2026-11-20
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 488.3
 - championship_lineup_c_avi_avg: 61.04
-- offensive_roster_c_avi_sum: 756.0
-- offensive_roster_c_avi_avg: 47.25
-- offensive_roster_d_avi_sum: 1212.4
-- offensive_roster_d_avi_avg: 75.78
+- offensive_roster_c_avi_sum: 756.2
+- offensive_roster_c_avi_avg: 47.26
+- offensive_roster_d_avi_sum: 1212.6
+- offensive_roster_d_avi_avg: 75.79
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Jameson Williams | C-AVI: 72.2 | D-AVI: 88.8
 - TE: Juwan Johnson | C-AVI: 49.0 | D-AVI: 73.3
 - FLEX: Emeka Egbuka | C-AVI: 60.9 | D-AVI: 89.8
-- FLEX: Braelon Allen | C-AVI: 46.1 | D-AVI: 77.5
+- FLEX: Aaron Jones Sr. | C-AVI: 46.1 | D-AVI: 73.6
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -110,6 +110,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Aaron Jones Sr.
+- Player name: Aaron Jones Sr.
+- Player ID: 4199
+- Current owner team: Gringo’s Goblins 
+- Current owner roster ID: 15
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: MIN
+- Active: True
+- Status: Active
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): 46.1
+- Dynasty AVI (D-AVI, 0-100): 73.6
+- Projected PPR points: 137.1
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Braelon Allen
 - Player name: Braelon Allen
 - Player ID: 11576
@@ -127,23 +144,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Aaron Jones Sr.
-- Player name: Aaron Jones Sr.
-- Player ID: 4199
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: MIN
-- Active: True
-- Status: Active
-- Age: 31.0
-- Championship AVI (C-AVI, 0-100): 46.0
-- Dynasty AVI (D-AVI, 0-100): 73.5
-- Projected PPR points: 137.1
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
 ### PLAYER: Samaje Perine
 - Player name: Samaje Perine
 - Player ID: 4147
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 29.8
-- Dynasty AVI (D-AVI, 0-100): 58.9
+- Championship AVI (C-AVI, 0-100): 29.9
+- Dynasty AVI (D-AVI, 0-100): 59.0
 - Projected PPR points: 69.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

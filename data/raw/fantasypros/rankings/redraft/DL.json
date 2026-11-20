@@ -11323,7 +11323,7 @@
     },
     {
       "cbs_player_id": "2186838",
-      "player_bye_week": "8",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "S",
       "player_filename": "justin-reid.php",
@@ -11336,7 +11336,7 @@
       "player_position_id": "S",
       "player_positions": "S",
       "player_short_name": "J. Reid",
-      "player_team_id": "NO",
+      "player_team_id": "FA",
       "player_yahoo_id": "31038",
       "player_yahoo_positions": "S",
       "pos_rank": "S45",

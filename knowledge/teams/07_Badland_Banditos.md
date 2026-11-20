@@ -9,13 +9,13 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 10
-- Last updated from Sleeper exports: 2026-11-19
+- Last updated from Sleeper exports: 2026-11-20
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
 - total_players: 22
-- offense: 17
-- kickers: 2
+- offense: 18
+- kickers: 1
 - idp: 3
 - other: 0
 - keepers: 4
@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 639.9
 - championship_lineup_c_avi_avg: 79.99
-- offensive_roster_c_avi_sum: 881.8
-- offensive_roster_c_avi_avg: 55.11
-- offensive_roster_d_avi_sum: 1222.0
-- offensive_roster_d_avi_avg: 76.38
+- offensive_roster_c_avi_sum: 909.5
+- offensive_roster_c_avi_avg: 53.50
+- offensive_roster_d_avi_sum: 1287.1
+- offensive_roster_d_avi_avg: 75.71
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 52.0
+- Championship AVI (C-AVI, 0-100): 52.1
 - Dynasty AVI (D-AVI, 0-100): 78.1
 - Projected PPR points: 65.2
 - Category: offense
@@ -280,6 +280,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Cyrus Allen
+- Player name: Cyrus Allen
+- Player ID: 13413
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: KC
+- Active: True
+- Status: Active
+- Age: 23.0
+- Championship AVI (C-AVI, 0-100): 27.6
+- Dynasty AVI (D-AVI, 0-100): 65.1
+- Projected PPR points: 94.5
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Jayden Higgins
 - Player name: Jayden Higgins
 - Player ID: 12484
@@ -342,23 +359,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
-- Category: kicker
-- Valuation status: EXCLUDED_FROM_AVI
-
-### PLAYER: Dominic Zvada
-- Player name: Dominic Zvada
-- Player ID: 13833
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: K
-- Fantasy positions: ['K']
-- NFL team: NYG
-- Active: True
-- Status: Active
-- Age: 23.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None
