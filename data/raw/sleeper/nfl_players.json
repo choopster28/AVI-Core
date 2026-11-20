@@ -3280,7 +3280,7 @@
       "genius_id": "1398598",
       "rookie_year": "2023"
     },
-    "news_updated": 1795198809611,
+    "news_updated": 1795200910927,
     "number": 86,
     "oddsjam_id": "6209487DAAAC",
     "opta_id": null,
@@ -11892,7 +11892,7 @@
     "injury_body_part": "Calf",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "7b97fc93-fc2c-412b-a9f4-04a411faad21",
     "last_name": "Williams",
     "metadata": {
@@ -55507,7 +55507,7 @@
       "injury_override_pre_2025_0": "IR",
       "rookie_year": "2024"
     },
-    "news_updated": 1795197009177,
+    "news_updated": 1795201210423,
     "number": 25,
     "oddsjam_id": "84C4F05F8EFF",
     "opta_id": null,
@@ -56949,7 +56949,7 @@
       "injury_override_regular_2025_7": "Out",
       "rookie_year": "2024"
     },
-    "news_updated": 1795151706471,
+    "news_updated": 1795200909321,
     "number": 89,
     "oddsjam_id": "890CB831F75E",
     "opta_id": null,
@@ -128623,7 +128623,7 @@
       "genius_id": "1495854",
       "rookie_year": "2025"
     },
-    "news_updated": 1795049455662,
+    "news_updated": 1795202109522,
     "number": 11,
     "oddsjam_id": "698B0CBBB33E2F88",
     "opta_id": null,
@@ -294562,7 +294562,7 @@
       "genius_id": "835484",
       "rookie_year": "2015"
     },
-    "news_updated": 1795197609351,
+    "news_updated": 1795201210434,
     "number": 88,
     "oddsjam_id": "0A3F18022F3C",
     "opta_id": null,
@@ -300685,7 +300685,7 @@
       "genius_id": "444842",
       "rookie_year": "2008"
     },
-    "news_updated": 1795196710493,
+    "news_updated": 1795201809378,
     "number": 9,
     "oddsjam_id": "E151BBDC314D",
     "opta_id": null,
@@ -512899,7 +512899,7 @@
       "injury_override_regular_2024_3": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1794791732158,
+    "news_updated": 1795202110810,
     "number": 1,
     "oddsjam_id": "828EC99117A1",
     "opta_id": null,
@@ -513682,7 +513682,7 @@
       "genius_id": "1013987",
       "rookie_year": "2019"
     },
-    "news_updated": 1795198510220,
+    "news_updated": 1795199409203,
     "number": 17,
     "oddsjam_id": "B3AC44EEA976",
     "opta_id": null,
@@ -527860,7 +527860,7 @@
       "genius_id": "1017196",
       "rookie_year": "2019"
     },
-    "news_updated": 1795193408789,
+    "news_updated": 1795201209896,
     "number": 14,
     "oddsjam_id": "0B60B7F466E8",
     "opta_id": null,
@@ -571212,7 +571212,7 @@
       "injury_override_regular_2025_3": "IR",
       "rookie_year": "2020"
     },
-    "news_updated": 1795126503685,
+    "news_updated": 1795201511060,
     "number": 9,
     "oddsjam_id": "26DF8843FD11",
     "opta_id": null,
@@ -574395,7 +574395,7 @@
     "injury_body_part": "Hamstring",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "7a319ab3-482e-4b5e-8dea-c48fa14bc87e",
     "last_name": "Madubuike",
     "metadata": {
@@ -574403,7 +574403,7 @@
       "genius_id": "1013821",
       "rookie_year": "2020"
     },
-    "news_updated": 1795119902922,
+    "news_updated": 1795202110828,
     "number": 92,
     "oddsjam_id": "633C427F5876",
     "opta_id": null,
@@ -590392,7 +590392,7 @@
     "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "f1eea3c9-03d4-47e5-84cf-90fc45d38e87",
     "last_name": "Hawkins",
     "metadata": {
@@ -590400,7 +590400,7 @@
       "genius_id": "1008775",
       "rookie_year": "2020"
     },
-    "news_updated": 1795051556218,
+    "news_updated": 1795202110821,
     "number": 21,
     "oddsjam_id": "F6D62F024EFF",
     "opta_id": null,
@@ -621162,7 +621162,7 @@
       "genius_id": "1014929",
       "rookie_year": "2021"
     },
-    "news_updated": 1795133403548,
+    "news_updated": 1795200909323,
     "number": 6,
     "oddsjam_id": "202FEEE3D21E",
     "opta_id": null,
@@ -632103,7 +632103,7 @@
       "genius_id": "1079181",
       "rookie_year": "2021"
     },
-    "news_updated": 1795192810011,
+    "news_updated": 1795201210446,
     "number": 82,
     "oddsjam_id": "C2C604CCB3D4",
     "opta_id": null,
@@ -661168,10 +661168,10 @@
     "hashtag": "#isaiahlikely-NFL-NYG-9",
     "height": "76",
     "high_school": "Everett (MA)",
-    "injury_body_part": null,
+    "injury_body_part": "Undisclosed",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "16da3069-a6a4-4dad-b13b-a06def10c10b",
     "last_name": "Likely",
     "metadata": {
@@ -661179,7 +661179,7 @@
       "genius_id": "1076713",
       "rookie_year": "2022"
     },
-    "news_updated": 1795195208987,
+    "news_updated": 1795200910939,
     "number": 9,
     "oddsjam_id": "52ED3346AB9C",
     "opta_id": null,
@@ -684943,7 +684943,7 @@
     "injury_body_part": "Groin",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "1796c77c-7102-4e25-95ce-129f79687257",
     "last_name": "Benford",
     "metadata": {
@@ -716600,7 +716600,7 @@
       "genius_id": "1398559",
       "rookie_year": "2023"
     },
-    "news_updated": 1795199110509,
+    "news_updated": 1795200309487,
     "number": 5,
     "oddsjam_id": "FD2C905B710A",
     "opta_id": null,
