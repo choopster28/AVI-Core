@@ -1666,7 +1666,7 @@
       "player_name": "Will Shipley",
       "position": "RB",
       "sleeper_id": "11577",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "active": true,
@@ -3986,7 +3986,7 @@
       "position": "WR",
       "roster_id": 15,
       "sleeper_id": "9486",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "15_Gringo_s_Goblins.md",
       "team_name": "Gringo’s Goblins "
     },
@@ -6002,7 +6002,7 @@
       "position": "WR",
       "roster_id": 2,
       "sleeper_id": "11630",
-      "status": "Inactive",
+      "status": "Active",
       "team_file": "02_Rapid_Valley_Annihilation.md",
       "team_name": "Rapid Valley Annihilation"
     },
@@ -6530,7 +6530,7 @@
       "position": "RB",
       "roster_id": 3,
       "sleeper_id": "9508",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
     },
