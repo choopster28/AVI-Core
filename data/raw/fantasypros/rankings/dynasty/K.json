@@ -902,6 +902,7 @@
     }
   ],
   "position_id": "K",
+  "position_order": false,
   "public_api": true,
   "ranking_type_name": "dynasty",
   "scoring": "PPR",
