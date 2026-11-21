@@ -13054,7 +13054,7 @@
       "genius_id": "1399133",
       "rookie_year": "2023"
     },
-    "news_updated": 1795212950254,
+    "news_updated": 1795284359180,
     "number": 51,
     "oddsjam_id": "16F850C04C9E",
     "opta_id": null,
@@ -58982,7 +58982,7 @@
       "genius_id": "1463651",
       "rookie_year": "2024"
     },
-    "news_updated": 1795215351541,
+    "news_updated": 1795282556867,
     "number": 15,
     "oddsjam_id": "756F5E81CF21",
     "opta_id": null,
@@ -116357,7 +116357,7 @@
       "rookie_year": "2025",
       "source_id": "53043fac-4bd3-4c20-8b72-b33f9da5ba60"
     },
-    "news_updated": 1794961847481,
+    "news_updated": 1795282856893,
     "number": 86,
     "oddsjam_id": "7B199EFCFEA900D6",
     "opta_id": null,
@@ -117472,7 +117472,7 @@
       "rookie_year": "2025",
       "source_id": "7a751562-a506-4844-813c-c399196e02d9"
     },
-    "news_updated": 1794920145084,
+    "news_updated": 1795282556845,
     "number": 9,
     "oddsjam_id": "1654C3CD86BF1746",
     "opta_id": null,
@@ -119123,7 +119123,7 @@
       "rookie_year": "2025",
       "source_id": "b4848e19-5a52-49a3-8c6f-179fe308ff03"
     },
-    "news_updated": 1795228251284,
+    "news_updated": 1795284658483,
     "number": 22,
     "oddsjam_id": "15DB9017F739D3E5",
     "opta_id": null,
@@ -458609,7 +458609,7 @@
     "injury_body_part": "Groin",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "kalshi_id": "6908c065-29fb-4ad5-90a9-7d438abc243c",
     "last_name": "Burks",
     "metadata": {
@@ -511748,7 +511748,7 @@
       "genius_id": "1011081",
       "rookie_year": "2019"
     },
-    "news_updated": 1793388315638,
+    "news_updated": 1795284658497,
     "number": 91,
     "oddsjam_id": "7C79EF87CC44",
     "opta_id": null,
@@ -512354,7 +512354,7 @@
       "injury_override_regular_2025_12": "Out",
       "rookie_year": "2019"
     },
-    "news_updated": 1795281656925,
+    "news_updated": 1795282556843,
     "number": 8,
     "oddsjam_id": "0614F08B6121",
     "opta_id": null,
@@ -513432,7 +513432,7 @@
     "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "kalshi_id": "9d79fc36-c711-46a0-b0f7-c6c61ea75c93",
     "last_name": "Risner",
     "metadata": {
@@ -578015,7 +578015,7 @@
       "genius_id": "1233295",
       "rookie_year": "2020"
     },
-    "news_updated": 1795225551788,
+    "news_updated": 1795284359193,
     "number": 29,
     "oddsjam_id": "756683D00B61",
     "opta_id": null,
@@ -628518,7 +628518,7 @@
       "injury_override_off_2026_1": "IR",
       "rookie_year": "2021"
     },
-    "news_updated": 1794861339601,
+    "news_updated": 1795282556923,
     "number": 1,
     "oddsjam_id": "9C7D9260A6D9",
     "opta_id": null,
@@ -661480,7 +661480,7 @@
       "genius_id": "1343505",
       "rookie_year": "2022"
     },
-    "news_updated": 1795279557960,
+    "news_updated": 1795284057221,
     "number": 1,
     "oddsjam_id": "2820805E8162",
     "opta_id": null,
@@ -669679,7 +669679,7 @@
       "genius_id": "1075952",
       "rookie_year": "2022"
     },
-    "news_updated": 1794966948142,
+    "news_updated": 1795283156907,
     "number": 11,
     "oddsjam_id": "9F57D72441E4",
     "opta_id": null,
@@ -671498,7 +671498,7 @@
       "genius_id": "1343261",
       "rookie_year": "2022"
     },
-    "news_updated": 1795136405844,
+    "news_updated": 1795284359206,
     "number": 23,
     "oddsjam_id": "89890550F3E6",
     "opta_id": null,
@@ -722264,7 +722264,7 @@
       "genius_id": "1398594",
       "rookie_year": "2023"
     },
-    "news_updated": 1794919545096,
+    "news_updated": 1795282856899,
     "number": 1,
     "oddsjam_id": "4756EE52951F",
     "opta_id": null,
