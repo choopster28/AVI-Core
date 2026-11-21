@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 505.9
-- championship_lineup_c_avi_avg: 63.24
-- offensive_roster_c_avi_sum: 797.5
-- offensive_roster_c_avi_avg: 46.91
-- offensive_roster_d_avi_sum: 1310.0
-- offensive_roster_d_avi_avg: 77.06
+- championship_lineup_c_avi_sum: 505.8
+- championship_lineup_c_avi_avg: 63.23
+- offensive_roster_c_avi_sum: 794.9
+- offensive_roster_c_avi_avg: 46.76
+- offensive_roster_d_avi_sum: 1309.5
+- offensive_roster_d_avi_avg: 77.03
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -37,7 +37,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: KC Concepcion Jr. | C-AVI: 58.0 | D-AVI: 85.4
 - TE: Travis Kelce | C-AVI: 76.3 | D-AVI: 80.7
 - FLEX: Kyle Monangai | C-AVI: 56.2 | D-AVI: 81.6
-- FLEX: Carnell Tate | C-AVI: 53.9 | D-AVI: 87.8
+- FLEX: Carnell Tate | C-AVI: 53.8 | D-AVI: 87.7
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 25.7
-- Dynasty AVI (D-AVI, 0-100): 69.8
+- Championship AVI (C-AVI, 0-100): 23.2
+- Dynasty AVI (D-AVI, 0-100): 69.4
 - Projected PPR points: 114.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 53.9
-- Dynasty AVI (D-AVI, 0-100): 87.8
+- Championship AVI (C-AVI, 0-100): 53.8
+- Dynasty AVI (D-AVI, 0-100): 87.7
 - Projected PPR points: 177.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

@@ -23,7 +23,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 603.6
 - championship_lineup_c_avi_avg: 75.45
-- offensive_roster_c_avi_sum: 912.6
+- offensive_roster_c_avi_sum: 912.5
 - offensive_roster_c_avi_avg: 53.68
 - offensive_roster_d_avi_sum: 1291.2
 - offensive_roster_d_avi_avg: 75.95
@@ -66,7 +66,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Current owner roster ID: 7
 - Position: QB
 - Fantasy positions: ['QB']
-- NFL team: IND
+- NFL team: None
 - Active: True
 - Status: Active
 - Age: 29.0
@@ -291,7 +291,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 27.6
+- Championship AVI (C-AVI, 0-100): 27.5
 - Dynasty AVI (D-AVI, 0-100): 65.6
 - Projected PPR points: 94.5
 - Category: offense

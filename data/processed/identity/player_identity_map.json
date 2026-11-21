@@ -999,9 +999,9 @@
     "sleeper_id": "5095"
   },
   {
-    "confidence": "verified",
+    "confidence": "review",
     "fantasypros_id": "18232",
-    "match_method": "exact_name_position_unique",
+    "match_method": "exact_name_position",
     "nfl_team": "IND",
     "player_name": "Daniel Jones",
     "position": "QB",
