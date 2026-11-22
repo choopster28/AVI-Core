@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872509429436829696
 - Division: 2
 - Waiver position: 11
-- Last updated from Sleeper exports: 2026-11-21
+- Last updated from Sleeper exports: 2026-11-22
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -36,8 +36,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - WR: Parker Washington | C-AVI: 79.8 | D-AVI: 91.5
 - WR: Ladd McConkey | C-AVI: 57.8 | D-AVI: 87.1
 - TE: Kyle Pitts Sr. | C-AVI: 48.5 | D-AVI: 80.8
-- FLEX: Travis Etienne Jr. | C-AVI: 50.3 | D-AVI: 82.2
-- FLEX: Josh Downs | C-AVI: 44.4 | D-AVI: 80.1
+- FLEX: Travis Etienne Jr. | C-AVI: 50.4 | D-AVI: 82.2
+- FLEX: Josh Downs | C-AVI: 44.3 | D-AVI: 80.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 50.3
+- Championship AVI (C-AVI, 0-100): 50.4
 - Dynasty AVI (D-AVI, 0-100): 82.2
 - Projected PPR points: 207.7
 - Category: offense
@@ -172,7 +172,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 44.4
+- Championship AVI (C-AVI, 0-100): 44.3
 - Dynasty AVI (D-AVI, 0-100): 80.1
 - Projected PPR points: 172.3
 - Category: offense
@@ -358,7 +358,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: SEA
 - Active: True
 - Status: Active
-- Age: 26.0
+- Age: 27.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

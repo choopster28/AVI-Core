@@ -4599,7 +4599,7 @@
     {
       "cbs_player_id": "1880880",
       "player_age": "33",
-      "player_bye_week": "8",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "WR",
       "player_filename": "brandin-cooks.php",
@@ -4612,7 +4612,7 @@
       "player_position_id": "WR",
       "player_positions": "WR",
       "player_short_name": "B. Cooks",
-      "player_team_id": "SF",
+      "player_team_id": "FA",
       "player_yahoo_id": "27548",
       "player_yahoo_positions": "WR",
       "pos_rank": "WR165",

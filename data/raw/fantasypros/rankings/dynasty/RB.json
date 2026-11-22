@@ -3423,7 +3423,7 @@
     {
       "cbs_player_id": "2819247",
       "player_age": "27",
-      "player_bye_week": null,
+      "player_bye_week": "11",
       "player_ecr_delta": null,
       "player_eligibility": "RB",
       "player_filename": "pierre-strong-jr.php",
@@ -3436,7 +3436,7 @@
       "player_position_id": "RB",
       "player_positions": "RB",
       "player_short_name": "P. Strong Jr.",
-      "player_team_id": "FA",
+      "player_team_id": "GB",
       "player_yahoo_id": "34083",
       "player_yahoo_positions": "RB",
       "pos_rank": "RB123",

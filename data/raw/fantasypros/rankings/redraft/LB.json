@@ -10793,7 +10793,7 @@
     },
     {
       "cbs_player_id": "2864665",
-      "player_bye_week": "11",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "DE,LB",
       "player_filename": "dj-johnson-edge.php",
@@ -10806,7 +10806,7 @@
       "player_position_id": "LB",
       "player_positions": "LB",
       "player_short_name": "D.J. Johnson",
-      "player_team_id": "GB",
+      "player_team_id": "FA",
       "player_yahoo_id": "40092",
       "player_yahoo_positions": "LB",
       "pos_rank": "LB289",
