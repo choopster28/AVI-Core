@@ -13,20 +13,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 21
+- total_players: 22
 - offense: 17
 - kickers: 1
-- idp: 3
+- idp: 4
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 505.9
-- championship_lineup_c_avi_avg: 63.24
-- offensive_roster_c_avi_sum: 795.0
-- offensive_roster_c_avi_avg: 46.76
-- offensive_roster_d_avi_sum: 1309.6
-- offensive_roster_d_avi_avg: 77.04
+- championship_lineup_c_avi_sum: 510.3
+- championship_lineup_c_avi_avg: 63.79
+- offensive_roster_c_avi_sum: 790.4
+- offensive_roster_c_avi_avg: 46.49
+- offensive_roster_d_avi_sum: 1308.8
+- offensive_roster_d_avi_avg: 76.99
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,10 +34,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Derrick Henry | C-AVI: 79.1 | D-AVI: 88.7
 - RB: Blake Corum | C-AVI: 60.0 | D-AVI: 82.2
 - WR: Zay Flowers | C-AVI: 77.0 | D-AVI: 93.2
-- WR: KC Concepcion Jr. | C-AVI: 58.0 | D-AVI: 85.4
+- WR: Carnell Tate | C-AVI: 58.3 | D-AVI: 88.5
 - TE: Travis Kelce | C-AVI: 76.3 | D-AVI: 80.7
+- FLEX: KC Concepcion Jr. | C-AVI: 58.0 | D-AVI: 85.4
 - FLEX: Kyle Monangai | C-AVI: 56.2 | D-AVI: 81.6
-- FLEX: Carnell Tate | C-AVI: 53.9 | D-AVI: 87.8
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 21.9
-- Dynasty AVI (D-AVI, 0-100): 59.6
+- Championship AVI (C-AVI, 0-100): 12.9
+- Dynasty AVI (D-AVI, 0-100): 58.1
 - Projected PPR points: 30.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -212,6 +212,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Carnell Tate
+- Player name: Carnell Tate
+- Player ID: 13279
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: TEN
+- Active: True
+- Status: Active
+- Age: 21.0
+- Championship AVI (C-AVI, 0-100): 58.3
+- Dynasty AVI (D-AVI, 0-100): 88.5
+- Projected PPR points: 177.3
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: KC Concepcion Jr.
 - Player name: KC Concepcion Jr.
 - Player ID: 13298
@@ -226,23 +243,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 58.0
 - Dynasty AVI (D-AVI, 0-100): 85.4
 - Projected PPR points: 156.4
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Carnell Tate
-- Player name: Carnell Tate
-- Player ID: 13279
-- Current owner team: Ravens Regime 
-- Current owner roster ID: 3
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: TEN
-- Active: True
-- Status: Active
-- Age: 21.0
-- Championship AVI (C-AVI, 0-100): 53.9
-- Dynasty AVI (D-AVI, 0-100): 87.8
-- Projected PPR points: 177.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -376,6 +376,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
+- Championship AVI (C-AVI, 0-100): None
+- Dynasty AVI (D-AVI, 0-100): None
+- Projected PPR points: None
+- Category: idp
+- Valuation status: EXCLUDED_FROM_AVI
+
+### PLAYER: Chris Johnson
+- Player name: Chris Johnson
+- Player ID: 13370
+- Current owner team: Ravens Regime 
+- Current owner roster ID: 3
+- Position: DB
+- Fantasy positions: ['DB']
+- NFL team: MIA
+- Active: True
+- Status: Active
+- Age: 22.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

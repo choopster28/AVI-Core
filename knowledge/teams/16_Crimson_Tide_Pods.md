@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 310.0
-- championship_lineup_c_avi_avg: 38.75
-- offensive_roster_c_avi_sum: 491.8
-- offensive_roster_c_avi_avg: 30.74
-- offensive_roster_d_avi_sum: 1121.1
-- offensive_roster_d_avi_avg: 70.07
+- championship_lineup_c_avi_sum: 276.1
+- championship_lineup_c_avi_avg: 34.51
+- offensive_roster_c_avi_sum: 491.3
+- offensive_roster_c_avi_avg: 30.71
+- offensive_roster_d_avi_sum: 1121.0
+- offensive_roster_d_avi_avg: 70.06
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,9 +35,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Dylan Sampson | C-AVI: 35.0 | D-AVI: 72.7
 - WR: Brian Thomas Jr. | C-AVI: 39.8 | D-AVI: 80.4
 - WR: Germie Bernard | C-AVI: 35.6 | D-AVI: 76.2
-- TE: Dalton Kincaid | C-AVI: 63.9 | D-AVI: 83.6
+- TE: Oronde Gadsden | C-AVI: 30.6 | D-AVI: 73.5
 - FLEX: Chris Rodriguez Jr. | C-AVI: 31.8 | D-AVI: 71.7
-- FLEX: Oronde Gadsden | C-AVI: 30.6 | D-AVI: 73.5
+- FLEX: Gunnar Helm | C-AVI: 30.0 | D-AVI: 69.1
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 63.9
-- Dynasty AVI (D-AVI, 0-100): 83.6
+- Championship AVI (C-AVI, 0-100): 63.4
+- Dynasty AVI (D-AVI, 0-100): 83.5
 - Projected PPR points: 163.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

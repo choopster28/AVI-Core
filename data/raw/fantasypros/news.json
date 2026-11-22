@@ -1,268 +1,328 @@
 {
-  "count": 25,
+  "count": 24,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Ari Koslow",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-11-21 22:49:13",
-      "created_formated": "Sat, Nov 21st 10:49pm UTC",
-      "desc": "Rams LG Steve Avila is still out this week with a hamstring injury. ",
-      "id": 621748,
-      "impact": "Avila remains week-to-week heading into the Rams bye. ",
-      "link": "https://www.fantasypros.com/nfl/news/621748/steve-avila-still-dealing-with-hamstring-injury.php",
-      "player_id": 24108,
+      "created": "2026-11-22 17:06:55",
+      "created_formated": "Sun, Nov 22nd 5:06pm UTC",
+      "desc": "Antoine Winfield Jr. (ankle) is inactive for Week 11 for the Tampa Bay Buccaneers against the Detroit Lions.",
+      "id": 621847,
+      "impact": "Winfield Jr. will sit out after being limited in practices throughout throughout the week by the nagging ankle injury, leaving head coach Todd Bowles without a key secondary option against an aggressive Detroit Lions offense Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/621847/antoine-winfield-jr-ankle-inactive-week-11.php",
+      "player_id": 19266,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Steve Avila still dealing with hamstring injury "
+      "team_id": "TB",
+      "title": "Antoine Winfield Jr. (ankle) inactive for Week 11"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-11-21 22:48:16",
-      "created_formated": "Sat, Nov 21st 10:48pm UTC",
-      "desc": "The Rams designated Justin Dedich to return to practice. ",
-      "id": 621747,
-      "impact": "Dedich will have 21 days to be activated. ",
-      "link": "https://www.fantasypros.com/nfl/news/621747/justin-dedich-designated-to-return-to-practice.php",
-      "player_id": 26731,
+      "created": "2026-11-22 17:04:18",
+      "created_formated": "Sun, Nov 22nd 5:04pm UTC",
+      "desc": "Yaya Diaby (knee) is active for Week 11 for the Tampa Bay Buccaneers against the Detroit Lions.",
+      "id": 621846,
+      "impact": "Diaby will suit up after not suffering any setbacks pregame for head coach Todd Bowles, boosting a Tampa Bay front seven that will look to disrupt quarterback Jared Goff and the high-powered Lions offense Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/621846/yaya-diaby-knee-active-week-11.php",
+      "player_id": 25264,
       "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Justin Dedich designated to return to practice "
+      "team_id": "TB",
+      "title": "Yaya Diaby (knee) active for Week 11"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-11-21 22:47:04",
-      "created_formated": "Sat, Nov 21st 10:47pm UTC",
-      "desc": "Kyren Williams has soreness in his toe but he is expected to play against the Packers in Week 12. ",
-      "id": 621746,
-      "impact": "Williams has the bye week to get fully healthy heading into Week 12. ",
-      "link": "https://www.fantasypros.com/nfl/news/621746/kyren-williams-toe-expected-to-be-good-to-go-week-12.php",
-      "player_id": 23059,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Kyren Williams (toe) expected to be good to go in Week 12"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-21 22:45:37",
-      "created_formated": "Sat, Nov 21st 10:45pm UTC",
-      "desc": "The Lions signed DB Nick Whiteside II to their active roster. ",
-      "id": 621745,
-      "impact": "Whiteside will add depth in the secondary for Detroit. ",
-      "link": "https://www.fantasypros.com/nfl/news/621745/nick-whiteside-ii-signs-with-lions-active-roster.php",
-      "player_id": 25636,
+      "created": "2026-11-22 16:58:48",
+      "created_formated": "Sun, Nov 22nd 4:58pm UTC",
+      "desc": "Sione Vaki (ankle) is active for Week 11 for the Detroit Lions against the Tampa Bay Buccaneers.",
+      "id": 621845,
+      "impact": "Vaki is good to go after passing through pregame testing on the ankle without any issues, providing head coach Dan Campbell with a complementary option behind RB1 Jahmyr Gibbs out of the Detroit backfield against the Buccaneers Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/621845/sione-vaki-ankle-active-week-11.php",
+      "player_id": 26309,
       "sport_id": "NFL",
       "team_id": "DET",
-      "title": "Nick Whiteside II signs with Lions active roster "
+      "title": "Sione Vaki (ankle) active for Week 11"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News"
       ],
-      "created": "2026-11-21 22:44:39",
-      "created_formated": "Sat, Nov 21st 10:44pm UTC",
-      "desc": "The Lions elevated LB Owen Pappoe from their practice squad for Sunday's game against the Buccaneers. ",
-      "id": 621744,
-      "impact": "Pappoe will add depth in the linebacker room for Detroit. ",
-      "link": "https://www.fantasypros.com/nfl/news/621744/owen-pappoe-elevated-by-lions-sunday.php",
-      "player_id": 25313,
+      "created": "2026-11-22 16:45:36",
+      "created_formated": "Sun, Nov 22nd 4:45pm UTC",
+      "desc": "Audric Estime is inactive for Week 11 for the New Orleans Saints against the Chicago Bears according to Ross Jackson.",
+      "id": 621844,
+      "impact": "Estime will not suit up after being relegated to a minimal role in the New Orleans backfield in Week 10, with Alvin Kamara and Travis Etienne Jr. handling the backfield touches against the Bears for head coach Kellen Moore Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/621844/audric-estime-inactive-week-11.php",
+      "player_id": 23054,
+      "sport_id": "NFL",
+      "team_id": "NO",
+      "title": "Audric Estime inactive for Week 11"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-22 16:44:24",
+      "created_formated": "Sun, Nov 22nd 4:44pm UTC",
+      "desc": "Panthers TE Tommy Tremble (knee) is officially active for Week 11.",
+      "id": 621843,
+      "impact": "Tremble was limited in practice to close out the week and was deemed questionable to play against the Ravens. Darren Waller is also active for Bryce Young and the Panthers. ",
+      "link": "https://www.fantasypros.com/nfl/news/621843/tommy-tremble-knee-officially-active-week-11.php",
+      "player_id": 22795,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Tommy Tremble (knee) officially active for Week 11"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-22 16:43:21",
+      "created_formated": "Sun, Nov 22nd 4:43pm UTC",
+      "desc": "Panthers TE Darren Waller (knee) is officially active for a Week 11 matchup with  the Ravens.",
+      "id": 621842,
+      "impact": "Waller was listed as questionable after being limited in practice to close out the week. The Panthers will also have Tommy Tremble active for Bryce Young. ",
+      "link": "https://www.fantasypros.com/nfl/news/621842/darren-waller-knee-officially-active-week-11.php",
+      "player_id": 14104,
+      "sport_id": "NFL",
+      "team_id": "CAR",
+      "title": "Darren Waller (knee) officially active for Week 11"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-22 16:41:43",
+      "created_formated": "Sun, Nov 22nd 4:41pm UTC",
+      "desc": "D.J. Reed Jr. (hip) is inactive for Week 11 for the Detroit Lions against the Tampa Bay Buccaneers.",
+      "id": 621841,
+      "impact": "Reed Jr. will be sidelined despite logging limited practices throughout the week, leaving the Lions secondary shorthanded against the Buccaneers Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/621841/dj-reed-jr-hip-inactive-week-11.php",
+      "player_id": 17375,
       "sport_id": "NFL",
       "team_id": "DET",
-      "title": "Owen Pappoe elevated by Lions for Sunday"
+      "title": "D.J. Reed Jr. (hip) inactive for Week 11"
     },
     {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-21 22:43:13",
-      "created_formated": "Sat, Nov 21st 10:43pm UTC",
-      "desc": "The Packers signed RB Pierre Strong Jr. to their practice squad. ",
-      "id": 621743,
-      "impact": "Strong will remain in a depth role in the backfield for Green Bay. ",
-      "link": "https://www.fantasypros.com/nfl/news/621743/pierre-strong-jr-signs-with-packers-practice-squad.php",
-      "player_id": 24173,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Pierre Strong Jr. signs with Packers practice squad "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-21 22:42:12",
-      "created_formated": "Sat, Nov 21st 10:42pm UTC",
-      "desc": "The Cardinals elevated WR Zay Jones from the practice squad for Sunday's game against the Chiefs. ",
-      "id": 621741,
-      "impact": "Jones will remain off the fantasy radar. ",
-      "link": "https://www.fantasypros.com/nfl/news/621741/zay-jones-elevated-by-cardinals.php",
-      "player_id": 16431,
-      "sport_id": "NFL",
-      "team_id": "ARI",
-      "title": "Zay Jones elevated by Cardinals "
-    },
-    {
-      "author": "Ari Koslow",
+      "author": "Chris Schommer",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-11-21 22:41:12",
-      "created_formated": "Sat, Nov 21st 10:41pm UTC",
-      "desc": "The Panthers placed Isaiah Simmons on injured reserve. ",
-      "id": 621740,
-      "impact": "Simmons will miss at least the next four games for Carolina. ",
-      "link": "https://www.fantasypros.com/nfl/news/621740/isaiah-simmons-placed-on-ir.php",
-      "player_id": 19200,
+      "created": "2026-11-22 16:38:45",
+      "created_formated": "Sun, Nov 22nd 4:38pm UTC",
+      "desc": "Kerby Joseph (knee) is active for Week 11 for the Detroit Lions against the Tampa Bay Buccaneers.",
+      "id": 621840,
+      "impact": "Joseph returns after being sidelined while recovering from a knee injury suffered last season, boosting a Detroit safety group alongside Brian Branch who recently returned from injury as well for head coach Dan Campbell as the defense looks to disrupt a physical Tampa Bay offense Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/621840/kerby-joseph-knee-active-week-11.php",
+      "player_id": 23800,
       "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Isaiah Simmons placed on IR"
+      "team_id": "DET",
+      "title": "Kerby Joseph (knee) active for Week 11"
     },
     {
-      "author": "Ari Koslow",
+      "author": "Jesse Garcia",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-11-21 22:40:31",
-      "created_formated": "Sat, Nov 21st 10:40pm UTC",
-      "desc": "The Panthers activated CB Mike Jackson Sr. from injured reserve. ",
-      "id": 621739,
-      "impact": "Jackson will return for Sunday's game against the Ravens. ",
-      "link": "https://www.fantasypros.com/nfl/news/621739/mike-jackson-sr-groin-activated-from-ir.php",
-      "player_id": 18637,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Mike Jackson Sr. (groin) activated from IR"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-21 22:39:44",
-      "created_formated": "Sat, Nov 21st 10:39pm UTC",
-      "desc": "Brady Christensen has been ruled out for Sunday's game against the Ravens. ",
-      "id": 621738,
-      "impact": "Christensen will remain on injured reserve. ",
-      "link": "https://www.fantasypros.com/nfl/news/621738/brady-christensen-hamstring-ruled-out-sunday.php",
-      "player_id": 22805,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Brady Christensen (hamstring) ruled out Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-21 22:39:06",
-      "created_formated": "Sat, Nov 21st 10:39pm UTC",
-      "desc": "The Panthers elevated LB Nick Hampton for Sunday's game against the Ravens. ",
-      "id": 621737,
-      "impact": "Hampton will add depth in the linebacker room for Carolina. ",
-      "link": "https://www.fantasypros.com/nfl/news/621737/nick-hampton-elevated-by-panthers.php",
-      "player_id": 25270,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Nick Hampton elevated by Panthers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-21 22:38:34",
-      "created_formated": "Sat, Nov 21st 10:38pm UTC",
-      "desc": "The Panthers elevated LB Ja'Markis Weston for Sunday's game against the Ravens. ",
-      "id": 621736,
-      "impact": "Weston will add depth in the linebacker room for Carolina. ",
-      "link": "https://www.fantasypros.com/nfl/news/621736/jamarkis-weston-elevated-by-panthers.php",
-      "player_id": 27690,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Ja'Markis Weston elevated by Panthers "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-21 22:37:16",
-      "created_formated": "Sat, Nov 21st 10:37pm UTC",
-      "desc": "The Bears elevated RB Salvon Ahmed from the practice squad for Sunday's game against the Saints. ",
-      "id": 621734,
-      "impact": "Ahmed will add depth in the backfield for Chicago. ",
-      "link": "https://www.fantasypros.com/nfl/news/621734/salvon-ahmed-elevated-by-bears.php",
-      "player_id": 19449,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Salvon Ahmed elevated by Bears"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-21 22:35:42",
-      "created_formated": "Sat, Nov 21st 10:35pm UTC",
-      "desc": "Nate Hobbs has been ruled out for Sunday's game against the Vikings. ",
-      "id": 621733,
-      "impact": "Hobbs will be sidelined on Sunday. ",
-      "link": "https://www.fantasypros.com/nfl/news/621733/nate-hobbs-ruled-out-sunday.php",
-      "player_id": 23299,
-      "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Nate Hobbs ruled out Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News"
-      ],
-      "created": "2026-11-21 21:39:06",
-      "created_formated": "Sat, Nov 21st 9:39pm UTC",
-      "desc": "The Bills elevated Tre'Davious White for Sunday's game against the Dolphins. ",
-      "id": 621730,
-      "impact": "White will add depth in the corner back room for Buffalo. ",
-      "link": "https://www.fantasypros.com/nfl/news/621730/tredavious-white-elevated-by-bills.php",
-      "player_id": 16509,
+      "created": "2026-11-22 16:38:22",
+      "created_formated": "Sun, Nov 22nd 4:38pm UTC",
+      "desc": "Bills TE Dalton Kincaid (thumb/ankle) is officially inactive for a Week 11 matchup with Miami.",
+      "id": 621839,
+      "impact": "Kincaid was considered doubtful to play after being unable to practice all week. Dawson Knox will likely serve as the primary tight end for Josh Allen and the Bills. ",
+      "link": "https://www.fantasypros.com/nfl/news/621839/dalton-kincaid-thumbankle-officially-inactive-week-11.php",
+      "player_id": 25247,
       "sport_id": "NFL",
       "team_id": "BUF",
-      "title": "Tre'Davious White elevated by Bills"
+      "title": "Dalton Kincaid (thumb/ankle) officially inactive for Week 11"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-22 16:35:30",
+      "created_formated": "Sun, Nov 22nd 4:35pm UTC",
+      "desc": "Titans WR Carnell Tate (shoulder) is officially active for a Week 11 matchup with Dallas.",
+      "id": 621838,
+      "impact": "Tate was listed as questionable but was expected to play based on early reports. Tate is in a plus matchup against a struggling Dallas' defense, if Cam Ward can clean up some inconsistent quarterback play.",
+      "link": "https://www.fantasypros.com/nfl/news/621838/carnell-tate-shoulder-officially-active-week-11.php",
+      "player_id": 26009,
+      "sport_id": "NFL",
+      "team_id": "TEN",
+      "title": "Carnell Tate (shoulder) officially active for Week 11"
+    },
+    {
+      "author": "Jesse Garcia",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-22 16:33:39",
+      "created_formated": "Sun, Nov 22nd 4:33pm UTC",
+      "desc": "Cowboys TE Luke Schoonmaker (illness) is officially active for a Week 11 matchup with the Titans. ",
+      "id": 621837,
+      "impact": "Brevyn Spann-Ford will likely serve as the primary tight end for Dallas with Jake Ferguson (knee/ankle) inactive. Schoonmaker should fill the TE2 role against the Titans.",
+      "link": "https://www.fantasypros.com/nfl/news/621837/luke-schoonmaker-illness-officially-active-week-11.php",
+      "player_id": 25267,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Luke Schoonmaker (illness) officially active for Week 11"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-22 16:09:16",
+      "created_formated": "Sun, Nov 22nd 4:09pm UTC",
+      "desc": "Daniel Jones will wait to sign with potential interested teams according to Ian Rapoport.",
+      "id": 621836,
+      "impact": "Jones is said to be waiting for the best opportunity for any potential quarterback-needy teams still in playoff contention. The veteran signal-caller disappointed after an impressive 2025-26 season for the Indianapolis Colts prior his release earlier this week.",
+      "link": "https://www.fantasypros.com/nfl/news/621836/daniel-jones-to-wait-on-potential-signing-with-teams.php",
+      "player_id": 18232,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Daniel Jones to wait on potential signing with teams"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-22 16:05:27",
+      "created_formated": "Sun, Nov 22nd 4:05pm UTC",
+      "desc": "Drake Maye (ankle) will miss at least six weeks for the New England Patriots according to Ian Rapoport.",
+      "id": 621835,
+      "impact": "Maye will miss extended time after being injured in the first quarter of a Week 10 loss to the Detroit Lions, with quarterback potentially only returning if New England remains in the playoff hunt. Tommy DeVito remains QB1 unless the Patriots look to add to their quarterback room moving forward.",
+      "link": "https://www.fantasypros.com/nfl/news/621835/drake-maye-ankle-to-miss-least-six-weeks.php",
+      "player_id": 23046,
+      "sport_id": "NFL",
+      "team_id": "NE",
+      "title": "Drake Maye (ankle) to miss at least six weeks"
+    },
+    {
+      "author": "Garrett Ball",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-22 13:43:06",
+      "created_formated": "Sun, Nov 22nd 1:43pm UTC",
+      "desc": "Alec Pierce (heel) has been shut down for the remainder of the 2026 NFL season. All eyes are now on a healthy return for 2027 to aid a Colts team undergoing vast changes.",
+      "id": 621834,
+      "impact": "It was a disappointing season for the veteran wideout, who signed a massive extension with the team this offseason. Things didn't go to plan in 2026, with Pierce getting injured, Daniel Jones regressing, and the team entering a rebuild despite having fewer top picks at their disposal. It's a wise decision to shut Pierce down in a lost season, and he'll become the top WR for whomever is quarterbacking the Colts next season.",
+      "link": "https://www.fantasypros.com/nfl/news/621834/alec-pierce-heel-shut-down-remainder-season.php",
+      "player_id": 23791,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Alec Pierce (heel) shut down for remainder of season"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-22 12:42:36",
+      "created_formated": "Sun, Nov 22nd 12:42pm UTC",
+      "desc": "Baker Mayfield (foot) will return to start at quarterback for the Tampa Bay Buccaneers Sunday according to Ian Rapoport.",
+      "id": 621833,
+      "impact": "Mayfield will take the field while fighting through lingering plantar fasciitis, as the veteran signal-caller looks to keep Tampa Bay's NFC South hopes alive while playing though the injury for head coach Todd Bowles, facing a resurgent Detroit Lions defense on the road Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/621833/baker-mayfield-foot-will-play-sunday.php",
+      "player_id": 17237,
+      "sport_id": "NFL",
+      "team_id": "TB",
+      "title": "Baker Mayfield (foot) will play Sunday"
+    },
+    {
+      "author": "Chris Schommer",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-22 12:40:33",
+      "created_formated": "Sun, Nov 22nd 12:40pm UTC",
+      "desc": "Ladd McConkey (back) is expected to play for the Los Angeles Chargers Sunday according to Ian Rapoport.",
+      "id": 621832,
+      "impact": "McConkey will test out the back during pregame warmups after being limited in practice throughout the week, offering head coach Jim Harbaugh one his more impactful pass-catchers against the New York Jets Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/621832/ladd-mcconkey-back-expected-to-play-sunday.php",
+      "player_id": 26122,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "Ladd McConkey (back) expected to play Sunday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-22 08:12:28",
+      "created_formated": "Sun, Nov 22nd 8:12am UTC",
+      "desc": "The Cowboys did not activate S Jalen Thompson for this week. ",
+      "id": 621830,
+      "impact": "Thompson will remain on injured reserve for Dallas. ",
+      "link": "https://www.fantasypros.com/nfl/news/621830/jalen-thompson-hamstring-will-not-be-activated-this-week.php",
+      "player_id": 19108,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Jalen Thompson (hamstring) will not be activated this week"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-22 08:11:50",
+      "created_formated": "Sun, Nov 22nd 8:11am UTC",
+      "desc": "The Cowboys did not activate CB Devin Moore for this week. ",
+      "id": 621829,
+      "impact": "Moore will remain on injured reserve for Dallas. ",
+      "link": "https://www.fantasypros.com/nfl/news/621829/devin-moore-to-remain-on-ir.php",
+      "player_id": 28189,
+      "sport_id": "NFL",
+      "team_id": "DAL",
+      "title": "Devin Moore to remain on IR"
     },
     {
       "author": "Ari Koslow",
@@ -270,70 +330,16 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-11-21 21:38:34",
-      "created_formated": "Sat, Nov 21st 9:38pm UTC",
-      "desc": "The Bills elevated Shaq Thompson for Sunday's game against the Dolphins. ",
-      "id": 621729,
-      "impact": "Thompson will add depth in the linebacker room for Buffalo. ",
-      "link": "https://www.fantasypros.com/nfl/news/621729/shaq-thompson-elevated-by-bills.php",
-      "player_id": 14028,
+      "created": "2026-11-22 08:10:46",
+      "created_formated": "Sun, Nov 22nd 8:10am UTC",
+      "desc": "The Colts released Jacob Bobenmoyer. ",
+      "id": 621828,
+      "impact": "Bobenmoyer will figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/621828/jacob-bobenmoyer-released-by-colts.php",
+      "player_id": 18812,
       "sport_id": "NFL",
-      "team_id": "BUF",
-      "title": "Shaq Thompson elevated by Bills"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-21 21:37:34",
-      "created_formated": "Sat, Nov 21st 9:37pm UTC",
-      "desc": "The Rams designated DE Kobie Turner to return to practice.",
-      "id": 621728,
-      "impact": "Turner will have a chance to return in Week 12 against the Packers. ",
-      "link": "https://www.fantasypros.com/nfl/news/621728/kobie-turner-groin-designated-to-return-to-practice.php",
-      "player_id": 25283,
-      "sport_id": "NFL",
-      "team_id": "LAR",
-      "title": "Kobie Turner (groin) designated to return to practice "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-21 21:36:05",
-      "created_formated": "Sat, Nov 21st 9:36pm UTC",
-      "desc": "Jonathon Brooks has been ruled out for Sunday's game against the Ravens. ",
-      "id": 621727,
-      "impact": "Brooks will remain on IR for at least one more week. ",
-      "link": "https://www.fantasypros.com/nfl/news/621727/jonathon-brooks-groin-ruled-out-sunday.php",
-      "player_id": 26148,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Jonathon Brooks (groin) ruled out Sunday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-21 21:35:02",
-      "created_formated": "Sat, Nov 21st 9:35pm UTC",
-      "desc": "The Lions placed OL Cade Mays on injured reserve. ",
-      "id": 621726,
-      "impact": "Mays will be sidelined for at least the next four games for Detroit. ",
-      "link": "https://www.fantasypros.com/nfl/news/621726/cade-mays-ankle-placed-on-ir.php",
-      "player_id": 20138,
-      "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Cade Mays (ankle) placed on IR"
+      "team_id": "FA",
+      "title": "Jacob Bobenmoyer released by Colts"
     },
     {
       "author": "Ari Koslow",
@@ -341,16 +347,16 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-11-21 21:32:08",
-      "created_formated": "Sat, Nov 21st 9:32pm UTC",
-      "desc": "The Raiders elevated TE Carter Runyon from their practice squad for Sunday's game against the Broncos. ",
-      "id": 621725,
-      "impact": "This is not a good sign for the status of Brock Bowers as he remains questionable. ",
-      "link": "https://www.fantasypros.com/nfl/news/621725/carter-runyon-elevated-by-raiders-sunday.php",
-      "player_id": 27470,
+      "created": "2026-11-22 08:10:02",
+      "created_formated": "Sun, Nov 22nd 8:10am UTC",
+      "desc": "The Panthers released KR Ihmir Smith-Marsette from practice squad IR with injury settlement.",
+      "id": 621827,
+      "impact": "Smith-Marsette was never active after rejoining the Panthers this season.",
+      "link": "https://www.fantasypros.com/nfl/news/621827/ihmir-smith-marsette-released-by-panthers.php",
+      "player_id": 20116,
       "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Carter Runyon elevated by Raiders for Sunday"
+      "team_id": "FA",
+      "title": "Ihmir Smith-Marsette released by Panthers "
     },
     {
       "author": "Ari Koslow",
@@ -358,88 +364,67 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-11-21 21:30:56",
-      "created_formated": "Sat, Nov 21st 9:30pm UTC",
-      "desc": "The 49ers waived WR Brandin Cooks. ",
-      "id": 621724,
-      "impact": "The 49ers wide receiver room is getting healthy again. Cooks will seek another opportunity. ",
-      "link": "https://www.fantasypros.com/nfl/news/621724/brandin-cooks-waived-by-49ers.php",
-      "player_id": 12122,
+      "created": "2026-11-22 08:09:10",
+      "created_formated": "Sun, Nov 22nd 8:09am UTC",
+      "desc": "The Steelers waived WR Brandon Smith. ",
+      "id": 621826,
+      "impact": "Smith will figure to seek another opportunity. The move opened up a roster spot for the return of Roman Wilson. ",
+      "link": "https://www.fantasypros.com/nfl/news/621826/brandon-smith-waived-by-steelers.php",
+      "player_id": 24284,
       "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Brandin Cooks waived by 49ers "
+      "team_id": "FA",
+      "title": "Brandon Smith waived by Steelers "
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-11-21 21:21:06",
-      "created_formated": "Sat, Nov 21st 9:21pm UTC",
-      "desc": "The Eagles placed LB Zack Baun on injured reserve. ",
-      "id": 621723,
-      "impact": "Baun will miss at least the next four games for Philadelphia. ",
-      "link": "https://www.fantasypros.com/nfl/news/621723/zack-baun-back-placed-on-ir.php",
-      "player_id": 19238,
+      "created": "2026-11-22 08:07:58",
+      "created_formated": "Sun, Nov 22nd 8:07am UTC",
+      "desc": "The Chargers released Daniel Brunskill. ",
+      "id": 621825,
+      "impact": "The Chargers signed Josiah Deguara to their practice squad as the corresponding move. ",
+      "link": "https://www.fantasypros.com/nfl/news/621825/daniel-brunskill-released-by-chargers.php",
+      "player_id": 17036,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Zack Baun (back) placed on IR"
+      "team_id": "FA",
+      "title": "Daniel Brunskill released by Chargers "
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-11-21 21:20:37",
-      "created_formated": "Sat, Nov 21st 9:20pm UTC",
-      "desc": "The Eagles placed WR Dontayvion Wicks on injured reserve. ",
-      "id": 621722,
-      "impact": "Wicks will miss at least the next four games for Philadelphia. ",
-      "link": "https://www.fantasypros.com/nfl/news/621722/dontayvion-wicks-anklefoot-placed-on-ir.php",
-      "player_id": 24354,
+      "created": "2026-11-22 08:07:29",
+      "created_formated": "Sun, Nov 22nd 8:07am UTC",
+      "desc": "The Chargers signed Josiah Deguara to their practice squad. ",
+      "id": 621824,
+      "impact": "The Chargers released Daniel Brunskill as the corresponding move. ",
+      "link": "https://www.fantasypros.com/nfl/news/621824/josiah-deguara-signs-with-chargers.php",
+      "player_id": 19456,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Dontayvion Wicks (ankle/foot) placed on IR"
+      "team_id": "LAC",
+      "title": "Josiah Deguara signs with Chargers "
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-11-21 21:19:48",
-      "created_formated": "Sat, Nov 21st 9:19pm UTC",
-      "desc": "The Eagles activated RB Will Shipley from injured reserve. ",
-      "id": 621721,
-      "impact": "Shipley will return to a depth role in the backfield for the Eagles. ",
-      "link": "https://www.fantasypros.com/nfl/news/621721/will-shipley-foot-activated-from-ir.php",
-      "player_id": 22930,
+      "created": "2026-11-22 08:06:23",
+      "created_formated": "Sun, Nov 22nd 8:06am UTC",
+      "desc": "The Cowboys signed LB Bralen Trice to their practice squad. ",
+      "id": 621823,
+      "impact": "Trice will add depth in the linebacker room for Dallas. ",
+      "link": "https://www.fantasypros.com/nfl/news/621823/bralen-trice-signs-with-cowboys.php",
+      "player_id": 25241,
       "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Will Shipley (foot) activated from IR"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-21 20:20:44",
-      "created_formated": "Sat, Nov 21st 8:20pm UTC",
-      "desc": "The Steelers activated Roman Wilson from injured reserve. ",
-      "id": 621715,
-      "impact": "Wilson will officially return for Sunday's game against the Eagles. ",
-      "link": "https://www.fantasypros.com/nfl/news/621715/roman-wilson-finger-activated-from-ir.php",
-      "player_id": 28896,
-      "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Roman Wilson (finger) activated from IR"
+      "team_id": "DAL",
+      "title": "Bralen Trice signs with Cowboys "
     }
   ],
   "public_api": true,

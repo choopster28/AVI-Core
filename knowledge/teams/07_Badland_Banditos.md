@@ -23,10 +23,10 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 603.6
 - championship_lineup_c_avi_avg: 75.45
-- offensive_roster_c_avi_sum: 912.6
-- offensive_roster_c_avi_avg: 53.68
-- offensive_roster_d_avi_sum: 1291.2
-- offensive_roster_d_avi_avg: 75.95
+- offensive_roster_c_avi_sum: 917.0
+- offensive_roster_c_avi_avg: 53.94
+- offensive_roster_d_avi_sum: 1296.3
+- offensive_roster_d_avi_avg: 76.25
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -141,23 +141,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 22.5
 - Dynasty AVI (D-AVI, 0-100): 63.7
 - Projected PPR points: 30.6
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Audric Estime
-- Player name: Audric Estime
-- Player ID: 11579
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: NO
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 21.6
-- Dynasty AVI (D-AVI, 0-100): 57.8
-- Projected PPR points: 22.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -291,7 +274,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 27.6
+- Championship AVI (C-AVI, 0-100): 27.5
 - Dynasty AVI (D-AVI, 0-100): 65.6
 - Projected PPR points: 94.5
 - Category: offense
@@ -345,6 +328,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 29.3
 - Dynasty AVI (D-AVI, 0-100): 66.1
 - Projected PPR points: 122.3
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Evan Engram
+- Player name: Evan Engram
+- Player ID: 4066
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: DEN
+- Active: True
+- Status: Active
+- Age: 32.0
+- Championship AVI (C-AVI, 0-100): 26.1
+- Dynasty AVI (D-AVI, 0-100): 62.9
+- Projected PPR points: 70.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
