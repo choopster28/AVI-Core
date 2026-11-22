@@ -92,14 +92,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 14
 - Team file: 14_Phalhala_or_Bust.md
 
-## PLAYER LOOKUP: Audric Estime
-- Player name: Audric Estime
-- Player ID: 11579
-- Position: RB
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Team file: 07_Badland_Banditos.md
-
 ## PLAYER LOOKUP: Austin Ekeler
 - Player name: Austin Ekeler
 - Player ID: 4663
@@ -728,6 +720,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Player name: Emmett Johnson
 - Player ID: 13337
 - Position: RB
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Team file: 07_Badland_Banditos.md
+
+## PLAYER LOOKUP: Evan Engram
+- Player name: Evan Engram
+- Player ID: 4066
+- Position: TE
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
@@ -2154,15 +2154,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 61.8
 - Availability: available
 
-## AVAILABLE PLAYER: Evan Engram
-- Player name: Evan Engram
-- Player ID: 4066
-- Position: TE
-- NFL team: DEN
-- Championship AVI (C-AVI, 0-100): 26.1
-- Dynasty AVI (D-AVI, 0-100): 62.9
-- Availability: available
-
 ## AVAILABLE PLAYER: Troy Franklin
 - Player name: Troy Franklin
 - Player ID: 11627
@@ -2521,6 +2512,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: KC
 - Championship AVI (C-AVI, 0-100): 21.7
 - Dynasty AVI (D-AVI, 0-100): 56.9
+- Availability: available
+
+## AVAILABLE PLAYER: Audric Estime
+- Player name: Audric Estime
+- Player ID: 11579
+- Position: RB
+- NFL team: NO
+- Championship AVI (C-AVI, 0-100): 21.6
+- Dynasty AVI (D-AVI, 0-100): 57.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Devin Neal

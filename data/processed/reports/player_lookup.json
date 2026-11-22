@@ -147,18 +147,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00004066",
-      "c_avi": 26.1,
-      "d_avi": 62.9,
-      "nfl_team": "DEN",
-      "player_name": "Evan Engram",
-      "position": "TE",
-      "sleeper_id": "4066",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00011627",
       "c_avi": 25.6,
       "d_avi": 64.3,
@@ -634,6 +622,18 @@
       "player_name": "Jalen Royals",
       "position": "WR",
       "sleeper_id": "12505",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00011579",
+      "c_avi": 21.6,
+      "d_avi": 57.8,
+      "nfl_team": "NO",
+      "player_name": "Audric Estime",
+      "position": "RB",
+      "sleeper_id": "11579",
       "status": "Active"
     },
     {
@@ -2873,22 +2873,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00011579",
-      "c_avi": 21.6,
-      "d_avi": 57.8,
-      "nfl_team": "NO",
-      "owner_id": "737531831641128960",
-      "player_name": "Audric Estime",
-      "position": "RB",
-      "roster_id": 7,
-      "sleeper_id": "11579",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00004663",
       "c_avi": 0.0,
       "d_avi": 41.1,
@@ -4146,6 +4130,22 @@
       "position": "RB",
       "roster_id": 7,
       "sleeper_id": "13337",
+      "status": "Active",
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00004066",
+      "c_avi": 26.1,
+      "d_avi": 62.9,
+      "nfl_team": "DEN",
+      "owner_id": "737531831641128960",
+      "player_name": "Evan Engram",
+      "position": "TE",
+      "roster_id": 7,
+      "sleeper_id": "4066",
       "status": "Active",
       "team_file": "07_Badland_Banditos.md",
       "team_name": "Badland Banditos "
