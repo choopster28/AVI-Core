@@ -501,17 +501,18 @@
       }
     },
     {
-      "average": 8.6,
+      "average": 9.1,
       "filename": "renardo-green.php",
-      "games": 9,
+      "games": 10,
       "player_id": 26451,
       "player_name": "Renardo Green",
-      "points": 77,
+      "points": 90.5,
       "position_id": "CB",
       "team_id": "SF",
       "weeks": {
         "1": 10.3,
         "10": 11.3,
+        "11": 13.5,
         "2": 2.3,
         "3": 16.5,
         "4": 4.5,
@@ -1314,17 +1315,18 @@
       }
     },
     {
-      "average": 5.9,
+      "average": 6.2,
       "filename": "james-pierre.php",
-      "games": 9,
+      "games": 10,
       "player_id": 19659,
       "player_name": "James Pierre",
-      "points": 52.75,
+      "points": 61.75,
       "position_id": "CB",
       "team_id": "MIN",
       "weeks": {
         "1": 12.5,
         "10": 4.5,
+        "11": 9,
         "2": 4.5,
         "3": 4.5,
         "4": 0,
@@ -1659,17 +1661,18 @@
       }
     },
     {
-      "average": 0.4,
+      "average": 0.6,
       "filename": "siran-neal.php",
-      "games": 9,
+      "games": 10,
       "player_id": 17531,
       "player_name": "Siran Neal",
-      "points": 4,
+      "points": 5.5,
       "position_id": "CB",
       "team_id": "SF",
       "weeks": {
         "1": 0,
         "10": 0,
+        "11": 1.5,
         "2": 0,
         "3": 0,
         "4": 4,
@@ -1819,17 +1822,18 @@
       }
     },
     {
-      "average": 4.3,
+      "average": 4,
       "filename": "theo-jackson.php",
-      "games": 8,
+      "games": 9,
       "player_id": 24001,
       "player_name": "Theo Jackson",
-      "points": 34,
+      "points": 36.25,
       "position_id": "CB",
       "team_id": "MIN",
       "weeks": {
         "1": 3,
         "10": 4.5,
+        "11": 2.3,
         "2": 5.3,
         "3": 2.3,
         "4": 2.3,
@@ -2602,17 +2606,18 @@
       }
     },
     {
-      "average": 9.6,
+      "average": 9.2,
       "filename": "byron-murphy.php",
-      "games": 9,
+      "games": 10,
       "player_id": 18220,
       "player_name": "Byron Murphy Jr.",
-      "points": 86.25,
+      "points": 92.25,
       "position_id": "CB",
       "team_id": "MIN",
       "weeks": {
         "1": 12.8,
         "10": 3.8,
+        "11": 6,
         "2": 16.3,
         "3": 0.8,
         "4": 2.3,
@@ -2680,17 +2685,18 @@
       }
     },
     {
-      "average": 4.9,
+      "average": 4.7,
       "filename": "upton-stout.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27246,
       "player_name": "Upton Stout",
-      "points": 39.25,
+      "points": 42.25,
       "position_id": "CB",
       "team_id": "SF",
       "weeks": {
         "1": 3,
         "10": 3,
+        "11": 3,
         "2": 11.3,
         "3": 1.5,
         "4": 7.5,
@@ -2891,17 +2897,18 @@
       }
     },
     {
-      "average": 6.3,
+      "average": 7.2,
       "filename": "deommodore-lenoir.php",
-      "games": 9,
+      "games": 10,
       "player_id": 19282,
       "player_name": "Deommodore Lenoir",
-      "points": 56.5,
+      "points": 72,
       "position_id": "CB",
       "team_id": "SF",
       "weeks": {
         "1": 6.8,
         "10": 12.8,
+        "11": 15.5,
         "2": 4.5,
         "3": 7.5,
         "4": 5.3,
@@ -3652,7 +3659,7 @@
       "player_name": "Isaac Yiadom",
       "points": 0,
       "position_id": "CB",
-      "team_id": "WAS",
+      "team_id": "FA",
       "weeks": {
         "3": 0,
         "4": 0,
@@ -3979,16 +3986,17 @@
       }
     },
     {
-      "average": 2.5,
+      "average": 2.8,
       "filename": "ephesians-prysock.php",
-      "games": 5,
+      "games": 6,
       "player_id": 28466,
       "player_name": "Ephesians Prysock",
-      "points": 12.25,
+      "points": 16.75,
       "position_id": "CB",
       "team_id": "SF",
       "weeks": {
         "10": 10,
+        "11": 4.5,
         "5": 0,
         "6": 0,
         "7": 0,
@@ -4059,7 +4067,7 @@
       "player_name": "Sean Fresch Jr.",
       "points": 0,
       "position_id": "CB",
-      "team_id": "FA",
+      "team_id": "DEN",
       "weeks": {
         "5": 0,
         "6": 0,
@@ -4309,7 +4317,7 @@
       "player_name": "Terell Smith",
       "points": 0,
       "position_id": "CB",
-      "team_id": "FA",
+      "team_id": "ATL",
       "weeks": {
         "8": 0
       }
@@ -4520,19 +4528,6 @@
       "points": 0,
       "position_id": "CB",
       "team_id": "LAC",
-      "weeks": {
-        "11": 0
-      }
-    },
-    {
-      "average": 0,
-      "filename": "max-hurleman.php",
-      "games": 1,
-      "player_id": 27911,
-      "player_name": "Max Hurleman",
-      "points": 0,
-      "position_id": "CB",
-      "team_id": "PIT",
       "weeks": {
         "11": 0
       }

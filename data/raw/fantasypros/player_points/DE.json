@@ -181,9 +181,9 @@
       }
     },
     {
-      "average": 4.1,
+      "average": 3.3,
       "filename": "nick-bosa.php",
-      "games": 4,
+      "games": 5,
       "player_id": 18199,
       "player_name": "Nick Bosa",
       "points": 16.5,
@@ -192,22 +192,24 @@
       "weeks": {
         "1": 10.3,
         "10": 0,
+        "11": 0,
         "2": 2.3,
         "9": 4
       }
     },
     {
-      "average": 5.3,
+      "average": 5.2,
       "filename": "keion-white.php",
-      "games": 9,
+      "games": 10,
       "player_id": 25281,
       "player_name": "Keion White",
-      "points": 47.75,
+      "points": 51.75,
       "position_id": "DE",
       "team_id": "SF",
       "weeks": {
         "1": 4,
         "10": 0,
+        "11": 4,
         "2": 8.8,
         "3": 9.5,
         "4": 0.8,
@@ -218,17 +220,18 @@
       }
     },
     {
-      "average": 4.9,
+      "average": 4.8,
       "filename": "osa-odighizuwa.php",
-      "games": 9,
+      "games": 10,
       "player_id": 22816,
       "player_name": "Osa Odighizuwa",
-      "points": 43.75,
+      "points": 48,
       "position_id": "DE",
       "team_id": "SF",
       "weeks": {
         "1": 2.3,
         "10": 7.8,
+        "11": 4.3,
         "2": 1.5,
         "3": 2.3,
         "4": 1.5,
@@ -259,17 +262,18 @@
       }
     },
     {
-      "average": 2.1,
+      "average": 2,
       "filename": "romello-height.php",
-      "games": 8,
+      "games": 9,
       "player_id": 28052,
       "player_name": "Romello Height",
-      "points": 16.5,
+      "points": 18,
       "position_id": "DE",
       "team_id": "SF",
       "weeks": {
         "1": 0,
         "10": 1.5,
+        "11": 1.5,
         "2": 5.5,
         "4": 3,
         "5": 0,
@@ -1564,17 +1568,18 @@
       }
     },
     {
-      "average": 11.1,
+      "average": 10.4,
       "filename": "dallas-turner.php",
-      "games": 9,
+      "games": 10,
       "player_id": 26097,
       "player_name": "Dallas Turner",
-      "points": 99.75,
+      "points": 103.5,
       "position_id": "DE",
       "team_id": "MIN",
       "weeks": {
         "1": 11,
         "10": 16.5,
+        "11": 3.8,
         "2": 19,
         "3": 5.8,
         "4": 19,
@@ -1585,17 +1590,18 @@
       }
     },
     {
-      "average": 6.6,
+      "average": 7,
       "filename": "jalen-redmond.php",
-      "games": 9,
+      "games": 10,
       "player_id": 25777,
       "player_name": "Jalen Redmond",
-      "points": 59.25,
+      "points": 69.5,
       "position_id": "DE",
       "team_id": "MIN",
       "weeks": {
         "1": 5.3,
         "10": 9.5,
+        "11": 10.3,
         "2": 10,
         "3": 3,
         "4": 3.8,
@@ -1608,7 +1614,7 @@
     {
       "average": 0,
       "filename": "chaz-chambliss.php",
-      "games": 9,
+      "games": 10,
       "player_id": 27656,
       "player_name": "Chaz Chambliss",
       "points": 0,
@@ -1617,6 +1623,7 @@
       "weeks": {
         "1": 0,
         "10": 0,
+        "11": 0,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -2240,7 +2247,7 @@
       "player_name": "Max Llewellyn",
       "points": 0,
       "position_id": "DE",
-      "team_id": "MIA",
+      "team_id": "FA",
       "weeks": {
         "2": 0,
         "7": 0,

@@ -1,402 +1,42 @@
 {
-  "count": 25,
+  "count": 24,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 02:46:03",
-      "created_formated": "Mon, Nov 23rd 2:46am UTC",
-      "desc": "Bhayshul Tuten ran 10 times for 33 yards and caught all three of his targets for 20 yards in the Jaguars' 23-18 loss to the Giants on Sunday.",
-      "id": 622028,
-      "impact": "Tuten was held in check by the Giants' defensive front on Sunday, failing to get much going on the ground and being held out of the end zone. It's disappointing for sure, but the Titans are back on the schedule next week.",
-      "link": "https://www.fantasypros.com/nfl/news/622028/bhayshul-tuten-held-check-on-sunday.php",
-      "player_id": 27297,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Bhayshul Tuten held in check on Sunday"
-    },
-    {
-      "author": "Garrett Ball",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 02:42:10",
-      "created_formated": "Mon, Nov 23rd 2:42am UTC",
-      "desc": "Trevor Lawrence completed 25-of-47 passes for 301 yards, a touchdown, and two picks in the Jaguars' 23-18 loss to the Giants on Sunday.",
-      "id": 622027,
-      "impact": "Lawrence could have had a much better day, and the game's outcome would have been different had an end-zone throw to Parker Washington been ruled a catch rather than an incompletion. The controversial play saw Washington bobble a pass before appearing to secure it and getting feet in bounds for a touchdown, but it was ruled incomplete. Still, Lawrence had his faults and seemed to succumb to the Giants' pass rush. He will look to have a better outing when he faces the Titans next Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/622027/trevor-lawrence-throws-300-yards-loss-to-giants.php",
-      "player_id": 19780,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Trevor Lawrence throws for 300 yards in loss to Giants"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 01:12:32",
-      "created_formated": "Mon, Nov 23rd 1:12am UTC",
-      "desc": "Tyler Shough completed 25-of-42 pass attempts for 222 yards, one touchdown, and one interception while also rushing three times for 34 yards in the Saints' 21-13 Week 11 loss to the Bears.",
-      "id": 622016,
-      "impact": "Shough has made up for inconsistent results behind center of late, throwing for one or more touchdowns in each of his last five games. The athletic signal-caller will look for more impactful success against the Cincinnati Bengals in Week 12.",
-      "link": "https://www.fantasypros.com/nfl/news/622016/tyler-shough-fights-consistency-issues-behind-center-week-11-loss.php",
-      "player_id": 23096,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Tyler Shough fights consistency issues behind center in Week 11 loss "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 01:08:05",
-      "created_formated": "Mon, Nov 23rd 1:08am UTC",
-      "desc": "Chris Olave hauled in nine of his team-leading 15 targets for 102 yards in the Saints' 21-13 Week 11 loss to the Bears.",
-      "id": 622015,
-      "impact": "Olave has made the most of increased volume in the New Orleans offense of late, recording six or more receptions in three of his last four games. The wideout remains the lone reliable option in an inconsistent New Orleans offense to this point, with a Week 12 matchup against the Cincinnati Bengals up next.",
-      "link": "https://www.fantasypros.com/nfl/news/622015/chris-olave-leads-pass-catchers-week-11-loss-to-bears.php",
-      "player_id": 20111,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Chris Olave leads pass-catchers in Week 11 loss to Bears"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 01:04:52",
-      "created_formated": "Mon, Nov 23rd 1:04am UTC",
-      "desc": "Jordan Tyson hauled in one of his two targets for six yards while also rushing once for four yards in the Saints' 21-13 Week 11 loss to the Bears.",
-      "id": 622014,
-      "impact": "Tyson has battled inconsistent output in the New Orleans offense since returning from injury, finishing with 30 or less receiving yards in two of his three contests. The rookie pass-catcher remains difficult to trust entering a Week 12 matchup against the Cincinnati Bengals.",
-      "link": "https://www.fantasypros.com/nfl/news/622014/jordyn-tyson-bottled-up-week-11-loss.php",
-      "player_id": 26035,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Jordyn Tyson bottled up in Week 11 loss"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 01:02:02",
-      "created_formated": "Mon, Nov 23rd 1:02am UTC",
-      "desc": "Travis Etienne Jr. carried the ball 14 times for 76 yards while also failing to catch his lone target in the Saints' 21-13 Week 11 loss to the Bears.",
-      "id": 622013,
-      "impact": "Etienne Jr. has offered mixed results out of the backfield since returning from injury, rushing for over 70 yards for the first time in two contests. The running back remains one of many risky options in the New Orleans offense ahead of a Week 12 matchup against the Cincinnati Bengals.",
-      "link": "https://www.fantasypros.com/nfl/news/622013/travis-etienne-jr-leads-backfield-week-11-loss-to-bears.php",
-      "player_id": 19231,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Travis Etienne Jr. leads backfield in Week 11 loss to Bears"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 00:58:59",
-      "created_formated": "Mon, Nov 23rd 12:58am UTC",
-      "desc": "Alvin Kamara rushed once for one yard while also catching one of his two targets for one yard and one touchdown in the Saints' 21-13 loss to the Bears in Week 11.",
-      "id": 622012,
-      "impact": "Kamara has made up for an otherwise forgettable stretch out of the New Orleans backfield, recording one or more touchdowns in each of his last two contests. The running back remains difficult to trust as part of an underperforming New Orleans running back group ahead of a Week 12 contest against the Cincinnati Bengals.",
-      "link": "https://www.fantasypros.com/nfl/news/622012/alvin-kamara-held-check-week-11-loss.php",
-      "player_id": 16421,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Alvin Kamara held in check in Week 11 loss"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 00:54:53",
-      "created_formated": "Mon, Nov 23rd 12:54am UTC",
-      "desc": "Devaughn Vele hauled in all seven of his targets for 76 yards in the Saints' 21-13 Week 11 loss to the Bears.",
-      "id": 622011,
-      "impact": "Vele has offered mixed results in the New Orleans offense of late, posting over 50 receiving yards for the second time in his last four contests. The wideout remains another risky pass-catching option entering a Week 12 contest against the Cincinnati Bengals.",
-      "link": "https://www.fantasypros.com/nfl/news/622011/devaughn-vele-hauls-seven-passes-week-11-loss-to-bears.php",
-      "player_id": 26409,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Devaughn Vele hauls in seven passes in Week 11 loss to Bears"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 00:52:04",
-      "created_formated": "Mon, Nov 23rd 12:52am UTC",
-      "desc": "Noah Fant caught two of his five targets for 19 yards in the Saints' 21-13 loss to the Bears in Week 11.",
-      "id": 622009,
-      "impact": "Fant was one of many disappointing pass-catching options Sunday, finishing under 20 receiving yards in each of his last seven contests. The tight end could be in line for increased snaps if Juwan Johnson (hamstring) misses time, with a Week 12 contest against the Cincinnati Bengals up next.",
-      "link": "https://www.fantasypros.com/nfl/news/622009/noah-fant-quiet-week-11.php",
-      "player_id": 17527,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Noah Fant quiet in Week 11"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 00:49:16",
-      "created_formated": "Mon, Nov 23rd 12:49am UTC",
-      "desc": "Barion Brown rushed twice for no gain in the Saints' 21-13 loss to the Bears in Week 11.",
-      "id": 622008,
-      "impact": "Brown has underwhelmed in the New Orleans offense, recording five receiving yards or less in six of his eight contests. The wideout can remain off rosters in all formats entering a Week 12 contest against the Cincinnati Bengals.",
-      "link": "https://www.fantasypros.com/nfl/news/622008/barion-brown-sees-two-touches-week-11.php",
-      "player_id": 25416,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Barion Brown sees two touches in Week 11"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 00:46:58",
-      "created_formated": "Mon, Nov 23rd 12:46am UTC",
-      "desc": "Oscar Delp caught his only target for six yards in the Saints' 21-13 loss to the Bears in Week 11.",
-      "id": 622007,
-      "impact": "Delp has made minimal impact in the New Orleans offense to this point, finishing with less than 10 receiving yards in each of his nine contests. The tight end can remain off rosters in all formats ahead of a Week 12 contest against the Cincinnati Bengals.",
-      "link": "https://www.fantasypros.com/nfl/news/622007/oscar-delp-catches-pass-week-11.php",
-      "player_id": 25430,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Oscar Delp catches pass in Week 11"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-22 22:11:11",
-      "created_formated": "Sun, Nov 22nd 10:11pm UTC",
-      "desc": "Jalen Coker caught 4-of-7 targets for 47 yards in a 35-33 win over the Ravens. ",
-      "id": 621943,
-      "impact": "Coker needed a bounce back performance after failing to record a catch last week. He did leave the game late and is now in the concussion protocol. He will need to clear the protocol before being able to suit up against the Buccaneers in Week 12. ",
-      "link": "https://www.fantasypros.com/nfl/news/621943/jalen-coker-hauls-four-passes-week-11-win.php",
-      "player_id": 26403,
-      "sport_id": "NFL",
-      "team_id": "CAR",
-      "title": "Jalen Coker hauls in four passes in Week 11 win"
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 00:40:37",
-      "created_formated": "Mon, Nov 23rd 12:40am UTC",
-      "desc": "Zay Flowers caught 8-of-11 targets for 84 yards in a 35-33 loss to the Panthers. ",
-      "id": 622005,
-      "impact": "Flowers has quickly built a strong rapport with Jacoby Brissett in his first two starts with the Ravens. Flowers has 14 receptions for 171 yards on 18 targets with Brissett at the helm. Flowers and the Ravens will take on the Texans in Week 12. ",
-      "link": "https://www.fantasypros.com/nfl/news/622005/zay-flowers-hauls-eight-passes-week-11-loss.php",
-      "player_id": 22916,
-      "sport_id": "NFL",
-      "team_id": "BAL",
-      "title": "Zay Flowers hauls in eight passes in Week 11 loss"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 00:40:37",
-      "created_formated": "Mon, Nov 23rd 12:40am UTC",
-      "desc": "Bryce Lance failed to catch his only target in the Saints' 21-13 loss to the Bears in Week 11.",
-      "id": 622006,
-      "impact": "Lance has made minimal impact in the New Orleans offense, finishing with less than 15 receiving yards in each of his last nine contests. The wideout can be left off rosters in all formats entering a Week 12 contest against Cincinnati Bengals.",
-      "link": "https://www.fantasypros.com/nfl/news/622006/bryce-lance-sees-one-target-week-11.php",
-      "player_id": 28129,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Bryce Lance sees one target in Week 11"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 00:38:00",
-      "created_formated": "Mon, Nov 23rd 12:38am UTC",
-      "desc": "CJ Donaldson rushed one time for five yards while also catching all four of his targets for 12 yards with one fumble lost in the Saints' 21-13 loss to the Bears in Week 11.",
-      "id": 622004,
-      "impact": "Donaldson has underwhelmed in the New Orleans offense, finishing with less than 40 offensive yards in each of his eight games. The running back can remain off rosters in all formats ahead of a Week 12 contest against the Cincinnati Bengals.",
-      "link": "https://www.fantasypros.com/nfl/news/622004/cj-donaldson-sees-five-touches-week-11.php",
-      "player_id": 25396,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "CJ Donaldson sees five touches in Week 11"
-    },
-    {
-      "author": "Garrett Ball",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-11-23 00:37:26",
-      "created_formated": "Mon, Nov 23rd 12:37am UTC",
-      "desc": "Justin Herbert (concussion) is in the NFL's concussion protocol following the Chargers game against the Jets on Sunday.",
-      "id": 622003,
-      "impact": "If Herbert were to miss the Chargers next game, which seems likely given most players do, DJ Uiagalelei would be next in line for QB duties. Every Charger skill position player would see a downgrade in fantasy appeal.",
-      "link": "https://www.fantasypros.com/nfl/news/622003/justin-herbert-concussion-entering-nfl-concussion-protocol.php",
-      "player_id": 18635,
-      "sport_id": "NFL",
-      "team_id": "LAC",
-      "title": "Justin Herbert (concussion) entering NFL concussion protocol "
-    },
-    {
-      "author": "Jesse Garcia",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-22 21:36:15",
-      "created_formated": "Sun, Nov 22nd 9:36pm UTC",
-      "desc": "Travis Kelce caught 6-of-7 targets for 74 yards and two touchdowns in a 34-7 win over the Cardinals. ",
-      "id": 621917,
-      "impact": "Kelce scored on touchdown receptions of eight and 22 yards in the first half. This ended a long receiving touchdown drought for the veteran, who had not connected with Patrick Mahomes for a touchdown reception since Week 3. Kelce and the Chiefs will take on the Bills in Week 12.",
-      "link": "https://www.fantasypros.com/nfl/news/621917/travis-kelce-finds-end-zone-twice-week-11-win.php",
-      "player_id": 11594,
+      "created": "2026-11-23 23:14:37",
+      "created_formated": "Mon, Nov 23rd 11:14pm UTC",
+      "desc": "Kenneth Walker III did not participate in Monday's walkthrough practice. ",
+      "id": 622244,
+      "impact": "It is a short week for the Chiefs on Thursday against the Bills. Walker will need to continue to be monitored in practice on Tuesday after missing the past two weeks. ",
+      "link": "https://www.fantasypros.com/nfl/news/622244/kenneth-walker-iii-groin-misses-walkthrough-monday.php",
+      "player_id": 23021,
       "sport_id": "NFL",
       "team_id": "KC",
-      "title": "Travis Kelce finds the end zone twice in Week 11 win"
+      "title": "Kenneth Walker III (groin) misses walkthrough Monday "
     },
     {
-      "author": "Chris Schommer",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-23 00:31:05",
-      "created_formated": "Mon, Nov 23rd 12:31am UTC",
-      "desc": "The Saints D/ST forced two turnovers (one fumble recovery, one interception) while also recording two sacks in a 21-13 loss to the Chicago Bears in Week 11.",
-      "id": 622002,
-      "impact": "The defense held an explosive Chicago passing attack in check, allowing 165 passing yards in the win. The unit face another difficult test against an explosive Cincinnati Bengals offense in Week 12.",
-      "link": "https://www.fantasypros.com/nfl/news/622002/saints-dst-forces-two-turnovers-week-11.php",
-      "player_id": 8190,
+      "created": "2026-11-23 23:10:50",
+      "created_formated": "Mon, Nov 23rd 11:10pm UTC",
+      "desc": "Dak Prescott was listed as a full participant on Monday's estimated injury report. ",
+      "id": 622243,
+      "impact": "Prescott was listed with a hand injury. He should still be good to go for Thursday's game against the Eagles on Thanksgiving. ",
+      "link": "https://www.fantasypros.com/nfl/news/622243/dak-prescott-hand-logs-full-practice-estimated-report-monday.php",
+      "player_id": 15600,
       "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Saints D/ST forces two turnovers in Week 11 "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 00:28:46",
-      "created_formated": "Mon, Nov 23rd 12:28am UTC",
-      "desc": "Charlie Smyth converted two of his three field goal attempts while also making his only extra point attempt to finish with seven points in the Saints' 21-13 loss to the Bears in Week 11.",
-      "id": 622001,
-      "impact": "Smyth continues a steady stretch, finishing with five or more points in each of his three contests. The kicker will look for another stable performance against the Cincinnati Bengals in Week 12.",
-      "link": "https://www.fantasypros.com/nfl/news/622001/charlie-smyth-misses-field-goal-week-11.php",
-      "player_id": 26444,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Charlie Smyth misses field goal in Week 11"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 00:08:47",
-      "created_formated": "Mon, Nov 23rd 12:08am UTC",
-      "desc": "Caleb Williams completed 15-of-23 pass attempts for 181 yards, two touchdowns, and one interception while also rushing four times for 11 yards in the Bears' 21-13 Week 11 win over the Saints.",
-      "id": 621996,
-      "impact": "Williams has been steady behind center of late, throwing for two touchdowns in three of his last four games. The athletic signal-caller will look to offer more dynamic results in a Week 12 Thanksgiving Day matchup against the Detroit Lions.",
-      "link": "https://www.fantasypros.com/nfl/news/621996/caleb-williams-throws-two-touchdowns-week-11-win-over-saints.php",
-      "player_id": 23084,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Caleb Williams throws two touchdowns in Week 11 win over Saints"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 00:05:40",
-      "created_formated": "Mon, Nov 23rd 12:05am UTC",
-      "desc": "D'Andre Swift carried the ball 13 times for 51 yards while also catching both of his targets for eight yards and one touchdown in the Bears' 21-13 Week 11 win over the Saints.",
-      "id": 621995,
-      "impact": "Swift has had a nose for the end zone of late, recording at least one touchdown in five of his last six games. The running back remains a mostly steady backfield option for head coach Ben Johnson entering a Week 12 matchup against the Detroit Lions.",
-      "link": "https://www.fantasypros.com/nfl/news/621995/dandre-swift-reaches-end-zone-week-11-win-over-saints.php",
-      "player_id": 19210,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "D'Andre Swift reaches end zone in Week 11 win over Saints"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-23 00:02:16",
-      "created_formated": "Mon, Nov 23rd 12:02am UTC",
-      "desc": "Luther Burden III hauled in two of his three targets for 10 yards while also rushing once for three yards in the Bears' 21-3 Week 11 win over the Saints.",
-      "id": 621994,
-      "impact": "Burden III was held in check by the Saints secondary, finishing with under 60 receiving yards for the first time in his last five games. The pass-catcher will look to offer a more impactful performance in a Week 12 matchup against the Detroit Lions.",
-      "link": "https://www.fantasypros.com/nfl/news/621994/luther-burden-iii-bottled-up-week-11-win.php",
-      "player_id": 27016,
-      "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Luther Burden III bottled up in Week 11 win"
+      "team_id": "DAL",
+      "title": "Dak Prescott (hand) logs full practice on estimated report Monday "
     },
     {
       "author": "Chris Schommer",
@@ -406,52 +46,393 @@
         "Injury",
         "Breaking"
       ],
-      "created": "2026-11-22 23:59:20",
-      "created_formated": "Sun, Nov 22nd 11:59pm UTC",
-      "desc": "Mike Evans (Achilles) is officially active for Week 11 for the San Francisco 49ers against the Minnesota Vikings according to Mike Garafolo.",
-      "id": 621993,
-      "impact": "Evans is good to go after passing through pregame tests without any issues, offering quarterback Brock Purdy another impactful pass-catching option against an aggressive Minnesota Vikings defense Sunday night.",
-      "link": "https://www.fantasypros.com/nfl/news/621993/mike-evans-achilles-active-week-11.php",
-      "player_id": 12119,
+      "created": "2026-11-23 22:52:18",
+      "created_formated": "Mon, Nov 23rd 10:52pm UTC",
+      "desc": "Micah Parsons (knee) has been cleared to return for the Green Bay Packers Monday according to Ian Rapoport.",
+      "id": 622236,
+      "impact": "Parsons is now poised to make his season debut Wednesday night against the Rams, boosting a Green Bay front seven that will look to disrupt quarterback Matthew Stafford and the injury-ravaged Rams offense.",
+      "link": "https://www.fantasypros.com/nfl/news/622236/micah-parsons-knee-cleared-to-return-monday.php",
+      "player_id": 19784,
       "sport_id": "NFL",
-      "team_id": "SF",
-      "title": "Mike Evans (Achilles) active for Week 11"
+      "team_id": "GB",
+      "title": "Micah Parsons (knee) cleared to return Monday"
     },
     {
-      "author": "Chris Schommer",
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-23 22:34:22",
+      "created_formated": "Mon, Nov 23rd 10:34pm UTC",
+      "desc": "Aaron Banks was a full participant in practice on Monday. ",
+      "id": 622232,
+      "impact": "Banks is on track to be good to go for Wednesday's game against the Rams.  ",
+      "link": "https://www.fantasypros.com/nfl/news/622232/aaron-banks-knee-logs-full-practice-monday.php",
+      "player_id": 22804,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Aaron Banks (knee) logs full practice Monday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-23 22:33:29",
+      "created_formated": "Mon, Nov 23rd 10:33pm UTC",
+      "desc": "Kevin Zeitler was limited in practice on Monday. ",
+      "id": 622231,
+      "impact": "Zeitler will need to be monitored on the injury report heading into Wednesday's game against the Rams on a short week.",
+      "link": "https://www.fantasypros.com/nfl/news/622231/kevin-zeitler-triceps-limited-practice-monday.php",
+      "player_id": 15109,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Kevin Zeitler (triceps) limited in practice Monday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-23 22:32:46",
+      "created_formated": "Mon, Nov 23rd 10:32pm UTC",
+      "desc": "Sean Rhyan was limited in practice on Monday. ",
+      "id": 622230,
+      "impact": "Rhyan will need to be monitored on the injury report heading into Wednesday's game against the Rams on a short week.",
+      "link": "https://www.fantasypros.com/nfl/news/622230/sean-rhyan-ankle-limited-practice-monday.php",
+      "player_id": 23723,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Sean Rhyan (ankle) limited in practice Monday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-23 22:32:16",
+      "created_formated": "Mon, Nov 23rd 10:32pm UTC",
+      "desc": "Skyy Moore was limited in practice on Monday. ",
+      "id": 622229,
+      "impact": "Moore will need to be monitored on the injury report heading into Wednesday's game against the Rams on a short week.",
+      "link": "https://www.fantasypros.com/nfl/news/622229/skyy-moore-ankle-limited-practice-monday.php",
+      "player_id": 23905,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Skyy Moore (ankle) limited in practice Monday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-23 22:31:44",
+      "created_formated": "Mon, Nov 23rd 10:31pm UTC",
+      "desc": "Bo Melton was limited in practice on Monday. ",
+      "id": 622228,
+      "impact": "Melton will need to be monitored on the injury report heading into Wednesday's game against the Rams on a short week.",
+      "link": "https://www.fantasypros.com/nfl/news/622228/bo-melton-thigh-limited-practice-monday.php",
+      "player_id": 24049,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Bo Melton (thigh) limited in practice Monday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-23 22:31:08",
+      "created_formated": "Mon, Nov 23rd 10:31pm UTC",
+      "desc": "Zaire Franklin was limited in practice on Monday. ",
+      "id": 622227,
+      "impact": "Franklin will need to be monitored on the injury report heading into Wednesday's game against the Rams on a short week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622227/zaire-franklin-shin-limited-practice-monday.php",
+      "player_id": 17563,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Zaire Franklin (shin) limited in practice Monday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-23 22:29:44",
+      "created_formated": "Mon, Nov 23rd 10:29pm UTC",
+      "desc": "Josh Jacobs was limited in practice on Monday. ",
+      "id": 622226,
+      "impact": "Jacobs is not expected to be ready to return for Wednesday's game against the Rams. He was still able to practice in limited fashion just two days before the next game for Green Bay. ",
+      "link": "https://www.fantasypros.com/nfl/news/622226/josh-jacobs-finger-limited-practice-monday.php",
+      "player_id": 18269,
+      "sport_id": "NFL",
+      "team_id": "GB",
+      "title": "Josh Jacobs (finger) limited in practice Monday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-23 22:21:33",
+      "created_formated": "Mon, Nov 23rd 10:21pm UTC",
+      "desc": "DeVonta Smith was listed as a full participant on Monday's estimated practice report. ",
+      "id": 622224,
+      "impact": "Smith hauled in five passes in his return to action on Sunday against the Steelers. He should remain a steady WR2 in a favorable matchup against Dallas. ",
+      "link": "https://www.fantasypros.com/nfl/news/622224/devonta-smith-hamstring-practices-fully-estimated-practice-monday.php",
+      "player_id": 19222,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "DeVonta Smith (hamstring) practices fully in estimated practice Monday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-23 22:20:22",
+      "created_formated": "Mon, Nov 23rd 10:20pm UTC",
+      "desc": "Jonathan Greenard was listed as a full participant on Monday's estimated practice report. ",
+      "id": 622223,
+      "impact": "Greenard is on track to be good to go for Thursday's game against the Cowboys. ",
+      "link": "https://www.fantasypros.com/nfl/news/622223/jonathan-greenard-ankle-practices-fully-estimated-practice-monday.php",
+      "player_id": 19276,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Jonathan Greenard (ankle) practices fully in estimated practice Monday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-23 22:19:21",
+      "created_formated": "Mon, Nov 23rd 10:19pm UTC",
+      "desc": "Jalen Carter was listed as a full participant on Monday's estimated practice report. ",
+      "id": 622222,
+      "impact": "Carter is on track to be fully good to go for Thursday's game on Thanksgiving against the Cowboys. ",
+      "link": "https://www.fantasypros.com/nfl/news/622222/jalen-carter-quad-practices-fully-estimated-practice-monday.php",
+      "player_id": 24703,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Jalen Carter (quad) practices fully in estimated practice Monday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-23 22:17:54",
+      "created_formated": "Mon, Nov 23rd 10:17pm UTC",
+      "desc": "Will Shipley was listed as a limited participant on Monday's estimated practice report. ",
+      "id": 622221,
+      "impact": "Shipley saw four carries in his return to action on Sunday. He remains off the fantasy radar in his current role. ",
+      "link": "https://www.fantasypros.com/nfl/news/622221/will-shipley-footillness-limited-estimated-practice-monday.php",
+      "player_id": 22930,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Will Shipley (foot/illness) limited in estimated practice Monday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-23 22:16:52",
+      "created_formated": "Mon, Nov 23rd 10:16pm UTC",
+      "desc": "Tanner McKee was listed as a limited participant on Monday's estimated practice report. ",
+      "id": 622220,
+      "impact": "McKee will continue to backup Joe Milton if he is healthy. ",
+      "link": "https://www.fantasypros.com/nfl/news/622220/tanner-mckee-rib-limited-estimated-practice-monday.php",
+      "player_id": 24740,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Tanner McKee (rib) limited in estimated practice Monday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-23 22:16:11",
+      "created_formated": "Mon, Nov 23rd 10:16pm UTC",
+      "desc": "Dallas Goedert was listed as a limited participant on Monday's estimated practice report. ",
+      "id": 622219,
+      "impact": "Goedert caught just one pass in Sunday's win over the Steelers. His upside appears to be a little more limited with Joe Milton behind center. ",
+      "link": "https://www.fantasypros.com/nfl/news/622219/dallas-goedert-shin-limited-estimated-practice-monday.php",
+      "player_id": 17270,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Dallas Goedert (shin) limited in estimated practice Monday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-23 22:14:19",
+      "created_formated": "Mon, Nov 23rd 10:14pm UTC",
+      "desc": "Saquon Barkley was listed as a limited participant on Monday's estimated practice report. ",
+      "id": 622218,
+      "impact": "Barkley was able to find the end zone in Sunday's win over the Steelers. He should be on track to be good to go despite it being a short week for the Eagles. ",
+      "link": "https://www.fantasypros.com/nfl/news/622218/saquon-barkley-neckillness-limited-estimated-practice-monday.php",
+      "player_id": 17240,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Saquon Barkley (neck/illness) limited in estimated practice Monday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-23 22:12:20",
+      "created_formated": "Mon, Nov 23rd 10:12pm UTC",
+      "desc": "Quinyon Mitchell was listed as a DNP on Monday's estimated practice report. ",
+      "id": 622217,
+      "impact": "It is a short week for the Eagles playing on Thursday. Mitchell is battling a hamstring injury. ",
+      "link": "https://www.fantasypros.com/nfl/news/622217/quinyon-mitchell-hamstring-dnp-from-estimated-practice-monday.php",
+      "player_id": 26106,
+      "sport_id": "NFL",
+      "team_id": "PHI",
+      "title": "Quinyon Mitchell (hamstring) DNP from estimated practice Monday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-23 22:08:52",
+      "created_formated": "Mon, Nov 23rd 10:08pm UTC",
+      "desc": "Former Colts QB Daniel Jones cleared waivers and is now officially a free agent.",
+      "id": 622216,
+      "impact": "Jones should draw some more interest now that he has cleared waivers. He should sign with a team fairly soon. ",
+      "link": "https://www.fantasypros.com/nfl/news/622216/daniel-jones-clears-waivers-officially-free-agent.php",
+      "player_id": 18232,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Daniel Jones clears waivers, officially a free agent"
+    },
+    {
+      "author": "Emily Maingi",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-11-22 23:54:22",
-      "created_formated": "Sun, Nov 22nd 11:54pm UTC",
-      "desc": "Colston Loveland hauled in all three of his targets for 29 yards and one touchdown in the Bears' 21-13 Week 11 win over the Saints.",
-      "id": 621992,
-      "impact": "Loveland has been a reliable target of late, recording over 50 receiving yards in four of his last five games. The tight end will look to provide quarterback Caleb Williams a stable pass-catching option in a Week 12 divisional matchup against the Detroit Lions.",
-      "link": "https://www.fantasypros.com/nfl/news/621992/colston-loveland-finds-end-zone-week-11-win-over-saints.php",
-      "player_id": 26006,
+      "created": "2026-11-23 20:27:59",
+      "created_formated": "Mon, Nov 23rd 8:27pm UTC",
+      "desc": "The Pittsburgh Steelers D/ST allowed 19 points and recorded three sacks in Sunday's loss to the Eagles.",
+      "id": 622205,
+      "impact": "The Steelers faced the Eagles on a seven-game skid, but weren't to take much advantage of a struggling offense. The Steelers face the improving Broncos on Sunday.",
+      "link": "https://www.fantasypros.com/nfl/news/622205/pittsburgh-steelers-dst-allows-19-points-loss.php",
+      "player_id": 8240,
       "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Colston Loveland finds end zone in Week 11 win over Saints"
+      "team_id": "PIT",
+      "title": "Pittsburgh Steelers D/ST allows 19 points in loss"
     },
     {
-      "author": "Chris Schommer",
+      "author": "Emily Maingi",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-11-22 23:50:37",
-      "created_formated": "Sun, Nov 22nd 11:50pm UTC",
-      "desc": "Kyle Monangai rushed eight times for 18 yards while also failing to catch his only target in the Bears' 21-13 Week 11 win over the Saints.",
-      "id": 621991,
-      "impact": "Monangai struggled to find much success on the ground, rushing for a paltry 2.3 yards per carry in the win. The running back remains a risky backfield option behind RB1 D'Andre Swift ahead of a Week 12 matchup against the Detroit Lions.",
-      "link": "https://www.fantasypros.com/nfl/news/621991/kyle-monangai-quiet-week-11-win.php",
-      "player_id": 27131,
+      "created": "2026-11-23 20:29:54",
+      "created_formated": "Mon, Nov 23rd 8:29pm UTC",
+      "desc": "Chris Boswell made all three field goal attempts and added an extra point in Sunday's loss to the Eagles. ",
+      "id": 622206,
+      "impact": "Boswell has missed five field goals this year, most recently missing one in Week 10. He will be a solid streaming option for Week 12, where he figures to get some opportunities against a stingy Broncos defense that may prevent the offense from reaching the endzone.",
+      "link": "https://www.fantasypros.com/nfl/news/622206/chris-boswell-is-perfect-on-four-kicks.php",
+      "player_id": 13029,
       "sport_id": "NFL",
-      "team_id": "CHI",
-      "title": "Kyle Monangai quiet in Week 11 win"
+      "team_id": "PIT",
+      "title": "Chris Boswell is perfect on four kicks"
+    },
+    {
+      "author": "Emily Maingi",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-23 20:19:40",
+      "created_formated": "Mon, Nov 23rd 8:19pm UTC",
+      "desc": "Darnell Washington caught all three of his targets for 22 yards in Sunday's loss to the Eagles. ",
+      "id": 622204,
+      "impact": "Washington's yardage total throughout the season has been inconsistent, although this is the fifth game with at least three receptions. Washington won't be fantasy-relevant in Week 12's game against the Broncos.",
+      "link": "https://www.fantasypros.com/nfl/news/622204/darnell-washington-goes-322-loss.php",
+      "player_id": 22967,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Darnell Washington goes 3/22 in loss"
+    },
+    {
+      "author": "Emily Maingi",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-23 20:17:59",
+      "created_formated": "Mon, Nov 23rd 8:17pm UTC",
+      "desc": "Pat Freiermuth caught five passes for 39 yards in Sunday's loss to the Eagles. He also added a rush for one yard. ",
+      "id": 622203,
+      "impact": "Freiermuth's five receptions ties his season high, and he's only gone above the 40-yard mark twice all season. Right now, Freiermuth is a touchdown-dependent TE2 against the Broncos in Week 12.",
+      "link": "https://www.fantasypros.com/nfl/news/622203/pat-freiermuth-totals-40-yards-loss.php",
+      "player_id": 20163,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Pat Freiermuth totals 40 yards in loss"
+    },
+    {
+      "author": "Emily Maingi",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-23 20:10:32",
+      "created_formated": "Mon, Nov 23rd 8:10pm UTC",
+      "desc": "Rico Dowdle had five rushes for 15 yards and added four catches for 19 yards in Sunday's loss to the Eagles. ",
+      "id": 622196,
+      "impact": "Dowdle has mostly disappointed this season, logging fewer than 50 all-purpose yards in all but two of his games played this season. He has failed to show the upside he had last year with the Panthers, and has only reached the end zone once all year. Dowdle will be nothing more than a desperation play in Week 12's game against the Broncos.",
+      "link": "https://www.fantasypros.com/nfl/news/622196/rico-dowdle-has-minimal-production-loss.php",
+      "player_id": 19647,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Rico Dowdle has minimal production in loss"
     }
   ],
   "public_api": true,

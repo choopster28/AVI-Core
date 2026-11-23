@@ -94,17 +94,18 @@
       }
     },
     {
-      "average": 23.1,
+      "average": 23,
       "filename": "brock-purdy.php",
-      "games": 9,
+      "games": 10,
       "player_id": 19797,
       "player_name": "Brock Purdy",
-      "points": 207.96,
+      "points": 230.16,
       "position_id": "QB",
       "team_id": "SF",
       "weeks": {
         "1": 22.1,
         "10": 31.7,
+        "11": 22.2,
         "2": 28.5,
         "3": 31.3,
         "4": 19.6,
@@ -535,17 +536,18 @@
       }
     },
     {
-      "average": 19.7,
+      "average": 18.6,
       "filename": "kirk-cousins.php",
-      "games": 10,
+      "games": 11,
       "player_id": 11177,
       "player_name": "Kirk Cousins",
-      "points": 196.68,
+      "points": 205.08,
       "position_id": "QB",
       "team_id": "MIN",
       "weeks": {
         "1": 15.8,
         "10": 16.4,
+        "11": 8.4,
         "2": 21.2,
         "3": 22.2,
         "4": 23.6,
@@ -557,16 +559,17 @@
       }
     },
     {
-      "average": 8.3,
+      "average": 6.5,
       "filename": "carson-wentz.php",
-      "games": 3,
+      "games": 4,
       "player_id": 15520,
       "player_name": "Carson Wentz",
-      "points": 24.779999999999998,
+      "points": 25.939999999999998,
       "position_id": "QB",
       "team_id": "MIN",
       "weeks": {
         "1": 19.2,
+        "11": 1.2,
         "2": 6.3,
         "9": -0.8
       }
@@ -848,15 +851,16 @@
       }
     },
     {
-      "average": -0.3,
+      "average": -0.1,
       "filename": "mac-jones.php",
-      "games": 2,
+      "games": 3,
       "player_id": 20156,
       "player_name": "Mac Jones",
-      "points": -0.5,
+      "points": -0.4,
       "position_id": "QB",
       "team_id": "SF",
       "weeks": {
+        "11": 0.1,
         "2": -0.2,
         "9": -0.3
       }

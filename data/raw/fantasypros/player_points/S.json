@@ -226,17 +226,18 @@
       }
     },
     {
-      "average": 9,
+      "average": 8.2,
       "filename": "marques-sigle.php",
-      "games": 6,
+      "games": 7,
       "player_id": 27477,
       "player_name": "Marques Sigle",
-      "points": 54.25,
+      "points": 57.25,
       "position_id": "S",
       "team_id": "SF",
       "weeks": {
         "1": 9.8,
         "10": 15.5,
+        "11": 3,
         "2": 13.3,
         "3": 4.5,
         "4": 7.5,
@@ -244,17 +245,18 @@
       }
     },
     {
-      "average": 6.8,
+      "average": 7.7,
       "filename": "jiayir-brown.php",
-      "games": 9,
+      "games": 10,
       "player_id": 25258,
       "player_name": "Ji'Ayir Brown",
-      "points": 61,
+      "points": 77.25,
       "position_id": "S",
       "team_id": "SF",
       "weeks": {
         "1": 4.5,
         "10": 6,
+        "11": 16.3,
         "2": 14.5,
         "3": 7.5,
         "4": 5.3,
@@ -265,17 +267,18 @@
       }
     },
     {
-      "average": 6.7,
+      "average": 6.8,
       "filename": "malik-mustapha.php",
-      "games": 9,
+      "games": 10,
       "player_id": 26326,
       "player_name": "Malik Mustapha",
-      "points": 60.5,
+      "points": 68.25,
       "position_id": "S",
       "team_id": "SF",
       "weeks": {
         "1": 2.3,
         "10": 13.3,
+        "11": 7.8,
         "2": 0,
         "3": 3.8,
         "4": 3,
@@ -288,7 +291,7 @@
     {
       "average": 0.3,
       "filename": "ashtyn-davis.php",
-      "games": 9,
+      "games": 10,
       "player_id": 19232,
       "player_name": "Ashtyn Davis",
       "points": 3,
@@ -297,6 +300,7 @@
       "weeks": {
         "1": 0,
         "10": 0,
+        "11": 0,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1704,17 +1708,18 @@
       }
     },
     {
-      "average": 8.8,
+      "average": 8.3,
       "filename": "josh-metellus.php",
-      "games": 9,
+      "games": 10,
       "player_id": 19580,
       "player_name": "Joshua Metellus",
-      "points": 79.25,
+      "points": 83,
       "position_id": "S",
       "team_id": "MIN",
       "weeks": {
         "1": 5.3,
         "10": 6,
+        "11": 3.8,
         "2": 9.8,
         "3": 13.3,
         "4": 7.5,
@@ -1725,17 +1730,18 @@
       }
     },
     {
-      "average": 4.6,
+      "average": 4.4,
       "filename": "harrison-smith.php",
-      "games": 9,
+      "games": 10,
       "player_id": 11260,
       "player_name": "Harrison Smith",
-      "points": 41.25,
+      "points": 43.5,
       "position_id": "S",
       "team_id": "MIN",
       "weeks": {
         "1": 3,
         "10": 8,
+        "11": 2.3,
         "2": 4.5,
         "3": 1.5,
         "4": 3,
@@ -3067,16 +3073,17 @@
       }
     },
     {
-      "average": 0,
+      "average": 0.8,
       "filename": "jakobe-thomas.php",
-      "games": 1,
+      "games": 2,
       "player_id": 28464,
       "player_name": "Jakobe Thomas",
-      "points": 0,
+      "points": 1.5,
       "position_id": "S",
       "team_id": "MIN",
       "weeks": {
-        "10": 0
+        "10": 0,
+        "11": 1.5
       }
     },
     {

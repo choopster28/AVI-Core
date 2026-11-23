@@ -329,17 +329,18 @@
       }
     },
     {
-      "average": 1.5,
+      "average": 2.4,
       "filename": "tai-felton.php",
-      "games": 9,
+      "games": 10,
       "player_id": 27182,
       "player_name": "Tai Felton",
-      "points": 13.399999999999999,
+      "points": 23.599999999999998,
       "position_id": "WR",
       "team_id": "MIN",
       "weeks": {
         "1": 0,
         "10": 6.3,
+        "11": 10.2,
         "2": 0,
         "3": 0,
         "4": 2.4,
@@ -966,16 +967,17 @@
       }
     },
     {
-      "average": 1.9,
+      "average": 2.3,
       "filename": "jauan-jennings.php",
-      "games": 6,
+      "games": 7,
       "player_id": 19590,
       "player_name": "Jauan Jennings",
-      "points": 11.4,
+      "points": 16.4,
       "position_id": "WR",
       "team_id": "MIN",
       "weeks": {
         "1": 0,
+        "11": 5,
         "3": 1.1,
         "4": 1.8,
         "5": 0,
@@ -1028,17 +1030,18 @@
       }
     },
     {
-      "average": 12.4,
+      "average": 12.5,
       "filename": "justin-jefferson.php",
-      "games": 9,
+      "games": 10,
       "player_id": 19236,
       "player_name": "Justin Jefferson",
-      "points": 111.6,
+      "points": 125.3,
       "position_id": "WR",
       "team_id": "MIN",
       "weeks": {
         "1": 31.2,
         "10": 16.4,
+        "11": 13.7,
         "2": 8.5,
         "3": 5.2,
         "4": 0,
@@ -1425,17 +1428,18 @@
       }
     },
     {
-      "average": 10.2,
+      "average": 9.9,
       "filename": "keenan-allen.php",
-      "games": 9,
+      "games": 10,
       "player_id": 11616,
       "player_name": "Keenan Allen",
-      "points": 92.19999999999999,
+      "points": 98.99999999999999,
       "position_id": "WR",
       "team_id": "SF",
       "weeks": {
         "1": 9.2,
         "10": 11.1,
+        "11": 6.8,
         "2": 1.5,
         "3": 18.3,
         "5": 9.5,
@@ -1486,17 +1490,18 @@
       }
     },
     {
-      "average": 14.4,
+      "average": 13.4,
       "filename": "deebo-samuel.php",
-      "games": 6,
+      "games": 7,
       "player_id": 18244,
       "player_name": "Deebo Samuel Sr.",
-      "points": 86.3,
+      "points": 94,
       "position_id": "WR",
       "team_id": "SF",
       "weeks": {
         "1": 18,
         "10": 25.9,
+        "11": 7.7,
         "2": 6.5,
         "3": 15.4,
         "4": 18,
@@ -2171,9 +2176,9 @@
       }
     },
     {
-      "average": 1,
+      "average": 0.9,
       "filename": "jacob-cowing.php",
-      "games": 9,
+      "games": 10,
       "player_id": 25289,
       "player_name": "Jacob Cowing",
       "points": 9.399999999999999,
@@ -2182,6 +2187,7 @@
       "weeks": {
         "1": 0,
         "10": 0,
+        "11": 0,
         "2": 0,
         "3": 0,
         "4": 0.2,
@@ -2671,17 +2677,18 @@
       }
     },
     {
-      "average": 3.3,
+      "average": 3.4,
       "filename": "myles-price.php",
-      "games": 9,
+      "games": 10,
       "player_id": 27805,
       "player_name": "Myles Price",
-      "points": 29.5,
+      "points": 34.1,
       "position_id": "WR",
       "team_id": "MIN",
       "weeks": {
         "1": 0,
         "10": 16.1,
+        "11": 4.6,
         "2": 0,
         "3": 6,
         "4": 2.8,
@@ -2707,16 +2714,17 @@
       }
     },
     {
-      "average": 14.8,
+      "average": 16,
       "filename": "mike-evans.php",
-      "games": 6,
+      "games": 7,
       "player_id": 12119,
       "player_name": "Mike Evans",
-      "points": 89,
+      "points": 111.9,
       "position_id": "WR",
       "team_id": "SF",
       "weeks": {
         "1": 16.9,
+        "11": 22.9,
         "2": 8.4,
         "3": 12.4,
         "4": 12.6,
@@ -3856,16 +3864,17 @@
       }
     },
     {
-      "average": 6.5,
+      "average": 6,
       "filename": "jordan-watkins.php",
-      "games": 7,
+      "games": 8,
       "player_id": 27486,
       "player_name": "Jordan Watkins",
-      "points": 45.3,
+      "points": 48.199999999999996,
       "position_id": "WR",
       "team_id": "SF",
       "weeks": {
         "10": 6.9,
+        "11": 2.9,
         "3": 8,
         "4": 0,
         "5": 0,
@@ -4013,16 +4022,17 @@
       }
     },
     {
-      "average": 1.4,
+      "average": 1.5,
       "filename": "jeshaun-jones.php",
-      "games": 3,
+      "games": 4,
       "player_id": 26423,
       "player_name": "Jeshaun Jones",
-      "points": 4.2,
+      "points": 6,
       "position_id": "WR",
       "team_id": "MIN",
       "weeks": {
         "10": 0,
+        "11": 1.8,
         "4": 0,
         "5": 4.2
       }

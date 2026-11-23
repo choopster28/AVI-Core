@@ -17,7 +17,7 @@
     "long_term_security": 0.15,
     "position_liquidity": 0.1
   },
-  "generated_at_utc": "2026-11-23T02:54:02.779024+00:00",
+  "generated_at_utc": "2026-11-23T23:50:10.994982+00:00",
   "in_season_transition": {
     "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     "completed_through_week": 10,
@@ -40,7 +40,7 @@
   "injury_availability_adjustments": {
     "championship_horizon_end_week": 17,
     "current_week": 11,
-    "players_capped": 117,
+    "players_capped": 119,
     "players_evaluated": 479,
     "policy": "Bounded ongoing injury-risk deduction for currently designated players (including verified missed games beyond one bye), followed by a hard ceiling for expected missed future games; cleared players receive no historical-injury discount.",
     "source_priority": [

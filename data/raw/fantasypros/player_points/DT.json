@@ -374,31 +374,33 @@
       }
     },
     {
-      "average": 2.3,
+      "average": 2.8,
       "filename": "cj-west.php",
-      "games": 2,
+      "games": 3,
       "player_id": 27274,
       "player_name": "C.J. West",
-      "points": 4.5,
+      "points": 8.5,
       "position_id": "DT",
       "team_id": "SF",
       "weeks": {
         "1": 2.3,
+        "11": 4,
         "2": 2.3
       }
     },
     {
-      "average": 2.7,
+      "average": 2.6,
       "filename": "james-thompson-jr.php",
-      "games": 6,
+      "games": 7,
       "player_id": 28559,
       "player_name": "James Thompson Jr.",
-      "points": 16,
+      "points": 18.25,
       "position_id": "DT",
       "team_id": "SF",
       "weeks": {
         "1": 1.5,
         "10": 5.5,
+        "11": 2.3,
         "2": 2.3,
         "6": 1.5,
         "7": 5.3,
@@ -1180,17 +1182,18 @@
       }
     },
     {
-      "average": 7.8,
+      "average": 7.9,
       "filename": "deforest-buckner.php",
-      "games": 9,
+      "games": 10,
       "player_id": 15494,
       "player_name": "DeForest Buckner",
-      "points": 70.5,
+      "points": 78.75,
       "position_id": "DT",
       "team_id": "SF",
       "weeks": {
         "1": 7.5,
         "10": 3,
+        "11": 8.3,
         "2": 12.5,
         "3": 15.3,
         "4": 8.5,
@@ -1850,7 +1853,7 @@
       "player_name": "Jared Ivey",
       "points": 18,
       "position_id": "DT",
-      "team_id": "ATL",
+      "team_id": "FA",
       "weeks": {
         "1": 1.5,
         "2": 0,
@@ -2394,17 +2397,18 @@
       }
     },
     {
-      "average": 5,
+      "average": 4.8,
       "filename": "levi-drake-rodriguez.php",
-      "games": 9,
+      "games": 10,
       "player_id": 26502,
       "player_name": "Levi Drake Rodriguez",
-      "points": 45.25,
+      "points": 47.5,
       "position_id": "DT",
       "team_id": "MIN",
       "weeks": {
         "1": 10.3,
         "10": 16,
+        "11": 2.3,
         "2": 1.5,
         "3": 0.8,
         "4": 0,
@@ -2415,17 +2419,18 @@
       }
     },
     {
-      "average": 1.4,
+      "average": 1.7,
       "filename": "domonique-orange.php",
-      "games": 9,
+      "games": 10,
       "player_id": 28055,
       "player_name": "Domonique Orange",
-      "points": 13,
+      "points": 16.75,
       "position_id": "DT",
       "team_id": "MIN",
       "weeks": {
         "1": 5.5,
         "10": 2.3,
+        "11": 3.8,
         "2": 1.5,
         "3": 0,
         "4": 0,
@@ -2436,16 +2441,17 @@
       }
     },
     {
-      "average": 2.8,
+      "average": 2.6,
       "filename": "tyrion-ingramdawkins.php",
-      "games": 8,
+      "games": 9,
       "player_id": 27496,
       "player_name": "Tyrion Ingram-Dawkins",
-      "points": 22.25,
+      "points": 23.75,
       "position_id": "DT",
       "team_id": "MIN",
       "weeks": {
         "1": 4.8,
+        "11": 1.5,
         "2": 0.8,
         "3": 5.3,
         "4": 1.5,
@@ -3966,16 +3972,17 @@
       }
     },
     {
-      "average": 3.7,
+      "average": 3.4,
       "filename": "mykel-williams.php",
-      "games": 5,
+      "games": 6,
       "player_id": 27013,
       "player_name": "Mykel Williams",
-      "points": 18.25,
+      "points": 20.5,
       "position_id": "DT",
       "team_id": "SF",
       "weeks": {
         "10": 3.5,
+        "11": 2.3,
         "5": 2.3,
         "6": 10.3,
         "7": 2.3,
@@ -4214,16 +4221,17 @@
       }
     },
     {
-      "average": 10.9,
+      "average": 8.8,
       "filename": "elijah-williams-dt.php",
-      "games": 2,
+      "games": 3,
       "player_id": 27913,
       "player_name": "Elijah Williams",
-      "points": 21.75,
+      "points": 26.5,
       "position_id": "DT",
       "team_id": "MIN",
       "weeks": {
         "10": 15.8,
+        "11": 4.8,
         "9": 6
       }
     },
@@ -4254,19 +4262,6 @@
       }
     },
     {
-      "average": 0.8,
-      "filename": "ahmed-hassanein.php",
-      "games": 1,
-      "player_id": 27254,
-      "player_name": "Ahmed Hassanein",
-      "points": 0.75,
-      "position_id": "DT",
-      "team_id": "DET",
-      "weeks": {
-        "11": 0.8
-      }
-    },
-    {
       "average": 1.5,
       "filename": "david-olajiga.php",
       "games": 1,
@@ -4277,6 +4272,19 @@
       "team_id": "BAL",
       "weeks": {
         "11": 1.5
+      }
+    },
+    {
+      "average": 0.8,
+      "filename": "ahmed-hassanein.php",
+      "games": 1,
+      "player_id": 27254,
+      "player_name": "Ahmed Hassanein",
+      "points": 0.75,
+      "position_id": "DT",
+      "team_id": "DET",
+      "weeks": {
+        "11": 0.8
       }
     },
     {
