@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 992908759074680832
 - Division: 3
 - Waiver position: 8
-- Last updated from Sleeper exports: 2026-11-22
+- Last updated from Sleeper exports: 2026-11-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,20 +21,20 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 510.3
-- championship_lineup_c_avi_avg: 63.79
-- offensive_roster_c_avi_sum: 790.4
-- offensive_roster_c_avi_avg: 46.49
-- offensive_roster_d_avi_sum: 1308.8
-- offensive_roster_d_avi_avg: 76.99
+- championship_lineup_c_avi_sum: 508.9
+- championship_lineup_c_avi_avg: 63.61
+- offensive_roster_c_avi_sum: 789.0
+- offensive_roster_c_avi_avg: 46.41
+- offensive_roster_d_avi_sum: 1308.6
+- offensive_roster_d_avi_avg: 76.98
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Bryce Young | C-AVI: 45.4 | D-AVI: 71.5
-- RB: Derrick Henry | C-AVI: 79.1 | D-AVI: 88.7
+- RB: Derrick Henry | C-AVI: 77.6 | D-AVI: 88.5
 - RB: Blake Corum | C-AVI: 60.0 | D-AVI: 82.2
 - WR: Zay Flowers | C-AVI: 77.0 | D-AVI: 93.2
-- WR: Carnell Tate | C-AVI: 58.3 | D-AVI: 88.5
+- WR: Carnell Tate | C-AVI: 58.4 | D-AVI: 88.5
 - TE: Travis Kelce | C-AVI: 76.3 | D-AVI: 80.7
 - FLEX: KC Concepcion Jr. | C-AVI: 58.0 | D-AVI: 85.4
 - FLEX: Kyle Monangai | C-AVI: 56.2 | D-AVI: 81.6
@@ -104,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 79.1
-- Dynasty AVI (D-AVI, 0-100): 88.7
+- Championship AVI (C-AVI, 0-100): 77.6
+- Dynasty AVI (D-AVI, 0-100): 88.5
 - Projected PPR points: 246.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,7 +223,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 21.0
-- Championship AVI (C-AVI, 0-100): 58.3
+- Championship AVI (C-AVI, 0-100): 58.4
 - Dynasty AVI (D-AVI, 0-100): 88.5
 - Projected PPR points: 177.3
 - Category: offense

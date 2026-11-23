@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 471824466389757952
 - Division: 1
 - Waiver position: 2
-- Last updated from Sleeper exports: 2026-11-22
+- Last updated from Sleeper exports: 2026-11-23
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,16 +21,16 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 276.1
-- championship_lineup_c_avi_avg: 34.51
-- offensive_roster_c_avi_sum: 491.3
-- offensive_roster_c_avi_avg: 30.71
-- offensive_roster_d_avi_sum: 1121.0
-- offensive_roster_d_avi_avg: 70.06
+- championship_lineup_c_avi_sum: 274.6
+- championship_lineup_c_avi_avg: 34.33
+- offensive_roster_c_avi_sum: 489.8
+- offensive_roster_c_avi_avg: 30.61
+- offensive_roster_d_avi_sum: 1120.8
+- offensive_roster_d_avi_avg: 70.05
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Justin Herbert | C-AVI: 36.7 | D-AVI: 74.3
+- QB: Justin Herbert | C-AVI: 35.2 | D-AVI: 74.1
 - RB: Jadarian Price | C-AVI: 36.6 | D-AVI: 81.1
 - RB: Dylan Sampson | C-AVI: 35.0 | D-AVI: 72.7
 - WR: Brian Thomas Jr. | C-AVI: 39.8 | D-AVI: 80.4
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 36.7
-- Dynasty AVI (D-AVI, 0-100): 74.3
+- Championship AVI (C-AVI, 0-100): 35.2
+- Dynasty AVI (D-AVI, 0-100): 74.1
 - Projected PPR points: 295.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
