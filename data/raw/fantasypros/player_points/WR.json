@@ -62,17 +62,18 @@
       }
     },
     {
-      "average": 0.4,
+      "average": 1.3,
       "filename": "colbie-young.php",
-      "games": 7,
+      "games": 8,
       "player_id": 26037,
       "player_name": "Colbie Young",
-      "points": 2.9,
+      "points": 10.3,
       "position_id": "WR",
       "team_id": "CIN",
       "weeks": {
         "1": 0,
         "10": 0,
+        "11": 7.4,
         "2": 1.7,
         "3": 1.2,
         "7": 0,
@@ -1834,17 +1835,18 @@
       }
     },
     {
-      "average": 19,
+      "average": 18.4,
       "filename": "tee-higgins.php",
-      "games": 9,
+      "games": 10,
       "player_id": 19211,
       "player_name": "Tee Higgins",
-      "points": 171.39999999999998,
+      "points": 183.7,
       "position_id": "WR",
       "team_id": "CIN",
       "weeks": {
         "1": 8.9,
         "10": 11.6,
+        "11": 12.3,
         "2": 14.5,
         "3": 21,
         "4": 26.7,
@@ -2261,17 +2263,18 @@
       }
     },
     {
-      "average": 13.8,
+      "average": 13.2,
       "filename": "stefon-diggs.php",
-      "games": 8,
+      "games": 9,
       "player_id": 13981,
       "player_name": "Stefon Diggs",
-      "points": 110.6,
+      "points": 119.1,
       "position_id": "WR",
       "team_id": "WAS",
       "weeks": {
         "1": 15.5,
         "10": 20.3,
+        "11": 8.5,
         "2": 21.7,
         "3": 7.3,
         "4": 8.5,
@@ -2467,17 +2470,18 @@
       }
     },
     {
-      "average": 5.9,
+      "average": 5.4,
       "filename": "dohnte-meyers.php",
-      "games": 9,
+      "games": 10,
       "player_id": 28178,
       "player_name": "Dohnte Meyers",
-      "points": 52.8,
+      "points": 54,
       "position_id": "WR",
       "team_id": "CIN",
       "weeks": {
         "1": 3.8,
         "10": 10,
+        "11": 1.2,
         "2": 0,
         "3": 5.9,
         "4": 15.2,
@@ -2955,17 +2959,18 @@
       }
     },
     {
-      "average": 8.1,
+      "average": 9.4,
       "filename": "antonio-williams-wr.php",
-      "games": 9,
+      "games": 10,
       "player_id": 25418,
       "player_name": "Antonio Williams",
-      "points": 72.6,
+      "points": 93.8,
       "position_id": "WR",
       "team_id": "WAS",
       "weeks": {
         "1": 16.4,
         "10": 12.2,
+        "11": 21.2,
         "2": 5.4,
         "3": 3.5,
         "4": 5.1,
@@ -3423,17 +3428,18 @@
       }
     },
     {
-      "average": 21.5,
+      "average": 20.2,
       "filename": "jamarr-chase.php",
-      "games": 9,
+      "games": 10,
       "player_id": 19788,
       "player_name": "Ja'Marr Chase",
-      "points": 193.8,
+      "points": 201.9,
       "position_id": "WR",
       "team_id": "CIN",
       "weeks": {
         "1": 3.2,
         "10": 34.1,
+        "11": 8.1,
         "2": 26.5,
         "3": 24.8,
         "4": 5.7,
@@ -3523,16 +3529,17 @@
       }
     },
     {
-      "average": 7.4,
+      "average": 7.1,
       "filename": "treylon-burks.php",
-      "games": 7,
+      "games": 8,
       "player_id": 22905,
       "player_name": "Treylon Burks",
-      "points": 52.00000000000001,
+      "points": 57.00000000000001,
       "position_id": "WR",
       "team_id": "WAS",
       "weeks": {
         "10": 4.7,
+        "11": 5,
         "2": 0,
         "3": 9.3,
         "4": 11.7,
@@ -3793,9 +3800,9 @@
       }
     },
     {
-      "average": 0.3,
+      "average": 0.2,
       "filename": "luke-mccaffrey.php",
-      "games": 6,
+      "games": 7,
       "player_id": 26328,
       "player_name": "Luke McCaffrey",
       "points": 1.6,
@@ -3803,6 +3810,7 @@
       "team_id": "WAS",
       "weeks": {
         "10": 0,
+        "11": 0,
         "3": 0,
         "5": 0,
         "6": 0,
@@ -4173,9 +4181,9 @@
       }
     },
     {
-      "average": 4.2,
+      "average": 3.4,
       "filename": "van-jefferson.php",
-      "games": 4,
+      "games": 5,
       "player_id": 19483,
       "player_name": "Van Jefferson",
       "points": 16.8,
@@ -4183,6 +4191,7 @@
       "team_id": "WAS",
       "weeks": {
         "10": 0,
+        "11": 0,
         "5": 0,
         "8": 0,
         "9": 16.8

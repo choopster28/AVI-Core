@@ -202,16 +202,17 @@
       }
     },
     {
-      "average": 9,
+      "average": 10.1,
       "filename": "jacory-croskeymerritt.php",
-      "games": 5,
+      "games": 6,
       "player_id": 27316,
       "player_name": "Jacory Croskey-Merritt",
-      "points": 44.9,
+      "points": 60.599999999999994,
       "position_id": "RB",
       "team_id": "WAS",
       "weeks": {
         "1": 12.6,
+        "11": 15.7,
         "2": 5.8,
         "3": 5.3,
         "4": 7,
@@ -572,9 +573,9 @@
       }
     },
     {
-      "average": 9.5,
+      "average": 8.4,
       "filename": "rachaad-white.php",
-      "games": 8,
+      "games": 9,
       "player_id": 23891,
       "player_name": "Rachaad White",
       "points": 75.9,
@@ -583,6 +584,7 @@
       "weeks": {
         "1": 4.7,
         "10": 6.2,
+        "11": 0,
         "2": 14.3,
         "3": 11.1,
         "5": 3,
@@ -1037,7 +1039,7 @@
     {
       "average": 0.2,
       "filename": "tahj-brooks.php",
-      "games": 9,
+      "games": 10,
       "player_id": 26212,
       "player_name": "Tahj Brooks",
       "points": 1.7999999999999998,
@@ -1046,6 +1048,7 @@
       "weeks": {
         "1": 0,
         "10": 1.2,
+        "11": 0,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1643,17 +1646,18 @@
       }
     },
     {
-      "average": 14.4,
+      "average": 13.8,
       "filename": "chase-brown.php",
-      "games": 9,
+      "games": 10,
       "player_id": 25324,
       "player_name": "Chase Brown",
-      "points": 129.70000000000002,
+      "points": 138.3,
       "position_id": "RB",
       "team_id": "CIN",
       "weeks": {
         "1": 18.8,
         "10": 28.3,
+        "11": 8.6,
         "2": 11.2,
         "3": 8.9,
         "4": 19.1,
@@ -1867,17 +1871,18 @@
       }
     },
     {
-      "average": 6.5,
+      "average": 7.3,
       "filename": "samaje-perine.php",
-      "games": 9,
+      "games": 10,
       "player_id": 16423,
       "player_name": "Samaje Perine",
-      "points": 58.8,
+      "points": 72.5,
       "position_id": "RB",
       "team_id": "CIN",
       "weeks": {
         "1": 8,
         "10": 13.9,
+        "11": 13.7,
         "2": 3.2,
         "3": 2.4,
         "4": 0.7,
@@ -2425,16 +2430,17 @@
       }
     },
     {
-      "average": 5.1,
+      "average": 5.2,
       "filename": "austin-ekeler.php",
-      "games": 6,
+      "games": 7,
       "player_id": 16483,
       "player_name": "Austin Ekeler",
-      "points": 30.3,
+      "points": 36.7,
       "position_id": "RB",
       "team_id": "WAS",
       "weeks": {
         "10": 9.2,
+        "11": 6.4,
         "4": 5,
         "5": 2.4,
         "6": 2.7,

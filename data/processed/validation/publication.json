@@ -1,6 +1,6 @@
 {
-  "avi_generated_at_utc": "2026-11-23T23:50:10.994982+00:00",
-  "checked_at_utc": "2026-11-23T23:50:12.507769+00:00",
+  "avi_generated_at_utc": "2026-11-24T06:09:12.897672+00:00",
+  "checked_at_utc": "2026-11-24T06:09:13.964319+00:00",
   "counts": {
     "avi_players": 479,
     "player_lookup": 479,
@@ -10,17 +10,17 @@
   "failures": [],
   "in_season_transition": {
     "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
-    "completed_through_week": 10,
+    "completed_through_week": 11,
     "completion_sources": [
       "Sleeper NFL state",
       "ESPN NFL scoreboard"
     ],
-    "current_week_schedule_complete": false,
+    "current_week_schedule_complete": null,
     "fantasypros_max_observed_week": 11,
     "mapped_player_point_records": 434,
     "nfl_season": "2026",
     "nfl_season_type": "regular",
-    "nfl_week": 11,
+    "nfl_week": 12,
     "production_source_priority": [
       "sleeper",
       "fantasypros"

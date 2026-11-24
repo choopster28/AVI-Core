@@ -1,331 +1,23 @@
 {
-  "count": 24,
+  "count": 25,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News",
-        "Injury"
+        "News"
       ],
-      "created": "2026-11-23 23:14:37",
-      "created_formated": "Mon, Nov 23rd 11:14pm UTC",
-      "desc": "Kenneth Walker III did not participate in Monday's walkthrough practice. ",
-      "id": 622244,
-      "impact": "It is a short week for the Chiefs on Thursday against the Bills. Walker will need to continue to be monitored in practice on Tuesday after missing the past two weeks. ",
-      "link": "https://www.fantasypros.com/nfl/news/622244/kenneth-walker-iii-groin-misses-walkthrough-monday.php",
-      "player_id": 23021,
+      "created": "2026-11-24 05:59:25",
+      "created_formated": "Tue, Nov 24th 5:59am UTC",
+      "desc": "The Colts hosted RB Blake Watson for a workout. ",
+      "id": 622315,
+      "impact": "Watson was one of three running backs to work out for Indianapolis to open the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622315/blake-watson-works-out-colts.php",
+      "player_id": 26391,
       "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Kenneth Walker III (groin) misses walkthrough Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 23:10:50",
-      "created_formated": "Mon, Nov 23rd 11:10pm UTC",
-      "desc": "Dak Prescott was listed as a full participant on Monday's estimated injury report. ",
-      "id": 622243,
-      "impact": "Prescott was listed with a hand injury. He should still be good to go for Thursday's game against the Eagles on Thanksgiving. ",
-      "link": "https://www.fantasypros.com/nfl/news/622243/dak-prescott-hand-logs-full-practice-estimated-report-monday.php",
-      "player_id": 15600,
-      "sport_id": "NFL",
-      "team_id": "DAL",
-      "title": "Dak Prescott (hand) logs full practice on estimated report Monday "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury",
-        "Breaking"
-      ],
-      "created": "2026-11-23 22:52:18",
-      "created_formated": "Mon, Nov 23rd 10:52pm UTC",
-      "desc": "Micah Parsons (knee) has been cleared to return for the Green Bay Packers Monday according to Ian Rapoport.",
-      "id": 622236,
-      "impact": "Parsons is now poised to make his season debut Wednesday night against the Rams, boosting a Green Bay front seven that will look to disrupt quarterback Matthew Stafford and the injury-ravaged Rams offense.",
-      "link": "https://www.fantasypros.com/nfl/news/622236/micah-parsons-knee-cleared-to-return-monday.php",
-      "player_id": 19784,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Micah Parsons (knee) cleared to return Monday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 22:34:22",
-      "created_formated": "Mon, Nov 23rd 10:34pm UTC",
-      "desc": "Aaron Banks was a full participant in practice on Monday. ",
-      "id": 622232,
-      "impact": "Banks is on track to be good to go for Wednesday's game against the Rams.  ",
-      "link": "https://www.fantasypros.com/nfl/news/622232/aaron-banks-knee-logs-full-practice-monday.php",
-      "player_id": 22804,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Aaron Banks (knee) logs full practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 22:33:29",
-      "created_formated": "Mon, Nov 23rd 10:33pm UTC",
-      "desc": "Kevin Zeitler was limited in practice on Monday. ",
-      "id": 622231,
-      "impact": "Zeitler will need to be monitored on the injury report heading into Wednesday's game against the Rams on a short week.",
-      "link": "https://www.fantasypros.com/nfl/news/622231/kevin-zeitler-triceps-limited-practice-monday.php",
-      "player_id": 15109,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Kevin Zeitler (triceps) limited in practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 22:32:46",
-      "created_formated": "Mon, Nov 23rd 10:32pm UTC",
-      "desc": "Sean Rhyan was limited in practice on Monday. ",
-      "id": 622230,
-      "impact": "Rhyan will need to be monitored on the injury report heading into Wednesday's game against the Rams on a short week.",
-      "link": "https://www.fantasypros.com/nfl/news/622230/sean-rhyan-ankle-limited-practice-monday.php",
-      "player_id": 23723,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Sean Rhyan (ankle) limited in practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 22:32:16",
-      "created_formated": "Mon, Nov 23rd 10:32pm UTC",
-      "desc": "Skyy Moore was limited in practice on Monday. ",
-      "id": 622229,
-      "impact": "Moore will need to be monitored on the injury report heading into Wednesday's game against the Rams on a short week.",
-      "link": "https://www.fantasypros.com/nfl/news/622229/skyy-moore-ankle-limited-practice-monday.php",
-      "player_id": 23905,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Skyy Moore (ankle) limited in practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 22:31:44",
-      "created_formated": "Mon, Nov 23rd 10:31pm UTC",
-      "desc": "Bo Melton was limited in practice on Monday. ",
-      "id": 622228,
-      "impact": "Melton will need to be monitored on the injury report heading into Wednesday's game against the Rams on a short week.",
-      "link": "https://www.fantasypros.com/nfl/news/622228/bo-melton-thigh-limited-practice-monday.php",
-      "player_id": 24049,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Bo Melton (thigh) limited in practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 22:31:08",
-      "created_formated": "Mon, Nov 23rd 10:31pm UTC",
-      "desc": "Zaire Franklin was limited in practice on Monday. ",
-      "id": 622227,
-      "impact": "Franklin will need to be monitored on the injury report heading into Wednesday's game against the Rams on a short week. ",
-      "link": "https://www.fantasypros.com/nfl/news/622227/zaire-franklin-shin-limited-practice-monday.php",
-      "player_id": 17563,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Zaire Franklin (shin) limited in practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 22:29:44",
-      "created_formated": "Mon, Nov 23rd 10:29pm UTC",
-      "desc": "Josh Jacobs was limited in practice on Monday. ",
-      "id": 622226,
-      "impact": "Jacobs is not expected to be ready to return for Wednesday's game against the Rams. He was still able to practice in limited fashion just two days before the next game for Green Bay. ",
-      "link": "https://www.fantasypros.com/nfl/news/622226/josh-jacobs-finger-limited-practice-monday.php",
-      "player_id": 18269,
-      "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Josh Jacobs (finger) limited in practice Monday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 22:21:33",
-      "created_formated": "Mon, Nov 23rd 10:21pm UTC",
-      "desc": "DeVonta Smith was listed as a full participant on Monday's estimated practice report. ",
-      "id": 622224,
-      "impact": "Smith hauled in five passes in his return to action on Sunday against the Steelers. He should remain a steady WR2 in a favorable matchup against Dallas. ",
-      "link": "https://www.fantasypros.com/nfl/news/622224/devonta-smith-hamstring-practices-fully-estimated-practice-monday.php",
-      "player_id": 19222,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "DeVonta Smith (hamstring) practices fully in estimated practice Monday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 22:20:22",
-      "created_formated": "Mon, Nov 23rd 10:20pm UTC",
-      "desc": "Jonathan Greenard was listed as a full participant on Monday's estimated practice report. ",
-      "id": 622223,
-      "impact": "Greenard is on track to be good to go for Thursday's game against the Cowboys. ",
-      "link": "https://www.fantasypros.com/nfl/news/622223/jonathan-greenard-ankle-practices-fully-estimated-practice-monday.php",
-      "player_id": 19276,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jonathan Greenard (ankle) practices fully in estimated practice Monday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 22:19:21",
-      "created_formated": "Mon, Nov 23rd 10:19pm UTC",
-      "desc": "Jalen Carter was listed as a full participant on Monday's estimated practice report. ",
-      "id": 622222,
-      "impact": "Carter is on track to be fully good to go for Thursday's game on Thanksgiving against the Cowboys. ",
-      "link": "https://www.fantasypros.com/nfl/news/622222/jalen-carter-quad-practices-fully-estimated-practice-monday.php",
-      "player_id": 24703,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Jalen Carter (quad) practices fully in estimated practice Monday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 22:17:54",
-      "created_formated": "Mon, Nov 23rd 10:17pm UTC",
-      "desc": "Will Shipley was listed as a limited participant on Monday's estimated practice report. ",
-      "id": 622221,
-      "impact": "Shipley saw four carries in his return to action on Sunday. He remains off the fantasy radar in his current role. ",
-      "link": "https://www.fantasypros.com/nfl/news/622221/will-shipley-footillness-limited-estimated-practice-monday.php",
-      "player_id": 22930,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Will Shipley (foot/illness) limited in estimated practice Monday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 22:16:52",
-      "created_formated": "Mon, Nov 23rd 10:16pm UTC",
-      "desc": "Tanner McKee was listed as a limited participant on Monday's estimated practice report. ",
-      "id": 622220,
-      "impact": "McKee will continue to backup Joe Milton if he is healthy. ",
-      "link": "https://www.fantasypros.com/nfl/news/622220/tanner-mckee-rib-limited-estimated-practice-monday.php",
-      "player_id": 24740,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Tanner McKee (rib) limited in estimated practice Monday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 22:16:11",
-      "created_formated": "Mon, Nov 23rd 10:16pm UTC",
-      "desc": "Dallas Goedert was listed as a limited participant on Monday's estimated practice report. ",
-      "id": 622219,
-      "impact": "Goedert caught just one pass in Sunday's win over the Steelers. His upside appears to be a little more limited with Joe Milton behind center. ",
-      "link": "https://www.fantasypros.com/nfl/news/622219/dallas-goedert-shin-limited-estimated-practice-monday.php",
-      "player_id": 17270,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Dallas Goedert (shin) limited in estimated practice Monday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 22:14:19",
-      "created_formated": "Mon, Nov 23rd 10:14pm UTC",
-      "desc": "Saquon Barkley was listed as a limited participant on Monday's estimated practice report. ",
-      "id": 622218,
-      "impact": "Barkley was able to find the end zone in Sunday's win over the Steelers. He should be on track to be good to go despite it being a short week for the Eagles. ",
-      "link": "https://www.fantasypros.com/nfl/news/622218/saquon-barkley-neckillness-limited-estimated-practice-monday.php",
-      "player_id": 17240,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Saquon Barkley (neck/illness) limited in estimated practice Monday"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-23 22:12:20",
-      "created_formated": "Mon, Nov 23rd 10:12pm UTC",
-      "desc": "Quinyon Mitchell was listed as a DNP on Monday's estimated practice report. ",
-      "id": 622217,
-      "impact": "It is a short week for the Eagles playing on Thursday. Mitchell is battling a hamstring injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/622217/quinyon-mitchell-hamstring-dnp-from-estimated-practice-monday.php",
-      "player_id": 26106,
-      "sport_id": "NFL",
-      "team_id": "PHI",
-      "title": "Quinyon Mitchell (hamstring) DNP from estimated practice Monday"
+      "team_id": "FA",
+      "title": "Blake Watson works out for Colts"
     },
     {
       "author": "Ari Koslow",
@@ -333,106 +25,421 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-11-23 22:08:52",
-      "created_formated": "Mon, Nov 23rd 10:08pm UTC",
-      "desc": "Former Colts QB Daniel Jones cleared waivers and is now officially a free agent.",
-      "id": 622216,
-      "impact": "Jones should draw some more interest now that he has cleared waivers. He should sign with a team fairly soon. ",
-      "link": "https://www.fantasypros.com/nfl/news/622216/daniel-jones-clears-waivers-officially-free-agent.php",
-      "player_id": 18232,
+      "created": "2026-11-24 05:58:54",
+      "created_formated": "Tue, Nov 24th 5:58am UTC",
+      "desc": "The Colts hosted RB Deuce Vaughn for a workout. ",
+      "id": 622314,
+      "impact": "Vaughn was one of three running backs to work out for Indianapolis to open the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622314/deuce-vaughn-works-out-colts.php",
+      "player_id": 22984,
       "sport_id": "NFL",
       "team_id": "FA",
-      "title": "Daniel Jones clears waivers, officially a free agent"
+      "title": "Deuce Vaughn works out for Colts"
     },
     {
-      "author": "Emily Maingi",
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-24 05:57:32",
+      "created_formated": "Tue, Nov 24th 5:57am UTC",
+      "desc": "The Seahawks signed CB Trevon Diggs to their active roster. ",
+      "id": 622313,
+      "impact": "Diggs will add depth in the corner back room for Seattle. ",
+      "link": "https://www.fantasypros.com/nfl/news/622313/trevon-diggs-signs-with-seahawks-active-roster.php",
+      "player_id": 18287,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Trevon Diggs signs with Seahawks active roster "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-24 05:56:43",
+      "created_formated": "Tue, Nov 24th 5:56am UTC",
+      "desc": "The Seahawks signed OL Bobby Hart to their active roster. ",
+      "id": 622312,
+      "impact": "Hart will continue to add depth on the offensive line for Seattle. ",
+      "link": "https://www.fantasypros.com/nfl/news/622312/bobby-hart-signs-with-seahawks-active-roster.php",
+      "player_id": 15299,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Bobby Hart signs with Seahawks active roster"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-24 05:55:25",
+      "created_formated": "Tue, Nov 24th 5:55am UTC",
+      "desc": "The Seahawks placed RB George Holani on injured reserve. ",
+      "id": 622311,
+      "impact": "Holani will miss at least the next four games for Seattle. ",
+      "link": "https://www.fantasypros.com/nfl/news/622311/george-holani-mcl-placed-on-ir.php",
+      "player_id": 22915,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "George Holani (MCL) placed on IR"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-24 05:54:22",
+      "created_formated": "Tue, Nov 24th 5:54am UTC",
+      "desc": "The Bears signed DB Marlen Sewell to their practice squad. ",
+      "id": 622310,
+      "impact": "Sewell will add depth in the secondary for Chicago. ",
+      "link": "https://www.fantasypros.com/nfl/news/622310/marlen-sewell-signs-with-bears.php",
+      "player_id": 28769,
+      "sport_id": "NFL",
+      "team_id": "CHI",
+      "title": "Marlen Sewell signs with Bears "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-24 05:53:42",
+      "created_formated": "Tue, Nov 24th 5:53am UTC",
+      "desc": "The Bears released QB Miller Moss from their practice squad. ",
+      "id": 622309,
+      "impact": "Moss will figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/622309/miller-moss-released-by-bears.php",
+      "player_id": 23165,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Miller Moss released by Bears "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-24 05:52:27",
+      "created_formated": "Tue, Nov 24th 5:52am UTC",
+      "desc": "The Bengals released Josh Kattus from their practice squad. ",
+      "id": 622308,
+      "impact": "Kattus will figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/622308/josh-kattus-released-by-bengals.php",
+      "player_id": 28589,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Josh Kattus released by Bengals "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-24 05:51:46",
+      "created_formated": "Tue, Nov 24th 5:51am UTC",
+      "desc": "The Bengals activated OL Brian Parker II. ",
+      "id": 622307,
+      "impact": "Parker made his return from injured reserve for Cincinnati. ",
+      "link": "https://www.fantasypros.com/nfl/news/622307/brian-parker-ii-activated-by-bengals.php",
+      "player_id": 28198,
+      "sport_id": "NFL",
+      "team_id": "CIN",
+      "title": "Brian Parker II activated by Bengals "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-24 05:51:03",
+      "created_formated": "Tue, Nov 24th 5:51am UTC",
+      "desc": "The Bengals activated LB Swayze Bozeman from injured reserve. ",
+      "id": 622306,
+      "impact": "Bozeman had been designated to return to practice last week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622306/swayze-bozeman-activated-by-bengals.php",
+      "player_id": 26817,
+      "sport_id": "NFL",
+      "team_id": "CIN",
+      "title": "Swayze Bozeman activated by Bengals "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-24 05:50:10",
+      "created_formated": "Tue, Nov 24th 5:50am UTC",
+      "desc": "The Colts signed RB Eric Gray. ",
+      "id": 622305,
+      "impact": "Gray was most recently released by the Giants. He will add depth in the Colts backfield. ",
+      "link": "https://www.fantasypros.com/nfl/news/622305/eric-gray-signs-with-colts.php",
+      "player_id": 23075,
+      "sport_id": "NFL",
+      "team_id": "IND",
+      "title": "Eric Gray signs with Colts"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-24 05:48:59",
+      "created_formated": "Tue, Nov 24th 5:48am UTC",
+      "desc": "Giants CB Greg Newsome will be out for \"multiple weeks\" with a high ankle sprain. ",
+      "id": 622304,
+      "impact": "It is a big loss for the Giants secondary. It is unclear if he will require surgery. ",
+      "link": "https://www.fantasypros.com/nfl/news/622304/greg-newsome-ii-ankle-to-miss-multiple-weeks.php",
+      "player_id": 23238,
+      "sport_id": "NFL",
+      "team_id": "NYG",
+      "title": "Greg Newsome II (ankle) to miss multiple weeks"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-24 05:47:37",
+      "created_formated": "Tue, Nov 24th 5:47am UTC",
+      "desc": "Justin Reid has cleared waivers and is officially a free agent. ",
+      "id": 622303,
+      "impact": "Reid will be free to sign with any team for the rest of the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/622303/justin-reid-clears-waivers.php",
+      "player_id": 17320,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Justin Reid clears waivers"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-24 05:47:03",
+      "created_formated": "Tue, Nov 24th 5:47am UTC",
+      "desc": "Brandin Cooks has cleared waivers and is officially a free agent. ",
+      "id": 622302,
+      "impact": "Cooks will be free to sign with any team for the rest of the season. ",
+      "link": "https://www.fantasypros.com/nfl/news/622302/brandin-cooks-clears-waivers.php",
+      "player_id": 12122,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Brandin Cooks clears waivers"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-24 05:45:52",
+      "created_formated": "Tue, Nov 24th 5:45am UTC",
+      "desc": "The Commanders released CB Isaac Yiadom.",
+      "id": 622301,
+      "impact": "Yiadom will figure to seek another opportunity. ",
+      "link": "https://www.fantasypros.com/nfl/news/622301/isaac-yiadom-released-by-commanders.php",
+      "player_id": 17570,
+      "sport_id": "NFL",
+      "team_id": "FA",
+      "title": "Isaac Yiadom released by Commanders "
+    },
+    {
+      "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-11-23 20:27:59",
-      "created_formated": "Mon, Nov 23rd 8:27pm UTC",
-      "desc": "The Pittsburgh Steelers D/ST allowed 19 points and recorded three sacks in Sunday's loss to the Eagles.",
-      "id": 622205,
-      "impact": "The Steelers faced the Eagles on a seven-game skid, but weren't to take much advantage of a struggling offense. The Steelers face the improving Broncos on Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/622205/pittsburgh-steelers-dst-allows-19-points-loss.php",
-      "player_id": 8240,
+      "created": "2026-11-24 02:51:06",
+      "created_formated": "Tue, Nov 24th 2:51am UTC",
+      "desc": "The New York Giants D/ST racked up three sacks and two interceptions in the team's 23-18 win over the Jaguars on Sunday.",
+      "id": 622296,
+      "impact": "Abdul Carter and the Giants were pressuring Lawrence all afternoon, giving the powerful Jags offense little space to work. They will get a great matchup against the Colts next week.",
+      "link": "https://www.fantasypros.com/nfl/news/622296/new-york-giants-dst-rattle-jags-win.php",
+      "player_id": 8200,
       "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Pittsburgh Steelers D/ST allows 19 points in loss"
+      "team_id": "NYG",
+      "title": "New York Giants D/ST rattle Jags in win"
     },
     {
-      "author": "Emily Maingi",
+      "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-11-23 20:29:54",
-      "created_formated": "Mon, Nov 23rd 8:29pm UTC",
-      "desc": "Chris Boswell made all three field goal attempts and added an extra point in Sunday's loss to the Eagles. ",
-      "id": 622206,
-      "impact": "Boswell has missed five field goals this year, most recently missing one in Week 10. He will be a solid streaming option for Week 12, where he figures to get some opportunities against a stingy Broncos defense that may prevent the offense from reaching the endzone.",
-      "link": "https://www.fantasypros.com/nfl/news/622206/chris-boswell-is-perfect-on-four-kicks.php",
-      "player_id": 13029,
+      "created": "2026-11-24 02:47:00",
+      "created_formated": "Tue, Nov 24th 2:47am UTC",
+      "desc": "Dominic Zvada hit both of his PATs and three of four field goal attempts in the Giants' 23-18 win over the Jaguars on Sunday.",
+      "id": 622295,
+      "impact": "Zvada had a miss in this game, but thankfully for him it was not a deciding factor for this game, though it could have been had things fallen differently. He's now missed four field goal attempts in his last four games, so the Giants could start entertaining new names for the job.",
+      "link": "https://www.fantasypros.com/nfl/news/622295/dominic-zvada-goes-11-kicking-points-win-over-jags.php",
+      "player_id": 28176,
       "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Chris Boswell is perfect on four kicks"
+      "team_id": "NYG",
+      "title": "Dominic Zvada goes for 11 kicking points in win over Jags"
     },
     {
-      "author": "Emily Maingi",
+      "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-11-23 20:19:40",
-      "created_formated": "Mon, Nov 23rd 8:19pm UTC",
-      "desc": "Darnell Washington caught all three of his targets for 22 yards in Sunday's loss to the Eagles. ",
-      "id": 622204,
-      "impact": "Washington's yardage total throughout the season has been inconsistent, although this is the fifth game with at least three receptions. Washington won't be fantasy-relevant in Week 12's game against the Broncos.",
-      "link": "https://www.fantasypros.com/nfl/news/622204/darnell-washington-goes-322-loss.php",
-      "player_id": 22967,
+      "created": "2026-11-24 02:44:04",
+      "created_formated": "Tue, Nov 24th 2:44am UTC",
+      "desc": "Devin Singletary ran once for five yards and caught his only target for five yards in the Giants' 23-18 win over the Jags on Sunday.",
+      "id": 622293,
+      "impact": "Singletary was a distant second to Cam Skattebo in running back attempts and targets in this game, and irrelevant for fantasy. It will likely stay that way unless Skattebo is punished for his fumbling issues.",
+      "link": "https://www.fantasypros.com/nfl/news/622293/devin-singletary-quiet-win-over-jags.php",
+      "player_id": 18280,
       "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Darnell Washington goes 3/22 in loss"
+      "team_id": "NYG",
+      "title": "Devin Singletary quiet in win over Jags"
     },
     {
-      "author": "Emily Maingi",
+      "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-11-23 20:17:59",
-      "created_formated": "Mon, Nov 23rd 8:17pm UTC",
-      "desc": "Pat Freiermuth caught five passes for 39 yards in Sunday's loss to the Eagles. He also added a rush for one yard. ",
-      "id": 622203,
-      "impact": "Freiermuth's five receptions ties his season high, and he's only gone above the 40-yard mark twice all season. Right now, Freiermuth is a touchdown-dependent TE2 against the Broncos in Week 12.",
-      "link": "https://www.fantasypros.com/nfl/news/622203/pat-freiermuth-totals-40-yards-loss.php",
-      "player_id": 20163,
+      "created": "2026-11-24 02:42:11",
+      "created_formated": "Tue, Nov 24th 2:42am UTC",
+      "desc": "Malachi Fields caught two of five targets for 25 yards in the Giants' 23-18 win over the Jaguars on Sunday.",
+      "id": 622292,
+      "impact": "Fields had a couple of nice grabs in this contest, but didn't do much for fantasy purposes. He's not worth rostering for fantasy right now, with Malik Nabers and Isaiah Likely taking so much of the work.",
+      "link": "https://www.fantasypros.com/nfl/news/622292/malachi-fields-snags-two-passes-win.php",
+      "player_id": 27994,
       "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Pat Freiermuth totals 40 yards in loss"
+      "team_id": "NYG",
+      "title": "Malachi Fields snags two passes in win"
     },
     {
-      "author": "Emily Maingi",
+      "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
         "Results"
       ],
-      "created": "2026-11-23 20:10:32",
-      "created_formated": "Mon, Nov 23rd 8:10pm UTC",
-      "desc": "Rico Dowdle had five rushes for 15 yards and added four catches for 19 yards in Sunday's loss to the Eagles. ",
-      "id": 622196,
-      "impact": "Dowdle has mostly disappointed this season, logging fewer than 50 all-purpose yards in all but two of his games played this season. He has failed to show the upside he had last year with the Panthers, and has only reached the end zone once all year. Dowdle will be nothing more than a desperation play in Week 12's game against the Broncos.",
-      "link": "https://www.fantasypros.com/nfl/news/622196/rico-dowdle-has-minimal-production-loss.php",
-      "player_id": 19647,
+      "created": "2026-11-24 02:37:22",
+      "created_formated": "Tue, Nov 24th 2:37am UTC",
+      "desc": "Isaiah Likely caught one of three targets for 35 yards in the Giants' 23-18 win over the Jaguars on Sunday.",
+      "id": 622290,
+      "impact": "If nothing else, at least Likely's one catch was a big gain. However, he dropped a sure-fire touchdown from Jameis Winston, which would have greatly helped his fantasy day. He will look to bounce back against Indianapolis next week.",
+      "link": "https://www.fantasypros.com/nfl/news/622290/isaiah-likely-drops-touchdown-win-over-jags.php",
+      "player_id": 23781,
       "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Rico Dowdle has minimal production in loss"
+      "team_id": "NYG",
+      "title": "Isaiah Likely drops touchdown in win over Jags"
+    },
+    {
+      "author": "Joshua Kellem",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-24 02:32:00",
+      "created_formated": "Tue, Nov 24th 2:32am UTC",
+      "desc": "The Raiders' defense surrendered 351 total yards, while recording one sack and one interception in Las Vegas' 38-24 loss to Denver in Week 11.",
+      "id": 622288,
+      "impact": "The Broncos scored 38 points, seven of which came via a Ja'Quan McMillian pick-six and the ensuing extra point. Las Vegas intercepted Bo Nix but allowed Jonah Coleman to rush for 111 yards and three touchdowns. One sack and one takeaway weren't enough to offset the points allowed. The Raiders D/ST remains difficult to trust in fantasy heading into Week 12 against Cleveland.",
+      "link": "https://www.fantasypros.com/nfl/news/622288/raiders-dst-allows-31-offensive-points-week-11.php",
+      "player_id": 8220,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Raiders D/ST allows 31 offensive points in Week 11"
+    },
+    {
+      "author": "Joshua Kellem",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-24 02:30:56",
+      "created_formated": "Tue, Nov 24th 2:30am UTC",
+      "desc": "Matt Gay converted his lone field-goal attempt and all three extra-point attempts in the Raiders' 38-24 loss to the Broncos in Week 11.",
+      "id": 622287,
+      "impact": "Gay connected from 28 yards out in the second quarter after a would-be touchdown to Jalen Nailor was negated by a penalty. The veteran kicker was listed as questionable entering Sunday with a right hip injury but converted all four of his kicks. He'll get the Browns on the road in Week 12.",
+      "link": "https://www.fantasypros.com/nfl/news/622287/matt-gay-makes-all-four-kicks-week-11.php",
+      "player_id": 18545,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Matt Gay makes all four kicks in Week 11"
+    },
+    {
+      "author": "Joshua Kellem",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-24 02:30:06",
+      "created_formated": "Tue, Nov 24th 2:30am UTC",
+      "desc": "Ian Thomas caught his only target for a 19-yard touchdown in the Raiders' 38-24 loss to the Broncos in Week 11.",
+      "id": 622286,
+      "impact": "Thomas caught Fernando Mendoza's second career touchdown pass, tying the game at 17 in the third quarter. Brock Bowers was inactive, while Michael Mayer exited Sunday's game with an injury. Thomas could see additional opportunities if both tight ends miss Week 12, but he's only worth considering in deeper tight end-premium leagues at this juncture.",
+      "link": "https://www.fantasypros.com/nfl/news/622286/ian-thomas-scores-touchdown-week-11.php",
+      "player_id": 17387,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Ian Thomas scores touchdown in Week 11"
+    },
+    {
+      "author": "Joshua Kellem",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-24 02:29:23",
+      "created_formated": "Tue, Nov 24th 2:29am UTC",
+      "desc": "Michael Mayer caught one of four targets for four yards before exiting the Raiders' 38-24 loss to the Broncos in Week 11 with an injury.",
+      "id": 622285,
+      "impact": "Mayer had an opportunity to fill in for Brock Bowers, who was inactive Sunday with ankle and quadriceps injuries. The former, however, also exited the game, leaving Ian Thomas to pick up some of the slack. Thomas caught a 19-yard touchdown. Mayer's injury designation and availability for Week 12 against Cleveland will need to be monitored.",
+      "link": "https://www.fantasypros.com/nfl/news/622285/michael-mayer-exits-week-11-with-injury.php",
+      "player_id": 23056,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Michael Mayer exits Week 11 with injury"
+    },
+    {
+      "author": "Joshua Kellem",
+      "categories": [
+        "Commentary",
+        "News",
+        "Results"
+      ],
+      "created": "2026-11-24 02:28:32",
+      "created_formated": "Tue, Nov 24th 2:28am UTC",
+      "desc": "Jalen Nailor caught one of five targets for 16 yards in the Raiders' 38-24 loss to the Broncos in Week 11.",
+      "id": 622284,
+      "impact": "Nailor had two would-be touchdowns negated by penalties Sunday. The former came via offensive pass interference, while Fernando Mendoza crossed the line of scrimmage before throwing the latter. So, the box score doesn't tell the entire story here. That said, Nailor remains difficult to start with Jack Bech and Tre Tucker combining for 19 targets.",
+      "link": "https://www.fantasypros.com/nfl/news/622284/jalen-nailor-held-to-one-reception-week-11.php",
+      "player_id": 24177,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Jalen Nailor held to one reception in Week 11"
     }
   ],
   "public_api": true,

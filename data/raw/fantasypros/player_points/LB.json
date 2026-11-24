@@ -206,9 +206,9 @@
       }
     },
     {
-      "average": 0.2,
+      "average": 0.1,
       "filename": "jordan-magee.php",
-      "games": 5,
+      "games": 6,
       "player_id": 26461,
       "player_name": "Jordan Magee",
       "points": 0.75,
@@ -217,6 +217,7 @@
       "weeks": {
         "1": 0.8,
         "10": 0,
+        "11": 0,
         "6": 0,
         "8": 0,
         "9": 0
@@ -923,9 +924,9 @@
       }
     },
     {
-      "average": 1.4,
+      "average": 1.2,
       "filename": "joshua-josephs.php",
-      "games": 9,
+      "games": 10,
       "player_id": 27984,
       "player_name": "Joshua Josephs",
       "points": 12.25,
@@ -934,6 +935,7 @@
       "weeks": {
         "1": 0,
         "10": 0,
+        "11": 0,
         "2": 0,
         "3": 7,
         "4": 0.8,
@@ -1280,15 +1282,16 @@
     {
       "average": 2.4,
       "filename": "cedric-johnson.php",
-      "games": 9,
+      "games": 10,
       "player_id": 26174,
       "player_name": "Cedric Johnson",
-      "points": 22,
+      "points": 23.5,
       "position_id": "LB",
       "team_id": "CIN",
       "weeks": {
         "1": 0,
         "10": 0.8,
+        "11": 1.5,
         "2": 16.8,
         "3": 0.8,
         "4": 0,
@@ -1346,7 +1349,7 @@
     {
       "average": 0.1,
       "filename": "joe-giles-harris.php",
-      "games": 9,
+      "games": 10,
       "player_id": 18765,
       "player_name": "Joe Giles-Harris",
       "points": 0.75,
@@ -1355,6 +1358,7 @@
       "weeks": {
         "1": 0,
         "10": 0,
+        "11": 0,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1610,17 +1614,18 @@
       }
     },
     {
-      "average": 12.2,
+      "average": 12.3,
       "filename": "frankie-luvu.php",
-      "games": 7,
+      "games": 8,
       "player_id": 17963,
       "player_name": "Frankie Luvu",
-      "points": 85.25,
+      "points": 98,
       "position_id": "LB",
       "team_id": "WAS",
       "weeks": {
         "1": 10.3,
         "10": 10,
+        "11": 12.8,
         "4": 7,
         "5": 11.3,
         "6": 13,
@@ -1852,16 +1857,17 @@
       }
     },
     {
-      "average": 0,
+      "average": 0.3,
       "filename": "swayze-bozeman.php",
-      "games": 4,
+      "games": 5,
       "player_id": 26817,
       "player_name": "Swayze Bozeman",
-      "points": 0,
+      "points": 1.5,
       "position_id": "LB",
       "team_id": "CIN",
       "weeks": {
         "1": 0,
+        "11": 1.5,
         "2": 0,
         "3": 0,
         "5": 0
@@ -2130,17 +2136,18 @@
       }
     },
     {
-      "average": 13,
+      "average": 12.7,
       "filename": "barrett-carter.php",
-      "games": 9,
+      "games": 10,
       "player_id": 26108,
       "player_name": "Barrett Carter",
-      "points": 117,
+      "points": 126.75,
       "position_id": "LB",
       "team_id": "CIN",
       "weeks": {
         "1": 18.3,
         "10": 7.5,
+        "11": 9.8,
         "2": 7.8,
         "3": 7.5,
         "4": 16,
@@ -2218,15 +2225,16 @@
     {
       "average": 2.8,
       "filename": "kain-medrano.php",
-      "games": 9,
+      "games": 10,
       "player_id": 27533,
       "player_name": "Kain Medrano",
-      "points": 24.75,
+      "points": 27.5,
       "position_id": "LB",
       "team_id": "WAS",
       "weeks": {
         "1": 0,
         "10": 0,
+        "11": 2.8,
         "2": 0,
         "3": 18.5,
         "4": 1.5,
@@ -3540,17 +3548,18 @@
       }
     },
     {
-      "average": 13.3,
+      "average": 12.5,
       "filename": "sonny-styles.php",
-      "games": 9,
+      "games": 10,
       "player_id": 27216,
       "player_name": "Sonny Styles",
-      "points": 119.25,
+      "points": 125.25,
       "position_id": "LB",
       "team_id": "WAS",
       "weeks": {
         "1": 14.3,
         "10": 16,
+        "11": 6,
         "2": 2.3,
         "3": 18.8,
         "4": 9,
@@ -3934,17 +3943,18 @@
       }
     },
     {
-      "average": 12.1,
+      "average": 11.7,
       "filename": "demetrius-knight-jr.php",
-      "games": 9,
+      "games": 10,
       "player_id": 27299,
       "player_name": "Demetrius Knight Jr.",
-      "points": 109,
+      "points": 116.5,
       "position_id": "LB",
       "team_id": "CIN",
       "weeks": {
         "1": 19,
         "10": 12,
+        "11": 7.5,
         "2": 12,
         "3": 8.3,
         "4": 9.3,
@@ -4193,7 +4203,7 @@
     {
       "average": 0,
       "filename": "ale-kaho.php",
-      "games": 4,
+      "games": 5,
       "player_id": 27892,
       "player_name": "Ale Kaho",
       "points": 0,
@@ -4201,6 +4211,7 @@
       "team_id": "WAS",
       "weeks": {
         "10": 0,
+        "11": 0,
         "2": 0,
         "3": 0,
         "4": 0
@@ -5034,9 +5045,9 @@
       }
     },
     {
-      "average": 0.6,
+      "average": 0.5,
       "filename": "jack-kiser.php",
-      "games": 4,
+      "games": 5,
       "player_id": 27243,
       "player_name": "Jack Kiser",
       "points": 2.25,
@@ -5044,6 +5055,7 @@
       "team_id": "CIN",
       "weeks": {
         "10": 0,
+        "11": 0,
         "7": 2.3,
         "8": 0,
         "9": 0

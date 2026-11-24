@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 872351659366539264
 - Division: 1
 - Waiver position: 13
-- Last updated from Sleeper exports: 2026-11-23
+- Last updated from Sleeper exports: 2026-11-24
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 368.9
-- championship_lineup_c_avi_avg: 46.11
-- offensive_roster_c_avi_sum: 610.9
-- offensive_roster_c_avi_avg: 38.18
-- offensive_roster_d_avi_sum: 1140.0
-- offensive_roster_d_avi_avg: 71.25
+- championship_lineup_c_avi_sum: 383.3
+- championship_lineup_c_avi_avg: 47.91
+- offensive_roster_c_avi_sum: 608.6
+- offensive_roster_c_avi_avg: 38.04
+- offensive_roster_d_avi_sum: 1139.4
+- offensive_roster_d_avi_avg: 71.21
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Jordan Love | C-AVI: 67.6 | D-AVI: 81.0
-- RB: Kenny Gainwell | C-AVI: 37.9 | D-AVI: 74.3
-- RB: MarShawn Lloyd | C-AVI: 35.3 | D-AVI: 68.8
-- WR: Khalil Shakir | C-AVI: 49.4 | D-AVI: 77.9
-- WR: Malik Washington | C-AVI: 45.4 | D-AVI: 72.2
-- TE: T.J. Hockenson | C-AVI: 64.1 | D-AVI: 79.1
+- QB: Jordan Love | C-AVI: 66.8 | D-AVI: 80.9
+- RB: Kenny Gainwell | C-AVI: 42.0 | D-AVI: 75.0
+- RB: MarShawn Lloyd | C-AVI: 34.6 | D-AVI: 68.7
+- WR: Khalil Shakir | C-AVI: 53.7 | D-AVI: 78.6
+- WR: Malik Washington | C-AVI: 44.2 | D-AVI: 72.0
+- TE: T.J. Hockenson | C-AVI: 71.0 | D-AVI: 80.2
+- FLEX: Xavier Worthy | C-AVI: 36.2 | D-AVI: 76.6
 - FLEX: Kenyon Sadiq | C-AVI: 34.8 | D-AVI: 76.8
-- FLEX: Xavier Worthy | C-AVI: 34.4 | D-AVI: 76.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,26 +53,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 67.6
-- Dynasty AVI (D-AVI, 0-100): 81.0
+- Championship AVI (C-AVI, 0-100): 66.8
+- Dynasty AVI (D-AVI, 0-100): 80.9
 - Projected PPR points: 278.5
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Sam Darnold
-- Player name: Sam Darnold
-- Player ID: 4943
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Position: QB
-- Fantasy positions: ['QB']
-- NFL team: SEA
-- Active: True
-- Status: Active
-- Age: 29.0
-- Championship AVI (C-AVI, 0-100): 30.3
-- Dynasty AVI (D-AVI, 0-100): 67.4
-- Projected PPR points: 262.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -87,26 +70,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 30.2
-- Dynasty AVI (D-AVI, 0-100): 60.4
+- Championship AVI (C-AVI, 0-100): 29.3
+- Dynasty AVI (D-AVI, 0-100): 60.2
 - Projected PPR points: 160.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: RJ Harvey
-- Player name: RJ Harvey
-- Player ID: 12489
+### PLAYER: Sam Darnold
+- Player name: Sam Darnold
+- Player ID: 4943
 - Current owner team: Northside Kings 
 - Current owner roster ID: 5
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: DEN
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: SEA
 - Active: True
-- Status: Inactive
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 42.9
-- Dynasty AVI (D-AVI, 0-100): 77.8
-- Projected PPR points: 144.1
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 27.5
+- Dynasty AVI (D-AVI, 0-100): 66.9
+- Projected PPR points: 262.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -121,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 37.9
-- Dynasty AVI (D-AVI, 0-100): 74.3
+- Championship AVI (C-AVI, 0-100): 42.0
+- Dynasty AVI (D-AVI, 0-100): 75.0
 - Projected PPR points: 152.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -138,26 +121,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 35.3
-- Dynasty AVI (D-AVI, 0-100): 68.8
+- Championship AVI (C-AVI, 0-100): 34.6
+- Dynasty AVI (D-AVI, 0-100): 68.7
 - Projected PPR points: 149.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Tyrone Tracy Jr.
-- Player name: Tyrone Tracy Jr.
-- Player ID: 11655
+### PLAYER: RJ Harvey
+- Player name: RJ Harvey
+- Player ID: 12489
 - Current owner team: Northside Kings 
 - Current owner roster ID: 5
 - Position: RB
 - Fantasy positions: ['RB']
-- NFL team: NYG
+- NFL team: DEN
 - Active: True
 - Status: Inactive
-- Age: 27.0
-- Championship AVI (C-AVI, 0-100): 24.8
-- Dynasty AVI (D-AVI, 0-100): 69.1
-- Projected PPR points: 111.3
+- Age: 25.0
+- Championship AVI (C-AVI, 0-100): 33.3
+- Dynasty AVI (D-AVI, 0-100): 76.2
+- Projected PPR points: 144.1
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -189,9 +172,26 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 24.1
+- Championship AVI (C-AVI, 0-100): 24.2
 - Dynasty AVI (D-AVI, 0-100): 54.8
 - Projected PPR points: 58.0
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Tyrone Tracy Jr.
+- Player name: Tyrone Tracy Jr.
+- Player ID: 11655
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Position: RB
+- Fantasy positions: ['RB']
+- NFL team: NYG
+- Active: True
+- Status: Inactive
+- Age: 27.0
+- Championship AVI (C-AVI, 0-100): 23.3
+- Dynasty AVI (D-AVI, 0-100): 68.8
+- Projected PPR points: 111.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 26.0
-- Championship AVI (C-AVI, 0-100): 49.4
-- Dynasty AVI (D-AVI, 0-100): 77.9
+- Championship AVI (C-AVI, 0-100): 53.7
+- Dynasty AVI (D-AVI, 0-100): 78.6
 - Projected PPR points: 170.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 45.4
-- Dynasty AVI (D-AVI, 0-100): 72.2
+- Championship AVI (C-AVI, 0-100): 44.2
+- Dynasty AVI (D-AVI, 0-100): 72.0
 - Projected PPR points: 131.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,26 +240,9 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 34.4
-- Dynasty AVI (D-AVI, 0-100): 76.3
+- Championship AVI (C-AVI, 0-100): 36.2
+- Dynasty AVI (D-AVI, 0-100): 76.6
 - Projected PPR points: 161.5
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Jordan Addison
-- Player name: Jordan Addison
-- Player ID: 9756
-- Current owner team: Northside Kings 
-- Current owner roster ID: 5
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: MIN
-- Active: True
-- Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): 33.4
-- Dynasty AVI (D-AVI, 0-100): 79.2
-- Projected PPR points: 171.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -277,6 +260,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 31.7
 - Dynasty AVI (D-AVI, 0-100): 69.5
 - Projected PPR points: 138.1
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Jordan Addison
+- Player name: Jordan Addison
+- Player ID: 9756
+- Current owner team: Northside Kings 
+- Current owner roster ID: 5
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: MIN
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 31.4
+- Dynasty AVI (D-AVI, 0-100): 78.8
+- Projected PPR points: 171.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -308,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 64.1
-- Dynasty AVI (D-AVI, 0-100): 79.1
+- Championship AVI (C-AVI, 0-100): 71.0
+- Dynasty AVI (D-AVI, 0-100): 80.2
 - Projected PPR points: 155.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
