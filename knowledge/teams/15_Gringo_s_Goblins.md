@@ -25,8 +25,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - championship_lineup_c_avi_avg: 59.64
 - offensive_roster_c_avi_sum: 738.2
 - offensive_roster_c_avi_avg: 46.14
-- offensive_roster_d_avi_sum: 1210.8
-- offensive_roster_d_avi_avg: 75.67
+- offensive_roster_d_avi_sum: 1210.3
+- offensive_roster_d_avi_avg: 75.64
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Alvin Kamara | C-AVI: 48.4 | D-AVI: 71.6
 - WR: Christian Watson | C-AVI: 84.2 | D-AVI: 92.0
 - WR: Jameson Williams | C-AVI: 72.6 | D-AVI: 88.6
-- TE: Juwan Johnson | C-AVI: 41.4 | D-AVI: 73.0
+- TE: Juwan Johnson | C-AVI: 41.4 | D-AVI: 72.5
 - FLEX: Emeka Egbuka | C-AVI: 59.1 | D-AVI: 89.0
 - FLEX: Aaron Jones Sr. | C-AVI: 46.9 | D-AVI: 74.0
 
@@ -292,7 +292,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 30.0
 - Championship AVI (C-AVI, 0-100): 41.4
-- Dynasty AVI (D-AVI, 0-100): 73.0
+- Dynasty AVI (D-AVI, 0-100): 72.5
 - Projected PPR points: 140.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

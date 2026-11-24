@@ -25,14 +25,14 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - championship_lineup_c_avi_avg: 69.94
 - offensive_roster_c_avi_sum: 910.0
 - offensive_roster_c_avi_avg: 53.53
-- offensive_roster_d_avi_sum: 1298.9
-- offensive_roster_d_avi_avg: 76.41
+- offensive_roster_d_avi_sum: 1299.1
+- offensive_roster_d_avi_avg: 76.42
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Joe Burrow | C-AVI: 92.0 | D-AVI: 90.4
 - RB: Bucky Irving | C-AVI: 82.9 | D-AVI: 92.5
-- RB: Emmett Johnson | C-AVI: 61.8 | D-AVI: 80.9
+- RB: Emmett Johnson | C-AVI: 61.8 | D-AVI: 81.1
 - WR: Ja'Marr Chase | C-AVI: 97.3 | D-AVI: 99.3
 - WR: Mike Evans | C-AVI: 81.7 | D-AVI: 86.5
 - TE: Cade Otton | C-AVI: 29.2 | D-AVI: 65.6
@@ -122,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 61.8
-- Dynasty AVI (D-AVI, 0-100): 80.9
+- Dynasty AVI (D-AVI, 0-100): 81.1
 - Projected PPR points: 65.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

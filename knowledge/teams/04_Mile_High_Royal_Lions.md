@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 531.1
-- championship_lineup_c_avi_avg: 66.39
-- offensive_roster_c_avi_sum: 839.5
-- offensive_roster_c_avi_avg: 49.38
-- offensive_roster_d_avi_sum: 1317.3
-- offensive_roster_d_avi_avg: 77.49
+- championship_lineup_c_avi_sum: 531.6
+- championship_lineup_c_avi_avg: 66.45
+- offensive_roster_c_avi_sum: 840.0
+- offensive_roster_c_avi_avg: 49.41
+- offensive_roster_d_avi_sum: 1316.8
+- offensive_roster_d_avi_avg: 77.46
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,8 +34,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Jahmyr Gibbs | C-AVI: 98.4 | D-AVI: 98.3
 - RB: Jonah Coleman | C-AVI: 65.2 | D-AVI: 85.0
 - WR: Drake London | C-AVI: 81.2 | D-AVI: 95.2
-- WR: Garrett Wilson | C-AVI: 76.2 | D-AVI: 91.7
-- TE: Dalton Schultz | C-AVI: 48.9 | D-AVI: 72.2
+- WR: Garrett Wilson | C-AVI: 76.2 | D-AVI: 91.2
+- TE: Dalton Schultz | C-AVI: 49.4 | D-AVI: 72.2
 - FLEX: Jaylen Waddle | C-AVI: 58.1 | D-AVI: 85.5
 - FLEX: Deebo Samuel Sr. | C-AVI: 56.8 | D-AVI: 76.2
 
@@ -173,7 +173,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 76.2
-- Dynasty AVI (D-AVI, 0-100): 91.7
+- Dynasty AVI (D-AVI, 0-100): 91.2
 - Projected PPR points: 224.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -325,7 +325,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 48.9
+- Championship AVI (C-AVI, 0-100): 49.4
 - Dynasty AVI (D-AVI, 0-100): 72.2
 - Projected PPR points: 150.9
 - Category: offense

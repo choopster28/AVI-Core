@@ -172,17 +172,18 @@
       }
     },
     {
-      "average": 26.5,
+      "average": 25.8,
       "filename": "joe-burrow.php",
-      "games": 9,
+      "games": 10,
       "player_id": 19196,
       "player_name": "Joe Burrow",
-      "points": 238.29999999999998,
+      "points": 258.2,
       "position_id": "QB",
       "team_id": "CIN",
       "weeks": {
         "1": 15.2,
         "10": 33.2,
+        "11": 19.9,
         "2": 16.2,
         "3": 22.6,
         "4": 25.7,
@@ -632,17 +633,18 @@
       }
     },
     {
-      "average": 19.7,
+      "average": 19.4,
       "filename": "jayden-daniels.php",
-      "games": 7,
+      "games": 8,
       "player_id": 22902,
       "player_name": "Jayden Daniels",
-      "points": 137.96,
+      "points": 155.02,
       "position_id": "QB",
       "team_id": "WAS",
       "weeks": {
         "1": 17.7,
         "10": 22.8,
+        "11": 17.1,
         "2": 14.7,
         "5": 32.3,
         "6": 21,
@@ -761,15 +763,16 @@
       }
     },
     {
-      "average": 9.3,
+      "average": 8,
       "filename": "tyler-huntley.php",
-      "games": 6,
+      "games": 7,
       "player_id": 19297,
       "player_name": "Tyler Huntley",
       "points": 55.68000000000001,
       "position_id": "QB",
       "team_id": "BAL",
       "weeks": {
+        "11": 0,
         "2": 0,
         "4": 4.1,
         "5": 24,

@@ -25,8 +25,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - championship_lineup_c_avi_avg: 47.91
 - offensive_roster_c_avi_sum: 608.6
 - offensive_roster_c_avi_avg: 38.04
-- offensive_roster_d_avi_sum: 1139.4
-- offensive_roster_d_avi_avg: 71.21
+- offensive_roster_d_avi_sum: 1139.9
+- offensive_roster_d_avi_avg: 71.24
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,7 +35,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: MarShawn Lloyd | C-AVI: 34.6 | D-AVI: 68.7
 - WR: Khalil Shakir | C-AVI: 53.7 | D-AVI: 78.6
 - WR: Malik Washington | C-AVI: 44.2 | D-AVI: 72.0
-- TE: T.J. Hockenson | C-AVI: 71.0 | D-AVI: 80.2
+- TE: T.J. Hockenson | C-AVI: 71.0 | D-AVI: 80.7
 - FLEX: Xavier Worthy | C-AVI: 36.2 | D-AVI: 76.6
 - FLEX: Kenyon Sadiq | C-AVI: 34.8 | D-AVI: 76.8
 
@@ -309,7 +309,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 29.0
 - Championship AVI (C-AVI, 0-100): 71.0
-- Dynasty AVI (D-AVI, 0-100): 80.2
+- Dynasty AVI (D-AVI, 0-100): 80.7
 - Projected PPR points: 155.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

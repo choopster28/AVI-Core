@@ -834,6 +834,78 @@
   {
     "active": true,
     "aliases": [
+      "Chris Olave"
+    ],
+    "avi_id": "AVI-00008144",
+    "c_avi": 86.8,
+    "canonical_name": "Chris Olave",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 97.11191335740072,
+      "elite_upside": 71.4,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 100.0,
+      "long_term_ceiling": 95.1,
+      "long_term_security": null,
+      "observed_production_component": 80.5,
+      "player_points": 80.5,
+      "position_liquidity": 100.0,
+      "projection": 91.73140096618359,
+      "public_market": 96.79464544520279,
+      "redraft_market": 96.71532846715328
+    },
+    "d_avi": 95.7,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "sleeper",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 80.5,
+      "games": 10,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 80.5,
+      "ppr_points_per_game": 16.66,
+      "season_points": 166.6,
+      "source": "sleeper",
+      "weekly_ceiling_component": 71.4,
+      "weekly_ceiling_points": 28.2
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "NO",
+    "normalized_name": "chris olave",
+    "position": "WR",
+    "projection": {
+      "component_score": 91.73140096618359,
+      "percentile": 93.47826086956522,
+      "position_rank": 11,
+      "raw_points": 235.9,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 22565,
+      "fantasypros_id": "20111",
+      "nfl_id": "2567973",
+      "rotowire_id": 15895,
+      "sleeper_id": "8144",
+      "sportradar_id": "2375d572-a36c-4365-bb3f-87e156526e2f",
+      "sportsdata_player_id": "2375d572-a36c-4365-bb3f-87e156526e2f"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "James Cook III"
     ],
     "avi_id": "AVI-00008138",
@@ -901,78 +973,6 @@
       "sleeper_id": "8138",
       "sportradar_id": "ce5de0e5-9f76-42ee-b93a-3ef88af9b0a7",
       "sportsdata_player_id": "ce5de0e5-9f76-42ee-b93a-3ef88af9b0a7"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Chris Olave"
-    ],
-    "avi_id": "AVI-00008144",
-    "c_avi": 86.8,
-    "canonical_name": "Chris Olave",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 96.75090252707581,
-      "elite_upside": 71.4,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 100.0,
-      "long_term_ceiling": 94.9,
-      "long_term_security": null,
-      "observed_production_component": 80.5,
-      "player_points": 80.5,
-      "position_liquidity": 100.0,
-      "projection": 91.73140096618359,
-      "public_market": 96.7224432791378,
-      "redraft_market": 96.71532846715328
-    },
-    "d_avi": 95.5,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "sleeper",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 80.5,
-      "games": 10,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 80.5,
-      "ppr_points_per_game": 16.66,
-      "season_points": 166.6,
-      "source": "sleeper",
-      "weekly_ceiling_component": 71.4,
-      "weekly_ceiling_points": 28.2
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "NO",
-    "normalized_name": "chris olave",
-    "position": "WR",
-    "projection": {
-      "component_score": 91.73140096618359,
-      "percentile": 93.47826086956522,
-      "position_rank": 11,
-      "raw_points": 235.9,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 22565,
-      "fantasypros_id": "20111",
-      "nfl_id": "2567973",
-      "rotowire_id": 15895,
-      "sleeper_id": "8144",
-      "sportradar_id": "2375d572-a36c-4365-bb3f-87e156526e2f",
-      "sportsdata_player_id": "2375d572-a36c-4365-bb3f-87e156526e2f"
     }
   },
   {
@@ -1450,78 +1450,6 @@
   {
     "active": true,
     "aliases": [
-      "Tetairoa McMillan"
-    ],
-    "avi_id": "AVI-00012526",
-    "c_avi": 84.8,
-    "canonical_name": "Tetairoa McMillan",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 97.11191335740072,
-      "elite_upside": 100.0,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 100.0,
-      "long_term_ceiling": 91.8,
-      "long_term_security": null,
-      "observed_production_component": 74.8,
-      "player_points": 74.8,
-      "position_liquidity": 100.0,
-      "projection": 83.01670117322291,
-      "public_market": 93.87493741600571,
-      "redraft_market": 93.06569343065694
-    },
-    "d_avi": 95.1,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "sleeper",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 74.8,
-      "games": 10,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 74.8,
-      "ppr_points_per_game": 15.01,
-      "season_points": 150.1,
-      "source": "sleeper",
-      "weekly_ceiling_component": 100.0,
-      "weekly_ceiling_points": 45.2
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "CAR",
-    "normalized_name": "tetairoa mcmillan",
-    "position": "WR",
-    "projection": {
-      "component_score": 83.01670117322291,
-      "percentile": 88.50931677018633,
-      "position_rank": 19,
-      "raw_points": 223.0,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26054,
-      "fantasypros_id": "25417",
-      "nfl_id": "2573992",
-      "rotowire_id": 18547,
-      "sleeper_id": "12526",
-      "sportradar_id": "874de000-586c-4999-ac12-02766563e200",
-      "sportsdata_player_id": "874de000-586c-4999-ac12-02766563e200"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Christian McCaffrey"
     ],
     "avi_id": "AVI-00004034",
@@ -1589,6 +1517,78 @@
       "sleeper_id": "4034",
       "sportradar_id": "f96db0af-5e25-42d1-a07a-49b4e065b364",
       "sportsdata_player_id": "f96db0af-5e25-42d1-a07a-49b4e065b364"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Tetairoa McMillan"
+    ],
+    "avi_id": "AVI-00012526",
+    "c_avi": 84.7,
+    "canonical_name": "Tetairoa McMillan",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 96.75090252707581,
+      "elite_upside": 100.0,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 100.0,
+      "long_term_ceiling": 91.6,
+      "long_term_security": null,
+      "observed_production_component": 74.8,
+      "player_points": 74.8,
+      "position_liquidity": 100.0,
+      "projection": 83.01670117322291,
+      "public_market": 93.80273524994072,
+      "redraft_market": 93.06569343065694
+    },
+    "d_avi": 94.9,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "sleeper",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 74.8,
+      "games": 10,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 74.8,
+      "ppr_points_per_game": 15.01,
+      "season_points": 150.1,
+      "source": "sleeper",
+      "weekly_ceiling_component": 100.0,
+      "weekly_ceiling_points": 45.2
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "CAR",
+    "normalized_name": "tetairoa mcmillan",
+    "position": "WR",
+    "projection": {
+      "component_score": 83.01670117322291,
+      "percentile": 88.50931677018633,
+      "position_rank": 19,
+      "raw_points": 223.0,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26054,
+      "fantasypros_id": "25417",
+      "nfl_id": "2573992",
+      "rotowire_id": 18547,
+      "sleeper_id": "12526",
+      "sportradar_id": "874de000-586c-4999-ac12-02766563e200",
+      "sportsdata_player_id": "874de000-586c-4999-ac12-02766563e200"
     }
   },
   {
@@ -1753,78 +1753,6 @@
       "sleeper_id": "13287",
       "sportradar_id": "ca61f1e4-5a51-45b8-b8e3-f6564d9c2648",
       "sportsdata_player_id": "ca61f1e4-5a51-45b8-b8e3-f6564d9c2648"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Garrett Wilson"
-    ],
-    "avi_id": "AVI-00008146",
-    "c_avi": 76.2,
-    "canonical_name": "Garrett Wilson",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 93.86281588447653,
-      "elite_upside": 61.1,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 100.0,
-      "long_term_ceiling": 90.5,
-      "long_term_security": null,
-      "observed_production_component": 61.8,
-      "player_points": 61.8,
-      "position_liquidity": 100.0,
-      "projection": 84.97915804002761,
-      "public_market": 94.39300113309969,
-      "redraft_market": 94.52554744525547
-    },
-    "d_avi": 91.7,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "sleeper",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 61.8,
-      "games": 10,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 61.8,
-      "ppr_points_per_game": 13.62,
-      "season_points": 136.2,
-      "source": "sleeper",
-      "weekly_ceiling_component": 61.1,
-      "weekly_ceiling_points": 26.7
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "NYJ",
-    "normalized_name": "garrett wilson",
-    "position": "WR",
-    "projection": {
-      "component_score": 84.97915804002761,
-      "percentile": 90.37267080745342,
-      "position_rank": 16,
-      "raw_points": 224.9,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 23122,
-      "fantasypros_id": "23072",
-      "nfl_id": "2568048",
-      "rotowire_id": 15829,
-      "sleeper_id": "8146",
-      "sportradar_id": "68d72fe0-79b2-4fdb-afd5-6c79676e77f3",
-      "sportsdata_player_id": "68d72fe0-79b2-4fdb-afd5-6c79676e77f3"
     }
   },
   {
@@ -2001,21 +1929,21 @@
     "canonical_name": "Tee Higgins",
     "components": {
       "age_career_horizon": null,
-      "dynasty_market": 93.50180505415162,
+      "dynasty_market": 93.86281588447653,
       "elite_upside": 90.5,
       "health_outlook": null,
       "injury_rebound_credit": 0.0,
       "league_context": 100.0,
-      "long_term_ceiling": 90.1,
+      "long_term_ceiling": 90.3,
       "long_term_security": null,
       "observed_production_component": 92.1,
       "player_points": 92.1,
       "position_liquidity": 100.0,
       "projection": 84.38426501035198,
-      "public_market": 93.44488655827558,
+      "public_market": 93.51708872434057,
       "redraft_market": 93.43065693430657
     },
-    "d_avi": 93.9,
+    "d_avi": 94.1,
     "data_sources": {
       "dynasty_market": "fantasypros",
       "injury": "fantasypros",
@@ -2277,6 +2205,78 @@
       "sleeper_id": "7525",
       "sportradar_id": "3555d07e-57ae-43de-97d5-b1b5bf055f17",
       "sportsdata_player_id": "3555d07e-57ae-43de-97d5-b1b5bf055f17"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Garrett Wilson"
+    ],
+    "avi_id": "AVI-00008146",
+    "c_avi": 76.2,
+    "canonical_name": "Garrett Wilson",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 93.14079422382672,
+      "elite_upside": 61.1,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 100.0,
+      "long_term_ceiling": 90.1,
+      "long_term_security": null,
+      "observed_production_component": 61.8,
+      "player_points": 61.8,
+      "position_liquidity": 100.0,
+      "projection": 84.97915804002761,
+      "public_market": 94.24859680096972,
+      "redraft_market": 94.52554744525547
+    },
+    "d_avi": 91.2,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "sleeper",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 61.8,
+      "games": 10,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 61.8,
+      "ppr_points_per_game": 13.62,
+      "season_points": 136.2,
+      "source": "sleeper",
+      "weekly_ceiling_component": 61.1,
+      "weekly_ceiling_points": 26.7
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "NYJ",
+    "normalized_name": "garrett wilson",
+    "position": "WR",
+    "projection": {
+      "component_score": 84.97915804002761,
+      "percentile": 90.37267080745342,
+      "position_rank": 16,
+      "raw_points": 224.9,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 23122,
+      "fantasypros_id": "23072",
+      "nfl_id": "2568048",
+      "rotowire_id": 15829,
+      "sleeper_id": "8146",
+      "sportradar_id": "68d72fe0-79b2-4fdb-afd5-6c79676e77f3",
+      "sportsdata_player_id": "68d72fe0-79b2-4fdb-afd5-6c79676e77f3"
     }
   },
   {
@@ -2813,21 +2813,21 @@
     "canonical_name": "Parker Washington",
     "components": {
       "age_career_horizon": null,
-      "dynasty_market": 93.14079422382672,
+      "dynasty_market": 93.50180505415162,
       "elite_upside": 77.8,
       "health_outlook": null,
       "injury_rebound_credit": 0.0,
       "league_context": 100.0,
-      "long_term_ceiling": 87.0,
+      "long_term_ceiling": 87.2,
       "long_term_security": null,
       "observed_production_component": 77.2,
       "player_points": 77.2,
       "position_liquidity": 100.0,
       "projection": 76.81490683229815,
-      "public_market": 91.03691796885295,
+      "public_market": 91.10912013491792,
       "redraft_market": 90.51094890510949
     },
-    "d_avi": 91.8,
+    "d_avi": 92.1,
     "data_sources": {
       "dynasty_market": "fantasypros",
       "injury": "fantasypros",
@@ -3445,7 +3445,7 @@
       "Carnell Tate"
     ],
     "avi_id": "AVI-00013279",
-    "c_avi": 59.8,
+    "c_avi": 59.7,
     "canonical_name": "Carnell Tate",
     "components": {
       "age_career_horizon": null,
@@ -3460,8 +3460,8 @@
       "player_points": 46.8,
       "position_liquidity": 100.0,
       "projection": 56.74285714285715,
-      "public_market": 90.15784342143404,
-      "redraft_market": 89.05109489051095
+      "public_market": 89.86587261851433,
+      "redraft_market": 88.68613138686132
     },
     "d_avi": 88.5,
     "data_sources": {
@@ -3733,12 +3733,12 @@
       "Sam LaPorta"
     ],
     "avi_id": "AVI-00010859",
-    "c_avi": 72.2,
+    "c_avi": 72.7,
     "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 72.2,
+      "adjusted_c_avi": 72.7,
       "amount": -1.5,
       "availability_ceiling": 96.7,
-      "base_c_avi": 73.7,
+      "base_c_avi": 74.2,
       "championship_horizon_end_week": 17,
       "current_week": 12,
       "expected_missed_weeks": 0.2,
@@ -3753,7 +3753,7 @@
     "canonical_name": "Sam LaPorta",
     "components": {
       "age_career_horizon": null,
-      "base_c_avi_before_availability_adjustment": 73.7,
+      "base_c_avi_before_availability_adjustment": 74.2,
       "c_avi_availability_adjustment": -1.5,
       "c_avi_availability_ceiling": 96.7,
       "dynasty_market": 94.81481481481481,
@@ -3763,15 +3763,15 @@
       "league_context": 66.2,
       "long_term_ceiling": 95.4,
       "long_term_security": null,
-      "observed_production_component": 62.9,
+      "observed_production_component": 64.0,
       "ongoing_injury_risk_points": 1.5,
-      "player_points": 62.9,
+      "player_points": 64.0,
       "position_liquidity": 66.2,
       "projection": 96.45751410886584,
       "public_market": 95.78114478114477,
       "redraft_market": 96.02272727272727
     },
-    "d_avi": 86.3,
+    "d_avi": 86.4,
     "data_sources": {
       "dynasty_market": "fantasypros",
       "injury": "sleeper",
@@ -3782,10 +3782,10 @@
     },
     "in_season_player_points": {
       "completed_through_week": 11,
-      "component_score": 62.9,
+      "component_score": 64.0,
       "games": 10,
       "injury_rebound_credit": 0.0,
-      "observed_component_score": 62.9,
+      "observed_component_score": 64.0,
       "ppr_points_per_game": 10.49,
       "season_points": 104.9,
       "source": "sleeper",
@@ -5308,8 +5308,8 @@
       "player_points": 6.0,
       "position_liquidity": 100.0,
       "projection": 62.189095928226365,
-      "public_market": 88.27742496508473,
-      "redraft_market": 88.68613138686132
+      "public_market": 88.56939576800444,
+      "redraft_market": 89.05109489051095
     },
     "d_avi": 79.3,
     "data_sources": {
@@ -5549,7 +5549,7 @@
       "Isaiah Likely"
     ],
     "avi_id": "AVI-00008131",
-    "c_avi": 74.9,
+    "c_avi": 75.3,
     "canonical_name": "Isaiah Likely",
     "components": {
       "age_career_horizon": null,
@@ -5560,14 +5560,14 @@
       "league_context": 66.2,
       "long_term_ceiling": 82.4,
       "long_term_security": null,
-      "observed_production_component": 72.7,
-      "player_points": 72.7,
+      "observed_production_component": 73.8,
+      "player_points": 73.8,
       "position_liquidity": 66.2,
       "projection": 60.41209266338977,
       "public_market": 93.65656565656566,
       "redraft_market": 93.18181818181819
     },
-    "d_avi": 86.1,
+    "d_avi": 86.2,
     "data_sources": {
       "dynasty_market": "fantasypros",
       "injury": "fantasypros",
@@ -5578,10 +5578,10 @@
     },
     "in_season_player_points": {
       "completed_through_week": 11,
-      "component_score": 72.7,
+      "component_score": 73.8,
       "games": 10,
       "injury_rebound_credit": 0.0,
-      "observed_component_score": 72.7,
+      "observed_component_score": 73.8,
       "ppr_points_per_game": 16.1,
       "season_points": 161.0,
       "source": "sleeper",
@@ -5766,7 +5766,7 @@
       "Kyle Pitts Sr."
     ],
     "avi_id": "AVI-00007553",
-    "c_avi": 48.6,
+    "c_avi": 49.0,
     "canonical_name": "Kyle Pitts Sr.",
     "components": {
       "age_career_horizon": null,
@@ -5777,8 +5777,8 @@
       "league_context": 66.2,
       "long_term_ceiling": 85.9,
       "long_term_security": null,
-      "observed_production_component": 9.9,
-      "player_points": 9.9,
+      "observed_production_component": 11.0,
+      "player_points": 11.0,
       "position_liquidity": 66.2,
       "projection": 76.07534589477517,
       "public_market": 96.0976430976431,
@@ -5795,10 +5795,10 @@
     },
     "in_season_player_points": {
       "completed_through_week": 11,
-      "component_score": 9.9,
+      "component_score": 11.0,
       "games": 10,
       "injury_rebound_credit": 0.0,
-      "observed_component_score": 9.9,
+      "observed_component_score": 11.0,
       "ppr_points_per_game": 7.8,
       "season_points": 78.0,
       "source": "mixed_sleeper_fantasypros",
@@ -6074,7 +6074,7 @@
       "Jordyn Tyson"
     ],
     "avi_id": "AVI-00013281",
-    "c_avi": 33.3,
+    "c_avi": 33.2,
     "canonical_name": "Jordyn Tyson",
     "components": {
       "age_career_horizon": null,
@@ -6089,8 +6089,8 @@
       "player_points": 3.6,
       "position_liquidity": 100.0,
       "projection": 35.21739130434783,
-      "public_market": 81.69701441408206,
-      "redraft_market": 79.1970802919708
+      "public_market": 81.40504361116236,
+      "redraft_market": 78.83211678832117
     },
     "d_avi": 81.6,
     "data_sources": {
@@ -6138,78 +6138,6 @@
       "sleeper_id": "13281",
       "sportradar_id": "5368ab1c-5463-4326-86c0-17c06bf51c9d",
       "sportsdata_player_id": "5368ab1c-5463-4326-86c0-17c06bf51c9d"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "DK Metcalf"
-    ],
-    "avi_id": "AVI-00005846",
-    "c_avi": 48.8,
-    "canonical_name": "DK Metcalf",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 85.1985559566787,
-      "elite_upside": 20.6,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 100.0,
-      "long_term_ceiling": 75.9,
-      "long_term_security": null,
-      "observed_production_component": 21.2,
-      "player_points": 21.2,
-      "position_liquidity": 100.0,
-      "projection": 60.52753623188407,
-      "public_market": 87.40467469498537,
-      "redraft_market": 87.95620437956204
-    },
-    "d_avi": 80.8,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "sleeper",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 21.2,
-      "games": 10,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 21.2,
-      "ppr_points_per_game": 9.45,
-      "season_points": 94.5,
-      "source": "sleeper",
-      "weekly_ceiling_component": 20.6,
-      "weekly_ceiling_points": 20.3
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "PIT",
-    "normalized_name": "dk metcalf",
-    "position": "WR",
-    "projection": {
-      "component_score": 60.52753623188407,
-      "percentile": 80.43478260869566,
-      "position_rank": 32,
-      "raw_points": 183.3,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": 4047650,
-      "fantasy_data_id": 20875,
-      "fantasypros_id": "18219",
-      "nfl_id": "2562685",
-      "rotowire_id": 13424,
-      "sleeper_id": "5846",
-      "sportradar_id": "754faf0f-40f7-45f0-b23b-6ce990ecaf26",
-      "sportsdata_player_id": "754faf0f-40f7-45f0-b23b-6ce990ecaf26"
     }
   },
   {
@@ -6586,10 +6514,29 @@
       "Denzel Boston"
     ],
     "avi_id": "AVI-00013346",
-    "c_avi": 50.1,
+    "c_avi": 48.6,
+    "c_avi_availability_adjustment": {
+      "adjusted_c_avi": 48.6,
+      "amount": -1.5,
+      "availability_ceiling": 96.7,
+      "base_c_avi": 50.1,
+      "championship_horizon_end_week": 17,
+      "current_week": 12,
+      "expected_missed_weeks": 0.2,
+      "missed_games_beyond_bye": 0,
+      "ongoing_injury_risk_points": 1.5,
+      "policy": "Current verified injury designations carry a bounded risk discount based on missed 2026 games beyond one possible bye; fully cleared players have zero risk discount. An additional hard future-availability ceiling remains in force.",
+      "projection_aware": true,
+      "reason_code": "questionable",
+      "status": "questionable active",
+      "status_source": "sleeper"
+    },
     "canonical_name": "Denzel Boston",
     "components": {
       "age_career_horizon": null,
+      "base_c_avi_before_availability_adjustment": 50.1,
+      "c_avi_availability_adjustment": -1.5,
+      "c_avi_availability_ceiling": 96.7,
       "dynasty_market": 89.89169675090253,
       "elite_upside": 23.0,
       "health_outlook": null,
@@ -6598,16 +6545,17 @@
       "long_term_ceiling": 70.9,
       "long_term_security": null,
       "observed_production_component": 39.3,
+      "ongoing_injury_risk_points": 1.5,
       "player_points": 39.3,
       "position_liquidity": 100.0,
       "projection": 39.316770186335404,
       "public_market": 81.91994518959658,
       "redraft_market": 79.92700729927007
     },
-    "d_avi": 83.4,
+    "d_avi": 83.1,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
+      "injury": "sleeper",
       "news": "fantasypros",
       "production": "sleeper",
       "projection": "sleeper",
@@ -6655,6 +6603,78 @@
   {
     "active": true,
     "aliases": [
+      "DK Metcalf"
+    ],
+    "avi_id": "AVI-00005846",
+    "c_avi": 48.8,
+    "canonical_name": "DK Metcalf",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 84.83754512635379,
+      "elite_upside": 20.6,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 100.0,
+      "long_term_ceiling": 75.7,
+      "long_term_security": null,
+      "observed_production_component": 21.2,
+      "player_points": 21.2,
+      "position_liquidity": 100.0,
+      "projection": 60.52753623188407,
+      "public_market": 87.33247252892039,
+      "redraft_market": 87.95620437956204
+    },
+    "d_avi": 80.6,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "sleeper",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 21.2,
+      "games": 10,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 21.2,
+      "ppr_points_per_game": 9.45,
+      "season_points": 94.5,
+      "source": "sleeper",
+      "weekly_ceiling_component": 20.6,
+      "weekly_ceiling_points": 20.3
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "PIT",
+    "normalized_name": "dk metcalf",
+    "position": "WR",
+    "projection": {
+      "component_score": 60.52753623188407,
+      "percentile": 80.43478260869566,
+      "position_rank": 32,
+      "raw_points": 183.3,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": 4047650,
+      "fantasy_data_id": 20875,
+      "fantasypros_id": "18219",
+      "nfl_id": "2562685",
+      "rotowire_id": 13424,
+      "sleeper_id": "5846",
+      "sportradar_id": "754faf0f-40f7-45f0-b23b-6ce990ecaf26",
+      "sportsdata_player_id": "754faf0f-40f7-45f0-b23b-6ce990ecaf26"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Michael Wilson"
     ],
     "avi_id": "AVI-00010232",
@@ -6693,8 +6713,8 @@
       "player_points": 67.4,
       "position_liquidity": 100.0,
       "projection": 47.248585231193935,
-      "public_market": 86.67000447969644,
-      "redraft_market": 86.4963503649635
+      "public_market": 86.37803367677674,
+      "redraft_market": 86.13138686131387
     },
     "d_avi": 79.2,
     "data_sources": {
@@ -6765,8 +6785,8 @@
       "player_points": 34.8,
       "position_liquidity": 100.0,
       "projection": 53.40262249827468,
-      "public_market": 86.0892250125168,
-      "redraft_market": 86.13138686131387
+      "public_market": 86.38119581543651,
+      "redraft_market": 86.4963503649635
     },
     "d_avi": 81.3,
     "data_sources": {
@@ -7202,7 +7222,7 @@
       "Brenton Strange"
     ],
     "avi_id": "AVI-00009480",
-    "c_avi": 48.8,
+    "c_avi": 49.1,
     "canonical_name": "Brenton Strange",
     "components": {
       "age_career_horizon": null,
@@ -7213,12 +7233,12 @@
       "league_context": 66.2,
       "long_term_ceiling": 81.2,
       "long_term_security": null,
-      "observed_production_component": 30.9,
-      "player_points": 30.9,
+      "observed_production_component": 32.0,
+      "player_points": 32.0,
       "position_liquidity": 66.2,
       "projection": 64.60643091206991,
-      "public_market": 90.94949494949496,
-      "redraft_market": 90.9090909090909
+      "public_market": 90.49494949494951,
+      "redraft_market": 90.3409090909091
     },
     "d_avi": 79.1,
     "data_sources": {
@@ -7231,10 +7251,10 @@
     },
     "in_season_player_points": {
       "completed_through_week": 11,
-      "component_score": 30.9,
+      "component_score": 32.0,
       "games": 10,
       "injury_rebound_credit": 0.0,
-      "observed_component_score": 30.9,
+      "observed_component_score": 32.0,
       "ppr_points_per_game": 8.51,
       "season_points": 85.1,
       "source": "sleeper",
@@ -7435,78 +7455,6 @@
   {
     "active": true,
     "aliases": [
-      "Tony Pollard"
-    ],
-    "avi_id": "AVI-00005967",
-    "c_avi": 73.0,
-    "canonical_name": "Tony Pollard",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 86.02620087336244,
-      "elite_upside": 91.5,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 91.2,
-      "long_term_ceiling": 72.9,
-      "long_term_security": null,
-      "observed_production_component": 72.8,
-      "player_points": 72.8,
-      "position_liquidity": 91.2,
-      "projection": 51.00487815843899,
-      "public_market": 85.59233694886603,
-      "redraft_market": 85.48387096774194
-    },
-    "d_avi": 83.6,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "sleeper",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 72.8,
-      "games": 10,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 72.8,
-      "ppr_points_per_game": 15.14,
-      "season_points": 151.4,
-      "source": "sleeper",
-      "weekly_ceiling_component": 91.5,
-      "weekly_ceiling_points": 36.5
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "TEN",
-    "normalized_name": "tony pollard",
-    "position": "RB",
-    "projection": {
-      "component_score": 51.00487815843899,
-      "percentile": 75.41666666666667,
-      "position_rank": 30,
-      "raw_points": 160.1,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": 3916148,
-      "fantasy_data_id": 20912,
-      "fantasypros_id": "18705",
-      "nfl_id": "2562699",
-      "rotowire_id": 13590,
-      "sleeper_id": "5967",
-      "sportradar_id": "33b0227d-4c21-4e71-b4cd-be35f7db9123",
-      "sportsdata_player_id": "33b0227d-4c21-4e71-b4cd-be35f7db9123"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Kyle Monangai"
     ],
     "avi_id": "AVI-00012534",
@@ -7574,6 +7522,78 @@
       "sleeper_id": "12534",
       "sportradar_id": "6edec23b-f938-40f7-a151-1db5374880dd",
       "sportsdata_player_id": "6edec23b-f938-40f7-a151-1db5374880dd"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Tony Pollard"
+    ],
+    "avi_id": "AVI-00005967",
+    "c_avi": 73.0,
+    "canonical_name": "Tony Pollard",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 85.58951965065502,
+      "elite_upside": 91.5,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 91.2,
+      "long_term_ceiling": 72.6,
+      "long_term_security": null,
+      "observed_production_component": 72.8,
+      "player_points": 72.8,
+      "position_liquidity": 91.2,
+      "projection": 51.00487815843899,
+      "public_market": 85.50500070432456,
+      "redraft_market": 85.48387096774194
+    },
+    "d_avi": 83.3,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "sleeper",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 72.8,
+      "games": 10,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 72.8,
+      "ppr_points_per_game": 15.14,
+      "season_points": 151.4,
+      "source": "sleeper",
+      "weekly_ceiling_component": 91.5,
+      "weekly_ceiling_points": 36.5
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "TEN",
+    "normalized_name": "tony pollard",
+    "position": "RB",
+    "projection": {
+      "component_score": 51.00487815843899,
+      "percentile": 75.41666666666667,
+      "position_rank": 30,
+      "raw_points": 160.1,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": 3916148,
+      "fantasy_data_id": 20912,
+      "fantasypros_id": "18705",
+      "nfl_id": "2562699",
+      "rotowire_id": 13590,
+      "sleeper_id": "5967",
+      "sportradar_id": "33b0227d-4c21-4e71-b4cd-be35f7db9123",
+      "sportsdata_player_id": "33b0227d-4c21-4e71-b4cd-be35f7db9123"
     }
   },
   {
@@ -7689,8 +7709,8 @@
       "player_points": 15.1,
       "position_liquidity": 100.0,
       "projection": 51.387163561076605,
-      "public_market": 84.78326174602758,
-      "redraft_market": 85.4014598540146
+      "public_market": 84.49129094310787,
+      "redraft_market": 85.03649635036497
     },
     "d_avi": 76.1,
     "data_sources": {
@@ -8872,6 +8892,78 @@
   {
     "active": true,
     "aliases": [
+      "T.J. Hockenson"
+    ],
+    "avi_id": "AVI-00005844",
+    "c_avi": 71.0,
+    "canonical_name": "T.J. Hockenson",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 88.14814814814815,
+      "elite_upside": 69.6,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 66.2,
+      "long_term_ceiling": 76.8,
+      "long_term_security": null,
+      "observed_production_component": 74.1,
+      "player_points": 74.1,
+      "position_liquidity": 66.2,
+      "projection": 57.987233752048056,
+      "public_market": 88.53872053872055,
+      "redraft_market": 88.63636363636364
+    },
+    "d_avi": 80.7,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "sleeper",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 74.1,
+      "games": 9,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 74.1,
+      "ppr_points_per_game": 10.81,
+      "season_points": 97.3,
+      "source": "sleeper",
+      "weekly_ceiling_component": 69.6,
+      "weekly_ceiling_points": 24.9
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "MIN",
+    "normalized_name": "t j hockenson",
+    "position": "TE",
+    "projection": {
+      "component_score": 57.987233752048056,
+      "percentile": 80.625,
+      "position_rank": 16,
+      "raw_points": 155.0,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": 4036133,
+      "fantasy_data_id": 20805,
+      "fantasypros_id": "18290",
+      "nfl_id": "2562378",
+      "rotowire_id": 13610,
+      "sleeper_id": "5844",
+      "sportradar_id": "bd1120b6-38b3-4225-a4b0-20660a149d0d",
+      "sportsdata_player_id": "bd1120b6-38b3-4225-a4b0-20660a149d0d"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Khalil Shakir"
     ],
     "avi_id": "AVI-00008134",
@@ -9036,78 +9128,6 @@
   {
     "active": true,
     "aliases": [
-      "T.J. Hockenson"
-    ],
-    "avi_id": "AVI-00005844",
-    "c_avi": 71.0,
-    "canonical_name": "T.J. Hockenson",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 87.4074074074074,
-      "elite_upside": 69.6,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 66.2,
-      "long_term_ceiling": 76.4,
-      "long_term_security": null,
-      "observed_production_component": 74.1,
-      "player_points": 74.1,
-      "position_liquidity": 66.2,
-      "projection": 57.987233752048056,
-      "public_market": 88.3905723905724,
-      "redraft_market": 88.63636363636364
-    },
-    "d_avi": 80.2,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "sleeper",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 74.1,
-      "games": 9,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 74.1,
-      "ppr_points_per_game": 10.81,
-      "season_points": 97.3,
-      "source": "sleeper",
-      "weekly_ceiling_component": 69.6,
-      "weekly_ceiling_points": 24.9
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "MIN",
-    "normalized_name": "t j hockenson",
-    "position": "TE",
-    "projection": {
-      "component_score": 57.987233752048056,
-      "percentile": 80.625,
-      "position_rank": 16,
-      "raw_points": 155.0,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": 4036133,
-      "fantasy_data_id": 20805,
-      "fantasypros_id": "18290",
-      "nfl_id": "2562378",
-      "rotowire_id": 13610,
-      "sleeper_id": "5844",
-      "sportradar_id": "bd1120b6-38b3-4225-a4b0-20660a149d0d",
-      "sportsdata_player_id": "bd1120b6-38b3-4225-a4b0-20660a149d0d"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Chris Godwin Jr."
     ],
     "avi_id": "AVI-00004037",
@@ -9198,8 +9218,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 45.569910282953764,
-      "public_market": 84.05807794671797,
-      "redraft_market": 85.03649635036497
+      "public_market": 84.35004874963768,
+      "redraft_market": 85.4014598540146
     },
     "d_avi": 74.7,
     "data_sources": {
@@ -9784,6 +9804,150 @@
   {
     "active": true,
     "aliases": [
+      "Antonio Williams"
+    ],
+    "avi_id": "AVI-00013301",
+    "c_avi": 43.7,
+    "canonical_name": "Antonio Williams",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 85.1985559566787,
+      "elite_upside": 31.7,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 100.0,
+      "long_term_ceiling": 62.7,
+      "long_term_security": null,
+      "observed_production_component": 33.7,
+      "player_points": 33.7,
+      "position_liquidity": 100.0,
+      "projection": 25.15527950310559,
+      "public_market": 71.63825133732114,
+      "redraft_market": 68.24817518248175
+    },
+    "d_avi": 78.9,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "sleeper",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 33.7,
+      "games": 10,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 33.7,
+      "ppr_points_per_game": 9.38,
+      "season_points": 93.8,
+      "source": "sleeper",
+      "weekly_ceiling_component": 31.7,
+      "weekly_ceiling_points": 21.2
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "WAS",
+    "normalized_name": "antonio williams",
+    "position": "WR",
+    "projection": {
+      "component_score": 25.15527950310559,
+      "percentile": 41.92546583850932,
+      "position_rank": 94,
+      "raw_points": 75.2,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26859,
+      "fantasypros_id": "25418",
+      "nfl_id": null,
+      "rotowire_id": 19237,
+      "sleeper_id": "13301",
+      "sportradar_id": "d80b6d95-5b56-4e52-9a19-05957961f506",
+      "sportsdata_player_id": "d80b6d95-5b56-4e52-9a19-05957961f506"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Chig Okonkwo"
+    ],
+    "avi_id": "AVI-00008210",
+    "c_avi": 38.1,
+    "canonical_name": "Chig Okonkwo",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 87.4074074074074,
+      "elite_upside": 0.0,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 66.2,
+      "long_term_ceiling": 72.6,
+      "long_term_security": null,
+      "observed_production_component": 15.3,
+      "player_points": 15.3,
+      "position_liquidity": 66.2,
+      "projection": 47.799858911341694,
+      "public_market": 89.2996632996633,
+      "redraft_market": 89.77272727272727
+    },
+    "d_avi": 74.4,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "sleeper",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 15.3,
+      "games": 8,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 15.3,
+      "ppr_points_per_game": 7.74,
+      "season_points": 61.9,
+      "source": "sleeper",
+      "weekly_ceiling_component": 0.0,
+      "weekly_ceiling_points": 13.9
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "WAS",
+    "normalized_name": "chig okonkwo",
+    "position": "TE",
+    "projection": {
+      "component_score": 47.799858911341694,
+      "percentile": 76.875,
+      "position_rank": 19,
+      "raw_points": 144.1,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 23489,
+      "fantasypros_id": "23982",
+      "nfl_id": "2567658",
+      "rotowire_id": 16042,
+      "sleeper_id": "8210",
+      "sportradar_id": "14e11f9b-58c8-437f-abc0-a4e4df9a7c47",
+      "sportsdata_player_id": "14e11f9b-58c8-437f-abc0-a4e4df9a7c47"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Jacory Croskey-Merritt"
     ],
     "avi_id": "AVI-00012533",
@@ -9856,78 +10020,6 @@
   {
     "active": true,
     "aliases": [
-      "Antonio Williams"
-    ],
-    "avi_id": "AVI-00013301",
-    "c_avi": 43.7,
-    "canonical_name": "Antonio Williams",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 84.83754512635379,
-      "elite_upside": 31.7,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 100.0,
-      "long_term_ceiling": 62.5,
-      "long_term_security": null,
-      "observed_production_component": 33.7,
-      "player_points": 33.7,
-      "position_liquidity": 100.0,
-      "projection": 25.15527950310559,
-      "public_market": 71.56604917125615,
-      "redraft_market": 68.24817518248175
-    },
-    "d_avi": 78.6,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "sleeper",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 33.7,
-      "games": 10,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 33.7,
-      "ppr_points_per_game": 9.38,
-      "season_points": 93.8,
-      "source": "sleeper",
-      "weekly_ceiling_component": 31.7,
-      "weekly_ceiling_points": 21.2
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "WAS",
-    "normalized_name": "antonio williams",
-    "position": "WR",
-    "projection": {
-      "component_score": 25.15527950310559,
-      "percentile": 41.92546583850932,
-      "position_rank": 94,
-      "raw_points": 75.2,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26859,
-      "fantasypros_id": "25418",
-      "nfl_id": null,
-      "rotowire_id": 19237,
-      "sleeper_id": "13301",
-      "sportradar_id": "d80b6d95-5b56-4e52-9a19-05957961f506",
-      "sportsdata_player_id": "d80b6d95-5b56-4e52-9a19-05957961f506"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Emmett Johnson"
     ],
     "avi_id": "AVI-00013337",
@@ -9935,21 +10027,21 @@
     "canonical_name": "Emmett Johnson",
     "components": {
       "age_career_horizon": null,
-      "dynasty_market": 85.58951965065502,
+      "dynasty_market": 86.02620087336244,
       "elite_upside": 80.9,
       "health_outlook": null,
       "injury_rebound_credit": 0.0,
       "league_context": 91.2,
-      "long_term_ceiling": 65.3,
+      "long_term_ceiling": 65.6,
       "long_term_security": null,
       "observed_production_component": 64.1,
       "player_points": 64.1,
       "position_liquidity": 91.2,
       "projection": 31.5,
-      "public_market": 73.89209747851811,
+      "public_market": 73.9794337230596,
       "redraft_market": 70.96774193548387
     },
-    "d_avi": 80.9,
+    "d_avi": 81.1,
     "data_sources": {
       "dynasty_market": "fantasypros",
       "injury": "fantasypros",
@@ -10144,79 +10236,6 @@
   {
     "active": true,
     "aliases": [
-      "Oronde Gadsden",
-      "Oronde Gadsden II"
-    ],
-    "avi_id": "AVI-00012493",
-    "c_avi": 30.6,
-    "canonical_name": "Oronde Gadsden",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 88.14814814814815,
-      "elite_upside": 0.0,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 66.2,
-      "long_term_ceiling": 71.8,
-      "long_term_security": null,
-      "observed_production_component": 0.0,
-      "player_points": 0.0,
-      "position_liquidity": 66.2,
-      "projection": 44.625,
-      "public_market": 85.35690235690237,
-      "redraft_market": 84.6590909090909
-    },
-    "d_avi": 73.5,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "mixed_sleeper_fantasypros",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 0.0,
-      "games": 9,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 0.0,
-      "ppr_points_per_game": 4.9,
-      "season_points": 44.1,
-      "source": "mixed_sleeper_fantasypros",
-      "weekly_ceiling_component": 0.0,
-      "weekly_ceiling_points": 10.2
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "LAC",
-    "normalized_name": "oronde gadsden",
-    "position": "TE",
-    "projection": {
-      "component_score": 44.625,
-      "percentile": 74.375,
-      "position_rank": 21,
-      "raw_points": 141.8,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 25876,
-      "fantasypros_id": "25997",
-      "nfl_id": "2574511",
-      "rotowire_id": 18481,
-      "sleeper_id": "12493",
-      "sportradar_id": "6af50530-145a-4b34-946d-ce1a7f7d3166",
-      "sportsdata_player_id": "6af50530-145a-4b34-946d-ce1a7f7d3166"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Adonai Mitchell"
     ],
     "avi_id": "AVI-00011625",
@@ -10284,78 +10303,6 @@
       "sleeper_id": "11625",
       "sportradar_id": "190dbc97-2b7c-4023-b6b0-5729b854b60b",
       "sportsdata_player_id": "190dbc97-2b7c-4023-b6b0-5729b854b60b"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Chig Okonkwo"
-    ],
-    "avi_id": "AVI-00008210",
-    "c_avi": 37.6,
-    "canonical_name": "Chig Okonkwo",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 86.66666666666667,
-      "elite_upside": 0.0,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 66.2,
-      "long_term_ceiling": 72.1,
-      "long_term_security": null,
-      "observed_production_component": 14.2,
-      "player_points": 14.2,
-      "position_liquidity": 66.2,
-      "projection": 47.799858911341694,
-      "public_market": 89.15151515151516,
-      "redraft_market": 89.77272727272727
-    },
-    "d_avi": 73.9,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "sleeper",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 14.2,
-      "games": 8,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 14.2,
-      "ppr_points_per_game": 7.74,
-      "season_points": 61.9,
-      "source": "sleeper",
-      "weekly_ceiling_component": 0.0,
-      "weekly_ceiling_points": 13.9
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "WAS",
-    "normalized_name": "chig okonkwo",
-    "position": "TE",
-    "projection": {
-      "component_score": 47.799858911341694,
-      "percentile": 76.875,
-      "position_rank": 19,
-      "raw_points": 144.1,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 23489,
-      "fantasypros_id": "23982",
-      "nfl_id": "2567658",
-      "rotowire_id": 16042,
-      "sleeper_id": "8210",
-      "sportradar_id": "14e11f9b-58c8-437f-abc0-a4e4df9a7c47",
-      "sportsdata_player_id": "14e11f9b-58c8-437f-abc0-a4e4df9a7c47"
     }
   },
   {
@@ -10436,7 +10383,7 @@
       "Mark Andrews"
     ],
     "avi_id": "AVI-00005012",
-    "c_avi": 38.3,
+    "c_avi": 38.8,
     "canonical_name": "Mark Andrews",
     "components": {
       "age_career_horizon": null,
@@ -10447,14 +10394,14 @@
       "league_context": 66.2,
       "long_term_ceiling": 76.8,
       "long_term_security": null,
-      "observed_production_component": 4.1,
-      "player_points": 4.1,
+      "observed_production_component": 5.2,
+      "player_points": 5.2,
       "position_liquidity": 66.2,
       "projection": 66.44873020207537,
       "public_market": 89.77441077441078,
       "redraft_market": 91.47727272727273
     },
-    "d_avi": 72.2,
+    "d_avi": 72.3,
     "data_sources": {
       "dynasty_market": "fantasypros",
       "injury": "fantasypros",
@@ -10465,10 +10412,10 @@
     },
     "in_season_player_points": {
       "completed_through_week": 11,
-      "component_score": 4.1,
+      "component_score": 5.2,
       "games": 11,
       "injury_rebound_credit": 0.0,
-      "observed_component_score": 4.1,
+      "observed_component_score": 5.2,
       "ppr_points_per_game": 7.12,
       "season_points": 78.3,
       "source": "sleeper",
@@ -10597,78 +10544,6 @@
   {
     "active": true,
     "aliases": [
-      "Mike Washington Jr."
-    ],
-    "avi_id": "AVI-00013305",
-    "c_avi": 29.8,
-    "canonical_name": "Mike Washington Jr.",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 82.53275109170306,
-      "elite_upside": 0.0,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 91.2,
-      "long_term_ceiling": 65.4,
-      "long_term_security": null,
-      "observed_production_component": 0.0,
-      "player_points": 0.0,
-      "position_liquidity": 91.2,
-      "projection": 36.75,
-      "public_market": 76.29149645489976,
-      "redraft_market": 74.73118279569893
-    },
-    "d_avi": 73.8,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "sleeper",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 0.0,
-      "games": 11,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 0.0,
-      "ppr_points_per_game": 4.14,
-      "season_points": 45.5,
-      "source": "sleeper",
-      "weekly_ceiling_component": 0.0,
-      "weekly_ceiling_points": 11.4
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "LVR",
-    "normalized_name": "mike washington",
-    "position": "RB",
-    "projection": {
-      "component_score": 36.75,
-      "percentile": 61.25,
-      "position_rank": 47,
-      "raw_points": 97.5,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26932,
-      "fantasypros_id": "28108",
-      "nfl_id": null,
-      "rotowire_id": 19300,
-      "sleeper_id": "13305",
-      "sportradar_id": "b783f45a-16ea-4145-9f3a-fafaa1bb0058",
-      "sportsdata_player_id": "b783f45a-16ea-4145-9f3a-fafaa1bb0058"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Romeo Doubs"
     ],
     "avi_id": "AVI-00008121",
@@ -10761,6 +10636,151 @@
   {
     "active": true,
     "aliases": [
+      "Oronde Gadsden",
+      "Oronde Gadsden II"
+    ],
+    "avi_id": "AVI-00012493",
+    "c_avi": 30.5,
+    "canonical_name": "Oronde Gadsden",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 86.66666666666667,
+      "elite_upside": 0.0,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 66.2,
+      "long_term_ceiling": 70.9,
+      "long_term_security": null,
+      "observed_production_component": 0.0,
+      "player_points": 0.0,
+      "position_liquidity": 66.2,
+      "projection": 44.625,
+      "public_market": 85.06060606060606,
+      "redraft_market": 84.6590909090909
+    },
+    "d_avi": 72.6,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "mixed_sleeper_fantasypros",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 0.0,
+      "games": 10,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 0.0,
+      "ppr_points_per_game": 4.41,
+      "season_points": 44.1,
+      "source": "mixed_sleeper_fantasypros",
+      "weekly_ceiling_component": 0.0,
+      "weekly_ceiling_points": 10.2
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "LAC",
+    "normalized_name": "oronde gadsden",
+    "position": "TE",
+    "projection": {
+      "component_score": 44.625,
+      "percentile": 74.375,
+      "position_rank": 21,
+      "raw_points": 141.8,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 25876,
+      "fantasypros_id": "25997",
+      "nfl_id": "2574511",
+      "rotowire_id": 18481,
+      "sleeper_id": "12493",
+      "sportradar_id": "6af50530-145a-4b34-946d-ce1a7f7d3166",
+      "sportsdata_player_id": "6af50530-145a-4b34-946d-ce1a7f7d3166"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Mike Washington Jr."
+    ],
+    "avi_id": "AVI-00013305",
+    "c_avi": 29.7,
+    "canonical_name": "Mike Washington Jr.",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 82.53275109170306,
+      "elite_upside": 0.0,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 91.2,
+      "long_term_ceiling": 65.4,
+      "long_term_security": null,
+      "observed_production_component": 0.0,
+      "player_points": 0.0,
+      "position_liquidity": 91.2,
+      "projection": 36.75,
+      "public_market": 75.86138892801803,
+      "redraft_market": 74.19354838709677
+    },
+    "d_avi": 73.7,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "sleeper",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 0.0,
+      "games": 11,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 0.0,
+      "ppr_points_per_game": 4.14,
+      "season_points": 45.5,
+      "source": "sleeper",
+      "weekly_ceiling_component": 0.0,
+      "weekly_ceiling_points": 11.4
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "LVR",
+    "normalized_name": "mike washington",
+    "position": "RB",
+    "projection": {
+      "component_score": 36.75,
+      "percentile": 61.25,
+      "position_rank": 47,
+      "raw_points": 97.5,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26932,
+      "fantasypros_id": "28108",
+      "nfl_id": null,
+      "rotowire_id": 19300,
+      "sleeper_id": "13305",
+      "sportradar_id": "b783f45a-16ea-4145-9f3a-fafaa1bb0058",
+      "sportsdata_player_id": "b783f45a-16ea-4145-9f3a-fafaa1bb0058"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Eli Stowers"
     ],
     "avi_id": "AVI-00013349",
@@ -10794,10 +10814,10 @@
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 3,
+      "games": 4,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
-      "ppr_points_per_game": 2.77,
+      "ppr_points_per_game": 2.08,
       "season_points": 8.3,
       "source": "mixed_sleeper_fantasypros",
       "weekly_ceiling_component": 0.0,
@@ -10929,7 +10949,7 @@
     "d_avi": 72.3,
     "data_sources": {
       "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
+      "injury": "sleeper",
       "news": "fantasypros",
       "production": "mixed_sleeper_fantasypros",
       "projection": "sleeper",
@@ -11049,120 +11069,28 @@
   {
     "active": true,
     "aliases": [
-      "Juwan Johnson"
+      "AJ Barner"
     ],
-    "avi_id": "AVI-00007002",
-    "c_avi": 41.4,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 41.4,
-      "amount": -1.5,
-      "availability_ceiling": 96.7,
-      "base_c_avi": 42.9,
-      "championship_horizon_end_week": 17,
-      "current_week": 12,
-      "expected_missed_weeks": 0.2,
-      "missed_games_beyond_bye": 0,
-      "ongoing_injury_risk_points": 1.5,
-      "policy": "Current verified injury designations carry a bounded risk discount based on missed 2026 games beyond one possible bye; fully cleared players have zero risk discount. An additional hard future-availability ceiling remains in force.",
-      "projection_aware": true,
-      "reason_code": "questionable",
-      "status": "questionable active",
-      "status_source": "sleeper"
-    },
-    "canonical_name": "Juwan Johnson",
+    "avi_id": "AVI-00011603",
+    "c_avi": 35.9,
+    "canonical_name": "AJ Barner",
     "components": {
       "age_career_horizon": null,
-      "base_c_avi_before_availability_adjustment": 42.9,
-      "c_avi_availability_adjustment": -1.5,
-      "c_avi_availability_ceiling": 96.7,
       "dynasty_market": 84.44444444444444,
-      "elite_upside": 52.2,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 66.2,
-      "long_term_ceiling": 69.2,
-      "long_term_security": null,
-      "observed_production_component": 16.3,
-      "ongoing_injury_risk_points": 1.5,
-      "player_points": 16.3,
-      "position_liquidity": 66.2,
-      "projection": 43.875,
-      "public_market": 90.52525252525253,
-      "redraft_market": 92.04545454545455
-    },
-    "d_avi": 73.0,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "sleeper",
-      "news": "fantasypros",
-      "production": "mixed_sleeper_fantasypros",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 16.3,
-      "games": 10,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 16.3,
-      "ppr_points_per_game": 8.37,
-      "season_points": 83.7,
-      "source": "mixed_sleeper_fantasypros",
-      "weekly_ceiling_component": 52.2,
-      "weekly_ceiling_points": 23.3
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "NO",
-    "normalized_name": "juwan johnson",
-    "position": "TE",
-    "projection": {
-      "component_score": 43.875,
-      "percentile": 73.125,
-      "position_rank": 22,
-      "raw_points": 140.9,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": 3929645,
-      "fantasy_data_id": 21738,
-      "fantasypros_id": "19562",
-      "nfl_id": "2564676",
-      "rotowire_id": 14630,
-      "sleeper_id": "7002",
-      "sportradar_id": "0226b03b-f91d-4223-9813-9fcd2e9c3acc",
-      "sportsdata_player_id": "0226b03b-f91d-4223-9813-9fcd2e9c3acc"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Hunter Henry"
-    ],
-    "avi_id": "AVI-00003214",
-    "c_avi": 46.9,
-    "canonical_name": "Hunter Henry",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 82.22222222222223,
       "elite_upside": 0.0,
       "health_outlook": null,
       "injury_rebound_credit": 0.0,
       "league_context": 66.2,
-      "long_term_ceiling": 72.4,
+      "long_term_ceiling": 70.0,
       "long_term_security": null,
-      "observed_production_component": 32.6,
-      "player_points": 32.6,
+      "observed_production_component": 11.9,
+      "player_points": 11.9,
       "position_liquidity": 66.2,
-      "projection": 56.1449344620426,
-      "public_market": 87.8080808080808,
-      "redraft_market": 89.20454545454545
+      "projection": 45.81191971600218,
+      "public_market": 87.34343434343434,
+      "redraft_market": 88.06818181818181
     },
-    "d_avi": 72.8,
+    "d_avi": 72.1,
     "data_sources": {
       "dynasty_market": "fantasypros",
       "injury": "fantasypros",
@@ -11173,10 +11101,82 @@
     },
     "in_season_player_points": {
       "completed_through_week": 11,
-      "component_score": 32.6,
+      "component_score": 11.9,
       "games": 10,
       "injury_rebound_credit": 0.0,
-      "observed_component_score": 32.6,
+      "observed_component_score": 11.9,
+      "ppr_points_per_game": 6.77,
+      "season_points": 67.7,
+      "source": "sleeper",
+      "weekly_ceiling_component": 0.0,
+      "weekly_ceiling_points": 15.0
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "SEA",
+    "normalized_name": "aj barner",
+    "position": "TE",
+    "projection": {
+      "component_score": 45.81191971600218,
+      "percentile": 75.625,
+      "position_rank": 20,
+      "raw_points": 142.4,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 25106,
+      "fantasypros_id": "26335",
+      "nfl_id": "2572513",
+      "rotowire_id": 17811,
+      "sleeper_id": "11603",
+      "sportradar_id": "e96127b4-d381-43d4-b0ae-8790c706756f",
+      "sportsdata_player_id": "e96127b4-d381-43d4-b0ae-8790c706756f"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Hunter Henry"
+    ],
+    "avi_id": "AVI-00003214",
+    "c_avi": 47.3,
+    "canonical_name": "Hunter Henry",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 82.22222222222223,
+      "elite_upside": 0.0,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 66.2,
+      "long_term_ceiling": 72.4,
+      "long_term_security": null,
+      "observed_production_component": 33.7,
+      "player_points": 33.7,
+      "position_liquidity": 66.2,
+      "projection": 56.1449344620426,
+      "public_market": 87.8080808080808,
+      "redraft_market": 89.20454545454545
+    },
+    "d_avi": 72.9,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "sleeper",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 33.7,
+      "games": 10,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 33.7,
       "ppr_points_per_game": 8.43,
       "season_points": 84.3,
       "source": "sleeper",
@@ -11280,6 +11280,98 @@
       "sleeper_id": "5872",
       "sportradar_id": "628a6a0a-4fde-4024-8d7c-28674953d5af",
       "sportsdata_player_id": "628a6a0a-4fde-4024-8d7c-28674953d5af"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Juwan Johnson"
+    ],
+    "avi_id": "AVI-00007002",
+    "c_avi": 41.4,
+    "c_avi_availability_adjustment": {
+      "adjusted_c_avi": 41.4,
+      "amount": -1.5,
+      "availability_ceiling": 96.7,
+      "base_c_avi": 42.9,
+      "championship_horizon_end_week": 17,
+      "current_week": 12,
+      "expected_missed_weeks": 0.2,
+      "missed_games_beyond_bye": 0,
+      "ongoing_injury_risk_points": 1.5,
+      "policy": "Current verified injury designations carry a bounded risk discount based on missed 2026 games beyond one possible bye; fully cleared players have zero risk discount. An additional hard future-availability ceiling remains in force.",
+      "projection_aware": true,
+      "reason_code": "questionable",
+      "status": "questionable active",
+      "status_source": "sleeper"
+    },
+    "canonical_name": "Juwan Johnson",
+    "components": {
+      "age_career_horizon": null,
+      "base_c_avi_before_availability_adjustment": 42.9,
+      "c_avi_availability_adjustment": -1.5,
+      "c_avi_availability_ceiling": 96.7,
+      "dynasty_market": 83.70370370370371,
+      "elite_upside": 52.2,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 66.2,
+      "long_term_ceiling": 68.8,
+      "long_term_security": null,
+      "observed_production_component": 16.3,
+      "ongoing_injury_risk_points": 1.5,
+      "player_points": 16.3,
+      "position_liquidity": 66.2,
+      "projection": 43.875,
+      "public_market": 90.37710437710439,
+      "redraft_market": 92.04545454545455
+    },
+    "d_avi": 72.5,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "sleeper",
+      "news": "fantasypros",
+      "production": "mixed_sleeper_fantasypros",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 16.3,
+      "games": 10,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 16.3,
+      "ppr_points_per_game": 8.37,
+      "season_points": 83.7,
+      "source": "mixed_sleeper_fantasypros",
+      "weekly_ceiling_component": 52.2,
+      "weekly_ceiling_points": 23.3
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "NO",
+    "normalized_name": "juwan johnson",
+    "position": "TE",
+    "projection": {
+      "component_score": 43.875,
+      "percentile": 73.125,
+      "position_rank": 22,
+      "raw_points": 140.9,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": 3929645,
+      "fantasy_data_id": 21738,
+      "fantasypros_id": "19562",
+      "nfl_id": "2564676",
+      "rotowire_id": 14630,
+      "sleeper_id": "7002",
+      "sportradar_id": "0226b03b-f91d-4223-9813-9fcd2e9c3acc",
+      "sportsdata_player_id": "0226b03b-f91d-4223-9813-9fcd2e9c3acc"
     }
   },
   {
@@ -11424,78 +11516,6 @@
       "sleeper_id": "13293",
       "sportradar_id": "ea285842-4fdf-4b27-bd73-6bfd916c6bc5",
       "sportsdata_player_id": "ea285842-4fdf-4b27-bd73-6bfd916c6bc5"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "AJ Barner"
-    ],
-    "avi_id": "AVI-00011603",
-    "c_avi": 35.5,
-    "canonical_name": "AJ Barner",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 83.70370370370371,
-      "elite_upside": 0.0,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 66.2,
-      "long_term_ceiling": 69.5,
-      "long_term_security": null,
-      "observed_production_component": 10.9,
-      "player_points": 10.9,
-      "position_liquidity": 66.2,
-      "projection": 45.81191971600218,
-      "public_market": 87.1952861952862,
-      "redraft_market": 88.06818181818181
-    },
-    "d_avi": 71.6,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "sleeper",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 10.9,
-      "games": 10,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 10.9,
-      "ppr_points_per_game": 6.77,
-      "season_points": 67.7,
-      "source": "sleeper",
-      "weekly_ceiling_component": 0.0,
-      "weekly_ceiling_points": 15.0
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "SEA",
-    "normalized_name": "aj barner",
-    "position": "TE",
-    "projection": {
-      "component_score": 45.81191971600218,
-      "percentile": 75.625,
-      "position_rank": 20,
-      "raw_points": 142.4,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 25106,
-      "fantasypros_id": "26335",
-      "nfl_id": "2572513",
-      "rotowire_id": 17811,
-      "sleeper_id": "11603",
-      "sportradar_id": "e96127b4-d381-43d4-b0ae-8790c706756f",
-      "sportsdata_player_id": "e96127b4-d381-43d4-b0ae-8790c706756f"
     }
   },
   {
@@ -11861,6 +11881,78 @@
   {
     "active": true,
     "aliases": [
+      "Dalton Schultz"
+    ],
+    "avi_id": "AVI-00005001",
+    "c_avi": 49.4,
+    "canonical_name": "Dalton Schultz",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 80.74074074074075,
+      "elite_upside": 82.6,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 66.2,
+      "long_term_ceiling": 70.5,
+      "long_term_security": null,
+      "observed_production_component": 19.6,
+      "player_points": 19.6,
+      "position_liquidity": 66.2,
+      "projection": 53.5016156926998,
+      "public_market": 88.87542087542089,
+      "redraft_market": 90.9090909090909
+    },
+    "d_avi": 72.2,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "sleeper",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 19.6,
+      "games": 10,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 19.6,
+      "ppr_points_per_game": 8.16,
+      "season_points": 81.6,
+      "source": "sleeper",
+      "weekly_ceiling_component": 82.6,
+      "weekly_ceiling_points": 26.0
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "HOU",
+    "normalized_name": "dalton schultz",
+    "position": "TE",
+    "projection": {
+      "component_score": 53.5016156926998,
+      "percentile": 78.125,
+      "position_rank": 18,
+      "raw_points": 150.9,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": 3117256,
+      "fantasy_data_id": 19920,
+      "fantasypros_id": "17349",
+      "nfl_id": "2560866",
+      "rotowire_id": 12514,
+      "sleeper_id": "5001",
+      "sportradar_id": "8caec1b4-e0b6-4a84-b8c8-617d6e91ef6a",
+      "sportsdata_player_id": "8caec1b4-e0b6-4a84-b8c8-617d6e91ef6a"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Stefon Diggs"
     ],
     "avi_id": "AVI-00002449",
@@ -12097,78 +12189,6 @@
   {
     "active": true,
     "aliases": [
-      "Dalton Schultz"
-    ],
-    "avi_id": "AVI-00005001",
-    "c_avi": 48.9,
-    "canonical_name": "Dalton Schultz",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 80.74074074074075,
-      "elite_upside": 82.6,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 66.2,
-      "long_term_ceiling": 70.5,
-      "long_term_security": null,
-      "observed_production_component": 18.5,
-      "player_points": 18.5,
-      "position_liquidity": 66.2,
-      "projection": 53.5016156926998,
-      "public_market": 88.42087542087543,
-      "redraft_market": 90.3409090909091
-    },
-    "d_avi": 72.2,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "sleeper",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 18.5,
-      "games": 10,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 18.5,
-      "ppr_points_per_game": 8.16,
-      "season_points": 81.6,
-      "source": "sleeper",
-      "weekly_ceiling_component": 82.6,
-      "weekly_ceiling_points": 26.0
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "HOU",
-    "normalized_name": "dalton schultz",
-    "position": "TE",
-    "projection": {
-      "component_score": 53.5016156926998,
-      "percentile": 78.125,
-      "position_rank": 18,
-      "raw_points": 150.9,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": 3117256,
-      "fantasy_data_id": 19920,
-      "fantasypros_id": "17349",
-      "nfl_id": "2560866",
-      "rotowire_id": 12514,
-      "sleeper_id": "5001",
-      "sportradar_id": "8caec1b4-e0b6-4a84-b8c8-617d6e91ef6a",
-      "sportsdata_player_id": "8caec1b4-e0b6-4a84-b8c8-617d6e91ef6a"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Dylan Sampson"
     ],
     "avi_id": "AVI-00012469",
@@ -12331,8 +12351,8 @@
       "player_points": 3.1,
       "position_liquidity": 91.2,
       "projection": 34.25,
-      "public_market": 69.65863736676528,
-      "redraft_market": 67.20430107526882
+      "public_market": 70.08874489364699,
+      "redraft_market": 67.74193548387096
     },
     "d_avi": 71.7,
     "data_sources": {
@@ -12552,7 +12572,7 @@
       "Gunnar Helm"
     ],
     "avi_id": "AVI-00012502",
-    "c_avi": 33.3,
+    "c_avi": 33.7,
     "canonical_name": "Gunnar Helm",
     "components": {
       "age_career_horizon": null,
@@ -12563,8 +12583,8 @@
       "league_context": 66.2,
       "long_term_ceiling": 66.8,
       "long_term_security": null,
-      "observed_production_component": 8.2,
-      "player_points": 8.2,
+      "observed_production_component": 9.2,
+      "player_points": 9.2,
       "position_liquidity": 66.2,
       "projection": 42.375,
       "public_market": 85.3872053872054,
@@ -12581,10 +12601,10 @@
     },
     "in_season_player_points": {
       "completed_through_week": 11,
-      "component_score": 8.2,
+      "component_score": 9.2,
       "games": 10,
       "injury_rebound_credit": 0.0,
-      "observed_component_score": 8.2,
+      "observed_component_score": 9.2,
       "ppr_points_per_game": 4.67,
       "season_points": 46.7,
       "source": "mixed_sleeper_fantasypros",
@@ -13352,7 +13372,7 @@
       "Keon Coleman"
     ],
     "avi_id": "AVI-00011637",
-    "c_avi": 34.1,
+    "c_avi": 34.2,
     "canonical_name": "Keon Coleman",
     "components": {
       "age_career_horizon": null,
@@ -13367,8 +13387,8 @@
       "player_points": 4.3,
       "position_liquidity": 100.0,
       "projection": 28.509316770186334,
-      "public_market": 69.10485124772721,
-      "redraft_market": 67.51824817518248
+      "public_market": 69.39682205064692,
+      "redraft_market": 67.88321167883211
     },
     "d_avi": 71.2,
     "data_sources": {
@@ -13488,6 +13508,98 @@
       "sleeper_id": "4892",
       "sportradar_id": "30198d30-9769-4e10-ac86-b4c91d940802",
       "sportsdata_player_id": "30198d30-9769-4e10-ac86-b4c91d940802"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Keaton Mitchell"
+    ],
+    "avi_id": "AVI-00009511",
+    "c_avi": 27.9,
+    "c_avi_availability_adjustment": {
+      "adjusted_c_avi": 27.9,
+      "amount": -1.5,
+      "availability_ceiling": 96.7,
+      "base_c_avi": 29.4,
+      "championship_horizon_end_week": 17,
+      "current_week": 12,
+      "expected_missed_weeks": 0.2,
+      "missed_games_beyond_bye": 0,
+      "ongoing_injury_risk_points": 1.5,
+      "policy": "Current verified injury designations carry a bounded risk discount based on missed 2026 games beyond one possible bye; fully cleared players have zero risk discount. An additional hard future-availability ceiling remains in force.",
+      "projection_aware": true,
+      "reason_code": "questionable",
+      "status": "questionable active",
+      "status_source": "sleeper"
+    },
+    "canonical_name": "Keaton Mitchell",
+    "components": {
+      "age_career_horizon": null,
+      "base_c_avi_before_availability_adjustment": 29.4,
+      "c_avi_availability_adjustment": -1.5,
+      "c_avi_availability_ceiling": 96.7,
+      "dynasty_market": 75.54585152838428,
+      "elite_upside": 0.0,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 91.2,
+      "long_term_ceiling": 60.8,
+      "long_term_security": null,
+      "observed_production_component": 0.0,
+      "ongoing_injury_risk_points": 1.5,
+      "player_points": 0.0,
+      "position_liquidity": 91.2,
+      "projection": 36.25,
+      "public_market": 74.89411654223599,
+      "redraft_market": 74.73118279569893
+    },
+    "d_avi": 69.0,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "sleeper",
+      "news": "fantasypros",
+      "production": "sleeper",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 0.0,
+      "games": 10,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 0.0,
+      "ppr_points_per_game": 5.21,
+      "season_points": 52.1,
+      "source": "sleeper",
+      "weekly_ceiling_component": 0.0,
+      "weekly_ceiling_points": 13.7
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "LAC",
+    "normalized_name": "keaton mitchell",
+    "position": "RB",
+    "projection": {
+      "component_score": 36.25,
+      "percentile": 60.416666666666664,
+      "position_rank": 48,
+      "raw_points": 96.9,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 24214,
+      "fantasypros_id": "25360",
+      "nfl_id": "2570428",
+      "rotowire_id": 16810,
+      "sleeper_id": "9511",
+      "sportradar_id": "16341d80-f01f-11ed-97df-a94b89ac5704",
+      "sportsdata_player_id": "16341d80-f01f-11ed-97df-a94b89ac5704"
     }
   },
   {
@@ -13632,98 +13744,6 @@
       "sleeper_id": "7600",
       "sportradar_id": "04f0fefe-9d9d-44f5-94ea-6df2a42df3c6",
       "sportsdata_player_id": "04f0fefe-9d9d-44f5-94ea-6df2a42df3c6"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Keaton Mitchell"
-    ],
-    "avi_id": "AVI-00009511",
-    "c_avi": 27.9,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 27.9,
-      "amount": -1.5,
-      "availability_ceiling": 96.7,
-      "base_c_avi": 29.4,
-      "championship_horizon_end_week": 17,
-      "current_week": 12,
-      "expected_missed_weeks": 0.2,
-      "missed_games_beyond_bye": 0,
-      "ongoing_injury_risk_points": 1.5,
-      "policy": "Current verified injury designations carry a bounded risk discount based on missed 2026 games beyond one possible bye; fully cleared players have zero risk discount. An additional hard future-availability ceiling remains in force.",
-      "projection_aware": true,
-      "reason_code": "questionable",
-      "status": "questionable active",
-      "status_source": "sleeper"
-    },
-    "canonical_name": "Keaton Mitchell",
-    "components": {
-      "age_career_horizon": null,
-      "base_c_avi_before_availability_adjustment": 29.4,
-      "c_avi_availability_adjustment": -1.5,
-      "c_avi_availability_ceiling": 96.7,
-      "dynasty_market": 75.54585152838428,
-      "elite_upside": 0.0,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 91.2,
-      "long_term_ceiling": 60.8,
-      "long_term_security": null,
-      "observed_production_component": 0.0,
-      "ongoing_injury_risk_points": 1.5,
-      "player_points": 0.0,
-      "position_liquidity": 91.2,
-      "projection": 36.25,
-      "public_market": 74.46400901535426,
-      "redraft_market": 74.19354838709677
-    },
-    "d_avi": 69.0,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "sleeper",
-      "news": "fantasypros",
-      "production": "sleeper",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 0.0,
-      "games": 10,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 0.0,
-      "ppr_points_per_game": 5.21,
-      "season_points": 52.1,
-      "source": "sleeper",
-      "weekly_ceiling_component": 0.0,
-      "weekly_ceiling_points": 13.7
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "LAC",
-    "normalized_name": "keaton mitchell",
-    "position": "RB",
-    "projection": {
-      "component_score": 36.25,
-      "percentile": 60.416666666666664,
-      "position_rank": 48,
-      "raw_points": 96.9,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 24214,
-      "fantasypros_id": "25360",
-      "nfl_id": "2570428",
-      "rotowire_id": 16810,
-      "sleeper_id": "9511",
-      "sportradar_id": "16341d80-f01f-11ed-97df-a94b89ac5704",
-      "sportsdata_player_id": "16341d80-f01f-11ed-97df-a94b89ac5704"
     }
   },
   {
@@ -13891,8 +13911,8 @@
       "player_points": 40.5,
       "position_liquidity": 100.0,
       "projection": 37.08074534161491,
-      "public_market": 77.2173179793934,
-      "redraft_market": 78.83211678832117
+      "public_market": 77.5092887823131,
+      "redraft_market": 79.1970802919708
     },
     "d_avi": 71.7,
     "data_sources": {
@@ -14129,78 +14149,6 @@
   {
     "active": true,
     "aliases": [
-      "Mason Taylor"
-    ],
-    "avi_id": "AVI-00012498",
-    "c_avi": 35.3,
-    "canonical_name": "Mason Taylor",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 79.25925925925925,
-      "elite_upside": 73.9,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 66.2,
-      "long_term_ceiling": 63.2,
-      "long_term_security": null,
-      "observed_production_component": 0.0,
-      "player_points": 0.0,
-      "position_liquidity": 66.2,
-      "projection": 36.375,
-      "public_market": 81.3063973063973,
-      "redraft_market": 81.81818181818181
-    },
-    "d_avi": 68.4,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "mixed_sleeper_fantasypros",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 0.0,
-      "games": 9,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 0.0,
-      "ppr_points_per_game": 6.36,
-      "season_points": 57.2,
-      "source": "mixed_sleeper_fantasypros",
-      "weekly_ceiling_component": 73.9,
-      "weekly_ceiling_points": 25.2
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "NYJ",
-    "normalized_name": "mason taylor",
-    "position": "TE",
-    "projection": {
-      "component_score": 36.375,
-      "percentile": 60.625,
-      "position_rank": 32,
-      "raw_points": 96.4,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 25963,
-      "fantasypros_id": "26005",
-      "nfl_id": "2574451",
-      "rotowire_id": 18535,
-      "sleeper_id": "12498",
-      "sportradar_id": "07d2be51-73c2-4f26-81d5-bc6e9b88bff2",
-      "sportsdata_player_id": "07d2be51-73c2-4f26-81d5-bc6e9b88bff2"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Alvin Kamara"
     ],
     "avi_id": "AVI-00004035",
@@ -14432,98 +14380,6 @@
       "sleeper_id": "12522",
       "sportradar_id": "3c76cab3-3df2-43dd-acaa-57e055bd32d0",
       "sportsdata_player_id": "3c76cab3-3df2-43dd-acaa-57e055bd32d0"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Tank Dell"
-    ],
-    "avi_id": "AVI-00009502",
-    "c_avi": 24.3,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 24.3,
-      "amount": -9.0,
-      "availability_ceiling": 33.3,
-      "base_c_avi": 33.3,
-      "championship_horizon_end_week": 17,
-      "current_week": 12,
-      "expected_missed_weeks": 4.0,
-      "missed_games_beyond_bye": 6,
-      "ongoing_injury_risk_points": 9.0,
-      "policy": "Current verified injury designations carry a bounded risk discount based on missed 2026 games beyond one possible bye; fully cleared players have zero risk discount. An additional hard future-availability ceiling remains in force.",
-      "projection_aware": true,
-      "reason_code": "injured_reserve",
-      "status": "ir ir",
-      "status_source": "fantasypros"
-    },
-    "canonical_name": "Tank Dell",
-    "components": {
-      "age_career_horizon": null,
-      "base_c_avi_before_availability_adjustment": 33.3,
-      "c_avi_availability_adjustment": -9.0,
-      "c_avi_availability_ceiling": 33.3,
-      "dynasty_market": 74.72924187725631,
-      "elite_upside": 23.0,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 100.0,
-      "long_term_ceiling": 53.2,
-      "long_term_security": null,
-      "observed_production_component": 16.4,
-      "ongoing_injury_risk_points": 9.0,
-      "player_points": 16.4,
-      "position_liquidity": 100.0,
-      "projection": 17.32919254658385,
-      "public_market": 67.50059290099871,
-      "redraft_market": 65.69343065693431
-    },
-    "d_avi": 68.7,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "sleeper",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 16.4,
-      "games": 4,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 16.4,
-      "ppr_points_per_game": 9.2,
-      "season_points": 36.8,
-      "source": "sleeper",
-      "weekly_ceiling_component": 23.0,
-      "weekly_ceiling_points": 20.5
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "HOU",
-    "normalized_name": "tank dell",
-    "position": "WR",
-    "projection": {
-      "component_score": 17.32919254658385,
-      "percentile": 28.88198757763975,
-      "position_rank": 115,
-      "raw_points": 51.9,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 24176,
-      "fantasypros_id": "25361",
-      "nfl_id": "2569813",
-      "rotowire_id": 16935,
-      "sleeper_id": "9502",
-      "sportradar_id": "25e7b423-f716-4d1a-9623-cee3e7d822ab",
-      "sportsdata_player_id": "25e7b423-f716-4d1a-9623-cee3e7d822ab"
     }
   },
   {
@@ -14780,6 +14636,170 @@
       "sleeper_id": "9486",
       "sportradar_id": "ea3d1393-8c3b-4e81-a519-f636d28d692e",
       "sportsdata_player_id": "ea3d1393-8c3b-4e81-a519-f636d28d692e"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Tank Dell"
+    ],
+    "avi_id": "AVI-00009502",
+    "c_avi": 24.2,
+    "c_avi_availability_adjustment": {
+      "adjusted_c_avi": 24.2,
+      "amount": -9.0,
+      "availability_ceiling": 33.3,
+      "base_c_avi": 33.2,
+      "championship_horizon_end_week": 17,
+      "current_week": 12,
+      "expected_missed_weeks": 4.0,
+      "missed_games_beyond_bye": 6,
+      "ongoing_injury_risk_points": 9.0,
+      "policy": "Current verified injury designations carry a bounded risk discount based on missed 2026 games beyond one possible bye; fully cleared players have zero risk discount. An additional hard future-availability ceiling remains in force.",
+      "projection_aware": true,
+      "reason_code": "injured_reserve",
+      "status": "ir ir",
+      "status_source": "fantasypros"
+    },
+    "canonical_name": "Tank Dell",
+    "components": {
+      "age_career_horizon": null,
+      "base_c_avi_before_availability_adjustment": 33.2,
+      "c_avi_availability_adjustment": -9.0,
+      "c_avi_availability_ceiling": 33.3,
+      "dynasty_market": 74.72924187725631,
+      "elite_upside": 23.0,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 100.0,
+      "long_term_ceiling": 53.2,
+      "long_term_security": null,
+      "observed_production_component": 16.4,
+      "ongoing_injury_risk_points": 9.0,
+      "player_points": 16.4,
+      "position_liquidity": 100.0,
+      "projection": 17.32919254658385,
+      "public_market": 66.91665129515928,
+      "redraft_market": 64.96350364963503
+    },
+    "d_avi": 68.7,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "sleeper",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 16.4,
+      "games": 4,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 16.4,
+      "ppr_points_per_game": 9.2,
+      "season_points": 36.8,
+      "source": "sleeper",
+      "weekly_ceiling_component": 23.0,
+      "weekly_ceiling_points": 20.5
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "HOU",
+    "normalized_name": "tank dell",
+    "position": "WR",
+    "projection": {
+      "component_score": 17.32919254658385,
+      "percentile": 28.88198757763975,
+      "position_rank": 115,
+      "raw_points": 51.9,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 24176,
+      "fantasypros_id": "25361",
+      "nfl_id": "2569813",
+      "rotowire_id": 16935,
+      "sleeper_id": "9502",
+      "sportradar_id": "25e7b423-f716-4d1a-9623-cee3e7d822ab",
+      "sportsdata_player_id": "25e7b423-f716-4d1a-9623-cee3e7d822ab"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Mason Taylor"
+    ],
+    "avi_id": "AVI-00012498",
+    "c_avi": 35.7,
+    "canonical_name": "Mason Taylor",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 78.51851851851852,
+      "elite_upside": 73.9,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 66.2,
+      "long_term_ceiling": 62.7,
+      "long_term_security": null,
+      "observed_production_component": 1.1,
+      "player_points": 1.1,
+      "position_liquidity": 66.2,
+      "projection": 36.375,
+      "public_market": 81.15824915824916,
+      "redraft_market": 81.81818181818181
+    },
+    "d_avi": 68.0,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "mixed_sleeper_fantasypros",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 1.1,
+      "games": 9,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 1.1,
+      "ppr_points_per_game": 6.36,
+      "season_points": 57.2,
+      "source": "mixed_sleeper_fantasypros",
+      "weekly_ceiling_component": 73.9,
+      "weekly_ceiling_points": 25.2
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "NYJ",
+    "normalized_name": "mason taylor",
+    "position": "TE",
+    "projection": {
+      "component_score": 36.375,
+      "percentile": 60.625,
+      "position_rank": 32,
+      "raw_points": 96.4,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 25963,
+      "fantasypros_id": "26005",
+      "nfl_id": "2574451",
+      "rotowire_id": 18535,
+      "sleeper_id": "12498",
+      "sportradar_id": "07d2be51-73c2-4f26-81d5-bc6e9b88bff2",
+      "sportsdata_player_id": "07d2be51-73c2-4f26-81d5-bc6e9b88bff2"
     }
   },
   {
@@ -15891,8 +15911,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 30.74534161490683,
-      "public_market": 65.76141663811958,
-      "redraft_market": 64.96350364963503
+      "public_market": 66.05338744103929,
+      "redraft_market": 65.32846715328468
     },
     "d_avi": 66.0,
     "data_sources": {
@@ -15963,8 +15983,8 @@
       "player_points": 10.3,
       "position_liquidity": 100.0,
       "projection": 17.70186335403727,
-      "public_market": 67.0705420432686,
-      "redraft_market": 66.05839416058394
+      "public_market": 66.7785712403489,
+      "redraft_market": 65.69343065693431
     },
     "d_avi": 67.2,
     "data_sources": {
@@ -16050,10 +16070,10 @@
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 7,
+      "games": 8,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
-      "ppr_points_per_game": 2.86,
+      "ppr_points_per_game": 2.5,
       "season_points": 20.0,
       "source": "mixed_sleeper_fantasypros",
       "weekly_ceiling_component": 0.0,
@@ -16161,10 +16181,82 @@
   {
     "active": true,
     "aliases": [
+      "Eli Raridon"
+    ],
+    "avi_id": "AVI-00013421",
+    "c_avi": 21.9,
+    "canonical_name": "Eli Raridon",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 79.25925925925925,
+      "elite_upside": 0.0,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 66.2,
+      "long_term_ceiling": 55.6,
+      "long_term_security": null,
+      "observed_production_component": 0.0,
+      "player_points": 0.0,
+      "position_liquidity": 66.2,
+      "projection": 16.125,
+      "public_market": 74.94276094276094,
+      "redraft_market": 73.86363636363636
+    },
+    "d_avi": 65.6,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "sleeper",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 0.0,
+      "games": 9,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 0.0,
+      "ppr_points_per_game": 5.79,
+      "season_points": 52.1,
+      "source": "sleeper",
+      "weekly_ceiling_component": 0.0,
+      "weekly_ceiling_points": 14.6
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "NE",
+    "normalized_name": "eli raridon",
+    "position": "TE",
+    "projection": {
+      "component_score": 16.125,
+      "percentile": 26.875,
+      "position_rank": 59,
+      "raw_points": 33.0,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 26863,
+      "fantasypros_id": "28154",
+      "nfl_id": null,
+      "rotowire_id": 19348,
+      "sleeper_id": "13421",
+      "sportradar_id": "aa71e3dc-07e5-4f99-ad1a-2f95ced64c28",
+      "sportsdata_player_id": "aa71e3dc-07e5-4f99-ad1a-2f95ced64c28"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Kaleb Johnson"
     ],
     "avi_id": "AVI-00012504",
-    "c_avi": 23.8,
+    "c_avi": 23.7,
     "canonical_name": "Kaleb Johnson",
     "components": {
       "age_career_horizon": null,
@@ -16179,8 +16271,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 19.749999999999996,
-      "public_market": 64.82039723904776,
-      "redraft_market": 62.903225806451616
+      "public_market": 64.39028971216604,
+      "redraft_market": 62.365591397849464
     },
     "d_avi": 65.8,
     "data_sources": {
@@ -16613,78 +16705,6 @@
   {
     "active": true,
     "aliases": [
-      "Eli Raridon"
-    ],
-    "avi_id": "AVI-00013421",
-    "c_avi": 21.9,
-    "canonical_name": "Eli Raridon",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 78.51851851851852,
-      "elite_upside": 0.0,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 66.2,
-      "long_term_ceiling": 55.1,
-      "long_term_security": null,
-      "observed_production_component": 0.0,
-      "player_points": 0.0,
-      "position_liquidity": 66.2,
-      "projection": 16.125,
-      "public_market": 74.7946127946128,
-      "redraft_market": 73.86363636363636
-    },
-    "d_avi": 65.1,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "sleeper",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 0.0,
-      "games": 9,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 0.0,
-      "ppr_points_per_game": 5.79,
-      "season_points": 52.1,
-      "source": "sleeper",
-      "weekly_ceiling_component": 0.0,
-      "weekly_ceiling_points": 14.6
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "NE",
-    "normalized_name": "eli raridon",
-    "position": "TE",
-    "projection": {
-      "component_score": 16.125,
-      "percentile": 26.875,
-      "position_rank": 59,
-      "raw_points": 33.0,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 26863,
-      "fantasypros_id": "28154",
-      "nfl_id": null,
-      "rotowire_id": 19348,
-      "sleeper_id": "13421",
-      "sportradar_id": "aa71e3dc-07e5-4f99-ad1a-2f95ced64c28",
-      "sportsdata_player_id": "aa71e3dc-07e5-4f99-ad1a-2f95ced64c28"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Theo Johnson"
     ],
     "avi_id": "AVI-00011597",
@@ -17031,8 +17051,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 21.05590062111801,
-      "public_market": 63.64541885161664,
-      "redraft_market": 62.40875912408759
+      "public_market": 63.35344804869693,
+      "redraft_market": 62.043795620437955
     },
     "d_avi": 63.5,
     "data_sources": {
@@ -17411,8 +17431,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 21.801242236024844,
-      "public_market": 67.73617223115234,
-      "redraft_market": 67.88321167883211
+      "public_market": 67.44420142823263,
+      "redraft_market": 67.51824817518248
     },
     "d_avi": 64.3,
     "data_sources": {
@@ -17684,7 +17704,7 @@
       "Colby Parkinson"
     ],
     "avi_id": "AVI-00006865",
-    "c_avi": 29.1,
+    "c_avi": 29.5,
     "canonical_name": "Colby Parkinson",
     "components": {
       "age_career_horizon": null,
@@ -17695,8 +17715,8 @@
       "league_context": 66.2,
       "long_term_ceiling": 57.0,
       "long_term_security": null,
-      "observed_production_component": 6.5,
-      "player_points": 6.5,
+      "observed_production_component": 7.6,
+      "player_points": 7.6,
       "position_liquidity": 66.2,
       "projection": 31.125,
       "public_market": 80.42760942760944,
@@ -17713,10 +17733,10 @@
     },
     "in_season_player_points": {
       "completed_through_week": 11,
-      "component_score": 6.5,
+      "component_score": 7.6,
       "games": 8,
       "injury_rebound_credit": 0.0,
-      "observed_component_score": 6.5,
+      "observed_component_score": 7.6,
       "ppr_points_per_game": 4.84,
       "season_points": 38.7,
       "source": "mixed_sleeper_fantasypros",
@@ -17935,8 +17955,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 27.249999999999996,
-      "public_market": 63.516927266751196,
-      "redraft_market": 62.365591397849464
+      "public_market": 63.94703479363291,
+      "redraft_market": 62.903225806451616
     },
     "d_avi": 62.1,
     "data_sources": {
@@ -18064,7 +18084,7 @@
       "Darnell Washington"
     ],
     "avi_id": "AVI-00009479",
-    "c_avi": 27.4,
+    "c_avi": 27.8,
     "canonical_name": "Darnell Washington",
     "components": {
       "age_career_horizon": null,
@@ -18075,8 +18095,8 @@
       "league_context": 66.2,
       "long_term_ceiling": 58.3,
       "long_term_security": null,
-      "observed_production_component": 1.1,
-      "player_points": 1.1,
+      "observed_production_component": 2.2,
+      "player_points": 2.2,
       "position_liquidity": 66.2,
       "projection": 35.625,
       "public_market": 76.18855218855218,
@@ -18093,10 +18113,10 @@
     },
     "in_season_player_points": {
       "completed_through_week": 11,
-      "component_score": 1.1,
+      "component_score": 2.2,
       "games": 10,
       "injury_rebound_credit": 0.0,
-      "observed_component_score": 1.1,
+      "observed_component_score": 2.2,
       "ppr_points_per_game": 6.91,
       "season_points": 69.1,
       "source": "sleeper",
@@ -18516,7 +18536,7 @@
       "Xavier Legette"
     ],
     "avi_id": "AVI-00011626",
-    "c_avi": 25.1,
+    "c_avi": 25.2,
     "canonical_name": "Xavier Legette",
     "components": {
       "age_career_horizon": null,
@@ -18531,8 +18551,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 21.428571428571427,
-      "public_market": 65.25916361432449,
-      "redraft_market": 65.32846715328468
+      "public_market": 65.8431052201639,
+      "redraft_market": 66.05839416058394
     },
     "d_avi": 62.8,
     "data_sources": {
@@ -18546,10 +18566,10 @@
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 3,
+      "games": 4,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
-      "ppr_points_per_game": 2.8,
+      "ppr_points_per_game": 2.1,
       "season_points": 8.4,
       "source": "mixed_sleeper_fantasypros",
       "weekly_ceiling_component": 0.0,
@@ -19291,8 +19311,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 20.310559006211182,
-      "public_market": 61.61427178581781,
-      "redraft_market": 61.31386861313869
+      "public_market": 61.322300982898106,
+      "redraft_market": 60.948905109489054
     },
     "d_avi": 61.3,
     "data_sources": {
@@ -19820,7 +19840,7 @@
       "Corey Kiner"
     ],
     "avi_id": "AVI-00012491",
-    "c_avi": 19.0,
+    "c_avi": 19.1,
     "canonical_name": "Corey Kiner",
     "components": {
       "age_career_horizon": null,
@@ -19835,10 +19855,10 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 11.749999999999998,
-      "public_market": 46.22528994694088,
-      "redraft_market": 40.86021505376344
+      "public_market": 46.6553974738226,
+      "redraft_market": 41.39784946236559
     },
-    "d_avi": 61.7,
+    "d_avi": 61.8,
     "data_sources": {
       "dynasty_market": "fantasypros",
       "injury": "fantasypros",
@@ -21093,7 +21113,7 @@
       "Roman Wilson"
     ],
     "avi_id": "AVI-00011630",
-    "c_avi": 19.9,
+    "c_avi": 20.0,
     "canonical_name": "Roman Wilson",
     "components": {
       "age_career_horizon": null,
@@ -21108,8 +21128,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 6.894409937888198,
-      "public_market": 54.68233682046959,
-      "redraft_market": 52.91970802919708
+      "public_market": 54.974307623389294,
+      "redraft_market": 53.284671532846716
     },
     "d_avi": 59.4,
     "data_sources": {
@@ -21816,8 +21836,8 @@
       "player_points": 4.0,
       "position_liquidity": 100.0,
       "projection": 13.229813664596273,
-      "public_market": 56.44048591530739,
-      "redraft_market": 55.839416058394164
+      "public_market": 56.7324567182271,
+      "redraft_market": 56.2043795620438
     },
     "d_avi": 58.4,
     "data_sources": {
@@ -22268,8 +22288,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 16.211180124223603,
-      "public_market": 55.055996205433615,
-      "redraft_market": 54.37956204379562
+      "public_market": 54.7640254025139,
+      "redraft_market": 54.01459854014598
     },
     "d_avi": 57.8,
     "data_sources": {
@@ -22582,12 +22602,12 @@
       "Andrei Iosivas"
     ],
     "avi_id": "AVI-00010226",
-    "c_avi": 17.4,
+    "c_avi": 17.5,
     "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 17.4,
+      "adjusted_c_avi": 17.5,
       "amount": -9.0,
       "availability_ceiling": 33.3,
-      "base_c_avi": 26.4,
+      "base_c_avi": 26.5,
       "championship_horizon_end_week": 17,
       "current_week": 12,
       "expected_missed_weeks": 4.0,
@@ -22602,7 +22622,7 @@
     "canonical_name": "Andrei Iosivas",
     "components": {
       "age_career_horizon": null,
-      "base_c_avi_before_availability_adjustment": 26.4,
+      "base_c_avi_before_availability_adjustment": 26.5,
       "c_avi_availability_adjustment": -9.0,
       "c_avi_availability_ceiling": 33.3,
       "dynasty_market": 54.51263537906137,
@@ -22617,10 +22637,10 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 30.0,
-      "public_market": 59.66165116340352,
-      "redraft_market": 60.948905109489054
+      "public_market": 59.953621966323226,
+      "redraft_market": 61.31386861313869
     },
-    "d_avi": 55.1,
+    "d_avi": 55.2,
     "data_sources": {
       "dynasty_market": "fantasypros",
       "injury": "sleeper",
@@ -22674,12 +22694,12 @@
       "Malik Davis"
     ],
     "avi_id": "AVI-00008800",
-    "c_avi": 15.8,
+    "c_avi": 15.7,
     "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 15.8,
+      "adjusted_c_avi": 15.7,
       "amount": -9.0,
       "availability_ceiling": 33.3,
-      "base_c_avi": 24.8,
+      "base_c_avi": 24.7,
       "championship_horizon_end_week": 17,
       "current_week": 12,
       "expected_missed_weeks": 4.0,
@@ -22694,7 +22714,7 @@
     "canonical_name": "Malik Davis",
     "components": {
       "age_career_horizon": null,
-      "base_c_avi_before_availability_adjustment": 24.8,
+      "base_c_avi_before_availability_adjustment": 24.7,
       "c_avi_availability_adjustment": -9.0,
       "c_avi_availability_ceiling": 33.3,
       "dynasty_market": 57.64192139737991,
@@ -22709,8 +22729,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 23.25,
-      "public_market": 65.72193266657276,
-      "redraft_market": 67.74193548387096
+      "public_market": 65.29182513969104,
+      "redraft_market": 67.20430107526882
     },
     "d_avi": 55.2,
     "data_sources": {
@@ -22766,7 +22786,7 @@
       "Mack Hollins"
     ],
     "avi_id": "AVI-00004177",
-    "c_avi": 37.7,
+    "c_avi": 37.8,
     "canonical_name": "Mack Hollins",
     "components": {
       "age_career_horizon": null,
@@ -22781,8 +22801,8 @@
       "player_points": 34.9,
       "position_liquidity": 100.0,
       "projection": 18.4472049689441,
-      "public_market": 60.60660359956785,
-      "redraft_market": 61.67883211678832
+      "public_market": 61.19054520540726,
+      "redraft_market": 62.40875912408759
     },
     "d_avi": 59.3,
     "data_sources": {
@@ -22830,6 +22850,78 @@
       "sleeper_id": "4177",
       "sportradar_id": "93cb5790-1012-4c42-bccb-5748c27ba7d6",
       "sportsdata_player_id": "93cb5790-1012-4c42-bccb-5748c27ba7d6"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Sione Vaki"
+    ],
+    "avi_id": "AVI-00011729",
+    "c_avi": 16.7,
+    "canonical_name": "Sione Vaki",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": 62.88209606986899,
+      "elite_upside": 0.0,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 91.2,
+      "long_term_ceiling": 40.0,
+      "long_term_security": null,
+      "observed_production_component": 0.0,
+      "player_points": 0.0,
+      "position_liquidity": 91.2,
+      "projection": 1.7499999999999998,
+      "public_market": 47.84523641827488,
+      "redraft_market": 44.086021505376344
+    },
+    "d_avi": 58.0,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "sleeper",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 0.0,
+      "games": 10,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 0.0,
+      "ppr_points_per_game": 3.4,
+      "season_points": 34.0,
+      "source": "sleeper",
+      "weekly_ceiling_component": 0.0,
+      "weekly_ceiling_points": 8.0
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "DET",
+    "normalized_name": "sione vaki",
+    "position": "RB",
+    "projection": {
+      "component_score": 1.7499999999999998,
+      "percentile": 2.9166666666666665,
+      "position_rank": 117,
+      "raw_points": 4.0,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 24930,
+      "fantasypros_id": "26309",
+      "nfl_id": "2572021",
+      "rotowire_id": 17760,
+      "sleeper_id": "11729",
+      "sportradar_id": "f5e0334b-b5f1-422f-a437-199c36cc108d",
+      "sportsdata_player_id": "f5e0334b-b5f1-422f-a437-199c36cc108d"
     }
   },
   {
@@ -22907,78 +22999,6 @@
   {
     "active": true,
     "aliases": [
-      "Sione Vaki"
-    ],
-    "avi_id": "AVI-00011729",
-    "c_avi": 16.7,
-    "canonical_name": "Sione Vaki",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 62.88209606986899,
-      "elite_upside": 0.0,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 91.2,
-      "long_term_ceiling": 40.0,
-      "long_term_security": null,
-      "observed_production_component": 0.0,
-      "player_points": 0.0,
-      "position_liquidity": 91.2,
-      "projection": 1.7499999999999998,
-      "public_market": 47.41512889139315,
-      "redraft_market": 43.54838709677419
-    },
-    "d_avi": 58.0,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "sleeper",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 0.0,
-      "games": 10,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 0.0,
-      "ppr_points_per_game": 3.4,
-      "season_points": 34.0,
-      "source": "sleeper",
-      "weekly_ceiling_component": 0.0,
-      "weekly_ceiling_points": 8.0
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "DET",
-    "normalized_name": "sione vaki",
-    "position": "RB",
-    "projection": {
-      "component_score": 1.7499999999999998,
-      "percentile": 2.9166666666666665,
-      "position_rank": 117,
-      "raw_points": 4.0,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 24930,
-      "fantasypros_id": "26309",
-      "nfl_id": "2572021",
-      "rotowire_id": 17760,
-      "sleeper_id": "11729",
-      "sportradar_id": "f5e0334b-b5f1-422f-a437-199c36cc108d",
-      "sportsdata_player_id": "f5e0334b-b5f1-422f-a437-199c36cc108d"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Ben Sinnott"
     ],
     "avi_id": "AVI-00011596",
@@ -23012,10 +23032,10 @@
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 9,
+      "games": 10,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
-      "ppr_points_per_game": 1.76,
+      "ppr_points_per_game": 1.58,
       "season_points": 15.8,
       "source": "mixed_sleeper_fantasypros",
       "weekly_ceiling_component": 0.0,
@@ -23285,8 +23305,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 11.739130434782608,
-      "public_market": 53.963477298479546,
-      "redraft_market": 53.284671532846716
+      "public_market": 53.67150649555984,
+      "redraft_market": 52.91970802919708
     },
     "d_avi": 56.5,
     "data_sources": {
@@ -23866,12 +23886,12 @@
       "Drew Allar"
     ],
     "avi_id": "AVI-00013289",
-    "c_avi": 9.4,
+    "c_avi": 9.5,
     "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 9.4,
+      "adjusted_c_avi": 9.5,
       "amount": -9.0,
       "availability_ceiling": 83.3,
-      "base_c_avi": 18.4,
+      "base_c_avi": 18.5,
       "championship_horizon_end_week": 17,
       "current_week": 12,
       "expected_missed_weeks": 1.0,
@@ -23886,7 +23906,7 @@
     "canonical_name": "Drew Allar",
     "components": {
       "age_career_horizon": null,
-      "base_c_avi_before_availability_adjustment": 18.4,
+      "base_c_avi_before_availability_adjustment": 18.5,
       "c_avi_availability_adjustment": -9.0,
       "c_avi_availability_ceiling": 83.3,
       "dynasty_market": 65.48672566371681,
@@ -23901,8 +23921,8 @@
       "player_points": 0.0,
       "position_liquidity": 60.0,
       "projection": 16.31578947368421,
-      "public_market": 55.166310649984744,
-      "redraft_market": 52.58620689655172
+      "public_market": 55.85596582239854,
+      "redraft_market": 53.44827586206897
     },
     "d_avi": 53.7,
     "data_sources": {
@@ -24122,17 +24142,17 @@
       "Roschon Johnson"
     ],
     "avi_id": "AVI-00010235",
-    "c_avi": 13.7,
+    "c_avi": 15.2,
     "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 13.7,
-      "amount": -4.5,
+      "adjusted_c_avi": 15.2,
+      "amount": -3.0,
       "availability_ceiling": 83.3,
       "base_c_avi": 18.2,
       "championship_horizon_end_week": 17,
       "current_week": 12,
       "expected_missed_weeks": 1.0,
-      "missed_games_beyond_bye": 1,
-      "ongoing_injury_risk_points": 4.5,
+      "missed_games_beyond_bye": 0,
+      "ongoing_injury_risk_points": 3.0,
       "policy": "Current verified injury designations carry a bounded risk discount based on missed 2026 games beyond one possible bye; fully cleared players have zero risk discount. An additional hard future-availability ceiling remains in force.",
       "projection_aware": true,
       "reason_code": "out",
@@ -24143,7 +24163,7 @@
     "components": {
       "age_career_horizon": null,
       "base_c_avi_before_availability_adjustment": 18.2,
-      "c_avi_availability_adjustment": -4.5,
+      "c_avi_availability_adjustment": -3.0,
       "c_avi_availability_ceiling": 83.3,
       "dynasty_market": 58.51528384279476,
       "elite_upside": 0.0,
@@ -24153,14 +24173,14 @@
       "long_term_ceiling": 39.3,
       "long_term_security": null,
       "observed_production_component": 0.0,
-      "ongoing_injury_risk_points": 4.5,
+      "ongoing_injury_risk_points": 3.0,
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 7.25,
       "public_market": 48.262196553505184,
       "redraft_market": 45.69892473118279
     },
-    "d_avi": 54.9,
+    "d_avi": 55.1,
     "data_sources": {
       "dynasty_market": "fantasypros",
       "injury": "sleeper",
@@ -24172,10 +24192,10 @@
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 9,
+      "games": 10,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
-      "ppr_points_per_game": 3.54,
+      "ppr_points_per_game": 3.19,
       "season_points": 31.9,
       "source": "mixed_sleeper_fantasypros",
       "weekly_ceiling_component": 0.0,
@@ -24214,12 +24234,12 @@
       "Raheim Sanders"
     ],
     "avi_id": "AVI-00012472",
-    "c_avi": 7.9,
+    "c_avi": 7.8,
     "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 7.9,
+      "adjusted_c_avi": 7.8,
       "amount": -9.0,
       "availability_ceiling": 33.3,
-      "base_c_avi": 16.9,
+      "base_c_avi": 16.8,
       "championship_horizon_end_week": 17,
       "current_week": 12,
       "expected_missed_weeks": 4.0,
@@ -24234,7 +24254,7 @@
     "canonical_name": "Raheim Sanders",
     "components": {
       "age_career_horizon": null,
-      "base_c_avi_before_availability_adjustment": 16.9,
+      "base_c_avi_before_availability_adjustment": 16.8,
       "c_avi_availability_adjustment": -9.0,
       "c_avi_availability_ceiling": 33.3,
       "dynasty_market": 59.38864628820961,
@@ -24249,8 +24269,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 2.7499999999999996,
-      "public_market": 47.146546461943004,
-      "redraft_market": 44.086021505376344
+      "public_market": 46.71643893506128,
+      "redraft_market": 43.54838709677419
     },
     "d_avi": 54.3,
     "data_sources": {
@@ -24552,10 +24572,10 @@
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 10,
+      "games": 11,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
-      "ppr_points_per_game": 0.24,
+      "ppr_points_per_game": 0.22,
       "season_points": 2.4,
       "source": "mixed_sleeper_fantasypros",
       "weekly_ceiling_component": 0.0,
@@ -24865,8 +24885,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 25.900621118012424,
-      "public_market": 59.598935413317875,
-      "redraft_market": 62.043795620437955
+      "public_market": 59.30696461039817,
+      "redraft_market": 61.67883211678832
     },
     "d_avi": 53.4,
     "data_sources": {
@@ -24952,10 +24972,10 @@
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 7,
+      "games": 8,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
-      "ppr_points_per_game": 1.01,
+      "ppr_points_per_game": 0.89,
       "season_points": 7.1,
       "source": "mixed_sleeper_fantasypros",
       "weekly_ceiling_component": 0.0,
@@ -25685,8 +25705,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 3.1677018633540373,
-      "public_market": 55.216211230862484,
-      "redraft_market": 56.2043795620438
+      "public_market": 55.50818203378219,
+      "redraft_market": 56.56934306569343
     },
     "d_avi": 52.5,
     "data_sources": {
@@ -25886,7 +25906,7 @@
       "Dohnte Meyers"
     ],
     "avi_id": "AVI-00013264",
-    "c_avi": 20.3,
+    "c_avi": 20.4,
     "canonical_name": "Dohnte Meyers",
     "components": {
       "age_career_horizon": null,
@@ -25901,8 +25921,8 @@
       "player_points": 0.4,
       "position_liquidity": 100.0,
       "projection": 13.975155279503106,
-      "public_market": 44.63622229834778,
-      "redraft_market": 43.43065693430657
+      "public_market": 44.92819310126749,
+      "redraft_market": 43.7956204379562
     },
     "d_avi": 51.9,
     "data_sources": {
@@ -26755,6 +26775,78 @@
   {
     "active": true,
     "aliases": [
+      "Jacob Saylors"
+    ],
+    "avi_id": "AVI-00011237",
+    "c_avi": 20.4,
+    "canonical_name": "Jacob Saylors",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": null,
+      "elite_upside": 0.0,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 91.2,
+      "long_term_ceiling": 36.5,
+      "long_term_security": null,
+      "observed_production_component": 0.0,
+      "player_points": 0.0,
+      "position_liquidity": 91.2,
+      "projection": 15.75,
+      "public_market": 48.924731182795696,
+      "redraft_market": 48.924731182795696
+    },
+    "d_avi": 51.9,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "mixed_sleeper_fantasypros",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 0.0,
+      "games": 9,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 0.0,
+      "ppr_points_per_game": 0.1,
+      "season_points": 0.9,
+      "source": "mixed_sleeper_fantasypros",
+      "weekly_ceiling_component": 0.0,
+      "weekly_ceiling_points": 0.9
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "DET",
+    "normalized_name": "jacob saylors",
+    "position": "RB",
+    "projection": {
+      "component_score": 15.75,
+      "percentile": 26.25,
+      "position_rank": 89,
+      "raw_points": 25.5,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 24312,
+      "fantasypros_id": "25693",
+      "nfl_id": "2570840",
+      "rotowire_id": 17584,
+      "sleeper_id": "11237",
+      "sportradar_id": "99a7f770-ea18-11ed-a93b-a93886fe0bfd",
+      "sportsdata_player_id": "99a7f770-ea18-11ed-a93b-a93886fe0bfd"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Ja'Tavion Sanders"
     ],
     "avi_id": "AVI-00011600",
@@ -26994,7 +27086,7 @@
       "Darius Cooper"
     ],
     "avi_id": "AVI-00013150",
-    "c_avi": 17.5,
+    "c_avi": 17.6,
     "canonical_name": "Darius Cooper",
     "components": {
       "age_career_horizon": null,
@@ -27009,8 +27101,8 @@
       "player_points": 1.1,
       "position_liquidity": 100.0,
       "projection": 2.422360248447205,
-      "public_market": 42.22825370892514,
-      "redraft_market": 40.51094890510949
+      "public_market": 42.520224511844845,
+      "redraft_market": 40.87591240875913
     },
     "d_avi": 50.9,
     "data_sources": {
@@ -27058,78 +27150,6 @@
       "sleeper_id": "13150",
       "sportradar_id": "2aa4ddb0-2775-11f0-9d31-3b5afe6c6d5f",
       "sportsdata_player_id": "2aa4ddb0-2775-11f0-9d31-3b5afe6c6d5f"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "Jacob Saylors"
-    ],
-    "avi_id": "AVI-00011237",
-    "c_avi": 20.3,
-    "canonical_name": "Jacob Saylors",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": null,
-      "elite_upside": 0.0,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 91.2,
-      "long_term_ceiling": 36.1,
-      "long_term_security": null,
-      "observed_production_component": 0.0,
-      "player_points": 0.0,
-      "position_liquidity": 91.2,
-      "projection": 15.75,
-      "public_market": 48.38709677419355,
-      "redraft_market": 48.38709677419355
-    },
-    "d_avi": 51.8,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "mixed_sleeper_fantasypros",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 0.0,
-      "games": 9,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 0.0,
-      "ppr_points_per_game": 0.1,
-      "season_points": 0.9,
-      "source": "mixed_sleeper_fantasypros",
-      "weekly_ceiling_component": 0.0,
-      "weekly_ceiling_points": 0.9
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "DET",
-    "normalized_name": "jacob saylors",
-    "position": "RB",
-    "projection": {
-      "component_score": 15.75,
-      "percentile": 26.25,
-      "position_rank": 89,
-      "raw_points": 25.5,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 24312,
-      "fantasypros_id": "25693",
-      "nfl_id": "2570840",
-      "rotowire_id": 17584,
-      "sleeper_id": "11237",
-      "sportradar_id": "99a7f770-ea18-11ed-a93b-a93886fe0bfd",
-      "sportsdata_player_id": "99a7f770-ea18-11ed-a93b-a93886fe0bfd"
     }
   },
   {
@@ -27245,8 +27265,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 13.602484472049689,
-      "public_market": 44.49814224353738,
-      "redraft_market": 44.160583941605836
+      "public_market": 44.790113046457094,
+      "redraft_market": 44.52554744525548
     },
     "d_avi": 48.1,
     "data_sources": {
@@ -27630,12 +27650,12 @@
       "Jeremy McNichols"
     ],
     "avi_id": "AVI-00004219",
-    "c_avi": 8.1,
+    "c_avi": 8.2,
     "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 8.1,
+      "adjusted_c_avi": 8.2,
       "amount": -9.0,
       "availability_ceiling": 33.3,
-      "base_c_avi": 17.1,
+      "base_c_avi": 17.2,
       "championship_horizon_end_week": 17,
       "current_week": 12,
       "expected_missed_weeks": 4.0,
@@ -27650,7 +27670,7 @@
     "canonical_name": "Jeremy McNichols",
     "components": {
       "age_career_horizon": null,
-      "base_c_avi_before_availability_adjustment": 17.1,
+      "base_c_avi_before_availability_adjustment": 17.2,
       "c_avi_availability_adjustment": -9.0,
       "c_avi_availability_ceiling": 33.3,
       "dynasty_market": 49.34497816593886,
@@ -27665,8 +27685,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 8.75,
-      "public_market": 38.686199934263044,
-      "redraft_market": 36.02150537634409
+      "public_market": 39.116307461144764,
+      "redraft_market": 36.55913978494624
     },
     "d_avi": 48.2,
     "data_sources": {
@@ -27722,7 +27742,7 @@
       "Reggie Virgil"
     ],
     "avi_id": "AVI-00013297",
-    "c_avi": 18.4,
+    "c_avi": 18.3,
     "canonical_name": "Reggie Virgil",
     "components": {
       "age_career_horizon": null,
@@ -27737,8 +27757,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 6.521739130434782,
-      "public_market": 44.93451737858706,
-      "redraft_market": 44.52554744525548
+      "public_market": 44.64254657566734,
+      "redraft_market": 44.160583941605836
     },
     "d_avi": 49.5,
     "data_sources": {
@@ -27752,10 +27772,10 @@
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 6,
+      "games": 7,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
-      "ppr_points_per_game": 1.4,
+      "ppr_points_per_game": 1.2,
       "season_points": 8.4,
       "source": "mixed_sleeper_fantasypros",
       "weekly_ceiling_component": 0.0,
@@ -27959,7 +27979,7 @@
       "Joe Milton III"
     ],
     "avi_id": "AVI-00011557",
-    "c_avi": 15.7,
+    "c_avi": 15.8,
     "canonical_name": "Joe Milton",
     "components": {
       "age_career_horizon": null,
@@ -27974,8 +27994,8 @@
       "player_points": 0.0,
       "position_liquidity": 60.0,
       "projection": 4.7368421052631575,
-      "public_market": 56.844675007628936,
-      "redraft_market": 56.89655172413793
+      "public_market": 57.53433018004273,
+      "redraft_market": 57.758620689655174
     },
     "d_avi": 48.8,
     "data_sources": {
@@ -28031,7 +28051,7 @@
       "Nate Boerkircher"
     ],
     "avi_id": "AVI-00013299",
-    "c_avi": 23.0,
+    "c_avi": 17.4,
     "canonical_name": "Nate Boerkircher",
     "components": {
       "age_career_horizon": null,
@@ -28042,14 +28062,14 @@
       "league_context": 66.2,
       "long_term_ceiling": 36.5,
       "long_term_security": null,
-      "observed_production_component": 14.1,
-      "player_points": 14.1,
+      "observed_production_component": 0.0,
+      "player_points": 0.0,
       "position_liquidity": 66.2,
       "projection": 7.125,
       "public_market": 59.90572390572391,
       "redraft_market": 61.36363636363637
     },
-    "d_avi": 49.5,
+    "d_avi": 48.5,
     "data_sources": {
       "dynasty_market": "fantasypros",
       "injury": "fantasypros",
@@ -28060,11 +28080,11 @@
     },
     "in_season_player_points": {
       "completed_through_week": 11,
-      "component_score": 14.1,
-      "games": 9,
+      "component_score": 0.0,
+      "games": 10,
       "injury_rebound_credit": 0.0,
-      "observed_component_score": 14.1,
-      "ppr_points_per_game": 4.18,
+      "observed_component_score": 0.0,
+      "ppr_points_per_game": 3.76,
       "season_points": 37.6,
       "source": "mixed_sleeper_fantasypros",
       "weekly_ceiling_component": 0.0,
@@ -28391,7 +28411,7 @@
       "Will Kacmarek"
     ],
     "avi_id": "AVI-00013434",
-    "c_avi": 22.5,
+    "c_avi": 22.6,
     "canonical_name": "Will Kacmarek",
     "components": {
       "age_career_horizon": null,
@@ -28406,8 +28426,8 @@
       "player_points": 0.0,
       "position_liquidity": 66.2,
       "projection": 28.125,
-      "public_market": 59.323232323232325,
-      "redraft_market": 61.93181818181818
+      "public_market": 59.77777777777778,
+      "redraft_market": 62.5
     },
     "d_avi": 46.7,
     "data_sources": {
@@ -28421,10 +28441,10 @@
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 9,
+      "games": 10,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
-      "ppr_points_per_game": 0.94,
+      "ppr_points_per_game": 0.85,
       "season_points": 8.5,
       "source": "mixed_sleeper_fantasypros",
       "weekly_ceiling_component": 0.0,
@@ -28607,7 +28627,7 @@
       "Ronnie Rivers"
     ],
     "avi_id": "AVI-00008195",
-    "c_avi": 16.1,
+    "c_avi": 16.2,
     "canonical_name": "Ronnie Rivers",
     "components": {
       "age_career_horizon": null,
@@ -28622,8 +28642,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 5.75,
-      "public_market": 37.03995867962624,
-      "redraft_market": 34.946236559139784
+      "public_market": 37.900173733389686,
+      "redraft_market": 36.02150537634409
     },
     "d_avi": 46.9,
     "data_sources": {
@@ -28786,8 +28806,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 0.25,
-      "public_market": 25.346292905104008,
-      "redraft_market": 19.892473118279568
+      "public_market": 25.776400431985728,
+      "redraft_market": 20.43010752688172
     },
     "d_avi": 47.3,
     "data_sources": {
@@ -28945,10 +28965,10 @@
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 8,
+      "games": 9,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
-      "ppr_points_per_game": 0.9,
+      "ppr_points_per_game": 0.8,
       "season_points": 7.2,
       "source": "mixed_sleeper_fantasypros",
       "weekly_ceiling_component": 0.0,
@@ -29203,7 +29223,7 @@
       "Brandin Cooks"
     ],
     "avi_id": "AVI-00002197",
-    "c_avi": 16.8,
+    "c_avi": 16.7,
     "canonical_name": "Brandin Cooks",
     "components": {
       "age_career_horizon": null,
@@ -29218,8 +29238,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 8.385093167701863,
-      "public_market": 31.224538195999898,
-      "redraft_market": 28.83211678832117
+      "public_market": 30.640596590160484,
+      "redraft_market": 28.1021897810219
     },
     "d_avi": 45.6,
     "data_sources": {
@@ -29364,6 +29384,78 @@
   {
     "active": true,
     "aliases": [
+      "Tay Martin"
+    ],
+    "avi_id": "AVI-00008250",
+    "c_avi": 17.1,
+    "canonical_name": "Tay Martin",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": null,
+      "elite_upside": 0.0,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 100.0,
+      "long_term_ceiling": 26.7,
+      "long_term_security": null,
+      "observed_production_component": 0.0,
+      "player_points": 0.0,
+      "position_liquidity": 100.0,
+      "projection": 4.285714285714286,
+      "public_market": 40.14598540145985,
+      "redraft_market": 40.14598540145985
+    },
+    "d_avi": 52.2,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "mixed_sleeper_fantasypros",
+      "projection": "fantasypros",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 0.0,
+      "games": 10,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 0.0,
+      "ppr_points_per_game": 0.21,
+      "season_points": 2.1,
+      "source": "mixed_sleeper_fantasypros",
+      "weekly_ceiling_component": 0.0,
+      "weekly_ceiling_points": 2.1
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "DET",
+    "normalized_name": "tay martin",
+    "position": "WR",
+    "projection": {
+      "component_score": 4.285714285714286,
+      "percentile": 7.142857142857143,
+      "position_rank": 150,
+      "raw_points": 13.1,
+      "source": "fantasypros"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 23659,
+      "fantasypros_id": "24029",
+      "nfl_id": "2569254",
+      "rotowire_id": 15918,
+      "sleeper_id": "8250",
+      "sportradar_id": "8d74f600-ca80-11ec-97ae-e1573849d1a6",
+      "sportsdata_player_id": "8d74f600-ca80-11ec-97ae-e1573849d1a6"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
       "Isaiah Williams"
     ],
     "avi_id": "AVI-00011608",
@@ -29402,8 +29494,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 10.993788819875775,
-      "public_market": 44.14977996785159,
-      "redraft_market": 45.62043795620438
+      "public_market": 44.44175077077131,
+      "redraft_market": 45.98540145985402
     },
     "d_avi": 44.1,
     "data_sources": {
@@ -29456,73 +29548,73 @@
   {
     "active": true,
     "aliases": [
-      "Tay Martin"
+      "Spencer Rattler"
     ],
-    "avi_id": "AVI-00008250",
-    "c_avi": 17.0,
-    "canonical_name": "Tay Martin",
+    "avi_id": "AVI-00011562",
+    "c_avi": 16.0,
+    "canonical_name": "Spencer Rattler",
     "components": {
       "age_career_horizon": null,
-      "dynasty_market": null,
+      "dynasty_market": 49.557522123893804,
       "elite_upside": 0.0,
       "health_outlook": null,
       "injury_rebound_credit": 0.0,
-      "league_context": 100.0,
-      "long_term_ceiling": 26.5,
+      "league_context": 60.0,
+      "long_term_ceiling": 33.9,
       "long_term_security": null,
       "observed_production_component": 0.0,
       "player_points": 0.0,
-      "position_liquidity": 100.0,
-      "projection": 4.285714285714286,
-      "public_market": 39.78102189781022,
-      "redraft_market": 39.78102189781022
+      "position_liquidity": 60.0,
+      "projection": 7.894736842105262,
+      "public_market": 53.35978028684773,
+      "redraft_market": 54.310344827586206
     },
-    "d_avi": 52.1,
+    "d_avi": 44.4,
     "data_sources": {
       "dynasty_market": "fantasypros",
       "injury": "fantasypros",
       "news": "fantasypros",
-      "production": "mixed_sleeper_fantasypros",
-      "projection": "fantasypros",
+      "production": "fantasypros",
+      "projection": "sleeper",
       "redraft_market": "fantasypros"
     },
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 9,
+      "games": 1,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
-      "ppr_points_per_game": 0.23,
-      "season_points": 2.1,
-      "source": "mixed_sleeper_fantasypros",
+      "ppr_points_per_game": 0.0,
+      "season_points": 0.0,
+      "source": "fantasypros",
       "weekly_ceiling_component": 0.0,
-      "weekly_ceiling_points": 2.1
+      "weekly_ceiling_points": 0.0
     },
     "match": {
       "confidence": "verified",
       "method": "exact_name_position_unique"
     },
     "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "DET",
-    "normalized_name": "tay martin",
-    "position": "WR",
+    "nfl_team": "NO",
+    "normalized_name": "spencer rattler",
+    "position": "QB",
     "projection": {
-      "component_score": 4.285714285714286,
-      "percentile": 7.142857142857143,
-      "position_rank": 150,
-      "raw_points": 13.1,
-      "source": "fantasypros"
+      "component_score": 7.894736842105262,
+      "percentile": 13.157894736842104,
+      "position_rank": 50,
+      "raw_points": 12.68,
+      "source": "sleeper"
     },
     "season_phase": "regular_season",
     "source_ids": {
       "espn_id": null,
-      "fantasy_data_id": 23659,
-      "fantasypros_id": "24029",
-      "nfl_id": "2569254",
-      "rotowire_id": 15918,
-      "sleeper_id": "8250",
-      "sportradar_id": "8d74f600-ca80-11ec-97ae-e1573849d1a6",
-      "sportsdata_player_id": "8d74f600-ca80-11ec-97ae-e1573849d1a6"
+      "fantasy_data_id": 23186,
+      "fantasypros_id": "23081",
+      "nfl_id": "2572327",
+      "rotowire_id": 17782,
+      "sleeper_id": "11562",
+      "sportradar_id": "e0eecf78-86b2-4ee8-8ac9-d7713a138765",
+      "sportsdata_player_id": "e0eecf78-86b2-4ee8-8ac9-d7713a138765"
     }
   },
   {
@@ -29620,82 +29712,10 @@
   {
     "active": true,
     "aliases": [
-      "Spencer Rattler"
-    ],
-    "avi_id": "AVI-00011562",
-    "c_avi": 15.9,
-    "canonical_name": "Spencer Rattler",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": 49.557522123893804,
-      "elite_upside": 0.0,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 60.0,
-      "long_term_ceiling": 33.9,
-      "long_term_security": null,
-      "observed_production_component": 0.0,
-      "player_points": 0.0,
-      "position_liquidity": 60.0,
-      "projection": 7.894736842105262,
-      "public_market": 52.67012511443394,
-      "redraft_market": 53.44827586206897
-    },
-    "d_avi": 44.4,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "fantasypros",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 0.0,
-      "games": 1,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 0.0,
-      "ppr_points_per_game": 0.0,
-      "season_points": 0.0,
-      "source": "fantasypros",
-      "weekly_ceiling_component": 0.0,
-      "weekly_ceiling_points": 0.0
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "NO",
-    "normalized_name": "spencer rattler",
-    "position": "QB",
-    "projection": {
-      "component_score": 7.894736842105262,
-      "percentile": 13.157894736842104,
-      "position_rank": 50,
-      "raw_points": 12.68,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 23186,
-      "fantasypros_id": "23081",
-      "nfl_id": "2572327",
-      "rotowire_id": 17782,
-      "sleeper_id": "11562",
-      "sportradar_id": "e0eecf78-86b2-4ee8-8ac9-d7713a138765",
-      "sportsdata_player_id": "e0eecf78-86b2-4ee8-8ac9-d7713a138765"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Terrell Jennings"
     ],
     "avi_id": "AVI-00012412",
-    "c_avi": 15.7,
+    "c_avi": 15.6,
     "canonical_name": "Terrell Jennings",
     "components": {
       "age_career_horizon": null,
@@ -29710,8 +29730,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 7.749999999999999,
-      "public_market": 31.179978400713715,
-      "redraft_market": 28.49462365591398
+      "public_market": 30.319763346950275,
+      "redraft_market": 27.419354838709676
     },
     "d_avi": 44.7,
     "data_sources": {
@@ -29802,8 +29822,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 5.403726708074534,
-      "public_market": 39.914622256185936,
-      "redraft_market": 40.14598540145985
+      "public_market": 39.33068065034652,
+      "redraft_market": 39.416058394160586
     },
     "d_avi": 43.0,
     "data_sources": {
@@ -29859,7 +29879,7 @@
       "Adam Trautman"
     ],
     "avi_id": "AVI-00006869",
-    "c_avi": 17.7,
+    "c_avi": 17.6,
     "canonical_name": "Adam Trautman",
     "components": {
       "age_career_horizon": null,
@@ -29874,8 +29894,8 @@
       "player_points": 0.0,
       "position_liquidity": 66.2,
       "projection": 8.625,
-      "public_market": 59.18518518518518,
-      "redraft_market": 62.5
+      "public_market": 58.73063973063973,
+      "redraft_market": 61.93181818181818
     },
     "d_avi": 43.4,
     "data_sources": {
@@ -29966,8 +29986,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 0.9316770186335404,
-      "public_market": 42.17818651347862,
-      "redraft_market": 43.065693430656935
+      "public_market": 42.47015731639833,
+      "redraft_market": 43.43065693430657
     },
     "d_avi": 43.3,
     "data_sources": {
@@ -30023,12 +30043,12 @@
       "Trey Lance"
     ],
     "avi_id": "AVI-00007610",
-    "c_avi": 8.7,
+    "c_avi": 8.8,
     "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 8.7,
+      "adjusted_c_avi": 8.8,
       "amount": -9.0,
       "availability_ceiling": 33.3,
-      "base_c_avi": 17.7,
+      "base_c_avi": 17.8,
       "championship_horizon_end_week": 17,
       "current_week": 12,
       "expected_missed_weeks": 4.0,
@@ -30043,7 +30063,7 @@
     "canonical_name": "Trey Lance",
     "components": {
       "age_career_horizon": null,
-      "base_c_avi_before_availability_adjustment": 17.7,
+      "base_c_avi_before_availability_adjustment": 17.8,
       "c_avi_availability_adjustment": -9.0,
       "c_avi_availability_ceiling": 33.3,
       "dynasty_market": 46.017699115044245,
@@ -30058,10 +30078,10 @@
       "player_points": 0.0,
       "position_liquidity": 60.0,
       "projection": 14.210526315789474,
-      "public_market": 54.03112602990541,
-      "redraft_market": 56.03448275862069
+      "public_market": 54.7207812023192,
+      "redraft_market": 56.89655172413793
     },
-    "d_avi": 41.1,
+    "d_avi": 41.2,
     "data_sources": {
       "dynasty_market": "fantasypros",
       "injury": "sleeper",
@@ -30115,12 +30135,12 @@
       "Riley Leonard"
     ],
     "avi_id": "AVI-00012470",
-    "c_avi": 5.9,
+    "c_avi": 5.8,
     "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 5.9,
+      "adjusted_c_avi": 5.8,
       "amount": -9.0,
       "availability_ceiling": 83.3,
-      "base_c_avi": 14.9,
+      "base_c_avi": 14.8,
       "championship_horizon_end_week": 17,
       "current_week": 12,
       "expected_missed_weeks": 1.0,
@@ -30135,7 +30155,7 @@
     "canonical_name": "Riley Leonard",
     "components": {
       "age_career_horizon": null,
-      "base_c_avi_before_availability_adjustment": 14.9,
+      "base_c_avi_before_availability_adjustment": 14.8,
       "c_avi_availability_adjustment": -9.0,
       "c_avi_availability_ceiling": 83.3,
       "dynasty_market": 47.78761061946903,
@@ -30150,8 +30170,8 @@
       "player_points": 0.0,
       "position_liquidity": 60.0,
       "projection": 5.7894736842105265,
-      "public_market": 49.557522123893804,
-      "redraft_market": 50.0
+      "public_market": 48.86786695148002,
+      "redraft_market": 49.13793103448276
     },
     "d_avi": 41.5,
     "data_sources": {
@@ -30279,12 +30299,12 @@
       "Gardner Minshew II"
     ],
     "avi_id": "AVI-00006011",
-    "c_avi": 10.1,
+    "c_avi": 9.9,
     "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 10.1,
+      "adjusted_c_avi": 9.9,
       "amount": -9.0,
       "availability_ceiling": 33.3,
-      "base_c_avi": 19.1,
+      "base_c_avi": 18.9,
       "championship_horizon_end_week": 17,
       "current_week": 12,
       "expected_missed_weeks": 4.0,
@@ -30299,7 +30319,7 @@
     "canonical_name": "Gardner Minshew II",
     "components": {
       "age_career_horizon": null,
-      "base_c_avi_before_availability_adjustment": 19.1,
+      "base_c_avi_before_availability_adjustment": 18.9,
       "c_avi_availability_adjustment": -9.0,
       "c_avi_availability_ceiling": 33.3,
       "dynasty_market": 44.24778761061947,
@@ -30314,8 +30334,8 @@
       "player_points": 0.0,
       "position_liquidity": 60.0,
       "projection": 19.473684210526315,
-      "public_market": 55.05645407384804,
-      "redraft_market": 57.758620689655174
+      "public_market": 53.67714372902045,
+      "redraft_market": 56.03448275862069
     },
     "d_avi": 40.4,
     "data_sources": {
@@ -30545,7 +30565,7 @@
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 4,
+      "games": 5,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
       "ppr_points_per_game": 0.0,
@@ -30731,7 +30751,7 @@
       "Theo Wease Jr."
     ],
     "avi_id": "AVI-00012860",
-    "c_avi": 14.8,
+    "c_avi": 15.0,
     "canonical_name": "Theo Wease Jr.",
     "components": {
       "age_career_horizon": null,
@@ -30746,8 +30766,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 2.7950310559006213,
-      "public_market": 27.589132783472557,
-      "redraft_market": 25.912408759124087
+      "public_market": 28.465045192231678,
+      "redraft_market": 27.00729927007299
     },
     "d_avi": 41.0,
     "data_sources": {
@@ -30761,10 +30781,10 @@
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 3,
+      "games": 4,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
-      "ppr_points_per_game": 2.23,
+      "ppr_points_per_game": 1.67,
       "season_points": 6.7,
       "source": "mixed_sleeper_fantasypros",
       "weekly_ceiling_component": 0.0,
@@ -30905,7 +30925,7 @@
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 9,
+      "games": 10,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
       "ppr_points_per_game": 0.0,
@@ -30939,6 +30959,78 @@
       "sleeper_id": "13516",
       "sportradar_id": "e26326b1-f202-4b73-bc4a-df78052b2c23",
       "sportsdata_player_id": "e26326b1-f202-4b73-bc4a-df78052b2c23"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "Reggie Gilliam"
+    ],
+    "avi_id": "AVI-00007204",
+    "c_avi": 14.9,
+    "canonical_name": "Reggie Gilliam",
+    "components": {
+      "age_career_horizon": null,
+      "dynasty_market": null,
+      "elite_upside": 0.0,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 91.2,
+      "long_term_ceiling": 22.7,
+      "long_term_security": null,
+      "observed_production_component": 0.0,
+      "player_points": 0.0,
+      "position_liquidity": 91.2,
+      "projection": 2.25,
+      "public_market": 34.946236559139784,
+      "redraft_market": 34.946236559139784
+    },
+    "d_avi": 47.0,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "fantasypros",
+      "news": "fantasypros",
+      "production": "mixed_sleeper_fantasypros",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 0.0,
+      "games": 5,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 0.0,
+      "ppr_points_per_game": 0.6,
+      "season_points": 3.0,
+      "source": "mixed_sleeper_fantasypros",
+      "weekly_ceiling_component": 0.0,
+      "weekly_ceiling_points": 1.6
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "NE",
+    "normalized_name": "reggie gilliam",
+    "position": "RB",
+    "projection": {
+      "component_score": 2.25,
+      "percentile": 3.75,
+      "position_rank": 116,
+      "raw_points": 4.2,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": 4039505,
+      "fantasy_data_id": 22206,
+      "fantasypros_id": "19844",
+      "nfl_id": "2565378",
+      "rotowire_id": 14844,
+      "sleeper_id": "7204",
+      "sportradar_id": "4475bb8a-b5a6-4527-bfc7-8e7e03900984",
+      "sportsdata_player_id": "4475bb8a-b5a6-4527-bfc7-8e7e03900984"
     }
   },
   {
@@ -31016,82 +31108,10 @@
   {
     "active": true,
     "aliases": [
-      "Reggie Gilliam"
-    ],
-    "avi_id": "AVI-00007204",
-    "c_avi": 14.8,
-    "canonical_name": "Reggie Gilliam",
-    "components": {
-      "age_career_horizon": null,
-      "dynasty_market": null,
-      "elite_upside": 0.0,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 91.2,
-      "long_term_ceiling": 22.0,
-      "long_term_security": null,
-      "observed_production_component": 0.0,
-      "player_points": 0.0,
-      "position_liquidity": 91.2,
-      "projection": 2.25,
-      "public_market": 33.87096774193548,
-      "redraft_market": 33.87096774193548
-    },
-    "d_avi": 46.8,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "fantasypros",
-      "news": "fantasypros",
-      "production": "mixed_sleeper_fantasypros",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 0.0,
-      "games": 5,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 0.0,
-      "ppr_points_per_game": 0.6,
-      "season_points": 3.0,
-      "source": "mixed_sleeper_fantasypros",
-      "weekly_ceiling_component": 0.0,
-      "weekly_ceiling_points": 1.6
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "NE",
-    "normalized_name": "reggie gilliam",
-    "position": "RB",
-    "projection": {
-      "component_score": 2.25,
-      "percentile": 3.75,
-      "position_rank": 116,
-      "raw_points": 4.2,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": 4039505,
-      "fantasy_data_id": 22206,
-      "fantasypros_id": "19844",
-      "nfl_id": "2565378",
-      "rotowire_id": 14844,
-      "sleeper_id": "7204",
-      "sportradar_id": "4475bb8a-b5a6-4527-bfc7-8e7e03900984",
-      "sportsdata_player_id": "4475bb8a-b5a6-4527-bfc7-8e7e03900984"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
       "Sam Howell"
     ],
     "avi_id": "AVI-00008162",
-    "c_avi": 13.5,
+    "c_avi": 13.6,
     "canonical_name": "Sam Howell",
     "components": {
       "age_career_horizon": null,
@@ -31106,8 +31126,8 @@
       "player_points": 0.0,
       "position_liquidity": 60.0,
       "projection": 1.5789473684210527,
-      "public_market": 47.628928898382675,
-      "redraft_market": 49.13793103448276
+      "public_market": 48.31858407079646,
+      "redraft_market": 50.0
     },
     "d_avi": 38.7,
     "data_sources": {
@@ -31163,7 +31183,7 @@
       "Kene Nwangwu"
     ],
     "avi_id": "AVI-00007720",
-    "c_avi": 16.2,
+    "c_avi": 16.3,
     "canonical_name": "Kene Nwangwu",
     "components": {
       "age_career_horizon": null,
@@ -31178,8 +31198,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 9.75,
-      "public_market": 30.89167488378645,
-      "redraft_market": 30.64516129032258
+      "public_market": 31.32178241066817,
+      "redraft_market": 31.182795698924732
     },
     "d_avi": 38.5,
     "data_sources": {
@@ -31244,14 +31264,14 @@
       "health_outlook": null,
       "injury_rebound_credit": 0.0,
       "league_context": 100.0,
-      "long_term_ceiling": 21.2,
+      "long_term_ceiling": 21.4,
       "long_term_security": null,
       "observed_production_component": 0.0,
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 7.267080745341614,
-      "public_market": 29.562043795620436,
-      "redraft_market": 29.562043795620436
+      "public_market": 29.927007299270073,
+      "redraft_market": 29.927007299270073
     },
     "d_avi": 50.8,
     "data_sources": {
@@ -31307,12 +31327,12 @@
       "Zavier Scott"
     ],
     "avi_id": "AVI-00011299",
-    "c_avi": 5.3,
+    "c_avi": 5.4,
     "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 5.3,
+      "adjusted_c_avi": 5.4,
       "amount": -9.0,
       "availability_ceiling": 33.3,
-      "base_c_avi": 14.3,
+      "base_c_avi": 14.4,
       "championship_horizon_end_week": 17,
       "current_week": 12,
       "expected_missed_weeks": 4.0,
@@ -31327,7 +31347,7 @@
     "canonical_name": "Zavier Scott",
     "components": {
       "age_career_horizon": null,
-      "base_c_avi_before_availability_adjustment": 14.3,
+      "base_c_avi_before_availability_adjustment": 14.4,
       "c_avi_availability_adjustment": -9.0,
       "c_avi_availability_ceiling": 33.3,
       "dynasty_market": 32.751091703056765,
@@ -31342,8 +31362,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 4.25,
-      "public_market": 27.195379630933935,
-      "redraft_market": 25.806451612903224
+      "public_market": 28.055594684697375,
+      "redraft_market": 26.881720430107528
     },
     "d_avi": 37.0,
     "data_sources": {
@@ -31491,7 +31511,7 @@
       "Xavier Smith"
     ],
     "avi_id": "AVI-00011168",
-    "c_avi": 17.6,
+    "c_avi": 17.5,
     "canonical_name": "Xavier Smith",
     "components": {
       "age_career_horizon": null,
@@ -31506,8 +31526,8 @@
       "player_points": 0.0,
       "position_liquidity": 100.0,
       "projection": 5.77639751552795,
-      "public_market": 40.74046746949854,
-      "redraft_market": 43.7956204379562
+      "public_market": 40.15652586365913,
+      "redraft_market": 43.065693430656935
     },
     "d_avi": 37.9,
     "data_sources": {
@@ -31563,7 +31583,7 @@
       "Julius Chestnut"
     ],
     "avi_id": "AVI-00008254",
-    "c_avi": 15.1,
+    "c_avi": 15.2,
     "canonical_name": "Julius Chestnut",
     "components": {
       "age_career_horizon": null,
@@ -31578,8 +31598,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 4.25,
-      "public_market": 32.867540029112085,
-      "redraft_market": 33.333333333333336
+      "public_market": 33.727755082875525,
+      "redraft_market": 34.40860215053763
     },
     "d_avi": 37.6,
     "data_sources": {
@@ -31627,6 +31647,98 @@
       "sleeper_id": "8254",
       "sportradar_id": "873860f0-cca2-11ec-9e80-cff885fdbae7",
       "sportsdata_player_id": "873860f0-cca2-11ec-9e80-cff885fdbae7"
+    }
+  },
+  {
+    "active": true,
+    "aliases": [
+      "British Brooks"
+    ],
+    "avi_id": "AVI-00012171",
+    "c_avi": 7.2,
+    "c_avi_availability_adjustment": {
+      "adjusted_c_avi": 7.2,
+      "amount": -9.0,
+      "availability_ceiling": 33.3,
+      "base_c_avi": 16.2,
+      "championship_horizon_end_week": 17,
+      "current_week": 12,
+      "expected_missed_weeks": 4.0,
+      "missed_games_beyond_bye": 7,
+      "ongoing_injury_risk_points": 9.0,
+      "policy": "Current verified injury designations carry a bounded risk discount based on missed 2026 games beyond one possible bye; fully cleared players have zero risk discount. An additional hard future-availability ceiling remains in force.",
+      "projection_aware": true,
+      "reason_code": "injured_reserve",
+      "status": "ir inactive",
+      "status_source": "sleeper"
+    },
+    "canonical_name": "British Brooks",
+    "components": {
+      "age_career_horizon": null,
+      "base_c_avi_before_availability_adjustment": 16.2,
+      "c_avi_availability_adjustment": -9.0,
+      "c_avi_availability_ceiling": 33.3,
+      "dynasty_market": null,
+      "elite_upside": 0.0,
+      "health_outlook": null,
+      "injury_rebound_credit": 0.0,
+      "league_context": 91.2,
+      "long_term_ceiling": 22.7,
+      "long_term_security": null,
+      "observed_production_component": 0.0,
+      "ongoing_injury_risk_points": 9.0,
+      "player_points": 0.0,
+      "position_liquidity": 91.2,
+      "projection": 10.249999999999998,
+      "public_market": 30.107526881720432,
+      "redraft_market": 30.107526881720432
+    },
+    "d_avi": 43.9,
+    "data_sources": {
+      "dynasty_market": "fantasypros",
+      "injury": "sleeper",
+      "news": "fantasypros",
+      "production": "fantasypros",
+      "projection": "sleeper",
+      "redraft_market": "fantasypros"
+    },
+    "in_season_player_points": {
+      "completed_through_week": 11,
+      "component_score": 0.0,
+      "games": 3,
+      "injury_rebound_credit": 0.0,
+      "observed_component_score": 0.0,
+      "ppr_points_per_game": 0.0,
+      "season_points": 0.0,
+      "source": "fantasypros",
+      "weekly_ceiling_component": 0.0,
+      "weekly_ceiling_points": 0.0
+    },
+    "match": {
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
+    },
+    "methodology_status": "active_2026_3_in_season",
+    "nfl_team": "HOU",
+    "normalized_name": "british brooks",
+    "position": "RB",
+    "projection": {
+      "component_score": 10.249999999999998,
+      "percentile": 17.083333333333332,
+      "position_rank": 100,
+      "raw_points": 10.1,
+      "source": "sleeper"
+    },
+    "season_phase": "regular_season",
+    "source_ids": {
+      "espn_id": null,
+      "fantasy_data_id": 25452,
+      "fantasypros_id": "26748",
+      "nfl_id": "2573686",
+      "rotowire_id": 18300,
+      "sleeper_id": "12171",
+      "sportradar_id": "2ef88b80-07cf-11ef-96cf-876a6c13e638",
+      "sportsdata_player_id": "2ef88b80-07cf-11ef-96cf-876a6c13e638"
     }
   },
   {
@@ -31719,98 +31831,6 @@
       "sleeper_id": "5409",
       "sportradar_id": "2fa75e05-cac4-4b40-8924-dbc9ae0c959c",
       "sportsdata_player_id": "2fa75e05-cac4-4b40-8924-dbc9ae0c959c"
-    }
-  },
-  {
-    "active": true,
-    "aliases": [
-      "British Brooks"
-    ],
-    "avi_id": "AVI-00012171",
-    "c_avi": 7.0,
-    "c_avi_availability_adjustment": {
-      "adjusted_c_avi": 7.0,
-      "amount": -9.0,
-      "availability_ceiling": 33.3,
-      "base_c_avi": 16.0,
-      "championship_horizon_end_week": 17,
-      "current_week": 12,
-      "expected_missed_weeks": 4.0,
-      "missed_games_beyond_bye": 7,
-      "ongoing_injury_risk_points": 9.0,
-      "policy": "Current verified injury designations carry a bounded risk discount based on missed 2026 games beyond one possible bye; fully cleared players have zero risk discount. An additional hard future-availability ceiling remains in force.",
-      "projection_aware": true,
-      "reason_code": "injured_reserve",
-      "status": "ir inactive",
-      "status_source": "sleeper"
-    },
-    "canonical_name": "British Brooks",
-    "components": {
-      "age_career_horizon": null,
-      "base_c_avi_before_availability_adjustment": 16.0,
-      "c_avi_availability_adjustment": -9.0,
-      "c_avi_availability_ceiling": 33.3,
-      "dynasty_market": null,
-      "elite_upside": 0.0,
-      "health_outlook": null,
-      "injury_rebound_credit": 0.0,
-      "league_context": 91.2,
-      "long_term_ceiling": 22.0,
-      "long_term_security": null,
-      "observed_production_component": 0.0,
-      "ongoing_injury_risk_points": 9.0,
-      "player_points": 0.0,
-      "position_liquidity": 91.2,
-      "projection": 10.249999999999998,
-      "public_market": 29.032258064516128,
-      "redraft_market": 29.032258064516128
-    },
-    "d_avi": 43.7,
-    "data_sources": {
-      "dynasty_market": "fantasypros",
-      "injury": "sleeper",
-      "news": "fantasypros",
-      "production": "fantasypros",
-      "projection": "sleeper",
-      "redraft_market": "fantasypros"
-    },
-    "in_season_player_points": {
-      "completed_through_week": 11,
-      "component_score": 0.0,
-      "games": 3,
-      "injury_rebound_credit": 0.0,
-      "observed_component_score": 0.0,
-      "ppr_points_per_game": 0.0,
-      "season_points": 0.0,
-      "source": "fantasypros",
-      "weekly_ceiling_component": 0.0,
-      "weekly_ceiling_points": 0.0
-    },
-    "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
-    },
-    "methodology_status": "active_2026_3_in_season",
-    "nfl_team": "HOU",
-    "normalized_name": "british brooks",
-    "position": "RB",
-    "projection": {
-      "component_score": 10.249999999999998,
-      "percentile": 17.083333333333332,
-      "position_rank": 100,
-      "raw_points": 10.1,
-      "source": "sleeper"
-    },
-    "season_phase": "regular_season",
-    "source_ids": {
-      "espn_id": null,
-      "fantasy_data_id": 25452,
-      "fantasypros_id": "26748",
-      "nfl_id": "2573686",
-      "rotowire_id": 18300,
-      "sleeper_id": "12171",
-      "sportradar_id": "2ef88b80-07cf-11ef-96cf-876a6c13e638",
-      "sportsdata_player_id": "2ef88b80-07cf-11ef-96cf-876a6c13e638"
     }
   },
   {
@@ -32013,10 +32033,10 @@
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 9,
+      "games": 10,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
-      "ppr_points_per_game": 0.39,
+      "ppr_points_per_game": 0.35,
       "season_points": 3.5,
       "source": "mixed_sleeper_fantasypros",
       "weekly_ceiling_component": 0.0,
@@ -32214,8 +32234,8 @@
       "player_points": 0.0,
       "position_liquidity": 91.2,
       "projection": 6.249999999999999,
-      "public_market": 14.60205662769404,
-      "redraft_market": 12.903225806451612
+      "public_market": 15.032164154575764,
+      "redraft_market": 13.440860215053764
     },
     "d_avi": 31.1,
     "data_sources": {
@@ -32445,10 +32465,10 @@
     "in_season_player_points": {
       "completed_through_week": 11,
       "component_score": 0.0,
-      "games": 9,
+      "games": 10,
       "injury_rebound_credit": 0.0,
       "observed_component_score": 0.0,
-      "ppr_points_per_game": 0.62,
+      "ppr_points_per_game": 0.56,
       "season_points": 5.6,
       "source": "mixed_sleeper_fantasypros",
       "weekly_ceiling_component": 0.0,
@@ -32500,8 +32520,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 18.263605202610698,
-      "redraft_market": 13.440860215053764
+      "public_market": 18.693712729492418,
+      "redraft_market": 13.978494623655914
     },
     "d_avi": 29.2,
     "data_sources": {
@@ -32549,8 +32569,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 30.225853406583088,
-      "redraft_market": 27.956989247311828
+      "public_market": 28.935530825937928,
+      "redraft_market": 26.344086021505376
     },
     "d_avi": 30.6,
     "data_sources": {
@@ -32598,8 +32618,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 24.193548387096776,
-      "redraft_market": 24.193548387096776
+      "public_market": 25.806451612903224,
+      "redraft_market": 25.806451612903224
     },
     "d_avi": 0.0,
     "data_sources": {
@@ -32647,8 +32667,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 40.51368737380852,
-      "redraft_market": 36.55913978494624
+      "public_market": 38.363149739399915,
+      "redraft_market": 33.87096774193548
     },
     "d_avi": 43.8,
     "data_sources": {
@@ -32704,8 +32724,8 @@
       "injury": "sleeper"
     },
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "methodology_status": "inactive_unranked",
     "nfl_team": "SF",
@@ -32794,8 +32814,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 18.13494858430765,
-      "redraft_market": 9.67741935483871
+      "public_market": 18.56505611118937,
+      "redraft_market": 10.21505376344086
     },
     "d_avi": 40.4,
     "data_sources": {
@@ -32941,8 +32961,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 53.60879074547419,
-      "redraft_market": 54.01459854014598
+      "public_market": 53.9007615483939,
+      "redraft_market": 54.37956204379562
     },
     "d_avi": 40.4,
     "data_sources": {
@@ -33006,8 +33026,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 49.85691322564495,
-      "redraft_market": 45.98540145985402
+      "public_market": 49.56494242272524,
+      "redraft_market": 45.62043795620438
     },
     "d_avi": 50.8,
     "data_sources": {
@@ -33071,8 +33091,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 37.832558576325305,
-      "redraft_market": 34.40860215053763
+      "public_market": 36.542235995680144,
+      "redraft_market": 32.795698924731184
     },
     "d_avi": 40.1,
     "data_sources": {
@@ -33120,8 +33140,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 28.673522092313473,
-      "redraft_market": 26.344086021505376
+      "public_market": 27.38319951166831,
+      "redraft_market": 24.731182795698924
     },
     "d_avi": 29.5,
     "data_sources": {
@@ -33169,8 +33189,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 33.21826662099133,
-      "redraft_market": 33.941605839416056
+      "public_market": 31.466441803473085,
+      "redraft_market": 31.751824817518248
     },
     "d_avi": 23.6,
     "data_sources": {
@@ -33397,8 +33417,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 24.911328361748662,
-      "redraft_market": 25.182481751824817
+      "public_market": 25.203299164668373,
+      "redraft_market": 25.547445255474454
     },
     "d_avi": 18.5,
     "data_sources": {
@@ -33560,8 +33580,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 22.20822683074653,
-      "redraft_market": 21.532846715328468
+      "public_market": 22.792168436585946,
+      "redraft_market": 22.26277372262774
     },
     "d_avi": 19.4,
     "data_sources": {
@@ -33609,8 +33629,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 39.4877335371156,
-      "redraft_market": 40.87591240875913
+      "public_market": 39.195762734195895,
+      "redraft_market": 40.51094890510949
     },
     "d_avi": 26.4,
     "data_sources": {
@@ -33658,8 +33678,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 15.75057519838475,
-      "redraft_market": 11.827956989247312
+      "public_market": 16.180682725266472,
+      "redraft_market": 12.365591397849462
     },
     "d_avi": 24.5,
     "data_sources": {
@@ -33886,8 +33906,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 21.891485941658544,
-      "redraft_market": 26.642335766423358
+      "public_market": 21.307544335819127,
+      "redraft_market": 25.912408759124087
     },
     "d_avi": 2.2,
     "data_sources": {
@@ -33935,8 +33955,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 31.952857209935672,
-      "redraft_market": 29.56989247311828
+      "public_market": 31.092642156172232,
+      "redraft_market": 28.49462365591398
     },
     "d_avi": 32.3,
     "data_sources": {
@@ -34261,8 +34281,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 27.419354838709676,
-      "redraft_market": 27.419354838709676
+      "public_market": 29.032258064516128,
+      "redraft_market": 29.032258064516128
     },
     "d_avi": 0.0,
     "data_sources": {
@@ -34310,8 +34330,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 26.106024322674557,
-      "redraft_market": 22.043010752688172
+      "public_market": 23.525379161384237,
+      "redraft_market": 18.817204301075268
     },
     "d_avi": 32.9,
     "data_sources": {
@@ -34359,8 +34379,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 49.27078931304879,
-      "redraft_market": 48.924731182795696
+      "public_market": 48.840681786167075,
+      "redraft_market": 48.38709677419355
     },
     "d_avi": 39.4,
     "data_sources": {
@@ -34424,8 +34444,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 25.915834409338853,
-      "redraft_market": 24.452554744525546
+      "public_market": 21.53627236554323,
+      "redraft_market": 18.978102189781023
     },
     "d_avi": 24.7,
     "data_sources": {
@@ -34522,8 +34542,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 28.544865474010425,
-      "redraft_market": 22.580645161290324
+      "public_market": 29.83518805465559,
+      "redraft_market": 24.193548387096776
     },
     "d_avi": 40.8,
     "data_sources": {
@@ -34572,8 +34592,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 22.020941916701883,
-      "redraft_market": 20.43010752688172
+      "public_market": 22.881156970465323,
+      "redraft_market": 21.50537634408602
     },
     "d_avi": 22.1,
     "data_sources": {
@@ -34621,8 +34641,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 31.023742391103852,
-      "redraft_market": 30.656934306569344
+      "public_market": 29.56388837650531,
+      "redraft_market": 28.83211678832117
     },
     "d_avi": 25.3,
     "data_sources": {
@@ -34719,8 +34739,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 41.76456777949946,
-      "redraft_market": 41.39784946236559
+      "public_market": 41.33446025261774,
+      "redraft_market": 40.86021505376344
     },
     "d_avi": 33.6,
     "data_sources": {
@@ -34834,8 +34854,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 32.9069822040663,
-      "redraft_market": 30.107526881720432
+      "public_market": 32.47687467718458,
+      "redraft_market": 29.56989247311828
     },
     "d_avi": 34.3,
     "data_sources": {
@@ -34997,8 +35017,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 34.63398600741888,
-      "redraft_market": 31.72043010752688
+      "public_market": 35.92430858806405,
+      "redraft_market": 33.333333333333336
     },
     "d_avi": 36.0,
     "data_sources": {
@@ -35046,8 +35066,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 25.151899328543927,
-      "redraft_market": 21.50537634408602
+      "public_market": 23.861576747898766,
+      "redraft_market": 19.892473118279568
     },
     "d_avi": 30.9,
     "data_sources": {
@@ -35111,8 +35131,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 28.96839930506644,
-      "redraft_market": 23.655913978494624
+      "public_market": 28.108184251303,
+      "redraft_market": 22.580645161290324
     },
     "d_avi": 39.1,
     "data_sources": {
@@ -35160,8 +35180,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 24.8288491336808,
-      "redraft_market": 19.35483870967742
+      "public_market": 23.108419026153918,
+      "redraft_market": 17.204301075268816
     },
     "d_avi": 36.3,
     "data_sources": {
@@ -35209,8 +35229,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 20.918074257556196,
-      "redraft_market": 22.62773722627737
+      "public_market": 21.502015863395613,
+      "redraft_market": 23.357664233576642
     },
     "d_avi": 11.0,
     "data_sources": {
@@ -35258,8 +35278,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 22.477344226886416,
-      "redraft_market": 18.817204301075268
+      "public_market": 22.907451753768136,
+      "redraft_market": 19.35483870967742
     },
     "d_avi": 28.9,
     "data_sources": {
@@ -35437,8 +35457,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 36.37413720242288,
-      "redraft_market": 32.25806451612903
+      "public_market": 35.94402967554116,
+      "redraft_market": 31.72043010752688
     },
     "d_avi": 41.1,
     "data_sources": {
@@ -35486,8 +35506,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 31.187119555192496,
-      "redraft_market": 32.846715328467155
+      "public_market": 29.435294737674248,
+      "redraft_market": 30.656934306569344
     },
     "d_avi": 19.1,
     "data_sources": {
@@ -35551,8 +35571,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 56.08579936230204,
-      "redraft_market": 56.56934306569343
+      "public_market": 55.50185775646263,
+      "redraft_market": 55.839416058394164
     },
     "d_avi": 42.1,
     "data_sources": {
@@ -35600,8 +35620,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 29.87166987272392,
-      "redraft_market": 31.021897810218977
+      "public_market": 29.287728266884503,
+      "redraft_market": 30.291970802919707
     },
     "d_avi": 19.7,
     "data_sources": {
@@ -35698,8 +35718,8 @@
       "player_points": 0.0,
       "position_liquidity": null,
       "projection": null,
-      "public_market": 27.121190778043857,
-      "redraft_market": 24.731182795698924
+      "public_market": 26.260975724280417,
+      "redraft_market": 23.655913978494624
     },
     "d_avi": 28.5,
     "data_sources": {

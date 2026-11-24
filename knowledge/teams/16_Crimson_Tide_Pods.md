@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 279.9
-- championship_lineup_c_avi_avg: 34.99
-- offensive_roster_c_avi_sum: 491.2
-- offensive_roster_c_avi_avg: 30.70
-- offensive_roster_d_avi_sum: 1119.0
-- offensive_roster_d_avi_avg: 69.94
+- championship_lineup_c_avi_sum: 280.2
+- championship_lineup_c_avi_avg: 35.02
+- offensive_roster_c_avi_sum: 491.5
+- offensive_roster_c_avi_avg: 30.72
+- offensive_roster_d_avi_sum: 1118.1
+- offensive_roster_d_avi_avg: 69.88
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,9 +35,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Dylan Sampson | C-AVI: 34.8 | D-AVI: 72.3
 - WR: Brian Thomas Jr. | C-AVI: 39.8 | D-AVI: 79.8
 - WR: Germie Bernard | C-AVI: 36.7 | D-AVI: 76.6
-- TE: Gunnar Helm | C-AVI: 33.3 | D-AVI: 69.7
+- TE: Gunnar Helm | C-AVI: 33.7 | D-AVI: 69.7
 - FLEX: Chris Rodriguez Jr. | C-AVI: 31.6 | D-AVI: 71.7
-- FLEX: Oronde Gadsden | C-AVI: 30.6 | D-AVI: 73.5
+- FLEX: Oronde Gadsden | C-AVI: 30.5 | D-AVI: 72.6
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -291,7 +291,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 33.3
+- Championship AVI (C-AVI, 0-100): 33.7
 - Dynasty AVI (D-AVI, 0-100): 69.7
 - Projected PPR points: 130.3
 - Category: offense
@@ -308,8 +308,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 30.6
-- Dynasty AVI (D-AVI, 0-100): 73.5
+- Championship AVI (C-AVI, 0-100): 30.5
+- Dynasty AVI (D-AVI, 0-100): 72.6
 - Projected PPR points: 141.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

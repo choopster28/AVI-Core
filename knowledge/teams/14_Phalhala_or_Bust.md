@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 455.3
-- championship_lineup_c_avi_avg: 56.91
-- offensive_roster_c_avi_sum: 609.1
-- offensive_roster_c_avi_avg: 43.51
-- offensive_roster_d_avi_sum: 1026.7
-- offensive_roster_d_avi_avg: 73.34
+- championship_lineup_c_avi_sum: 456.2
+- championship_lineup_c_avi_avg: 57.02
+- offensive_roster_c_avi_sum: 610.0
+- offensive_roster_c_avi_avg: 43.57
+- offensive_roster_d_avi_sum: 1026.9
+- offensive_roster_d_avi_avg: 73.35
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,8 +35,8 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Jaylen Warren | C-AVI: 70.1 | D-AVI: 85.6
 - WR: Rome Odunze | C-AVI: 60.9 | D-AVI: 86.0
 - WR: Makai Lemon | C-AVI: 42.2 | D-AVI: 82.6
-- TE: Sam LaPorta | C-AVI: 72.2 | D-AVI: 86.3
-- FLEX: Hunter Henry | C-AVI: 46.9 | D-AVI: 72.8
+- TE: Sam LaPorta | C-AVI: 72.7 | D-AVI: 86.4
+- FLEX: Hunter Henry | C-AVI: 47.3 | D-AVI: 72.9
 - FLEX: Jordan Mason | C-AVI: 33.0 | D-AVI: 73.8
 
 ## Current Roster — All Player Cards
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 72.2
-- Dynasty AVI (D-AVI, 0-100): 86.3
+- Championship AVI (C-AVI, 0-100): 72.7
+- Dynasty AVI (D-AVI, 0-100): 86.4
 - Projected PPR points: 196.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 46.9
-- Dynasty AVI (D-AVI, 0-100): 72.8
+- Championship AVI (C-AVI, 0-100): 47.3
+- Dynasty AVI (D-AVI, 0-100): 72.9
 - Projected PPR points: 153.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

@@ -1206,7 +1206,7 @@
     {
       "average": 0.2,
       "filename": "rasheen-ali.php",
-      "games": 10,
+      "games": 11,
       "player_id": 25983,
       "player_name": "Rasheen Ali",
       "points": 2.4,
@@ -1215,6 +1215,7 @@
       "weeks": {
         "1": 0,
         "10": 0,
+        "11": 0,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1568,7 +1569,7 @@
     {
       "average": 0.1,
       "filename": "patrick-ricard.php",
-      "games": 9,
+      "games": 10,
       "player_id": 17145,
       "player_name": "Patrick Ricard",
       "points": 1.1,
@@ -1577,6 +1578,7 @@
       "weeks": {
         "1": 0,
         "10": 0,
+        "11": 0,
         "2": 0,
         "3": 0,
         "4": 1.1,
@@ -1771,7 +1773,7 @@
     {
       "average": 0,
       "filename": "max-bredeson.php",
-      "games": 9,
+      "games": 10,
       "player_id": 28434,
       "player_name": "Max Bredeson",
       "points": 0,
@@ -1780,6 +1782,7 @@
       "weeks": {
         "1": 0,
         "10": 0,
+        "11": 0,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1828,9 +1831,9 @@
       }
     },
     {
-      "average": 3.5,
+      "average": 3.2,
       "filename": "roschon-johnson.php",
-      "games": 9,
+      "games": 10,
       "player_id": 25322,
       "player_name": "Roschon Johnson",
       "points": 31.900000000000002,
@@ -1838,6 +1841,7 @@
       "team_id": "CHI",
       "weeks": {
         "1": 0,
+        "11": 0,
         "2": 0,
         "3": 0,
         "4": 3.3,
@@ -2139,7 +2143,7 @@
     {
       "average": 0.2,
       "filename": "travis-homer.php",
-      "games": 8,
+      "games": 9,
       "player_id": 18616,
       "player_name": "Travis Homer",
       "points": 1.5,
@@ -2147,6 +2151,7 @@
       "team_id": "PIT",
       "weeks": {
         "10": 0,
+        "11": 0,
         "2": 1.6,
         "3": 0,
         "4": -0.1,
@@ -2177,15 +2182,16 @@
       }
     },
     {
-      "average": 2.9,
+      "average": 2.5,
       "filename": "sean-tucker.php",
-      "games": 7,
+      "games": 8,
       "player_id": 23679,
       "player_name": "Sean Tucker",
       "points": 20,
       "position_id": "RB",
       "team_id": "TB",
       "weeks": {
+        "11": 0,
         "2": 0,
         "3": 0,
         "4": 7,
@@ -2272,7 +2278,7 @@
     {
       "average": 0,
       "filename": "evan-hull.php",
-      "games": 6,
+      "games": 7,
       "player_id": 25325,
       "player_name": "Evan Hull",
       "points": 0,
@@ -2280,6 +2286,7 @@
       "team_id": "ARI",
       "weeks": {
         "10": 0,
+        "11": 0,
         "3": 0,
         "6": 0,
         "7": 0,
@@ -2833,13 +2840,14 @@
     {
       "average": 0,
       "filename": "phil-mafah.php",
-      "games": 1,
+      "games": 2,
       "player_id": 22928,
       "player_name": "Phil Mafah",
       "points": 0,
       "position_id": "RB",
       "team_id": "NYG",
       "weeks": {
+        "11": 0,
         "9": 0
       }
     },

@@ -832,8 +832,8 @@
     "avi_id": "AVI-00006803",
     "canonical_name": "Brandon Aiyuk",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "nfl_team": "SF",
     "normalized_name": "brandon aiyuk",
