@@ -28,14 +28,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
 
-## PLAYER LOOKUP: Aaron Rodgers
-- Player name: Aaron Rodgers
-- Player ID: 96
-- Position: QB
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Team file: 04_Mile_High_Royal_Lions.md
-
 ## PLAYER LOOKUP: Adam Randall
 - Player name: Adam Randall
 - Player ID: 13302
@@ -147,6 +139,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Gringo’s Goblins 
 - Current owner roster ID: 15
 - Team file: 15_Gringo_s_Goblins.md
+
+## PLAYER LOOKUP: Brandon Aiyuk
+- Player name: Brandon Aiyuk
+- Player ID: 6803
+- Position: WR
+- Current owner team: SmokyValleyWheatWarriors
+- Current owner roster ID: 10
+- Team file: 10_SmokyValleyWheatWarriors.md
 
 ## PLAYER LOOKUP: Breece Hall
 - Player name: Breece Hall
@@ -860,6 +860,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
 
+## PLAYER LOOKUP: Jack Bech
+- Player name: Jack Bech
+- Player ID: 12483
+- Position: WR
+- Current owner team: Corgi Loaf Baking Co. 
+- Current owner roster ID: 11
+- Team file: 11_Corgi_Loaf_Baking_Co.md
+
 ## PLAYER LOOKUP: Jacoby Brissett
 - Player name: Jacoby Brissett
 - Player ID: 3257
@@ -1196,14 +1204,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
 
-## PLAYER LOOKUP: Kaleb Johnson
-- Player name: Kaleb Johnson
-- Player ID: 12504
-- Position: RB
-- Current owner team: SmokyValleyWheatWarriors
-- Current owner roster ID: 10
-- Team file: 10_SmokyValleyWheatWarriors.md
-
 ## PLAYER LOOKUP: Kayshon Boutte
 - Player name: Kayshon Boutte
 - Player ID: 9504
@@ -1419,6 +1419,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Mile High Royal Lions
 - Current owner roster ID: 4
 - Team file: 04_Mile_High_Royal_Lions.md
+
+## PLAYER LOOKUP: Mason Rudolph
+- Player name: Mason Rudolph
+- Player ID: 4972
+- Position: QB
+- Current owner team: Southside Savages
+- Current owner roster ID: 13
+- Team file: 13_Southside_Savages.md
 
 ## PLAYER LOOKUP: Matthew Golden
 - Player name: Matthew Golden
@@ -2065,13 +2073,13 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 71.1
 - Availability: available
 
-## AVAILABLE PLAYER: Jack Bech
-- Player name: Jack Bech
-- Player ID: 12483
-- Position: WR
-- NFL team: LVR
-- Championship AVI (C-AVI, 0-100): 31.2
-- Dynasty AVI (D-AVI, 0-100): 64.9
+## AVAILABLE PLAYER: Aaron Rodgers
+- Player name: Aaron Rodgers
+- Player ID: 96
+- Position: QB
+- NFL team: PIT
+- Championship AVI (C-AVI, 0-100): 31.3
+- Dynasty AVI (D-AVI, 0-100): 61.7
 - Availability: available
 
 ## AVAILABLE PLAYER: Deshaun Watson
@@ -2261,6 +2269,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: CHI
 - Championship AVI (C-AVI, 0-100): 24.1
 - Dynasty AVI (D-AVI, 0-100): 55.8
+- Availability: available
+
+## AVAILABLE PLAYER: Kaleb Johnson
+- Player name: Kaleb Johnson
+- Player ID: 12504
+- Position: RB
+- NFL team: GB
+- Championship AVI (C-AVI, 0-100): 23.8
+- Dynasty AVI (D-AVI, 0-100): 65.8
 - Availability: available
 
 ## AVAILABLE PLAYER: Max Klare
@@ -3271,15 +3288,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 47.3
 - Availability: available
 
-## AVAILABLE PLAYER: Mason Rudolph
-- Player name: Mason Rudolph
-- Player ID: 4972
-- Position: QB
-- NFL team: PIT
-- Championship AVI (C-AVI, 0-100): 13.0
-- Dynasty AVI (D-AVI, 0-100): 39.2
-- Availability: available
-
 ## AVAILABLE PLAYER: Brashard Smith
 - Player name: Brashard Smith
 - Player ID: 12455
@@ -3602,15 +3610,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: FA
 - Championship AVI (C-AVI, 0-100): 0.0
 - Dynasty AVI (D-AVI, 0-100): 0.0
-- Availability: available
-
-## AVAILABLE PLAYER: Brandon Aiyuk
-- Player name: Brandon Aiyuk
-- Player ID: 6803
-- Position: WR
-- NFL team: SF
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 49.4
 - Availability: available
 
 ## AVAILABLE PLAYER: CJ Donaldson

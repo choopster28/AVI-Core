@@ -39,13 +39,13 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00012483",
-      "c_avi": 31.2,
-      "d_avi": 64.9,
-      "nfl_team": "LVR",
-      "player_name": "Jack Bech",
-      "position": "WR",
-      "sleeper_id": "12483",
+      "avi_id": "AVI-00000096",
+      "c_avi": 31.3,
+      "d_avi": 61.7,
+      "nfl_team": "PIT",
+      "player_name": "Aaron Rodgers",
+      "position": "QB",
+      "sleeper_id": "96",
       "status": "Active"
     },
     {
@@ -298,6 +298,18 @@
       "player_name": "Kalif Raymond",
       "position": "WR",
       "sleeper_id": "3634",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00012504",
+      "c_avi": 23.8,
+      "d_avi": 65.8,
+      "nfl_team": "GB",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "sleeper_id": "12504",
       "status": "Active"
     },
     {
@@ -1647,18 +1659,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00004972",
-      "c_avi": 13.0,
-      "d_avi": 39.2,
-      "nfl_team": "PIT",
-      "player_name": "Mason Rudolph",
-      "position": "QB",
-      "sleeper_id": "4972",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00012455",
       "c_avi": 12.9,
       "d_avi": 59.2,
@@ -2086,18 +2086,6 @@
       "player_name": "Antonio Williams",
       "position": "RB",
       "sleeper_id": "7203",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00006803",
-      "c_avi": 0.0,
-      "d_avi": 49.4,
-      "nfl_team": "SF",
-      "player_name": "Brandon Aiyuk",
-      "position": "WR",
-      "sleeper_id": "6803",
       "status": "Active"
     },
     {
@@ -2702,8 +2690,8 @@
     }
   ],
   "counts": {
-    "available_players": 225,
-    "rostered_players": 254
+    "available_players": 224,
+    "rostered_players": 255
   },
   "rostered_players": [
     {
@@ -2753,22 +2741,6 @@
       "status": "Active",
       "team_file": "15_Gringo_s_Goblins.md",
       "team_name": "Gringo’s Goblins "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00000096",
-      "c_avi": 31.3,
-      "d_avi": 61.7,
-      "nfl_team": "PIT",
-      "owner_id": "736992907139158016",
-      "player_name": "Aaron Rodgers",
-      "position": "QB",
-      "roster_id": 4,
-      "sleeper_id": "96",
-      "status": "Active",
-      "team_file": "04_Mile_High_Royal_Lions.md",
-      "team_name": "Mile High Royal Lions"
     },
     {
       "active": true,
@@ -2993,6 +2965,22 @@
       "status": "Active",
       "team_file": "15_Gringo_s_Goblins.md",
       "team_name": "Gringo’s Goblins "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00006803",
+      "c_avi": 0.0,
+      "d_avi": 49.4,
+      "nfl_team": "SF",
+      "owner_id": "308805697879937024",
+      "player_name": "Brandon Aiyuk",
+      "position": "WR",
+      "roster_id": 10,
+      "sleeper_id": "6803",
+      "status": "Active",
+      "team_file": "10_SmokyValleyWheatWarriors.md",
+      "team_name": "SmokyValleyWheatWarriors"
     },
     {
       "active": true,
@@ -4206,7 +4194,7 @@
       "position": "RB",
       "roster_id": 8,
       "sleeper_id": "12048",
-      "status": "Active",
+      "status": "Inactive",
       "team_file": "08_All_Hail_King_Jesus.md",
       "team_name": "All Hail King Jesus"
     },
@@ -4417,6 +4405,22 @@
       "status": "Active",
       "team_file": "07_Badland_Banditos.md",
       "team_name": "Badland Banditos "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00012483",
+      "c_avi": 31.2,
+      "d_avi": 64.9,
+      "nfl_team": "LVR",
+      "owner_id": "986498458162970624",
+      "player_name": "Jack Bech",
+      "position": "WR",
+      "roster_id": 11,
+      "sleeper_id": "12483",
+      "status": "Active",
+      "team_file": "11_Corgi_Loaf_Baking_Co.md",
+      "team_name": "Corgi Loaf Baking Co. "
     },
     {
       "active": true,
@@ -5093,22 +5097,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00012504",
-      "c_avi": 23.8,
-      "d_avi": 65.8,
-      "nfl_team": "GB",
-      "owner_id": "308805697879937024",
-      "player_name": "Kaleb Johnson",
-      "position": "RB",
-      "roster_id": 10,
-      "sleeper_id": "12504",
-      "status": "Active",
-      "team_file": "10_SmokyValleyWheatWarriors.md",
-      "team_name": "SmokyValleyWheatWarriors"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00009504",
       "c_avi": 37.9,
       "d_avi": 68.4,
@@ -5537,6 +5525,22 @@
       "status": "Active",
       "team_file": "04_Mile_High_Royal_Lions.md",
       "team_name": "Mile High Royal Lions"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00004972",
+      "c_avi": 13.0,
+      "d_avi": 39.2,
+      "nfl_team": "PIT",
+      "owner_id": "998253660243054592",
+      "player_name": "Mason Rudolph",
+      "position": "QB",
+      "roster_id": 13,
+      "sleeper_id": "4972",
+      "status": "Active",
+      "team_file": "13_Southside_Savages.md",
+      "team_name": "Southside Savages"
     },
     {
       "active": true,
