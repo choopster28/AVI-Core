@@ -4739,7 +4739,7 @@
     {
       "cbs_player_id": "3117134",
       "player_age": "30",
-      "player_bye_week": "7",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "RB",
       "player_filename": "craig-reynolds.php",
@@ -4752,7 +4752,7 @@
       "player_position_id": "RB",
       "player_positions": "RB",
       "player_short_name": "C. Reynolds",
-      "player_team_id": "WAS",
+      "player_team_id": "FA",
       "player_yahoo_id": "32596",
       "player_yahoo_positions": "RB",
       "pos_rank": "RB170",

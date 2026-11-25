@@ -7569,7 +7569,7 @@
     },
     {
       "cbs_player_id": "2871726",
-      "player_bye_week": "8",
+      "player_bye_week": null,
       "player_ecr_delta": null,
       "player_eligibility": "DE",
       "player_filename": "robert-beal.php",
@@ -7582,7 +7582,7 @@
       "player_position_id": "DE",
       "player_positions": "DE",
       "player_short_name": "R. Beal Jr.",
-      "player_team_id": "SF",
+      "player_team_id": "FA",
       "player_yahoo_id": "40181",
       "player_yahoo_positions": "DE",
       "pos_rank": "DE105",

@@ -12228,7 +12228,7 @@
     },
     {
       "cbs_player_id": "2130980",
-      "player_bye_week": null,
+      "player_bye_week": "10",
       "player_ecr_delta": null,
       "player_eligibility": "CB",
       "player_filename": "isaac-yiadom.php",
@@ -12241,7 +12241,7 @@
       "player_position_id": "CB",
       "player_positions": "CB",
       "player_short_name": "I. Yiadom",
-      "player_team_id": "FA",
+      "player_team_id": "CHI",
       "player_yahoo_id": "31069",
       "player_yahoo_positions": "CB",
       "pos_rank": "CB230",

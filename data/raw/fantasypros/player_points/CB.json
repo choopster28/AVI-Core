@@ -3681,7 +3681,7 @@
       "player_name": "Isaac Yiadom",
       "points": 0,
       "position_id": "CB",
-      "team_id": "FA",
+      "team_id": "CHI",
       "weeks": {
         "3": 0,
         "4": 0,
@@ -4388,7 +4388,7 @@
       "player_name": "AJ Woods",
       "points": 0,
       "position_id": "CB",
-      "team_id": "FA",
+      "team_id": "LV",
       "weeks": {
         "8": 0
       }
@@ -4432,7 +4432,7 @@
       "player_name": "Corey Thornton",
       "points": 20,
       "position_id": "CB",
-      "team_id": "CAR",
+      "team_id": "TEN",
       "weeks": {
         "10": 6,
         "9": 14
@@ -4529,7 +4529,7 @@
       "player_name": "Dominique Hampton",
       "points": 0,
       "position_id": "CB",
-      "team_id": "TEN",
+      "team_id": "FA",
       "weeks": {
         "10": 0
       }

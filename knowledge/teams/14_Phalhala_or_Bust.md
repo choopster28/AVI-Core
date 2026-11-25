@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 1132141719354535936
 - Division: 3
 - Waiver position: 1
-- Last updated from Sleeper exports: 2026-11-24
+- Last updated from Sleeper exports: 2026-11-25
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 456.2
-- championship_lineup_c_avi_avg: 57.02
-- offensive_roster_c_avi_sum: 610.0
-- offensive_roster_c_avi_avg: 43.57
-- offensive_roster_d_avi_sum: 1026.9
-- offensive_roster_d_avi_avg: 73.35
+- championship_lineup_c_avi_sum: 456.1
+- championship_lineup_c_avi_avg: 57.01
+- offensive_roster_c_avi_sum: 609.9
+- offensive_roster_c_avi_avg: 43.56
+- offensive_roster_d_avi_sum: 1026.6
+- offensive_roster_d_avi_avg: 73.33
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -34,7 +34,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Ashton Jeanty | C-AVI: 83.8 | D-AVI: 94.3
 - RB: Jaylen Warren | C-AVI: 70.1 | D-AVI: 85.6
 - WR: Rome Odunze | C-AVI: 60.9 | D-AVI: 86.0
-- WR: Makai Lemon | C-AVI: 42.2 | D-AVI: 82.6
+- WR: Makai Lemon | C-AVI: 42.1 | D-AVI: 82.3
 - TE: Sam LaPorta | C-AVI: 72.7 | D-AVI: 86.4
 - FLEX: Hunter Henry | C-AVI: 47.3 | D-AVI: 72.9
 - FLEX: Jordan Mason | C-AVI: 33.0 | D-AVI: 73.8
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 42.2
-- Dynasty AVI (D-AVI, 0-100): 82.6
+- Championship AVI (C-AVI, 0-100): 42.1
+- Dynasty AVI (D-AVI, 0-100): 82.3
 - Projected PPR points: 168.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

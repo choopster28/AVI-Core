@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 736992907139158016
 - Division: 4
 - Waiver position: 3
-- Last updated from Sleeper exports: 2026-11-24
+- Last updated from Sleeper exports: 2026-11-25
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -188,7 +188,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - NFL team: DEN
 - Active: True
 - Status: Active
-- Age: 27.0
+- Age: 28.0
 - Championship AVI (C-AVI, 0-100): 58.1
 - Dynasty AVI (D-AVI, 0-100): 85.5
 - Projected PPR points: 221.0

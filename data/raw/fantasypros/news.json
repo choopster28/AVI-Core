@@ -3,6 +3,58 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-25 04:34:54",
+      "created_formated": "Wed, Nov 25th 4:34am UTC",
+      "desc": "Mason Rudolph has been named the starting QB for the Steelers for Friday's game against the Broncos. ",
+      "id": 622413,
+      "impact": "The Steelers have made the decision to bench Aaron Rodgers. Rudolph will attempt to revamp the Steelers offense. ",
+      "link": "https://www.fantasypros.com/nfl/news/622413/mason-rudolph-to-start-steelers-week-12.php",
+      "player_id": 17234,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Mason Rudolph to start for Steelers in Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Breaking"
+      ],
+      "created": "2026-11-25 04:33:05",
+      "created_formated": "Wed, Nov 25th 4:33am UTC",
+      "desc": "The Steelers are benching Aaron Rodgers for Friday's game against the Broncos.",
+      "id": 622412,
+      "impact": "Pelissero notes that this was a coaches decision. Mason Rudolph will start for Pittsburgh on Friday. ",
+      "link": "https://www.fantasypros.com/nfl/news/622412/aaron-rodgers-to-be-benched-week-12.php",
+      "player_id": 9001,
+      "sport_id": "NFL",
+      "team_id": "PIT",
+      "title": "Aaron Rodgers to be benched in Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News"
+      ],
+      "created": "2026-11-25 03:48:54",
+      "created_formated": "Wed, Nov 25th 3:48am UTC",
+      "desc": "Broncos coach Sean Payton said he suspended J.K. Dobbins one game for conduct detrimental to the team.",
+      "id": 622411,
+      "impact": "Dobbins played just one snap last week. Jonah Coleman will remain in his workhorse role in the Broncos backfield. ",
+      "link": "https://www.fantasypros.com/nfl/news/622411/jk-dobbins-suspended-one-game.php",
+      "player_id": 19245,
+      "sport_id": "NFL",
+      "team_id": "DEN",
+      "title": "J.K. Dobbins suspended one game"
+    },
+    {
       "author": "Chris Schommer",
       "categories": [
         "Commentary",
@@ -397,60 +449,6 @@
       "sport_id": "NFL",
       "team_id": "CIN",
       "title": "Ja'Marr Chase held to 31 yards in Week 11"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-24 11:05:03",
-      "created_formated": "Tue, Nov 24th 11:05am UTC",
-      "desc": "Samaje Perine carried the ball six times for 26 yards and caught all four of his targets for 71 yards in a 22-20 loss to the Commanders in Week 11.",
-      "id": 622318,
-      "impact": "Perine led the Bengals in rushing while finishing second on the team in receiving in the close loss. The team continues to mix Perine in on offense behind Chase Brown, giving him low-end flex value in fantasy most weeks. He will now prepare to take on the Saints in Week 12.",
-      "link": "https://www.fantasypros.com/nfl/news/622318/samaje-perine-leads-bengals-rushing-week-11.php",
-      "player_id": 16423,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Samaje Perine leads Bengals in rushing in Week 11"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-24 11:00:16",
-      "created_formated": "Tue, Nov 24th 11:00am UTC",
-      "desc": "Chase Brown carried the ball six times for six yards and caught five of his eight targets for 30 yards in a 22-20 loss to the Commanders in Week 11.",
-      "id": 622317,
-      "impact": "Brown and Samaje Perine both saw six carries in the Monday night loss. The Bengals continue to split work between the two, although Brown's eight targets were second on the team in the close loss. Brown has rushed for 447 yards while adding 52 catches for 276 yards and three all-purpose touchdowns through 10 games this season. He will be a low-end RB1 in fantasy heading into Week 12 vs. the Saints.",
-      "link": "https://www.fantasypros.com/nfl/news/622317/chase-brown-held-to-six-rushing-yards-week-11.php",
-      "player_id": 25324,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Chase Brown held to six rushing yards in Week 11"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-24 10:56:07",
-      "created_formated": "Tue, Nov 24th 10:56am UTC",
-      "desc": "Joe Burrow completed 28 of his 40 passes for 300 yards and two touchdowns in a 22-20 loss to the Commanders in Week 11.",
-      "id": 622316,
-      "impact": "Burrow and the Cincy offense got off to a slow start on a rainy night at Northwest Stadium as they didn't score their first points until the second quarter.  His first touchdown pass went to Tee Higgins in the second quarter, while his second was a four-yard completion to Colbie Young in the third. The game on Monday night was the first time Burrow didn't throw for at least three touchdowns since Week 4 vs. Jacksonville. He will be a top-three fantasy QB in Week 12 against the Saints.",
-      "link": "https://www.fantasypros.com/nfl/news/622316/joe-burrow-throws-two-tds-week-11-loss.php",
-      "player_id": 19196,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Joe Burrow throws two TDs in Week 11 loss"
     }
   ],
   "public_api": true,
