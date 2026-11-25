@@ -1,23 +1,114 @@
 {
-  "count": 25,
+  "count": 24,
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News"
+        "News",
+        "Injury"
       ],
-      "created": "2026-11-25 04:34:54",
-      "created_formated": "Wed, Nov 25th 4:34am UTC",
-      "desc": "Mason Rudolph has been named the starting QB for the Steelers for Friday's game against the Broncos. ",
-      "id": 622413,
-      "impact": "The Steelers have made the decision to bench Aaron Rodgers. Rudolph will attempt to revamp the Steelers offense. ",
-      "link": "https://www.fantasypros.com/nfl/news/622413/mason-rudolph-to-start-steelers-week-12.php",
-      "player_id": 17234,
+      "created": "2026-11-25 20:49:53",
+      "created_formated": "Wed, Nov 25th 8:49pm UTC",
+      "desc": "The Rams activated OL Justin Dedich from injured reserve. ",
+      "id": 622565,
+      "impact": "Dedich will return for Wednesday's game against the Packers. ",
+      "link": "https://www.fantasypros.com/nfl/news/622565/justin-dedich-activated-from-ir.php",
+      "player_id": 26731,
       "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Mason Rudolph to start for Steelers in Week 12"
+      "team_id": "LAR",
+      "title": "Justin Dedich activated from IR"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-25 20:48:58",
+      "created_formated": "Wed, Nov 25th 8:48pm UTC",
+      "desc": "The Rams activated Kobie Turner from injured reserve. ",
+      "id": 622564,
+      "impact": "Turner will return for Wednesday's game against the Packers. ",
+      "link": "https://www.fantasypros.com/nfl/news/622564/kobie-turner-groin-activated-from-ir.php",
+      "player_id": 25283,
+      "sport_id": "NFL",
+      "team_id": "LAR",
+      "title": "Kobie Turner (groin) activated from IR"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-25 20:46:46",
+      "created_formated": "Wed, Nov 25th 8:46pm UTC",
+      "desc": "Abraham Lucas has been ruled out for Sunday's game against the 49ers. ",
+      "id": 622563,
+      "impact": "Lucas was unable to get healthy during the bye week. He remains week-to-week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622563/abraham-lucas-ankle-ruled-out-week-12.php",
+      "player_id": 22777,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Abraham Lucas (ankle) ruled out for Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-25 20:45:53",
+      "created_formated": "Wed, Nov 25th 8:45pm UTC",
+      "desc": "Quenton Nelson has been ruled out for Sunday's game against the 49ers. ",
+      "id": 622562,
+      "impact": "Nelson was unable to get healthy during the bye week. He remains week-to-week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622562/quenton-nelson-knee-will-not-play-week-12.php",
+      "player_id": 17275,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Quenton Nelson (knee) will not play in Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-25 20:44:39",
+      "created_formated": "Wed, Nov 25th 8:44pm UTC",
+      "desc": "Sam Darnold will practice on Wednesday. ",
+      "id": 622561,
+      "impact": "Darnold continues to trend towards returning for Sunday's game against the 49ers. ",
+      "link": "https://www.fantasypros.com/nfl/news/622561/sam-darnold-quadhip-will-practice-wednesday.php",
+      "player_id": 17236,
+      "sport_id": "NFL",
+      "team_id": "SEA",
+      "title": "Sam Darnold (quad/rib) will practice Wednesday "
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-25 20:24:06",
+      "created_formated": "Wed, Nov 25th 8:24pm UTC",
+      "desc": "Stefon Diggs is not at practice on Wednesday. ",
+      "id": 622552,
+      "impact": "Diggs is away due to personal reasons. He will need to be monitored in practice on Thursday. ",
+      "link": "https://www.fantasypros.com/nfl/news/622552/stefon-diggs-personal-not-practice-wednesday.php",
+      "player_id": 13981,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Stefon Diggs (personal) not at practice Wednesday "
     },
     {
       "author": "Ari Koslow",
@@ -26,33 +117,34 @@
         "News",
         "Breaking"
       ],
-      "created": "2026-11-25 04:33:05",
-      "created_formated": "Wed, Nov 25th 4:33am UTC",
-      "desc": "The Steelers are benching Aaron Rodgers for Friday's game against the Broncos.",
-      "id": 622412,
-      "impact": "Pelissero notes that this was a coaches decision. Mason Rudolph will start for Pittsburgh on Friday. ",
-      "link": "https://www.fantasypros.com/nfl/news/622412/aaron-rodgers-to-be-benched-week-12.php",
+      "created": "2026-11-25 20:04:30",
+      "created_formated": "Wed, Nov 25th 8:04pm UTC",
+      "desc": "The Steelers released QB Aaron Rodgers. ",
+      "id": 622550,
+      "impact": "This news comes within an hour after Rodgers went onto the Pat McAfee airing out information on Mike McCarthy and his time being with him in Pittsburgh and Green Bay. Aaron Rodgers had said entering this year that this would be his final season. It is unclear what will be next for him.  ",
+      "link": "https://www.fantasypros.com/nfl/news/622550/aaron-rodgers-released-by-steelers.php",
       "player_id": 9001,
       "sport_id": "NFL",
       "team_id": "PIT",
-      "title": "Aaron Rodgers to be benched in Week 12"
+      "title": "Aaron Rodgers released by Steelers "
     },
     {
       "author": "Ari Koslow",
       "categories": [
         "Commentary",
-        "News"
+        "News",
+        "Injury"
       ],
-      "created": "2026-11-25 03:48:54",
-      "created_formated": "Wed, Nov 25th 3:48am UTC",
-      "desc": "Broncos coach Sean Payton said he suspended J.K. Dobbins one game for conduct detrimental to the team.",
-      "id": 622411,
-      "impact": "Dobbins played just one snap last week. Jonah Coleman will remain in his workhorse role in the Broncos backfield. ",
-      "link": "https://www.fantasypros.com/nfl/news/622411/jk-dobbins-suspended-one-game.php",
-      "player_id": 19245,
+      "created": "2026-11-25 19:58:02",
+      "created_formated": "Wed, Nov 25th 7:58pm UTC",
+      "desc": "Derrick Henry was limited in practice on Wednesday. ",
+      "id": 622549,
+      "impact": "Henry is in concussion protocol. He will need to be monitored in practice the rest of the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622549/derrick-henry-concussion-limited-practice-wednesday.php",
+      "player_id": 15514,
       "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "J.K. Dobbins suspended one game"
+      "team_id": "BAL",
+      "title": "Derrick Henry (concussion) limited in practice Wednesday "
     },
     {
       "author": "Chris Schommer",
@@ -61,70 +153,70 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-24 22:14:29",
-      "created_formated": "Tue, Nov 24th 10:14pm UTC",
-      "desc": "Sam LaPorta (ankle) is practicing Tuesday for the Detroit Lions.",
-      "id": 622385,
-      "impact": "LaPorta is progressing in the right direction on a short week, as the tight end looks to clear through any tests to suit up against the Chicago Bears on Thanksgiving Day. The tight end remains an impactful intermediate pass-catching option as part of a dynamic Lions offense when healthy.",
-      "link": "https://www.fantasypros.com/nfl/news/622385/sam-laporta-ankle-practicing-tuesday.php",
-      "player_id": 22978,
+      "created": "2026-11-25 19:53:40",
+      "created_formated": "Wed, Nov 25th 7:53pm UTC",
+      "desc": "Dak Prescott (hand) is off of the injury report Wednesday for the Dallas Cowboys according to Todd Archer.",
+      "id": 622548,
+      "impact": "Prescott is good to go after a short walkthrough practice week, as the signal-caller leads a high-octane passing attack against the Eagles Thanksgiving Day.",
+      "link": "https://www.fantasypros.com/nfl/news/622548/dak-prescott-hand-off-injury-report-week-12.php",
+      "player_id": 15600,
       "sport_id": "NFL",
-      "team_id": "DET",
-      "title": "Sam LaPorta (ankle) practicing Tuesday "
+      "team_id": "DAL",
+      "title": "Dak Prescott (hand) off injury report for Week 12"
     },
     {
-      "author": "Nate Miller",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-11-24 18:18:51",
-      "created_formated": "Tue, Nov 24th 6:18pm UTC",
-      "desc": "Denzel Boston (toe) did not take part in Tuesday's practice session. ",
-      "id": 622382,
-      "impact": "The Browns are coming off a bye week and have until Sunday night to get ready for the Raiders. That will hopefully leave enough time for Boston to be ready, but this is not an encouraging start to the practice week for the rookie wideout. If Boston cannot go, Jerry Jeudy would likely see his snaps go up. ",
-      "link": "https://www.fantasypros.com/nfl/news/622382/denzel-boston-toe-not-practicing-tuesday.php",
-      "player_id": 27339,
+      "created": "2026-11-25 19:51:41",
+      "created_formated": "Wed, Nov 25th 7:51pm UTC",
+      "desc": "Brock Purdy is not practicing on Wednesday due to an ankle injury. ",
+      "id": 622547,
+      "impact": "Purdy injured his ankle in the second quarter last Sunday. 49ers head coach Kyle Shanahan said it's not a high ankle and he is day to day.  ",
+      "link": "https://www.fantasypros.com/nfl/news/622547/brock-purdy-ankle-not-practicing-wednesday.php",
+      "player_id": 19797,
       "sport_id": "NFL",
-      "team_id": "CLE",
-      "title": "Denzel Boston (toe) not practicing Tuesday"
+      "team_id": "SF",
+      "title": "Brock Purdy (ankle) not practicing Wednesday "
     },
     {
-      "author": "Nate Miller",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-11-24 18:12:29",
-      "created_formated": "Tue, Nov 24th 6:12pm UTC",
-      "desc": "Micah Parsons (knee) marked questionable for Wednesday's game against the Rams. ",
-      "id": 622381,
-      "impact": "Parsons has yet to suit up for the Packers so far this season, but that is largely expected to change this week despite the questionable tag. ",
-      "link": "https://www.fantasypros.com/nfl/news/622381/micah-parson-knee-listed-questionable-week-12.php",
-      "player_id": 19784,
+      "created": "2026-11-25 19:45:14",
+      "created_formated": "Wed, Nov 25th 7:45pm UTC",
+      "desc": "Dolphins RT Austin Jackson said he expects to play on Sunday against the Jets.",
+      "id": 622546,
+      "impact": "Jackson will need to be monitored in practice the rest of the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622546/austin-jackson-expected-to-play-week-12.php",
+      "player_id": 19226,
       "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Micah Parson (knee) listed as questionable for Week 12"
+      "team_id": "MIA",
+      "title": "Austin Jackson expected to play in Week 12"
     },
     {
-      "author": "Nate Miller",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
         "Injury"
       ],
-      "created": "2026-11-24 18:09:29",
-      "created_formated": "Tue, Nov 24th 6:09pm UTC",
-      "desc": "Josh Jacobs (finger) has been listed as questionable for Wednesday's game against the Rams. ",
-      "id": 622380,
-      "impact": "With the Packers coming off a bye week, Jacobs practiced in limited fashion Monday and was listed as questionable Tuesday. If Jacobs is ruled out, the trio of Chris Brooks, Kaleb Johnson, and MarShawn Lloyd would likely split the backfield load for the Packers once again.",
-      "link": "https://www.fantasypros.com/nfl/news/622380/josh-jacobs-finger-questionable-wednesdays-game.php",
-      "player_id": 18269,
+      "created": "2026-11-25 19:42:44",
+      "created_formated": "Wed, Nov 25th 7:42pm UTC",
+      "desc": "Brock Bowers practiced on Wednesday. ",
+      "id": 622545,
+      "impact": "Raiders head coach Klint Kubiak said he was optimistic that Bowers will play on Sunday night against the Browns.",
+      "link": "https://www.fantasypros.com/nfl/news/622545/brock-bowers-anklequad-practices-wednesday.php",
+      "player_id": 22955,
       "sport_id": "NFL",
-      "team_id": "GB",
-      "title": "Josh Jacobs (finger) questionable for Wednesday's game"
+      "team_id": "LV",
+      "title": "Brock Bowers (ankle/quad) practices Wednesday "
     },
     {
       "author": "Chris Schommer",
@@ -133,322 +225,214 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-24 18:02:22",
-      "created_formated": "Tue, Nov 24th 6:02pm UTC",
-      "desc": "Kenneth Walker III (groin) will practice for the Kansas City Chiefs Tuesday according to Nate Taylor.",
-      "id": 622379,
-      "impact": "Walker III will see limited work on the practice field, as the dynamic running back looks to return from a two-game absence against the Buffalo Bills Thanksgiving night. Emmett Johnson would be in line for an RB1 role if Walker III is unable to progress enough on a limited practice week for head coach Andy Reid against the Bills.",
-      "link": "https://www.fantasypros.com/nfl/news/622379/kenneth-walker-iii-groin-practicing-tuesday.php",
-      "player_id": 23021,
+      "created": "2026-11-25 19:28:54",
+      "created_formated": "Wed, Nov 25th 7:28pm UTC",
+      "desc": "Jake Ferguson (ankle/knee) has been ruled out for Week 12 for the Dallas Cowboys against the Philadelphia Eagles according to Todd Archer.",
+      "id": 622544,
+      "impact": "Ferguson will miss a second consecutive contest while battling a multitude of injuries, with Brevyn Spann-Ford and James Mitchell in line for increased snaps against the Eagles Thanksgiving Day.",
+      "link": "https://www.fantasypros.com/nfl/news/622544/jake-ferguson-ankleknee-ruled-out-week-12.php",
+      "player_id": 22718,
       "sport_id": "NFL",
-      "team_id": "KC",
-      "title": "Kenneth Walker III (groin) practicing Tuesday"
+      "team_id": "DAL",
+      "title": "Jake Ferguson (ankle/knee) ruled out for Week 12 "
     },
     {
-      "author": "Matthew Adam",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-24 11:54:47",
-      "created_formated": "Tue, Nov 24th 11:54am UTC",
-      "desc": "Colbie Young caught one of his two targets for a four-yard touchdown in a 22-20 loss to the Commanders in Week 11's Monday night game.",
-      "id": 622335,
-      "impact": "The rookie hauled in a touchdown pass from Joe Burrow in the third quarter for the first touchdown catch of his career. Young now has three receptions for 13 yards in eight games for the Bengals this season as he looks to carve out a larger role in the Cincy passing attack. He will face the Saints in Week 12.",
-      "link": "https://www.fantasypros.com/nfl/news/622335/colbie-young-catches-td-week-11.php",
-      "player_id": 26037,
+      "created": "2026-11-25 19:15:16",
+      "created_formated": "Wed, Nov 25th 7:15pm UTC",
+      "desc": "Harrison Smith was estimated as a \"DNP\" in practice on Wednesday. ",
+      "id": 622542,
+      "impact": "It is only a walkthrough on Wednesday for the Vikings. Smith will need to continue to be monitored in practice the rest of the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622542/harrison-smith-estimated-dnp-practice-wednesday.php",
+      "player_id": 11260,
       "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Colbie Young catches TD in Week 11"
+      "team_id": "MIN",
+      "title": "Harrison Smith estimated as a \"DNP\" in practice Wednesday. "
     },
     {
-      "author": "Matthew Adam",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-24 11:52:01",
-      "created_formated": "Tue, Nov 24th 11:52am UTC",
-      "desc": "The Commanders D/ST allowed 20 points while picking up three sacks in a 22-20 win over the Bengals in Week 11's Monday night game.",
-      "id": 622334,
-      "impact": "On a rainy night at Northwest Stadium, Washington's defense was impressive in slowing down a red-hot Cincinnati offense that had scored at least 31 points in five straight games coming into Week 11. The Commanders will be a solid fantasy defense option heading into a Week 12 matchup against a struggling Arizona offense.",
-      "link": "https://www.fantasypros.com/nfl/news/622334/commanders-dst-holds-bengals-to-20-points-week-11.php",
-      "player_id": 8310,
+      "created": "2026-11-25 19:14:27",
+      "created_formated": "Wed, Nov 25th 7:14pm UTC",
+      "desc": "Isaiah Rodgers Sr. was estimated as a \"DNP\" in practice on Wednesday. ",
+      "id": 622541,
+      "impact": "It is only a walkthrough on Wednesday for the Vikings. Rodgers will need to continue to be monitored in practice the rest of the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622541/isaiah-rodgers-sr-quad-estimated-dnp-practice-wednesday.php",
+      "player_id": 19821,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Commanders D/ST holds Bengals to 20 points in Week 11"
+      "team_id": "MIN",
+      "title": "Isaiah Rodgers Sr. (quad) estimated as a \"DNP\" in practice Wednesday"
     },
     {
-      "author": "Matthew Adam",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-24 11:49:45",
-      "created_formated": "Tue, Nov 24th 11:49am UTC",
-      "desc": "Drew Stevens made all five of his field-goal attempts and added an extra point in a 22-20 win over the Bengals in Week 11.",
-      "id": 622333,
-      "impact": "Stevens was busy on a rainy night at Northwest Stadium, hitting field goals from 36, 40, 25, 41, and 26 yards out. His final field goal was the game-winner as time expired. Stevens has now made 22 of his 25 field-goal attempts and added 16 extra points this year. He will take on the Cardinals in Week 12.",
-      "link": "https://www.fantasypros.com/nfl/news/622333/drew-stevens-hits-game-winning-fg-week-11.php",
-      "player_id": 28175,
+      "created": "2026-11-25 19:13:33",
+      "created_formated": "Wed, Nov 25th 7:13pm UTC",
+      "desc": "Christian Darrisaw was estimated as a \"DNP\" in practice on Wednesday. ",
+      "id": 622540,
+      "impact": "It is only a walkthrough on Wednesday for the Vikings. Darrisaw will need to continue to be monitored in practice the rest of the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622540/christian-darrisaw-estimated-dnp-practice-on-wednesday.php",
+      "player_id": 22688,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Drew Stevens hits game-winning FG in Week 11"
+      "team_id": "MIN",
+      "title": "Christian Darrisaw estimated as a \"DNP\" in practice on Wednesday"
     },
     {
-      "author": "Matthew Adam",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-24 11:47:14",
-      "created_formated": "Tue, Nov 24th 11:47am UTC",
-      "desc": "Chig Okonkwo caught four of his five targets for 66 yards in a 22-20 win over the Bengals in Week 11.",
-      "id": 622332,
-      "impact": "Okonkwo finished second on the Commanders in receiving in the win on Monday night. He did most of his damage on a 32-yard catch-and-run in the second quarter, which helped set up a one-yard touchdown run for Jacory Croskey-Merritt. Okonkwo has caught 31 passes for 329 yards through eight games for the Commanders this season. He will be a TE2 in Week 12 vs. the Cardinals.",
-      "link": "https://www.fantasypros.com/nfl/news/622332/chig-okonkwo-goes-66-yards-week-11.php",
-      "player_id": 23982,
+      "created": "2026-11-25 19:12:24",
+      "created_formated": "Wed, Nov 25th 7:12pm UTC",
+      "desc": "Jordan Addison was estimated as a \"DNP\" in practice on Wednesday. ",
+      "id": 622539,
+      "impact": "It is only a walkthrough on Wednesday for the Vikings. Addison will need to continue to be monitored in practice the rest of the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622539/jordan-addison-thumb-estimated-dnp-practice-wednesday.php",
+      "player_id": 23107,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Chig Okonkwo goes for 66 yards in Week 11"
+      "team_id": "MIN",
+      "title": "Jordan Addison (thumb) estimated as DNP in practice Wednesday "
     },
     {
-      "author": "Matthew Adam",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-24 11:43:25",
-      "created_formated": "Tue, Nov 24th 11:43am UTC",
-      "desc": "Treylon Burks caught two of his three targets for 30 yards in a 22-20 win over the Bengals in Week 11.",
-      "id": 622331,
-      "impact": "Burks was quiet, although he drew a pass interference flag on an end zone target in the second quarter, setting up Jacory Croskey-Merritt's one-yard touchdown run. Burks has caught 16 passes for 290 yards and two touchdowns in eight games this year. He will not be a recommended fantasy option in Week 12 vs. the Cardinals.",
-      "link": "https://www.fantasypros.com/nfl/news/622331/treylon-burks-goes-30-yards-week-11.php",
-      "player_id": 22905,
+      "created": "2026-11-25 19:06:25",
+      "created_formated": "Wed, Nov 25th 7:06pm UTC",
+      "desc": "Carson Beck is not practicing on Wednesday. ",
+      "id": 622538,
+      "impact": "Beck remains day-to-day with a back injury. ",
+      "link": "https://www.fantasypros.com/nfl/news/622538/carson-beck-back-not-practicing-wednesday.php",
+      "player_id": 22953,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Treylon Burks goes for 30 yards in Week 11"
+      "team_id": "ARI",
+      "title": "Carson Beck (back) not practicing Wednesday "
     },
     {
-      "author": "Matthew Adam",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-24 11:41:07",
-      "created_formated": "Tue, Nov 24th 11:41am UTC",
-      "desc": "Antonio Williams caught nine of his 11 targets for 122 yards in a 22-20 win over the Bengals in Week 11's Monday night game.",
-      "id": 622330,
-      "impact": "The rookie exploded in the win, posting the first 100-yard receiving game of his career while also setting a career high in receptions. With less than a minute left in regulation, Williams caught two long passes from Jayden Daniels to set up the game-winning field goal. He is looking like a strong WR3 in fantasy heading into a Week 12 matchup vs. the Cardinals.",
-      "link": "https://www.fantasypros.com/nfl/news/622330/antonio-williams-posts-nine-catches-122-yards-mnf-win.php",
-      "player_id": 25418,
+      "created": "2026-11-25 19:03:30",
+      "created_formated": "Wed, Nov 25th 7:03pm UTC",
+      "desc": "Sauce Gardner will return to practice this week. ",
+      "id": 622537,
+      "impact": "Gardner is working his way back from a calf injury. ",
+      "link": "https://www.fantasypros.com/nfl/news/622537/sauce-gardner-calf-will-practice-this-week.php",
+      "player_id": 23472,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Antonio Williams posts nine catches, 122 yards in MNF win"
+      "team_id": "IND",
+      "title": "Sauce Gardner (calf) will practice this week"
     },
     {
-      "author": "Matthew Adam",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-24 11:38:12",
-      "created_formated": "Tue, Nov 24th 11:38am UTC",
-      "desc": "Stefon Diggs caught four of his six targets for 45 yards in a 22-20 win over the Bengals in Week 11's Monday night game.",
-      "id": 622329,
-      "impact": "Diggs was third on the Commanders in receiving in the close win over Cincinnati. The veteran wideout now has 40 catches for 431 yards and six touchdowns in nine games for the Commanders this season. He will be a WR3 option in Week 12 vs. the Cardinals.",
-      "link": "https://www.fantasypros.com/nfl/news/622329/stefon-diggs-goes-45-yards-mnf-win.php",
-      "player_id": 13981,
+      "created": "2026-11-25 19:01:24",
+      "created_formated": "Wed, Nov 25th 7:01pm UTC",
+      "desc": "Keylan Rutledge is not practicing on Wednesday. ",
+      "id": 622536,
+      "impact": "Rutledge will need to continue to be monitored in practice the rest of the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622536/keylan-rutledge-stinger-not-practicing-wednesday.php",
+      "player_id": 28199,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Stefon Diggs goes for 45 yards in MNF win"
+      "team_id": "HOU",
+      "title": "Keylan Rutledge (stinger) not practicing Wednesday "
     },
     {
-      "author": "Matthew Adam",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-24 11:35:57",
-      "created_formated": "Tue, Nov 24th 11:35am UTC",
-      "desc": "Austin Ekeler carried the ball seven times for 41 yards and caught two of three targets for three yards in a 22-20 win over the Bengals in Week 11's Monday night game.",
-      "id": 622328,
-      "impact": "Ekeler played behind Jacory Croskey-Merritt but he still did damage on the ground, averaging 5.9 yards per carry in the win. Ekeler remains a solid piece of Washington's running-back rotation. He will be a low-end flex option in Week 12 vs. the Cardinals.",
-      "link": "https://www.fantasypros.com/nfl/news/622328/austin-ekeler-runs-41-yards-week-11.php",
-      "player_id": 16483,
+      "created": "2026-11-25 19:00:25",
+      "created_formated": "Wed, Nov 25th 7:00pm UTC",
+      "desc": "Danielle Hunter was not practicing on Wednesday. ",
+      "id": 622535,
+      "impact": "Hunter continues to manage a hamstring injury. He'll need to continue to be monitored in practice the rest of the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622535/danielle-hunter-hamstring-not-practicing-wednesday.php",
+      "player_id": 14036,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Austin Ekeler runs for 41 yards in Week 11"
+      "team_id": "HOU",
+      "title": "Danielle Hunter (hamstring) not practicing Wednesday "
     },
     {
-      "author": "Matthew Adam",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-24 11:33:14",
-      "created_formated": "Tue, Nov 24th 11:33am UTC",
-      "desc": "Rachaad White did not receive any touches in a 22-20 win over the Bengals in Week 11.",
-      "id": 622327,
-      "impact": "White came into the game managing a heel injury but he ultimately suited up and played on 15 snaps. The return of Jacory Croskey-Merritt from injured reserve certainly cut into White's workload, as the former led the Commanders' backfield with 15 touches. White is looking like a fantasy cut candidate heading into a Week 12 matchup vs. the Cardinals.",
-      "link": "https://www.fantasypros.com/nfl/news/622327/rachaad-white-does-not-see-any-touches-week-11.php",
-      "player_id": 23891,
+      "created": "2026-11-25 18:59:04",
+      "created_formated": "Wed, Nov 25th 6:59pm UTC",
+      "desc": "Woody Marks returned to practice on Wednesday. ",
+      "id": 622534,
+      "impact": "Marks remains in concussion protocol. He will need to be monitored in practice the rest of the week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622534/woody-marks-concussion-practicing-wednesday.php",
+      "player_id": 27520,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Rachaad White does not see any touches in Week 11"
+      "team_id": "HOU",
+      "title": "Woody Marks (concussion) practicing Wednesday "
     },
     {
-      "author": "Matthew Adam",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Injury"
       ],
-      "created": "2026-11-24 11:28:24",
-      "created_formated": "Tue, Nov 24th 11:28am UTC",
-      "desc": "Jacory Croskey-Merritt carried the ball 13 times for 54 yards and a touchdown while catching two of his three targets for 23 yards in a 22-20 win over the Bengals in Week 11's Monday night game.",
-      "id": 622326,
-      "impact": "Croskey-Merritt made his return to action after a multi-week absence due to a groin injury. He went right back to leading the Commanders' backfield, scoring on a one-yard touchdown run in the second quarter. The veteran will be a solid fantasy RB2 in Week 12 against the Cardinals in a plus matchup.",
-      "link": "https://www.fantasypros.com/nfl/news/622326/jacory-croskey-merritt-finds-end-zone-week-11.php",
-      "player_id": 27316,
+      "created": "2026-11-25 18:51:43",
+      "created_formated": "Wed, Nov 25th 6:51pm UTC",
+      "desc": "Marvin Harrison Jr. returned to practice on Wednesday. ",
+      "id": 622533,
+      "impact": "Harrison was ruled out last Thursday for the Texans. He is trending towards returning this week. ",
+      "link": "https://www.fantasypros.com/nfl/news/622533/marvin-harrison-jr-hamstring-back-practice-wednesday.php",
+      "player_id": 23064,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Jacory Croskey-Merritt finds the end zone in Week 11"
+      "team_id": "HOU",
+      "title": "Marvin Harrison Jr. (hamstring) back at practice Wednesday "
     },
     {
-      "author": "Matthew Adam",
+      "author": "Ari Koslow",
       "categories": [
         "Commentary",
         "News",
-        "Results"
+        "Breaking"
       ],
-      "created": "2026-11-24 11:24:57",
-      "created_formated": "Tue, Nov 24th 11:24am UTC",
-      "desc": "Jayden Daniels completed 23 of his 35 passes for 289 yards and added six rushes for 55 yards in a 22-20 win over the Bengals in Week 11's Monday night game.",
-      "id": 622325,
-      "impact": "Daniels and the Washington offense got off to a slow start on a rainy night at Northwest Stadium as they didn't score their first points until the second quarter. That being said, with the Commanders trailing 20-19, Daniels completed two long passes to Antonio Williams with less than a minute left in the game to set up a game-winning 26-yard field goal. Daniels has thrown for 10 touchdowns and two interceptions while adding 335 rushing yards and two scores on the ground in eight games this year. He will be a solid QB1 in fantasy in Week 12 vs. the Cardinals.",
-      "link": "https://www.fantasypros.com/nfl/news/622325/jayden-daniels-throws-289-yards-mnf-win.php",
-      "player_id": 22902,
+      "created": "2026-11-25 18:23:50",
+      "created_formated": "Wed, Nov 25th 6:23pm UTC",
+      "desc": "The Washington Commanders signed WR Brandon Aiyuk. ",
+      "id": 622531,
+      "impact": "Aiyuk was signed to the practice squad, but he should be elevated for Sunday's game against the Cardinals. He'll likely be eased back initially after all this time away from football. He'll be tough to trust for fantasy managers signing this late into the season, but he could be worth a speculative stash. ",
+      "link": "https://www.fantasypros.com/nfl/news/622531/brandon-aiyuk-signs-with-commanders.php",
+      "player_id": 19252,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Jayden Daniels throws for 289 yards in MNF win"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-24 11:21:04",
-      "created_formated": "Tue, Nov 24th 11:21am UTC",
-      "desc": "The Bengals D/ST allowed 22 points while picking up three sacks in a 22-20 loss to the Commanders in Week 11's Monday night game.",
-      "id": 622324,
-      "impact": "Cincinnati held the Commanders to just one touchdown in the game, but they allowed Jayden Daniels to complete two long passes to set up a game-winning field goal with less than a minute left in regulation. They will look to bounce back in Week 12 vs. the Saints.",
-      "link": "https://www.fantasypros.com/nfl/news/622324/bengals-dst-allows-22-points-week-11-loss.php",
-      "player_id": 8060,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Bengals D/ST allows 22 points in Week 11 loss"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-24 11:18:38",
-      "created_formated": "Tue, Nov 24th 11:18am UTC",
-      "desc": "Evan McPherson made both of his field-goal attempts and added two extra points in a 22-20 loss to the Commanders in Week 11.",
-      "id": 622323,
-      "impact": "McPherson hit what looked like it was going to be a game-winning 56-yard field goal with 50 seconds left in regulation but Washington was able to rally back to hit a game-winning field goal of their own. McPherson has now made 15 of his 16 field-goal attempts and added 35 extra points this season. He will kick against the Saints in Week 12.",
-      "link": "https://www.fantasypros.com/nfl/news/622323/evan-mcpherson-makes-two-fgs-week-11-loss.php",
-      "player_id": 23297,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Evan McPherson makes two FGs in Week 11 loss"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-24 11:16:03",
-      "created_formated": "Tue, Nov 24th 11:16am UTC",
-      "desc": "Mike Gesicki caught five of his six targets for 77 yards in a 22-20 loss to the Commanders in Week 11.",
-      "id": 622322,
-      "impact": "Gesicki led the Bengals in receiving in the Monday night loss, doing most of his damage on a 32-yard reception in the fourth quarter to help set up a 56-yard field goal. Gesicki now has 25 catches for 338 yards and six touchdowns in 10 games this season. He will be a low-end TE2 in Week 12 vs. the Saints.",
-      "link": "https://www.fantasypros.com/nfl/news/622322/mike-gesicki-leads-bengals-receiving-week-11.php",
-      "player_id": 17272,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Mike Gesicki leads Bengals in receiving in Week 11"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-24 11:13:03",
-      "created_formated": "Tue, Nov 24th 11:13am UTC",
-      "desc": "Dohnte Meyers caught one of his two targets for two yards in a 22-20 loss to the Commanders in Week 11.",
-      "id": 622321,
-      "impact": "Meyers was quiet in the close loss in a game where Joe Burrow spread the ball around to nine different pass-catchers. The rookie wideout will continue to be boom/bust as the No. 3 receiver in Cincinnati. Sitting on 21 catches for 244 yards and one touchdown in 10 games this year, he gets the Saints in Week 12.",
-      "link": "https://www.fantasypros.com/nfl/news/622321/dohnte-meyers-held-to-one-catch-week-11.php",
-      "player_id": 28178,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Dohnte Meyers held to one catch in Week 11"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-24 11:10:13",
-      "created_formated": "Tue, Nov 24th 11:10am UTC",
-      "desc": "Tee Higgins caught two of his three targets for 43 yards and a touchdown in a 22-20 loss to the Commanders in Week 11's Monday night game.",
-      "id": 622320,
-      "impact": "Higgins was mostly quiet in the game despite Joe Burrow throwing for 300 yards. That being said, he made an excellent catch in the end zone on his 31-yard touchdown reception from Burrow in the second quarter. Higgins now has 55 catches for 867 yards and seven touchdowns through 10 games this year. He will be a solid fantasy WR1 in Week 12 vs. the Saints.",
-      "link": "https://www.fantasypros.com/nfl/news/622320/tee-higgins-finds-end-zone-week-11.php",
-      "player_id": 19211,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Tee Higgins finds the end zone in Week 11"
-    },
-    {
-      "author": "Matthew Adam",
-      "categories": [
-        "Commentary",
-        "News",
-        "Results"
-      ],
-      "created": "2026-11-24 11:07:08",
-      "created_formated": "Tue, Nov 24th 11:07am UTC",
-      "desc": "Ja'Marr Chase caught five of his nine targets for 31 yards in a 22-20 loss to the Commanders in Week 11.",
-      "id": 622319,
-      "impact": "Chase led the team in targets but was unable to get much going on a rainy night, averaging just 6.2 yards per catch. The star wideout now has 69 catches for 909 yards and seven touchdowns through 10 games this year. He will be a top-three fantasy WR in Week 12 vs. the Saints.",
-      "link": "https://www.fantasypros.com/nfl/news/622319/jamarr-chase-held-to-31-yards-week-11.php",
-      "player_id": 19788,
-      "sport_id": "NFL",
-      "team_id": "CIN",
-      "title": "Ja'Marr Chase held to 31 yards in Week 11"
+      "team_id": "FA",
+      "title": "Brandon Aiyuk signs with Commanders "
     }
   ],
   "public_api": true,

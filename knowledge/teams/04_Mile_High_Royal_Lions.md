@@ -13,29 +13,29 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 22
-- offense: 17
+- total_players: 21
+- offense: 16
 - kickers: 1
 - idp: 4
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 531.6
-- championship_lineup_c_avi_avg: 66.45
-- offensive_roster_c_avi_sum: 840.0
-- offensive_roster_c_avi_avg: 49.41
-- offensive_roster_d_avi_sum: 1316.8
-- offensive_roster_d_avi_avg: 77.46
+- championship_lineup_c_avi_sum: 533.2
+- championship_lineup_c_avi_avg: 66.65
+- offensive_roster_c_avi_sum: 810.3
+- offensive_roster_c_avi_avg: 50.64
+- offensive_roster_d_avi_sum: 1256.7
+- offensive_roster_d_avi_avg: 78.54
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Matthew Stafford | C-AVI: 46.3 | D-AVI: 69.1
+- QB: Matthew Stafford | C-AVI: 46.4 | D-AVI: 69.7
 - RB: Jahmyr Gibbs | C-AVI: 98.4 | D-AVI: 98.3
 - RB: Jonah Coleman | C-AVI: 65.2 | D-AVI: 85.0
-- WR: Drake London | C-AVI: 81.2 | D-AVI: 95.2
+- WR: Drake London | C-AVI: 82.7 | D-AVI: 95.4
 - WR: Garrett Wilson | C-AVI: 76.2 | D-AVI: 91.2
-- TE: Dalton Schultz | C-AVI: 49.4 | D-AVI: 72.2
+- TE: Dalton Schultz | C-AVI: 49.4 | D-AVI: 72.5
 - FLEX: Jaylen Waddle | C-AVI: 58.1 | D-AVI: 85.5
 - FLEX: Deebo Samuel Sr. | C-AVI: 56.8 | D-AVI: 76.2
 
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 38.0
-- Championship AVI (C-AVI, 0-100): 46.3
-- Dynasty AVI (D-AVI, 0-100): 69.1
+- Championship AVI (C-AVI, 0-100): 46.4
+- Dynasty AVI (D-AVI, 0-100): 69.7
 - Projected PPR points: 280.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -71,25 +71,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 28.0
 - Championship AVI (C-AVI, 0-100): 33.3
-- Dynasty AVI (D-AVI, 0-100): 75.3
+- Dynasty AVI (D-AVI, 0-100): 75.8
 - Projected PPR points: 310.5
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Aaron Rodgers
-- Player name: Aaron Rodgers
-- Player ID: 96
-- Current owner team: Mile High Royal Lions
-- Current owner roster ID: 4
-- Position: QB
-- Fantasy positions: ['QB']
-- NFL team: PIT
-- Active: True
-- Status: Active
-- Age: 42.0
-- Championship AVI (C-AVI, 0-100): 31.3
-- Dynasty AVI (D-AVI, 0-100): 61.7
-- Projected PPR points: 177.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -155,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 81.2
-- Dynasty AVI (D-AVI, 0-100): 95.2
+- Championship AVI (C-AVI, 0-100): 82.7
+- Dynasty AVI (D-AVI, 0-100): 95.4
 - Projected PPR points: 250.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 30.0
-- Championship AVI (C-AVI, 0-100): 47.8
-- Dynasty AVI (D-AVI, 0-100): 77.8
+- Championship AVI (C-AVI, 0-100): 46.3
+- Dynasty AVI (D-AVI, 0-100): 77.6
 - Projected PPR points: 169.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -274,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 33.7
-- Dynasty AVI (D-AVI, 0-100): 79.3
+- Championship AVI (C-AVI, 0-100): 35.2
+- Dynasty AVI (D-AVI, 0-100): 79.5
 - Projected PPR points: 186.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -326,7 +309,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 30.0
 - Championship AVI (C-AVI, 0-100): 49.4
-- Dynasty AVI (D-AVI, 0-100): 72.2
+- Dynasty AVI (D-AVI, 0-100): 72.5
 - Projected PPR points: 150.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

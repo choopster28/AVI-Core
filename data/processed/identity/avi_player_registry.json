@@ -810,7 +810,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "FA",
+    "nfl_team": "SF",
     "normalized_name": "brandin cooks",
     "position": "WR",
     "source_ids": {
@@ -835,7 +835,7 @@
       "confidence": "review",
       "method": "exact_name_position"
     },
-    "nfl_team": "SF",
+    "nfl_team": "WAS",
     "normalized_name": "brandon aiyuk",
     "position": "WR",
     "source_ids": {
@@ -10664,8 +10664,8 @@
     "avi_id": "AVI-00012860",
     "canonical_name": "Theo Wease Jr.",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "nfl_team": "LAC",
     "normalized_name": "theo wease",

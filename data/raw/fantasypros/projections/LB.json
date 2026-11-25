@@ -1,5 +1,5 @@
 {
-  "count": "217",
+  "count": "216",
   "experts": [],
   "last_updated": null,
   "players": [
@@ -1267,29 +1267,6 @@
         "points_ppr": 168.07
       },
       "team_id": "LAR"
-    },
-    {
-      "filename": "zayne-anderson.php",
-      "fpid": 23429,
-      "mflid": 15676,
-      "name": "Zayne Anderson",
-      "position_id": "LB",
-      "stats": {
-        "def_assist": 29.02,
-        "def_ff": 0.58,
-        "def_fr": 0.38,
-        "def_int": 1.95,
-        "def_pd": 7.39,
-        "def_sack": 0.44,
-        "def_safety": 0,
-        "def_tackle": 78.82,
-        "def_td": 0.12,
-        "def_tlost": 0,
-        "points": 167.15,
-        "points_half": 167.15,
-        "points_ppr": 167.15
-      },
-      "team_id": "MIA"
     },
     {
       "filename": "jaylon-carlies.php",

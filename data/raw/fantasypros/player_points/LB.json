@@ -1605,28 +1605,6 @@
       }
     },
     {
-      "average": 5.1,
-      "filename": "zayne-anderson.php",
-      "games": 10,
-      "player_id": 23429,
-      "player_name": "Zayne Anderson",
-      "points": 50.75,
-      "position_id": "LB",
-      "team_id": "MIA",
-      "weeks": {
-        "1": 10,
-        "10": 0,
-        "11": 29.5,
-        "2": 3,
-        "3": 0,
-        "4": 4.5,
-        "5": 0,
-        "7": 3.8,
-        "8": 0,
-        "9": 0
-      }
-    },
-    {
       "average": 12.3,
       "filename": "frankie-luvu.php",
       "games": 8,

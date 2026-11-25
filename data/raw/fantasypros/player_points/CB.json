@@ -4125,7 +4125,7 @@
       "player_name": "Darren Hall",
       "points": 0,
       "position_id": "CB",
-      "team_id": "FA",
+      "team_id": "WAS",
       "weeks": {
         "5": 0
       }
@@ -4582,6 +4582,19 @@
       "points": 0,
       "position_id": "CB",
       "team_id": "LAC",
+      "weeks": {
+        "11": 0
+      }
+    },
+    {
+      "average": 0,
+      "filename": "fred-davis-ii.php",
+      "games": 1,
+      "player_id": 28629,
+      "player_name": "Fred Davis II",
+      "points": 0,
+      "position_id": "CB",
+      "team_id": "WAS",
       "weeks": {
         "11": 0
       }

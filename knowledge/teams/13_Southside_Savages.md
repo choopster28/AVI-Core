@@ -8,7 +8,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner display name: GGEZGoNext
 - Owner ID: 998253660243054592
 - Division: 2
-- Waiver position: 16
+- Waiver position: 14
 - Last updated from Sleeper exports: 2026-11-25
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
@@ -21,20 +21,21 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 364.7
-- championship_lineup_c_avi_avg: 52.10
-- offensive_roster_c_avi_sum: 614.4
-- offensive_roster_c_avi_avg: 40.96
-- offensive_roster_d_avi_sum: 1065.8
-- offensive_roster_d_avi_avg: 71.05
+- championship_lineup_c_avi_sum: 395.3
+- championship_lineup_c_avi_avg: 49.41
+- offensive_roster_c_avi_sum: 632.1
+- offensive_roster_c_avi_avg: 39.51
+- offensive_roster_d_avi_sum: 1105.7
+- offensive_roster_d_avi_avg: 69.11
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- RB: Justice Hill | C-AVI: 38.6 | D-AVI: 67.0
-- RB: Zonovan Knight | C-AVI: 19.2 | D-AVI: 57.9
-- WR: Tetairoa McMillan | C-AVI: 84.7 | D-AVI: 94.9
+- QB: Mason Rudolph | C-AVI: 13.0 | D-AVI: 39.2
+- RB: Justice Hill | C-AVI: 38.7 | D-AVI: 66.8
+- RB: Emanuel Wilson | C-AVI: 38.2 | D-AVI: 67.1
+- WR: Tetairoa McMillan | C-AVI: 83.2 | D-AVI: 94.6
 - WR: Luther Burden III | C-AVI: 78.2 | D-AVI: 92.6
-- TE: Pat Freiermuth | C-AVI: 57.3 | D-AVI: 72.7
+- TE: Pat Freiermuth | C-AVI: 57.3 | D-AVI: 72.1
 - FLEX: DK Metcalf | C-AVI: 48.8 | D-AVI: 80.6
 - FLEX: Kayshon Boutte | C-AVI: 37.9 | D-AVI: 68.4
 
@@ -58,22 +59,22 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Kyle McCord
-- Player name: Kyle McCord
-- Player ID: 12494
+### PLAYER: Mason Rudolph
+- Player name: Mason Rudolph
+- Player ID: 4972
 - Current owner team: Southside Savages
 - Current owner roster ID: 13
 - Position: QB
 - Fantasy positions: ['QB']
-- NFL team: MIA
+- NFL team: PIT
 - Active: True
 - Status: Active
-- Age: 24.0
-- Championship AVI (C-AVI, 0-100): None
-- Dynasty AVI (D-AVI, 0-100): None
-- Projected PPR points: None
+- Age: 31.0
+- Championship AVI (C-AVI, 0-100): 13.0
+- Dynasty AVI (D-AVI, 0-100): 39.2
+- Projected PPR points: 11.7
 - Category: offense
-- Valuation status: NOT_IN_AVI_OUTPUT
+- Valuation status: ACTIVE_2026_3_IN_SEASON
 
 ### PLAYER: Justice Hill
 - Player name: Justice Hill
@@ -86,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 38.6
-- Dynasty AVI (D-AVI, 0-100): 67.0
+- Championship AVI (C-AVI, 0-100): 38.7
+- Dynasty AVI (D-AVI, 0-100): 66.8
 - Projected PPR points: 67.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -103,8 +104,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 32.2
-- Dynasty AVI (D-AVI, 0-100): 66.3
+- Championship AVI (C-AVI, 0-100): 38.2
+- Dynasty AVI (D-AVI, 0-100): 67.1
 - Projected PPR points: 56.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -121,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 27.6
-- Dynasty AVI (D-AVI, 0-100): 78.2
+- Dynasty AVI (D-AVI, 0-100): 78.5
 - Projected PPR points: 171.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -138,7 +139,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 19.2
-- Dynasty AVI (D-AVI, 0-100): 57.9
+- Dynasty AVI (D-AVI, 0-100): 57.3
 - Projected PPR points: 10.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -172,7 +173,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 40.8
+- Dynasty AVI (D-AVI, 0-100): 41.8
 - Projected PPR points: None
 - Category: offense
 - Valuation status: INACTIVE_UNRANKED
@@ -188,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 84.7
-- Dynasty AVI (D-AVI, 0-100): 94.9
+- Championship AVI (C-AVI, 0-100): 83.2
+- Dynasty AVI (D-AVI, 0-100): 94.6
 - Projected PPR points: 223.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -256,7 +257,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 37.7
+- Championship AVI (C-AVI, 0-100): 37.8
 - Dynasty AVI (D-AVI, 0-100): 59.3
 - Projected PPR points: 57.6
 - Category: offense
@@ -291,7 +292,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 28.0
 - Championship AVI (C-AVI, 0-100): 57.3
-- Dynasty AVI (D-AVI, 0-100): 72.7
+- Dynasty AVI (D-AVI, 0-100): 72.1
 - Projected PPR points: 128.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -308,7 +309,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 29.5
-- Dynasty AVI (D-AVI, 0-100): 63.0
+- Dynasty AVI (D-AVI, 0-100): 63.3
 - Projected PPR points: 76.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

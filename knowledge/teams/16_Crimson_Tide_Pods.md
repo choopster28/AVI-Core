@@ -21,12 +21,12 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 280.2
-- championship_lineup_c_avi_avg: 35.02
-- offensive_roster_c_avi_sum: 491.6
-- offensive_roster_c_avi_avg: 30.73
-- offensive_roster_d_avi_sum: 1118.1
-- offensive_roster_d_avi_avg: 69.88
+- championship_lineup_c_avi_sum: 313.3
+- championship_lineup_c_avi_avg: 39.16
+- offensive_roster_c_avi_sum: 514.2
+- offensive_roster_c_avi_avg: 32.14
+- offensive_roster_d_avi_sum: 1132.3
+- offensive_roster_d_avi_avg: 70.77
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
@@ -35,9 +35,9 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - RB: Dylan Sampson | C-AVI: 34.8 | D-AVI: 72.3
 - WR: Brian Thomas Jr. | C-AVI: 39.8 | D-AVI: 79.8
 - WR: Germie Bernard | C-AVI: 36.7 | D-AVI: 76.6
-- TE: Gunnar Helm | C-AVI: 33.7 | D-AVI: 69.7
+- TE: Dalton Kincaid | C-AVI: 63.6 | D-AVI: 83.5
+- FLEX: Gunnar Helm | C-AVI: 33.7 | D-AVI: 69.1
 - FLEX: Chris Rodriguez Jr. | C-AVI: 31.6 | D-AVI: 71.7
-- FLEX: Oronde Gadsden | C-AVI: 30.5 | D-AVI: 72.6
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -56,6 +56,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 36.5
 - Dynasty AVI (D-AVI, 0-100): 74.3
 - Projected PPR points: 295.5
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Anthony Richardson Sr.
+- Player name: Anthony Richardson Sr.
+- Player ID: 9229
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: QB
+- Fantasy positions: ['QB']
+- NFL team: IND
+- Active: True
+- Status: Active
+- Age: 24.0
+- Championship AVI (C-AVI, 0-100): 19.6
+- Dynasty AVI (D-AVI, 0-100): 54.8
+- Projected PPR points: 21.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
@@ -122,7 +139,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 29.0
 - Championship AVI (C-AVI, 0-100): 24.3
-- Dynasty AVI (D-AVI, 0-100): 57.5
+- Dynasty AVI (D-AVI, 0-100): 58.9
 - Projected PPR points: 55.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -212,6 +229,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
+### PLAYER: Zachariah Branch
+- Player name: Zachariah Branch
+- Player ID: 13320
+- Current owner team: Crimson Tide Pods
+- Current owner roster ID: 16
+- Position: WR
+- Fantasy positions: ['WR']
+- NFL team: ATL
+- Active: True
+- Status: Active
+- Age: 22.0
+- Championship AVI (C-AVI, 0-100): 22.9
+- Dynasty AVI (D-AVI, 0-100): 66.8
+- Projected PPR points: 78.5
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
 ### PLAYER: Tez Johnson
 - Player name: Tez Johnson
 - Player ID: 12485
@@ -229,40 +263,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
-### PLAYER: Zachariah Branch
-- Player name: Zachariah Branch
-- Player ID: 13320
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: ATL
-- Active: True
-- Status: Active
-- Age: 22.0
-- Championship AVI (C-AVI, 0-100): 21.4
-- Dynasty AVI (D-AVI, 0-100): 66.5
-- Projected PPR points: 78.5
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Deion Burks
-- Player name: Deion Burks
-- Player ID: 13333
-- Current owner team: Crimson Tide Pods
-- Current owner roster ID: 16
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: IND
-- Active: True
-- Status: Active
-- Age: 23.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 41.8
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
-
 ### PLAYER: Dalton Kincaid
 - Player name: Dalton Kincaid
 - Player ID: 10236
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 62.1
-- Dynasty AVI (D-AVI, 0-100): 83.3
+- Championship AVI (C-AVI, 0-100): 63.6
+- Dynasty AVI (D-AVI, 0-100): 83.5
 - Projected PPR points: 163.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -292,7 +292,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 33.7
-- Dynasty AVI (D-AVI, 0-100): 69.7
+- Dynasty AVI (D-AVI, 0-100): 69.1
 - Projected PPR points: 130.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -309,7 +309,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 30.5
-- Dynasty AVI (D-AVI, 0-100): 72.6
+- Dynasty AVI (D-AVI, 0-100): 72.5
 - Projected PPR points: 141.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -331,17 +331,17 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Category: kicker
 - Valuation status: EXCLUDED_FROM_AVI
 
-### PLAYER: Akheem Mesidor
-- Player name: Akheem Mesidor
-- Player ID: 13341
+### PLAYER: Abdul Carter
+- Player name: Abdul Carter
+- Player ID: 12574
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
 - Position: DL
 - Fantasy positions: ['DL', 'LB']
-- NFL team: LAC
+- NFL team: NYG
 - Active: True
 - Status: Active
-- Age: 25.0
+- Age: 22.0
 - Championship AVI (C-AVI, 0-100): None
 - Dynasty AVI (D-AVI, 0-100): None
 - Projected PPR points: None

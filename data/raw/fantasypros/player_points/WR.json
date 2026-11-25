@@ -821,7 +821,7 @@
       "player_name": "Kevin Austin Jr.",
       "points": 1.7,
       "position_id": "WR",
-      "team_id": "FA",
+      "team_id": "NO",
       "weeks": {
         "1": 0,
         "2": 1.7,
@@ -4027,7 +4027,7 @@
       "player_name": "Brandin Cooks",
       "points": 16.8,
       "position_id": "WR",
-      "team_id": "FA",
+      "team_id": "SF",
       "weeks": {
         "4": 0,
         "5": 7.7,
@@ -4589,7 +4589,7 @@
       "player_name": "Jacob De Jesus",
       "points": 0,
       "position_id": "WR",
-      "team_id": "FA",
+      "team_id": "SEA",
       "weeks": {
         "10": 0
       }
