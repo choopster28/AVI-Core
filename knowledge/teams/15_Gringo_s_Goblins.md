@@ -9,35 +9,35 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 990097041671892992
 - Division: 4
 - Waiver position: 4
-- Last updated from Sleeper exports: 2026-11-25
+- Last updated from Sleeper exports: 2026-11-26
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
-- total_players: 22
-- offense: 16
+- total_players: 21
+- offense: 15
 - kickers: 1
 - idp: 5
 - other: 0
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 478.5
-- championship_lineup_c_avi_avg: 59.81
-- offensive_roster_c_avi_sum: 739.5
-- offensive_roster_c_avi_avg: 46.22
-- offensive_roster_d_avi_sum: 1210.3
-- offensive_roster_d_avi_avg: 75.64
+- championship_lineup_c_avi_sum: 440.6
+- championship_lineup_c_avi_avg: 55.08
+- offensive_roster_c_avi_sum: 715.4
+- offensive_roster_c_avi_avg: 47.69
+- offensive_roster_d_avi_sum: 1142.4
+- offensive_roster_d_avi_avg: 76.16
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Bo Nix | C-AVI: 47.4 | D-AVI: 76.7
 - RB: Kyren Williams | C-AVI: 78.5 | D-AVI: 90.6
 - RB: Alvin Kamara | C-AVI: 48.4 | D-AVI: 71.6
-- WR: Christian Watson | C-AVI: 84.2 | D-AVI: 92.0
 - WR: Jameson Williams | C-AVI: 72.6 | D-AVI: 88.6
+- WR: Emeka Egbuka | C-AVI: 59.1 | D-AVI: 89.0
 - TE: Juwan Johnson | C-AVI: 41.4 | D-AVI: 71.9
-- FLEX: Emeka Egbuka | C-AVI: 59.1 | D-AVI: 89.0
-- FLEX: Aaron Jones Sr. | C-AVI: 46.9 | D-AVI: 74.0
+- FLEX: Aaron Jones Sr. | C-AVI: 47.0 | D-AVI: 74.0
+- FLEX: Braelon Allen | C-AVI: 46.2 | D-AVI: 77.2
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -121,7 +121,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 46.9
+- Championship AVI (C-AVI, 0-100): 47.0
 - Dynasty AVI (D-AVI, 0-100): 74.0
 - Projected PPR points: 137.1
 - Category: offense
@@ -138,7 +138,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 46.1
+- Championship AVI (C-AVI, 0-100): 46.2
 - Dynasty AVI (D-AVI, 0-100): 77.2
 - Projected PPR points: 52.2
 - Category: offense
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 84.2
-- Dynasty AVI (D-AVI, 0-100): 92.0
+- Championship AVI (C-AVI, 0-100): 81.2
+- Dynasty AVI (D-AVI, 0-100): 91.4
 - Projected PPR points: 207.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 42.0
-- Dynasty AVI (D-AVI, 0-100): 69.0
+- Championship AVI (C-AVI, 0-100): 41.9
+- Dynasty AVI (D-AVI, 0-100): 68.6
 - Projected PPR points: 80.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -258,25 +258,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 33.3
-- Dynasty AVI (D-AVI, 0-100): 72.9
+- Dynasty AVI (D-AVI, 0-100): 72.8
 - Projected PPR points: 161.2
-- Category: offense
-- Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Dontayvion Wicks
-- Player name: Dontayvion Wicks
-- Player ID: 9486
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Position: WR
-- Fantasy positions: ['WR']
-- NFL team: PHI
-- Active: True
-- Status: Inactive
-- Age: 25.0
-- Championship AVI (C-AVI, 0-100): 21.2
-- Dynasty AVI (D-AVI, 0-100): 66.8
-- Projected PPR points: 70.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 
