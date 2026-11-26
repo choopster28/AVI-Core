@@ -628,14 +628,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner roster ID: 1
 - Team file: 01_Conquistadors.md
 
-## PLAYER LOOKUP: Dontayvion Wicks
-- Player name: Dontayvion Wicks
-- Player ID: 9486
-- Position: WR
-- Current owner team: Gringo’s Goblins 
-- Current owner roster ID: 15
-- Team file: 15_Gringo_s_Goblins.md
-
 ## PLAYER LOOKUP: Drake London
 - Player name: Drake London
 - Player ID: 8112
@@ -1059,6 +1051,14 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: Badland Banditos 
 - Current owner roster ID: 7
 - Team file: 07_Badland_Banditos.md
+
+## PLAYER LOOKUP: Joe Milton
+- Player name: Joe Milton
+- Player ID: 11557
+- Position: QB
+- Current owner team: Big Balder Brand
+- Current owner roster ID: 9
+- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Jonah Coleman
 - Player name: Jonah Coleman
@@ -1731,14 +1731,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Current owner team: DMV Fantasy
 - Current owner roster ID: 12
 - Team file: 12_DMV_Fantasy.md
-
-## PLAYER LOOKUP: Sione Vaki
-- Player name: Sione Vaki
-- Player ID: 11729
-- Position: RB
-- Current owner team: Big Balder Brand
-- Current owner roster ID: 9
-- Team file: 09_Big_Balder_Brand.md
 
 ## PLAYER LOOKUP: Stefon Diggs
 - Player name: Stefon Diggs
@@ -2595,6 +2587,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 54.7
 - Availability: available
 
+## AVAILABLE PLAYER: Dontayvion Wicks
+- Player name: Dontayvion Wicks
+- Player ID: 9486
+- Position: WR
+- NFL team: PHI
+- Championship AVI (C-AVI, 0-100): 21.2
+- Dynasty AVI (D-AVI, 0-100): 66.8
+- Availability: available
+
 ## AVAILABLE PLAYER: Jonnu Smith
 - Player name: Jonnu Smith
 - Player ID: 4144
@@ -3072,6 +3073,15 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - Dynasty AVI (D-AVI, 0-100): 45.6
 - Availability: available
 
+## AVAILABLE PLAYER: Sione Vaki
+- Player name: Sione Vaki
+- Player ID: 11729
+- Position: RB
+- NFL team: DET
+- Championship AVI (C-AVI, 0-100): 16.7
+- Dynasty AVI (D-AVI, 0-100): 57.7
+- Availability: available
+
 ## AVAILABLE PLAYER: Kaden Wetjen
 - Player name: Kaden Wetjen
 - Player ID: 13491
@@ -3178,15 +3188,6 @@ Retrieval purpose: identify whether a player is rostered or available. For roste
 - NFL team: HOU
 - Championship AVI (C-AVI, 0-100): 15.8
 - Dynasty AVI (D-AVI, 0-100): 42.4
-- Availability: available
-
-## AVAILABLE PLAYER: Joe Milton
-- Player name: Joe Milton
-- Player ID: 11557
-- Position: QB
-- NFL team: PHI
-- Championship AVI (C-AVI, 0-100): 15.8
-- Dynasty AVI (D-AVI, 0-100): 49.3
 - Availability: available
 
 ## AVAILABLE PLAYER: Terrell Jennings

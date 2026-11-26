@@ -735,6 +735,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00009486",
+      "c_avi": 21.2,
+      "d_avi": 66.8,
+      "nfl_team": "PHI",
+      "player_name": "Dontayvion Wicks",
+      "position": "WR",
+      "sleeper_id": "9486",
+      "status": "Inactive"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00004144",
       "c_avi": 21.1,
       "d_avi": 45.7,
@@ -1371,6 +1383,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00011729",
+      "c_avi": 16.7,
+      "d_avi": 57.7,
+      "nfl_team": "DET",
+      "player_name": "Sione Vaki",
+      "position": "RB",
+      "sleeper_id": "11729",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00013491",
       "c_avi": 16.6,
       "d_avi": 44.0,
@@ -1510,18 +1534,6 @@
       "player_name": "Foster Moreau",
       "position": "TE",
       "sleeper_id": "5985",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
-      "avi_id": "AVI-00011557",
-      "c_avi": 15.8,
-      "d_avi": 49.3,
-      "nfl_team": "PHI",
-      "player_name": "Joe Milton",
-      "position": "QB",
-      "sleeper_id": "11557",
       "status": "Active"
     },
     {
@@ -2690,8 +2702,8 @@
     }
   ],
   "counts": {
-    "available_players": 224,
-    "rostered_players": 255
+    "available_players": 225,
+    "rostered_players": 254
   },
   "rostered_players": [
     {
@@ -3945,22 +3957,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00009486",
-      "c_avi": 21.2,
-      "d_avi": 66.8,
-      "nfl_team": "PHI",
-      "owner_id": "990097041671892992",
-      "player_name": "Dontayvion Wicks",
-      "position": "WR",
-      "roster_id": 15,
-      "sleeper_id": "9486",
-      "status": "Inactive",
-      "team_file": "15_Gringo_s_Goblins.md",
-      "team_name": "Gringo’s Goblins "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00008112",
       "c_avi": 82.7,
       "d_avi": 95.4,
@@ -4805,6 +4801,22 @@
       "status": "Active",
       "team_file": "07_Badland_Banditos.md",
       "team_name": "Badland Banditos "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00011557",
+      "c_avi": 15.8,
+      "d_avi": 49.3,
+      "nfl_team": "PHI",
+      "owner_id": "863881053000011776",
+      "player_name": "Joe Milton",
+      "position": "QB",
+      "roster_id": 9,
+      "sleeper_id": "11557",
+      "status": "Active",
+      "team_file": "09_Big_Balder_Brand.md",
+      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
@@ -6149,22 +6161,6 @@
       "status": "Active",
       "team_file": "12_DMV_Fantasy.md",
       "team_name": "DMV Fantasy"
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00011729",
-      "c_avi": 16.7,
-      "d_avi": 57.7,
-      "nfl_team": "DET",
-      "owner_id": "863881053000011776",
-      "player_name": "Sione Vaki",
-      "position": "RB",
-      "roster_id": 9,
-      "sleeper_id": "11729",
-      "status": "Active",
-      "team_file": "09_Big_Balder_Brand.md",
-      "team_name": "Big Balder Brand"
     },
     {
       "active": true,
