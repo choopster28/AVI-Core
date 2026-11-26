@@ -2551,7 +2551,7 @@
       "genius_id": "1398969",
       "rookie_year": "2023"
     },
-    "news_updated": 1795560003997,
+    "news_updated": 1795653611675,
     "number": 18,
     "oddsjam_id": "AE5398B86CF3",
     "opta_id": null,
@@ -6661,7 +6661,7 @@
       "genius_id": "719273",
       "rookie_year": "2012"
     },
-    "news_updated": 1795570205186,
+    "news_updated": 1795653311467,
     "number": 70,
     "oddsjam_id": "EE54E2511E4E",
     "opta_id": null,
@@ -14261,10 +14261,10 @@
     "hashtag": "#anthonybradford-NFL-SEA-75",
     "height": "76",
     "high_school": "Muskegon (MI)",
-    "injury_body_part": null,
+    "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "0086aa50-ed30-4865-b917-3e5881201d12",
     "last_name": "Bradford",
     "metadata": {
@@ -18269,7 +18269,7 @@
       "genius_id": "1399261",
       "rookie_year": "2023"
     },
-    "news_updated": 1795560304110,
+    "news_updated": 1795653611690,
     "number": 53,
     "oddsjam_id": "98AF6EF93876",
     "opta_id": null,
@@ -64989,7 +64989,7 @@
       "genius_id": "1463892",
       "rookie_year": "2024"
     },
-    "news_updated": 1795376708091,
+    "news_updated": 1795655111742,
     "number": 49,
     "oddsjam_id": "A9E50BBF8936",
     "opta_id": null,
@@ -69601,7 +69601,7 @@
       "genius_id": "1081001",
       "rookie_year": "2024"
     },
-    "news_updated": 1795569603778,
+    "news_updated": 1795653011658,
     "number": 79,
     "oddsjam_id": "39D82AA8607F",
     "opta_id": null,
@@ -92924,7 +92924,7 @@
       "genius_id": "1078487",
       "rookie_year": "2024"
     },
-    "news_updated": 1795482620742,
+    "news_updated": 1795652711572,
     "number": 67,
     "oddsjam_id": "64A5398D07D4",
     "opta_id": null,
@@ -117580,10 +117580,10 @@
     "hashtag": "#jalenmilroe-NFL-SEA-6",
     "height": "74",
     "high_school": "Obra D. Tompkins (TX)",
-    "injury_body_part": null,
+    "injury_body_part": "Illness",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "0d805b15-697d-4efd-bb6b-f72a201c97a1",
     "last_name": "Milroe",
     "metadata": {
@@ -160725,10 +160725,10 @@
     "hashtag": "#nickkallerup-NFL-SEA-89",
     "height": "77",
     "high_school": "Wayzata (MN)",
-    "injury_body_part": null,
+    "injury_body_part": "Ankle",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "795eb51c-a060-49ef-99d9-22030fc9a4fe",
     "last_name": "Kallerup",
     "metadata": {
@@ -265950,10 +265950,10 @@
     "hashtag": "#demarcuslawrence-NFL-SEA-0",
     "height": "75",
     "high_school": "Silver Bluff (SC)",
-    "injury_body_part": null,
+    "injury_body_part": "Shoulder",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "8657e120-393b-46b0-bd01-5f2dd6b4aca1",
     "last_name": "Lawrence",
     "metadata": {
@@ -405930,7 +405930,7 @@
       "genius_id": "998788",
       "rookie_year": "2017"
     },
-    "news_updated": 1795567804291,
+    "news_updated": 1795655111739,
     "number": 36,
     "oddsjam_id": "D98D9576079D",
     "opta_id": null,
@@ -454466,7 +454466,7 @@
       "genius_id": "1009878",
       "rookie_year": "2018"
     },
-    "news_updated": 1794624320340,
+    "news_updated": 1795654211788,
     "number": 53,
     "oddsjam_id": "2B38C516E1F6",
     "opta_id": null,
@@ -459770,7 +459770,7 @@
       "genius_id": "1003443",
       "rookie_year": "2018"
     },
-    "news_updated": 1795376708090,
+    "news_updated": 1795654816012,
     "number": 97,
     "oddsjam_id": "978BC0FAB17D",
     "opta_id": null,
@@ -461272,7 +461272,7 @@
       "genius_id": "1007129",
       "rookie_year": "2018"
     },
-    "news_updated": 1795366807353,
+    "news_updated": 1795654511872,
     "number": 25,
     "oddsjam_id": "E63BAC3C0608",
     "opta_id": null,
@@ -488987,7 +488987,7 @@
       "genius_id": "1013137",
       "rookie_year": "2018"
     },
-    "news_updated": 1795035654365,
+    "news_updated": 1795654211805,
     "number": 7,
     "oddsjam_id": "19C68291FAC0",
     "opta_id": null,
@@ -512583,10 +512583,10 @@
     "hashtag": "#drewlock-NFL-SEA-2",
     "height": "76",
     "high_school": "Lee's Summit (MO)",
-    "injury_body_part": null,
+    "injury_body_part": "Elbow",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "3f2dc3f2-7ea4-4b9d-bb8a-6c927b13074f",
     "last_name": "Lock",
     "metadata": {
@@ -549012,7 +549012,7 @@
       "genius_id": "1007147",
       "rookie_year": "2019"
     },
-    "news_updated": 1795559703233,
+    "news_updated": 1795653911862,
     "number": 1,
     "oddsjam_id": "05B1EC62F1F2",
     "opta_id": null,
@@ -577718,7 +577718,7 @@
       "genius_id": "1013424",
       "rookie_year": "2020"
     },
-    "news_updated": 1795484421286,
+    "news_updated": 1795654816035,
     "number": 98,
     "oddsjam_id": "AC0DFB7B7FCF",
     "opta_id": null,
@@ -630631,10 +630631,10 @@
     "hashtag": "#ernestjonesiv-NFL-SEA-13",
     "height": "74",
     "high_school": "Ware County (GA)",
-    "injury_body_part": null,
+    "injury_body_part": "Knee",
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "kalshi_id": "9f13adc3-0f46-415d-8a41-08087170ff0e",
     "last_name": "Jones IV",
     "metadata": {
@@ -662449,7 +662449,7 @@
       "genius_id": "1344062",
       "rookie_year": "2022"
     },
-    "news_updated": 1795602607815,
+    "news_updated": 1795653911862,
     "number": 23,
     "oddsjam_id": "C3619260E06D",
     "opta_id": null,
@@ -671793,10 +671793,10 @@
     "hashtag": "#saucegardner-NFL-IND-1",
     "height": "75",
     "high_school": "Martin Luther King (MI)",
-    "injury_body_part": "Calf",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "fca772a0-56c2-44db-abfb-b18b753ef7ba",
     "last_name": "Gardner",
     "metadata": {
@@ -671804,7 +671804,7 @@
       "genius_id": "1343206",
       "rookie_year": "2022"
     },
-    "news_updated": 1795633510795,
+    "news_updated": 1795654211799,
     "number": 1,
     "oddsjam_id": "FFE46C814251",
     "opta_id": null,
@@ -675242,7 +675242,7 @@
       "genius_id": "1343499",
       "rookie_year": "2022"
     },
-    "news_updated": 1793144706959,
+    "news_updated": 1795655111748,
     "number": 29,
     "oddsjam_id": "9123CBD63B11",
     "opta_id": null,
@@ -682953,7 +682953,7 @@
       "genius_id": "1025605",
       "rookie_year": "2022"
     },
-    "news_updated": 1794793232692,
+    "news_updated": 1795654211773,
     "number": 72,
     "oddsjam_id": "13EAB519F26B",
     "opta_id": null,
@@ -683196,7 +683196,7 @@
       "genius_id": "1343506",
       "rookie_year": "2022"
     },
-    "news_updated": 1795569603802,
+    "news_updated": 1795652711568,
     "number": 75,
     "oddsjam_id": "F55342737307",
     "opta_id": null,
@@ -685074,7 +685074,7 @@
       "genius_id": "1081830",
       "rookie_year": "2022"
     },
-    "news_updated": 1795455917361,
+    "news_updated": 1795653611702,
     "number": 85,
     "oddsjam_id": "E970C474D622",
     "opta_id": null,
