@@ -2,6 +2,13 @@ name: Manual AVI Recalculation (Cached Data Only)
 
 on:
   workflow_dispatch:
+  # Permit a controlled recalculation without changing valuation source code.
+  # Updating only this trigger file runs the same cached-data-only job.
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/avi-manual-recalculate-trigger"
 
 permissions:
   contents: write
