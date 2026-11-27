@@ -37,19 +37,21 @@ DAVI_WEIGHTS: dict[str, float] = {
 
 
 def in_season_cavi_weights(completed_weeks: int = 0) -> dict[str, float]:
-    """The verified in-season 40% production policy.
+    """Increase the influence of verified PPR as the 2026 season develops.
 
-    Actual PPR output gets the largest single component, but does not
-    displace forward projection and market information halfway through the
-    season. This is a uniform model-wide weight, not a player exception.
-    Individual observed-game reliability and injury availability remain
-    separate adjustments in the in-season valuation pipeline.
+    Week 2: 40% completed-season production, 25% projection, 15% public
+    market. Weeks 3–7 transition smoothly; Week 8 onward: 60% production,
+    15% projection, 5% public market. League context (10%) and demonstrated
+    upside (10%) do not change. This protects early-season small samples
+    while preventing outdated preseason projection and redraft rankings
+    from overruling a large completed-season sample.
     """
+    progress = min(1.0, max(0.0, (completed_weeks - 2) / 6.0))
     return {
-        "player_points": 0.40,
-        "projections": 0.25,
+        "player_points": round(0.40 + 0.20 * progress, 6),
+        "projections": round(0.25 - 0.10 * progress, 6),
         "league_context": 0.10,
-        "public_market": 0.15,
+        "public_market": round(0.15 - 0.10 * progress, 6),
         "elite_upside": 0.10,
     }
 
