@@ -2,6 +2,7 @@ from avi.valuation.availability_adjustments import (
     _apply_projection_aware_cap,
     _availability_ceiling,
     _expected_missed_weeks,
+    _availability_adjusted_cavi,
 )
 
 
@@ -67,3 +68,37 @@ def test_season_ending_comment_uses_entire_remaining_horizon():
     missed, reason = _expected_missed_weeks(state, 10)
     assert missed == 8.0
     assert reason == "season_ending"
+
+
+def test_questionable_active_starter_keeps_risk_but_no_fractional_hard_cap():
+    # Generic regression for a premium player with 0.2 expected misses in
+    # a six-game fantasy championship horizon. A 96.7 hard cap would
+    # unnecessarily erase a genuine current-production lead.
+    final, delta = _availability_adjusted_cavi(
+        base_cavi=99.2,
+        ceiling=96.7,
+        ongoing_risk=1.5,
+        reason_code="questionable",
+        expected_missed_weeks=0.2,
+    )
+    assert final == 97.7
+    assert delta == -1.5
+
+
+def test_likely_to_miss_doubtful_player_keeps_hard_availability_ceiling():
+    final, delta = _availability_adjusted_cavi(
+        base_cavi=98.0, ceiling=87.5,
+        ongoing_risk=2.5, reason_code="doubtful",
+        expected_missed_weeks=0.75,
+    )
+    assert final == 87.5
+    assert delta == -10.5
+
+
+def test_confirmed_out_still_has_hard_ceiling():
+    final, _ = _availability_adjusted_cavi(
+        base_cavi=98.0, ceiling=83.3,
+        ongoing_risk=3.0, reason_code="out",
+        expected_missed_weeks=1.0,
+    )
+    assert final == 83.3
