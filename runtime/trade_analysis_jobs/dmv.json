@@ -19,8 +19,296 @@
       "foundationAssets": []
     },
     "createdAt": 1795813393632,
-    "updatedAt": 1795813395169,
+    "updatedAt": 1795813468820,
     "expiresAt": 1796245393632,
-    "status": "running"
+    "status": "completed",
+    "response": {
+      "ok": true,
+      "mode": "propose_trade",
+      "analysis": {
+        "verification": {
+          "userTeamVerified": true,
+          "targetTeamVerified": true,
+          "goalVerified": true,
+          "requiredFilesRetrieved": true,
+          "allPlayersVerified": true,
+          "allPicksVerified": true,
+          "officialAviRetrieved": true,
+          "readyForAnalysis": true,
+          "missingInformation": []
+        },
+        "executiveSummary": "No offer cleared the 70% Market Reality bar and both teams’ roster-fit checks.",
+        "trade": null,
+        "tradeAssessment": {
+          "submitted": {
+            "userGrade": "F",
+            "otherGrade": "F",
+            "userShare": 50,
+            "otherShare": 50,
+            "advantageFranchise": "Even",
+            "summary": "Attempting to construct a trade for Saquon Barkley between DMV Fantasy (Rebuild) and Corgi Loaf Baking Co. (Win Championship) fails for both organizations. DMV would misallocate rebuild resources into an aging veteran, while Corgi Loaf would ruin their championship starting lineup before the playoffs."
+          },
+          "recommended": null
+        },
+        "visualImpact": {
+          "sideA": {
+            "overall": {
+              "score": 0,
+              "summary": "Attempting to construct a trade for Saquon Barkley between DMV Fantasy (Rebuild) and Corgi Loaf Baking Co. (Win Championship) fails for both organizations. DMV would misallocate rebuild resources into an aging veteran, while Corgi Loaf would ruin their championship starting lineup before the playoffs."
+            },
+            "championshipOutlook": {
+              "score": 10,
+              "summary": "Marginally increases scoring potential, but DMV is already eliminated from playoff contention at 2-8."
+            },
+            "dynastyOutlook": {
+              "score": -70,
+              "summary": "Surrendering young assets or draft capital for a 29-year-old RB severely damages long-term flexibility."
+            },
+            "lineupQuality": {
+              "score": 30,
+              "summary": "Barkley would become DMV's highest-projected RB, but adds zero functional win value to a non-playoff team."
+            },
+            "depthResilience": {
+              "score": -20,
+              "summary": "Depletes roster depth or draft capital needed for the rebuild."
+            },
+            "flexibilityLiquidity": {
+              "score": -80,
+              "summary": "Ties up rebuilding assets in a depreciating veteran asset."
+            }
+          },
+          "sideB": {
+            "overall": {
+              "score": 0,
+              "summary": "Attempting to construct a trade for Saquon Barkley between DMV Fantasy (Rebuild) and Corgi Loaf Baking Co. (Win Championship) fails for both organizations. DMV would misallocate rebuild resources into an aging veteran, while Corgi Loaf would ruin their championship starting lineup before the playoffs."
+            },
+            "championshipOutlook": {
+              "score": -90,
+              "summary": "Devastates immediate 2026 title odds by creating a critical starting RB hole during the playoff push."
+            },
+            "dynastyOutlook": {
+              "score": 20,
+              "summary": "Gains future capital, but forfeits an elite championship window."
+            },
+            "lineupQuality": {
+              "score": -85,
+              "summary": "Severely downgrades RB2/FLEX starting production."
+            },
+            "depthResilience": {
+              "score": -40,
+              "summary": "Exposes Corgi Loaf to extreme lineup vulnerability with Josh Jacobs currently sidelined."
+            },
+            "flexibilityLiquidity": {
+              "score": 30,
+              "summary": "Adds liquid picks, but draft picks cannot produce points in the 2026 fantasy playoffs."
+            }
+          },
+          "explanation": "The proposed transaction fundamentally conflicts with both organizations' goals. DMV Fantasy damages dynasty liquidity, while Corgi Loaf Baking Co. destroys current championship odds."
+        },
+        "officialAviAnalysis": {
+          "sideAChampionshipImpact": "Saquon Barkley holds a C-AVI of 49.2, but DMV Fantasy is 2-8 and effectively eliminated, rendering current-season contribution worthless to their franchise trajectory.",
+          "sideADynastyImpact": "Barkley's D-AVI of 85.1 is weighed down by his age (29.0) and recurrent cervical stinger/hamstring issues, making him an improper acquisition target for a rebuilder.",
+          "sideARosterImpact": "Adds a veteran RB to a roster that requires core youth accumulation and draft pick preservation.",
+          "sideBChampionshipImpact": "Losing Barkley's 49.2 C-AVI removes a core starter (15+ PPG projection when healthy) for a 9-1 top seed pushing for the league title.",
+          "sideBDynastyImpact": "Unlocks Barkley's D-AVI, but fails to compensate for the immediate sacrifice of a prime championship season.",
+          "sideBRosterImpact": "Leaves Corgi Loaf dangerously depleted at running back behind Cam Skattebo while Josh Jacobs is sidelined.",
+          "valueAssessment": "Saquon Barkley is a premium contender asset whose value cannot be extracted by a rebuilder without damaging both franchises' primary objectives."
+        },
+        "publicMarketAnalysis": {
+          "summary": "Public consensus values Saquon Barkley as a high-end RB1/RB2 for contending rosters, though recent cervical neck stingers and hamstring sprains have created near-term risk.",
+          "aviVsMarket": "AVI aligns closely with public market valuation (85.1 D-AVI vs ~85 public market index), recognizing his elite scoring ceiling alongside age-29 wear-and-tear risk.",
+          "relevantContext": [
+            "Barkley suffered his second cervical stinger of 2026 on Thanksgiving (Nov 26) against Dallas.",
+            "Philadelphia is 3-7 with QB Jalen Hurts out for the season, elevating workload and injury risk.",
+            "Corgi Loaf Baking Co. is 9-1 and in the top tier of championship contenders in the Autobots League."
+          ]
+        },
+        "frontOfficeAnalysis": {
+          "opposingGmMotivation": "Corgi Loaf Baking Co. (awang1900) is 9-1 with a strict Win Championship goal. They have zero motivation to convert a focal starting RB into future picks or unproven youth.",
+          "packageFit": "DMV Fantasy lacks an active top-tier RB starter to offer in return, meaning any package constructed fails package fit for a championship seller.",
+          "lineupReplacement": "DMV Fantasy's top RBs (Jacory Croskey-Merritt C-AVI 35.6, Rachaad White C-AVI 27.1) represent a significant starting downgrade from Barkley in Corgi Loaf's optimized lineup.",
+          "competitiveWindowFit": "DMV Fantasy is in a Rebuild window, while Corgi Loaf is in a Win Championship window. Exchanging an elite veteran RB between these teams fits neither competitive timeline.",
+          "positionalScarcity": "Starting running backs with a 15+ PPG ceiling are scarce in a 16-team full PPR league with 2 RB and 2 FLEX slots."
+        },
+        "marketReality": {
+          "availabilityStatus": "Unknown",
+          "scoring": {
+            "availability": 15,
+            "opposingGmMotivation": 5,
+            "packageMatch": 5,
+            "lineupReplacement": 0,
+            "competitiveWindow": 0
+          },
+          "validations": {
+            "availabilityPassed": true,
+            "managerMotivationPassed": false,
+            "packageMatchPassed": false,
+            "lineupReplacementPassed": false,
+            "competitiveWindowPassed": false
+          },
+          "acceptanceProbability": 25,
+          "classification": "Impossible",
+          "explanation": "Corgi Loaf Baking Co. is 9-1 and pushing for the Autobots title. Trading Saquon Barkley without receiving a comparable starting RB in return creates a fatal hole in their playoff lineup. DMV Fantasy lacks the active RB assets to construct a viable trade."
+        },
+        "verdict": {
+          "decision": "No Realistic Trade",
+          "rationale": "No offer cleared the 70% Market Reality bar and both teams’ roster-fit checks.",
+          "confidence": "Low"
+        },
+        "recommendedOffer": null,
+        "alternateOffer": null,
+        "noDealExplanation": {
+          "primaryObstacle": "No complete package was found around the selected assets.",
+          "summary": "No offer cleared the 70% Market Reality bar and both teams’ roster-fit checks.",
+          "failedFactors": [
+            {
+              "factor": "insufficientValue",
+              "explanation": "No complete package was found around the selected assets."
+            },
+            {
+              "factor": "managerMotivation",
+              "explanation": "Corgi Loaf Baking Co. (awang1900) is 9-1 with a strict Win Championship goal. They have zero motivation to convert a focal starting RB into future picks or unproven youth."
+            },
+            {
+              "factor": "packageMatch",
+              "explanation": "DMV Fantasy lacks an active top-tier RB starter to offer in return, meaning any package constructed fails package fit for a championship seller."
+            },
+            {
+              "factor": "lineupReplacement",
+              "explanation": "DMV Fantasy's top RBs (Jacory Croskey-Merritt C-AVI 35.6, Rachaad White C-AVI 27.1) represent a significant starting downgrade from Barkley in Corgi Loaf's optimized lineup."
+            },
+            {
+              "factor": "competitiveWindow",
+              "explanation": "DMV Fantasy is in a Rebuild window, while Corgi Loaf is in a Win Championship window. Exchanging an elite veteran RB between these teams fits neither competitive timeline."
+            }
+          ],
+          "opponentPerspective": "Corgi Loaf Baking Co. (awang1900) is 9-1 with a strict Win Championship goal. They have zero motivation to convert a focal starting RB into future picks or unproven youth.",
+          "userConstraintImpact": "No explicit personal-context constraint was supplied.",
+          "closestPathToDeal": "Try changing a foundation asset or targeting a player whose manager has a clearer reason to trade.",
+          "whatWouldNeedToChange": [
+            "No complete package was found around the selected assets.",
+            "No complete package was found around the selected assets.",
+            "Corgi Loaf Baking Co. (awang1900) is 9-1 with a strict Win Championship goal. They have zero motivation to convert a focal starting RB into future picks or unproven youth.",
+            "DMV Fantasy lacks an active top-tier RB starter to offer in return, meaning any package constructed fails package fit for a championship seller.",
+            "DMV Fantasy's top RBs (Jacory Croskey-Merritt C-AVI 35.6, Rachaad White C-AVI 27.1) represent a significant starting downgrade from Barkley in Corgi Loaf's optimized lineup.",
+            "DMV Fantasy is in a Rebuild window, while Corgi Loaf is in a Win Championship window. Exchanging an elite veteran RB between these teams fits neither competitive timeline."
+          ]
+        },
+        "personalContext": {
+          "provided": false,
+          "applied": false,
+          "summary": null
+        },
+        "alternateScenarios": [],
+        "playoffRace": [
+          {
+            "team": "Corgi Loaf Baking Co.",
+            "risk": "in the race",
+            "seed": 3,
+            "record": "9-1",
+            "opponent": "Badland Banditos",
+            "winsToMatchTodaysWildcardRecord": 0,
+            "pointsFromTodaysWildcard": 74.3
+          },
+          {
+            "team": "DMV Fantasy",
+            "risk": "in the race",
+            "seed": 15,
+            "record": "2-8",
+            "opponent": "Gringo's Goblins",
+            "winsToMatchTodaysWildcardRecord": 3,
+            "pointsFromTodaysWildcard": -654.3
+          }
+        ],
+        "playoffImpact": [],
+        "organizationGoals": [
+          {
+            "team": "Corgi Loaf Baking Co.",
+            "goal": "Win Championship",
+            "source": "playoff picture",
+            "reason": "Currently in the top six of the verified eight-team bracket.",
+            "status": "Playoff Push"
+          },
+          {
+            "team": "DMV Fantasy",
+            "goal": "Rebuild",
+            "source": "playoff picture",
+            "reason": "Deep outside the bracket. Needs 3 of 4 remaining wins just to match today’s provisional wildcard record.",
+            "status": "Rebuilder"
+          }
+        ]
+      },
+      "metadata": {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "groundingAvailable": true,
+        "groundingModel": "gemini-3.5-flash-lite",
+        "groundingQueries": [
+          "Saquon Barkley stats contract injury 2026",
+          "Saquon Barkley news 2026 NFL"
+        ],
+        "groundingCitations": [
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn3QgUKp_veGaNLQpnwA3clUigY_iS5Ic_qZv1m88ptkWc6vUkHVsXPP_vRS_QuQd6xae15qwEd1XI1b4VSn3XkO5qJIRR9IKA_jwCmY3sEOw8bGv7I0LMuRBcUgdQomGp6zRlpq4VxbBkwPLu-v8R",
+            "title": "nfl.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3-DyZl2DnygyV35c7FAd3U1OxBz4C3uDF4J7fxGF3xvxFh3mvDozIJLrHPh4wJS11Lk7TuOHbkGf5rypXoA_4ZHc2O8btCdDIxmnuFDZnL2reSPaBKaFIejMaHnNy0A81LWPcJkpFNuPgggKr3eJMy74DfKBKQSO5HSfdO6S0NqUVPINL2o0yQ3Tm3hUvyS21HZbTWG5zavnlF32B5w0nCkXpnwE=",
+            "title": "profootballrumors.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYCDxEePCCnnYHLf_AzhVH-mV2yFOKejGieHYEj6ydoXYkzp1VPCBer-mxCQNIIcH5ZKgmGcrltVs0k9fAdIGEOTNHgyA8LBQrwzyamAHDygtEXane_6BFgZXgthF3zNePGtAEvI4MOmFe2ph4bOf8v4y4781K3veVOTE=",
+            "title": "philadelphiaeagles.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIrep18RQHQH8ehIqHsP03LnAz6kEPQtp6l8gTDZzSoPhP_pT9Z5iWxif6iD-OGNiV6Zifrwf4g3awMTyoFK-x1fJtp8_VblpWedIIT_wNYYDf9bfPq2BqUVg2zO-gi58Zb-7pp9ZBdW3gZE6_qYBNjLD7_DzQvtozzlj_RHDhWkvDInxA98OcpZoml1q7n-Va_L-LRFAkxKapIwRLLmCds0c=",
+            "title": "nacionale.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYHPLOhwmZkrSgcPzT4EHcABmY_3f53dtw--D-tQg7FXp5sH2asyBX2HNBMHgyHE-saghUP8_nEVhdI9qZajqm-QK8CZXeQYC-SbYhVieYs7GP06wPOIiyP3cgigjgQbtP6t2RsgFELyJmv6VgxLgjPuSCBMoCg3efy3I=",
+            "title": "sicscore.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF55-YQRx8_dUOnCNY35mecBokLzThyMOv61bvTJdOlezKxzQeT8g4T3RLmwdeK4FkLsUjMOs1ZFdNl03jUVTlVl7xe6uwawqdePWYHWZR8axPNP5Dz1wQsqh7L_Ccexi-u9f6atgIO8xvgksh1ak0IHoaoN4JYT1rJIqc=",
+            "title": "draftsharks.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgLalWkQ1P6dFxvjWrk0yTNwnPO43f5xHFipa0U1xhemn4UQfT3QnZ_NVv_8jUbAs07qiEE6XkaF-jJ1nfae3ywroYOtQIw1tmUo4lxuGLMSeb8Wre83jJ9x9fFEKu1mZtYDWJ5UDRm6bIAsSv4PhpR59m3-Vm94dXBy5Prdc7O3On__yijZWfM9LFzepTQjWY6Q==",
+            "title": "fantasypros.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKxLQ-CGwaLY4zgMSfWv1Cj50chPfHzooy8Yvc0NMkYR3sAydGeEV7qZEXon3OVVgX4iO16ShzKdZtN_4_ZXstskcfCSFdBUmlFet-jiPHAk7aiI8TuTVJyl1-8reUVC0SxlT9od5b1_SxxsYfo6U=",
+            "title": "statchasers.com"
+          },
+          {
+            "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSLmA97autIr58NCvBIIOWsd3-TUlgD_-_OFxaV2SdW3XeUmpdJxZ9bJo1sZpOUywhb4LijPD4xkXvt1iwGbmOUzAniXwK9R1k8oBz32v9dbxgsTOYYQi3R-BZ8sDrphlTHTK9b2fNMuJuBC4GTfsKKLGyfQQcLw==",
+            "title": "statmuse.com"
+          }
+        ],
+        "groundingError": null,
+        "aviCoreCommitSha": "8e296e6161834f9f9b0c23524688693b1924b4ff",
+        "aviCoreCommittedAt": "2026-11-27T20:31:21Z",
+        "sourcesUsed": [
+          "derived/verified-manager-directory",
+          "derived/late-season-playoff-push",
+          "derived/keeper-contracts",
+          "derived/organizational-goals",
+          "knowledge/AVI_GPT_Instructions.md",
+          "knowledge/AVI_Methodology_Revision_Market_Reality_v2.md",
+          "knowledge/teams/12_DMV_Fantasy.md",
+          "knowledge/teams/11_Corgi_Loaf_Baking_Co.md",
+          "knowledge/trade_block.json",
+          "knowledge/02_AVI_Historical_Trades.md",
+          "knowledge/01_AVI_Draft_Pick_Values_0_100.md",
+          "knowledge/03_AVI_Player_Current_Team_Lookup.md"
+        ],
+        "contextChars": 158199,
+        "groundedMarketChars": 4001,
+        "personalContextProvided": false,
+        "wholeRosterAuditApplied": false,
+        "factualWarnings": [],
+        "safeNarrativeEdits": []
+      }
+    }
   }
 ]
