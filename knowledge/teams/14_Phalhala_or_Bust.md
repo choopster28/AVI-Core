@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 408.9
-- championship_lineup_c_avi_avg: 51.11
-- offensive_roster_c_avi_sum: 537.9
-- offensive_roster_c_avi_avg: 38.42
-- offensive_roster_d_avi_sum: 1013.0
-- offensive_roster_d_avi_avg: 72.36
+- championship_lineup_c_avi_sum: 407.8
+- championship_lineup_c_avi_avg: 50.98
+- offensive_roster_c_avi_sum: 535.5
+- offensive_roster_c_avi_avg: 38.25
+- offensive_roster_d_avi_sum: 879.6
+- offensive_roster_d_avi_avg: 62.83
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Kirk Cousins | C-AVI: 46.5 | D-AVI: 65.1
-- RB: Ashton Jeanty | C-AVI: 79.3 | D-AVI: 93.6
-- RB: Jaylen Warren | C-AVI: 67.6 | D-AVI: 84.9
-- WR: Rome Odunze | C-AVI: 54.0 | D-AVI: 84.8
-- WR: Makai Lemon | C-AVI: 31.7 | D-AVI: 80.8
-- TE: Sam LaPorta | C-AVI: 67.8 | D-AVI: 85.5
-- FLEX: Hunter Henry | C-AVI: 39.6 | D-AVI: 71.5
-- FLEX: Jordan Mason | C-AVI: 22.4 | D-AVI: 72.0
+- QB: Kirk Cousins | C-AVI: 46.3 | D-AVI: 50.2
+- RB: Ashton Jeanty | C-AVI: 79.3 | D-AVI: 92.1
+- RB: Jaylen Warren | C-AVI: 67.5 | D-AVI: 77.7
+- WR: Rome Odunze | C-AVI: 53.9 | D-AVI: 78.9
+- WR: Makai Lemon | C-AVI: 31.6 | D-AVI: 74.8
+- TE: Sam LaPorta | C-AVI: 67.7 | D-AVI: 81.5
+- FLEX: Hunter Henry | C-AVI: 39.4 | D-AVI: 56.4
+- FLEX: Jordan Mason | C-AVI: 22.1 | D-AVI: 57.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -53,8 +53,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 38.0
-- Championship AVI (C-AVI, 0-100): 46.5
-- Dynasty AVI (D-AVI, 0-100): 65.1
+- Championship AVI (C-AVI, 0-100): 46.3
+- Dynasty AVI (D-AVI, 0-100): 50.2
 - Projected PPR points: 39.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 21.7
-- Dynasty AVI (D-AVI, 0-100): 68.6
+- Championship AVI (C-AVI, 0-100): 21.4
+- Dynasty AVI (D-AVI, 0-100): 60.1
 - Projected PPR points: 212.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -87,8 +87,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 12.8
-- Dynasty AVI (D-AVI, 0-100): 60.9
+- Championship AVI (C-AVI, 0-100): 12.5
+- Dynasty AVI (D-AVI, 0-100): 48.5
 - Projected PPR points: 13.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -105,7 +105,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 79.3
-- Dynasty AVI (D-AVI, 0-100): 93.6
+- Dynasty AVI (D-AVI, 0-100): 92.1
 - Projected PPR points: 253.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -121,8 +121,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 28.0
-- Championship AVI (C-AVI, 0-100): 67.6
-- Dynasty AVI (D-AVI, 0-100): 84.9
+- Championship AVI (C-AVI, 0-100): 67.5
+- Dynasty AVI (D-AVI, 0-100): 77.7
 - Projected PPR points: 170.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -138,8 +138,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 22.4
-- Dynasty AVI (D-AVI, 0-100): 72.0
+- Championship AVI (C-AVI, 0-100): 22.1
+- Dynasty AVI (D-AVI, 0-100): 57.5
 - Projected PPR points: 153.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 54.0
-- Dynasty AVI (D-AVI, 0-100): 84.8
+- Championship AVI (C-AVI, 0-100): 53.9
+- Dynasty AVI (D-AVI, 0-100): 78.9
 - Projected PPR points: 207.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -173,7 +173,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Inactive
 - Age: 26.0
 - Championship AVI (C-AVI, 0-100): 33.3
-- Dynasty AVI (D-AVI, 0-100): 79.2
+- Dynasty AVI (D-AVI, 0-100): 71.5
 - Projected PPR points: 166.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -189,8 +189,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 22.0
-- Championship AVI (C-AVI, 0-100): 31.7
-- Dynasty AVI (D-AVI, 0-100): 80.8
+- Championship AVI (C-AVI, 0-100): 31.6
+- Dynasty AVI (D-AVI, 0-100): 74.8
 - Projected PPR points: 168.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -206,8 +206,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 33.0
-- Championship AVI (C-AVI, 0-100): 21.8
-- Dynasty AVI (D-AVI, 0-100): 57.9
+- Championship AVI (C-AVI, 0-100): 21.4
+- Dynasty AVI (D-AVI, 0-100): 35.1
 - Projected PPR points: 86.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -223,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 32.0
-- Championship AVI (C-AVI, 0-100): 19.9
-- Dynasty AVI (D-AVI, 0-100): 47.6
+- Championship AVI (C-AVI, 0-100): 20.0
+- Dynasty AVI (D-AVI, 0-100): 56.2
 - Projected PPR points: 73.4
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,8 +240,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 27.0
-- Championship AVI (C-AVI, 0-100): 19.5
-- Dynasty AVI (D-AVI, 0-100): 60.6
+- Championship AVI (C-AVI, 0-100): 19.1
+- Dynasty AVI (D-AVI, 0-100): 39.1
 - Projected PPR points: 130.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -257,8 +257,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 25.0
-- Championship AVI (C-AVI, 0-100): 67.8
-- Dynasty AVI (D-AVI, 0-100): 85.5
+- Championship AVI (C-AVI, 0-100): 67.7
+- Dynasty AVI (D-AVI, 0-100): 81.5
 - Projected PPR points: 196.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -274,8 +274,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 31.0
-- Championship AVI (C-AVI, 0-100): 39.6
-- Dynasty AVI (D-AVI, 0-100): 71.5
+- Championship AVI (C-AVI, 0-100): 39.4
+- Dynasty AVI (D-AVI, 0-100): 56.4
 - Projected PPR points: 153.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

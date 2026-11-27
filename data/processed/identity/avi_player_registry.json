@@ -107,8 +107,8 @@
     "avi_id": "AVI-00000096",
     "canonical_name": "Aaron Rodgers",
     "match": {
-      "confidence": "verified",
-      "method": "exact_name_position_unique"
+      "confidence": "review",
+      "method": "exact_name_position"
     },
     "nfl_team": "PIT",
     "normalized_name": "aaron rodgers",
@@ -10664,8 +10664,8 @@
     "avi_id": "AVI-00012860",
     "canonical_name": "Theo Wease Jr.",
     "match": {
-      "confidence": "review",
-      "method": "exact_name_position"
+      "confidence": "verified",
+      "method": "exact_name_position_unique"
     },
     "nfl_team": "LAC",
     "normalized_name": "theo wease",

@@ -36,7 +36,7 @@
 | 3 | Big Balder Brand | Choopski | **23** | 7 | 2 | 14 | 35 | 36 | 3 | 10 | 1 | 4 |
 | 4 | Conquistadors | Thecan | **21** | 6 | 2 | 13 | 19 | 23 | 8 | 17 | 3 | 6 |
 | 5 | Northside Kings  | srsmith95 | **19** | 6 | 5 | 8 | 19 | 16 | 13 | 5 | 5 | 3 |
-| 6 | DMV Fantasy | TacticsNoob | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
+| 6 | tylerthersham | tylerthersham | **17** | 5 | 2 | 10 | 23 | 20 | 14 | 4 | 7 | 2 |
 | 7 | Mile High Royal Lions | shawnh56 | **13** | 0 | 8 | 5 | 14 | 14 | 6 | 8 | 1 | 3 |
 | 8 | Badland Banditos  | IcebergSlim69 | **12** | 4 | 4 | 4 | 13 | 13 | 6 | 9 | 1 | 4 |
 | 9 | Crimson Tide Pods | nickas | **12** | 0 | 1 | 11 | 15 | 15 | 15 | 5 | 6 | 0 |
@@ -53,12 +53,11 @@
 | Team | Most Frequent Partner(s) | Completed Trades |
 |---|---|---:|
 | All Hail King Jesus | Ravens Regime , Mile High Royal Lions | 2 |
-| Badland Banditos  | DMV Fantasy | 3 |
-| Big Balder Brand | DMV Fantasy | 7 |
+| Badland Banditos  | tylerthersham | 3 |
+| Big Balder Brand | tylerthersham | 7 |
 | Conquistadors | Northside Kings  | 5 |
 | Corgi Loaf Baking Co.  | Rapid Valley Annihilation | 6 |
 | Crimson Tide Pods | Corgi Loaf Baking Co.  | 3 |
-| DMV Fantasy | Big Balder Brand | 7 |
 | Gringo’s Goblins  | Ravens Regime  | 2 |
 | Lightskin Legends ✊🏽 | Conquistadors | 3 |
 | Mile High Royal Lions | Ravens Regime , Northside Kings , All Hail King Jesus, Crimson Tide Pods | 2 |
@@ -68,6 +67,7 @@
 | Ravens Regime  | Corgi Loaf Baking Co.  | 5 |
 | SmokyValleyWheatWarriors | Conquistadors | 3 |
 | Southside Savages | Conquistadors, Ravens Regime , Lightskin Legends ✊🏽, Corgi Loaf Baking Co.  | 1 |
+| tylerthersham | Big Balder Brand | 7 |
 
 ## Complete Trade Ledger
 
@@ -485,7 +485,7 @@
 - Picks received: None
 - Picks sent: 2027 Round 2 (original roster 3)
 
-#### DMV Fantasy (TacticsNoob)
+#### tylerthersham (tylerthersham)
 - Players received: None
 - Players sent: George Kittle
 - Picks received: 2027 Round 2 (original roster 3)
@@ -539,7 +539,7 @@
 - Picks received: 2027 Round 2 (original roster 3)
 - Picks sent: None
 
-#### DMV Fantasy (TacticsNoob)
+#### tylerthersham (tylerthersham)
 - Players received: Jacory Croskey-Merritt, Kaytron Allen
 - Players sent: Tony Pollard
 - Picks received: None
@@ -593,7 +593,7 @@
 - Picks received: None
 - Picks sent: 2028 Round 1 (original roster 1), 2027 Round 1 (original roster 5)
 
-#### DMV Fantasy (TacticsNoob)
+#### tylerthersham (tylerthersham)
 - Players received: Keaton Mitchell
 - Players sent: Breece Hall
 - Picks received: 2028 Round 1 (original roster 1), 2027 Round 1 (original roster 5)
@@ -629,7 +629,7 @@
 - Picks received: None
 - Picks sent: 2027 Round 3 (original roster 16), 2028 Round 1 (original roster 7)
 
-#### DMV Fantasy (TacticsNoob)
+#### tylerthersham (tylerthersham)
 - Players received: None
 - Players sent: Terry McLaurin
 - Picks received: 2027 Round 3 (original roster 16), 2028 Round 1 (original roster 7)
@@ -665,7 +665,7 @@
 - Picks received: None
 - Picks sent: 2027 Round 2 (original roster 12), 2029 Round 1 (original roster 9)
 
-#### DMV Fantasy (TacticsNoob)
+#### tylerthersham (tylerthersham)
 - Players received: Jalen Coker, Jaxson Dart
 - Players sent: Jayden Daniels, Khalil Shakir
 - Picks received: 2027 Round 2 (original roster 12), 2029 Round 1 (original roster 9)
@@ -701,7 +701,7 @@
 - Picks received: None
 - Picks sent: 2027 Round 2 (original roster 3)
 
-#### DMV Fantasy (TacticsNoob)
+#### tylerthersham (tylerthersham)
 - Players received: Isaac TeSlaa
 - Players sent: Ja'Kobi Lane
 - Picks received: 2027 Round 2 (original roster 3)
@@ -755,7 +755,7 @@
 - Picks received: 2027 Round 1 (original roster 12)
 - Picks sent: 2028 Round 3 (original roster 11), 2028 Round 1 (original roster 3)
 
-#### DMV Fantasy (TacticsNoob)
+#### tylerthersham (tylerthersham)
 - Players received: Ja'Kobi Lane
 - Players sent: None
 - Picks received: 2028 Round 3 (original roster 11), 2028 Round 1 (original roster 3)
@@ -845,7 +845,7 @@
 - Picks received: None
 - Picks sent: None
 
-#### DMV Fantasy (TacticsNoob)
+#### tylerthersham (tylerthersham)
 - Players received: Breece Hall
 - Players sent: Cam Little, Saquon Barkley
 - Picks received: None
@@ -953,7 +953,7 @@
 - Picks received: None
 - Picks sent: 2028 Round 1 (original roster 9)
 
-#### DMV Fantasy (TacticsNoob)
+#### tylerthersham (tylerthersham)
 - Players received: George Kittle, Brenton Strange
 - Players sent: Trey McBride
 - Picks received: 2028 Round 1 (original roster 9)
@@ -1103,7 +1103,7 @@
 - Picks received: 2027 Round 2 (original roster 12), 2027 Round 1 (original roster 9)
 - Picks sent: 2027 Round 3 (original roster 9)
 
-#### DMV Fantasy (TacticsNoob)
+#### tylerthersham (tylerthersham)
 - Players received: Saquon Barkley, Trey McBride, Khalil Shakir
 - Players sent: Jameson Williams
 - Picks received: 2027 Round 3 (original roster 9)

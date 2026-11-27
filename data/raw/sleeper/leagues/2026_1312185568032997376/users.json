@@ -236,20 +236,17 @@
     "user_id": "998253660243054592"
   },
   {
-    "avatar": "8eb8f8bf999945d523f2c4033f70473e",
-    "display_name": "TacticsNoob",
+    "avatar": "b3338675f635c2c1f42b469621d38ec6",
+    "display_name": "tylerthersham",
     "is_bot": false,
-    "is_owner": false,
+    "is_owner": null,
     "league_id": "1312185568032997376",
     "metadata": {
       "allow_pn": "on",
-      "allow_sms": "on",
-      "avatar": "https://sleepercdn.com/uploads/00a158aed3eb72d7547f12fc69500e07.jpg",
-      "mention_pn": "on",
-      "team_name": "DMV Fantasy"
+      "mention_pn": "on"
     },
     "settings": null,
-    "user_id": "1129546394534158336"
+    "user_id": "1002040303710224384"
   },
   {
     "avatar": "8eb8f8bf999945d523f2c4033f70473e",

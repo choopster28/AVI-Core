@@ -62,7 +62,7 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Northside Kings
 - Original roster ID: 5
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
@@ -140,11 +140,11 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 1 (DMV Fantasy) | 2027_01_orig12
+## PICK: 2027 Round 1 (tylerthersham) | 2027_01_orig12
 - Season: 2027
 - Round: 1
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
 - Current owner team: Crimson Tide Pods
 - Current owner roster ID: 16
@@ -230,7 +230,7 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Ravens Regime
 - Original roster ID: 3
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
@@ -302,7 +302,7 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Big Balder Brand
 - Original roster ID: 9
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
@@ -332,13 +332,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 2 (DMV Fantasy) | 2027_02_orig12
+## PICK: 2027 Round 2 (tylerthersham) | 2027_02_orig12
 - Season: 2027
 - Round: 2
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
@@ -494,7 +494,7 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Big Balder Brand
 - Original roster ID: 9
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
@@ -524,13 +524,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 3 (DMV Fantasy) | 2027_03_orig12
+## PICK: 2027 Round 3 (tylerthersham) | 2027_03_orig12
 - Season: 2027
 - Round: 3
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
@@ -578,7 +578,7 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Crimson Tide Pods
 - Original roster ID: 16
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
@@ -716,13 +716,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 4 (DMV Fantasy) | 2027_04_orig12
+## PICK: 2027 Round 4 (tylerthersham) | 2027_04_orig12
 - Season: 2027
 - Round: 4
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -908,13 +908,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 5 (DMV Fantasy) | 2027_05_orig12
+## PICK: 2027 Round 5 (tylerthersham) | 2027_05_orig12
 - Season: 2027
 - Round: 5
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -1100,13 +1100,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 6 (DMV Fantasy) | 2027_06_orig12
+## PICK: 2027 Round 6 (tylerthersham) | 2027_06_orig12
 - Season: 2027
 - Round: 6
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -1292,13 +1292,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 7 (DMV Fantasy) | 2027_07_orig12
+## PICK: 2027 Round 7 (tylerthersham) | 2027_07_orig12
 - Season: 2027
 - Round: 7
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -1484,13 +1484,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 8 (DMV Fantasy) | 2027_08_orig12
+## PICK: 2027 Round 8 (tylerthersham) | 2027_08_orig12
 - Season: 2027
 - Round: 8
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -1676,13 +1676,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 9 (DMV Fantasy) | 2027_09_orig12
+## PICK: 2027 Round 9 (tylerthersham) | 2027_09_orig12
 - Season: 2027
 - Round: 9
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -1868,13 +1868,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 10 (DMV Fantasy) | 2027_10_orig12
+## PICK: 2027 Round 10 (tylerthersham) | 2027_10_orig12
 - Season: 2027
 - Round: 10
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -2060,13 +2060,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 11 (DMV Fantasy) | 2027_11_orig12
+## PICK: 2027 Round 11 (tylerthersham) | 2027_11_orig12
 - Season: 2027
 - Round: 11
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -2252,13 +2252,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 12 (DMV Fantasy) | 2027_12_orig12
+## PICK: 2027 Round 12 (tylerthersham) | 2027_12_orig12
 - Season: 2027
 - Round: 12
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -2444,13 +2444,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 13 (DMV Fantasy) | 2027_13_orig12
+## PICK: 2027 Round 13 (tylerthersham) | 2027_13_orig12
 - Season: 2027
 - Round: 13
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -2636,13 +2636,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 14 (DMV Fantasy) | 2027_14_orig12
+## PICK: 2027 Round 14 (tylerthersham) | 2027_14_orig12
 - Season: 2027
 - Round: 14
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -2828,13 +2828,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 15 (DMV Fantasy) | 2027_15_orig12
+## PICK: 2027 Round 15 (tylerthersham) | 2027_15_orig12
 - Season: 2027
 - Round: 15
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -3020,13 +3020,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 16 (DMV Fantasy) | 2027_16_orig12
+## PICK: 2027 Round 16 (tylerthersham) | 2027_16_orig12
 - Season: 2027
 - Round: 16
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -3212,13 +3212,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 17 (DMV Fantasy) | 2027_17_orig12
+## PICK: 2027 Round 17 (tylerthersham) | 2027_17_orig12
 - Season: 2027
 - Round: 17
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -3404,13 +3404,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 18 (DMV Fantasy) | 2027_18_orig12
+## PICK: 2027 Round 18 (tylerthersham) | 2027_18_orig12
 - Season: 2027
 - Round: 18
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -3596,13 +3596,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 19 (DMV Fantasy) | 2027_19_orig12
+## PICK: 2027 Round 19 (tylerthersham) | 2027_19_orig12
 - Season: 2027
 - Round: 19
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -3788,13 +3788,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2027 Round 20 (DMV Fantasy) | 2027_20_orig12
+## PICK: 2027 Round 20 (tylerthersham) | 2027_20_orig12
 - Season: 2027
 - Round: 20
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -3854,7 +3854,7 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Conquistadors
 - Original roster ID: 1
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
@@ -3878,7 +3878,7 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Ravens Regime
 - Original roster ID: 3
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
@@ -3926,7 +3926,7 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Badland Banditos
 - Original roster ID: 7
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
@@ -3950,7 +3950,7 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Big Balder Brand
 - Original roster ID: 9
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
@@ -3980,13 +3980,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 1 (DMV Fantasy) | 2028_01_orig12
+## PICK: 2028 Round 1 (tylerthersham) | 2028_01_orig12
 - Season: 2028
 - Round: 1
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
@@ -4172,13 +4172,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 2 (DMV Fantasy) | 2028_02_orig12
+## PICK: 2028 Round 2 (tylerthersham) | 2028_02_orig12
 - Season: 2028
 - Round: 2
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
@@ -4358,19 +4358,19 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Corgi Loaf Baking Co.
 - Original roster ID: 11
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 3 (DMV Fantasy) | 2028_03_orig12
+## PICK: 2028 Round 3 (tylerthersham) | 2028_03_orig12
 - Season: 2028
 - Round: 3
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
@@ -4556,13 +4556,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 4 (DMV Fantasy) | 2028_04_orig12
+## PICK: 2028 Round 4 (tylerthersham) | 2028_04_orig12
 - Season: 2028
 - Round: 4
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -4748,13 +4748,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 5 (DMV Fantasy) | 2028_05_orig12
+## PICK: 2028 Round 5 (tylerthersham) | 2028_05_orig12
 - Season: 2028
 - Round: 5
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -4940,13 +4940,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 6 (DMV Fantasy) | 2028_06_orig12
+## PICK: 2028 Round 6 (tylerthersham) | 2028_06_orig12
 - Season: 2028
 - Round: 6
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -5132,13 +5132,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 7 (DMV Fantasy) | 2028_07_orig12
+## PICK: 2028 Round 7 (tylerthersham) | 2028_07_orig12
 - Season: 2028
 - Round: 7
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -5324,13 +5324,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 8 (DMV Fantasy) | 2028_08_orig12
+## PICK: 2028 Round 8 (tylerthersham) | 2028_08_orig12
 - Season: 2028
 - Round: 8
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -5516,13 +5516,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 9 (DMV Fantasy) | 2028_09_orig12
+## PICK: 2028 Round 9 (tylerthersham) | 2028_09_orig12
 - Season: 2028
 - Round: 9
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -5708,13 +5708,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 10 (DMV Fantasy) | 2028_10_orig12
+## PICK: 2028 Round 10 (tylerthersham) | 2028_10_orig12
 - Season: 2028
 - Round: 10
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -5900,13 +5900,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 11 (DMV Fantasy) | 2028_11_orig12
+## PICK: 2028 Round 11 (tylerthersham) | 2028_11_orig12
 - Season: 2028
 - Round: 11
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -6092,13 +6092,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 12 (DMV Fantasy) | 2028_12_orig12
+## PICK: 2028 Round 12 (tylerthersham) | 2028_12_orig12
 - Season: 2028
 - Round: 12
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -6284,13 +6284,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 13 (DMV Fantasy) | 2028_13_orig12
+## PICK: 2028 Round 13 (tylerthersham) | 2028_13_orig12
 - Season: 2028
 - Round: 13
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -6476,13 +6476,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 14 (DMV Fantasy) | 2028_14_orig12
+## PICK: 2028 Round 14 (tylerthersham) | 2028_14_orig12
 - Season: 2028
 - Round: 14
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -6668,13 +6668,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 15 (DMV Fantasy) | 2028_15_orig12
+## PICK: 2028 Round 15 (tylerthersham) | 2028_15_orig12
 - Season: 2028
 - Round: 15
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -6860,13 +6860,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 16 (DMV Fantasy) | 2028_16_orig12
+## PICK: 2028 Round 16 (tylerthersham) | 2028_16_orig12
 - Season: 2028
 - Round: 16
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -7052,13 +7052,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 17 (DMV Fantasy) | 2028_17_orig12
+## PICK: 2028 Round 17 (tylerthersham) | 2028_17_orig12
 - Season: 2028
 - Round: 17
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -7244,13 +7244,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 18 (DMV Fantasy) | 2028_18_orig12
+## PICK: 2028 Round 18 (tylerthersham) | 2028_18_orig12
 - Season: 2028
 - Round: 18
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -7436,13 +7436,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 19 (DMV Fantasy) | 2028_19_orig12
+## PICK: 2028 Round 19 (tylerthersham) | 2028_19_orig12
 - Season: 2028
 - Round: 19
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -7628,13 +7628,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2028 Round 20 (DMV Fantasy) | 2028_20_orig12
+## PICK: 2028 Round 20 (tylerthersham) | 2028_20_orig12
 - Season: 2028
 - Round: 20
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -7790,7 +7790,7 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - Slot: TBD
 - Original team: Big Balder Brand
 - Original roster ID: 9
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
@@ -7820,13 +7820,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: Premium Starter
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 1 (DMV Fantasy) | 2029_01_orig12
+## PICK: 2029 Round 1 (tylerthersham) | 2029_01_orig12
 - Season: 2029
 - Round: 1
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 79.3
 - AVI category: Premium Starter
@@ -8012,13 +8012,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: Rosterable Depth / Upside Stash
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 2 (DMV Fantasy) | 2029_02_orig12
+## PICK: 2029 Round 2 (tylerthersham) | 2029_02_orig12
 - Season: 2029
 - Round: 2
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 48.5
 - AVI category: Rosterable Depth / Upside Stash
@@ -8204,13 +8204,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: Replacement / Watch List
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 3 (DMV Fantasy) | 2029_03_orig12
+## PICK: 2029 Round 3 (tylerthersham) | 2029_03_orig12
 - Season: 2029
 - Round: 3
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 16.5
 - AVI category: Replacement / Watch List
@@ -8396,13 +8396,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 4 (DMV Fantasy) | 2029_04_orig12
+## PICK: 2029 Round 4 (tylerthersham) | 2029_04_orig12
 - Season: 2029
 - Round: 4
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -8588,13 +8588,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 5 (DMV Fantasy) | 2029_05_orig12
+## PICK: 2029 Round 5 (tylerthersham) | 2029_05_orig12
 - Season: 2029
 - Round: 5
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -8780,13 +8780,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 6 (DMV Fantasy) | 2029_06_orig12
+## PICK: 2029 Round 6 (tylerthersham) | 2029_06_orig12
 - Season: 2029
 - Round: 6
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -8972,13 +8972,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 7 (DMV Fantasy) | 2029_07_orig12
+## PICK: 2029 Round 7 (tylerthersham) | 2029_07_orig12
 - Season: 2029
 - Round: 7
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -9164,13 +9164,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 8 (DMV Fantasy) | 2029_08_orig12
+## PICK: 2029 Round 8 (tylerthersham) | 2029_08_orig12
 - Season: 2029
 - Round: 8
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -9356,13 +9356,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 9 (DMV Fantasy) | 2029_09_orig12
+## PICK: 2029 Round 9 (tylerthersham) | 2029_09_orig12
 - Season: 2029
 - Round: 9
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -9548,13 +9548,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 10 (DMV Fantasy) | 2029_10_orig12
+## PICK: 2029 Round 10 (tylerthersham) | 2029_10_orig12
 - Season: 2029
 - Round: 10
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -9740,13 +9740,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 11 (DMV Fantasy) | 2029_11_orig12
+## PICK: 2029 Round 11 (tylerthersham) | 2029_11_orig12
 - Season: 2029
 - Round: 11
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -9932,13 +9932,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 12 (DMV Fantasy) | 2029_12_orig12
+## PICK: 2029 Round 12 (tylerthersham) | 2029_12_orig12
 - Season: 2029
 - Round: 12
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -10124,13 +10124,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 13 (DMV Fantasy) | 2029_13_orig12
+## PICK: 2029 Round 13 (tylerthersham) | 2029_13_orig12
 - Season: 2029
 - Round: 13
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -10316,13 +10316,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 14 (DMV Fantasy) | 2029_14_orig12
+## PICK: 2029 Round 14 (tylerthersham) | 2029_14_orig12
 - Season: 2029
 - Round: 14
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -10508,13 +10508,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 15 (DMV Fantasy) | 2029_15_orig12
+## PICK: 2029 Round 15 (tylerthersham) | 2029_15_orig12
 - Season: 2029
 - Round: 15
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -10700,13 +10700,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 16 (DMV Fantasy) | 2029_16_orig12
+## PICK: 2029 Round 16 (tylerthersham) | 2029_16_orig12
 - Season: 2029
 - Round: 16
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -10892,13 +10892,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 17 (DMV Fantasy) | 2029_17_orig12
+## PICK: 2029 Round 17 (tylerthersham) | 2029_17_orig12
 - Season: 2029
 - Round: 17
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -11084,13 +11084,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 18 (DMV Fantasy) | 2029_18_orig12
+## PICK: 2029 Round 18 (tylerthersham) | 2029_18_orig12
 - Season: 2029
 - Round: 18
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -11276,13 +11276,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 19 (DMV Fantasy) | 2029_19_orig12
+## PICK: 2029 Round 19 (tylerthersham) | 2029_19_orig12
 - Season: 2029
 - Round: 19
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI
@@ -11468,13 +11468,13 @@ Retrieval purpose: official AVI values and verified ownership for active future 
 - AVI category: No Current AVI
 - Validation status: future_order_tbd
 
-## PICK: 2029 Round 20 (DMV Fantasy) | 2029_20_orig12
+## PICK: 2029 Round 20 (tylerthersham) | 2029_20_orig12
 - Season: 2029
 - Round: 20
 - Slot: TBD
-- Original team: DMV Fantasy
+- Original team: tylerthersham
 - Original roster ID: 12
-- Current owner team: DMV Fantasy
+- Current owner team: tylerthersham
 - Current owner roster ID: 12
 - Draft Pick AVI: 0.0
 - AVI category: No Current AVI

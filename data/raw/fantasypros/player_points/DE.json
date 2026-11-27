@@ -122,17 +122,18 @@
       }
     },
     {
-      "average": 4.2,
+      "average": 4,
       "filename": "josaiah-stewart.php",
-      "games": 10,
+      "games": 11,
       "player_id": 27034,
       "player_name": "Josaiah Stewart",
-      "points": 42,
+      "points": 44.25,
       "position_id": "DE",
       "team_id": "LAR",
       "weeks": {
         "1": 5.3,
         "10": 0.8,
+        "12": 2.3,
         "2": 0.8,
         "3": 1.5,
         "4": 0.8,
@@ -144,17 +145,18 @@
       }
     },
     {
-      "average": 9.2,
+      "average": 9.5,
       "filename": "byron-young-edge.php",
-      "games": 10,
+      "games": 11,
       "player_id": 25449,
       "player_name": "Byron Young",
-      "points": 91.75,
+      "points": 104.5,
       "position_id": "DE",
       "team_id": "LAR",
       "weeks": {
         "1": 0.8,
         "10": 13.5,
+        "12": 12.8,
         "2": 12.5,
         "3": 3,
         "4": 26.5,
@@ -166,17 +168,18 @@
       }
     },
     {
-      "average": 9.3,
+      "average": 8.8,
       "filename": "myles-garrett.php",
-      "games": 3,
+      "games": 4,
       "player_id": 16370,
       "player_name": "Myles Garrett",
-      "points": 28,
+      "points": 35,
       "position_id": "DE",
       "team_id": "LAR",
       "weeks": {
         "1": 0,
         "10": 0,
+        "12": 7,
         "9": 28
       }
     },
@@ -338,17 +341,18 @@
       }
     },
     {
-      "average": 6.5,
+      "average": 6.1,
       "filename": "montez-sweat.php",
-      "games": 8,
+      "games": 9,
       "player_id": 18213,
       "player_name": "Montez Sweat",
-      "points": 52,
+      "points": 55,
       "position_id": "DE",
       "team_id": "CHI",
       "weeks": {
         "1": 8.8,
         "11": 12,
+        "12": 3,
         "2": 2.3,
         "3": 8,
         "4": 0.8,
@@ -565,18 +569,18 @@
       }
     },
     {
-      "average": 9.6,
+      "average": 9.5,
       "filename": "dj-wonnum.php",
       "games": 9,
       "player_id": 19355,
       "player_name": "DJ Wonnum",
-      "points": 86.5,
+      "points": 85.75,
       "position_id": "DE",
       "team_id": "DET",
       "weeks": {
         "1": 8.5,
         "10": 15,
-        "11": 19.5,
+        "11": 18.8,
         "2": 2.3,
         "3": 16,
         "4": 5.5,
@@ -586,18 +590,19 @@
       }
     },
     {
-      "average": 1.6,
+      "average": 1.5,
       "filename": "tyler-lacy.php",
-      "games": 10,
+      "games": 11,
       "player_id": 25507,
       "player_name": "Tyler Lacy",
-      "points": 16,
+      "points": 16.75,
       "position_id": "DE",
       "team_id": "DET",
       "weeks": {
         "1": 0.8,
         "10": 3.8,
         "11": 1.5,
+        "12": 0.8,
         "2": 2.3,
         "3": 0,
         "4": 4.8,
@@ -643,18 +648,19 @@
       }
     },
     {
-      "average": 4.2,
+      "average": 5.9,
       "filename": "derrick-moore.php",
-      "games": 10,
+      "games": 11,
       "player_id": 27977,
       "player_name": "Derrick Moore",
-      "points": 42.25,
+      "points": 65.25,
       "position_id": "DE",
       "team_id": "DET",
       "weeks": {
         "1": 0,
         "10": 16,
         "11": 3.5,
+        "12": 23,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -889,18 +895,19 @@
       }
     },
     {
-      "average": 13.4,
+      "average": 13.1,
       "filename": "gregory-rousseau.php",
-      "games": 10,
+      "games": 11,
       "player_id": 19787,
       "player_name": "Greg Rousseau",
-      "points": 134,
+      "points": 144.25,
       "position_id": "DE",
       "team_id": "BUF",
       "weeks": {
         "1": 28.5,
         "10": 0,
         "11": 17.5,
+        "12": 10.3,
         "2": 21.5,
         "3": 27.8,
         "4": 7.5,
@@ -1662,17 +1669,18 @@
       }
     },
     {
-      "average": 8.7,
+      "average": 8.1,
       "filename": "lukas-van-ness.php",
-      "games": 10,
+      "games": 11,
       "player_id": 25291,
       "player_name": "Lukas Van Ness",
-      "points": 87.25,
+      "points": 89.5,
       "position_id": "DE",
       "team_id": "GB",
       "weeks": {
         "1": 12.5,
         "10": 13,
+        "12": 2.3,
         "2": 24.8,
         "3": 3.8,
         "4": 4.5,
@@ -1684,17 +1692,18 @@
       }
     },
     {
-      "average": 5.3,
+      "average": 5,
       "filename": "dani-dennissutton.php",
-      "games": 10,
+      "games": 11,
       "player_id": 28180,
       "player_name": "Dani Dennis-Sutton",
-      "points": 53,
+      "points": 54.5,
       "position_id": "DE",
       "team_id": "GB",
       "weeks": {
         "1": 0.8,
         "10": 2.3,
+        "12": 1.5,
         "2": 8,
         "3": 1.5,
         "4": 0.8,
@@ -1706,9 +1715,9 @@
       }
     },
     {
-      "average": 7.6,
+      "average": 6.9,
       "filename": "nolan-smith.php",
-      "games": 9,
+      "games": 10,
       "player_id": 24711,
       "player_name": "Nolan Smith Jr.",
       "points": 68.5,
@@ -1717,6 +1726,7 @@
       "weeks": {
         "1": 2.3,
         "11": 12.5,
+        "12": 0,
         "2": 12.8,
         "3": 2.3,
         "4": 9.5,
@@ -1915,17 +1925,18 @@
       }
     },
     {
-      "average": 6.5,
+      "average": 6.7,
       "filename": "donovan-ezeiruaku.php",
-      "games": 10,
+      "games": 11,
       "player_id": 27033,
       "player_name": "Donovan Ezeiruaku",
-      "points": 65,
+      "points": 73.75,
       "position_id": "DE",
       "team_id": "DAL",
       "weeks": {
         "1": 19,
         "11": 7.5,
+        "12": 8.8,
         "2": 3.8,
         "3": 5.3,
         "4": 3,
@@ -1957,18 +1968,19 @@
       }
     },
     {
-      "average": 3.4,
+      "average": 3.6,
       "filename": "felix-anudike-uzomah.php",
-      "games": 10,
+      "games": 11,
       "player_id": 25244,
       "player_name": "Felix Anudike-Uzomah",
-      "points": 34.25,
+      "points": 39.5,
       "position_id": "DE",
       "team_id": "KC",
       "weeks": {
         "1": 12,
         "10": 4,
         "11": 0.8,
+        "12": 5.3,
         "2": 0,
         "3": 0.8,
         "4": 6.3,
@@ -1979,9 +1991,9 @@
       }
     },
     {
-      "average": 2.1,
+      "average": 1.9,
       "filename": "r-mason-thomas.php",
-      "games": 10,
+      "games": 11,
       "player_id": 28021,
       "player_name": "R Mason Thomas",
       "points": 21,
@@ -1991,6 +2003,7 @@
         "1": 8.8,
         "10": 5.5,
         "11": 0,
+        "12": 0,
         "2": 0,
         "3": 1.5,
         "4": 0,
@@ -2001,18 +2014,19 @@
       }
     },
     {
-      "average": 13.4,
+      "average": 12.5,
       "filename": "george-karlaftis-iii.php",
-      "games": 10,
+      "games": 11,
       "player_id": 23501,
       "player_name": "George Karlaftis III",
-      "points": 133.5,
+      "points": 137.25,
       "position_id": "DE",
       "team_id": "KC",
       "weeks": {
         "1": 3,
         "10": 12.3,
         "11": 24.3,
+        "12": 3.8,
         "2": 5.3,
         "3": 11.3,
         "4": 9.3,
@@ -2339,16 +2353,17 @@
       }
     },
     {
-      "average": 3.5,
+      "average": 4.2,
       "filename": "jonathan-greenard.php",
-      "games": 7,
+      "games": 8,
       "player_id": 19276,
       "player_name": "Jonathan Greenard",
-      "points": 24.5,
+      "points": 33.75,
       "position_id": "DE",
       "team_id": "PHI",
       "weeks": {
         "11": 8,
+        "12": 9.3,
         "3": 5.5,
         "4": 0,
         "6": 0,
@@ -2585,13 +2600,14 @@
     {
       "average": 0,
       "filename": "mason-reiger.php",
-      "games": 1,
+      "games": 2,
       "player_id": 28534,
       "player_name": "Mason Reiger",
       "points": 0,
       "position_id": "DE",
       "team_id": "PHI",
       "weeks": {
+        "12": 0,
         "8": 0
       }
     },
@@ -2610,15 +2626,16 @@
       }
     },
     {
-      "average": 0,
+      "average": 0.8,
       "filename": "anthony-lucas.php",
-      "games": 1,
+      "games": 2,
       "player_id": 28090,
       "player_name": "Anthony Lucas",
-      "points": 0,
+      "points": 1.5,
       "position_id": "DE",
       "team_id": "DET",
       "weeks": {
+        "12": 1.5,
         "9": 0
       }
     },

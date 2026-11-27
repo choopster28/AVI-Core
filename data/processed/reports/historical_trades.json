@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-26T04:14:20.919927+00:00",
+  "generated_at_utc": "2026-11-27T21:07:35.769099+00:00",
   "statistics": {
     "owner_trade_participations": 218,
     "partner_matrix": [
@@ -15,7 +15,7 @@
       {
         "partner_count": 3,
         "partners": [
-          "DMV Fantasy"
+          "tylerthersham"
         ],
         "roster_id": 7,
         "team_name": "Badland Banditos "
@@ -23,7 +23,7 @@
       {
         "partner_count": 7,
         "partners": [
-          "DMV Fantasy"
+          "tylerthersham"
         ],
         "roster_id": 9,
         "team_name": "Big Balder Brand"
@@ -51,14 +51,6 @@
         ],
         "roster_id": 16,
         "team_name": "Crimson Tide Pods"
-      },
-      {
-        "partner_count": 7,
-        "partners": [
-          "Big Balder Brand"
-        ],
-        "roster_id": 12,
-        "team_name": "DMV Fantasy"
       },
       {
         "partner_count": 2,
@@ -138,6 +130,14 @@
         ],
         "roster_id": 13,
         "team_name": "Southside Savages"
+      },
+      {
+        "partner_count": 7,
+        "partners": [
+          "Big Balder Brand"
+        ],
+        "roster_id": 12,
+        "team_name": "tylerthersham"
       }
     ],
     "team_stats": [
@@ -234,13 +234,13 @@
         },
         "firsts_in": 7,
         "firsts_out": 2,
-        "owner_display_name": "TacticsNoob",
+        "owner_display_name": "tylerthersham",
         "picks_in": 14,
         "picks_out": 4,
         "players_in": 23,
         "players_out": 20,
         "roster_id": 12,
-        "team_name": "DMV Fantasy",
+        "team_name": "tylerthersham",
         "total": 17
       },
       {
@@ -3832,8 +3832,8 @@
           "team_name": "Big Balder Brand"
         },
         {
-          "owner_display_name": "TacticsNoob",
-          "owner_id": "1129546394534158336",
+          "owner_display_name": "tylerthersham",
+          "owner_id": "1002040303710224384",
           "picks_received": [
             {
               "original_roster_id": 9,
@@ -3875,7 +3875,7 @@
           ],
           "roster_id": 12,
           "season": 2026,
-          "team_name": "DMV Fantasy"
+          "team_name": "tylerthersham"
         }
       ],
       "transaction_id": "1375906214189207552",
@@ -4437,8 +4437,8 @@
           "team_name": "Big Balder Brand"
         },
         {
-          "owner_display_name": "TacticsNoob",
-          "owner_id": "1129546394534158336",
+          "owner_display_name": "tylerthersham",
+          "owner_id": "1002040303710224384",
           "picks_received": [
             {
               "original_roster_id": 9,
@@ -4465,7 +4465,7 @@
           ],
           "roster_id": 12,
           "season": 2026,
-          "team_name": "DMV Fantasy"
+          "team_name": "tylerthersham"
         }
       ],
       "transaction_id": "1383186342132842496",
@@ -4795,8 +4795,8 @@
           "team_name": "Big Balder Brand"
         },
         {
-          "owner_display_name": "TacticsNoob",
-          "owner_id": "1129546394534158336",
+          "owner_display_name": "tylerthersham",
+          "owner_id": "1002040303710224384",
           "picks_received": [],
           "picks_sent": [],
           "players_received": [
@@ -4817,7 +4817,7 @@
           ],
           "roster_id": 12,
           "season": 2026,
-          "team_name": "DMV Fantasy"
+          "team_name": "tylerthersham"
         }
       ],
       "transaction_id": "1386578462004772864",
@@ -5131,8 +5131,8 @@
           "team_name": "Corgi Loaf Baking Co. "
         },
         {
-          "owner_display_name": "TacticsNoob",
-          "owner_id": "1129546394534158336",
+          "owner_display_name": "tylerthersham",
+          "owner_id": "1002040303710224384",
           "picks_received": [
             {
               "original_roster_id": 11,
@@ -5161,7 +5161,7 @@
           "players_sent": [],
           "roster_id": 12,
           "season": 2026,
-          "team_name": "DMV Fantasy"
+          "team_name": "tylerthersham"
         }
       ],
       "transaction_id": "1390409668387418112",
@@ -5403,8 +5403,8 @@
           "team_name": "Ravens Regime "
         },
         {
-          "owner_display_name": "TacticsNoob",
-          "owner_id": "1129546394534158336",
+          "owner_display_name": "tylerthersham",
+          "owner_id": "1002040303710224384",
           "picks_received": [
             {
               "original_roster_id": 3,
@@ -5427,7 +5427,7 @@
           ],
           "roster_id": 12,
           "season": 2026,
-          "team_name": "DMV Fantasy"
+          "team_name": "tylerthersham"
         }
       ],
       "transaction_id": "1394154621529763840",
@@ -5568,8 +5568,8 @@
           "team_name": "Big Balder Brand"
         },
         {
-          "owner_display_name": "TacticsNoob",
-          "owner_id": "1129546394534158336",
+          "owner_display_name": "tylerthersham",
+          "owner_id": "1002040303710224384",
           "picks_received": [
             {
               "original_roster_id": 12,
@@ -5605,7 +5605,7 @@
           ],
           "roster_id": 12,
           "season": 2026,
-          "team_name": "DMV Fantasy"
+          "team_name": "tylerthersham"
         }
       ],
       "transaction_id": "1394506115831586816",
@@ -5705,8 +5705,8 @@
           "team_name": "Badland Banditos "
         },
         {
-          "owner_display_name": "TacticsNoob",
-          "owner_id": "1129546394534158336",
+          "owner_display_name": "tylerthersham",
+          "owner_id": "1002040303710224384",
           "picks_received": [
             {
               "original_roster_id": 16,
@@ -5729,7 +5729,7 @@
           ],
           "roster_id": 12,
           "season": 2026,
-          "team_name": "DMV Fantasy"
+          "team_name": "tylerthersham"
         }
       ],
       "transaction_id": "1396908520204410880",
@@ -5878,8 +5878,8 @@
           "team_name": "Conquistadors"
         },
         {
-          "owner_display_name": "TacticsNoob",
-          "owner_id": "1129546394534158336",
+          "owner_display_name": "tylerthersham",
+          "owner_id": "1002040303710224384",
           "picks_received": [
             {
               "original_roster_id": 1,
@@ -5907,7 +5907,7 @@
           ],
           "roster_id": 12,
           "season": 2026,
-          "team_name": "DMV Fantasy"
+          "team_name": "tylerthersham"
         }
       ],
       "transaction_id": "1398345517959819264",
@@ -6083,8 +6083,8 @@
           "team_name": "Ravens Regime "
         },
         {
-          "owner_display_name": "TacticsNoob",
-          "owner_id": "1129546394534158336",
+          "owner_display_name": "tylerthersham",
+          "owner_id": "1002040303710224384",
           "picks_received": [],
           "picks_sent": [
             {
@@ -6111,7 +6111,7 @@
           ],
           "roster_id": 12,
           "season": 2026,
-          "team_name": "DMV Fantasy"
+          "team_name": "tylerthersham"
         }
       ],
       "transaction_id": "1408697725586825216",
@@ -6304,8 +6304,8 @@
           "team_name": "Ravens Regime "
         },
         {
-          "owner_display_name": "TacticsNoob",
-          "owner_id": "1129546394534158336",
+          "owner_display_name": "tylerthersham",
+          "owner_id": "1002040303710224384",
           "picks_received": [
             {
               "original_roster_id": 3,
@@ -6323,7 +6323,7 @@
           ],
           "roster_id": 12,
           "season": 2026,
-          "team_name": "DMV Fantasy"
+          "team_name": "tylerthersham"
         }
       ],
       "transaction_id": "1410419901381775360",
