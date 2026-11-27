@@ -255,6 +255,29 @@ def _apply_projection_aware_cap(current_cavi: float, ceiling: float) -> tuple[fl
     return final, round(final - float(current_cavi), 1)
 
 
+def _availability_adjusted_cavi(
+    base_cavi: float,
+    ceiling: float,
+    ongoing_risk: float,
+    reason_code: str,
+    expected_missed_weeks: float,
+) -> tuple[float, float]:
+    """Apply injury risk without turning a minor questionable tag into an
+    unjustified hard ceiling across the entire championship window.
+
+    A questionable/probable tag with less than half an expected missed game
+    is uncertainty, not a verified multi-week absence. Apply its bounded
+    risk discount but reserve the hard cap for higher absence likelihood,
+    Out, IR, and confirmed long-term absences.
+    """
+    risk_adjusted = max(0.0, base_cavi - ongoing_risk)
+    if reason_code in {"questionable", "probable"} and expected_missed_weeks < 0.5:
+        final = round(risk_adjusted, 1)
+        return final, round(final - base_cavi, 1)
+    final, _ = _apply_projection_aware_cap(risk_adjusted, ceiling)
+    return final, round(final - base_cavi, 1)
+
+
 def _ongoing_injury_risk_points(
     player: dict[str, Any], status_reason: str,
 ) -> tuple[float, int]:
@@ -357,9 +380,9 @@ def apply_injury_availability_adjustments() -> dict[str, Any]:
         # materially unreliable starter entirely unadjusted. Apply a bounded
         # current-injury/recent-absence risk discount, then enforce the ceiling.
         ongoing_risk, missed_beyond_bye = _ongoing_injury_risk_points(player, reason_code)
-        risk_adjusted = max(0.0, base_cavi - ongoing_risk)
-        final_cavi, _ = _apply_projection_aware_cap(risk_adjusted, ceiling)
-        delta = round(final_cavi - base_cavi, 1)
+        final_cavi, delta = _availability_adjusted_cavi(
+            base_cavi, ceiling, ongoing_risk, reason_code, expected_missed,
+        )
         status_text = _status_text(state).strip()
 
         adjustment = {
@@ -376,7 +399,7 @@ def apply_injury_availability_adjustments() -> dict[str, Any]:
             "status": status_text,
             "status_source": _status_source(state),
             "projection_aware": True,
-            "policy": "Current verified injury designations carry a bounded risk discount based on missed 2026 games beyond one possible bye; fully cleared players have zero risk discount. An additional hard future-availability ceiling remains in force.",
+            "policy": "Current injury risk is bounded and evidence-based. A mild questionable/probable tag does not impose a hard ceiling without at least half an expected missed game. Out/IR/season-ending absences retain availability ceilings.",
         }
         player["c_avi_availability_adjustment"] = adjustment
         if delta < 0:
@@ -404,7 +427,7 @@ def apply_injury_availability_adjustments() -> dict[str, Any]:
         "championship_horizon_end_week": FANTASY_CHAMPIONSHIP_END_WEEK,
         "players_evaluated": evaluated,
         "players_capped": len(applied),
-        "policy": "Bounded ongoing injury-risk deduction for currently designated players (including verified missed games beyond one bye), followed by a hard ceiling for expected missed future games; cleared players receive no historical-injury discount.",
+        "policy": "Bounded injury-risk deduction with hard availability caps for credible missed-game expectations; questionable/probable tags below half a likely missed game retain risk only, not a mathematically disproportionate horizon cap.",
         "sources": ["Sleeper NFL player injury status", "FantasyPros injuries"],
         "source_priority": ["sleeper_actionable_designation", "fantasypros_fallback"],
     }
