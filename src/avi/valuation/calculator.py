@@ -47,12 +47,19 @@ def in_season_cavi_weights(completed_weeks: int = 0) -> dict[str, float]:
     from overruling a large completed-season sample.
     """
     progress = min(1.0, max(0.0, (completed_weeks - 2) / 6.0))
+    production = round(0.40 + 0.20 * progress, 6)
+    projections = round(0.25 - 0.10 * progress, 6)
+    context = 0.10
+    upside = 0.10
+    # Calculate the residual after rounding so every intermediate week sums
+    # exactly to 100%, not 99.9999% or 100.0001% due to independent rounding.
+    market = round(1.0 - production - projections - context - upside, 6)
     return {
-        "player_points": round(0.40 + 0.20 * progress, 6),
-        "projections": round(0.25 - 0.10 * progress, 6),
-        "league_context": 0.10,
-        "public_market": round(0.15 - 0.10 * progress, 6),
-        "elite_upside": 0.10,
+        "player_points": production,
+        "projections": projections,
+        "league_context": context,
+        "public_market": market,
+        "elite_upside": upside,
     }
 
 
