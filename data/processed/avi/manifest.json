@@ -1,11 +1,11 @@
 {
-  "c_avi_weight_policy": "Actual in-season production remains at 40% of C-AVI, forward projections at 25%, public market at 15%, league context at 10%, and demonstrated elite upside at 10%. Observed-game reliability and injury availability are applied separately.",
+  "c_avi_weight_policy": "Verified production grows from 40% at Week 2 to 60% by Week 8; projection weight declines from 25% to 15% and public market from 15% to 5%. League context and demonstrated ceiling remain at 10% each. The complete-week boundary, observed-game reliability and injury availability remain separately verified.",
   "c_avi_weights": {
     "elite_upside": 0.1,
     "league_context": 0.1,
-    "player_points": 0.4,
-    "projections": 0.25,
-    "public_market": 0.15
+    "player_points": 0.6,
+    "projections": 0.15,
+    "public_market": 0.05
   },
   "d_avi_missing_component_policy": "Redistribute missing optional component weights proportionally across verified components.",
   "d_avi_weights": {
@@ -22,8 +22,7 @@
     "activation_policy": "Use every verified completed 2026 week. If FantasyPros has begun publishing an incomplete current week, ignore that partial week rather than reverting C-AVI to preseason values.",
     "completed_through_week": 11,
     "completion_sources": [
-      "Sleeper NFL state",
-      "ESPN NFL scoreboard"
+      "previous verified manifest (offline)"
     ],
     "current_week_schedule_complete": null,
     "fantasypros_max_observed_week": 11,
@@ -42,7 +41,7 @@
     "current_week": 12,
     "players_capped": 107,
     "players_evaluated": 479,
-    "policy": "Bounded ongoing injury-risk deduction for currently designated players (including verified missed games beyond one bye), followed by a hard ceiling for expected missed future games; cleared players receive no historical-injury discount.",
+    "policy": "Bounded injury-risk deduction with hard availability caps for credible missed-game expectations; questionable/probable tags below half a likely missed game retain risk only, not a mathematically disproportionate horizon cap.",
     "source_priority": [
       "sleeper_actionable_designation",
       "fantasypros_fallback"
