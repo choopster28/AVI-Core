@@ -1,2 +1,4 @@
 Request: cached AVI recalculation after 2026 Week 11 C-AVI weighting and injury model corrections.
 Check: JSN vs Ja'Marr Chase vs CeeDee Lamb; verify manifest and HQ synchronization.
+
+Retry after fixing Week 3-7 weight-sum precision assertion (2026-11-27).
