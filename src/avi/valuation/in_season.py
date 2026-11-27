@@ -502,10 +502,11 @@ def apply_in_season_transition(*, offline: bool = False) -> dict[str, Any]:
     manifest["methodology_version"] = "2026.3"
     manifest["c_avi_weights"] = in_season_cavi_weights(completed_through)
     manifest["c_avi_weight_policy"] = (
-        "Actual in-season production remains at 40% of C-AVI, "
-        "forward projections at 25%, public market at 15%, "
-        "league context at 10%, and demonstrated elite upside at 10%. "
-        "Observed-game reliability and injury availability are applied separately."
+        "Verified production grows from 40% at Week 2 to 60% by Week 8; "
+        "projection weight declines from 25% to 15% and public market from "
+        "15% to 5%. League context and demonstrated ceiling remain at 10% "
+        "each. The complete-week boundary, observed-game reliability and "
+        "injury availability remain separately verified."
     )
     manifest["injury_rebound_policy"] = "Bounded credit for verified current injuries with missed games and established healthy ceiling; never applied to healthy underperformers or unproven upside."
     manifest["production_component_policy"] = {
