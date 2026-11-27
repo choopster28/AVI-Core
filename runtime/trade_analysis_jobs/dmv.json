@@ -1,5 +1,30 @@
 [
   {
+    "id": "mwzh0mtw-52dd65d5",
+    "phase": "final",
+    "mode": "propose_trade",
+    "endpoint": "/api/trade-intelligence/refine",
+    "request": {
+      "mode": "propose_trade",
+      "userTeam": "DMV Fantasy",
+      "perspectiveMode": "franchise",
+      "goal": "",
+      "targetTeam": "Corgi Loaf Baking Co.",
+      "targetAssets": [
+        {
+          "name": "Saquon Barkley",
+          "assetType": "player"
+        }
+      ],
+      "foundationAssets": [],
+      "personalContext": "Corgi wants to trade Saquon as soon as possible. You can ignore any championship context in this trade, he wants Saquon off of his team"
+    },
+    "createdAt": 1795813544248,
+    "updatedAt": 1795813544248,
+    "expiresAt": 1796245544248,
+    "status": "queued"
+  },
+  {
     "id": "mwzgxeqo-37669003",
     "phase": "initial",
     "mode": "propose_trade",
