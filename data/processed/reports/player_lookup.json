@@ -51,18 +51,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00004017",
-      "c_avi": 23.8,
-      "d_avi": 41.3,
-      "nfl_team": "CLE",
-      "player_name": "Deshaun Watson",
-      "position": "QB",
-      "sleeper_id": "4017",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00000096",
       "c_avi": 23.7,
       "d_avi": 45.6,
@@ -1203,6 +1191,18 @@
     {
       "active": true,
       "availability": "available",
+      "avi_id": "AVI-00013272",
+      "c_avi": 12.7,
+      "d_avi": 41.4,
+      "nfl_team": "ARI",
+      "player_name": "Carson Beck",
+      "position": "QB",
+      "sleeper_id": "13272",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
       "avi_id": "AVI-00011649",
       "c_avi": 12.7,
       "d_avi": 43.7,
@@ -1659,18 +1659,6 @@
     {
       "active": true,
       "availability": "available",
-      "avi_id": "AVI-00005857",
-      "c_avi": 9.9,
-      "d_avi": 14.4,
-      "nfl_team": "NO",
-      "player_name": "Noah Fant",
-      "position": "TE",
-      "sleeper_id": "5857",
-      "status": "Active"
-    },
-    {
-      "active": true,
-      "availability": "available",
       "avi_id": "AVI-00013275",
       "c_avi": 9.7,
       "d_avi": 45.9,
@@ -2098,6 +2086,18 @@
       "player_name": "Antonio Williams",
       "position": "RB",
       "sleeper_id": "7203",
+      "status": "Active"
+    },
+    {
+      "active": true,
+      "availability": "available",
+      "avi_id": "AVI-00004663",
+      "c_avi": 0.0,
+      "d_avi": 5.5,
+      "nfl_team": "WAS",
+      "player_name": "Austin Ekeler",
+      "position": "RB",
+      "sleeper_id": "4663",
       "status": "Active"
     },
     {
@@ -2897,22 +2897,6 @@
     {
       "active": true,
       "availability": "rostered",
-      "avi_id": "AVI-00004663",
-      "c_avi": 0.0,
-      "d_avi": 5.5,
-      "nfl_team": "WAS",
-      "owner_id": "737531831641128960",
-      "player_name": "Austin Ekeler",
-      "position": "RB",
-      "roster_id": 7,
-      "sleeper_id": "4663",
-      "status": "Active",
-      "team_file": "07_Badland_Banditos.md",
-      "team_name": "Badland Banditos "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
       "avi_id": "AVI-00004892",
       "c_avi": 16.1,
       "d_avi": 56.3,
@@ -3261,22 +3245,6 @@
       "status": "Active",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
-    },
-    {
-      "active": true,
-      "availability": "rostered",
-      "avi_id": "AVI-00013272",
-      "c_avi": 12.7,
-      "d_avi": 41.4,
-      "nfl_team": "ARI",
-      "owner_id": "736994691492519936",
-      "player_name": "Carson Beck",
-      "position": "QB",
-      "roster_id": 8,
-      "sleeper_id": "13272",
-      "status": "Active",
-      "team_file": "08_All_Hail_King_Jesus.md",
-      "team_name": "All Hail King Jesus"
     },
     {
       "active": true,
@@ -3917,6 +3885,22 @@
       "status": "Active",
       "team_file": "03_Ravens_Regime.md",
       "team_name": "Ravens Regime "
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00004017",
+      "c_avi": 23.8,
+      "d_avi": 41.3,
+      "nfl_team": "CLE",
+      "owner_id": "736994691492519936",
+      "player_name": "Deshaun Watson",
+      "position": "QB",
+      "roster_id": 8,
+      "sleeper_id": "4017",
+      "status": "Active",
+      "team_file": "08_All_Hail_King_Jesus.md",
+      "team_name": "All Hail King Jesus"
     },
     {
       "active": true,
@@ -5725,6 +5709,22 @@
       "status": "Active",
       "team_file": "09_Big_Balder_Brand.md",
       "team_name": "Big Balder Brand"
+    },
+    {
+      "active": true,
+      "availability": "rostered",
+      "avi_id": "AVI-00005857",
+      "c_avi": 9.9,
+      "d_avi": 14.4,
+      "nfl_team": "NO",
+      "owner_id": "737531831641128960",
+      "player_name": "Noah Fant",
+      "position": "TE",
+      "roster_id": 7,
+      "sleeper_id": "5857",
+      "status": "Active",
+      "team_file": "07_Badland_Banditos.md",
+      "team_name": "Badland Banditos "
     },
     {
       "active": true,
