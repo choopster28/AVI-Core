@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 986498458162970624
 - Division: 3
 - Waiver position: 15
-- Last updated from Sleeper exports: 2026-11-27
+- Last updated from Sleeper exports: 2026-11-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -21,23 +21,23 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - keepers: 0
 
 ## Raw Team Score Inputs, Not Static Rankings
-- championship_lineup_c_avi_sum: 559.9
-- championship_lineup_c_avi_avg: 69.99
-- offensive_roster_c_avi_sum: 799.3
-- offensive_roster_c_avi_avg: 49.96
-- offensive_roster_d_avi_sum: 1116.3
-- offensive_roster_d_avi_avg: 69.77
+- championship_lineup_c_avi_sum: 561.4
+- championship_lineup_c_avi_avg: 70.17
+- offensive_roster_c_avi_sum: 800.9
+- offensive_roster_c_avi_avg: 50.06
+- offensive_roster_d_avi_sum: 1118.1
+- offensive_roster_d_avi_avg: 69.88
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
-- QB: Patrick Mahomes | C-AVI: 74.5 | D-AVI: 79.1
+- QB: Patrick Mahomes | C-AVI: 74.5 | D-AVI: 78.9
 - RB: Saquon Barkley | C-AVI: 56.3 | D-AVI: 82.0
-- RB: Cam Skattebo | C-AVI: 50.4 | D-AVI: 79.2
-- WR: Jaxon Smith-Njigba | C-AVI: 97.8 | D-AVI: 99.6
+- RB: Cam Skattebo | C-AVI: 50.4 | D-AVI: 79.8
+- WR: Jaxon Smith-Njigba | C-AVI: 99.3 | D-AVI: 99.9
 - WR: Malik Nabers | C-AVI: 80.7 | D-AVI: 94.3
 - TE: Trey McBride | C-AVI: 93.0 | D-AVI: 92.1
-- FLEX: DJ Moore | C-AVI: 67.7 | D-AVI: 78.4
-- FLEX: Ollie Gordon II | C-AVI: 39.5 | D-AVI: 62.7
+- FLEX: DJ Moore | C-AVI: 67.7 | D-AVI: 78.9
+- FLEX: Ollie Gordon II | C-AVI: 39.5 | D-AVI: 63.3
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -54,7 +54,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 31.0
 - Championship AVI (C-AVI, 0-100): 74.5
-- Dynasty AVI (D-AVI, 0-100): 79.1
+- Dynasty AVI (D-AVI, 0-100): 78.9
 - Projected PPR points: 286.7
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -71,7 +71,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 46.3
-- Dynasty AVI (D-AVI, 0-100): 63.4
+- Dynasty AVI (D-AVI, 0-100): 63.1
 - Projected PPR points: 270.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -105,7 +105,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 24.0
 - Championship AVI (C-AVI, 0-100): 50.4
-- Dynasty AVI (D-AVI, 0-100): 79.2
+- Dynasty AVI (D-AVI, 0-100): 79.8
 - Projected PPR points: 201.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -139,7 +139,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 22.0
 - Championship AVI (C-AVI, 0-100): 39.5
-- Dynasty AVI (D-AVI, 0-100): 62.7
+- Dynasty AVI (D-AVI, 0-100): 63.3
 - Projected PPR points: 23.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -155,8 +155,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 18.2
-- Dynasty AVI (D-AVI, 0-100): 59.3
+- Championship AVI (C-AVI, 0-100): 18.3
+- Dynasty AVI (D-AVI, 0-100): 59.9
 - Projected PPR points: 97.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -172,8 +172,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 24.0
-- Championship AVI (C-AVI, 0-100): 97.8
-- Dynasty AVI (D-AVI, 0-100): 99.6
+- Championship AVI (C-AVI, 0-100): 99.3
+- Dynasty AVI (D-AVI, 0-100): 99.9
 - Projected PPR points: 284.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -207,7 +207,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 29.0
 - Championship AVI (C-AVI, 0-100): 67.7
-- Dynasty AVI (D-AVI, 0-100): 78.4
+- Dynasty AVI (D-AVI, 0-100): 78.9
 - Projected PPR points: 179.0
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -224,7 +224,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 38.5
-- Dynasty AVI (D-AVI, 0-100): 55.8
+- Dynasty AVI (D-AVI, 0-100): 55.3
 - Projected PPR points: 121.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -241,7 +241,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 24.7
-- Dynasty AVI (D-AVI, 0-100): 55.2
+- Dynasty AVI (D-AVI, 0-100): 56.1
 - Projected PPR points: 105.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -258,7 +258,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 21.5
-- Dynasty AVI (D-AVI, 0-100): 41.8
+- Dynasty AVI (D-AVI, 0-100): 42.7
 - Projected PPR points: 77.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -275,7 +275,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 27.0
 - Championship AVI (C-AVI, 0-100): 21.1
-- Dynasty AVI (D-AVI, 0-100): 50.5
+- Dynasty AVI (D-AVI, 0-100): 50.0
 - Projected PPR points: 51.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -309,7 +309,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 24.3
-- Dynasty AVI (D-AVI, 0-100): 51.1
+- Dynasty AVI (D-AVI, 0-100): 50.0
 - Projected PPR points: 80.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON

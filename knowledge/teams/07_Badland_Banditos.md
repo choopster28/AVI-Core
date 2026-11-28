@@ -9,7 +9,7 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 - Owner ID: 737531831641128960
 - Division: 3
 - Waiver position: 10
-- Last updated from Sleeper exports: 2026-11-27
+- Last updated from Sleeper exports: 2026-11-28
 - AVI value source: AVI automated model — FantasyPros projections + FantasyPros rankings + Autobots league context
 
 ## Roster Counts
@@ -23,21 +23,21 @@ Retrieval purpose: authoritative current roster, player cards, team assets, and 
 ## Raw Team Score Inputs, Not Static Rankings
 - championship_lineup_c_avi_sum: 611.3
 - championship_lineup_c_avi_avg: 76.41
-- offensive_roster_c_avi_sum: 851.8
-- offensive_roster_c_avi_avg: 50.11
-- offensive_roster_d_avi_sum: 1072.0
-- offensive_roster_d_avi_avg: 63.06
+- offensive_roster_c_avi_sum: 861.9
+- offensive_roster_c_avi_avg: 50.70
+- offensive_roster_d_avi_sum: 1088.7
+- offensive_roster_d_avi_avg: 64.04
 - note: Scores are data supports for live analysis; rankings should still be generated in-chat.
 
 ## Championship Lineup Used For Raw C-AVI Input
 - QB: Joe Burrow | C-AVI: 93.7 | D-AVI: 89.7
 - RB: Bucky Irving | C-AVI: 84.7 | D-AVI: 90.5
-- RB: Emmett Johnson | C-AVI: 64.0 | D-AVI: 73.5
+- RB: Emmett Johnson | C-AVI: 64.0 | D-AVI: 74.1
 - WR: Ja'Marr Chase | C-AVI: 96.7 | D-AVI: 99.0
-- WR: Mike Evans | C-AVI: 74.4 | D-AVI: 75.8
+- WR: Mike Evans | C-AVI: 74.4 | D-AVI: 76.2
 - TE: Brock Bowers | C-AVI: 87.0 | D-AVI: 92.2
-- FLEX: Stefon Diggs | C-AVI: 61.2 | D-AVI: 61.1
-- FLEX: Tre Tucker | C-AVI: 49.6 | D-AVI: 53.6
+- FLEX: Stefon Diggs | C-AVI: 61.2 | D-AVI: 60.6
+- FLEX: Tre Tucker | C-AVI: 49.6 | D-AVI: 54.5
 
 ## Current Roster — All Player Cards
 Every player card repeats owner and roster ID so retrieval can verify ownership independently.
@@ -70,8 +70,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 29.0
-- Championship AVI (C-AVI, 0-100): 14.6
-- Dynasty AVI (D-AVI, 0-100): 43.1
+- Championship AVI (C-AVI, 0-100): 14.7
+- Dynasty AVI (D-AVI, 0-100): 43.6
 - Projected PPR points: 223.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -122,7 +122,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 64.0
-- Dynasty AVI (D-AVI, 0-100): 73.5
+- Dynasty AVI (D-AVI, 0-100): 74.1
 - Projected PPR points: 65.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -143,23 +143,6 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Projected PPR points: 30.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
-
-### PLAYER: Austin Ekeler
-- Player name: Austin Ekeler
-- Player ID: 4663
-- Current owner team: Badland Banditos 
-- Current owner roster ID: 7
-- Position: RB
-- Fantasy positions: ['RB']
-- NFL team: WAS
-- Active: True
-- Status: Active
-- Age: 31.0
-- Championship AVI (C-AVI, 0-100): 0.0
-- Dynasty AVI (D-AVI, 0-100): 5.5
-- Projected PPR points: None
-- Category: offense
-- Valuation status: INACTIVE_UNRANKED
 
 ### PLAYER: Ja'Marr Chase
 - Player name: Ja'Marr Chase
@@ -190,7 +173,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 33.0
 - Championship AVI (C-AVI, 0-100): 74.4
-- Dynasty AVI (D-AVI, 0-100): 75.8
+- Dynasty AVI (D-AVI, 0-100): 76.2
 - Projected PPR points: 222.2
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -207,7 +190,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 32.0
 - Championship AVI (C-AVI, 0-100): 61.2
-- Dynasty AVI (D-AVI, 0-100): 61.1
+- Dynasty AVI (D-AVI, 0-100): 60.6
 - Projected PPR points: 157.3
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -224,7 +207,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 25.0
 - Championship AVI (C-AVI, 0-100): 49.6
-- Dynasty AVI (D-AVI, 0-100): 53.6
+- Dynasty AVI (D-AVI, 0-100): 54.5
 - Projected PPR points: 125.9
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -240,8 +223,8 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Active: True
 - Status: Active
 - Age: 23.0
-- Championship AVI (C-AVI, 0-100): 46.4
-- Dynasty AVI (D-AVI, 0-100): 62.3
+- Championship AVI (C-AVI, 0-100): 46.5
+- Dynasty AVI (D-AVI, 0-100): 67.3
 - Projected PPR points: 94.8
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -275,7 +258,7 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Status: Active
 - Age: 23.0
 - Championship AVI (C-AVI, 0-100): 17.6
-- Dynasty AVI (D-AVI, 0-100): 45.3
+- Dynasty AVI (D-AVI, 0-100): 46.2
 - Projected PPR points: 94.5
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
@@ -345,6 +328,23 @@ Every player card repeats owner and roster ID so retrieval can verify ownership 
 - Championship AVI (C-AVI, 0-100): 14.6
 - Dynasty AVI (D-AVI, 0-100): 35.6
 - Projected PPR points: 70.7
+- Category: offense
+- Valuation status: ACTIVE_2026_3_IN_SEASON
+
+### PLAYER: Noah Fant
+- Player name: Noah Fant
+- Player ID: 5857
+- Current owner team: Badland Banditos 
+- Current owner roster ID: 7
+- Position: TE
+- Fantasy positions: ['TE']
+- NFL team: NO
+- Active: True
+- Status: Active
+- Age: 29.0
+- Championship AVI (C-AVI, 0-100): 9.9
+- Dynasty AVI (D-AVI, 0-100): 14.4
+- Projected PPR points: 36.6
 - Category: offense
 - Valuation status: ACTIVE_2026_3_IN_SEASON
 

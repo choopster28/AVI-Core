@@ -1187,16 +1187,17 @@
     {
       "average": 7.9,
       "filename": "jaquan-brisker.php",
-      "games": 10,
+      "games": 11,
       "player_id": 23719,
       "player_name": "Jaquan Brisker",
-      "points": 79.25,
+      "points": 86.75,
       "position_id": "S",
       "team_id": "PIT",
       "weeks": {
         "1": 14,
         "10": 9,
         "11": 3.8,
+        "12": 7.5,
         "2": 5.3,
         "3": 8.3,
         "4": 8.3,
@@ -1225,18 +1226,19 @@
       }
     },
     {
-      "average": 4,
+      "average": 4.4,
       "filename": "robert-spearsjennings.php",
-      "games": 10,
+      "games": 11,
       "player_id": 28443,
       "player_name": "Robert Spears-Jennings",
-      "points": 39.5,
+      "points": 48.75,
       "position_id": "S",
       "team_id": "PIT",
       "weeks": {
         "1": 0,
         "10": 6,
         "11": 2.3,
+        "12": 9.3,
         "2": 0,
         "3": 0,
         "4": 17.8,
@@ -2350,16 +2352,17 @@
       }
     },
     {
-      "average": 11.7,
+      "average": 11,
       "filename": "brandon-jones-s.php",
-      "games": 8,
+      "games": 9,
       "player_id": 19248,
       "player_name": "Brandon Jones",
-      "points": 93.25,
+      "points": 99.25,
       "position_id": "S",
       "team_id": "DEN",
       "weeks": {
         "1": 11,
+        "12": 6,
         "2": 6.8,
         "3": 20.5,
         "4": 11.3,
@@ -2370,17 +2373,18 @@
       }
     },
     {
-      "average": 11.6,
+      "average": 10.9,
       "filename": "talanoa-hufanga.php",
-      "games": 6,
+      "games": 7,
       "player_id": 22817,
       "player_name": "Talanoa Hufanga",
-      "points": 69.75,
+      "points": 76.5,
       "position_id": "S",
       "team_id": "DEN",
       "weeks": {
         "1": 5.3,
         "11": 7.5,
+        "12": 6.8,
         "2": 10.8,
         "3": 32.3,
         "4": 4.5,
@@ -2388,9 +2392,9 @@
       }
     },
     {
-      "average": 3.4,
+      "average": 3.1,
       "filename": "devon-key.php",
-      "games": 10,
+      "games": 11,
       "player_id": 23432,
       "player_name": "Devon Key",
       "points": 33.75,
@@ -2399,6 +2403,7 @@
       "weeks": {
         "1": 0,
         "11": 2.3,
+        "12": 0,
         "2": 0,
         "3": 1.5,
         "4": 0,
@@ -2410,9 +2415,9 @@
       }
     },
     {
-      "average": 0.9,
+      "average": 0.8,
       "filename": "jl-skinner.php",
-      "games": 10,
+      "games": 11,
       "player_id": 25257,
       "player_name": "JL Skinner",
       "points": 9,
@@ -2421,6 +2426,7 @@
       "weeks": {
         "1": 0,
         "11": 0,
+        "12": 0,
         "2": 0,
         "3": 0,
         "4": 0,

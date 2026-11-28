@@ -735,17 +735,18 @@
       }
     },
     {
-      "average": 14.7,
+      "average": 13.7,
       "filename": "bo-nix.php",
-      "games": 10,
+      "games": 11,
       "player_id": 22910,
       "player_name": "Bo Nix",
-      "points": 147.3,
+      "points": 150.76000000000002,
       "position_id": "QB",
       "team_id": "DEN",
       "weeks": {
         "1": 6.4,
         "11": 12.5,
+        "12": 3.5,
         "2": 15.1,
         "3": 25.1,
         "4": 13.6,
@@ -804,16 +805,17 @@
       }
     },
     {
-      "average": 0.3,
+      "average": 2.2,
       "filename": "mason-rudolph.php",
-      "games": 4,
+      "games": 5,
       "player_id": 17234,
       "player_name": "Mason Rudolph",
-      "points": 1.08,
+      "points": 10.76,
       "position_id": "QB",
       "team_id": "PIT",
       "weeks": {
         "10": 1,
+        "12": 9.7,
         "2": 0.3,
         "5": -0.2,
         "8": 0

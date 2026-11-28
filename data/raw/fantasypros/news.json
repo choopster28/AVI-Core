@@ -3,203 +3,202 @@
   "description": "Breaking Fantasy Football player news along with the impact for fantasy managers",
   "items": [
     {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-27 23:16:42",
+      "created_formated": "Fri, Nov 27th 11:16pm UTC",
+      "desc": "Upton Stout is listed as questionable for Sunday's game against the Seahawks. ",
+      "id": 623024,
+      "impact": "Stout was limited in practice this week. His status remains uncertain heading into kickoff. ",
+      "link": "https://www.fantasypros.com/nfl/news/623024/upton-stout-shoulderneck-listed-questionable-week-12.php",
+      "player_id": 27246,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Upton Stout (shoulder/neck) listed questionable for Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-27 23:15:52",
+      "created_formated": "Fri, Nov 27th 11:15pm UTC",
+      "desc": "Austen Pleasants is listed as questionable for Sunday's game against the Seahawks. ",
+      "id": 623023,
+      "impact": "Pleasants is up in the air due to a knee injury. ",
+      "link": "https://www.fantasypros.com/nfl/news/623023/austen-pleasants-knee-listed-questionable-week-12.php",
+      "player_id": 20013,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Austen Pleasants (knee) listed questionable for Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-27 23:14:53",
+      "created_formated": "Fri, Nov 27th 11:14pm UTC",
+      "desc": "Siran Neal is listed as questionable for Sunday's game against the Seahawks. ",
+      "id": 623022,
+      "impact": "Neal continues to manage knee and foot injuries. ",
+      "link": "https://www.fantasypros.com/nfl/news/623022/siran-neal-kneefoot-listed-questionable-week-12.php",
+      "player_id": 17531,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Siran Neal (knee/foot) listed questionable for Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-27 23:13:50",
+      "created_formated": "Fri, Nov 27th 11:13pm UTC",
+      "desc": "Dre Greenlaw is listed as questionable for Sunday's game against the Seahawks. ",
+      "id": 623020,
+      "impact": "Greenlaw was limited in practice on Thursday. He appears to be trending in the right direction. ",
+      "link": "https://www.fantasypros.com/nfl/news/623020/dre-greenlaw-neck-listed-questionable-week-12.php",
+      "player_id": 18310,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Dre Greenlaw (neck) listed questionable for Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-27 23:12:34",
+      "created_formated": "Fri, Nov 27th 11:12pm UTC",
+      "desc": "Jordan Watkins has been ruled out for Sunday's game against the Seahawks. ",
+      "id": 623019,
+      "impact": "Watkins is dealing with a groin injury. He remains off the fantasy radar when he is healthy. ",
+      "link": "https://www.fantasypros.com/nfl/news/623019/jordan-watkins-groin-ruled-out-week-12.php",
+      "player_id": 27486,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Jordan Watkins (groin) ruled out for Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-27 23:08:04",
+      "created_formated": "Fri, Nov 27th 11:08pm UTC",
+      "desc": "Mike Evans is listed as questionable for Sunday's game against the Seahawks.  ",
+      "id": 623016,
+      "impact": "Evans returned to a limited practice on Thursday. He'll be a WR2 play for fantasy managers if he is cleared. ",
+      "link": "https://www.fantasypros.com/nfl/news/623016/mike-evans-achilles-listed-questionable-week-12.php",
+      "player_id": 12119,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Mike Evans (Achilles) listed questionable for Week 12"
+    },
+    {
       "author": "Garrett Ball",
       "categories": [
         "Commentary",
         "News",
-        "Injury",
-        "Breaking"
-      ],
-      "created": "2026-11-27 20:59:05",
-      "created_formated": "Fri, Nov 27th 8:59pm UTC",
-      "desc": "Bhayshul Tuten (ankle) has been ruled out for the Jaguars' game against the Titans on Sunday.",
-      "id": 622959,
-      "impact": "With Tuten out, the Jags will lean on Chris Rodriguez against the Titans. Rodriguez should be a decent RB2 option based on volume. Tuten will try to find his way back on the field next week.",
-      "link": "https://www.fantasypros.com/nfl/news/622959/byahsul-tuten-ankle-ruled-out-against-titans.php",
-      "player_id": 27297,
-      "sport_id": "NFL",
-      "team_id": "JAC",
-      "title": "Bhayshul Tuten (ankle) ruled out against Titans"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
         "Injury"
       ],
-      "created": "2026-11-27 20:06:34",
-      "created_formated": "Fri, Nov 27th 8:06pm UTC",
-      "desc": "Isaiah Rodgers Sr. has been ruled out for Sunday's game against the Falcons. ",
-      "id": 622946,
-      "impact": "Rodgers remains week-to-week with a quad injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/622946/isaiah-rodgers-sr-quad-ruled-out-week-12.php",
-      "player_id": 19821,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Isaiah Rodgers Sr. (quad) ruled out for Week 12"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-27 20:05:54",
-      "created_formated": "Fri, Nov 27th 8:05pm UTC",
-      "desc": "Christian Darrisaw has been ruled out for Sunday's game against the Falcons. ",
-      "id": 622945,
-      "impact": "Darrisaw will remain sidelined with a shoulder injury for the Vikings. ",
-      "link": "https://www.fantasypros.com/nfl/news/622945/christian-darrisaw-shoulder-ruled-out-week-12.php",
-      "player_id": 22688,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Christian Darrisaw (shoulder) ruled out for Week 12"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-27 20:00:50",
-      "created_formated": "Fri, Nov 27th 8:00pm UTC",
-      "desc": "Juwan Johnson (hamstring/wrist) has been ruled out for Week 12 for the New Orleans Saints against the Cincinnati Bengals according to Ross Jackson.",
-      "id": 622943,
-      "impact": "Johnson will not suit up after being unable to practice, with Noah Fant and Oscar Delp in line for increased snaps against the Bengals for head coach Kellen Moore Sunday.",
-      "link": "https://www.fantasypros.com/nfl/news/622943/juwan-johnson-hamstringwrist-ruled-out-week-12.php",
-      "player_id": 19562,
-      "sport_id": "NFL",
-      "team_id": "NO",
-      "title": "Juwan Johnson (hamstring/wrist) ruled out for Week 12"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-27 19:56:07",
-      "created_formated": "Fri, Nov 27th 7:56pm UTC",
-      "desc": "Jordan Addison (thumb) has been ruled out for Sunday's contest between the Minnesota Vikings and Atlanta Falcons according to Ben Goessling.",
-      "id": 622938,
-      "impact": "Addison continues to work back from a thumb injury for head coach Kevin O'Connell, with Tai Felton, Jauan Jennings, and Myles Price to see increased snaps behind WR1 Justin Jefferson against the Falcons.",
-      "link": "https://www.fantasypros.com/nfl/news/622938/jordan-addison-thumb-ruled-out-week-12.php",
-      "player_id": 23107,
-      "sport_id": "NFL",
-      "team_id": "MIN",
-      "title": "Jordan Addison (thumb) ruled out for Week 12"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-27 19:51:07",
-      "created_formated": "Fri, Nov 27th 7:51pm UTC",
-      "desc": "Will Mallory has been ruled out for Sunday's game against the Giants. ",
-      "id": 622935,
-      "impact": "Mallory will remain sidelined with a hamstring injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/622935/will-mallory-hamstring-ruled-out-week-12.php",
-      "player_id": 23821,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Will Mallory (hamstring) ruled out for Week 12"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-27 19:50:30",
-      "created_formated": "Fri, Nov 27th 7:50pm UTC",
-      "desc": "Jerry Tillery has been ruled out for Sunday's game against the Giants. ",
-      "id": 622934,
-      "impact": "Tillery will be sidelined with a calf injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/622934/jerry-tillery-calf-ruled-out-week-12.php",
-      "player_id": 18217,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Jerry Tillery (calf) ruled out for Week 12"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-27 19:49:38",
-      "created_formated": "Fri, Nov 27th 7:49pm UTC",
-      "desc": "Jalen Travis has been ruled out for Sunday's game against the Giants. ",
-      "id": 622933,
-      "impact": "Travis will be sidelined with a knee injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/622933/jalen-travis-knee-ruled-out-week-12.php",
-      "player_id": 27117,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Jalen Travis (knee) ruled out for Week 12"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-27 19:48:41",
-      "created_formated": "Fri, Nov 27th 7:48pm UTC",
-      "desc": "Seth McGowan has been ruled out for Sunday's game against the Giants. ",
-      "id": 622932,
-      "impact": "McGowan is slated to miss some time with his hamstring injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/622932/seth-mcgowan-hamstring-ruled-out-week-12.php",
-      "player_id": 23079,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Seth McGowan (hamstring) ruled out for Week 12"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-27 19:47:43",
-      "created_formated": "Fri, Nov 27th 7:47pm UTC",
-      "desc": "Charvarius Ward Sr. has been ruled out for Sunday's game against the Giants. ",
-      "id": 622931,
-      "impact": "Ward will miss another game with a knee injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/622931/charvarius-ward-sr-knee-ruled-out-week-12.php",
-      "player_id": 17763,
-      "sport_id": "NFL",
-      "team_id": "IND",
-      "title": "Charvarius Ward Sr. (knee) ruled out for Week 12"
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-27 19:36:31",
-      "created_formated": "Fri, Nov 27th 7:36pm UTC",
-      "desc": "Dalton Risner has been ruled out for Sunday's game against the Saints. ",
-      "id": 622930,
-      "impact": "Risner will remain sidelined for the Bengals. He is considered day-to-day. ",
-      "link": "https://www.fantasypros.com/nfl/news/622930/dalton-risner-knee-ruled-out-week-12.php",
-      "player_id": 18250,
+      "created": "2026-11-27 21:07:23",
+      "created_formated": "Fri, Nov 27th 9:07pm UTC",
+      "desc": "Tee Higgins (hamstring) did not practice on Friday and is questionable for Sunday against the Saints.",
+      "id": 622961,
+      "impact": "Higgins was a surprise DNP on Friday, and his status for Sunday is now in doubt. He still has a chance to play, but fantasy managers will need to watch this closely. If Higgins is out, Andrei Iosivas and Dohnte Meyers could find some extra appeal, but Mike Gesicki would be a great start.",
+      "link": "https://www.fantasypros.com/nfl/news/622961/tee-higgins-hamstring-dnp-friday-questionable-sunday.php",
+      "player_id": 19211,
       "sport_id": "NFL",
       "team_id": "CIN",
-      "title": "Dalton Risner (knee) ruled out for Week 12"
+      "title": "Tee Higgins (hamstring) DNP Friday, questionable for Sunday"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-27 22:35:53",
+      "created_formated": "Fri, Nov 27th 10:35pm UTC",
+      "desc": "Jackson Powers-Johnson has been ruled out for Sunday's game against the Browns. ",
+      "id": 623005,
+      "impact": "It is unclear how serious the injury is for Powers-Johnson. There should be an update on his status this weekend or early next week.  ",
+      "link": "https://www.fantasypros.com/nfl/news/623005/jackson-powers-johnson-achilles-ruled-out-week-12.php",
+      "player_id": 26227,
+      "sport_id": "NFL",
+      "team_id": "LV",
+      "title": "Jackson Powers-Johnson (Achilles) ruled out for Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-27 22:34:50",
+      "created_formated": "Fri, Nov 27th 10:34pm UTC",
+      "desc": "David Njoku is listed as questionable for Sunday's game against the Patriots. ",
+      "id": 623004,
+      "impact": "Njoku remains off the fantasy radar if he is healthy. ",
+      "link": "https://www.fantasypros.com/nfl/news/623004/david-njoku-shoulder-listed-questionable-week-12.php",
+      "player_id": 16399,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "David Njoku (shoulder) listed questionable for Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-27 22:34:01",
+      "created_formated": "Fri, Nov 27th 10:34pm UTC",
+      "desc": "Keaton Mitchell has been ruled out for Sunday's game against the Patriots. ",
+      "id": 623003,
+      "impact": "Mitchell was unable to practice with a knee injury. Kimani Vidal could see some more run behind Omarion Hampton. ",
+      "link": "https://www.fantasypros.com/nfl/news/623003/keaton-mitchell-knee-ruled-out-week-12.php",
+      "player_id": 25360,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "Keaton Mitchell (knee) ruled out for Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-27 22:32:51",
+      "created_formated": "Fri, Nov 27th 10:32pm UTC",
+      "desc": "Justin Herbert has been ruled out for Sunday's game against the Patriots. ",
+      "id": 623001,
+      "impact": "Herbert was unable to clear concussion protocol. DJ Uiagalelei is expected to start in his place for the Chargers. ",
+      "link": "https://www.fantasypros.com/nfl/news/623001/justin-herbert-concussion-ruled-out-week-12.php",
+      "player_id": 18635,
+      "sport_id": "NFL",
+      "team_id": "LAC",
+      "title": "Justin Herbert (concussion) ruled out for Week 12"
     },
     {
       "author": "Ari Koslow",
@@ -207,16 +206,35 @@
         "Commentary",
         "News"
       ],
-      "created": "2026-11-27 19:35:28",
-      "created_formated": "Fri, Nov 27th 7:35pm UTC",
-      "desc": "Brandon Aiyuk will not be elevated for Sunday's game against the Cardinals. ",
-      "id": 622929,
-      "impact": "Aiyuk signed with the Commanders practice squad this week. He'll have a chance to make his debut with Washington next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/622929/brandon-aiyuk-will-not-be-elevated-week-12.php",
-      "player_id": 19252,
+      "created": "2026-11-27 22:28:32",
+      "created_formated": "Fri, Nov 27th 10:28pm UTC",
+      "desc": "Mac Jones will start for the 49ers in Sunday's game against the Seahawks. ",
+      "id": 622999,
+      "impact": "Brock Purdy was ruled out after not practicing all week. Jones will be a mid-to-low-end QB2 for fantasy managers in 2-QB and superflex leagues. ",
+      "link": "https://www.fantasypros.com/nfl/news/622999/mac-jones-to-start-49ers-week-12.php",
+      "player_id": 20156,
       "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Brandon Aiyuk will not be elevated for Week 12"
+      "team_id": "SF",
+      "title": "Mac Jones to start for 49ers in Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury",
+        "Breaking"
+      ],
+      "created": "2026-11-27 22:26:28",
+      "created_formated": "Fri, Nov 27th 10:26pm UTC",
+      "desc": "Brock Purdy has been ruled out for Sunday's game against the Seahawks. ",
+      "id": 622998,
+      "impact": "Purdy was unable to practice all week after suffering an ankle injury last Sunday. It will be Mac Jones behind center for the 49ers. ",
+      "link": "https://www.fantasypros.com/nfl/news/622998/brock-purdy-ankle-ruled-out-week-12.php",
+      "player_id": 19797,
+      "sport_id": "NFL",
+      "team_id": "SF",
+      "title": "Brock Purdy (ankle) ruled out for Week 12"
     },
     {
       "author": "Ari Koslow",
@@ -225,16 +243,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-27 19:32:54",
-      "created_formated": "Fri, Nov 27th 7:32pm UTC",
-      "desc": "Woody Marks has cleared concussion protocol and will play on Sunday against the Ravens. ",
-      "id": 622928,
-      "impact": "Marks will return on Sunday. It'll likely continue to be a committee between him and David Montgomery. ",
-      "link": "https://www.fantasypros.com/nfl/news/622928/woody-marks-clears-concussion-protocol-will-play-sunday.php",
-      "player_id": 27520,
+      "created": "2026-11-27 22:09:02",
+      "created_formated": "Fri, Nov 27th 10:09pm UTC",
+      "desc": "Tetairoa McMillan returned to a limited practice on Friday. ",
+      "id": 622989,
+      "impact": "McMillan was back after he sat out of practice on Thursday. He is trending towards being good to go for Monday's game against the Buccaneers. ",
+      "link": "https://www.fantasypros.com/nfl/news/622989/tetairoa-mcmillan-foot-limited-practice-friday.php",
+      "player_id": 25417,
       "sport_id": "NFL",
-      "team_id": "HOU",
-      "title": "Woody Marks clears concussion protocol, will play Sunday"
+      "team_id": "CAR",
+      "title": "Tetairoa McMillan (foot) limited in practice Friday "
     },
     {
       "author": "Ari Koslow",
@@ -243,16 +261,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-27 19:30:02",
-      "created_formated": "Fri, Nov 27th 7:30pm UTC",
-      "desc": "Romeo Doubs is not expected to return for Sunday's game against the Chargers. ",
-      "id": 622926,
-      "impact": "Doubs was able to return to a limited practice this week. He'll have a chance to return next week. ",
-      "link": "https://www.fantasypros.com/nfl/news/622926/romeo-doubs-shoulder-unlikely-to-play-week-12.php",
-      "player_id": 23794,
+      "created": "2026-11-27 22:07:29",
+      "created_formated": "Fri, Nov 27th 10:07pm UTC",
+      "desc": "Darren Waller was limited in practice on Friday. ",
+      "id": 622988,
+      "impact": "Waller has logged back-to-back limited practices. He will remain a TE2 play for fantasy managers if he is cleared. ",
+      "link": "https://www.fantasypros.com/nfl/news/622988/darren-waller-knee-limited-practice-friday.php",
+      "player_id": 14104,
       "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Romeo Doubs (shoulder) unlikely to play in Week 12"
+      "team_id": "CAR",
+      "title": "Darren Waller (knee) limited in practice Friday "
     },
     {
       "author": "Ari Koslow",
@@ -261,16 +279,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-27 19:27:44",
-      "created_formated": "Fri, Nov 27th 7:27pm UTC",
-      "desc": "Carlton Davis III has been ruled out for Sunday's game against the Chargers. ",
-      "id": 622925,
-      "impact": "Davis will remain sidelined with a knee injury. ",
-      "link": "https://www.fantasypros.com/nfl/news/622925/carlton-davis-iii-knee-ruled-out-week-12.php",
-      "player_id": 17318,
+      "created": "2026-11-27 22:06:05",
+      "created_formated": "Fri, Nov 27th 10:06pm UTC",
+      "desc": "Isaiah Williams is off the injury report for Sunday's game against the Dolphins. ",
+      "id": 622987,
+      "impact": "Williams will be a WR4/WR5 play for fantasy managers. ",
+      "link": "https://www.fantasypros.com/nfl/news/622987/isaiah-williams-ribs-off-injury-report-week-12.php",
+      "player_id": 26379,
       "sport_id": "NFL",
-      "team_id": "NE",
-      "title": "Carlton Davis III (knee) ruled out for Week 12"
+      "team_id": "NYJ",
+      "title": "Isaiah Williams (ribs) off injury report for Week 12"
     },
     {
       "author": "Ari Koslow",
@@ -279,16 +297,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-27 19:22:51",
-      "created_formated": "Fri, Nov 27th 7:22pm UTC",
-      "desc": "Tonka Hemingway was not seen at practice on Friday. ",
-      "id": 622924,
-      "impact": "Hemingway will likely be ruled out by the Raiders on the official injury report. ",
-      "link": "https://www.fantasypros.com/nfl/news/622924/tonka-hemingway-stinger-not-practice-friday.php",
-      "player_id": 27235,
+      "created": "2026-11-27 22:04:55",
+      "created_formated": "Fri, Nov 27th 10:04pm UTC",
+      "desc": "Jalen McMillan was limited in practice on Friday. ",
+      "id": 622986,
+      "impact": "McMillan practiced in full on Thursday. He'll need to be monitored again on Saturday. ",
+      "link": "https://www.fantasypros.com/nfl/news/622986/jalen-mcmillan-knee-limited-practice-friday.php",
+      "player_id": 23179,
       "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Tonka Hemingway (stinger) not at practice Friday "
+      "team_id": "TB",
+      "title": "Jalen McMillan (knee) limited in practice Friday "
     },
     {
       "author": "Ari Koslow",
@@ -297,70 +315,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-27 19:22:20",
-      "created_formated": "Fri, Nov 27th 7:22pm UTC",
-      "desc": "Tim Keenan III was not seen at practice on Friday. ",
-      "id": 622923,
-      "impact": "Keenan will likely be ruled out by the Raiders on the official injury report. ",
-      "link": "https://www.fantasypros.com/nfl/news/622923/tim-keenan-iii-knee-not-seen-practice-friday.php",
-      "player_id": 28502,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Tim Keenan III (knee) not seen at practice Friday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-27 19:21:10",
-      "created_formated": "Fri, Nov 27th 7:21pm UTC",
-      "desc": "Adam Butler was not seen at practice on Friday. ",
-      "id": 622922,
-      "impact": "Butler will likely be ruled out for Week 12 as he remains in concussion protocol. ",
-      "link": "https://www.fantasypros.com/nfl/news/622922/adam-butler-concussion-not-practice-friday.php",
-      "player_id": 16796,
-      "sport_id": "NFL",
-      "team_id": "LV",
-      "title": "Adam Butler (concussion) not at practice Friday "
-    },
-    {
-      "author": "Ari Koslow",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-27 19:19:10",
-      "created_formated": "Fri, Nov 27th 7:19pm UTC",
-      "desc": "Amik Robertson has been ruled out for Sunday's game against the Commanders. ",
-      "id": 622920,
-      "impact": "Commanders head coach said there's no long-term concern \"yet\" for Robertson. ",
-      "link": "https://www.fantasypros.com/nfl/news/622920/amik-robertson-ruled-out-week-12.php",
-      "player_id": 19364,
-      "sport_id": "NFL",
-      "team_id": "WAS",
-      "title": "Amik Robertson ruled out for Week 12 "
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-27 19:15:48",
-      "created_formated": "Fri, Nov 27th 7:15pm UTC",
-      "desc": "Brock Bowers (ankle) was not seen practicing for the Las Vegas Raiders Friday according to Ryan McFadden.",
-      "id": 622919,
-      "impact": "Bowers was unable to reach the practice field after limited sessions Wednesday and Thursday, putting the dynamic tight end's availability in question. Michael Mayer would be in line for TE1 snaps if Bowers is unable to suit up against the Browns Sunday night.",
-      "link": "https://www.fantasypros.com/nfl/news/622919/brock-bowers-ankle-not-practicing-friday.php",
+      "created": "2026-11-27 22:01:45",
+      "created_formated": "Fri, Nov 27th 10:01pm UTC",
+      "desc": "Brock Bowers has been listed as questionable for Sunday's game against the Browns. ",
+      "id": 622985,
+      "impact": "Bowers did not practice on Friday after he was able to practice on Wednesday and Thursday. His status will need to be monitored closer to kickoff on Sunday. ",
+      "link": "https://www.fantasypros.com/nfl/news/622985/brock-bowers-ankle-listed-questionable-week-12.php",
       "player_id": 22955,
       "sport_id": "NFL",
       "team_id": "LV",
-      "title": "Brock Bowers (ankle) not practicing Friday"
+      "title": "Brock Bowers (ankle) listed questionable for Week 12"
     },
     {
       "author": "Ari Koslow",
@@ -369,16 +333,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-27 19:12:20",
-      "created_formated": "Fri, Nov 27th 7:12pm UTC",
-      "desc": "Billy Bowman Jr. has been ruled out for Sunday's game against the Vikings. ",
-      "id": 622918,
-      "impact": "Bowman was one of five players ruled out for Atlanta heading into the weekend. ",
-      "link": "https://www.fantasypros.com/nfl/news/622918/billy-bowman-jr-hamstring-ruled-out-week-12.php",
-      "player_id": 27187,
+      "created": "2026-11-27 21:59:44",
+      "created_formated": "Fri, Nov 27th 9:59pm UTC",
+      "desc": "Marvin Harrison Jr. is off the injury report for Sunday's game against the Ravens. ",
+      "id": 622984,
+      "impact": "Harrison will make his return as had been expected. He'll be a risky flex/WR4 for fantasy managers. ",
+      "link": "https://www.fantasypros.com/nfl/news/622984/marvin-harrison-jr-hamstring-off-injury-report-week-12.php",
+      "player_id": 23064,
       "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Billy Bowman Jr. (hamstring) ruled out for Week 12"
+      "team_id": "HOU",
+      "title": "Marvin Harrison Jr. (hamstring) off injury report for Week 12"
     },
     {
       "author": "Ari Koslow",
@@ -387,34 +351,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-27 19:11:40",
-      "created_formated": "Fri, Nov 27th 7:11pm UTC",
-      "desc": "DeMarcco Hellams has been ruled out for Sunday's game against the Vikings. ",
-      "id": 622917,
-      "impact": "Hellams was one of five players ruled out for Atlanta heading into the weekend. ",
-      "link": "https://www.fantasypros.com/nfl/news/622917/demarcco-hellams-foot-ruled-out-week-12.php",
-      "player_id": 25476,
+      "created": "2026-11-27 21:58:52",
+      "created_formated": "Fri, Nov 27th 9:58pm UTC",
+      "desc": "Kayshon Boutte has been ruled out for Sunday's game against the Ravens. ",
+      "id": 622983,
+      "impact": "Boutte was unable to practice all week. He remains off the fantasy radar when healthy. ",
+      "link": "https://www.fantasypros.com/nfl/news/622983/kayshon-boutte-hip-ruled-out-week-12.php",
+      "player_id": 22989,
       "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "DeMarcco Hellams (foot) ruled out for Week 12"
-    },
-    {
-      "author": "Chris Schommer",
-      "categories": [
-        "Commentary",
-        "News",
-        "Injury"
-      ],
-      "created": "2026-11-27 19:11:12",
-      "created_formated": "Fri, Nov 27th 7:11pm UTC",
-      "desc": "Tyler Badie (thumb) is active for Week 12 for the Denver Broncos against the Pittsburgh Steelers.",
-      "id": 622916,
-      "impact": "Badie will suit up after being activated from injured reserve earlier in the week, providing head coach Sean Payton with a change of pace option behind RB1 Jonah Coleman against the Steelers Friday.",
-      "link": "https://www.fantasypros.com/nfl/news/622916/tyler-badie-thumb-active-week-12.php",
-      "player_id": 23812,
-      "sport_id": "NFL",
-      "team_id": "DEN",
-      "title": "Tyler Badie (thumb) active for Week 12"
+      "team_id": "HOU",
+      "title": "Kayshon Boutte (hip) ruled out for Week 12"
     },
     {
       "author": "Ari Koslow",
@@ -423,16 +369,16 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-27 19:09:59",
-      "created_formated": "Fri, Nov 27th 7:09pm UTC",
-      "desc": "Matthew Bergeron has been ruled out for Sunday's game against the Vikings. ",
-      "id": 622915,
-      "impact": "Bergeron was one of five players ruled out for Atlanta heading into the weekend. ",
-      "link": "https://www.fantasypros.com/nfl/news/622915/matthew-bergeron-back-ruled-out-week-12.php",
-      "player_id": 25239,
+      "created": "2026-11-27 21:56:39",
+      "created_formated": "Fri, Nov 27th 9:56pm UTC",
+      "desc": "Derrick Henry is off the injury report for Sunday's game against the Texans. ",
+      "id": 622982,
+      "impact": "Henry should be in line for his usual workload in the Ravens backfield. ",
+      "link": "https://www.fantasypros.com/nfl/news/622982/derrick-henry-concussion-off-injury-report-week-12.php",
+      "player_id": 15514,
       "sport_id": "NFL",
-      "team_id": "ATL",
-      "title": "Matthew Bergeron (back) ruled out for Week 12"
+      "team_id": "BAL",
+      "title": "Derrick Henry (concussion) off injury report for Week 12"
     },
     {
       "author": "Ari Koslow",
@@ -441,16 +387,70 @@
         "News",
         "Injury"
       ],
-      "created": "2026-11-27 19:07:40",
-      "created_formated": "Fri, Nov 27th 7:07pm UTC",
-      "desc": "Cole Holcomb has been ruled out for Friday's game against the Broncos. ",
-      "id": 622914,
-      "impact": "Holcomb suffered a heel injury in last week's loss to the Eagles. He will be sidelined after being listed as questionable. ",
-      "link": "https://www.fantasypros.com/nfl/news/622914/cole-holcomb-heel-ruled-out-week-12.php",
-      "player_id": 18709,
+      "created": "2026-11-27 21:55:59",
+      "created_formated": "Fri, Nov 27th 9:55pm UTC",
+      "desc": "Zay Flowers is off the injury report for Sunday's game against the Texans. ",
+      "id": 622981,
+      "impact": "Flowers will be a full-go for the Ravens. He will remain a borderline WR1/WR2 with Jacoby Brissett behind center. ",
+      "link": "https://www.fantasypros.com/nfl/news/622981/zay-flowers-ankle-off-injury-report-week-12.php",
+      "player_id": 22916,
       "sport_id": "NFL",
-      "team_id": "PIT",
-      "title": "Cole Holcomb (heel) ruled out for Week 12"
+      "team_id": "BAL",
+      "title": "Zay Flowers (ankle) off injury report for Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-27 21:55:07",
+      "created_formated": "Fri, Nov 27th 9:55pm UTC",
+      "desc": "Rashod Bateman is off the injury report for Sunday's game against the Texans. ",
+      "id": 622980,
+      "impact": "Bateman hauled in a touchdown last week. He will remain an upside WR4 for fantasy managers. ",
+      "link": "https://www.fantasypros.com/nfl/news/622980/rashod-bateman-groin-off-injury-report-week-12.php",
+      "player_id": 19794,
+      "sport_id": "NFL",
+      "team_id": "BAL",
+      "title": "Rashod Bateman (groin) off injury report for Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-27 21:53:57",
+      "created_formated": "Fri, Nov 27th 9:53pm UTC",
+      "desc": "Jakobi Meyers is off the injury report for Sunday's game against the Titans. ",
+      "id": 622979,
+      "impact": "Meyers will figure to step into a bigger role with Parker Washington ruled out for the Jaguars. ",
+      "link": "https://www.fantasypros.com/nfl/news/622979/jakobi-meyers-ankle-off-injury-report-week-12.php",
+      "player_id": 18598,
+      "sport_id": "NFL",
+      "team_id": "JAC",
+      "title": "Jakobi Meyers (ankle) off injury report for Week 12"
+    },
+    {
+      "author": "Ari Koslow",
+      "categories": [
+        "Commentary",
+        "News",
+        "Injury"
+      ],
+      "created": "2026-11-27 21:53:14",
+      "created_formated": "Fri, Nov 27th 9:53pm UTC",
+      "desc": "Treylon Burks is off the injury report for Sunday's game against the Cardinals. ",
+      "id": 622978,
+      "impact": "Burks has struggled the past couple of weeks. He will be an upside WR4 play for fantasy managers. ",
+      "link": "https://www.fantasypros.com/nfl/news/622978/treylon-burks-foot-off-injury-report-week-12.php",
+      "player_id": 22905,
+      "sport_id": "NFL",
+      "team_id": "WAS",
+      "title": "Treylon Burks (foot) off injury report for Week 12"
     }
   ],
   "public_api": true,

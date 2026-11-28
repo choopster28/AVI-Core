@@ -2037,17 +2037,18 @@
       }
     },
     {
-      "average": 7.5,
+      "average": 7.8,
       "filename": "zach-allen.php",
-      "games": 10,
+      "games": 11,
       "player_id": 18221,
       "player_name": "Zach Allen",
-      "points": 74.5,
+      "points": 85.25,
       "position_id": "DE",
       "team_id": "DEN",
       "weeks": {
         "1": 19,
         "11": 9.5,
+        "12": 10.8,
         "2": 1.5,
         "3": 8.8,
         "4": 5.3,
@@ -2059,17 +2060,18 @@
       }
     },
     {
-      "average": 7.3,
+      "average": 7.9,
       "filename": "nik-bonitto.php",
-      "games": 10,
+      "games": 11,
       "player_id": 23763,
       "player_name": "Nik Bonitto",
-      "points": 73.25,
+      "points": 86.75,
       "position_id": "DE",
       "team_id": "DEN",
       "weeks": {
         "1": 2.3,
         "11": 4.3,
+        "12": 13.5,
         "2": 0,
         "3": 8.8,
         "4": 3.8,
@@ -2556,16 +2558,17 @@
       }
     },
     {
-      "average": 6.9,
+      "average": 6,
       "filename": "jonathon-cooper.php",
-      "games": 4,
+      "games": 5,
       "player_id": 22821,
       "player_name": "Jonathon Cooper",
-      "points": 27.75,
+      "points": 30,
       "position_id": "DE",
       "team_id": "DEN",
       "weeks": {
         "11": 18.3,
+        "12": 2.3,
         "7": 0.8,
         "8": 3,
         "9": 5.8
